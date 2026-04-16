@@ -1,0 +1,904 @@
+{
+  "scan_time": "2026-04-16 13:10:36",
+  "scan_time_iso": "2026-04-16T13:10:36.455411",
+  "source_stats": {
+    "네이버 엔터 랭킹 (많이 본)": 5,
+    "네이버 엔터 랭킹 (5분 많이 본)": 1,
+    "네이버 스포츠 메인": 4
+  },
+  "total_articles": 10,
+  "total_topics_generated": 17,
+  "excluded_duplicates": 0,
+  "valid_topics": 17,
+  "articles": [
+    {
+      "title": "'국민 여동생' 문근영 \"마흔 됐다\"... 완치 후 근황",
+      "source": "네이버 엔터 랭킹 (많이 본)",
+      "url": "http://test",
+      "category": "연예"
+    },
+    {
+      "title": "이상민, 69억 빚 완납 발표 \"힘들었지만 감사\"",
+      "source": "네이버 엔터 랭킹 (많이 본)",
+      "url": "http://test",
+      "category": "연예"
+    },
+    {
+      "title": "손흥민 시즌 18호골 폭발... MLS 이적설 재점화",
+      "source": "네이버 스포츠 메인",
+      "url": "http://test",
+      "category": "스포츠"
+    },
+    {
+      "title": "송혜교, 8년만 복귀작 공개",
+      "source": "네이버 엔터 랭킹 (5분 많이 본)",
+      "url": "http://test",
+      "category": "연예"
+    },
+    {
+      "title": "이정후 MLB 데뷔 3홈런... 연봉 1484억 값 할까",
+      "source": "네이버 스포츠 메인",
+      "url": "http://test",
+      "category": "스포츠"
+    },
+    {
+      "title": "탑스타 A씨, 100억 투자 사기 피해 고발",
+      "source": "네이버 엔터 랭킹 (많이 본)",
+      "url": "http://test",
+      "category": "연예"
+    },
+    {
+      "title": "BTS 정국 군 제대... 3,000억 재계약 임박",
+      "source": "네이버 엔터 랭킹 (많이 본)",
+      "url": "http://test",
+      "category": "연예"
+    },
+    {
+      "title": "김광현 KBO 복귀... 연봉 80억 역대 최고",
+      "source": "네이버 스포츠 메인",
+      "url": "http://test",
+      "category": "스포츠"
+    },
+    {
+      "title": "차범근, 손자 차노아 K리그 데뷔전 참관",
+      "source": "네이버 스포츠 메인",
+      "url": "http://test",
+      "category": "스포츠"
+    },
+    {
+      "title": "탁재훈, 방송 복귀 3년 만에 자산 10배 폭증",
+      "source": "네이버 엔터 랭킹 (많이 본)",
+      "url": "http://test",
+      "category": "연예"
+    }
+  ],
+  "topics": [
+    {
+      "title": "MLB 대박 vs 쪽박 선수 몸값 반전 TOP10",
+      "angle_type": "스포츠·몸값",
+      "seed": "뷔 MLB",
+      "template": "선수 몸값",
+      "score": 9.7,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "이정후 MLB 데뷔 3홈런... 연봉 1484억 값 할까",
+      "source_name": "네이버 스포츠 메인",
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "당시 몸값",
+          "현재 평가"
+        ],
+        "tsv": "선수\t소속팀\t당시 몸값\t현재 평가\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "1484억 넘는 스타들 자산 서열 TOP10",
+      "angle_type": "금액·자산",
+      "seed": "뷔 1484억",
+      "template": "자산 서열",
+      "score": 9.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "이정후 MLB 데뷔 3홈런... 연봉 1484억 값 할까",
+      "source_name": "네이버 스포츠 메인",
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ],
+        "tsv": "이름\t주요 수입원\t추정 자산\t자산 특이점\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "알려지지 않은 연예인 숨은 자산 TOP10",
+      "angle_type": "금액·자산",
+      "seed": "자산 언급",
+      "template": "자산 서열",
+      "score": 9.2,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "김광현 KBO 복귀... 연봉 80억 역대 최고",
+      "source_name": "네이버 스포츠 메인",
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ],
+        "tsv": "이름\t주요 수입원\t추정 자산\t자산 특이점\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "알려지지 않은 연예인 숨은 자산 TOP10",
+      "angle_type": "금액·자산",
+      "seed": "자산 언급",
+      "template": "자산 서열",
+      "score": 9.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "탑스타 A씨, 100억 투자 사기 피해 고발",
+      "source_name": "네이버 엔터 랭킹 (많이 본)",
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ],
+        "tsv": "이름\t주요 수입원\t추정 자산\t자산 특이점\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "69억 넘는 스타들 자산 서열 TOP10",
+      "angle_type": "금액·자산",
+      "seed": "이상민 69억",
+      "template": "자산 서열",
+      "score": 8.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "이상민, 69억 빚 완납 발표 \"힘들었지만 감사\"",
+      "source_name": "네이버 엔터 랭킹 (많이 본)",
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ],
+        "tsv": "이름\t주요 수입원\t추정 자산\t자산 특이점\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "연예계 사기 사건 연루된 스타 TOP10",
+      "angle_type": "논란",
+      "seed": "사기 이슈",
+      "template": "논란 집합",
+      "score": 8.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "탑스타 A씨, 100억 투자 사기 피해 고발",
+      "source_name": "네이버 엔터 랭킹 (많이 본)",
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ],
+        "tsv": "이름\t소속·직업\t논란 내용\t현재 상황\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "긴 공백 깨고 돌아온 스타 TOP10",
+      "angle_type": "복귀",
+      "seed": "복귀 언급",
+      "template": "장기 공백 복귀",
+      "score": 8.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "김광현 KBO 복귀... 연봉 80억 역대 최고",
+      "source_name": "네이버 스포츠 메인",
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ],
+        "tsv": "이름\t공백 기간\t공백 사유\t복귀 작품\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "3,000억 넘는 스타들 자산 서열 TOP10",
+      "angle_type": "금액·자산",
+      "seed": "정국 3,000억",
+      "template": "자산 서열",
+      "score": 7.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "BTS 정국 군 제대... 3,000억 재계약 임박",
+      "source_name": "네이버 엔터 랭킹 (많이 본)",
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ],
+        "tsv": "이름\t주요 수입원\t추정 자산\t자산 특이점\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "골 관련 역대급 기록 TOP10",
+      "angle_type": "스포츠·기록",
+      "seed": "골 기록",
+      "template": "스포츠 기록",
+      "score": 7.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "손흥민 시즌 18호골 폭발... MLS 이적설 재점화",
+      "source_name": "네이버 스포츠 메인",
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ],
+        "tsv": "선수\t소속팀\t기록 내용\t기록 가치\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "긴 공백 깨고 돌아온 스타 TOP10",
+      "angle_type": "복귀",
+      "seed": "탁재훈 복귀",
+      "template": "장기 공백 복귀",
+      "score": 7.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "탁재훈, 방송 복귀 3년 만에 자산 10배 폭증",
+      "source_name": "네이버 엔터 랭킹 (많이 본)",
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ],
+        "tsv": "이름\t공백 기간\t공백 사유\t복귀 작품\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "올해 40세 동갑 톱스타 자산 TOP10",
+      "angle_type": "나이",
+      "seed": "문근영 40세 언급",
+      "template": "동갑내기",
+      "score": 6.9,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "'국민 여동생' 문근영 \"마흔 됐다\"... 완치 후 근황",
+      "source_name": "네이버 엔터 랭킹 (많이 본)",
+      "table": {
+        "headers": [
+          "이름",
+          "나이",
+          "대표작",
+          "추정 자산"
+        ],
+        "tsv": "이름\t나이\t대표작\t추정 자산\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "40대 맞은 스타들, 지금 몸값과 근황 TOP10",
+      "angle_type": "나이",
+      "seed": "40대 진입",
+      "template": "연령대 근황",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "'국민 여동생' 문근영 \"마흔 됐다\"... 완치 후 근황",
+      "source_name": "네이버 엔터 랭킹 (많이 본)",
+      "table": {
+        "headers": [
+          "이름",
+          "나이",
+          "데뷔년도",
+          "현재 활동"
+        ],
+        "tsv": "이름\t나이\t데뷔년도\t현재 활동\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "희귀병·중병 이겨내고 복귀한 스타 TOP10",
+      "angle_type": "질병·복귀",
+      "seed": "문근영 완치",
+      "template": "투병 극복",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "'국민 여동생' 문근영 \"마흔 됐다\"... 완치 후 근황",
+      "source_name": "네이버 엔터 랭킹 (많이 본)",
+      "table": {
+        "headers": [
+          "이름",
+          "투병 질환",
+          "공백기",
+          "복귀 작품"
+        ],
+        "tsv": "이름\t투병 질환\t공백기\t복귀 작품\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "긴 공백 깨고 돌아온 스타 TOP10",
+      "angle_type": "복귀",
+      "seed": "송혜교 복귀",
+      "template": "장기 공백 복귀",
+      "score": 6.2,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "송혜교, 8년만 복귀작 공개",
+      "source_name": "네이버 엔터 랭킹 (5분 많이 본)",
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ],
+        "tsv": "이름\t공백 기간\t공백 사유\t복귀 작품\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "역대 '국민 여동생' 계보 현재 근황 TOP10",
+      "angle_type": "별명·계보",
+      "seed": "국민 여동생 계보",
+      "template": "별명 계보",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "'국민 여동생' 문근영 \"마흔 됐다\"... 완치 후 근황",
+      "source_name": "네이버 엔터 랭킹 (많이 본)",
+      "table": {
+        "headers": [
+          "이름",
+          "활동 시기",
+          "대표작",
+          "현재 근황"
+        ],
+        "tsv": "이름\t활동 시기\t대표작\t현재 근황\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "뷔과 연결된 연예계 인맥·관계 TOP10",
+      "angle_type": "인물 인맥",
+      "seed": "뷔",
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "차범근, 손자 차노아 K리그 데뷔전 참관",
+      "source_name": "네이버 스포츠 메인",
+      "table": {
+        "headers": [
+          "인물A",
+          "인물B",
+          "관계",
+          "연결 에피소드"
+        ],
+        "tsv": "인물A\t인물B\t관계\t연결 에피소드\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    }
+  ],
+  "all_topics": [
+    {
+      "title": "MLB 대박 vs 쪽박 선수 몸값 반전 TOP10",
+      "angle_type": "스포츠·몸값",
+      "seed": "뷔 MLB",
+      "template": "선수 몸값",
+      "score": 9.7,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "이정후 MLB 데뷔 3홈런... 연봉 1484억 값 할까",
+      "source_name": "네이버 스포츠 메인",
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "당시 몸값",
+          "현재 평가"
+        ],
+        "tsv": "선수\t소속팀\t당시 몸값\t현재 평가\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "1484억 넘는 스타들 자산 서열 TOP10",
+      "angle_type": "금액·자산",
+      "seed": "뷔 1484억",
+      "template": "자산 서열",
+      "score": 9.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "이정후 MLB 데뷔 3홈런... 연봉 1484억 값 할까",
+      "source_name": "네이버 스포츠 메인",
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ],
+        "tsv": "이름\t주요 수입원\t추정 자산\t자산 특이점\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "알려지지 않은 연예인 숨은 자산 TOP10",
+      "angle_type": "금액·자산",
+      "seed": "자산 언급",
+      "template": "자산 서열",
+      "score": 9.2,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "김광현 KBO 복귀... 연봉 80억 역대 최고",
+      "source_name": "네이버 스포츠 메인",
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ],
+        "tsv": "이름\t주요 수입원\t추정 자산\t자산 특이점\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "알려지지 않은 연예인 숨은 자산 TOP10",
+      "angle_type": "금액·자산",
+      "seed": "자산 언급",
+      "template": "자산 서열",
+      "score": 9.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "탑스타 A씨, 100억 투자 사기 피해 고발",
+      "source_name": "네이버 엔터 랭킹 (많이 본)",
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ],
+        "tsv": "이름\t주요 수입원\t추정 자산\t자산 특이점\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "69억 넘는 스타들 자산 서열 TOP10",
+      "angle_type": "금액·자산",
+      "seed": "이상민 69억",
+      "template": "자산 서열",
+      "score": 8.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "이상민, 69억 빚 완납 발표 \"힘들었지만 감사\"",
+      "source_name": "네이버 엔터 랭킹 (많이 본)",
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ],
+        "tsv": "이름\t주요 수입원\t추정 자산\t자산 특이점\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "연예계 사기 사건 연루된 스타 TOP10",
+      "angle_type": "논란",
+      "seed": "사기 이슈",
+      "template": "논란 집합",
+      "score": 8.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "탑스타 A씨, 100억 투자 사기 피해 고발",
+      "source_name": "네이버 엔터 랭킹 (많이 본)",
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ],
+        "tsv": "이름\t소속·직업\t논란 내용\t현재 상황\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "긴 공백 깨고 돌아온 스타 TOP10",
+      "angle_type": "복귀",
+      "seed": "복귀 언급",
+      "template": "장기 공백 복귀",
+      "score": 8.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "김광현 KBO 복귀... 연봉 80억 역대 최고",
+      "source_name": "네이버 스포츠 메인",
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ],
+        "tsv": "이름\t공백 기간\t공백 사유\t복귀 작품\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "3,000억 넘는 스타들 자산 서열 TOP10",
+      "angle_type": "금액·자산",
+      "seed": "정국 3,000억",
+      "template": "자산 서열",
+      "score": 7.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "BTS 정국 군 제대... 3,000억 재계약 임박",
+      "source_name": "네이버 엔터 랭킹 (많이 본)",
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ],
+        "tsv": "이름\t주요 수입원\t추정 자산\t자산 특이점\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "골 관련 역대급 기록 TOP10",
+      "angle_type": "스포츠·기록",
+      "seed": "골 기록",
+      "template": "스포츠 기록",
+      "score": 7.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "손흥민 시즌 18호골 폭발... MLS 이적설 재점화",
+      "source_name": "네이버 스포츠 메인",
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ],
+        "tsv": "선수\t소속팀\t기록 내용\t기록 가치\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "긴 공백 깨고 돌아온 스타 TOP10",
+      "angle_type": "복귀",
+      "seed": "탁재훈 복귀",
+      "template": "장기 공백 복귀",
+      "score": 7.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "탁재훈, 방송 복귀 3년 만에 자산 10배 폭증",
+      "source_name": "네이버 엔터 랭킹 (많이 본)",
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ],
+        "tsv": "이름\t공백 기간\t공백 사유\t복귀 작품\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "올해 40세 동갑 톱스타 자산 TOP10",
+      "angle_type": "나이",
+      "seed": "문근영 40세 언급",
+      "template": "동갑내기",
+      "score": 6.9,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "'국민 여동생' 문근영 \"마흔 됐다\"... 완치 후 근황",
+      "source_name": "네이버 엔터 랭킹 (많이 본)",
+      "table": {
+        "headers": [
+          "이름",
+          "나이",
+          "대표작",
+          "추정 자산"
+        ],
+        "tsv": "이름\t나이\t대표작\t추정 자산\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "40대 맞은 스타들, 지금 몸값과 근황 TOP10",
+      "angle_type": "나이",
+      "seed": "40대 진입",
+      "template": "연령대 근황",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "'국민 여동생' 문근영 \"마흔 됐다\"... 완치 후 근황",
+      "source_name": "네이버 엔터 랭킹 (많이 본)",
+      "table": {
+        "headers": [
+          "이름",
+          "나이",
+          "데뷔년도",
+          "현재 활동"
+        ],
+        "tsv": "이름\t나이\t데뷔년도\t현재 활동\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "희귀병·중병 이겨내고 복귀한 스타 TOP10",
+      "angle_type": "질병·복귀",
+      "seed": "문근영 완치",
+      "template": "투병 극복",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "'국민 여동생' 문근영 \"마흔 됐다\"... 완치 후 근황",
+      "source_name": "네이버 엔터 랭킹 (많이 본)",
+      "table": {
+        "headers": [
+          "이름",
+          "투병 질환",
+          "공백기",
+          "복귀 작품"
+        ],
+        "tsv": "이름\t투병 질환\t공백기\t복귀 작품\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "긴 공백 깨고 돌아온 스타 TOP10",
+      "angle_type": "복귀",
+      "seed": "송혜교 복귀",
+      "template": "장기 공백 복귀",
+      "score": 6.2,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "송혜교, 8년만 복귀작 공개",
+      "source_name": "네이버 엔터 랭킹 (5분 많이 본)",
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ],
+        "tsv": "이름\t공백 기간\t공백 사유\t복귀 작품\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "역대 '국민 여동생' 계보 현재 근황 TOP10",
+      "angle_type": "별명·계보",
+      "seed": "국민 여동생 계보",
+      "template": "별명 계보",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "'국민 여동생' 문근영 \"마흔 됐다\"... 완치 후 근황",
+      "source_name": "네이버 엔터 랭킹 (많이 본)",
+      "table": {
+        "headers": [
+          "이름",
+          "활동 시기",
+          "대표작",
+          "현재 근황"
+        ],
+        "tsv": "이름\t활동 시기\t대표작\t현재 근황\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "뷔과 연결된 연예계 인맥·관계 TOP10",
+      "angle_type": "인물 인맥",
+      "seed": "뷔",
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "차범근, 손자 차노아 K리그 데뷔전 참관",
+      "source_name": "네이버 스포츠 메인",
+      "table": {
+        "headers": [
+          "인물A",
+          "인물B",
+          "관계",
+          "연결 에피소드"
+        ],
+        "tsv": "인물A\t인물B\t관계\t연결 에피소드\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    },
+    {
+      "title": "건강 때문에 장기 공백 거친 스타들 현재는? TOP10",
+      "angle_type": "질병·근황",
+      "seed": "투병 후 근황",
+      "template": "투병 근황",
+      "score": 5.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "source_article": "'국민 여동생' 문근영 \"마흔 됐다\"... 완치 후 근황",
+      "source_name": "네이버 엔터 랭킹 (많이 본)",
+      "table": {
+        "headers": [
+          "이름",
+          "투병 질환",
+          "당시 상황",
+          "현재 근황"
+        ],
+        "tsv": "이름\t투병 질환\t당시 상황\t현재 근황\n1위\t\t\t\n2위\t\t\t\n3위\t\t\t\n4위\t\t\t\n5위\t\t\t\n6위\t\t\t\n7위\t\t\t\n8위\t\t\t\n9위\t\t\t\n10위\t\t\t"
+      }
+    }
+  ]
+}
