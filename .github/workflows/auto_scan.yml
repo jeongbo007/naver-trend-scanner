@@ -1,0 +1,56 @@
+name: Naver Trend Scanner
+
+on:
+  schedule:
+    # KST 05:00 = UTC 20:00 (전날)
+    # KST 09:00 = UTC 00:00
+    # KST 14:00 = UTC 05:00
+    # KST 18:00 = UTC 09:00
+    # KST 23:00 = UTC 14:00
+    - cron: '0 20 * * *'
+    - cron: '0 0 * * *'
+    - cron: '0 5 * * *'
+    - cron: '0 9 * * *'
+    - cron: '0 14 * * *'
+  
+  # 수동 실행 버튼 (필요시 즉시 스캔)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+      
+      - name: Python 3.11 설치
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: 의존성 설치
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: 스캔 실행
+        run: python scanner.py
+      
+      - name: 결과 커밋 & 푸시
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/
+          if git diff --staged --quiet; then
+            echo "변경사항 없음"
+          else
+            KST_TIME=$(TZ='Asia/Seoul' date '+%Y-%m-%d %H:%M')
+            git commit -m "🤖 자동 스캔: $KST_TIME KST"
+            git push
+          fi
