@@ -191,7 +191,7 @@ function renderTopicCard(topic, idx, isCross = false) {
       </div>
       ${sourceInfo}
       ${matchInfo}
-      ${tableHtml ? `<div class="table-preview" id="table-${topicId}">${tableHtml}</div>` : ""}
+      `<div class="table-preview" id="table-${topicId}" style="display:none;"></div>`
       <div class="btn-row">
         <button class="btn-copy gemini-btn" onclick="fillTableWithGemini('${topicId}', '${esc(topic.title||'')}', '${esc((topic.table||{}).headers?.join(',')||'')}')">🤖 표 채우기 (Gemini)</button>
         <button class="btn-copy" onclick="copyTable('${topicId}')">📋 표 복사 (캔바용)</button>
@@ -310,6 +310,7 @@ async function fillTableWithGemini(topicId, topicTitle, headersStr) {
 
     // 표 업데이트
     const tableContainer = document.getElementById(`table-${topicId}`);
+    if (tableContainer) tableContainer.style.display = "block";
     if (tableContainer) {
       const filledData = {
         top10: parsed.top10 || [],
