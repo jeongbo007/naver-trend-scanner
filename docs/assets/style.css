@@ -398,3 +398,19 @@ body {
   .main { padding: 20px 14px 60px; }
   .topic-title { font-size: 14px; }
 }
+
+/* ===== Gemini Button ===== */
+.gemini-btn {
+  background: linear-gradient(135deg, #4285f4, #34a853) !important;
+  color: white !important;
+  font-weight: 700;
+}
+.gemini-btn:hover {
+  background: linear-gradient(135deg, #3367d6, #2d9649) !important;
+  transform: translateY(-1px);
+}
+.gemini-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  transform: none !important;
+}
