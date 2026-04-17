@@ -191,7 +191,7 @@ function renderTopicCard(topic, idx, isCross = false) {
       </div>
       ${sourceInfo}
       ${matchInfo}
-      `<div class="table-preview" id="table-${topicId}" style="display:none;"></div>`
+      <div class="table-preview" id="table-${topicId}" style="display:none;"></div>
       <div class="btn-row">
         <button class="btn-copy gemini-btn" onclick="fillTableWithGemini('${topicId}', '${esc(topic.title||'')}', '${esc((topic.table||{}).headers?.join(',')||'')}')">🤖 표 채우기 (Gemini)</button>
         <button class="btn-copy" onclick="copyTable('${topicId}')">📋 표 복사 (캔바용)</button>
