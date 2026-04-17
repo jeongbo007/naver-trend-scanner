@@ -81,7 +81,7 @@ MALE_TARGET_KEYWORDS = {
     ],
 }
 
-MONTHS_THRESHOLD = 4
+MONTHS_THRESHOLD = 3
 MIN_VIEWS_FOR_REUSE = 80000
 
 
@@ -195,6 +195,7 @@ class NaverCrawler:
             articles.append({
                 "title": title,
                 "url": href,
+                "source_url": href,
                 "source": source["name"],
                 "category": source["category"],
             })
@@ -354,12 +355,15 @@ def check_duplicate(topic_title, history):
         pub_date = parse_published_date(best_match["published"])
         views = best_match["views"]
         can_reuse = False
-        if pub_date and (now - pub_date).days >= MONTHS_THRESHOLD * 30:
+        days_passed = (now - pub_date).days if pub_date else 0
+        # 3개월+ 경과 AND 8만+ 조회 → 재활용 (검증된 주제, 다시 터질 가능성 높음)
+        if days_passed >= MONTHS_THRESHOLD * 30 and views >= MIN_VIEWS_FOR_REUSE:
             can_reuse = True
-            result["reason"] = f"4개월+ 경과"
-        if views < MIN_VIEWS_FOR_REUSE:
+            result["reason"] = f"검증됨 {views:,}회, {days_passed}일 경과"
+        # 3개월+ 경과 AND 8만 미만 → 재활용 (실패했지만 기간 지남)
+        elif days_passed >= MONTHS_THRESHOLD * 30:
             can_reuse = True
-            result["reason"] = f"조회수 {views:,} (8만 미달)"
+            result["reason"] = f"기간 경과 {days_passed}일 (조회 {views:,})"
         if can_reuse:
             result["status"] = "재활용 가능"
         else:
@@ -444,6 +448,7 @@ def run_scan():
             topic["dup_check"] = check_duplicate(topic["title"], history)
             topic["source_article"] = article["title"]
             topic["source_name"] = article["source"]
+            topic["source_url"] = article.get("source_url", article.get("url", ""))
             topic["table"] = make_table(topic["template"])
             all_topics.append(topic)
 
