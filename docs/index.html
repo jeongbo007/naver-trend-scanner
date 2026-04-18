@@ -8,7 +8,6 @@
 <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
-
 <header class="header">
   <div class="header-inner">
     <div class="logo">
@@ -18,7 +17,7 @@
         <div class="logo-sub" id="lastScanTime">로딩 중...</div>
       </div>
     </div>
-    <div class="stats-grid" id="headerStats">
+    <div class="stats-grid">
       <div class="stat"><div class="stat-label">기사 수집</div><div class="stat-value" id="stat-articles">-</div></div>
       <div class="stat"><div class="stat-label">주제 생성</div><div class="stat-value" id="stat-topics">-</div></div>
       <div class="stat"><div class="stat-label">중복 제외</div><div class="stat-value" id="stat-dups">-</div></div>
@@ -28,50 +27,41 @@
 </header>
 
 <nav class="tabs">
-  <button class="tab active" data-tab="scheduled">🕐 정기 스캔</button>
+  <button class="tab active" data-tab="articles">📰 기사 랭킹 + 주제 제작</button>
   <button class="tab" data-tab="realtime">⚡ 실시간 분석</button>
-  <button class="tab" data-tab="cross">🎯 교차 추천</button>
   <button class="tab" data-tab="history">📜 히스토리</button>
   <button class="tab" data-tab="settings">⚙️ 설정</button>
 </nav>
 
 <main class="main">
 
-<!-- 탭 1: 정기 스캔 -->
-<section class="tab-panel active" id="tab-scheduled">
+<!-- 탭1: 기사 랭킹 + 주제 제작 -->
+<section class="tab-panel active" id="tab-articles">
   <div class="panel-header">
-    <h2>🔥 네이버 트렌드 기반 TOP 주제</h2>
-    <p class="panel-desc">🤖 표 채우기 버튼을 누르면 Gemini AI가 인물 10명 + 후보 5명을 자동 완성합니다.</p>
-    <div class="filter-bar">
-      <label>최소 점수: <input type="range" id="minScore" min="0" max="10" step="0.5" value="6"> <span id="minScoreLabel">6.0</span></label>
-      <label>앵글 타입: <select id="angleFilter"><option value="">전체</option></select></label>
-      <label><input type="checkbox" id="hideDups" checked> 중복 숨김</label>
-    </div>
+    <h2>📰 네이버 기사 랭킹 → 주제 제작</h2>
+    <p class="panel-desc">기사를 보고 <strong>🎯 주제 만들기</strong>를 누르세요. AI가 앵글을 제안하고, 수정 후 표를 채워드립니다.</p>
   </div>
 
-  <!-- 키워드/인물 빈도 분석 -->
-  <div id="keywordAnalysis" style="margin-bottom:24px;"></div>
+  <!-- 주제 분석 요약 -->
+  <div id="themeAnalysis" style="margin-bottom:20px;"></div>
 
-  <div id="topicsList" class="topics-list">
-    <div class="loading">로딩 중...</div>
-  </div>
+  <!-- 기사 목록 -->
+  <div id="articlesList"><div class="loading">로딩 중...</div></div>
 </section>
 
-<!-- 탭 2: 실시간 분석 -->
+<!-- 탭2: 실시간 분석 -->
 <section class="tab-panel" id="tab-realtime">
   <div class="panel-header">
     <h2>⚡ 실시간 채널 데이터 분석</h2>
-    <p class="panel-desc">YouTube Studio의 <strong>"실시간 업데이트 중"</strong> 데이터를 복사해서 아래에 붙여넣으세요.</p>
+    <p class="panel-desc">YouTube Studio <strong>"실시간 업데이트 중"</strong> 데이터를 붙여넣으세요.</p>
   </div>
   <div class="realtime-input-area">
-    <textarea id="realtimeInput" placeholder='제목
-날짜 (예: 2026. 4. 16.)
+    <textarea id="realtimeInput" placeholder="제목
+날짜
 48시간 조회수
-60분 조회수
-
-다음 영상...'></textarea>
+60분 조회수"></textarea>
     <div class="btn-row">
-      <button class="btn-primary" onclick="analyzeRealtime()">🔍 분석하기</button>
+      <button class="btn-primary" onclick="analyzeRealtime()">🔍 분석</button>
       <button class="btn-secondary" onclick="clearRealtime()">초기화</button>
       <button class="btn-tertiary" onclick="showRealtimeSample()">💡 샘플</button>
     </div>
@@ -79,59 +69,39 @@
   <div id="realtimeResult"></div>
 </section>
 
-<!-- 탭 3: 교차 추천 -->
-<section class="tab-panel" id="tab-cross">
-  <div class="panel-header">
-    <h2>🎯 네이버 × 내 채널 교차 추천</h2>
-    <p class="panel-desc">⚡ 실시간 분석 탭에서 데이터를 먼저 입력하세요.</p>
-  </div>
-  <div id="crossRecommendations" class="topics-list">
-    <div class="empty-state">📊 실시간 데이터를 입력하면 활성화됩니다.</div>
-  </div>
-</section>
-
-<!-- 탭 4: 히스토리 -->
+<!-- 탭3: 히스토리 -->
 <section class="tab-panel" id="tab-history">
   <div class="panel-header"><h2>📜 스캔 히스토리</h2></div>
   <div id="historyList"></div>
 </section>
 
-<!-- 탭 5: 설정 -->
+<!-- 탭4: 설정 -->
 <section class="tab-panel" id="tab-settings">
-  <div class="panel-header">
-    <h2>⚙️ 설정</h2>
-  </div>
-
-  <div style="background:white; border:1px solid var(--border); border-radius:12px; padding:20px; margin-bottom:20px;">
-    <h3 style="font-size:16px; margin-bottom:12px;">🔑 Gemini API 키</h3>
-    <p style="font-size:13px; color:var(--text-secondary); margin-bottom:12px; line-height:1.6;">
-      "표 채우기" 기능에 필요합니다. <a href="https://aistudio.google.com/apikey" target="_blank" style="color:var(--primary);">Google AI Studio</a>에서 키를 복사하세요.<br>
-      키는 브라우저에만 저장됩니다 (서버 전송 없음). 무료 티어로 하루 1,500건 사용 가능.
+  <div class="panel-header"><h2>⚙️ 설정</h2></div>
+  <div style="background:white;border:1px solid #e5e7eb;border-radius:12px;padding:20px;margin-bottom:20px;">
+    <h3 style="font-size:16px;margin-bottom:12px;">🔑 Gemini API 키</h3>
+    <p style="font-size:13px;color:#6b7280;margin-bottom:12px;line-height:1.6;">
+      "주제 만들기" + "표 채우기"에 필요합니다. <a href="https://aistudio.google.com/apikey" target="_blank" style="color:#4f46e5;">Google AI Studio</a>에서 복사.<br>
+      브라우저에만 저장 (서버 전송 없음). 무료 하루 1,500건.
     </p>
-    <div style="display:flex; gap:8px; align-items:center;">
-      <input type="password" id="geminiKeyInput" placeholder="Gemini API 키 입력..." style="flex:1; padding:10px 14px; border:1px solid var(--border); border-radius:8px; font-size:14px; font-family:inherit;">
-      <button onclick="toggleKeyVisibility()" style="padding:10px; background:white; border:1px solid var(--border); border-radius:8px; cursor:pointer;">👁️</button>
-      <button onclick="saveGeminiKey()" class="btn-primary" style="white-space:nowrap;">💾 저장</button>
-    </div>
-    <div style="margin-top:10px; font-size:12px; color:var(--text-tertiary);">
-      ⚠️ Public 저장소이지만 API 키는 localStorage에만 저장되므로 외부 노출 없음
+    <div style="display:flex;gap:8px;align-items:center;">
+      <input type="password" id="geminiKeyInput" placeholder="API 키..." style="flex:1;padding:10px 14px;border:1px solid #d1d5db;border-radius:8px;font-size:14px;">
+      <button onclick="toggleKeyVisibility()" style="padding:10px;background:white;border:1px solid #d1d5db;border-radius:8px;cursor:pointer;">👁️</button>
+      <button onclick="saveGeminiKey()" style="padding:10px 20px;border-radius:8px;font-size:14px;font-weight:600;cursor:pointer;border:none;background:#4f46e5;color:white;">💾 저장</button>
     </div>
   </div>
-
-  <div style="background:white; border:1px solid var(--border); border-radius:12px; padding:20px;">
-    <h3 style="font-size:16px; margin-bottom:12px;">📊 시스템 정보</h3>
-    <div style="font-size:13px; line-height:2; color:var(--text-secondary);">
-      스캐너 버전: v3.0<br>
-      자동 스캔: 매일 05:00 / 09:00 / 14:00 / 18:00 / 23:00 KST<br>
-      채널 히스토리: 455개 영상<br>
-      중복 기준: 3개월 경과 또는 8만회 이상이면 재활용<br>
-      타겟: 30~50대 한국 남성
+  <div style="background:white;border:1px solid #e5e7eb;border-radius:12px;padding:20px;">
+    <h3 style="font-size:16px;margin-bottom:12px;">📊 시스템 정보</h3>
+    <div style="font-size:13px;line-height:2;color:#6b7280;">
+      스캐너: v4.0 · 자동 스캔: 05/09/14/18/23시 KST<br>
+      소스: 네이버 엔터 많이 본 30위 + 스포츠 많이 본 20위<br>
+      히스토리: 455개 영상 · 중복: 3개월+8만회 이상 재활용<br>
+      타겟: 30~50대 한국 남성 · Gemini 2.5 Flash-Lite (무료)
     </div>
   </div>
 </section>
 
 </main>
-
 <div id="toast" class="toast"></div>
 <script src="assets/app.js"></script>
 </body>
