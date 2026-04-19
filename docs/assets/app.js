@@ -1,479 +1,538 @@
-/* 정보주는 하마 트렌드 스캐너 v4.0 - 기사 기반 주제 제작 */
+/* ═══════════════════════════════════════
+   정보주는 하마 · 트렌드 스캐너 v4.0
+   app.js — 대시보드 로직
+   ═══════════════════════════════════════ */
 
-var STATE = { data: null, geminiKey: "" };
+(function () {
+  "use strict";
 
-document.addEventListener("DOMContentLoaded", function() {
-  setupTabs();
-  loadGeminiKey();
-  loadData();
-  loadHistory();
-});
+  // ── State ──
+  let scanData = null;
+  let currentFilter = "all";
+  let currentTableData = null; // { headers, rows }
 
-function setupTabs() {
-  var tabs = document.querySelectorAll(".tab");
-  for (var i = 0; i < tabs.length; i++) {
-    tabs[i].addEventListener("click", function() {
-      var t = this.dataset.tab;
-      var all = document.querySelectorAll(".tab");
-      var pans = document.querySelectorAll(".tab-panel");
-      for (var j = 0; j < all.length; j++) all[j].classList.remove("active");
-      for (var j = 0; j < pans.length; j++) pans[j].classList.remove("active");
-      this.classList.add("active");
-      document.getElementById("tab-" + t).classList.add("active");
+  // ── DOM ──
+  const $ = (sel) => document.querySelector(sel);
+  const $$ = (sel) => document.querySelectorAll(sel);
+
+  // ── Init ──
+  document.addEventListener("DOMContentLoaded", () => {
+    initTabs();
+    initSettings();
+    initModal();
+    initRealtime();
+    loadScanData();
+  });
+
+  // ═══════════════════════════════════════
+  // Tabs
+  // ═══════════════════════════════════════
+  function initTabs() {
+    $$(".tab").forEach((tab) => {
+      tab.addEventListener("click", () => {
+        $$(".tab").forEach((t) => t.classList.remove("active"));
+        $$(".tab-panel").forEach((p) => p.classList.remove("active"));
+        tab.classList.add("active");
+        $(`#panel-${tab.dataset.tab}`).classList.add("active");
+      });
     });
   }
-}
 
-function loadGeminiKey() {
-  try { STATE.geminiKey = localStorage.getItem("gemini_api_key") || ""; } catch(e) {}
-  var inp = document.getElementById("geminiKeyInput");
-  if (inp && STATE.geminiKey) inp.value = STATE.geminiKey;
-}
-function saveGeminiKey() {
-  var inp = document.getElementById("geminiKeyInput");
-  if (!inp) return;
-  STATE.geminiKey = inp.value.trim();
-  try { localStorage.setItem("gemini_api_key", STATE.geminiKey); } catch(e) {}
-  showToast(STATE.geminiKey ? "✅ API 키 저장" : "삭제됨");
-}
-function toggleKeyVisibility() {
-  var inp = document.getElementById("geminiKeyInput");
-  if (inp) inp.type = (inp.type === "password") ? "text" : "password";
-}
-
-/* ========== 데이터 로드 ========== */
-function loadData() {
-  fetch("data/latest.json?t=" + Date.now())
-    .then(function(r) { if (!r.ok) throw new Error(); return r.json(); })
-    .then(function(d) {
-      STATE.data = d;
-      document.getElementById("lastScanTime").textContent = "마지막 스캔: " + (d.scan_time || "-");
-      document.getElementById("stat-articles").textContent = d.total_articles || 0;
-      document.getElementById("stat-topics").textContent = d.total_topics_generated || 0;
-      document.getElementById("stat-dups").textContent = d.excluded_duplicates || 0;
-      document.getElementById("stat-final").textContent = (d.topics || []).length;
+  // ═══════════════════════════════════════
+  // Load scan data
+  // ═══════════════════════════════════════
+  async function loadScanData() {
+    try {
+      const r = await fetch("data/latest.json?t=" + Date.now());
+      if (!r.ok) throw new Error("No data");
+      scanData = await r.json();
+      renderStats();
+      renderTopics();
       renderArticles();
-      renderThemeAnalysis();
-    })
-    .catch(function() {
-      document.getElementById("lastScanTime").textContent = "데이터 없음";
-      document.getElementById("articlesList").innerHTML = '<div class="empty-state">⏳ 스캔 결과 없음</div>';
+      loadHistory();
+    } catch (e) {
+      console.error("Data load failed:", e);
+      $("#topicsList").innerHTML = `<div class="loading-placeholder">⚠ 스캔 데이터 없음. Actions에서 수동 실행하세요.</div>`;
+      $("#articlesList").innerHTML = `<div class="loading-placeholder">데이터 없음</div>`;
+    }
+  }
+
+  // ── Stats bar ──
+  function renderStats() {
+    if (!scanData) return;
+    $("#scanTime").textContent = scanData.scan_time || "-";
+    $("#statArticles").textContent = scanData.total_articles || 0;
+    $("#statTopics").textContent = (scanData.total_topics_generated || 0);
+    $("#statDup").textContent = scanData.excluded_duplicates || 0;
+    $("#statValid").textContent = scanData.valid_topics || 0;
+    // AI 분석 여부
+    if (scanData.ai_analyzed) {
+      $("#scanTime").textContent += " · 🤖 AI";
+    }
+  }
+
+  // ═══════════════════════════════════════
+  // AI 추천 주제
+  // ═══════════════════════════════════════
+  function renderTopics() {
+    const container = $("#topicsList");
+    const topics = scanData?.topics || [];
+    if (!topics.length) {
+      container.innerHTML = `<div class="loading-placeholder">추천 주제가 없습니다.</div>`;
+      return;
+    }
+
+    container.innerHTML = topics.map((t, i) => {
+      const conf = t.confidence || 0;
+      let badgeClass, badgeLabel;
+      if (conf >= 8) { badgeClass = "badge-fire"; badgeLabel = `🔥 ${conf}/10`; }
+      else if (conf >= 5) { badgeClass = "badge-good"; badgeLabel = `✅ ${conf}/10`; }
+      else { badgeClass = "badge-ok"; badgeLabel = `📌 ${conf}/10`; }
+      if (!t.ai_generated) { badgeClass = "badge-fallback"; badgeLabel = "📊 키워드"; }
+
+      // 관련 기사
+      const sources = (t.source_articles || []).map((s) => {
+        if (s.url) {
+          return `<a href="${escHtml(s.url)}" target="_blank" title="${escHtml(s.title)}">${truncate(s.title, 40)}</a>`;
+        }
+        return `<span>${truncate(s.title, 40)}</span>`;
+      }).join(" · ");
+
+      // 컬럼 태그
+      const cols = (t.table_columns || []).map((c) => `<span class="topic-tag">${escHtml(c)}</span>`).join("");
+
+      // 중복 체크
+      let dupHtml = "";
+      if (t.dup_check) {
+        if (t.dup_check.status === "재활용 가능") {
+          dupHtml = `<div class="topic-dup dup-reuse">♻️ ${escHtml(t.dup_check.reason)} — ${truncate(t.dup_check.matched_title, 30)}</div>`;
+        } else if (t.dup_check.status === "통과" && t.dup_check.matched_title) {
+          dupHtml = `<div class="topic-dup dup-ok">✅ 유사: ${truncate(t.dup_check.matched_title, 30)} (${t.dup_check.reason || '통과'})</div>`;
+        }
+      }
+
+      return `
+        <div class="topic-card" data-idx="${i}">
+          <div class="topic-top">
+            <div class="topic-title">${escHtml(t.title)}</div>
+            <span class="topic-badge ${badgeClass}">${badgeLabel}</span>
+          </div>
+          ${t.angle ? `<div class="topic-angle">💡 ${escHtml(t.angle)}</div>` : ""}
+          <div class="topic-meta">${cols}</div>
+          ${sources ? `<div class="topic-sources">📎 ${sources}</div>` : ""}
+          <div class="topic-actions">
+            <button class="btn btn-primary btn-sm" onclick="openTableModal(${i})">📝 표 채우기</button>
+            <button class="btn btn-ghost btn-sm" onclick="copyTopicTitle(${i})">📋 제목 복사</button>
+          </div>
+          ${dupHtml}
+        </div>`;
+    }).join("");
+  }
+
+  // ═══════════════════════════════════════
+  // 기사 목록
+  // ═══════════════════════════════════════
+  function renderArticles() {
+    const container = $("#articlesList");
+    let articles = scanData?.articles || [];
+    if (currentFilter !== "all") {
+      articles = articles.filter((a) => a.category === currentFilter);
+    }
+    if (!articles.length) {
+      container.innerHTML = `<div class="loading-placeholder">기사 없음</div>`;
+      return;
+    }
+
+    container.innerHTML = articles.map((a, i) => {
+      const catClass = a.category === "연예" ? "cat-ent" : "cat-sport";
+      const rankClass = a.rank <= 3 ? "top3" : "";
+      const views = a.views ? `${numberFormat(a.views)}회` : "";
+      const link = a.url
+        ? `<a href="${escHtml(a.url)}" target="_blank">${escHtml(a.title)}</a>`
+        : escHtml(a.title);
+
+      return `
+        <div class="article-row ${catClass}">
+          <div class="article-rank ${rankClass}">${a.rank}</div>
+          <div class="article-title-wrap">
+            <div class="article-title">${link}</div>
+            <div class="article-source">${escHtml(a.source)} · ${escHtml(a.category)}</div>
+          </div>
+          <div class="article-views">${views}</div>
+        </div>`;
+    }).join("");
+
+    // Filter buttons
+    $$(".filter-btn").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        $$(".filter-btn").forEach((b) => b.classList.remove("active"));
+        btn.classList.add("active");
+        currentFilter = btn.dataset.filter;
+        renderArticles();
+      });
     });
-}
-
-/* ========== 탭1: 기사 랭킹 + 주제 제작 ========== */
-function renderArticles() {
-  if (!STATE.data) return;
-  var arts = STATE.data.articles || [];
-  if (!arts.length) { document.getElementById("articlesList").innerHTML = '<div class="empty-state">기사 없음</div>'; return; }
-
-  // 카테고리 분리
-  var entArts = [], sportArts = [];
-  for (var i = 0; i < arts.length; i++) {
-    if (arts[i].category === "스포츠") sportArts.push(arts[i]);
-    else entArts.push(arts[i]);
   }
 
-  var html = '';
-
-  // 연예
-  html += '<h3 style="font-size:16px;margin-bottom:12px;">🎬 연예 많이 본 뉴스 (' + entArts.length + '개)</h3>';
-  html += renderArticleList(entArts, "ent");
-
-  // 스포츠
-  if (sportArts.length) {
-    html += '<h3 style="font-size:16px;margin:24px 0 12px;">⚾ 스포츠 많이 본 뉴스 (' + sportArts.length + '개)</h3>';
-    html += renderArticleList(sportArts, "sport");
+  // ═══════════════════════════════════════
+  // 표 채우기 모달
+  // ═══════════════════════════════════════
+  function initModal() {
+    $("#btnCloseModal").addEventListener("click", closeModal);
+    $("#tableModal").addEventListener("click", (e) => {
+      if (e.target === $("#tableModal")) closeModal();
+    });
+    $("#btnFillTable").addEventListener("click", fillTable);
+    $("#btnCopyTSV").addEventListener("click", () => copyTable("tsv"));
+    $("#btnCopyMarkdown").addEventListener("click", () => copyTable("md"));
   }
 
-  document.getElementById("articlesList").innerHTML = html;
-}
+  window.openTableModal = function (idx) {
+    const topic = scanData?.topics?.[idx];
+    if (!topic) return;
 
-function renderArticleList(arts, prefix) {
-  var html = '<div style="background:white;border:1px solid #e5e7eb;border-radius:12px;overflow:hidden;">';
-  for (var i = 0; i < arts.length; i++) {
-    var a = arts[i];
-    var url = a.url || "";
-    var views = a.views ? a.views.toLocaleString() + "회" : "";
-    var titleLink = url ? '<a href="' + esc(url) + '" target="_blank" style="color:#1f2937;text-decoration:none;font-weight:600;">' + esc(a.title) + '</a>' : '<span style="font-weight:600;">' + esc(a.title) + '</span>';
-    var artId = prefix + "_" + i;
+    $("#modalVideoTitle").value = topic.title || "";
+    $("#modalResearch").value = topic.research_instruction || "";
+    $("#modalColumns").value = (topic.table_columns || []).join(", ");
+    $("#modalTitle").textContent = "📝 표 채우기";
+    $("#tableResult").innerHTML = "";
+    $("#tableCopyArea").style.display = "none";
+    $("#tableLoading").style.display = "none";
+    currentTableData = null;
 
-    html += '<div style="padding:12px 16px;border-bottom:1px solid #f3f4f6;">' +
-      '<div style="display:flex;align-items:flex-start;gap:12px;">' +
-        '<div style="min-width:28px;height:28px;border-radius:8px;background:' + (i < 3 ? 'linear-gradient(135deg,#ef4444,#dc2626)' : (i < 10 ? '#4f46e5' : '#9ca3af')) + ';display:flex;align-items:center;justify-content:center;color:white;font-weight:800;font-size:12px;">' + (a.rank || (i+1)) + '</div>' +
-        '<div style="flex:1;min-width:0;">' +
-          '<div style="font-size:14px;line-height:1.5;margin-bottom:4px;">' + titleLink + '</div>' +
-          '<div style="display:flex;gap:12px;align-items:center;">' +
-            (views ? '<span style="font-size:12px;color:#d97706;font-weight:600;">👁 ' + views + '</span>' : '') +
-            '<span style="font-size:11px;color:#9ca3af;">' + esc(a.source || "") + '</span>' +
-          '</div>' +
-        '</div>' +
-        '<button onclick="openTopicCreator(\'' + artId + '\',\'' + esc(a.title) + '\',\'' + esc(url) + '\')" style="padding:6px 14px;border-radius:8px;font-size:12px;font-weight:600;cursor:pointer;border:none;background:linear-gradient(135deg,#4285f4,#34a853);color:white;white-space:nowrap;">🎯 주제 만들기</button>' +
-      '</div>' +
-      '<div id="creator_' + artId + '" style="display:none;"></div>' +
-    '</div>';
-  }
-  html += '</div>';
-  return html;
-}
-
-/* ========== 주제 제작 패널 ========== */
-function openTopicCreator(artId, articleTitle, articleUrl) {
-  var container = document.getElementById("creator_" + artId);
-  if (!container) return;
-
-  // 이미 열려있으면 닫기
-  if (container.style.display === "block") {
-    container.style.display = "none";
-    return;
-  }
-
-  container.style.display = "block";
-  container.innerHTML = '<div style="margin-top:12px;padding:16px;background:#f8fafc;border-radius:10px;border:1px solid #e5e7eb;">' +
-    '<div style="font-size:13px;color:#6b7280;margin-bottom:12px;">📰 원본: ' + esc(articleTitle) + '</div>' +
-
-    '<div style="margin-bottom:12px;">' +
-      '<button onclick="suggestAngles(\'' + artId + '\',\'' + esc(articleTitle) + '\')" style="padding:8px 16px;border-radius:8px;font-size:13px;font-weight:600;cursor:pointer;border:none;background:#7c3aed;color:white;">🤖 AI 앵글 제안받기</button>' +
-      '<span style="font-size:12px;color:#9ca3af;margin-left:8px;">또는 아래에 직접 입력</span>' +
-    '</div>' +
-    '<div id="suggestions_' + artId + '" style="margin-bottom:12px;"></div>' +
-
-    '<div style="margin-bottom:8px;">' +
-      '<label style="font-size:12px;font-weight:600;color:#374151;">영상 주제 (수정 가능)</label>' +
-      '<input id="topic_' + artId + '" type="text" placeholder="예: KBO 선수 음주운전 징계 TOP10" style="width:100%;padding:10px 12px;border:1px solid #d1d5db;border-radius:8px;font-size:14px;margin-top:4px;box-sizing:border-box;">' +
-    '</div>' +
-
-    '<div style="margin-bottom:8px;">' +
-      '<label style="font-size:12px;font-weight:600;color:#374151;">리서치 지시 (AI에게 구체적으로)</label>' +
-      '<textarea id="instruction_' + artId + '" placeholder="예: KBO에서 음주운전으로 적발된 선수들을 조사해서, 적발 횟수가 많은 순으로 정리해줘. 징계 내용과 현재 활동 여부도 포함." style="width:100%;padding:10px 12px;border:1px solid #d1d5db;border-radius:8px;font-size:13px;min-height:70px;margin-top:4px;box-sizing:border-box;resize:vertical;"></textarea>' +
-    '</div>' +
-
-    '<div style="margin-bottom:12px;">' +
-      '<label style="font-size:12px;font-weight:600;color:#374151;">표 컬럼 (쉼표로 구분, 수정 가능)</label>' +
-      '<input id="columns_' + artId + '" type="text" value="이름,소속·직업,이슈 내용,현재 상황" style="width:100%;padding:10px 12px;border:1px solid #d1d5db;border-radius:8px;font-size:13px;margin-top:4px;box-sizing:border-box;">' +
-    '</div>' +
-
-    '<div style="display:flex;gap:8px;">' +
-      '<button onclick="generateTable(\'' + artId + '\')" style="padding:10px 20px;border-radius:8px;font-size:14px;font-weight:700;cursor:pointer;border:none;background:linear-gradient(135deg,#4285f4,#34a853);color:white;">🤖 표 채우기</button>' +
-    '</div>' +
-
-    '<div id="result_' + artId + '" style="margin-top:12px;"></div>' +
-  '</div>';
-}
-
-/* AI 앵글 제안 */
-function suggestAngles(artId, articleTitle) {
-  if (!STATE.geminiKey) { showToast("⚠️ 설정에서 API 키를 입력하세요"); return; }
-
-  var container = document.getElementById("suggestions_" + artId);
-  container.innerHTML = '<div style="padding:8px;color:#6b7280;font-size:13px;">⏳ AI가 앵글 분석 중...</div>';
-
-  var prompt = '당신은 한국 유튜브 채널 "정보주는 하마"의 콘텐츠 기획자입니다.\n' +
-    '타겟: 한국 남성 30~50대\n' +
-    '채널 스타일: 연예인/스포츠 TOP10 숏츠 (6분 내외)\n' +
-    '히트 제목 패턴: 따옴표 인용 + 구체 금액/숫자 + 의문문(?)\n\n' +
-    '아래 뉴스 기사를 보고, 이 기사에서 파생할 수 있는 구체적인 TOP10 영상 주제를 3개 제안하세요.\n\n' +
-    '기사: "' + articleTitle + '"\n\n' +
-    '각 제안에 포함할 것:\n' +
-    '1. 영상 제목 (채널 히트 패턴 적용)\n' +
-    '2. 어떤 인물/선수를 모아야 하는지 1줄 설명\n' +
-    '3. 추천 표 컬럼 (4개)\n\n' +
-    '반드시 JSON만 응답:\n' +
-    '[{"title":"영상 제목","description":"어떤 인물을 모을지","columns":"컬럼1,컬럼2,컬럼3,컬럼4"},...]';
-
-  callGemini(prompt, function(text) {
-    try {
-      var clean = text.replace(/```json\s*/g, "").replace(/```/g, "").trim();
-      var suggestions = JSON.parse(clean);
-
-      var html = '<div style="font-size:12px;font-weight:600;color:#7c3aed;margin-bottom:6px;">💡 AI 제안 (클릭하면 자동 입력):</div>';
-      for (var i = 0; i < suggestions.length; i++) {
-        var s = suggestions[i];
-        html += '<div onclick="applySuggestion(\'' + artId + '\',' + i + ')" data-title="' + esc(s.title) + '" data-desc="' + esc(s.description) + '" data-cols="' + esc(s.columns) + '" ' +
-          'style="padding:10px 12px;margin-bottom:6px;background:white;border:1px solid #e5e7eb;border-radius:8px;cursor:pointer;transition:all 0.15s;" ' +
-          'onmouseover="this.style.borderColor=\'#7c3aed\';this.style.background=\'#faf5ff\'" onmouseout="this.style.borderColor=\'#e5e7eb\';this.style.background=\'white\'">' +
-          '<div style="font-size:14px;font-weight:700;color:#1f2937;margin-bottom:4px;">' + esc(s.title) + '</div>' +
-          '<div style="font-size:12px;color:#6b7280;">' + esc(s.description) + '</div>' +
-          '<div style="font-size:11px;color:#9ca3af;margin-top:3px;">📋 ' + esc(s.columns) + '</div>' +
-        '</div>';
-      }
-      container.innerHTML = html;
-
-      // 전역에 suggestions 저장
-      window["_suggestions_" + artId] = suggestions;
-    } catch(e) {
-      container.innerHTML = '<div style="color:#ef4444;font-size:13px;">❌ 파싱 실패. 다시 시도해주세요.</div>';
-    }
-  }, function(err) {
-    container.innerHTML = '<div style="color:#ef4444;font-size:13px;">❌ ' + esc(err) + '</div>';
-  });
-}
-
-function applySuggestion(artId, idx) {
-  var suggestions = window["_suggestions_" + artId];
-  if (!suggestions || !suggestions[idx]) return;
-  var s = suggestions[idx];
-
-  document.getElementById("topic_" + artId).value = s.title || "";
-  document.getElementById("instruction_" + artId).value = s.description || "";
-  document.getElementById("columns_" + artId).value = s.columns || "";
-  showToast("✅ 제안 적용됨! 수정 후 표 채우기 클릭");
-}
-
-/* 표 생성 */
-function generateTable(artId) {
-  if (!STATE.geminiKey) { showToast("⚠️ 설정에서 API 키 입력"); return; }
-
-  var topic = document.getElementById("topic_" + artId).value.trim();
-  var instruction = document.getElementById("instruction_" + artId).value.trim();
-  var columns = document.getElementById("columns_" + artId).value.trim();
-
-  if (!topic) { showToast("주제를 입력하세요"); return; }
-  if (!columns) { showToast("표 컬럼을 입력하세요"); return; }
-
-  var container = document.getElementById("result_" + artId);
-  container.innerHTML = '<div style="padding:20px;text-align:center;color:#6b7280;">⏳ Gemini가 인물 리서치 중... (5~15초)</div>';
-
-  var headers = columns.split(",");
-  for (var i = 0; i < headers.length; i++) headers[i] = headers[i].trim();
-
-  var prompt = '당신은 한국 연예/스포츠 전문 리서처입니다.\n\n' +
-    '주제: "' + topic + '"\n' +
-    (instruction ? '리서치 지시: ' + instruction + '\n' : '') +
-    '\n타겟: 30~50대 한국 남성\n\n' +
-    '규칙:\n' +
-    '1. 반드시 실제 존재하는 인물만 포함\n' +
-    '2. 검증된 사실만 기재 (불확실하면 "약 ○○억" 등으로 표기)\n' +
-    '3. TOP10은 가장 임팩트 있는 순서로 정렬\n' +
-    '4. 후보 5명은 TOP10에 못 든 구체적 이유 1줄 포함\n\n' +
-    '표 컬럼: ' + headers.join(" | ") + '\n\n' +
-    '반드시 아래 JSON만 응답 (다른 텍스트 없이):\n' +
-    '{"top10":[["1","값","값","값"],["2","값","값","값"],...(정확히 10개)],' +
-    '"candidates":[{"row":["후보1","값","값","값"],"reason":"TOP10에 못 든 이유"},... (5개)]}';
-
-  callGemini(prompt, function(text) {
-    try {
-      var clean = text.replace(/```json\s*/g, "").replace(/```/g, "").trim();
-      var parsed = JSON.parse(clean);
-
-      var tableHtml = buildTableHtml(headers, parsed.top10 || [], parsed.candidates || []);
-      container.innerHTML = '<div style="background:#fafafa;border-radius:8px;padding:12px;border:1px solid #e5e7eb;">' +
-        '<div style="font-size:15px;font-weight:700;margin-bottom:10px;">📊 ' + esc(topic) + '</div>' +
-        tableHtml +
-        '<div style="display:flex;gap:8px;margin-top:12px;">' +
-          '<button onclick="copyTableFrom(\'' + artId + '\')" style="padding:8px 16px;border-radius:8px;font-size:13px;font-weight:600;cursor:pointer;border:none;background:#4f46e5;color:white;">📋 표 복사 (캔바용)</button>' +
-          '<button onclick="copyTitleFrom(\'' + artId + '\')" style="padding:8px 16px;border-radius:8px;font-size:13px;font-weight:600;cursor:pointer;border:none;background:#374151;color:white;">📝 제목 복사</button>' +
-        '</div>' +
-      '</div>';
-      showToast("🤖 표 완성! 확인 후 복사하세요");
-    } catch(e) {
-      container.innerHTML = '<div style="padding:16px;color:#ef4444;background:#fef2f2;border-radius:8px;">❌ AI 응답 파싱 실패. 다시 시도해주세요.<br><small>' + esc(e.message) + '</small></div>';
-    }
-  }, function(err) {
-    container.innerHTML = '<div style="padding:16px;color:#ef4444;background:#fef2f2;border-radius:8px;">❌ ' + esc(err) + '</div>';
-  });
-}
-
-function buildTableHtml(headers, top10, candidates) {
-  var html = '<table style="border-collapse:collapse;width:100%;font-size:13px;"><thead><tr>';
-  for (var h = 0; h < headers.length; h++) html += '<th style="background:#f3f4f6;padding:8px 10px;text-align:left;font-weight:700;border:1px solid #e5e7eb;">' + esc(headers[h]) + '</th>';
-  html += '</tr></thead><tbody>';
-  for (var r = 0; r < top10.length; r++) {
-    html += '<tr>';
-    for (var c = 0; c < headers.length; c++) {
-      var val = (top10[r] && top10[r][c]) ? top10[r][c] : "";
-      html += '<td style="padding:6px 10px;border:1px solid #e5e7eb;' + (c === 0 ? 'font-weight:600;color:#4f46e5;' : '') + '">' + esc(val) + '</td>';
-    }
-    html += '</tr>';
-  }
-  html += '</tbody></table>';
-
-  if (candidates.length) {
-    html += '<div style="margin-top:14px;padding-top:12px;border-top:2px dashed #e5e7eb;">' +
-      '<div style="font-weight:700;font-size:13px;margin-bottom:8px;color:#d97706;">🎯 후보 5명 (대체 가능)</div>' +
-      '<table style="border-collapse:collapse;width:100%;font-size:13px;"><thead><tr>';
-    for (var h = 0; h < headers.length; h++) html += '<th style="background:#fef3c7;padding:8px 10px;text-align:left;font-weight:700;border:1px solid #e5e7eb;">' + esc(headers[h]) + '</th>';
-    html += '<th style="background:#fef3c7;padding:8px 10px;text-align:left;font-weight:700;border:1px solid #e5e7eb;">후보 사유</th></tr></thead><tbody>';
-    for (var r = 0; r < candidates.length; r++) {
-      var row = candidates[r].row || candidates[r];
-      var reason = candidates[r].reason || "";
-      html += '<tr>';
-      for (var c = 0; c < headers.length; c++) {
-        var val = (row && row[c]) ? row[c] : "";
-        html += '<td style="padding:6px 10px;border:1px solid #e5e7eb;' + (c === 0 ? 'font-weight:600;color:#d97706;' : '') + '">' + esc(val) + '</td>';
-      }
-      html += '<td style="padding:6px 10px;border:1px solid #e5e7eb;font-size:11px;color:#888;">' + esc(reason) + '</td></tr>';
-    }
-    html += '</tbody></table></div>';
-  }
-
-  return html;
-}
-
-/* ========== 탭1 하단: 주제 분석 ========== */
-function renderThemeAnalysis() {
-  if (!STATE.data) return;
-  var el = document.getElementById("themeAnalysis");
-  if (!el) return;
-
-  var arts = STATE.data.articles || [];
-  // 기사 제목에서 주제(테마) 감지
-  var themes = {
-    "💰 자산·몸값·매출": { pattern: /자산|재산|연봉|몸값|부동산|빌딩|매출|수익|출연료|억|조원/, arts: [] },
-    "😱 논란·사건·폭로": { pattern: /논란|폭로|고발|적발|음주|사기|탈세|도박|갑질|구속|체포|혐의/, arts: [] },
-    "💍 결혼·이혼·열애": { pattern: /결혼|이혼|열애|재혼|파혼|임신|출산|약혼/, arts: [] },
-    "🔄 복귀·근황·은퇴": { pattern: /복귀|근황|컴백|은퇴|전역|공백/, arts: [] },
-    "🏥 투병·건강·사망": { pattern: /투병|완치|수술|입원|암|사망|별세|부고/, arts: [] },
-    "⚾ 스포츠 기록·이적": { pattern: /홈런|안타|골|우승|FA|트레이드|MVP|감독|선발/, arts: [] },
-    "👨‍👩‍👧 가족·혈연·동갑": { pattern: /가족|혈연|동갑|형제|부모|2세|자녀|아들|딸/, arts: [] },
+    $("#tableModal").classList.add("open");
   };
 
-  for (var i = 0; i < arts.length; i++) {
-    for (var key in themes) {
-      if (themes[key].pattern.test(arts[i].title)) {
-        themes[key].arts.push(arts[i]);
+  function closeModal() {
+    $("#tableModal").classList.remove("open");
+  }
+
+  async function fillTable() {
+    const apiKey = localStorage.getItem("gemini_api_key");
+    if (!apiKey) {
+      toast("⚠ 설정 탭에서 Gemini API 키를 입력하세요");
+      return;
+    }
+
+    const title = $("#modalVideoTitle").value.trim();
+    const research = $("#modalResearch").value.trim();
+    const columns = $("#modalColumns").value.split(",").map((c) => c.trim()).filter(Boolean);
+
+    if (!title || columns.length < 2) {
+      toast("⚠ 제목과 컬럼을 입력하세요");
+      return;
+    }
+
+    $("#tableLoading").style.display = "flex";
+    $("#tableResult").innerHTML = "";
+    $("#tableCopyArea").style.display = "none";
+    $("#btnFillTable").disabled = true;
+
+    const prompt = `당신은 유튜브 TOP10 영상의 표를 채우는 전문가입니다.
+
+영상 제목: ${title}
+리서치 지시: ${research || '해당 주제의 대표적 인물/사례를 조사'}
+표 컬럼: ${columns.join(" | ")}
+
+**지시사항:**
+1. TOP10 (10명/10개)을 채워주세요. 각 항목은 실제 사실에 기반해야 합니다.
+2. 추가로 후보 5명도 만들어주세요 (11~15번).
+3. 1위가 가장 임팩트 있는 항목이어야 합니다.
+4. 각 셀은 간결하게 (20자 내외).
+
+**반드시 아래 JSON 형식으로만 응답하세요:**
+
+\`\`\`json
+{
+  "headers": ${JSON.stringify(columns)},
+  "rows": [
+    {"rank": 1, "cells": ["셀1", "셀2", "셀3", "셀4"], "type": "main"},
+    ...
+    {"rank": 11, "cells": ["셀1", "셀2", "셀3", "셀4"], "type": "candidate"}
+  ]
+}
+\`\`\``;
+
+    try {
+      const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent?key=${apiKey}`;
+      const r = await fetch(url, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          contents: [{ parts: [{ text: prompt }] }],
+          generationConfig: {
+            temperature: 0.5,
+            maxOutputTokens: 4096,
+            responseMimeType: "application/json",
+          },
+        }),
+      });
+
+      if (!r.ok) {
+        const err = await r.text();
+        throw new Error(`API ${r.status}: ${err.slice(0, 200)}`);
+      }
+
+      const data = await r.json();
+      let text = data.candidates?.[0]?.content?.parts?.[0]?.text || "";
+      text = text.replace(/^```\w*\n?/, "").replace(/\n?```$/, "").trim();
+      const result = JSON.parse(text);
+
+      currentTableData = result;
+      renderTable(result);
+      $("#tableCopyArea").style.display = "block";
+    } catch (e) {
+      console.error("Table fill error:", e);
+      $("#tableResult").innerHTML = `<div style="color:var(--red);padding:12px;">⚠ 오류: ${escHtml(e.message)}</div>`;
+    } finally {
+      $("#tableLoading").style.display = "none";
+      $("#btnFillTable").disabled = false;
+    }
+  }
+
+  function renderTable(data) {
+    if (!data || !data.rows) return;
+    const headers = data.headers || [];
+    const mainRows = data.rows.filter((r) => r.type !== "candidate");
+    const candRows = data.rows.filter((r) => r.type === "candidate");
+
+    let html = `<table><thead><tr><th>#</th>${headers.map((h) => `<th>${escHtml(h)}</th>`).join("")}</tr></thead><tbody>`;
+    mainRows.forEach((r) => {
+      html += `<tr><td>${r.rank}</td>${(r.cells || []).map((c) => `<td>${escHtml(c)}</td>`).join("")}</tr>`;
+    });
+    if (candRows.length) {
+      html += `<tr class="divider-row"><td colspan="${headers.length + 1}">── 후보 5명 ──</td></tr>`;
+      candRows.forEach((r) => {
+        html += `<tr class="candidate"><td>${r.rank}</td>${(r.cells || []).map((c) => `<td>${escHtml(c)}</td>`).join("")}</tr>`;
+      });
+    }
+    html += `</tbody></table>`;
+    $("#tableResult").innerHTML = html;
+  }
+
+  function copyTable(format) {
+    if (!currentTableData) return;
+    const { headers, rows } = currentTableData;
+    let text = "";
+
+    if (format === "tsv") {
+      text = headers.join("\t") + "\n";
+      rows.forEach((r) => {
+        text += (r.cells || []).join("\t") + "\n";
+      });
+    } else {
+      // Markdown
+      text = "| # | " + headers.join(" | ") + " |\n";
+      text += "|---|" + headers.map(() => "---").join("|") + "|\n";
+      rows.forEach((r) => {
+        text += `| ${r.rank} | ` + (r.cells || []).join(" | ") + " |\n";
+      });
+    }
+
+    navigator.clipboard.writeText(text).then(() => {
+      toast(`✅ ${format === "tsv" ? "TSV" : "마크다운"} 복사 완료!`);
+    }).catch(() => {
+      // Fallback
+      const ta = document.createElement("textarea");
+      ta.value = text;
+      document.body.appendChild(ta);
+      ta.select();
+      document.execCommand("copy");
+      document.body.removeChild(ta);
+      toast(`✅ ${format === "tsv" ? "TSV" : "마크다운"} 복사 완료!`);
+    });
+  }
+
+  window.copyTopicTitle = function (idx) {
+    const topic = scanData?.topics?.[idx];
+    if (!topic) return;
+    navigator.clipboard.writeText(topic.title).then(() => {
+      toast("✅ 제목 복사 완료!");
+    }).catch(() => {});
+  };
+
+  // ═══════════════════════════════════════
+  // 실시간 분석
+  // ═══════════════════════════════════════
+  function initRealtime() {
+    $("#btnAnalyze").addEventListener("click", analyzeRealtime);
+    $("#btnClearRealtime").addEventListener("click", () => {
+      $("#realtimeInput").value = "";
+      $("#realtimeResults").innerHTML = "";
+    });
+    $("#btnSample").addEventListener("click", () => {
+      $("#realtimeInput").value = SAMPLE_DATA;
+    });
+  }
+
+  const SAMPLE_DATA = `"세상에 이런 일이?" 연예인 자산 역전 TOP10
+Apr 18, 2026
+48시간: 45,231
+60분: 1,234
+
+"충격 반전" 은퇴 선언했다가 복귀한 스타 TOP10
+Apr 18, 2026
+48시간: 32,100
+60분: 890
+
+"이 커플 실화?" 나이차 극복 연예인 커플 TOP10
+Apr 17, 2026
+48시간: 128,000
+60분: 456`;
+
+  function analyzeRealtime() {
+    const raw = $("#realtimeInput").value.trim();
+    if (!raw) { toast("⚠ 데이터를 붙여넣으세요"); return; }
+
+    // 4줄씩 파싱
+    const lines = raw.split("\n").filter((l) => l.trim());
+    const videos = [];
+    for (let i = 0; i < lines.length; i += 4) {
+      if (i + 3 >= lines.length) break;
+      const title = lines[i].trim();
+      const date = lines[i + 1].trim();
+      const h48 = parseInt((lines[i + 2] || "").replace(/[^0-9]/g, "")) || 0;
+      const m60 = parseInt((lines[i + 3] || "").replace(/[^0-9]/g, "")) || 0;
+
+      videos.push({ title, date, h48, m60, ratio: h48 > 0 ? (m60 / h48 * 48 * 60).toFixed(1) : 0 });
+    }
+
+    if (!videos.length) { toast("⚠ 파싱 실패. 형식을 확인하세요"); return; }
+
+    // 60분 기준 정렬
+    videos.sort((a, b) => b.m60 - a.m60);
+
+    let html = `<div style="margin-top:20px;">
+      <h3 style="margin-bottom:12px;">⚡ 분석 결과 (${videos.length}개 영상)</h3>`;
+
+    videos.forEach((v, i) => {
+      const isHot = v.m60 >= 500;
+      const color = isHot ? "var(--green)" : "var(--text)";
+      const badge = isHot ? "🔥 급상승" : v.m60 >= 200 ? "📈 양호" : "📊 보통";
+      html += `
+        <div style="padding:10px 14px;background:var(--bg-card);border-radius:6px;margin-bottom:6px;border-left:3px solid ${color};">
+          <div style="display:flex;justify-content:space-between;align-items:center;">
+            <span style="font-size:0.88rem;font-weight:600;">${escHtml(v.title)}</span>
+            <span style="font-size:0.72rem;color:${color};">${badge}</span>
+          </div>
+          <div style="font-size:0.78rem;color:var(--text-dim);margin-top:4px;">
+            60분: <strong>${numberFormat(v.m60)}</strong> · 48시간: ${numberFormat(v.h48)} · ${v.date}
+          </div>
+        </div>`;
+    });
+
+    // 교차 추천
+    if (scanData?.topics?.length) {
+      const hotAngles = videos.filter((v) => v.m60 >= 200).map((v) => {
+        const words = v.title.match(/[가-힣]{2,}/g) || [];
+        return words;
+      }).flat();
+
+      if (hotAngles.length) {
+        html += `<h3 style="margin:20px 0 12px;">🎯 교차 추천</h3>
+          <p style="font-size:0.82rem;color:var(--text-dim);margin-bottom:10px;">
+            현재 잘 되는 영상 앵글 + 네이버 트렌드 매칭
+          </p>`;
+
+        const matched = scanData.topics.filter((t) => {
+          const tWords = (t.title + " " + (t.angle || "")).match(/[가-힣]{2,}/g) || [];
+          return hotAngles.some((w) => tWords.includes(w));
+        });
+
+        if (matched.length) {
+          matched.forEach((t) => {
+            html += `<div style="padding:10px;background:var(--accent-bg);border-radius:6px;margin-bottom:6px;">
+              <span style="font-size:0.88rem;font-weight:600;color:var(--accent);">🎯 ${escHtml(t.title)}</span>
+              <div style="font-size:0.78rem;color:var(--text-dim);margin-top:4px;">${escHtml(t.angle || '')}</div>
+            </div>`;
+          });
+        } else {
+          html += `<div style="color:var(--text-muted);font-size:0.85rem;">직접 교차되는 주제는 없지만, 비슷한 앵글의 AI 추천 주제를 확인하세요.</div>`;
+        }
       }
     }
+
+    html += `</div>`;
+    $("#realtimeResults").innerHTML = html;
   }
 
-  var html = '<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px;">';
-  for (var key in themes) {
-    var t = themes[key];
-    if (t.arts.length === 0) continue;
-    html += '<div style="background:white;border:1px solid #e5e7eb;border-radius:10px;padding:14px;">' +
-      '<div style="font-size:14px;font-weight:700;margin-bottom:8px;">' + key + ' <span style="color:#4f46e5;">(' + t.arts.length + '건)</span></div>';
-    for (var j = 0; j < Math.min(t.arts.length, 3); j++) {
-      html += '<div style="font-size:12px;color:#6b7280;padding:2px 0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">· ' + esc(t.arts[j].title) + '</div>';
-    }
-    html += '</div>';
-  }
-  html += '</div>';
-  el.innerHTML = html;
-}
-
-/* ========== 복사 ========== */
-function copyTableFrom(artId) {
-  var container = document.getElementById("result_" + artId);
-  if (!container) { showToast("표가 없습니다"); return; }
-  var tables = container.querySelectorAll("table");
-  if (!tables.length) { showToast("표가 없습니다"); return; }
-  var rows = [];
-  for (var t = 0; t < tables.length; t++) {
-    var trs = tables[t].querySelectorAll("tr");
-    for (var r = 0; r < trs.length; r++) {
-      var cells = trs[r].querySelectorAll("th, td");
-      var row = [];
-      for (var c = 0; c < cells.length; c++) row.push(cells[c].textContent || "");
-      rows.push(row.join("\t"));
-    }
-    rows.push("");
-  }
-  copyClip(rows.join("\n").trim(), "📋 표 복사 완료! 캔바에 붙여넣으세요");
-}
-
-function copyTitleFrom(artId) {
-  var inp = document.getElementById("topic_" + artId);
-  if (inp && inp.value) copyClip(inp.value, "📝 제목 복사 완료");
-  else showToast("제목이 없습니다");
-}
-
-function copyClip(text, msg) {
-  if (navigator.clipboard && navigator.clipboard.writeText) {
-    navigator.clipboard.writeText(text).then(function() { showToast(msg); }, function() { fallbackCopy(text, msg); });
-  } else fallbackCopy(text, msg);
-}
-function fallbackCopy(text, msg) {
-  var ta = document.createElement("textarea");
-  ta.value = text; ta.style.position = "fixed"; ta.style.left = "-9999px";
-  document.body.appendChild(ta); ta.select();
-  try { document.execCommand("copy"); showToast(msg); } catch(e) { showToast("❌ 복사 실패"); }
-  document.body.removeChild(ta);
-}
-
-/* ========== 실시간 분석 ========== */
-function clearRealtime() {
-  document.getElementById("realtimeInput").value = "";
-  document.getElementById("realtimeResult").innerHTML = "";
-}
-function showRealtimeSample() {
-  document.getElementById("realtimeInput").value = '"지예은 바타 열애 인정?" 역대 댄서 연애 결혼 이슈 TOP 10\n2026. 4. 13.\n388183\n8070\n\n"최충연부터 이종범까지?" 팬들 분통 터진 야구 논란 TOP10\n2026. 4. 14.\n186169\n6383';
-  showToast("샘플 입력됨");
-}
-function analyzeRealtime() {
-  var text = document.getElementById("realtimeInput").value.trim();
-  if (!text) { showToast("데이터를 먼저 붙여넣어주세요"); return; }
-  var lines = text.split("\n"), videos = [], i = 0;
-  while (i < lines.length) {
-    var line = (lines[i] || "").trim();
-    if (line.length < 15) { i++; continue; }
-    if (i + 1 >= lines.length) break;
-    var dm = (lines[i+1] || "").match(/(\d{4})\.\s*(\d{1,2})\.\s*(\d{1,2})/);
-    if (!dm) { i++; continue; }
-    var v48 = 0, v60 = 0;
-    if (i+2 < lines.length) { var n = (lines[i+2]||"").replace(/[^\d]/g,""); if (n) v48 = parseInt(n); }
-    if (i+3 < lines.length) { var n = (lines[i+3]||"").replace(/[^\d]/g,""); if (n) v60 = parseInt(n); }
-    if (v48 > 0) { videos.push({title:line,v48:v48,v60:v60}); i+=4; } else i++;
-  }
-  if (!videos.length) { document.getElementById("realtimeResult").innerHTML = '<div class="empty-state">파싱 실패</div>'; return; }
-  videos.sort(function(a,b) { return b.v60 - a.v60; });
-
-  var html = '<div style="background:white;border:1px solid #e5e7eb;border-radius:12px;padding:18px 20px;">' +
-    '<h3 style="margin-bottom:10px;">🔥 60분 조회수 TOP 5</h3>';
-  for (var j = 0; j < Math.min(videos.length,5); j++) {
-    var v = videos[j];
-    html += '<div style="padding:10px 0;border-bottom:1px solid #eee;font-size:13px;">' +
-      '<div style="font-weight:600;">' + (j+1) + '. ' + esc(v.title) + '</div>' +
-      '<div style="font-size:12px;color:#888;margin-top:3px;">48h: ' + v.v48.toLocaleString() + ' / <strong style="color:#d97706;">60분: ' + v.v60.toLocaleString() + '</strong></div></div>';
-  }
-  html += '</div>';
-  document.getElementById("realtimeResult").innerHTML = html;
-  showToast("✅ " + videos.length + "개 분석 완료");
-}
-
-/* ========== 히스토리 ========== */
-function loadHistory() {
-  fetch("data/scan_log.json?t=" + Date.now())
-    .then(function(r) { if (!r.ok) throw new Error(); return r.json(); })
-    .then(function(logs) {
-      var html = '<div style="background:white;border:1px solid #e5e7eb;border-radius:12px;overflow:hidden;">';
-      for (var i = 0; i < logs.length; i++) {
-        html += '<div style="padding:14px 18px;border-bottom:1px solid #eee;display:flex;justify-content:space-between;">' +
-          '<div><div style="font-weight:600;">' + esc(logs[i].time) + '</div><div style="font-size:12px;color:#888;">기사 ' + logs[i].articles + '개 / 추천 ' + logs[i].topics + '개</div></div>' +
-          '<a href="data/' + esc(logs[i].file) + '" target="_blank" style="color:#4f46e5;font-size:13px;font-weight:600;text-decoration:none;">JSON →</a></div>';
+  // ═══════════════════════════════════════
+  // 히스토리
+  // ═══════════════════════════════════════
+  async function loadHistory() {
+    try {
+      const r = await fetch("data/scan_log.json?t=" + Date.now());
+      if (!r.ok) throw new Error();
+      const logs = await r.json();
+      const container = $("#historyList");
+      if (!logs.length) {
+        container.innerHTML = `<div class="loading-placeholder">히스토리 없음</div>`;
+        return;
       }
-      html += '</div>';
-      document.getElementById("historyList").innerHTML = html;
-    })
-    .catch(function() { document.getElementById("historyList").innerHTML = '<div class="empty-state">히스토리 없음</div>'; });
-}
+      container.innerHTML = logs.map((log) => {
+        const aiTag = log.ai ? `<span class="history-ai">🤖 AI</span>` : "";
+        return `
+          <div class="history-item">
+            <span class="history-time">${escHtml(log.time)}</span>
+            <span class="history-stats">기사 ${log.articles}개 · 주제 ${log.topics}개 ${aiTag}</span>
+          </div>`;
+      }).join("");
+    } catch {
+      $("#historyList").innerHTML = `<div class="loading-placeholder">히스토리 없음</div>`;
+    }
+  }
 
-/* ========== Gemini API 호출 ========== */
-function callGemini(prompt, onSuccess, onError) {
-  fetch("https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent?key=" + STATE.geminiKey, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }], generationConfig: { temperature: 0.7, maxOutputTokens: 4096 } })
-  })
-  .then(function(r) {
-    if (!r.ok) return r.json().then(function(e) { throw new Error(e.error ? e.error.message : "HTTP " + r.status); });
-    return r.json();
-  })
-  .then(function(data) {
-    var text = "";
-    try { text = data.candidates[0].content.parts[0].text; } catch(e) { throw new Error("응답 없음"); }
-    onSuccess(text);
-  })
-  .catch(function(e) { onError(e.message); });
-}
+  // ═══════════════════════════════════════
+  // 설정
+  // ═══════════════════════════════════════
+  function initSettings() {
+    const saved = localStorage.getItem("gemini_api_key");
+    if (saved) {
+      $("#apiKeyInput").value = saved;
+      $("#apiKeyStatus").innerHTML = `<span style="color:var(--green);">✅ API 키 저장됨</span>`;
+    }
 
-function showToast(msg) {
-  var t = document.getElementById("toast");
-  if (!t) return;
-  t.textContent = msg; t.classList.add("show");
-  setTimeout(function() { t.classList.remove("show"); }, 2400);
-}
+    $("#btnSaveKey").addEventListener("click", () => {
+      const key = $("#apiKeyInput").value.trim();
+      if (key) {
+        localStorage.setItem("gemini_api_key", key);
+        $("#apiKeyStatus").innerHTML = `<span style="color:var(--green);">✅ 저장 완료!</span>`;
+        toast("✅ API 키 저장됨");
+      }
+    });
 
-function esc(s) {
-  if (!s) return "";
-  return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;").replace(/'/g,"&#39;");
-}
+    $("#btnToggleKey").addEventListener("click", () => {
+      const input = $("#apiKeyInput");
+      input.type = input.type === "password" ? "text" : "password";
+    });
+  }
+
+  // ═══════════════════════════════════════
+  // Helpers
+  // ═══════════════════════════════════════
+  function escHtml(s) {
+    if (!s) return "";
+    return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+  }
+  function truncate(s, n) {
+    if (!s) return "";
+    return s.length > n ? s.slice(0, n) + "…" : s;
+  }
+  function numberFormat(n) {
+    return (n || 0).toLocaleString("ko-KR");
+  }
+
+  // Toast
+  let toastTimer;
+  function toast(msg) {
+    let el = $(".toast");
+    if (!el) {
+      el = document.createElement("div");
+      el.className = "toast";
+      document.body.appendChild(el);
+    }
+    el.textContent = msg;
+    el.classList.add("show");
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(() => el.classList.remove("show"), 2500);
+  }
+})();
