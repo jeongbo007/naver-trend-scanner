@@ -1,108 +1,159 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>🦛 정보주는 하마 · 트렌드 스캐너</title>
-<link href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" rel="stylesheet">
-<link rel="stylesheet" href="assets/style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🦛 정보주는 하마 · 트렌드 스캐너</title>
+  <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
-<header class="header">
-  <div class="header-inner">
-    <div class="logo">
-      <span class="logo-emoji">🦛</span>
-      <div class="logo-text">
-        <div class="logo-title">정보주는 하마 · 트렌드 스캐너</div>
-        <div class="logo-sub" id="lastScanTime">로딩 중...</div>
+  <header class="header">
+    <div class="header-inner">
+      <h1>🦛 <span>정보주는 하마</span> · 트렌드 스캐너</h1>
+      <div class="scan-time" id="scanTime">로딩 중...</div>
+    </div>
+    <div class="stats-bar" id="statsBar">
+      <div class="stat"><span class="stat-val" id="statArticles">-</span><span class="stat-label">기사 수집</span></div>
+      <div class="stat"><span class="stat-val" id="statTopics">-</span><span class="stat-label">AI 주제</span></div>
+      <div class="stat"><span class="stat-val" id="statDup">-</span><span class="stat-label">중복 제외</span></div>
+      <div class="stat"><span class="stat-val" id="statValid">-</span><span class="stat-label">최종 추천</span></div>
+    </div>
+  </header>
+
+  <nav class="tabs">
+    <button class="tab active" data-tab="topics">🎯 AI 추천 주제</button>
+    <button class="tab" data-tab="articles">📰 기사 랭킹</button>
+    <button class="tab" data-tab="realtime">⚡ 실시간 분석</button>
+    <button class="tab" data-tab="history">📜 히스토리</button>
+    <button class="tab" data-tab="settings">⚙️ 설정</button>
+  </nav>
+
+  <main class="content">
+    <!-- ═══ AI 추천 주제 탭 ═══ -->
+    <section class="tab-panel active" id="panel-topics">
+      <div class="panel-header">
+        <h2>🎯 AI 추천 주제</h2>
+        <p class="panel-desc">Gemini가 기사 50개를 종합 분석해서 추천한 TOP10 영상 주제입니다.</p>
+      </div>
+      <div id="topicsList" class="topics-list">
+        <div class="loading-placeholder">스캔 데이터 로딩 중...</div>
+      </div>
+    </section>
+
+    <!-- ═══ 기사 랭킹 탭 ═══ -->
+    <section class="tab-panel" id="panel-articles">
+      <div class="panel-header">
+        <h2>📰 네이버 기사 랭킹</h2>
+        <div class="article-filters">
+          <button class="filter-btn active" data-filter="all">전체</button>
+          <button class="filter-btn" data-filter="연예">연예</button>
+          <button class="filter-btn" data-filter="스포츠">스포츠</button>
+        </div>
+      </div>
+      <div id="articlesList" class="articles-list">
+        <div class="loading-placeholder">로딩 중...</div>
+      </div>
+    </section>
+
+    <!-- ═══ 실시간 분석 탭 ═══ -->
+    <section class="tab-panel" id="panel-realtime">
+      <div class="panel-header">
+        <h2>⚡ 실시간 채널 데이터 분석</h2>
+        <p class="panel-desc">YouTube Studio <strong>"실시간 업데이트 중"</strong> 데이터를 붙여넣으세요.</p>
+      </div>
+      <textarea id="realtimeInput" class="realtime-textarea" placeholder="YouTube Studio에서 복사한 데이터를 여기에 붙여넣기...
+
+예시:
+영상 제목 1
+Apr 17, 2026
+48시간: 12,345
+60분: 234
+
+영상 제목 2
+..."></textarea>
+      <div class="realtime-actions">
+        <button class="btn btn-primary" id="btnAnalyze">🔍 분석하기</button>
+        <button class="btn btn-ghost" id="btnClearRealtime">초기화</button>
+        <button class="btn btn-ghost" id="btnSample">💡 샘플</button>
+      </div>
+      <div id="realtimeResults"></div>
+    </section>
+
+    <!-- ═══ 히스토리 탭 ═══ -->
+    <section class="tab-panel" id="panel-history">
+      <div class="panel-header">
+        <h2>📜 스캔 히스토리</h2>
+      </div>
+      <div id="historyList" class="history-list">
+        <div class="loading-placeholder">로딩 중...</div>
+      </div>
+    </section>
+
+    <!-- ═══ 설정 탭 ═══ -->
+    <section class="tab-panel" id="panel-settings">
+      <div class="panel-header">
+        <h2>⚙️ 설정</h2>
+      </div>
+      <div class="settings-group">
+        <h3>🔑 Gemini API 키</h3>
+        <p class="settings-desc">"표 채우기"에 필요합니다. <a href="https://aistudio.google.com/apikey" target="_blank">Google AI Studio</a>에서 복사. 브라우저에만 저장됩니다.</p>
+        <div class="api-key-input">
+          <input type="password" id="apiKeyInput" placeholder="AIza...">
+          <button class="btn btn-sm" id="btnToggleKey">👁️</button>
+          <button class="btn btn-primary btn-sm" id="btnSaveKey">💾 저장</button>
+        </div>
+        <div id="apiKeyStatus" class="api-key-status"></div>
+      </div>
+      <div class="settings-group">
+        <h3>📊 시스템 정보</h3>
+        <div class="sys-info">
+          스캐너: v4.0 (Gemini AI 분석) · 자동 스캔: 05/09/14/18/23시 KST<br>
+          소스: 네이버 엔터 많이 본 30위 + 스포츠 많이 본 20위<br>
+          히스토리: 455개 영상 · 중복: 3개월+8만회 이상 재활용<br>
+          타겟: 30~50대 한국 남성 · Gemini 2.5 Flash-Lite (무료)
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ═══ 표 채우기 모달 ═══ -->
+  <div class="modal-overlay" id="tableModal">
+    <div class="modal">
+      <div class="modal-header">
+        <h3 id="modalTitle">표 채우기</h3>
+        <button class="modal-close" id="btnCloseModal">✕</button>
+      </div>
+      <div class="modal-body">
+        <div class="modal-field">
+          <label>영상 제목</label>
+          <input type="text" id="modalVideoTitle" class="modal-input">
+        </div>
+        <div class="modal-field">
+          <label>리서치 지시</label>
+          <textarea id="modalResearch" class="modal-textarea" rows="2"></textarea>
+        </div>
+        <div class="modal-field">
+          <label>표 컬럼 (쉼표 구분)</label>
+          <input type="text" id="modalColumns" class="modal-input">
+        </div>
+        <div class="modal-actions">
+          <button class="btn btn-primary" id="btnFillTable">🤖 Gemini 표 채우기 (TOP10 + 후보5)</button>
+        </div>
+        <div id="tableLoading" class="table-loading" style="display:none;">
+          <div class="spinner"></div>
+          <span>Gemini가 표를 채우고 있습니다...</span>
+        </div>
+        <div id="tableResult" class="table-result"></div>
+        <div id="tableCopyArea" style="display:none;">
+          <div class="copy-actions">
+            <button class="btn btn-primary" id="btnCopyTSV">📋 표 복사 (TSV · 캔바용)</button>
+            <button class="btn btn-ghost" id="btnCopyMarkdown">📋 마크다운 복사</button>
+          </div>
+        </div>
       </div>
     </div>
-    <div class="stats-grid">
-      <div class="stat"><div class="stat-label">기사 수집</div><div class="stat-value" id="stat-articles">-</div></div>
-      <div class="stat"><div class="stat-label">주제 생성</div><div class="stat-value" id="stat-topics">-</div></div>
-      <div class="stat"><div class="stat-label">중복 제외</div><div class="stat-value" id="stat-dups">-</div></div>
-      <div class="stat"><div class="stat-label">최종 추천</div><div class="stat-value" id="stat-final">-</div></div>
-    </div>
-  </div>
-</header>
-
-<nav class="tabs">
-  <button class="tab active" data-tab="articles">📰 기사 랭킹 + 주제 제작</button>
-  <button class="tab" data-tab="realtime">⚡ 실시간 분석</button>
-  <button class="tab" data-tab="history">📜 히스토리</button>
-  <button class="tab" data-tab="settings">⚙️ 설정</button>
-</nav>
-
-<main class="main">
-
-<!-- 탭1: 기사 랭킹 + 주제 제작 -->
-<section class="tab-panel active" id="tab-articles">
-  <div class="panel-header">
-    <h2>📰 네이버 기사 랭킹 → 주제 제작</h2>
-    <p class="panel-desc">기사를 보고 <strong>🎯 주제 만들기</strong>를 누르세요. AI가 앵글을 제안하고, 수정 후 표를 채워드립니다.</p>
   </div>
 
-  <!-- 주제 분석 요약 -->
-  <div id="themeAnalysis" style="margin-bottom:20px;"></div>
-
-  <!-- 기사 목록 -->
-  <div id="articlesList"><div class="loading">로딩 중...</div></div>
-</section>
-
-<!-- 탭2: 실시간 분석 -->
-<section class="tab-panel" id="tab-realtime">
-  <div class="panel-header">
-    <h2>⚡ 실시간 채널 데이터 분석</h2>
-    <p class="panel-desc">YouTube Studio <strong>"실시간 업데이트 중"</strong> 데이터를 붙여넣으세요.</p>
-  </div>
-  <div class="realtime-input-area">
-    <textarea id="realtimeInput" placeholder="제목
-날짜
-48시간 조회수
-60분 조회수"></textarea>
-    <div class="btn-row">
-      <button class="btn-primary" onclick="analyzeRealtime()">🔍 분석</button>
-      <button class="btn-secondary" onclick="clearRealtime()">초기화</button>
-      <button class="btn-tertiary" onclick="showRealtimeSample()">💡 샘플</button>
-    </div>
-  </div>
-  <div id="realtimeResult"></div>
-</section>
-
-<!-- 탭3: 히스토리 -->
-<section class="tab-panel" id="tab-history">
-  <div class="panel-header"><h2>📜 스캔 히스토리</h2></div>
-  <div id="historyList"></div>
-</section>
-
-<!-- 탭4: 설정 -->
-<section class="tab-panel" id="tab-settings">
-  <div class="panel-header"><h2>⚙️ 설정</h2></div>
-  <div style="background:white;border:1px solid #e5e7eb;border-radius:12px;padding:20px;margin-bottom:20px;">
-    <h3 style="font-size:16px;margin-bottom:12px;">🔑 Gemini API 키</h3>
-    <p style="font-size:13px;color:#6b7280;margin-bottom:12px;line-height:1.6;">
-      "주제 만들기" + "표 채우기"에 필요합니다. <a href="https://aistudio.google.com/apikey" target="_blank" style="color:#4f46e5;">Google AI Studio</a>에서 복사.<br>
-      브라우저에만 저장 (서버 전송 없음). 무료 하루 1,500건.
-    </p>
-    <div style="display:flex;gap:8px;align-items:center;">
-      <input type="password" id="geminiKeyInput" placeholder="API 키..." style="flex:1;padding:10px 14px;border:1px solid #d1d5db;border-radius:8px;font-size:14px;">
-      <button onclick="toggleKeyVisibility()" style="padding:10px;background:white;border:1px solid #d1d5db;border-radius:8px;cursor:pointer;">👁️</button>
-      <button onclick="saveGeminiKey()" style="padding:10px 20px;border-radius:8px;font-size:14px;font-weight:600;cursor:pointer;border:none;background:#4f46e5;color:white;">💾 저장</button>
-    </div>
-  </div>
-  <div style="background:white;border:1px solid #e5e7eb;border-radius:12px;padding:20px;">
-    <h3 style="font-size:16px;margin-bottom:12px;">📊 시스템 정보</h3>
-    <div style="font-size:13px;line-height:2;color:#6b7280;">
-      스캐너: v4.0 · 자동 스캔: 05/09/14/18/23시 KST<br>
-      소스: 네이버 엔터 많이 본 30위 + 스포츠 많이 본 20위<br>
-      히스토리: 455개 영상 · 중복: 3개월+8만회 이상 재활용<br>
-      타겟: 30~50대 한국 남성 · Gemini 2.5 Flash-Lite (무료)
-    </div>
-  </div>
-</section>
-
-</main>
-<div id="toast" class="toast"></div>
-<script src="assets/app.js"></script>
+  <script src="assets/app.js"></script>
 </body>
 </html>
