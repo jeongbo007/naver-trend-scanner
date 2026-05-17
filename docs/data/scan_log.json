@@ -1,5 +1,12 @@
 [
   {
+    "time": "2026-05-17 14:55:41",
+    "articles": 50,
+    "topics": 5,
+    "ai": false,
+    "file": "scan_2026-05-17_1455.json"
+  },
+  {
     "time": "2026-05-17 12:05:09",
     "articles": 50,
     "topics": 5,
@@ -341,12 +348,5 @@
     "topics": 5,
     "ai": false,
     "file": "scan_2026-05-07_2314.json"
-  },
-  {
-    "time": "2026-05-07 19:56:53",
-    "articles": 50,
-    "topics": 5,
-    "ai": false,
-    "file": "scan_2026-05-07_1956.json"
   }
 ]
