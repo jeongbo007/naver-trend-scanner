@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-05-26 03:00:39",
+  "scan_time": "2026-05-26 08:30:48",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -13,65 +13,101 @@
   "total_articles": 80,
   "articles": [
     {
-      "title": "‘초대형 충격 소식’ 日 요미우리 감독, 18세 딸 폭행→체포 후 석방...구단 “감독대행 체제, 경질 논의”",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 26476,
-      "rank": 3,
-      "channel": "초구딱"
-    },
-    {
-      "title": "삼성 원태인, 오늘(25일) 인천 SSG전서 '통산 100호' 금자탑 도전…하늘이 투구 허락할까",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 9617,
-      "rank": 12,
-      "channel": "초구딱"
-    },
-    {
-      "title": "日 야구계 충격… 요미우리 아베 감독, 딸 폭행 혐의 체포",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 9081,
-      "rank": 13,
-      "channel": "초구딱"
-    },
-    {
-      "title": "'ERA 2.08' 기록 중인데 갑자기 사라졌다…롯데 1R 투수, 4년 만에 1군 콜업 기회 찾아오나?",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 7823,
-      "rank": 16,
-      "channel": "초구딱"
-    },
-    {
       "title": "타율 .118 \"김하성 포기하자\" 美 매체 혹평, 그런데 정작 지적한 건 타격이 아니었다",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 7807,
+      "views": 16094,
+      "rank": 1,
+      "channel": "초구딱"
+    },
+    {
+      "title": "삼성, 너무하는 것 아닌가? 오러클린을 '익스펜더블' 투수로 취급...비즈니스니스지만 '슈퍼갑질'",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 13964,
+      "rank": 2,
+      "channel": "초구딱"
+    },
+    {
+      "title": "‘충격 소식’ 78억 안겼는데, 2군 타율마저 1할 붕괴 위기…4G 연속 무안타→두산 전문 1루수 언제 돌아오나",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 13358,
+      "rank": 3,
+      "channel": "초구딱"
+    },
+    {
+      "title": "아시아쿼터 1·2호 방출 동시에 나왔다…KIA 데일·두산 타무라, 웨이버 공시",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 12153,
+      "rank": 6,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'OPS .6 붕괴' 전준우만 바라볼 때 지났나…'상동의 보석함' 제대로 꺼낼 때 왔다",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 11808,
+      "rank": 7,
+      "channel": "초구딱"
+    },
+    {
+      "title": "강정호도 주목한 포수 김도환, 강민호 강제 은퇴시킬까?...삼성, 마침내 포스트 강민호 찾은 듯",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 11394,
+      "rank": 8,
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"챗GPT 권유로 신고\"…'딸 폭행 혐의' 日 요미우리 감독, 석방 후 사임→체포 사건 전말도 드러났다",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 10067,
+      "rank": 11,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'역시 안 되는구나' 구종 단순 정우주, 세 번 선발 등판 만에 다시 불펜으로?...'구관' 황준서가 대신할 듯",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 9586,
+      "rank": 12,
+      "channel": "초구딱"
+    },
+    {
+      "title": "LAFC 감독, \"난 완벽주의자\" 대대적 물갈이 선언!...손흥민 앞세워 4연패 끊고, 전열 정비 후 반등 예고 \"끊임없이 발전하길 원해\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 6765,
       "rank": 17,
       "channel": "초구딱"
     },
     {
-      "title": "안우진-문동주-장현석 MLB 근처에도 못 갔는데… 한국, 이러다 대만 마운드에도 밀리나",
+      "title": "‘초대형 충격 소식’ 日 요미우리 감독, 18세 딸 폭행→체포 후 석방...구단 “감독대행 체제, 경질 논의”",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 7211,
+      "views": 6366,
       "rank": 19,
       "channel": "초구딱"
     },
     {
-      "title": "생존왕 김혜성? 美 매체 \"슬럼프 심각해\" 냉정 비판→로버츠 감독 \"솔직히 말하자면…\"",
+      "title": "亞쿼터 1·2호 퇴출 하루에 나왔다...'ERA 7.31' 두산 타무라도 방출, KIA 데일 이어 2번째→\"조속히 새 선수 영입 예정\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 7095,
+      "views": 5875,
       "rank": 20,
       "channel": "초구딱"
     },
@@ -139,8 +175,8 @@
       "channel": "초구딱"
     },
     {
-      "title": "왜 오늘은 개미들이 다 팔고 튀는건가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115543598&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "지금 경의선 전구간 통제인가요 ?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115549712&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
       "views": 0,
@@ -148,26 +184,26 @@
       "channel": "초구딱"
     },
     {
-      "title": "스벅은 다른 카페와는 확실히 다른가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115543592&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "스타벅스 불매 감시하러 왔다가.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115549706&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 0,
+      "views": 24,
       "rank": 9,
       "channel": "초구딱"
     },
     {
-      "title": "기재부 장관 vs 청주시 흥덕구청장",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115543589&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "부산 숙박 바가지요금에 대한 방탄 반응",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115549691&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 0,
+      "views": 18,
       "rank": 10,
       "channel": "초구딱"
     },
     {
-      "title": "[nba] 느바만큼 전력이 공평하게 시스템적으로 만들어논 리그가 또 있나요??",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115543577&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "근데 전 성형 싫어해도 쌍수까지는 인정하려구요 ㄹㅇ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115549688&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=facebook.com",
       "source": "MLB파크 불펜",
       "category": "야구",
       "views": 0,
@@ -175,260 +211,194 @@
       "channel": "초구딱"
     },
     {
-      "title": "케데헌 골든 AMA song of the year 수상",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115543574&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "스벅관련 광기는 누구 하나 죽어야 끝이 나겠네요..",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115549685&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 14,
+      "views": 19,
       "rank": 12,
       "channel": "초구딱"
     },
     {
-      "title": "작년에 닉스가 컨파 진출 확정했을때 뉴욕 거리",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115543568&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "체코는 유럽축구 변방느낌인데",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115549679&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 27,
+      "views": 12,
       "rank": 13,
       "channel": "초구딱"
     },
     {
-      "title": "기상청은 진짜 비온다고 호들갑은 다 떨더니 ㅋㅋ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115543559&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "이제 주식에 세금 엄청 때릴 차례인가요??",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115549670&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 47,
+      "views": 33,
       "rank": 14,
       "channel": "초구딱"
     },
     {
-      "title": "박사수료는 딱히 의미없지 않나요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115543556&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "스타벅스, 내달 1일부터 2주간 선불카드 조건 없이 전액 환불",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115549664&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 47,
+      "views": 127,
       "rank": 15,
       "channel": "초구딱"
     },
     {
-      "title": "스포츠 전문 여자 아나운서들 말인데요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115543544&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "기상캐스터 MBC는 본사만 폐지고 SBS는 본사만 남아있네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115549661&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 80,
+      "views": 62,
       "rank": 16,
       "channel": "초구딱"
     },
     {
-      "title": "이목구비의 뚜렷함vs이목구비의 조화로움",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115543526&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "어느 etf의 미친 괴리율",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115549658&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 36,
+      "views": 157,
       "rank": 17,
       "channel": "초구딱"
     },
     {
-      "title": "기아 데일 유격수 방출 투수 시라카와 영입",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115543523&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "닉스 우승하면 브런슨 영결 확정인가요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115549643&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 143,
+      "views": 44,
       "rank": 18,
       "channel": "초구딱"
     },
     {
-      "title": "카와이 레너드는 2파엠이라 속을 구실이라도 있지 제임스 하든은 무관인데 저런 데에 속은 건가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115543511&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "제습기 가동",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115549640&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 59,
+      "views": 58,
       "rank": 19,
       "channel": "초구딱"
     },
     {
-      "title": "클블 원정 파이널 진출 직관한 티모시 샬라메",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115543505&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "2차 세계대전 후 파괴된 도시들의 참혹한 광경.JPG",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115549637&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 91,
+      "views": 106,
       "rank": 20,
       "channel": "초구딱"
     },
     {
-      "title": "아베 신노스케 사임",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115543502&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "50대 선배들 가끔 우울해하네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115549631&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 205,
+      "views": 110,
       "rank": 21,
       "channel": "초구딱"
     },
     {
-      "title": "닉스 파이널 표값 장난아니겠네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115543499&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "개인적으로 기대하는 6월 발매게임",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115549628&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 37,
+      "views": 94,
       "rank": 22,
       "channel": "초구딱"
     },
     {
-      "title": "ai에게 좌파들이 왜 이러는지 물었습니다",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115543496&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "이번에 월드컵 특수 1도 없을듯 ㅋㅋㅋㅌ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115549622&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 84,
+      "views": 68,
       "rank": 23,
       "channel": "초구딱"
     },
     {
-      "title": "이런거 스팸 광고 맞죠?ㄷㄷㄷ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115543493&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "좌파가 주류가 되면 그 사회는 망합니다.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115549616&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 109,
+      "views": 117,
       "rank": 24,
       "channel": "초구딱"
     },
     {
-      "title": "올시즌 플옵 초토화 시키고 있는 팀.mp4",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115543490&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "요즘은 부모가 븅딱인게..",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115549613&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 181,
+      "views": 66,
       "rank": 25,
       "channel": "초구딱"
     },
     {
-      "title": "허수아비 막방 시청률 잘 나올 듯",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115543487&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "맨시티는 펩 후임으로 마레스카가 최선 맞나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115549607&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 99,
+      "views": 64,
       "rank": 26,
       "channel": "초구딱"
     },
     {
-      "title": "하든은 그냥 맛갔음",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115543484&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "날씨ㅋㅋㅋㅋㅋ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115549604&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 43,
+      "views": 85,
       "rank": 27,
       "channel": "초구딱"
     },
     {
-      "title": "이제 국밥도 8천원이죠?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115543478&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "성형한 여자들 엄청 많네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115549598&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 97,
+      "views": 126,
       "rank": 28,
       "channel": "초구딱"
     },
     {
-      "title": "님한산성 정치인들 묘사 고증에 맞는건가용?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115543475&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "유흥업소 직원들은 자금 추적같은거 안들어오나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115549595&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 41,
+      "views": 169,
       "rank": 29,
       "channel": "초구딱"
     },
     {
-      "title": "날씨 정말 드럽게 못맞추네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115543460&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "페르소나 4 리메이크 곧 출시?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202605260115549592&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 61,
+      "views": 95,
       "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 43,
+      "article_count": 39,
       "topics": [
         {
-          "title": "\"기록, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 5,
-          "source_article": "김혜성 극적 생존! 다저스, 키케 복귀에 KIM 아닌 에스피날 DFA",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "기록",
-            "역사",
-            "왜곡",
-            "대군부",
-            "감독"
-          ],
-          "template": "스포츠 기록",
-          "score": 7.6,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 6,
-          "source_article": "최희, 대만 여행 사진 올렸다가 뜻밖의 논란…\"아이한테 밀크티 안 먹여\"",
-          "source_url": "https://m.entertain.naver.com/article/117/0004067866",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "최희",
-            "대만",
-            "여행",
-            "올렸다",
-            "뜻밖의"
-          ],
-          "template": "논란 집합",
-          "score": 7.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"배우이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
           "angle_type": "가족·혈연",
           "article_count": 7,
-          "source_article": "배우♥배우 부부, 결혼 18년 만에 '별거' 고백…\"자녀 공동 양육\"",
-          "source_url": "https://m.entertain.naver.com/article/445/0000418765",
+          "source_article": "'62세' 유혜리, 안면거상+지방 재배치 후 확 달라진 외모 \"못 알아볼 정도\"",
+          "source_url": "https://m.entertain.naver.com/article/076/0004408873",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "배우",
-            "아이",
-            "부부",
-            "결혼",
-            "별거"
+            "유혜리",
+            "안면거",
+            "지방",
+            "재배치",
+            "달라진"
           ],
           "template": "동갑내기",
           "score": 7.1,
@@ -450,18 +420,84 @@
           "channel": "정보주는하마"
         },
         {
+          "title": "\"사기까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 4,
+          "source_article": "황정음, '폐기 장난감 나눔 논란' 3개월 만 해명…\"사진 급하게 찍어 올려서\"",
+          "source_url": "https://m.entertain.naver.com/article/311/0002015281",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "사기",
+            "황정음",
+            "폐기",
+            "장난감",
+            "나눔"
+          ],
+          "template": "논란 집합",
+          "score": 7.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"부동산, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 3,
+          "source_article": "'아파트·상가 보유' 28기 현숙, 부동산 경매가 취미라더니 \"대출 이자만 명품백값\"",
+          "source_url": "https://m.entertain.naver.com/article/076/0004409111",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "부동산",
+            "사기",
+            "아파트",
+            "상가",
+            "보유"
+          ],
+          "template": "자산 서열",
+          "score": 7.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
           "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
           "angle_type": "결혼·이혼",
-          "article_count": 8,
+          "article_count": 6,
           "source_article": "'한예종 선후배' 윤승우♥전재희, 11년 연애 끝… 오늘 결혼",
           "source_url": "https://m.entertain.naver.com/article/117/0004067966",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "결혼",
-            "개월",
+            "윤승우",
+            "전재희",
             "연애",
-            "김동욱",
-            "스텔라"
+            "데이식"
           ],
           "template": "결혼 화제",
           "score": 6.8,
@@ -483,18 +519,18 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+          "title": "\"복귀에, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
           "angle_type": "복귀·근황",
-          "article_count": 2,
-          "source_article": "김혜성 극적 생존! 다저스, 키케 복귀에 KIM 아닌 에스피날 DFA",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "article_count": 3,
+          "source_article": "황정음 父, 딸 1년 자숙→복귀에 팩폭 \"아직 나설 때 아냐, 납작 엎드려라\"",
+          "source_url": "https://m.entertain.naver.com/article/076/0004409113",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "주사이",
-            "종현",
-            "갖다줄",
-            "샤이니",
-            "멤버들"
+            "복귀에",
+            "황정음",
+            "자숙",
+            "팩폭",
+            "아직"
           ],
           "template": "장기 공백 복귀",
           "score": 6.6,
@@ -516,16 +552,49 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"개월 결혼설?\" 개월 연애사 총정리",
-          "angle_type": "👤 개월",
+          "title": "\"황정음, 대체 무슨 일이?\" 황정음 관련 이슈 총정리",
+          "angle_type": "👤 황정음",
           "article_count": 4,
-          "source_article": "김동욱, ♥스텔라김과 7개월 만에 상견례 \"4개월은 롱디..명동성당 결혼식 의미 有\"",
-          "source_url": "https://m.entertain.naver.com/article/076/0004408833",
+          "source_article": "황정음, '폐기 장난감 나눔 논란' 3개월 만 해명…\"사진 급하게 찍어 올려서\"",
+          "source_url": "https://m.entertain.naver.com/article/311/0002015281",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "개월"
+            "황정음"
           ],
-          "template": "결혼 화제",
+          "template": "논란 집합",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 3,
+          "source_article": "두산도 칼 빼들었다→아시아쿼터 타무라 ‘웨이버 공시’…“조속히 새 선수 영입할 것”",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "두산도",
+            "빼들었",
+            "아시아",
+            "쿼터",
+            "타무라"
+          ],
+          "template": "스포츠 기록",
           "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
@@ -536,43 +605,10 @@
           },
           "table": {
             "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-          "angle_type": "투병·건강",
-          "article_count": 3,
-          "source_article": "이수지, 오늘(25일) 시부상…투병 소식 알린 지 17일 만에 비보",
-          "source_url": "https://m.entertain.naver.com/article/312/0000761111",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "이수지",
-            "시부상",
-            "투병",
-            "소식",
-            "알린"
-          ],
-          "template": "투병 극복",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "투병 질환",
-              "공백기",
-              "복귀 작품"
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
             ]
           },
           "channel": "정보주는하마"
@@ -580,7 +616,7 @@
       ],
       "keyword_freq": [
         [
-          "개월",
+          "황정음",
           4
         ],
         [
@@ -588,7 +624,15 @@
           3
         ],
         [
-          "팬들",
+          "안면거상",
+          2
+        ],
+        [
+          "유혜리",
+          2
+        ],
+        [
+          "전재희",
           2
         ],
         [
@@ -596,73 +640,65 @@
           2
         ],
         [
-          "대군부인",
+          "윤승우",
           2
         ],
         [
-          "김동욱",
+          "개월",
           2
         ],
         [
-          "상견례",
+          "부동산",
           2
         ],
         [
-          "별거",
+          "주장",
           2
         ],
         [
-          "경고",
+          "복귀에",
           2
         ],
         [
-          "아이",
+          "아직",
           2
         ],
         [
-          "열었다",
+          "도운",
           2
         ],
         [
-          "전격",
+          "데이식스",
           2
         ],
         [
-          "명단서",
+          "열애설",
           2
         ],
         [
-          "에스피날",
+          "김민하",
           2
         ],
         [
-          "김혜성",
+          "있어",
           2
         ],
         [
-          "역사상",
+          "사기",
           2
         ],
         [
-          "러브레터",
-          1
+          "빼가라고",
+          2
         ],
         [
-          "행복",
-          1
-        ],
-        [
-          "사랑에",
-          1
-        ],
-        [
-          "마음",
+          "변우석",
           1
         ]
       ],
       "name_freq": [
         [
-          "개월",
+          "황정음",
           4
         ],
         [
@@ -670,7 +706,15 @@
           3
         ],
         [
-          "팬들",
+          "안면거",
+          2
+        ],
+        [
+          "유혜리",
+          2
+        ],
+        [
+          "전재희",
           2
         ],
         [
@@ -678,70 +722,62 @@
           2
         ],
         [
-          "대군부",
+          "윤승우",
           2
         ],
         [
-          "스텔라",
+          "개월",
           2
         ],
         [
-          "김동욱",
+          "부동산",
           2
         ],
         [
-          "상견례",
+          "주장",
           2
         ],
         [
-          "별거",
+          "복귀에",
           2
         ],
         [
-          "경고",
+          "아직",
           2
         ],
         [
-          "아이",
+          "도운",
           2
         ],
         [
-          "열었다",
+          "데이식",
           2
         ],
         [
-          "최준용",
-          2
-        ],
-        [
-          "전격",
-          2
-        ],
-        [
-          "명단서",
+          "열애설",
           2
         ]
       ],
       "angle_scores": [
         [
+          "자산·몸값",
+          3
+        ],
+        [
           "논란·사건",
-          6
+          4
         ],
         [
           "결혼·이혼",
-          8
+          6
         ],
         [
           "복귀·근황",
-          2
-        ],
-        [
-          "투병·건강",
           3
         ],
         [
           "스포츠",
-          5
+          3
         ],
         [
           "가족·혈연",
@@ -750,24 +786,24 @@
       ]
     },
     "초구딱": {
-      "article_count": 37,
+      "article_count": 41,
       "topics": [
         {
           "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 4,
-          "source_article": "‘초대형 충격 소식’ 日 요미우리 감독, 18세 딸 폭행→체포 후 석방...구단 “감독대행 체제, 경질 논의”",
+          "article_count": 7,
+          "source_article": "‘충격 소식’ 78억 안겼는데, 2군 타율마저 1할 붕괴 위기…4G 연속 무안타→두산 전문 1루수 언제 돌아오나",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "감독",
-            "요미우",
+            "소식",
+            "두산",
             "폭행",
-            "체포",
-            "초대형"
+            "요미우"
           ],
           "template": "스포츠 기록",
-          "score": 6.8,
+          "score": 7.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -786,18 +822,47 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"요미우이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 2,
-          "source_article": "‘초대형 충격 소식’ 日 요미우리 감독, 18세 딸 폭행→체포 후 석방...구단 “감독대행 체제, 경질 논의”",
+          "title": "\"두산 자산이 얼마?\" 두산급 자산가 스타 TOP10",
+          "angle_type": "👤 두산",
+          "article_count": 3,
+          "source_article": "‘충격 소식’ 78억 안겼는데, 2군 타율마저 1할 붕괴 위기…4G 연속 무안타→두산 전문 1루수 언제 돌아오나",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
+            "두산"
+          ],
+          "template": "자산 서열",
+          "score": 7.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"폭행이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+          "angle_type": "가족·혈연",
+          "article_count": 3,
+          "source_article": "\"챗GPT 권유로 신고\"…'딸 폭행 혐의' 日 요미우리 감독, 석방 후 사임→체포 사건 전말도 드러났다",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "폭행",
             "요미우",
             "감독",
-            "폭행",
-            "체포",
-            "초대형"
+            "석방",
+            "체포"
           ],
           "template": "동갑내기",
           "score": 6.3,
@@ -850,35 +915,51 @@
       ],
       "keyword_freq": [
         [
+          "두산",
+          3
+        ],
+        [
           "감독",
           3
         ],
         [
           "안내",
           3
+        ],
+        [
+          "붕괴",
+          2
+        ],
+        [
+          "소식",
+          2
+        ],
+        [
+          "데일",
+          2
+        ],
+        [
+          "방출",
+          2
+        ],
+        [
+          "나왔다",
+          2
+        ],
+        [
+          "석방",
+          2
+        ],
+        [
+          "폭행",
+          2
         ],
         [
           "요미우리",
           2
         ],
         [
-          "폭행",
-          2
-        ],
-        [
           "체포",
-          2
-        ],
-        [
-          "아베",
-          2
-        ],
-        [
-          "투수",
-          2
-        ],
-        [
-          "매체",
           2
         ],
         [
@@ -894,43 +975,31 @@
           2
         ],
         [
-          "하든은",
+          "스타벅스",
           2
         ],
         [
-          "파이널",
+          "엄청",
           2
         ],
         [
-          "구단",
+          "매체",
           1
         ],
         [
-          "초대형",
+          "그런데",
           1
         ],
         [
-          "논의",
-          1
-        ],
-        [
-          "체제",
-          1
-        ],
-        [
-          "감독대행",
-          1
-        ],
-        [
-          "경질",
-          1
-        ],
-        [
-          "소식",
+          "혹평",
           1
         ]
       ],
       "name_freq": [
+        [
+          "두산",
+          3
+        ],
         [
           "감독",
           3
@@ -940,7 +1009,35 @@
           3
         ],
         [
-          "요미우",
+          "소식",
+          2
+        ],
+        [
+          "붕괴",
+          2
+        ],
+        [
+          "타무라",
+          2
+        ],
+        [
+          "쿼터",
+          2
+        ],
+        [
+          "데일",
+          2
+        ],
+        [
+          "나왔다",
+          2
+        ],
+        [
+          "방출",
+          2
+        ],
+        [
+          "석방",
           2
         ],
         [
@@ -948,50 +1045,26 @@
           2
         ],
         [
+          "요미우",
+          2
+        ],
+        [
           "체포",
           2
         ],
         [
-          "아베",
-          2
-        ],
-        [
-          "투수",
-          2
-        ],
-        [
-          "매체",
-          2
-        ],
-        [
           "이벤트",
-          2
-        ],
-        [
-          "위반",
-          2
-        ],
-        [
-          "공지",
-          2
-        ],
-        [
-          "하든은",
-          2
-        ],
-        [
-          "파이널",
           2
         ]
       ],
       "angle_scores": [
         [
           "스포츠",
-          4
+          7
         ],
         [
           "가족·혈연",
-          2
+          3
         ]
       ]
     }
@@ -1000,19 +1073,19 @@
     {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 4,
-      "source_article": "‘초대형 충격 소식’ 日 요미우리 감독, 18세 딸 폭행→체포 후 석방...구단 “감독대행 체제, 경질 논의”",
+      "article_count": 7,
+      "source_article": "‘충격 소식’ 78억 안겼는데, 2군 타율마저 1할 붕괴 위기…4G 연속 무안타→두산 전문 1루수 언제 돌아오나",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "감독",
-        "요미우",
+        "소식",
+        "두산",
         "폭행",
-        "체포",
-        "초대형"
+        "요미우"
       ],
       "template": "스포츠 기록",
-      "score": 6.8,
+      "score": 7.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1031,18 +1104,47 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"요미우이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 2,
-      "source_article": "‘초대형 충격 소식’ 日 요미우리 감독, 18세 딸 폭행→체포 후 석방...구단 “감독대행 체제, 경질 논의”",
+      "title": "\"두산 자산이 얼마?\" 두산급 자산가 스타 TOP10",
+      "angle_type": "👤 두산",
+      "article_count": 3,
+      "source_article": "‘충격 소식’ 78억 안겼는데, 2군 타율마저 1할 붕괴 위기…4G 연속 무안타→두산 전문 1루수 언제 돌아오나",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
+        "두산"
+      ],
+      "template": "자산 서열",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"폭행이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 3,
+      "source_article": "\"챗GPT 권유로 신고\"…'딸 폭행 혐의' 日 요미우리 감독, 석방 후 사임→체포 사건 전말도 드러났다",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "폭행",
         "요미우",
         "감독",
-        "폭행",
-        "체포",
-        "초대형"
+        "석방",
+        "체포"
       ],
       "template": "동갑내기",
       "score": 6.3,
@@ -1095,84 +1197,18 @@
   ],
   "all_topics": [
     {
-      "title": "\"기록, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 5,
-      "source_article": "김혜성 극적 생존! 다저스, 키케 복귀에 KIM 아닌 에스피날 DFA",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "기록",
-        "역사",
-        "왜곡",
-        "대군부",
-        "감독"
-      ],
-      "template": "스포츠 기록",
-      "score": 7.6,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 6,
-      "source_article": "최희, 대만 여행 사진 올렸다가 뜻밖의 논란…\"아이한테 밀크티 안 먹여\"",
-      "source_url": "https://m.entertain.naver.com/article/117/0004067866",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "최희",
-        "대만",
-        "여행",
-        "올렸다",
-        "뜻밖의"
-      ],
-      "template": "논란 집합",
-      "score": 7.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"배우이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
       "angle_type": "가족·혈연",
       "article_count": 7,
-      "source_article": "배우♥배우 부부, 결혼 18년 만에 '별거' 고백…\"자녀 공동 양육\"",
-      "source_url": "https://m.entertain.naver.com/article/445/0000418765",
+      "source_article": "'62세' 유혜리, 안면거상+지방 재배치 후 확 달라진 외모 \"못 알아볼 정도\"",
+      "source_url": "https://m.entertain.naver.com/article/076/0004408873",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "배우",
-        "아이",
-        "부부",
-        "결혼",
-        "별거"
+        "유혜리",
+        "안면거",
+        "지방",
+        "재배치",
+        "달라진"
       ],
       "template": "동갑내기",
       "score": 7.1,
@@ -1194,18 +1230,84 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"사기까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 4,
+      "source_article": "황정음, '폐기 장난감 나눔 논란' 3개월 만 해명…\"사진 급하게 찍어 올려서\"",
+      "source_url": "https://m.entertain.naver.com/article/311/0002015281",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "사기",
+        "황정음",
+        "폐기",
+        "장난감",
+        "나눔"
+      ],
+      "template": "논란 집합",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"부동산, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 3,
+      "source_article": "'아파트·상가 보유' 28기 현숙, 부동산 경매가 취미라더니 \"대출 이자만 명품백값\"",
+      "source_url": "https://m.entertain.naver.com/article/076/0004409111",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "부동산",
+        "사기",
+        "아파트",
+        "상가",
+        "보유"
+      ],
+      "template": "자산 서열",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
       "angle_type": "결혼·이혼",
-      "article_count": 8,
+      "article_count": 6,
       "source_article": "'한예종 선후배' 윤승우♥전재희, 11년 연애 끝… 오늘 결혼",
       "source_url": "https://m.entertain.naver.com/article/117/0004067966",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "결혼",
-        "개월",
+        "윤승우",
+        "전재희",
         "연애",
-        "김동욱",
-        "스텔라"
+        "데이식"
       ],
       "template": "결혼 화제",
       "score": 6.8,
@@ -1227,18 +1329,18 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "title": "\"복귀에, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
       "angle_type": "복귀·근황",
-      "article_count": 2,
-      "source_article": "김혜성 극적 생존! 다저스, 키케 복귀에 KIM 아닌 에스피날 DFA",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "article_count": 3,
+      "source_article": "황정음 父, 딸 1년 자숙→복귀에 팩폭 \"아직 나설 때 아냐, 납작 엎드려라\"",
+      "source_url": "https://m.entertain.naver.com/article/076/0004409113",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "주사이",
-        "종현",
-        "갖다줄",
-        "샤이니",
-        "멤버들"
+        "복귀에",
+        "황정음",
+        "자숙",
+        "팩폭",
+        "아직"
       ],
       "template": "장기 공백 복귀",
       "score": 6.6,
@@ -1260,16 +1362,49 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"개월 결혼설?\" 개월 연애사 총정리",
-      "angle_type": "👤 개월",
+      "title": "\"황정음, 대체 무슨 일이?\" 황정음 관련 이슈 총정리",
+      "angle_type": "👤 황정음",
       "article_count": 4,
-      "source_article": "김동욱, ♥스텔라김과 7개월 만에 상견례 \"4개월은 롱디..명동성당 결혼식 의미 有\"",
-      "source_url": "https://m.entertain.naver.com/article/076/0004408833",
+      "source_article": "황정음, '폐기 장난감 나눔 논란' 3개월 만 해명…\"사진 급하게 찍어 올려서\"",
+      "source_url": "https://m.entertain.naver.com/article/311/0002015281",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "개월"
+        "황정음"
       ],
-      "template": "결혼 화제",
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 3,
+      "source_article": "두산도 칼 빼들었다→아시아쿼터 타무라 ‘웨이버 공시’…“조속히 새 선수 영입할 것”",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "두산도",
+        "빼들었",
+        "아시아",
+        "쿼터",
+        "타무라"
+      ],
+      "template": "스포츠 기록",
       "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
@@ -1280,43 +1415,10 @@
       },
       "table": {
         "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-      "angle_type": "투병·건강",
-      "article_count": 3,
-      "source_article": "이수지, 오늘(25일) 시부상…투병 소식 알린 지 17일 만에 비보",
-      "source_url": "https://m.entertain.naver.com/article/312/0000761111",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "이수지",
-        "시부상",
-        "투병",
-        "소식",
-        "알린"
-      ],
-      "template": "투병 극복",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "투병 질환",
-          "공백기",
-          "복귀 작품"
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
         ]
       },
       "channel": "정보주는하마"
@@ -1324,19 +1426,19 @@
     {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 4,
-      "source_article": "‘초대형 충격 소식’ 日 요미우리 감독, 18세 딸 폭행→체포 후 석방...구단 “감독대행 체제, 경질 논의”",
+      "article_count": 7,
+      "source_article": "‘충격 소식’ 78억 안겼는데, 2군 타율마저 1할 붕괴 위기…4G 연속 무안타→두산 전문 1루수 언제 돌아오나",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "감독",
-        "요미우",
+        "소식",
+        "두산",
         "폭행",
-        "체포",
-        "초대형"
+        "요미우"
       ],
       "template": "스포츠 기록",
-      "score": 6.8,
+      "score": 7.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1355,18 +1457,47 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"요미우이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 2,
-      "source_article": "‘초대형 충격 소식’ 日 요미우리 감독, 18세 딸 폭행→체포 후 석방...구단 “감독대행 체제, 경질 논의”",
+      "title": "\"두산 자산이 얼마?\" 두산급 자산가 스타 TOP10",
+      "angle_type": "👤 두산",
+      "article_count": 3,
+      "source_article": "‘충격 소식’ 78억 안겼는데, 2군 타율마저 1할 붕괴 위기…4G 연속 무안타→두산 전문 1루수 언제 돌아오나",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
+        "두산"
+      ],
+      "template": "자산 서열",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"폭행이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 3,
+      "source_article": "\"챗GPT 권유로 신고\"…'딸 폭행 혐의' 日 요미우리 감독, 석방 후 사임→체포 사건 전말도 드러났다",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "폭행",
         "요미우",
         "감독",
-        "폭행",
-        "체포",
-        "초대형"
+        "석방",
+        "체포"
       ],
       "template": "동갑내기",
       "score": 6.3,
@@ -1419,7 +1550,7 @@
   ],
   "keyword_freq": [
     [
-      "개월",
+      "황정음",
       4
     ],
     [
@@ -1427,7 +1558,15 @@
       3
     ],
     [
-      "팬들",
+      "안면거상",
+      2
+    ],
+    [
+      "유혜리",
+      2
+    ],
+    [
+      "전재희",
       2
     ],
     [
@@ -1435,73 +1574,65 @@
       2
     ],
     [
-      "대군부인",
+      "윤승우",
       2
     ],
     [
-      "김동욱",
+      "개월",
       2
     ],
     [
-      "상견례",
+      "부동산",
       2
     ],
     [
-      "별거",
+      "주장",
       2
     ],
     [
-      "경고",
+      "복귀에",
       2
     ],
     [
-      "아이",
+      "아직",
       2
     ],
     [
-      "열었다",
+      "도운",
       2
     ],
     [
-      "전격",
+      "데이식스",
       2
     ],
     [
-      "명단서",
+      "열애설",
       2
     ],
     [
-      "에스피날",
+      "김민하",
       2
     ],
     [
-      "김혜성",
+      "있어",
       2
     ],
     [
-      "역사상",
+      "사기",
       2
     ],
     [
-      "러브레터",
-      1
+      "빼가라고",
+      2
     ],
     [
-      "행복",
-      1
-    ],
-    [
-      "사랑에",
-      1
-    ],
-    [
-      "마음",
+      "변우석",
       1
     ]
   ],
   "name_freq": [
     [
-      "개월",
+      "황정음",
       4
     ],
     [
@@ -1509,7 +1640,15 @@
       3
     ],
     [
-      "팬들",
+      "안면거",
+      2
+    ],
+    [
+      "유혜리",
+      2
+    ],
+    [
+      "전재희",
       2
     ],
     [
@@ -1517,51 +1656,43 @@
       2
     ],
     [
-      "대군부",
+      "윤승우",
       2
     ],
     [
-      "스텔라",
+      "개월",
       2
     ],
     [
-      "김동욱",
+      "부동산",
       2
     ],
     [
-      "상견례",
+      "주장",
       2
     ],
     [
-      "별거",
+      "복귀에",
       2
     ],
     [
-      "경고",
+      "아직",
       2
     ],
     [
-      "아이",
+      "도운",
       2
     ],
     [
-      "열었다",
+      "데이식",
       2
     ],
     [
-      "최준용",
-      2
-    ],
-    [
-      "전격",
-      2
-    ],
-    [
-      "명단서",
+      "열애설",
       2
     ]
   ],
-  "total_topics_generated": 10,
-  "valid_topics": 10,
+  "total_topics_generated": 11,
+  "valid_topics": 11,
   "excluded_duplicates": 0
 }
