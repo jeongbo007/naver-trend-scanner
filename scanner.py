@@ -1,22 +1,23 @@
 """
 ============================================================
-네이버 트렌드 스캐너 v4.0 — Gemini AI 분석 통합
-- 네이버 엔터 JSON API (많이 본 30위)
-- 스포츠 JSON API (많이 본 20위)
-- 폴백: 연예/스포츠 전용 HTML 크롤링
-- ★ Gemini API로 50개 기사 종합 분석 → 5~8개 구체 주제 자동 생성
-- 중복 체크 (channel_history.csv)
+네이버 트렌드 스캐너 v4.0
+- 네이버 엔터/스포츠 JSON API (많이 본 30위)
+- 네이버 엔터/스포츠 5분 랭킹 (신규)
+- DC인사이드 연예인 갤러리 (entertainer) - 신규
+- DC인사이드 국내야구 갤러리 (baseball_new10) - 신규
+- MLB파크 불펜 게시판 - 신규
+- 채널 자동 분류: 정보주는하마(연예) / 초구딱(야구)
 ============================================================
 """
 
-import csv, json, os, re, time, hashlib
+import csv, json, re, time, hashlib
 from collections import Counter
 from datetime import datetime, timedelta
 from pathlib import Path
 from difflib import SequenceMatcher
-
 import requests
 from bs4 import BeautifulSoup
+from urllib.parse import urljoin
 
 ROOT = Path(__file__).parent
 HISTORY_CSV = ROOT / "channel_history.csv"
@@ -26,7 +27,7 @@ DATA_DIR.mkdir(parents=True, exist_ok=True)
 TODAY = datetime.now().strftime("%Y%m%d")
 
 # ─────────────────────────────────────────────
-# 소스 URL
+# 소스 URL (JSON API - 안정)
 # ─────────────────────────────────────────────
 SOURCES = [
     {
@@ -37,39 +38,126 @@ SOURCES = [
         "origin": "https://m.entertain.naver.com",
     },
     {
+        "name": "엔터 5분 랭킹",
+        "url": "https://api-gw.entertain.naver.com/ranking/realtime?pageSize=20",
+        "category": "연예",
+        "referer": "https://m.entertain.naver.com/ranking/five",
+        "origin": "https://m.entertain.naver.com",
+    },
+    {
         "name": "스포츠 많이 본 뉴스",
         "url": f"https://api-gw.sports.naver.com/news/rankings/popular?date={TODAY}",
         "category": "스포츠",
         "referer": "https://m.sports.naver.com/ranking/index",
         "origin": "https://m.sports.naver.com",
     },
+    {
+        "name": "스포츠 5분 랭킹",
+        "url": "https://api-gw.sports.naver.com/news/rankings/realtime",
+        "category": "스포츠",
+        "referer": "https://m.sports.naver.com/ranking/index",
+        "origin": "https://m.sports.naver.com",
+    },
 ]
 
+# 폴백
 FALLBACK_SOURCES = [
+    {"name": "[폴백] 연예 랭킹", "url": "https://news.naver.com/main/ranking/popularDay.naver?mid=etc&sid1=106", "category": "연예", "encoding": "euc-kr"},
+    {"name": "[폴백] 스포츠 랭킹", "url": "https://news.naver.com/main/ranking/popularDay.naver?mid=etc&sid1=107", "category": "스포츠", "encoding": "euc-kr"},
+]
+
+# ⭐ 커뮤니티 HTML 소스 (실험적 - 차단 시 graceful skip)
+COMMUNITY_SOURCES = [
     {
-        "name": "[폴백] 연예 랭킹",
-        "url": "https://news.naver.com/main/ranking/popularDay.naver?mid=etc&sid1=106",
+        "name": "DC 연예인 갤러리",
+        "url": "https://gall.dcinside.com/board/lists/?id=entertainer&list_num=30&sort_type=N&exception_mode=recommend&page=1",
         "category": "연예",
-        "encoding": "euc-kr",
+        "type": "dc_gall",
     },
     {
-        "name": "[폴백] 스포츠 랭킹",
-        "url": "https://news.naver.com/main/ranking/popularDay.naver?mid=etc&sid1=107",
-        "category": "스포츠",
-        "encoding": "euc-kr",
+        "name": "DC 국내야구 갤러리",
+        "url": "https://gall.dcinside.com/board/lists/?id=baseball_new10&list_num=30&sort_type=N&exception_mode=recommend&page=1",
+        "category": "야구",
+        "type": "dc_gall",
+    },
+    {
+        "name": "MLB파크 불펜",
+        "url": "https://mlbpark.donga.com/mp/b.php?b=bullpen",
+        "category": "야구",
+        "type": "mlbpark",
     },
 ]
 
 MONTHS_THRESHOLD = 3
 MIN_VIEWS_FOR_REUSE = 80000
 
-# Gemini API
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
-GEMINI_MODEL = "gemini-2.5-flash-lite"
-GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
+# ─────────────────────────────────────────────
+# 야구 키워드 (채널 분류용)
+# ─────────────────────────────────────────────
+BASEBALL_KEYWORDS = set("""
+KBO 야구 프로야구 메이저리그 MLB 마이너 트레이드 FA 드래프트
+투수 타자 포수 외야수 내야수 유격수 1루수 2루수 3루수 선발 마무리 셋업맨 불펜
+홈런 안타 삼진 볼넷 도루 타율 평균자책점 ERA OPS WAR 출루율 장타율 QS
+구단 시구 시타 응원 치어리더 감독 코치 옵션 부상자명단
+기아 두산 삼성 LG 롯데 한화 SSG 키움 NC KT 다이노스 라이온즈 베어스 위즈 이글스 트윈스 자이언츠 히어로즈 타이거즈 랜더스
+류현진 이정후 김도영 김하성 박재현 곽빈 안우진 양현종 강민호 박세혁 한승택 김재현 양의지 최정 강백호 최형우 김선빈
+허인서 김건희 한준수 김도환 윤준호 이주헌 김형준 조형우 손성빈 오지환 박성한 김주원 제리드데일
+""".split())
+
+# 타겟 키워드
+TARGET_HIGH = set("자산 매출 수입 연봉 몸값 부동산 빌딩 건물 재산 파산 빚 사기 사업 CEO 기업 투자 KBO 야구 축구 월드컵 MLB FA 논란 폭로 충격 적발 고발 입건 도박 탈세 체납 음주".split())
+TARGET_MID = set("근황 복귀 은퇴 반전 역대급 드라마 영화 출연료 회당 결혼 이혼 재혼 동갑 혈연 가족".split())
+TARGET_LOW = set("아이돌 걸그룹 보이그룹 팬미팅 팬싸 뷰티 메이크업 패션 스타일".split())
+TARGET_PEOPLE = set("유재석 강호동 신동엽 이경규 탁재훈 김구라 손흥민 이강인 류현진 이정후 김도영 송강호 이병헌 하정우 마동석 황정민 이상민 임창정 김학래 백종원 이효리 전현무 박나래".split())
+
+NOT_NAMES = set("""
+기자 뉴스 속보 단독 종합 포토 영상 사진 제공 이슈 화제 시선 관심 주목
+한국 대한 정부 국민 사회 경제 정치 문화 생활 세계 국제 서울 부산 대구 인천 광주 대전 울산 제주
+오늘 내일 어제 올해 지난 이번 해당 관련 가운데 사이 이후 이전 당시 현재 최근 과거 미래
+전했 밝혔 보도 발표 전한 알려 나타 드러 확인 공개 진행 예정 결정 시작 마감 종료
+했다 됐다 있다 없다 된다 한다 왔다 갔다 했는 됐는 있는 없는
+라며 라고 에서 으로 까지 부터 에게 한테 보다 처럼 만큼 에서
+만에 가량 이상 이하 미만 정도 이래 이후 무렵 때문 덕분 바람 사이
+방송 출연 촬영 녹화 생방 프로 다시 함께 모두 처음 마지 나름
+논란 충격 경악 오열 분노 환호 감동 반전 역대 최초 최대 최고 최악 최근
+공구 등장 활동 참여 운영 개최 주최 진출 합류 탈퇴 복귀 은퇴 전역 입대
+결국 결과 원인 이유 배경 과정 상황 실태 현황 전망 분석 평가 비교 순위
+연예 스포츠 엔터 가요 드라 영화 예능 리얼 버라 코미 토크 다큐 시사
+삼성 현대 하이닉스 네이버 카카오 쿠팡 배민 토스 라인
+유조선 호르무즈 성과급 노조 대장동 검사 대통령 국회 여당 야당 총리 장관 의원 후보
+주식 코스피 코스닥 환율 금리 물가 부채 적자 흑자 수출 수입
+만원대 원대에 억대로 천만원 백만원 십만원
+""".split())
 
 # ─────────────────────────────────────────────
-# 채널 히스토리
+# 채널 자동 분류
+# ─────────────────────────────────────────────
+def assign_channel(article):
+    """기사를 정보주는하마(연예) / 초구딱(야구) 채널로 분류"""
+    title = article.get("title", "")
+    cat = article.get("category", "")
+
+    # 1. 명시적 카테고리 우선
+    if cat == "야구":
+        return "초구딱"
+
+    # 2. 제목에 야구 키워드 있는지 검사
+    title_tokens = set(re.findall(r"[가-힣A-Za-z]+", title))
+    baseball_hit = title_tokens & BASEBALL_KEYWORDS
+
+    if baseball_hit:
+        # 연예 카테고리에서 야구 키워드 발견 = 연예X야구 크로스 (정보주는하마)
+        if cat == "연예":
+            article["cross_baseball"] = True
+            return "정보주는하마"
+        # 그 외 (스포츠 등) = 초구딱
+        return "초구딱"
+
+    return "정보주는하마"
+
+
+# ─────────────────────────────────────────────
+# 히스토리
 # ─────────────────────────────────────────────
 def load_history():
     if not HISTORY_CSV.exists():
@@ -77,11 +165,7 @@ def load_history():
     rows = []
     with open(HISTORY_CSV, encoding="utf-8") as f:
         for r in csv.DictReader(f):
-            rows.append({
-                "title": r["title"],
-                "views": int(r.get("views", 0)),
-                "published": r.get("published", ""),
-            })
+            rows.append({"title": r["title"], "views": int(r.get("views", 0)), "published": r.get("published", "")})
     return rows
 
 
@@ -93,74 +177,13 @@ def parse_date(s):
 
 
 # ─────────────────────────────────────────────
-# 중복 체크
-# ─────────────────────────────────────────────
-NOT_NAMES = set("""
-기자 뉴스 속보 단독 종합 포토 영상 사진 제공 이슈 화제 시선 관심 주목
-한국 대한 정부 국민 사회 경제 정치 문화 생활 세계 국제 서울 부산 대구 인천 광주 대전 울산 제주
-오늘 내일 어제 올해 지난 이번 해당 관련 가운데 사이 이후 이전 당시 현재 최근 과거 미래
-전했 밝혔 보도 발표 전한 알려 나타 드러 확인 공개 진행 예정 결정 시작 마감 종료
-했다 됐다 있다 없다 된다 한다 왔다 갔다 했는 됐는 있는 없는
-라며 라고 에서 으로 까지 부터 에게 한테 보다 처럼 만큼
-만에 가량 이상 이하 미만 정도 이래 이후 무렵 때문 덕분 바람
-방송 출연 촬영 녹화 생방 프로 다시 함께 모두 처음 마지 나름
-논란 충격 경악 오열 분노 환호 감동 반전 역대 최초 최대 최고 최악
-공구 등장 활동 참여 운영 개최 주최 진출 합류 탈퇴 복귀 은퇴 전역 입대
-결국 결과 원인 이유 배경 과정 상황 실태 현황 전망 분석 평가 비교 순위
-연예 스포츠 엔터 가요 드라 영화 예능 리얼 버라 코미 토크 다큐 시사
-삼성 현대 하이닉스 네이버 카카오 쿠팡 배민 토스 라인
-유조선 호르무즈 성과급 노조 대장동 검사 대통령 국회 여당 야당 총리 장관 의원 후보
-주식 코스피 코스닥 환율 금리 물가 부채 적자 흑자 수출 수입
-만원대 원대에 억대로 천만원 백만원 십만원
-""".split())
-
-
-def check_dup(title, history):
-    now = datetime.now()
-    result = {
-        "is_duplicate": False,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": "",
-    }
-    t_kw = set(re.findall(r"[가-힣]{2,}", title)) - NOT_NAMES
-    best, best_sim = None, 0
-    for h in history:
-        h_kw = set(re.findall(r"[가-힣]{2,}", h["title"])) - NOT_NAMES
-        s = SequenceMatcher(None, title, h["title"]).ratio()
-        o = len(t_kw & h_kw) / min(len(t_kw), len(h_kw)) if t_kw and h_kw else 0
-        c = s * 0.3 + o * 0.7
-        if c > best_sim:
-            best_sim = c
-            best = h
-
-    if best_sim >= 0.55 and best:
-        pub = parse_date(best["published"])
-        v = best["views"]
-        days = (now - pub).days if pub else 0
-        if days >= MONTHS_THRESHOLD * 30 and v >= MIN_VIEWS_FOR_REUSE:
-            result["status"] = "재활용 가능"
-            result["reason"] = f"검증됨 {v:,}회 · {days}일 경과"
-        elif days >= MONTHS_THRESHOLD * 30:
-            result["status"] = "재활용 가능"
-            result["reason"] = f"기간 경과 {days}일"
-        else:
-            result["is_duplicate"] = True
-            result["status"] = "중복 제외"
-            result["reason"] = f"{v:,}회 · 최근"
-        result["matched_title"] = best["title"]
-        result["matched_views"] = v
-    return result
-
-
-# ─────────────────────────────────────────────
 # 크롤러
 # ─────────────────────────────────────────────
 class Crawler:
     def __init__(self):
         self.session = requests.Session()
 
+    # ── JSON API (네이버) ──
     def fetch_json(self, src):
         headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
@@ -177,7 +200,7 @@ class Crawler:
             r.raise_for_status()
             return self._parse_json(r.json(), src)
         except Exception as e:
-            print(f"  ⚠ API 실패: {e}")
+            print(f"   ⚠ JSON API 실패: {e}")
             return []
 
     def _parse_json(self, data, src):
@@ -200,9 +223,9 @@ class Crawler:
                         items = v
                         break
 
-        print(f"  📊 JSON: {len(items)}개")
+        print(f"   📊 JSON: {len(items)}개")
         if items and isinstance(items[0], dict):
-            print(f"  📌 키: {list(items[0].keys())[:8]}")
+            print(f"   📌 키: {list(items[0].keys())[:8]}")
 
         articles = []
         for item in items[:30]:
@@ -215,13 +238,11 @@ class Crawler:
                     break
             if not title or len(title) < 8:
                 continue
-
             url = ""
             for uk in ["articleLink", "link", "url", "articleUrl", "newsUrl", "pcLink", "mobileLink"]:
                 if uk in item and item[uk]:
                     url = str(item[uk]).strip()
                     break
-
             views = 0
             for vk in ["readCount", "viewCount", "views", "hitCount", "totalCount", "count"]:
                 if vk in item:
@@ -230,18 +251,14 @@ class Crawler:
                     except:
                         pass
                     break
-
             title = re.sub(r"\[.*?\]", "", title).strip()
             articles.append({
-                "title": title,
-                "url": url,
-                "source": src["name"],
-                "category": src["category"],
-                "views": views,
-                "rank": len(articles) + 1,
+                "title": title, "url": url, "source": src["name"],
+                "category": src["category"], "views": views, "rank": len(articles) + 1,
             })
         return articles
 
+    # ── HTML 폴백 (네이버 뉴스) ──
     def fetch_html_fallback(self, src):
         headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
         try:
@@ -271,250 +288,370 @@ class Crawler:
                     continue
                 seen.add(key)
                 if not href.startswith("http"):
-                    from urllib.parse import urljoin
                     href = urljoin(src["url"], href)
+                articles.append({"title": title, "url": href, "source": src["name"], "category": src["category"], "views": 0, "rank": len(articles) + 1})
+            return articles[:30]
+        except Exception as e:
+            print(f"   ⚠ 폴백 실패: {e}")
+            return []
+
+    # ── ⭐ DC인사이드 갤러리 ──
+    def fetch_dc_gallery(self, src):
+        """DC인사이드 갤러리 크롤링 (모바일 UA + Referer 위장)"""
+        headers = {
+            "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "ko-KR,ko;q=0.9",
+            "Referer": "https://gall.dcinside.com/",
+            "Cache-Control": "no-cache",
+        }
+        try:
+            r = self.session.get(src["url"], headers=headers, timeout=15)
+            r.raise_for_status()
+            soup = BeautifulSoup(r.text, "html.parser")
+
+            articles = []
+            # DC인사이드 표준 게시판 구조
+            rows = soup.select("tr.ub-content") or soup.select("table.gall_list tr") or []
+
+            for tr in rows[:50]:
+                # 말머리 (공지/AD 등) 스킵
+                cls = " ".join(tr.get("class", []))
+                if "notice" in cls.lower():
+                    continue
+
+                title_el = tr.select_one("td.gall_tit a, .gall_tit a, td.tit a") or tr.find("a")
+                if not title_el:
+                    continue
+                title = title_el.get_text(strip=True)
+                # 댓글 카운트가 a 안에 있을 수 있으니 분리
+                title = re.sub(r"\s*\[\d+\]\s*$", "", title)
+                title = re.sub(r"\s*\(\d+\)\s*$", "", title)
+
+                if len(title) < 5:
+                    continue
+                if title.startswith(("공지", "설문", "AD", "이벤트", "■", "▶")):
+                    continue
+
+                href = title_el.get("href", "")
+                if href.startswith("/"):
+                    href = "https://gall.dcinside.com" + href
+
+                # 조회수
+                views = 0
+                views_el = tr.select_one("td.gall_count, .gall_count")
+                if views_el:
+                    txt = views_el.get_text(strip=True).replace(",", "")
+                    if txt.isdigit():
+                        views = int(txt)
+
+                # 추천수
+                recommends = 0
+                rec_el = tr.select_one("td.gall_recommend, .gall_recommend")
+                if rec_el:
+                    txt = rec_el.get_text(strip=True).replace(",", "")
+                    if txt.lstrip("-").isdigit():
+                        recommends = int(txt)
+
                 articles.append({
                     "title": title,
                     "url": href,
                     "source": src["name"],
                     "category": src["category"],
-                    "views": 0,
+                    "views": views,
+                    "recommends": recommends,
                     "rank": len(articles) + 1,
                 })
-            return articles[:30]
+                if len(articles) >= 30:
+                    break
+
+            print(f"   📊 DC: {len(articles)}개")
+            return articles
         except Exception as e:
-            print(f"  ⚠ 폴백 실패: {e}")
+            print(f"   ⚠ DC 갤러리 실패: {e}")
+            return []
+
+    # ── ⭐ MLB파크 ──
+    def fetch_mlbpark(self, src):
+        """MLB파크 불펜 게시판"""
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "ko-KR,ko;q=0.9",
+            "Referer": "https://mlbpark.donga.com/",
+            "Cache-Control": "no-cache",
+        }
+        try:
+            r = self.session.get(src["url"], headers=headers, timeout=15)
+            r.raise_for_status()
+            text = r.content.decode("utf-8", errors="replace")
+            soup = BeautifulSoup(text, "html.parser")
+
+            articles = []
+            # MLB파크 게시판 구조: tr 안에 .tit > a
+            rows = soup.select("tr")
+            for tr in rows:
+                title_el = tr.select_one(".tit a, td.tit a") or tr.select_one("a[href*='b.php']")
+                if not title_el:
+                    continue
+                title = title_el.get_text(strip=True)
+                title = re.sub(r"\s*\[\d+\]\s*$", "", title)
+                title = re.sub(r"\s*\(\d+\)\s*$", "", title)
+
+                if len(title) < 5:
+                    continue
+
+                href = title_el.get("href", "")
+                if href.startswith("/"):
+                    href = "https://mlbpark.donga.com" + href
+                elif not href.startswith("http"):
+                    href = "https://mlbpark.donga.com/mp/" + href
+
+                # 조회수 추출 (숫자만 있는 td)
+                views = 0
+                for td in tr.find_all("td"):
+                    txt = td.get_text(strip=True).replace(",", "")
+                    if txt.isdigit() and 10 < int(txt) < 10000000:
+                        views = max(views, int(txt))
+
+                articles.append({
+                    "title": title,
+                    "url": href,
+                    "source": src["name"],
+                    "category": src["category"],
+                    "views": views,
+                    "rank": len(articles) + 1,
+                })
+                if len(articles) >= 30:
+                    break
+
+            print(f"   📊 MLB파크: {len(articles)}개")
+            return articles
+        except Exception as e:
+            print(f"   ⚠ MLB파크 실패: {e}")
             return []
 
 
 # ─────────────────────────────────────────────
-# ★ Gemini API 종합 분석
+# 키워드/인물 분석 → 통합 주제
 # ─────────────────────────────────────────────
-def build_gemini_prompt(articles, history_titles):
-    """기사 목록 + 채널 히스토리를 Gemini에게 보낼 프롬프트 생성"""
-    # 기사 목록 텍스트
-    ent_articles = [a for a in articles if a["category"] == "연예"]
-    sport_articles = [a for a in articles if a["category"] == "스포츠"]
-
-    article_text = "## 연예 기사 (많이 본 순)\n"
-    for i, a in enumerate(ent_articles, 1):
-        views_str = f" ({a['views']:,}회)" if a['views'] else ""
-        article_text += f"{i}. {a['title']}{views_str}\n"
-
-    article_text += "\n## 스포츠 기사 (많이 본 순)\n"
-    for i, a in enumerate(sport_articles, 1):
-        views_str = f" ({a['views']:,}회)" if a['views'] else ""
-        article_text += f"{i}. {a['title']}{views_str}\n"
-
-    # 최근 히스토리 (중복 방지용)
-    recent_titles = history_titles[:30] if history_titles else []
-    history_text = "\n".join(f"- {t}" for t in recent_titles) if recent_titles else "(없음)"
-
-    prompt = f"""당신은 유튜브 채널 "정보주는 하마"의 콘텐츠 기획자입니다.
-
-## 채널 정보
-- 형식: TOP10 숏츠 (세로 영상, 표 기반 정보 전달)
-- 타겟: 30~50대 한국 남성
-- 히트 제목 패턴: "따옴표 인용" + 구체 숫자/금액 + 의문문(?)
-- 30만+ 조회수 영상 200개 이상 보유
-- A등급 카테고리: 드라마 출연료 역전, 연예인 스캔들/논란, 연예인 재산/자산 공개, KBO/스포츠 기록
-
-## 오늘 네이버 랭킹 기사
-{article_text}
-
-## 최근 제작한 영상 (중복 피해야 함)
-{history_text}
-
-## 지시사항
-위 기사들을 종합 분석해서, TOP10 숏츠 영상 주제를 5~8개 추천해주세요.
-
-**중요 규칙:**
-1. 같은 인물/팀이 여러 기사에 등장하면 하나의 주제로 통합
-2. 단순 기사 요약이 아니라, 기사에서 파생되는 구체적 "TOP10 앵글"을 만들어야 함
-   (예: "음주운전 기사" → "KBO 선수 음주운전 징계 TOP10")
-3. 최근 제작한 영상과 겹치는 주제는 피하기 (또는 다른 앵글로)
-4. 30~50대 남성이 궁금해할 돈/스포츠/논란/반전 앵글 우선
-
-**반드시 아래 JSON 형식으로만 응답하세요. 다른 텍스트 없이 JSON만 출력:**
-
-```json
-{{
-  "topics": [
-    {{
-      "title": "30만+ 찍을 영상 제목 (따옴표 인용 + 숫자 + 의문문 패턴)",
-      "angle": "이 주제의 핵심 앵글 한줄 설명",
-      "research_instruction": "리서치할 때 구체적으로 뭘 찾아야 하는지 지시",
-      "table_columns": ["컬럼1", "컬럼2", "컬럼3", "컬럼4"],
-      "source_articles": ["관련 기사 제목1", "관련 기사 제목2"],
-      "category": "연예" 또는 "스포츠" 또는 "혼합",
-      "confidence": 1~10 (이 주제가 터질 확률)
-    }}
-  ]
-}}
-```"""
-    return prompt
+def extract_real_names(articles):
+    name_counter = Counter()
+    name_articles = {}
+    for art in articles:
+        title = art["title"]
+        quoted_names = re.findall(r"['\"]?([가-힣]{2,4})['\"]?\s*[,·]", title)
+        all_names = re.findall(r"[가-힣]{2,3}", title)
+        candidates = set(quoted_names + all_names)
+        for name in candidates:
+            if name in NOT_NAMES:
+                continue
+            if len(name) < 2:
+                continue
+            if name.endswith(("에서", "으로", "까지", "부터", "라며", "라고", "했다", "됐다", "있다", "없다")):
+                continue
+            name_counter[name] += 1
+            if name not in name_articles:
+                name_articles[name] = []
+            name_articles[name].append(art)
+    return name_counter, name_articles
 
 
-def call_gemini(prompt):
-    """Gemini API 호출"""
-    if not GEMINI_API_KEY:
-        print("  ⚠ GEMINI_API_KEY 없음 — AI 분석 건너뜀")
-        return None
+def analyze_and_generate(articles, history):
+    if not articles:
+        return {"topics": [], "keyword_freq": [], "name_freq": [], "angle_scores": []}
 
-    url = f"{GEMINI_URL}?key={GEMINI_API_KEY}"
-    payload = {
-        "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {
-            "temperature": 0.7,
-            "maxOutputTokens": 4096,
-            "responseMimeType": "application/json",
-        },
+    angle_patterns = {
+        "자산·몸값": r"자산|재산|연봉|몸값|부동산|빌딩|매출|수익|출연료|개런티|\d+억|\d+조",
+        "논란·사건": r"논란|폭로|고발|적발|음주|사기|탈세|도박|갑질|비난|물의|구속|기소",
+        "결혼·이혼": r"결혼|이혼|열애|재혼|파혼|임신|출산|약혼",
+        "복귀·근황": r"복귀|근황|컴백|은퇴|전역|공백",
+        "투병·건강": r"투병|완치|수술|입원|암|희귀병|재활|사망|별세|부고",
+        "스포츠": r"홈런|안타|골|우승|신기록|FA|트레이드|MVP|감독|코치|선발|타순|선수|KBO|K리그",
+        "가족·혈연": r"가족|혈연|동갑|형제|부모|2세|자녀|아들|딸",
     }
 
-    try:
-        r = requests.post(url, json=payload, timeout=60)
-        r.raise_for_status()
-        data = r.json()
+    angle_articles = {}
+    for angle, pattern in angle_patterns.items():
+        matched = [a for a in articles if re.search(pattern, a["title"])]
+        if len(matched) >= 2:
+            angle_articles[angle] = matched
 
-        # 응답에서 텍스트 추출
-        text = ""
-        candidates = data.get("candidates", [])
-        if candidates:
-            parts = candidates[0].get("content", {}).get("parts", [])
-            if parts:
-                text = parts[0].get("text", "")
+    name_counter, name_arts = extract_real_names(articles)
+    top_names = [(n, c) for n, c in name_counter.most_common(20) if c >= 2]
 
-        if not text:
-            print("  ⚠ Gemini 응답 비어있음")
-            return None
-
-        # JSON 파싱 (```json ... ``` 제거)
-        text = text.strip()
-        if text.startswith("```"):
-            text = re.sub(r"^```\w*\n?", "", text)
-            text = re.sub(r"\n?```$", "", text)
-
-        result = json.loads(text)
-        return result
-
-    except requests.exceptions.HTTPError as e:
-        print(f"  ⚠ Gemini HTTP 에러: {e}")
-        print(f"  응답: {e.response.text[:500] if e.response else 'N/A'}")
-        return None
-    except json.JSONDecodeError as e:
-        print(f"  ⚠ Gemini JSON 파싱 실패: {e}")
-        print(f"  원본: {text[:500]}")
-        return None
-    except Exception as e:
-        print(f"  ⚠ Gemini 호출 실패: {e}")
-        return None
-
-
-def gemini_analyze(articles, history):
-    """Gemini로 기사 종합 분석 → 주제 생성"""
-    history_titles = [h["title"] for h in history]
-    prompt = build_gemini_prompt(articles, history_titles)
-
-    print("\n🤖 Gemini AI 분석 중...")
-    print(f"  📨 기사 {len(articles)}개 전송 (연예 {sum(1 for a in articles if a['category']=='연예')}개 + 스포츠 {sum(1 for a in articles if a['category']=='스포츠')}개)")
-
-    result = call_gemini(prompt)
-
-    if not result or "topics" not in result:
-        print("  ⚠ AI 분석 실패 — 폴백 (기본 키워드 분석)")
-        return fallback_analyze(articles, history)
-
-    topics = result["topics"]
-    print(f"  ✅ AI 주제 {len(topics)}개 생성")
-
-    # 중복 체크 + 관련 기사 URL 매핑
-    enriched = []
-    for t in topics:
-        # 관련 기사에서 URL 찾기
-        source_articles_with_url = []
-        for src_title in t.get("source_articles", []):
-            matched = None
-            best_sim = 0
-            for a in articles:
-                sim = SequenceMatcher(None, src_title, a["title"]).ratio()
-                if sim > best_sim:
-                    best_sim = sim
-                    matched = a
-            if matched and best_sim > 0.4:
-                source_articles_with_url.append({
-                    "title": matched["title"],
-                    "url": matched.get("url", ""),
-                    "category": matched.get("category", ""),
-                    "views": matched.get("views", 0),
-                })
-
-        dup = check_dup(t["title"], history)
-
-        enriched.append({
-            "title": t["title"],
-            "angle": t.get("angle", ""),
-            "research_instruction": t.get("research_instruction", ""),
-            "table_columns": t.get("table_columns", ["이름", "분류", "내용", "비고"]),
-            "source_articles": source_articles_with_url,
-            "category": t.get("category", "연예"),
-            "confidence": t.get("confidence", 5),
-            "dup_check": dup,
-            "ai_generated": True,
+    topics = []
+    used_angles = set()
+    for angle, matched in sorted(angle_articles.items(), key=lambda x: len(x[1]), reverse=True):
+        if angle in used_angles:
+            continue
+        used_angles.add(angle)
+        angle_names = Counter()
+        for a in matched:
+            for name in re.findall(r"[가-힣]{2,3}", a["title"]):
+                if name not in NOT_NAMES:
+                    angle_names[name] += 1
+        top_person = ""
+        if angle_names:
+            best_name, best_count = angle_names.most_common(1)[0]
+            if best_count >= 2:
+                top_person = best_name
+        title = _make_title(angle, top_person)
+        best_art = max(matched, key=lambda a: a.get("views", 0))
+        topics.append({
+            "title": title,
+            "angle_type": angle,
+            "article_count": len(matched),
+            "source_article": best_art["title"],
+            "source_url": best_art.get("url", ""),
+            "source_name": best_art.get("source", ""),
+            "related_names": [n for n, _ in angle_names.most_common(5) if n not in NOT_NAMES],
+            "template": _get_template_name(angle),
         })
 
-    # 중복 아닌 것만
-    valid = [t for t in enriched if not t["dup_check"]["is_duplicate"]]
-    excluded = len(enriched) - len(valid)
+    for name, cnt in top_names:
+        if cnt < 3:
+            break
+        if name in NOT_NAMES:
+            continue
+        if any(name in t.get("title", "") for t in topics):
+            continue
+        person_arts = name_arts.get(name, [])
+        context = _detect_context(name, person_arts)
+        topics.append({
+            "title": context["title"],
+            "angle_type": f"👤 {name}",
+            "article_count": cnt,
+            "source_article": person_arts[0]["title"] if person_arts else "",
+            "source_url": person_arts[0].get("url", "") if person_arts else "",
+            "source_name": person_arts[0].get("source", "") if person_arts else "",
+            "related_names": [name],
+            "template": context["template"],
+        })
 
-    # confidence 순 정렬
-    valid.sort(key=lambda x: x.get("confidence", 0), reverse=True)
+    for t in topics:
+        t["score"] = _score(t)
+        t["dup_check"] = _check_dup(t["title"], history)
+        t["table"] = {"headers": list(_headers(t["template"]))}
 
-    print(f"  🎯 유효 주제: {len(valid)}개 (중복 제외: {excluded}개)")
-    return valid, excluded
+    topics.sort(key=lambda t: t["score"], reverse=True)
+    valid = [t for t in topics if not t["dup_check"]["is_duplicate"]]
 
-
-# ─────────────────────────────────────────────
-# 폴백: Gemini 없을 때 기본 키워드 분석
-# ─────────────────────────────────────────────
-def fallback_analyze(articles, history):
-    """Gemini 실패 시 기존 키워드 기반 분석"""
-    print("  📊 키워드 빈도 기반 폴백 분석...")
-
-    # 간단 키워드 카운팅
     kw_counter = Counter()
     for art in articles:
         words = set(re.findall(r"[가-힣]{2,}", art["title"])) - NOT_NAMES
         kw_counter.update(words)
 
-    top_kw = kw_counter.most_common(10)
-    topics = []
-    for kw, cnt in top_kw[:5]:
-        if cnt < 2:
-            continue
-        related = [a for a in articles if kw in a["title"]]
-        best = max(related, key=lambda a: a.get("views", 0))
-        title = f'"{kw}" 관련 화제 스타 TOP10'
-        dup = check_dup(title, history)
-        topics.append({
-            "title": title,
-            "angle": f"{kw} 관련 기사 {cnt}건에서 파생",
-            "research_instruction": f"{kw} 관련 인물/사건 10개 조사",
-            "table_columns": ["이름", "분류", "내용", "비고"],
-            "source_articles": [{
-                "title": best["title"],
-                "url": best.get("url", ""),
-                "category": best.get("category", ""),
-                "views": best.get("views", 0),
-            }],
-            "category": best.get("category", "연예"),
-            "confidence": min(cnt, 10),
-            "dup_check": dup,
-            "ai_generated": False,
-        })
+    return {
+        "topics": valid[:20],
+        "keyword_freq": kw_counter.most_common(20),
+        "name_freq": top_names[:15],
+        "angle_scores": [(a, len(arts)) for a, arts in angle_articles.items()],
+    }
 
-    valid = [t for t in topics if not t["dup_check"]["is_duplicate"]]
-    excluded = len(topics) - len(valid)
-    return valid, excluded
+
+def _make_title(angle, person):
+    p = person
+    titles = {
+        "자산·몸값": [f'"{p}, 자산이 이 정도였다고?" 연예인 숨은 자산 서열 TOP10' if p else '"숨은 부자였다고?" 연예인 자산 서열 TOP10'],
+        "논란·사건": [f'"{p}까지 이럴 줄은..." 올해 팬들 분노 터진 스타 TOP10' if p else '"올해 대체 무슨 일이" 팬들 충격 받은 스타 TOP10'],
+        "결혼·이혼": [f'"{p} 결혼 상대가 누구?" 화제의 결혼 발표 스타 TOP10' if p else '"남편이 누구길래 난리?" 화제의 결혼 스타 TOP10'],
+        "복귀·근황": [f'"{p}, 지금 뭐 하고 있을까?" 근황 궁금한 스타 TOP10' if p else '"그때 그 사람, 지금은?" 근황 궁금한 스타 TOP10'],
+        "투병·건강": ['"죽을 고비 넘기고 돌아왔다" 투병 이겨낸 스타 TOP10'],
+        "스포츠": [f'"{p}, 역대급 기록?" 스포츠 레전드 기록 TOP10' if p else '"이 기록은 못 깬다" 역대급 스포츠 기록 TOP10'],
+        "가족·혈연": [f'"{p}이랑 형제였다고?" 놀라운 연예계 가족 TOP10' if p else '"이 둘이 가족이라고?" 놀라운 연예계 혈연 TOP10'],
+    }
+    return titles.get(angle, ['"화제의 스타" TOP10'])[0]
+
+
+def _detect_context(name, articles):
+    combined = " ".join(a["title"] for a in articles)
+    checks = [
+        (r"논란|폭로|사건|사고|구속", {"title": f'"{name}, 대체 무슨 일이?" {name} 관련 이슈 총정리', "template": "논란 집합"}),
+        (r"결혼|열애|이혼", {"title": f'"{name} 결혼설?" {name} 연애사 총정리', "template": "결혼 화제"}),
+        (r"복귀|근황|컴백", {"title": f'"{name}, 지금 어디서 뭐 하나?" {name} 근황 총정리', "template": "장기 공백 복귀"}),
+        (r"자산|연봉|몸값|억", {"title": f'"{name} 자산이 얼마?" {name}급 자산가 스타 TOP10', "template": "자산 서열"}),
+    ]
+    for pat, result in checks:
+        if re.search(pat, combined):
+            return result
+    return {"title": f'"{name}" 관련 화제 스타 TOP10', "template": "인맥"}
+
+
+def _get_template_name(angle):
+    return {"자산·몸값": "자산 서열", "논란·사건": "논란 집합", "결혼·이혼": "결혼 화제",
+            "복귀·근황": "장기 공백 복귀", "투병·건강": "투병 극복", "스포츠": "스포츠 기록",
+            "가족·혈연": "동갑내기"}.get(angle, "인맥")
+
+
+def _headers(template):
+    return {"자산 서열": ("이름", "주요 수입원", "추정 자산", "자산 특이점"),
+            "논란 집합": ("이름", "소속·직업", "논란 내용", "현재 상황"),
+            "결혼 화제": ("이름", "배우자", "결혼 시점", "화제 포인트"),
+            "장기 공백 복귀": ("이름", "공백 기간", "공백 사유", "복귀 작품"),
+            "투병 극복": ("이름", "투병 질환", "공백기", "복귀 작품"),
+            "스포츠 기록": ("선수", "소속팀", "기록 내용", "기록 가치"),
+            "동갑내기": ("이름", "나이", "대표작", "현재 활동"),
+            "인맥": ("이름", "분류", "이슈 내용", "현재 상황"),
+            }.get(template, ("이름", "분류", "내용", "비고"))
+
+
+def _score(topic):
+    score = 5.0
+    text = topic["title"] + " " + topic.get("source_article", "")
+    for kw in TARGET_HIGH:
+        if kw in text:
+            score += 0.5
+    for kw in TARGET_MID:
+        if kw in text:
+            score += 0.3
+    for kw in TARGET_LOW:
+        if kw in text:
+            score -= 0.6
+    for p in TARGET_PEOPLE:
+        if p in text:
+            score += 0.4
+            break
+    cnt = topic.get("article_count", 1)
+    if cnt >= 5:
+        score += 1.5
+    elif cnt >= 3:
+        score += 1.0
+    elif cnt >= 2:
+        score += 0.5
+    return max(0, min(10, round(score, 1)))
+
+
+def _check_dup(title, history):
+    now = datetime.now()
+    result = {"is_duplicate": False, "status": "통과", "matched_title": "", "matched_views": 0, "reason": ""}
+    t_kw = set(re.findall(r"[가-힣]{2,}", title)) - NOT_NAMES
+    best, best_sim = None, 0
+    for h in history:
+        h_kw = set(re.findall(r"[가-힣]{2,}", h["title"])) - NOT_NAMES
+        s = SequenceMatcher(None, title, h["title"]).ratio()
+        o = len(t_kw & h_kw) / min(len(t_kw), len(h_kw)) if t_kw and h_kw else 0
+        c = s * 0.3 + o * 0.7
+        if c > best_sim:
+            best_sim = c
+            best = h
+    if best_sim >= 0.55 and best:
+        pub = parse_date(best["published"])
+        v = best["views"]
+        days = (now - pub).days if pub else 0
+        if days >= MONTHS_THRESHOLD * 30 and v >= MIN_VIEWS_FOR_REUSE:
+            result["status"] = "재활용 가능"
+            result["reason"] = f"검증됨 {v:,}회 · {days}일 경과"
+        elif days >= MONTHS_THRESHOLD * 30:
+            result["status"] = "재활용 가능"
+            result["reason"] = f"기간 경과 {days}일"
+        else:
+            result["is_duplicate"] = True
+            result["status"] = "중복 제외"
+            result["reason"] = f"{v:,}회 · 최근"
+        result["matched_title"] = best["title"]
+        result["matched_views"] = v
+    return result
 
 
 # ─────────────────────────────────────────────
@@ -523,7 +660,7 @@ def fallback_analyze(articles, history):
 def run_scan():
     t = datetime.now()
     print(f"\n{'='*60}")
-    print(f"🔍 트렌드 스캔 v4.0 (Gemini AI): {t.strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"🔍 트렌드 스캔 v4.0: {t.strftime('%Y-%m-%d %H:%M:%S')}")
     print(f"{'='*60}")
 
     crawler = Crawler()
@@ -533,36 +670,52 @@ def run_scan():
     all_articles = []
     stats = {}
 
-    # JSON API
+    # 1) JSON API 4개
     for src in SOURCES:
         print(f"\n📡 {src['name']}...")
         arts = crawler.fetch_json(src)
         stats[src["name"]] = len(arts)
         all_articles.extend(arts)
-        print(f"  ✅ {len(arts)}개")
-        for a in arts[:3]:
-            print(f"    📌 {a['rank']}위 {a['title'][:50]}")
+        print(f"   ✅ {len(arts)}개")
+        for a in arts[:2]:
+            print(f"      📌 {a['rank']}위 {a['title'][:45]}")
         time.sleep(1)
 
-    # 폴백 체크
+    # 2) 연예/스포츠 부족 시 폴백
     ent_count = sum(1 for a in all_articles if a["category"] == "연예")
     sport_count = sum(1 for a in all_articles if a["category"] == "스포츠")
-
     if ent_count < 5:
-        print(f"\n⚠️ 연예 {ent_count}개 부족. 연예 폴백...")
+        print(f"\n⚠️ 연예 {ent_count}개 부족. 폴백...")
         fb = FALLBACK_SOURCES[0]
         arts = crawler.fetch_html_fallback(fb)
         stats[fb["name"]] = len(arts)
         all_articles.extend(arts)
-        print(f"  ✅ {len(arts)}개")
-
+        print(f"   ✅ {len(arts)}개")
     if sport_count < 5:
-        print(f"\n⚠️ 스포츠 {sport_count}개 부족. 스포츠 폴백...")
+        print(f"\n⚠️ 스포츠 {sport_count}개 부족. 폴백...")
         fb = FALLBACK_SOURCES[1]
         arts = crawler.fetch_html_fallback(fb)
         stats[fb["name"]] = len(arts)
         all_articles.extend(arts)
-        print(f"  ✅ {len(arts)}개")
+        print(f"   ✅ {len(arts)}개")
+
+    # 3) ⭐ 커뮤니티 소스 (DC + MLB파크)
+    print(f"\n{'─'*60}\n🌐 커뮤니티 소스 (실험적)\n{'─'*60}")
+    for src in COMMUNITY_SOURCES:
+        print(f"\n📡 {src['name']}...")
+        time.sleep(2)  # 차단 방지
+        if src["type"] == "dc_gall":
+            arts = crawler.fetch_dc_gallery(src)
+        elif src["type"] == "mlbpark":
+            arts = crawler.fetch_mlbpark(src)
+        else:
+            arts = []
+        stats[src["name"]] = len(arts)
+        all_articles.extend(arts)
+        print(f"   ✅ {len(arts)}개")
+        for a in arts[:2]:
+            views_str = f" ({a.get('views', 0):,}회)" if a.get("views") else ""
+            print(f"      📌 {a['rank']}위 {a['title'][:45]}{views_str}")
 
     # 중복 제거
     seen = set()
@@ -571,82 +724,101 @@ def run_scan():
         if a["title"] not in seen:
             seen.add(a["title"])
             unique.append(a)
-    print(f"\n📋 총: {len(unique)}개")
+    print(f"\n📋 총 (중복 제거 후): {len(unique)}개")
 
-    # ★ Gemini AI 분석
-    topics, excluded = gemini_analyze(unique, history)
+    # ⭐ 채널 자동 분류
+    for a in unique:
+        a["channel"] = assign_channel(a)
 
-    # 키워드 빈도 (참고용)
-    kw_counter = Counter()
-    for art in unique:
-        words = set(re.findall(r"[가-힣]{2,}", art["title"])) - NOT_NAMES
-        kw_counter.update(words)
+    hama_arts = [a for a in unique if a["channel"] == "정보주는하마"]
+    cho_arts = [a for a in unique if a["channel"] == "초구딱"]
+    print(f"   🦛 정보주는하마: {len(hama_arts)}개")
+    print(f"   ⚾ 초구딱: {len(cho_arts)}개")
 
-    name_counter = Counter()
-    for art in unique:
-        names = re.findall(r"[가-힣]{2,3}", art["title"])
-        for n in names:
-            if n not in NOT_NAMES:
-                name_counter[n] += 1
+    # 채널별 분석 + 주제 생성
+    print(f"\n💡 채널별 분석 중...")
+    hama_analysis = analyze_and_generate(hama_arts, history)
+    cho_analysis = analyze_and_generate(cho_arts, history)
 
-    # 저장
+    for tp in hama_analysis["topics"]:
+        tp["channel"] = "정보주는하마"
+    for tp in cho_analysis["topics"]:
+        tp["channel"] = "초구딱"
+
+    print(f"   🦛 정보주는하마 주제: {len(hama_analysis['topics'])}개")
+    print(f"   ⚾ 초구딱 주제: {len(cho_analysis['topics'])}개")
+
+    # 결과 저장
     result = {
         "scan_time": t.strftime("%Y-%m-%d %H:%M:%S"),
-        "scanner_version": "4.0",
+        "scanner_version": "v4.0",
         "source_stats": stats,
         "total_articles": len(unique),
-        "total_topics_generated": len(topics) + excluded,
-        "excluded_duplicates": excluded,
-        "valid_topics": len(topics),
-        "ai_analyzed": bool(GEMINI_API_KEY),
         "articles": unique,
-        "topics": topics,
-        "keyword_freq": kw_counter.most_common(20),
-        "name_freq": name_counter.most_common(15),
+        "channels": {
+            "정보주는하마": {
+                "article_count": len(hama_arts),
+                "topics": hama_analysis["topics"],
+                "keyword_freq": hama_analysis["keyword_freq"],
+                "name_freq": hama_analysis["name_freq"],
+                "angle_scores": hama_analysis["angle_scores"],
+            },
+            "초구딱": {
+                "article_count": len(cho_arts),
+                "topics": cho_analysis["topics"],
+                "keyword_freq": cho_analysis["keyword_freq"],
+                "name_freq": cho_analysis["name_freq"],
+                "angle_scores": cho_analysis["angle_scores"],
+            },
+        },
+        # 호환성: 기존 대시보드용
+        "topics": hama_analysis["topics"] + cho_analysis["topics"],
+        "all_topics": hama_analysis["topics"] + cho_analysis["topics"],
+        "keyword_freq": hama_analysis["keyword_freq"],
+        "name_freq": hama_analysis["name_freq"],
+        "total_topics_generated": len(hama_analysis["topics"]) + len(cho_analysis["topics"]),
+        "valid_topics": len(hama_analysis["topics"]) + len(cho_analysis["topics"]),
+        "excluded_duplicates": 0,
     }
 
-    # latest.json
+    # 통합 latest.json (기존 대시보드 호환)
     with open(DATA_DIR / "latest.json", "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
 
-    # 아카이브
+    # 채널별 분리 저장 (새 대시보드용)
+    with open(DATA_DIR / "latest_hama.json", "w", encoding="utf-8") as f:
+        json.dump({**result, "topics": hama_analysis["topics"], "articles": hama_arts}, f, ensure_ascii=False, indent=2)
+
+    with open(DATA_DIR / "latest_baseball.json", "w", encoding="utf-8") as f:
+        json.dump({**result, "topics": cho_analysis["topics"], "articles": cho_arts}, f, ensure_ascii=False, indent=2)
+
     ts = t.strftime("%Y-%m-%d_%H%M")
     with open(DATA_DIR / f"scan_{ts}.json", "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
 
-    # 로그
     log_path = DATA_DIR / "scan_log.json"
     logs = json.loads(log_path.read_text(encoding="utf-8")) if log_path.exists() else []
     logs.insert(0, {
         "time": result["scan_time"],
         "articles": len(unique),
-        "topics": len(topics),
-        "ai": result["ai_analyzed"],
-        "file": f"scan_{ts}.json",
+        "hama_topics": len(hama_analysis["topics"]),
+        "baseball_topics": len(cho_analysis["topics"]),
+        "file": f"scan_{ts}.json"
     })
     log_path.write_text(json.dumps(logs[:50], ensure_ascii=False, indent=2), encoding="utf-8")
 
-    # 결과 출력
-    print(f"\n{'='*60}")
-    print(f"🎯 AI 추천 TOP 주제")
-    print(f"{'='*60}")
-    for i, tp in enumerate(topics[:8], 1):
-        conf = tp.get('confidence', 0)
-        marker = "🔥" if conf >= 8 else "✅" if conf >= 5 else "📌"
-        print(f"  {i}. {marker} [{conf}/10] {tp['title']}")
-        print(f"     앵글: {tp.get('angle', '')}")
-        print(f"     컬럼: {' | '.join(tp.get('table_columns', []))}")
-        src_arts = tp.get('source_articles', [])
-        if src_arts:
-            print(f"     ← {src_arts[0].get('title', '')[:50]}")
-        print()
+    # 상위 TOP 출력
+    print(f"\n{'='*60}\n🦛 정보주는하마 TOP 5\n{'='*60}")
+    for i, tp in enumerate(hama_analysis["topics"][:5], 1):
+        print(f"   {i}. [{tp['score']}] {tp['title']}")
+        print(f"      기사 {tp['article_count']}건 · 인물: {', '.join(tp.get('related_names', [])[:3])}")
+        print(f"      ← {tp['source_article'][:50]}")
 
-    if kw_counter:
-        print(f"📊 키워드 TOP5: {', '.join(f'{k}({c})' for k,c in kw_counter.most_common(5))}")
-    if name_counter:
-        print(f"👤 인물 TOP5: {', '.join(f'{n}({c})' for n,c in name_counter.most_common(5))}")
-
-    print(f"\n✅ 완료! latest.json 저장됨")
+    print(f"\n{'='*60}\n⚾ 초구딱 TOP 5\n{'='*60}")
+    for i, tp in enumerate(cho_analysis["topics"][:5], 1):
+        print(f"   {i}. [{tp['score']}] {tp['title']}")
+        print(f"      기사 {tp['article_count']}건 · 인물: {', '.join(tp.get('related_names', [])[:3])}")
+        print(f"      ← {tp['source_article'][:50]}")
 
 
 if __name__ == "__main__":
