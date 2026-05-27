@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-05-27 16:30:54",
+  "scan_time": "2026-05-27 19:23:23",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -631,6 +631,10 @@
           2
         ],
         [
+          "투병",
+          2
+        ],
+        [
           "매니저",
           2
         ],
@@ -639,19 +643,15 @@
           2
         ],
         [
-          "투병",
-          2
-        ],
-        [
           "달라진",
           2
         ],
         [
-          "제주항공",
+          "승무원",
           2
         ],
         [
-          "승무원",
+          "제주항공",
           2
         ],
         [
@@ -663,23 +663,11 @@
           2
         ],
         [
-          "동행",
-          1
-        ],
-        [
-          "조용히",
-          1
-        ],
-        [
-          "좋아요",
-          1
-        ],
-        [
-          "득남",
-          1
-        ],
-        [
           "이시언",
+          1
+        ],
+        [
+          "만삭",
           1
         ],
         [
@@ -687,7 +675,19 @@
           1
         ],
         [
+          "전현무는",
+          1
+        ],
+        [
           "엇갈린",
+          1
+        ],
+        [
+          "득남",
+          1
+        ],
+        [
+          "나혼산",
           1
         ]
       ],
@@ -717,15 +717,15 @@
           2
         ],
         [
+          "투병",
+          2
+        ],
+        [
           "매니저",
           2
         ],
         [
           "없어",
-          2
-        ],
-        [
-          "투병",
           2
         ],
         [
@@ -737,11 +737,11 @@
           2
         ],
         [
-          "승무원",
+          "제주항",
           2
         ],
         [
-          "제주항",
+          "승무원",
           2
         ],
         [
@@ -790,7 +790,7 @@
         {
           "title": "\"아니다, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 6,
+          "article_count": 7,
           "source_article": "'미쳤다' 정우주도 황준서도 아니다, 한화 '韓 최초' 이 선수 믿는다…무명 육성선수 또 기회 얻었다, 27일 선발 출격",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -816,68 +816,6 @@
               "소속팀",
               "기록 내용",
               "기록 가치"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"나솔\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 나솔",
-          "article_count": 6,
-          "source_article": "지금 나솔 라방 보고 이거 생각나면 아재",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202605280115606757&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "나솔"
-          ],
-          "template": "인맥",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 2,
-          "source_article": "'딸 폭행 사임' 아베 감독 제안으로 요미우리행 이승엽 코치 거취는 어떻게?",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "폭행",
-            "사임",
-            "아베",
-            "감독",
-            "제안으"
-          ],
-          "template": "동갑내기",
-          "score": 6.1,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
             ]
           },
           "channel": "초구딱"
@@ -939,42 +877,9 @@
             ]
           },
           "channel": "초구딱"
-        },
-        {
-          "title": "\"진짜\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 진짜",
-          "article_count": 3,
-          "source_article": "옥순은 진짜 멘탈 갑인듯",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202605280115606760&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=kakao.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "진짜"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "재활용 가능",
-            "matched_title": "이효리가 늙지 않는 진짜 이유 연예계 채식 스타 TOP11  #연예인 #연예계소식 #비건",
-            "matched_views": 38958,
-            "reason": "기간 경과 135일"
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
-        [
-          "나솔",
-          6
-        ],
         [
           "한화",
           3
@@ -984,15 +889,7 @@
           3
         ],
         [
-          "진짜",
-          3
-        ],
-        [
           "계약",
-          2
-        ],
-        [
-          "육성선수",
           2
         ],
         [
@@ -1000,7 +897,7 @@
           2
         ],
         [
-          "어떻게",
+          "육성선수",
           2
         ],
         [
@@ -1008,15 +905,15 @@
           2
         ],
         [
-          "해야",
-          2
-        ],
-        [
-          "황영묵",
+          "어떻게",
           2
         ],
         [
           "신화",
+          2
+        ],
+        [
+          "황영묵",
           2
         ],
         [
@@ -1032,41 +929,45 @@
           2
         ],
         [
-          "옥순은",
+          "무슨",
           2
         ],
         [
-          "라방",
+          "나솔",
           2
         ],
         [
-          "순자",
-          2
+          "연인이자",
+          1
         ],
         [
-          "정말",
-          2
+          "안기로",
+          1
         ],
         [
-          "나는솔로",
-          2
+          "미녀",
+          1
+        ],
+        [
+          "컵스와",
+          1
+        ],
+        [
+          "포기",
+          1
+        ],
+        [
+          "유망주",
+          1
         ]
       ],
       "name_freq": [
-        [
-          "나솔",
-          6
-        ],
         [
           "한화",
           3
         ],
         [
           "안내",
-          3
-        ],
-        [
-          "진짜",
           3
         ],
         [
@@ -1082,23 +983,19 @@
           2
         ],
         [
-          "어떻게",
-          2
-        ],
-        [
           "감독",
           2
         ],
         [
-          "해야",
-          2
-        ],
-        [
-          "황영묵",
+          "어떻게",
           2
         ],
         [
           "신화",
+          2
+        ],
+        [
+          "황영묵",
           2
         ],
         [
@@ -1112,16 +1009,24 @@
         [
           "공지",
           2
+        ],
+        [
+          "무슨",
+          2
+        ],
+        [
+          "나솔",
+          2
+        ],
+        [
+          "네요",
+          2
         ]
       ],
       "angle_scores": [
         [
           "스포츠",
-          6
-        ],
-        [
-          "가족·혈연",
-          2
+          7
         ]
       ]
     }
@@ -1594,7 +1499,7 @@
     {
       "title": "\"아니다, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 6,
+      "article_count": 7,
       "source_article": "'미쳤다' 정우주도 황준서도 아니다, 한화 '韓 최초' 이 선수 믿는다…무명 육성선수 또 기회 얻었다, 27일 선발 출격",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -1620,68 +1525,6 @@
           "소속팀",
           "기록 내용",
           "기록 가치"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"나솔\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 나솔",
-      "article_count": 6,
-      "source_article": "지금 나솔 라방 보고 이거 생각나면 아재",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202605280115606757&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "나솔"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 2,
-      "source_article": "'딸 폭행 사임' 아베 감독 제안으로 요미우리행 이승엽 코치 거취는 어떻게?",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "폭행",
-        "사임",
-        "아베",
-        "감독",
-        "제안으"
-      ],
-      "template": "동갑내기",
-      "score": 6.1,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
         ]
       },
       "channel": "초구딱"
@@ -1743,35 +1586,6 @@
         ]
       },
       "channel": "초구딱"
-    },
-    {
-      "title": "\"진짜\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 진짜",
-      "article_count": 3,
-      "source_article": "옥순은 진짜 멘탈 갑인듯",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202605280115606760&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=kakao.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "진짜"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "재활용 가능",
-        "matched_title": "이효리가 늙지 않는 진짜 이유 연예계 채식 스타 TOP11  #연예인 #연예계소식 #비건",
-        "matched_views": 38958,
-        "reason": "기간 경과 135일"
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
@@ -1796,6 +1610,10 @@
       2
     ],
     [
+      "투병",
+      2
+    ],
+    [
       "매니저",
       2
     ],
@@ -1804,19 +1622,15 @@
       2
     ],
     [
-      "투병",
-      2
-    ],
-    [
       "달라진",
       2
     ],
     [
-      "제주항공",
+      "승무원",
       2
     ],
     [
-      "승무원",
+      "제주항공",
       2
     ],
     [
@@ -1828,23 +1642,11 @@
       2
     ],
     [
-      "동행",
-      1
-    ],
-    [
-      "조용히",
-      1
-    ],
-    [
-      "좋아요",
-      1
-    ],
-    [
-      "득남",
-      1
-    ],
-    [
       "이시언",
+      1
+    ],
+    [
+      "만삭",
       1
     ],
     [
@@ -1852,7 +1654,19 @@
       1
     ],
     [
+      "전현무는",
+      1
+    ],
+    [
       "엇갈린",
+      1
+    ],
+    [
+      "득남",
+      1
+    ],
+    [
+      "나혼산",
       1
     ]
   ],
@@ -1882,15 +1696,15 @@
       2
     ],
     [
+      "투병",
+      2
+    ],
+    [
       "매니저",
       2
     ],
     [
       "없어",
-      2
-    ],
-    [
-      "투병",
       2
     ],
     [
@@ -1902,11 +1716,11 @@
       2
     ],
     [
-      "승무원",
+      "제주항",
       2
     ],
     [
-      "제주항",
+      "승무원",
       2
     ],
     [
@@ -1918,7 +1732,7 @@
       2
     ]
   ],
-  "total_topics_generated": 13,
-  "valid_topics": 13,
+  "total_topics_generated": 10,
+  "valid_topics": 10,
   "excluded_duplicates": 0
 }
