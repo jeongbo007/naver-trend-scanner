@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-05-29 16:33:36",
+  "scan_time": "2026-05-29 19:31:21",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -659,6 +659,35 @@
           "channel": "정보주는하마"
         },
         {
+          "title": "\"전희철\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 전희철",
+          "article_count": 3,
+          "source_article": "우지원 딸-전희철 딸, 미스코리아 동시 접수…농구스타 2세 미모 '출중하네'",
+          "source_url": "https://m.entertain.naver.com/article/477/0000611074",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "전희철"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
           "title": "\"미스코\" 관련 화제 스타 TOP10",
           "angle_type": "👤 미스코",
           "article_count": 3,
@@ -696,35 +725,6 @@
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "리아"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"전희철\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 전희철",
-          "article_count": 3,
-          "source_article": "우지원 딸-전희철 딸, 미스코리아 동시 접수…농구스타 2세 미모 '출중하네'",
-          "source_url": "https://m.entertain.naver.com/article/477/0000611074",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "전희철"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -797,7 +797,7 @@
           3
         ],
         [
-          "우지원",
+          "전희철",
           3
         ],
         [
@@ -805,7 +805,7 @@
           3
         ],
         [
-          "전희철",
+          "우지원",
           3
         ],
         [
@@ -879,7 +879,7 @@
           3
         ],
         [
-          "우지원",
+          "전희철",
           3
         ],
         [
@@ -891,7 +891,7 @@
           3
         ],
         [
-          "전희철",
+          "우지원",
           3
         ],
         [
@@ -987,21 +987,17 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 2,
-          "source_article": "\"채은성 6번-허인서 7번 베스트\" 한화에 90억 캡틴까지 돌아오면…페문강노채허 조합 공포 그 자체, 벌써부터 설렌다",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "title": "\"리센느\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 리센느",
+          "article_count": 5,
+          "source_article": "리센느 원이 유투브pd도 대단한거죠.",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202605300115680188&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
           "related_names": [
-            "채은성",
-            "허인서",
-            "베스트",
-            "한화에",
-            "캡틴까"
+            "리센느"
           ],
-          "template": "자산 서열",
-          "score": 6.0,
+          "template": "인맥",
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -1012,9 +1008,9 @@
           "table": {
             "headers": [
               "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
+              "분류",
+              "이슈 내용",
+              "현재 상황"
             ]
           },
           "channel": "초구딱"
@@ -1078,17 +1074,21 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"니다\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 니다",
-          "article_count": 3,
-          "source_article": "지금 주식 위험합니다 조심하세요",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202605300115679684&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 2,
+          "source_article": "교토처럼 되고 있는 경주 근황.jpg",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202605300115680149&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
           "source_name": "MLB파크 불펜",
           "related_names": [
-            "니다"
+            "근황",
+            "프랑스",
+            "교토처",
+            "되고",
+            "경주"
           ],
-          "template": "인맥",
-          "score": 6.0,
+          "template": "장기 공백 복귀",
+          "score": 5.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -1099,9 +1099,9 @@
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
             ]
           },
           "channel": "초구딱"
@@ -1109,6 +1109,10 @@
       ],
       "keyword_freq": [
         [
+          "리센느",
+          4
+        ],
+        [
           "불펜",
           3
         ],
@@ -1121,15 +1125,19 @@
           2
         ],
         [
-          "김혜성",
-          2
-        ],
-        [
           "감독",
           2
         ],
         [
+          "김혜성",
+          2
+        ],
+        [
           "이런",
+          2
+        ],
+        [
+          "시간",
           2
         ],
         [
@@ -1145,7 +1153,11 @@
           2
         ],
         [
-          "김건모",
+          "근황",
+          2
+        ],
+        [
+          "했네요",
           2
         ],
         [
@@ -1153,7 +1165,7 @@
           1
         ],
         [
-          "났다",
+          "장현석",
           1
         ],
         [
@@ -1161,35 +1173,27 @@
           1
         ],
         [
-          "버티고",
-          1
-        ],
-        [
-          "탑에",
-          1
-        ],
-        [
-          "혹평",
-          1
-        ],
-        [
-          "장현석",
-          1
-        ],
-        [
-          "등판",
-          1
-        ],
-        [
-          "공든",
+          "흠집",
           1
         ],
         [
           "이닝도",
           1
+        ],
+        [
+          "버티고",
+          1
+        ],
+        [
+          "공든",
+          1
         ]
       ],
       "name_freq": [
+        [
+          "리센느",
+          5
+        ],
         [
           "불펜",
           3
@@ -1199,15 +1203,7 @@
           3
         ],
         [
-          "니다",
-          3
-        ],
-        [
           "선발",
-          2
-        ],
-        [
-          "김혜성",
           2
         ],
         [
@@ -1215,7 +1211,15 @@
           2
         ],
         [
+          "김혜성",
+          2
+        ],
+        [
           "다저스",
+          2
+        ],
+        [
+          "있을까",
           2
         ],
         [
@@ -1223,7 +1227,15 @@
           2
         ],
         [
+          "월드컵",
+          2
+        ],
+        [
           "겠다",
+          2
+        ],
+        [
+          "시간",
           2
         ],
         [
@@ -1237,15 +1249,11 @@
         [
           "공지",
           2
-        ],
-        [
-          "김건모",
-          2
         ]
       ],
       "angle_scores": [
         [
-          "자산·몸값",
+          "복귀·근황",
           2
         ],
         [
@@ -1538,6 +1546,35 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"전희철\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 전희철",
+      "article_count": 3,
+      "source_article": "우지원 딸-전희철 딸, 미스코리아 동시 접수…농구스타 2세 미모 '출중하네'",
+      "source_url": "https://m.entertain.naver.com/article/477/0000611074",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "전희철"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"미스코\" 관련 화제 스타 TOP10",
       "angle_type": "👤 미스코",
       "article_count": 3,
@@ -1575,35 +1612,6 @@
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "리아"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"전희철\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 전희철",
-      "article_count": 3,
-      "source_article": "우지원 딸-전희철 딸, 미스코리아 동시 접수…농구스타 2세 미모 '출중하네'",
-      "source_url": "https://m.entertain.naver.com/article/477/0000611074",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "전희철"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1941,6 +1949,35 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"전희철\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 전희철",
+      "article_count": 3,
+      "source_article": "우지원 딸-전희철 딸, 미스코리아 동시 접수…농구스타 2세 미모 '출중하네'",
+      "source_url": "https://m.entertain.naver.com/article/477/0000611074",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "전희철"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"미스코\" 관련 화제 스타 TOP10",
       "angle_type": "👤 미스코",
       "article_count": 3,
@@ -1978,35 +2015,6 @@
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "리아"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"전희철\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 전희철",
-      "article_count": 3,
-      "source_article": "우지원 딸-전희철 딸, 미스코리아 동시 접수…농구스타 2세 미모 '출중하네'",
-      "source_url": "https://m.entertain.naver.com/article/477/0000611074",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "전희철"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -2094,21 +2102,17 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 2,
-      "source_article": "\"채은성 6번-허인서 7번 베스트\" 한화에 90억 캡틴까지 돌아오면…페문강노채허 조합 공포 그 자체, 벌써부터 설렌다",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "title": "\"리센느\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 리센느",
+      "article_count": 5,
+      "source_article": "리센느 원이 유투브pd도 대단한거죠.",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202605300115680188&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
       "related_names": [
-        "채은성",
-        "허인서",
-        "베스트",
-        "한화에",
-        "캡틴까"
+        "리센느"
       ],
-      "template": "자산 서열",
-      "score": 6.0,
+      "template": "인맥",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2119,9 +2123,9 @@
       "table": {
         "headers": [
           "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "초구딱"
@@ -2185,17 +2189,21 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"니다\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 니다",
-      "article_count": 3,
-      "source_article": "지금 주식 위험합니다 조심하세요",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202605300115679684&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "교토처럼 되고 있는 경주 근황.jpg",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202605300115680149&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "니다"
+        "근황",
+        "프랑스",
+        "교토처",
+        "되고",
+        "경주"
       ],
-      "template": "인맥",
-      "score": 6.0,
+      "template": "장기 공백 복귀",
+      "score": 5.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2206,9 +2214,9 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "초구딱"
@@ -2232,7 +2240,7 @@
       3
     ],
     [
-      "우지원",
+      "전희철",
       3
     ],
     [
@@ -2240,7 +2248,7 @@
       3
     ],
     [
-      "전희철",
+      "우지원",
       3
     ],
     [
@@ -2314,7 +2322,7 @@
       3
     ],
     [
-      "우지원",
+      "전희철",
       3
     ],
     [
@@ -2326,7 +2334,7 @@
       3
     ],
     [
-      "전희철",
+      "우지원",
       3
     ],
     [
