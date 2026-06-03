@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-06-03 17:54:16",
+  "scan_time": "2026-06-03 20:17:54",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -904,11 +904,11 @@
           2
         ],
         [
-          "유퀴즈",
+          "라스",
           2
         ],
         [
-          "임지연",
+          "유퀴즈",
           2
         ]
       ],
@@ -1042,6 +1042,35 @@
           "channel": "초구딱"
         },
         {
+          "title": "\"오세훈\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 오세훈",
+          "article_count": 7,
+          "source_article": "오세훈 이기면 선거용지 땜에 다시하자고 하겠네",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606040115868459&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "오세훈"
+          ],
+          "template": "인맥",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
           "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
           "angle_type": "복귀·근황",
           "article_count": 2,
@@ -1102,67 +1131,13 @@
             ]
           },
           "channel": "초구딱"
-        },
-        {
-          "title": "\"니다\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 니다",
-          "article_count": 3,
-          "source_article": "한동훈 대통합으로 가야합니다,  이준석까지도 합치고 총선 이길수있슴",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606040115865153&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "니다"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"선관위\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 선관위",
-          "article_count": 3,
-          "source_article": "선관위에 매우 화난 송파구 공무원",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606040115865078&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "선관위"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
+        [
+          "오세훈",
+          5
+        ],
         [
           "안내",
           3
@@ -1172,11 +1147,15 @@
           2
         ],
         [
+          "이대호",
+          2
+        ],
+        [
           "롯데",
           2
         ],
         [
-          "이대호",
+          "이런",
           2
         ],
         [
@@ -1192,35 +1171,7 @@
           2
         ],
         [
-          "이길수있슴",
-          2
-        ],
-        [
-          "이준석까지도",
-          2
-        ],
-        [
-          "한동훈",
-          2
-        ],
-        [
-          "총선",
-          2
-        ],
-        [
-          "가야합니다",
-          2
-        ],
-        [
-          "합치고",
-          2
-        ],
-        [
-          "대통합으로",
-          2
-        ],
-        [
-          "선관위",
+          "표차",
           2
         ],
         [
@@ -1228,33 +1179,49 @@
           2
         ],
         [
-          "견제",
+          "민주주의",
+          2
+        ],
+        [
+          "안타",
           1
         ],
         [
-          "중계진",
+          "쐈다",
           1
         ],
         [
-          "하니",
+          "향해",
           1
         ],
         [
-          "경기를",
+          "장면에선",
+          1
+        ],
+        [
+          "깜짝",
+          1
+        ],
+        [
+          "턱을",
+          1
+        ],
+        [
+          "공을",
+          1
+        ],
+        [
+          "미사일",
           1
         ]
       ],
       "name_freq": [
         [
+          "오세훈",
+          7
+        ],
+        [
           "안내",
-          3
-        ],
-        [
-          "니다",
-          3
-        ],
-        [
-          "선관위",
           3
         ],
         [
@@ -1262,11 +1229,15 @@
           2
         ],
         [
+          "이대호",
+          2
+        ],
+        [
           "롯데",
           2
         ],
         [
-          "이대호",
+          "이런",
           2
         ],
         [
@@ -1282,27 +1253,19 @@
           2
         ],
         [
-          "한동훈",
+          "표차",
           2
         ],
         [
-          "야합니다",
+          "잠실",
           2
         ],
         [
-          "총선",
+          "민주당",
           2
         ],
         [
-          "대통합",
-          2
-        ],
-        [
-          "합치고",
-          2
-        ],
-        [
-          "있슴",
+          "민주주",
           2
         ]
       ],
@@ -2223,6 +2186,35 @@
       "channel": "초구딱"
     },
     {
+      "title": "\"오세훈\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 오세훈",
+      "article_count": 7,
+      "source_article": "오세훈 이기면 선거용지 땜에 다시하자고 하겠네",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606040115868459&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "오세훈"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
       "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
       "angle_type": "복귀·근황",
       "article_count": 2,
@@ -2264,64 +2256,6 @@
       "source_name": "MLB파크 불펜",
       "related_names": [
         "안내"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"니다\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 니다",
-      "article_count": 3,
-      "source_article": "한동훈 대통합으로 가야합니다,  이준석까지도 합치고 총선 이길수있슴",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606040115865153&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "니다"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"선관위\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 선관위",
-      "article_count": 3,
-      "source_article": "선관위에 매우 화난 송파구 공무원",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606040115865078&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "선관위"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -2417,11 +2351,11 @@
       2
     ],
     [
-      "유퀴즈",
+      "라스",
       2
     ],
     [
-      "임지연",
+      "유퀴즈",
       2
     ]
   ],
@@ -2487,7 +2421,7 @@
       2
     ]
   ],
-  "total_topics_generated": 19,
-  "valid_topics": 19,
+  "total_topics_generated": 18,
+  "valid_topics": 18,
   "excluded_duplicates": 0
 }
