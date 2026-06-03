@@ -1,5 +1,12 @@
 [
   {
+    "time": "2026-06-03 06:04:01",
+    "articles": 80,
+    "hama_topics": 13,
+    "baseball_topics": 5,
+    "file": "scan_2026-06-03_0604.json"
+  },
+  {
     "time": "2026-06-02 22:59:27",
     "articles": 80,
     "hama_topics": 6,
@@ -341,12 +348,5 @@
     "topics": 5,
     "ai": false,
     "file": "scan_2026-05-25_1216.json"
-  },
-  {
-    "time": "2026-05-25 08:55:46",
-    "articles": 50,
-    "topics": 5,
-    "ai": false,
-    "file": "scan_2026-05-25_0855.json"
   }
 ]
