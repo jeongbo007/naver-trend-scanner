@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-06-07 14:45:13",
+  "scan_time": "2026-06-07 18:02:32",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,35 +8,26 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 0
+    "MLB파크 불펜": 30
   },
-  "total_articles": 50,
+  "total_articles": 80,
   "articles": [
     {
       "title": "이정후 초대형 희소식 터졌다! '뉴욕 양키스 합류' 가능성…저지 부상 이탈이 원인→SF 셀링 클럽 전락",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 28412,
-      "rank": 2,
+      "views": 652228,
+      "rank": 1,
       "channel": "초구딱"
     },
     {
-      "title": "'이거 실화냐' 꼴찌→5위→1위 대반전, 한화 어떻게 확 달라졌나…\"이기는 경기 지키는 힘 생겼다, 믿음 많이 간다\"",
+      "title": "\"내가 너무 가혹했다\" 다저스 감독 공개 사과, \"신인에게 불공평했다\"…벼랑 끝 몰렸던 日 우완, 자신감 되찾고 마침내 각성",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 16555,
-      "rank": 5,
-      "channel": "초구딱"
-    },
-    {
-      "title": "안타-홈런-안타-안타-안타-2루타-볼넷-또 홈런…다저스, 에인절스 마운드 초전박살",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 11168,
-      "rank": 7,
+      "views": 223863,
+      "rank": 8,
       "channel": "초구딱"
     },
     {
@@ -44,35 +35,8 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 8276,
-      "rank": 10,
-      "channel": "초구딱"
-    },
-    {
-      "title": "'8회 극적 동점→연장 클러치 실책' 롯데 충격적 4연패, 김태형 '감독 800승' 또 미뤄졌다... 한화 3연승 신바람",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 8248,
-      "rank": 11,
-      "channel": "초구딱"
-    },
-    {
-      "title": "'MLB 톱4' 괴물 타자 이정후 미쳤다! \"이해하기 어려운 상승세\" 美도 절레 절레…'9G 22안타' 구단 역사에 남을 기록",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 7372,
+      "views": 164887,
       "rank": 12,
-      "channel": "초구딱"
-    },
-    {
-      "title": "찬란하게 빛난 김도영 \"왜 슈퍼스타인지 증명했다\" 꽃감독 극찬…그라운드를 지배했다",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 6405,
-      "rank": 17,
       "channel": "초구딱"
     },
     {
@@ -80,14 +44,302 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 6229,
+      "views": 142379,
+      "rank": 17,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'13경기 연속 안타' 이정후, 추신수 넘어 한국인 빅리거 최고타율 도전",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 137771,
       "rank": 18,
+      "channel": "초구딱"
+    },
+    {
+      "title": "이정후, '타격왕'도 제쳤다 SF 타율 1위...14경기 연속 안타",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 128858,
+      "rank": 20,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[당첨자 발표] 2026 NBA 승부예측 이벤트 - [컨퍼런스 세미파이널]",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=point&id=202605040114762264",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 1,
+      "channel": "초구딱"
+    },
+    {
+      "title": "⚠[필독] 뉴스 저작물 인용 관련 유의사항 및 가이드 안내⚠",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 2,
+      "channel": "초구딱"
+    },
+    {
+      "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 3,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🔔[공지] 공직선거법 위반 게시물 작성 시 DL🔔",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202602110000002022",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 4,
+      "channel": "초구딱"
+    },
+    {
+      "title": "⭐2026시즌 업데이트 안내 (기록실, 라커룸, 차단 기능 오류)⭐",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202603270000002067",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 5,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🏀[~05.25] 2026 NBA 플레이오프 예측 이벤트 - [NBA Finals]🏀",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=point&id=202605200115352199",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 6,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🛠️[공지] 해외 접속 장애 관련 안내_260522🛠️",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202605220000002082",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 7,
+      "channel": "초구딱"
+    },
+    {
+      "title": "에릭센 또 심정지온것같은데..",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040353&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 23,
+      "rank": 8,
+      "channel": "초구딱"
+    },
+    {
+      "title": "에릭센 또 쓰러진 거 같은데",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040350&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 43,
+      "rank": 9,
+      "channel": "초구딱"
+    },
+    {
+      "title": "나얼vs윤건 브라운아이즈는 누구의 그룹이었나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040347&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 22,
+      "rank": 10,
+      "channel": "초구딱"
+    },
+    {
+      "title": "즈베렙 정말 힘들게 우승하네요.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040344&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 20,
+      "rank": 11,
+      "channel": "초구딱"
+    },
+    {
+      "title": "즈베레프 감동의 순간",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040341&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 35,
+      "rank": 12,
+      "channel": "초구딱"
+    },
+    {
+      "title": "사냥개들2 후기",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040326&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 75,
+      "rank": 13,
+      "channel": "초구딱"
+    },
+    {
+      "title": "이제 즈베가 메뎁 넘었나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040320&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 159,
+      "rank": 14,
+      "channel": "초구딱"
+    },
+    {
+      "title": "근데 차단을 하면 하루밖에 안가나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040317&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 65,
+      "rank": 15,
+      "channel": "초구딱"
+    },
+    {
+      "title": "NBC 앵커와 인터뷰 도중 폭발한 트럼프.mp4",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040311&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 206,
+      "rank": 16,
+      "channel": "초구딱"
+    },
+    {
+      "title": "콩베레프 킹베레프로 전직축하합니다.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040305&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 68,
+      "rank": 17,
+      "channel": "초구딱"
+    },
+    {
+      "title": "즈베레프 우승!!",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040302&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 80,
+      "rank": 18,
+      "channel": "초구딱"
+    },
+    {
+      "title": "즈베레프 우승",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040299&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 71,
+      "rank": 19,
+      "channel": "초구딱"
+    },
+    {
+      "title": "유퀴즈 출연한 젠슨황에게 제작진이 던진 날카로운 질문",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040296&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 289,
+      "rank": 20,
+      "channel": "초구딱"
+    },
+    {
+      "title": "즈베레프 우네",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040293&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 192,
+      "rank": 21,
+      "channel": "초구딱"
+    },
+    {
+      "title": "동네 아재도 치는 스매쉬 범실로 끝나네요ㅋㅋㅋ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040290&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 112,
+      "rank": 22,
+      "channel": "초구딱"
+    },
+    {
+      "title": "즈베레프 드디어 우승!!!",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040287&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 123,
+      "rank": 23,
+      "channel": "초구딱"
+    },
+    {
+      "title": "인도 환율 근황.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040284&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 290,
+      "rank": 24,
+      "channel": "초구딱"
+    },
+    {
+      "title": "외환보유액이 암만 많다해도...",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040281&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 152,
+      "rank": 25,
+      "channel": "초구딱"
+    },
+    {
+      "title": "예전 8090 아파트 이거 기억나시나요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040278&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 81,
+      "rank": 26,
+      "channel": "초구딱"
+    },
+    {
+      "title": "참교육 보면서 궁금한게 예전에는 청소년 사형도 있었나용?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040272&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 90,
+      "rank": 27,
+      "channel": "초구딱"
+    },
+    {
+      "title": "인도네시아 환율 근황.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040263&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 442,
+      "rank": 28,
+      "channel": "초구딱"
+    },
+    {
+      "title": "리센느] 새벽 2시에 세곡째 라이브 ㄷㄷㄷ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040260&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 275,
+      "rank": 29,
+      "channel": "초구딱"
+    },
+    {
+      "title": "즈베레프에게는 승기가 의미가 없네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040254&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 246,
+      "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 42,
+      "article_count": 44,
       "topics": [
         {
           "title": "\"서인영 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
@@ -123,16 +375,20 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"미우새 결혼설?\" 미우새 연애사 총정리",
-          "angle_type": "👤 미우새",
-          "article_count": 4,
-          "source_article": "린, 이수와 이혼 후 화장실서 생활...母도 충격 \"처음 보는 광경\" ('미우새')",
-          "source_url": "https://m.entertain.naver.com/article/076/0004412631",
-          "source_name": "엔터 많이 본 뉴스",
+          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 3,
+          "source_article": "충격 비보 \"주택 뒤편서 숨진 채 발견\"...\"사망 경위도 불분명\" 前 가봉 국가대표 무사부킹 은퇴 4년 만에 안타까운 소식, 친정팀은 애도 물결",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "미우새"
+            "근황",
+            "황광희",
+            "종이인",
+            "벗어났",
+            "벌크업"
           ],
-          "template": "결혼 화제",
+          "template": "장기 공백 복귀",
           "score": 7.1,
           "dup_check": {
             "is_duplicate": false,
@@ -144,22 +400,22 @@
           "table": {
             "headers": [
               "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"이혼 결혼설?\" 이혼 연애사 총정리",
-          "angle_type": "👤 이혼",
-          "article_count": 3,
+          "title": "\"미우새 결혼설?\" 미우새 연애사 총정리",
+          "angle_type": "👤 미우새",
+          "article_count": 4,
           "source_article": "린, 이수와 이혼 후 화장실서 생활...母도 충격 \"처음 보는 광경\" ('미우새')",
           "source_url": "https://m.entertain.naver.com/article/076/0004412631",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "이혼"
+            "미우새"
           ],
           "template": "결혼 화제",
           "score": 7.1,
@@ -210,21 +466,83 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
+          "title": "\"이혼 결혼설?\" 이혼 연애사 총정리",
+          "angle_type": "👤 이혼",
           "article_count": 3,
-          "source_article": "'전원일기' 이상미, 매출 500억 재력가 아닌 8살 연하남 택했다...설레는 데이트 현장 ('조선의')",
-          "source_url": "https://m.entertain.naver.com/article/076/0004412695",
+          "source_article": "린, 이수와 이혼 후 화장실서 생활...母도 충격 \"처음 보는 광경\" ('미우새')",
+          "source_url": "https://m.entertain.naver.com/article/076/0004412631",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "전원일",
-            "이상미",
-            "매출",
-            "재력가",
-            "아닌"
+            "이혼"
+          ],
+          "template": "결혼 화제",
+          "score": 7.1,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 2,
+          "source_article": "\"대규모 약탈, 강간 저질렀잖아!\" 생애 첫 월드컵에 '미화 논란', 홀란과 노르웨이 대표팀 단체 사진 복장 비판, \"바이킹 코스프레, 나치 같아\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "김세의",
+            "구속",
+            "김수현",
+            "화장품",
+            "모델"
+          ],
+          "template": "논란 집합",
+          "score": 7.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"이강인, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 4,
+          "source_article": "'이강인 이적료 1078억 제안 거부, PSG는 헐값에 선수 넘기는 클럽 아니다'…'900억 제안 난색' AT 마드리드 이적 부정적",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "이강인",
+            "제안",
+            "마드리",
+            "이적",
+            "전원일"
           ],
           "template": "자산 서열",
-          "score": 7.0,
+          "score": 6.9,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -276,9 +594,71 @@
           "channel": "정보주는하마"
         },
         {
+          "title": "\"제안, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 2,
+          "source_article": "충격 비보 \"주택 뒤편서 숨진 채 발견\"...\"사망 경위도 불분명\" 前 가봉 국가대표 무사부킹 은퇴 4년 만에 안타까운 소식, 친정팀은 애도 물결",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "제안",
+            "비보",
+            "주택",
+            "뒤편서",
+            "숨진"
+          ],
+          "template": "스포츠 기록",
+          "score": 6.6,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"안세영\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안세영",
+          "article_count": 5,
+          "source_article": "韓 배드민턴 돌풍 멈췄다…'日 안세영' 야마구치 벽 높았다→세계 26위 심유진, 인도네시아오픈 4강전서 완패, 세계 2·9위 잡고도 결승행 좌절",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "안세영"
+          ],
+          "template": "인맥",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
           "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
           "angle_type": "투병·건강",
-          "article_count": 3,
+          "article_count": 4,
           "source_article": "남편 사망 후 첫 입장 발표...\"가슴이 산산조각 났다\" 투병 끝에 41세로 별세한 카일 부시, 남겨진 아내는 팬들 위로에 '진심 어린 감사'",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -309,21 +689,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 2,
-          "source_article": "황광희, 종이인형 벗어났네…'벌크업'으로 확 달라졌다→직접 공개한 최신 근황",
-          "source_url": "https://m.entertain.naver.com/article/213/0001389555",
+          "title": "\"사망\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 사망",
+          "article_count": 3,
+          "source_article": "하루 “母 암투병 사망… 쿠팡 일용직으로 생계유지” (‘데이앤나잇’)",
+          "source_url": "https://m.entertain.naver.com/article/009/0005690167",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "근황",
-            "황광희",
-            "종이인",
-            "벗어났",
-            "벌크업"
+            "사망"
           ],
-          "template": "장기 공백 복귀",
-          "score": 5.8,
+          "template": "인맥",
+          "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -334,15 +710,77 @@
           "table": {
             "headers": [
               "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"뒤집기\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 뒤집기",
+          "article_count": 3,
+          "source_article": "안세영 2게임 무너졌다, 9:2→19:21…믿을 수 없는 뒤집기 허용→3게임서 승자 가린다",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "뒤집기"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"천위페\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 천위페",
+          "article_count": 3,
+          "source_article": "솔직 고백! 안세영, \"많이 혼란스러웠다\" 직접 밝힌 인니 오픈, 기적의 역전승, \"천위페이, 예상과 달라...운이 좋았던 것 같다\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "천위페"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
         }
       ],
       "keyword_freq": [
+        [
+          "안세영",
+          5
+        ],
         [
           "미우새",
           4
@@ -352,15 +790,23 @@
           3
         ],
         [
-          "이혼",
-          3
-        ],
-        [
           "이수와",
           3
         ],
         [
+          "이혼",
+          3
+        ],
+        [
           "결혼",
+          3
+        ],
+        [
+          "사망",
+          3
+        ],
+        [
+          "천위페이",
           3
         ],
         [
@@ -380,15 +826,11 @@
           2
         ],
         [
-          "직접",
-          2
-        ],
-        [
           "근황",
           2
         ],
         [
-          "사망",
+          "직접",
           2
         ],
         [
@@ -400,31 +842,27 @@
           2
         ],
         [
-          "이강인",
+          "감탄",
           2
         ],
         [
-          "안세영",
+          "났다",
           2
         ],
         [
-          "승리",
+          "마드리드",
           2
         ],
         [
-          "수가",
-          2
-        ],
-        [
-          "이럴",
-          2
-        ],
-        [
-          "월드컵",
+          "이적",
           2
         ]
       ],
       "name_freq": [
+        [
+          "안세영",
+          5
+        ],
         [
           "미우새",
           4
@@ -434,15 +872,27 @@
           3
         ],
         [
-          "이혼",
-          3
-        ],
-        [
           "이수와",
           3
         ],
         [
+          "이혼",
+          3
+        ],
+        [
           "결혼",
+          3
+        ],
+        [
+          "사망",
+          3
+        ],
+        [
+          "뒤집기",
+          3
+        ],
+        [
+          "천위페",
           3
         ],
         [
@@ -466,30 +916,18 @@
           2
         ],
         [
-          "직접",
-          2
-        ],
-        [
           "근황",
-          2
-        ],
-        [
-          "사망",
-          2
-        ],
-        [
-          "아들",
-          2
-        ],
-        [
-          "김연아",
           2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
-          3
+          4
+        ],
+        [
+          "논란·사건",
+          2
         ],
         [
           "결혼·이혼",
@@ -497,11 +935,15 @@
         ],
         [
           "복귀·근황",
-          2
+          3
         ],
         [
           "투병·건강",
-          3
+          4
+        ],
+        [
+          "스포츠",
+          2
         ],
         [
           "가족·혈연",
@@ -510,21 +952,21 @@
       ]
     },
     "초구딱": {
-      "article_count": 8,
+      "article_count": 36,
       "topics": [
         {
           "title": "\"안타, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 5,
-          "source_article": "안타-홈런-안타-안타-안타-2루타-볼넷-또 홈런…다저스, 에인절스 마운드 초전박살",
+          "article_count": 8,
+          "source_article": "\"내가 너무 가혹했다\" 다저스 감독 공개 사과, \"신인에게 불공평했다\"…벼랑 끝 몰렸던 日 우완, 자신감 되찾고 마침내 각성",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "안타",
-            "홈런",
-            "볼넷",
             "이정후",
-            "절레"
+            "즈베레",
+            "우승",
+            "경기"
           ],
           "template": "스포츠 기록",
           "score": 6.8,
@@ -546,9 +988,38 @@
           "channel": "초구딱"
         },
         {
+          "title": "\"즈베레\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 즈베레",
+          "article_count": 6,
+          "source_article": "즈베레프 감동의 순간",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040341&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "즈베레"
+          ],
+          "template": "인맥",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
           "title": "\"이정후\" 관련 화제 스타 TOP10",
           "angle_type": "👤 이정후",
-          "article_count": 3,
+          "article_count": 4,
           "source_article": "이정후 초대형 희소식 터졌다! '뉴욕 양키스 합류' 가능성…저지 부상 이탈이 원인→SF 셀링 클럽 전락",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -575,17 +1046,17 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"한화\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 한화",
+          "title": "\"안내\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안내",
           "article_count": 3,
-          "source_article": "'이거 실화냐' 꼴찌→5위→1위 대반전, 한화 어떻게 확 달라졌나…\"이기는 경기 지키는 힘 생겼다, 믿음 많이 간다\"",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "source_article": "⚠[필독] 뉴스 저작물 인용 관련 유의사항 및 가이드 안내⚠",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+          "source_name": "MLB파크 불펜",
           "related_names": [
-            "한화"
+            "안내"
           ],
           "template": "인맥",
-          "score": 6.3,
+          "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -602,63 +1073,120 @@
             ]
           },
           "channel": "초구딱"
+        },
+        {
+          "title": "\"우승\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 우승",
+          "article_count": 3,
+          "source_article": "즈베레프 우승!!",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040302&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "우승"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 2,
+          "source_article": "인도네시아 환율 근황.jpg",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040263&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "근황",
+            "인도",
+            "인도네",
+            "시아"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 5.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
         [
-          "이정후",
-          3
+          "즈베레프",
+          5
         ],
         [
-          "한화",
-          3
+          "이정후",
+          4
         ],
         [
           "안타",
           3
         ],
         [
-          "볼넷",
+          "안내",
+          3
+        ],
+        [
+          "우승",
+          3
+        ],
+        [
+          "연속",
           2
         ],
         [
-          "희소식",
-          1
+          "경기",
+          2
         ],
         [
-          "터졌다",
-          1
+          "이벤트",
+          2
         ],
         [
-          "전락",
-          1
+          "위반",
+          2
         ],
         [
-          "뉴욕",
-          1
+          "공지",
+          2
         ],
         [
-          "클럽",
-          1
+          "에릭센",
+          2
         ],
         [
-          "가능성",
-          1
-        ],
-        [
-          "저지",
-          1
+          "근황",
+          2
         ],
         [
           "양키스",
-          1
-        ],
-        [
-          "셀링",
-          1
-        ],
-        [
-          "이탈이",
           1
         ],
         [
@@ -670,44 +1198,84 @@
           1
         ],
         [
-          "간다",
+          "셀링",
           1
         ],
         [
-          "대반전",
+          "클럽",
           1
         ],
         [
-          "지키는",
+          "전락",
           1
         ],
         [
-          "많이",
+          "저지",
+          1
+        ],
+        [
+          "이탈이",
           1
         ]
       ],
       "name_freq": [
         [
-          "이정후",
-          3
+          "즈베레",
+          6
         ],
         [
-          "한화",
-          3
+          "이정후",
+          4
         ],
         [
           "안타",
           3
         ],
         [
-          "볼넷",
+          "안내",
+          3
+        ],
+        [
+          "우승",
+          3
+        ],
+        [
+          "연속",
+          2
+        ],
+        [
+          "경기",
+          2
+        ],
+        [
+          "이벤트",
+          2
+        ],
+        [
+          "위반",
+          2
+        ],
+        [
+          "공지",
+          2
+        ],
+        [
+          "에릭센",
+          2
+        ],
+        [
+          "근황",
           2
         ]
       ],
       "angle_scores": [
         [
+          "복귀·근황",
+          2
+        ],
+        [
           "스포츠",
-          5
+          8
         ]
       ]
     }
@@ -716,16 +1284,16 @@
     {
       "title": "\"안타, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 5,
-      "source_article": "안타-홈런-안타-안타-안타-2루타-볼넷-또 홈런…다저스, 에인절스 마운드 초전박살",
+      "article_count": 8,
+      "source_article": "\"내가 너무 가혹했다\" 다저스 감독 공개 사과, \"신인에게 불공평했다\"…벼랑 끝 몰렸던 日 우완, 자신감 되찾고 마침내 각성",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "안타",
-        "홈런",
-        "볼넷",
         "이정후",
-        "절레"
+        "즈베레",
+        "우승",
+        "경기"
       ],
       "template": "스포츠 기록",
       "score": 6.8,
@@ -747,9 +1315,38 @@
       "channel": "초구딱"
     },
     {
+      "title": "\"즈베레\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 즈베레",
+      "article_count": 6,
+      "source_article": "즈베레프 감동의 순간",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040341&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "즈베레"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
       "title": "\"이정후\" 관련 화제 스타 TOP10",
       "angle_type": "👤 이정후",
-      "article_count": 3,
+      "article_count": 4,
       "source_article": "이정후 초대형 희소식 터졌다! '뉴욕 양키스 합류' 가능성…저지 부상 이탈이 원인→SF 셀링 클럽 전락",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -776,17 +1373,17 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"한화\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 한화",
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
       "article_count": 3,
-      "source_article": "'이거 실화냐' 꼴찌→5위→1위 대반전, 한화 어떻게 확 달라졌나…\"이기는 경기 지키는 힘 생겼다, 믿음 많이 간다\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "source_article": "⚠[필독] 뉴스 저작물 인용 관련 유의사항 및 가이드 안내⚠",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
       "related_names": [
-        "한화"
+        "안내"
       ],
       "template": "인맥",
-      "score": 6.3,
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -800,6 +1397,67 @@
           "분류",
           "이슈 내용",
           "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"우승\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 우승",
+      "article_count": 3,
+      "source_article": "즈베레프 우승!!",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040302&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "우승"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "인도네시아 환율 근황.jpg",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040263&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "근황",
+        "인도",
+        "인도네",
+        "시아"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 5.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "초구딱"
@@ -840,16 +1498,20 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"미우새 결혼설?\" 미우새 연애사 총정리",
-      "angle_type": "👤 미우새",
-      "article_count": 4,
-      "source_article": "린, 이수와 이혼 후 화장실서 생활...母도 충격 \"처음 보는 광경\" ('미우새')",
-      "source_url": "https://m.entertain.naver.com/article/076/0004412631",
-      "source_name": "엔터 많이 본 뉴스",
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 3,
+      "source_article": "충격 비보 \"주택 뒤편서 숨진 채 발견\"...\"사망 경위도 불분명\" 前 가봉 국가대표 무사부킹 은퇴 4년 만에 안타까운 소식, 친정팀은 애도 물결",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "미우새"
+        "근황",
+        "황광희",
+        "종이인",
+        "벗어났",
+        "벌크업"
       ],
-      "template": "결혼 화제",
+      "template": "장기 공백 복귀",
       "score": 7.1,
       "dup_check": {
         "is_duplicate": false,
@@ -861,22 +1523,22 @@
       "table": {
         "headers": [
           "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이혼 결혼설?\" 이혼 연애사 총정리",
-      "angle_type": "👤 이혼",
-      "article_count": 3,
+      "title": "\"미우새 결혼설?\" 미우새 연애사 총정리",
+      "angle_type": "👤 미우새",
+      "article_count": 4,
       "source_article": "린, 이수와 이혼 후 화장실서 생활...母도 충격 \"처음 보는 광경\" ('미우새')",
       "source_url": "https://m.entertain.naver.com/article/076/0004412631",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "이혼"
+        "미우새"
       ],
       "template": "결혼 화제",
       "score": 7.1,
@@ -927,21 +1589,83 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
+      "title": "\"이혼 결혼설?\" 이혼 연애사 총정리",
+      "angle_type": "👤 이혼",
       "article_count": 3,
-      "source_article": "'전원일기' 이상미, 매출 500억 재력가 아닌 8살 연하남 택했다...설레는 데이트 현장 ('조선의')",
-      "source_url": "https://m.entertain.naver.com/article/076/0004412695",
+      "source_article": "린, 이수와 이혼 후 화장실서 생활...母도 충격 \"처음 보는 광경\" ('미우새')",
+      "source_url": "https://m.entertain.naver.com/article/076/0004412631",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "전원일",
-        "이상미",
-        "매출",
-        "재력가",
-        "아닌"
+        "이혼"
+      ],
+      "template": "결혼 화제",
+      "score": 7.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 2,
+      "source_article": "\"대규모 약탈, 강간 저질렀잖아!\" 생애 첫 월드컵에 '미화 논란', 홀란과 노르웨이 대표팀 단체 사진 복장 비판, \"바이킹 코스프레, 나치 같아\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "김세의",
+        "구속",
+        "김수현",
+        "화장품",
+        "모델"
+      ],
+      "template": "논란 집합",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이강인, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 4,
+      "source_article": "'이강인 이적료 1078억 제안 거부, PSG는 헐값에 선수 넘기는 클럽 아니다'…'900억 제안 난색' AT 마드리드 이적 부정적",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "이강인",
+        "제안",
+        "마드리",
+        "이적",
+        "전원일"
       ],
       "template": "자산 서열",
-      "score": 7.0,
+      "score": 6.9,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -993,9 +1717,71 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"제안, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 2,
+      "source_article": "충격 비보 \"주택 뒤편서 숨진 채 발견\"...\"사망 경위도 불분명\" 前 가봉 국가대표 무사부킹 은퇴 4년 만에 안타까운 소식, 친정팀은 애도 물결",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "제안",
+        "비보",
+        "주택",
+        "뒤편서",
+        "숨진"
+      ],
+      "template": "스포츠 기록",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"안세영\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안세영",
+      "article_count": 5,
+      "source_article": "韓 배드민턴 돌풍 멈췄다…'日 안세영' 야마구치 벽 높았다→세계 26위 심유진, 인도네시아오픈 4강전서 완패, 세계 2·9위 잡고도 결승행 좌절",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "안세영"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
       "angle_type": "투병·건강",
-      "article_count": 3,
+      "article_count": 4,
       "source_article": "남편 사망 후 첫 입장 발표...\"가슴이 산산조각 났다\" 투병 끝에 41세로 별세한 카일 부시, 남겨진 아내는 팬들 위로에 '진심 어린 감사'",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -1026,21 +1812,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 2,
-      "source_article": "황광희, 종이인형 벗어났네…'벌크업'으로 확 달라졌다→직접 공개한 최신 근황",
-      "source_url": "https://m.entertain.naver.com/article/213/0001389555",
+      "title": "\"사망\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 사망",
+      "article_count": 3,
+      "source_article": "하루 “母 암투병 사망… 쿠팡 일용직으로 생계유지” (‘데이앤나잇’)",
+      "source_url": "https://m.entertain.naver.com/article/009/0005690167",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "근황",
-        "황광희",
-        "종이인",
-        "벗어났",
-        "벌크업"
+        "사망"
       ],
-      "template": "장기 공백 복귀",
-      "score": 5.8,
+      "template": "인맥",
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1051,9 +1833,67 @@
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"뒤집기\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 뒤집기",
+      "article_count": 3,
+      "source_article": "안세영 2게임 무너졌다, 9:2→19:21…믿을 수 없는 뒤집기 허용→3게임서 승자 가린다",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "뒤집기"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"천위페\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 천위페",
+      "article_count": 3,
+      "source_article": "솔직 고백! 안세영, \"많이 혼란스러웠다\" 직접 밝힌 인니 오픈, 기적의 역전승, \"천위페이, 예상과 달라...운이 좋았던 것 같다\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "천위페"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
@@ -1061,16 +1901,16 @@
     {
       "title": "\"안타, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 5,
-      "source_article": "안타-홈런-안타-안타-안타-2루타-볼넷-또 홈런…다저스, 에인절스 마운드 초전박살",
+      "article_count": 8,
+      "source_article": "\"내가 너무 가혹했다\" 다저스 감독 공개 사과, \"신인에게 불공평했다\"…벼랑 끝 몰렸던 日 우완, 자신감 되찾고 마침내 각성",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "안타",
-        "홈런",
-        "볼넷",
         "이정후",
-        "절레"
+        "즈베레",
+        "우승",
+        "경기"
       ],
       "template": "스포츠 기록",
       "score": 6.8,
@@ -1092,9 +1932,38 @@
       "channel": "초구딱"
     },
     {
+      "title": "\"즈베레\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 즈베레",
+      "article_count": 6,
+      "source_article": "즈베레프 감동의 순간",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040341&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "즈베레"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
       "title": "\"이정후\" 관련 화제 스타 TOP10",
       "angle_type": "👤 이정후",
-      "article_count": 3,
+      "article_count": 4,
       "source_article": "이정후 초대형 희소식 터졌다! '뉴욕 양키스 합류' 가능성…저지 부상 이탈이 원인→SF 셀링 클럽 전락",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -1121,17 +1990,17 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"한화\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 한화",
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
       "article_count": 3,
-      "source_article": "'이거 실화냐' 꼴찌→5위→1위 대반전, 한화 어떻게 확 달라졌나…\"이기는 경기 지키는 힘 생겼다, 믿음 많이 간다\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "source_article": "⚠[필독] 뉴스 저작물 인용 관련 유의사항 및 가이드 안내⚠",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
       "related_names": [
-        "한화"
+        "안내"
       ],
       "template": "인맥",
-      "score": 6.3,
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1148,9 +2017,74 @@
         ]
       },
       "channel": "초구딱"
+    },
+    {
+      "title": "\"우승\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 우승",
+      "article_count": 3,
+      "source_article": "즈베레프 우승!!",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040302&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "우승"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "인도네시아 환율 근황.jpg",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606080116040263&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "근황",
+        "인도",
+        "인도네",
+        "시아"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 5.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
+    [
+      "안세영",
+      5
+    ],
     [
       "미우새",
       4
@@ -1160,15 +2094,23 @@
       3
     ],
     [
-      "이혼",
-      3
-    ],
-    [
       "이수와",
       3
     ],
     [
+      "이혼",
+      3
+    ],
+    [
       "결혼",
+      3
+    ],
+    [
+      "사망",
+      3
+    ],
+    [
+      "천위페이",
       3
     ],
     [
@@ -1188,15 +2130,11 @@
       2
     ],
     [
-      "직접",
-      2
-    ],
-    [
       "근황",
       2
     ],
     [
-      "사망",
+      "직접",
       2
     ],
     [
@@ -1208,31 +2146,27 @@
       2
     ],
     [
-      "이강인",
+      "감탄",
       2
     ],
     [
-      "안세영",
+      "났다",
       2
     ],
     [
-      "승리",
+      "마드리드",
       2
     ],
     [
-      "수가",
-      2
-    ],
-    [
-      "이럴",
-      2
-    ],
-    [
-      "월드컵",
+      "이적",
       2
     ]
   ],
   "name_freq": [
+    [
+      "안세영",
+      5
+    ],
     [
       "미우새",
       4
@@ -1242,15 +2176,27 @@
       3
     ],
     [
-      "이혼",
-      3
-    ],
-    [
       "이수와",
       3
     ],
     [
+      "이혼",
+      3
+    ],
+    [
       "결혼",
+      3
+    ],
+    [
+      "사망",
+      3
+    ],
+    [
+      "뒤집기",
+      3
+    ],
+    [
+      "천위페",
       3
     ],
     [
@@ -1274,27 +2220,11 @@
       2
     ],
     [
-      "직접",
-      2
-    ],
-    [
       "근황",
-      2
-    ],
-    [
-      "사망",
-      2
-    ],
-    [
-      "아들",
-      2
-    ],
-    [
-      "김연아",
       2
     ]
   ],
-  "total_topics_generated": 11,
-  "valid_topics": 11,
+  "total_topics_generated": 20,
+  "valid_topics": 20,
   "excluded_duplicates": 0
 }
