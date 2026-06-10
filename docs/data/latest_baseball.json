@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-06-10 05:18:34",
+  "scan_time": "2026-06-10 08:48:23",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -13,30 +13,21 @@
   "total_articles": 80,
   "articles": [
     {
-      "title": "이정후, 3회 2번째 타석 안타→韓 최초 17G 연속 안타 달성…ML 타율 2위 복귀",
+      "title": "‘충격!’ MLB 타율 2위 이정후, 세부 지표 보니...‘더 충격’",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 20440,
+      "views": 29518,
+      "rank": 1,
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"이정후는 지금 세계 최고의 타자\" 극찬 나왔다!…'韓 빅리거 연속경기 안타 신기록' 달성→'멀티히트' NL 타율 단독 2위 등극",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 22743,
       "rank": 3,
-      "channel": "초구딱"
-    },
-    {
-      "title": "'트레이드는 무슨' 샌프란시스코, 이정후 변심하기 전에 장기 재계약해야...2027 후 옵트아웃 막아야",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 20172,
-      "rank": 4,
-      "channel": "초구딱"
-    },
-    {
-      "title": "배트 끝에서 기록이 쏟아진다... \"안타 치는 게 일상\" 이정후, 17G 연속 히트,한국인 MLB 새 역사 썼다",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 17768,
-      "rank": 5,
       "channel": "초구딱"
     },
     {
@@ -44,26 +35,8 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 16540,
+      "views": 10978,
       "rank": 6,
-      "channel": "초구딱"
-    },
-    {
-      "title": "KCC 격노 \"가스공사, 우리 구단 명예 심각히 훼손\"→법적대응 예고…7개월째 안 끝나는 '라건아 사태', 소송→KBL 징계→가처분 신청까지",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 13935,
-      "rank": 7,
-      "channel": "초구딱"
-    },
-    {
-      "title": "이정후 17경기 연속안타→ML 韓 신기록→멀티히트, 美 홀딱 반했다 \"LEE가 해냈다, 엄청나게 잘 쳐!\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 13630,
-      "rank": 8,
       "channel": "초구딱"
     },
     {
@@ -71,35 +44,8 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 12341,
-      "rank": 10,
-      "channel": "초구딱"
-    },
-    {
-      "title": "이정후, 한국인 빅리거 새 역사 썼다…17경기 연속 안타 폭발",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 11240,
-      "rank": 11,
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"이정후를 올스타로\" SF팬들 미쳤다! MLB 전체 타격 2위 기적 → 1위까지 보인다",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 8253,
-      "rank": 15,
-      "channel": "초구딱"
-    },
-    {
-      "title": "한화 위해 팔 빠지게 던지고 떠났다…'6주 활약' 쿠싱, 멕시코에서 새출발→'前 KIA' 소크라테스와 한솥밥",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 6748,
-      "rank": 19,
+      "views": 10931,
+      "rank": 7,
       "channel": "초구딱"
     },
     {
@@ -107,26 +53,80 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 6672,
+      "views": 10227,
+      "rank": 8,
+      "channel": "초구딱"
+    },
+    {
+      "title": "홍창기 2경기 연속 선발 제외, LG 라인업 공개...새 외인 리오스 1군 등록, 퓨처스 4경기 연속 홈런 강민균도 1군 콜업",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 10182,
+      "rank": 9,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'韓 신기록' 이정후 미쳤다! 2013년 추신수-2023년 김하성 넘었다, 17G 연속 안타 폭발…2009년 이치로 27G 바라본다",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 9206,
+      "rank": 10,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'ERA 2.65→4.06 폭등' 나균안이 1군 전격 제외, \"휴식 차원 말소\"…'김태형 800승 5전6기 도전' 롯데 고승민 1루수 출격",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 7926,
+      "rank": 11,
+      "channel": "초구딱"
+    },
+    {
+      "title": "삼성 박진만 감독, 가랑비에 옷 젖는 줄 모르나? 4연속 루징 시리즈 위기",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 6645,
+      "rank": 15,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'느그가 프로가?' 실책·실책·실책 롯데, 9일 두산전 한 이닝 3실책이 소환한 문구",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 6585,
+      "rank": 16,
+      "channel": "초구딱"
+    },
+    {
+      "title": "바람 잘 날 없는 가스공사 ‘라건아 후폭풍’, 유도훈 감독·이대성 이어 이번에는 KCC",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 6535,
+      "rank": 17,
+      "channel": "초구딱"
+    },
+    {
+      "title": "‘뜨거운 타격감’ 이정후, 추신수·김하성 넘어 17G 연속 안타 신기록",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 6461,
+      "rank": 18,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'상무 제대' 한화 최초 GG 2루수, 1군 깜짝 복귀 불발→9일 2군행→퓨처스 출전 준비…\"마냥 연습만 할 수 없어\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 6116,
       "rank": 20,
-      "channel": "초구딱"
-    },
-    {
-      "title": "🏀[마감] 2026 NBA 플레이오프 예측 이벤트 - [NBA Finals]🏀",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=point&id=202605200115352199",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 1,
-      "channel": "초구딱"
-    },
-    {
-      "title": "⚠[필독] 뉴스 저작물 인용 관련 유의사항 및 가이드 안내⚠",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 2,
       "channel": "초구딱"
     },
     {
@@ -135,16 +135,7 @@
       "source": "MLB파크 불펜",
       "category": "야구",
       "views": 0,
-      "rank": 3,
-      "channel": "초구딱"
-    },
-    {
-      "title": "🐻[수빈의 두산 두산의 수빈] 출간 기념 도서 증정 이벤트🐻",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002099",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 4,
+      "rank": 1,
       "channel": "초구딱"
     },
     {
@@ -153,7 +144,16 @@
       "source": "MLB파크 불펜",
       "category": "야구",
       "views": 0,
-      "rank": 5,
+      "rank": 2,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🐻[수빈의 두산 두산의 수빈] 출간 기념 도서 증정 이벤트🐻",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002099",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 3,
       "channel": "초구딱"
     },
     {
@@ -162,12 +162,30 @@
       "source": "MLB파크 불펜",
       "category": "야구",
       "views": 0,
+      "rank": 4,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🏆[이벤트] 체코전 대한민국 첫 골 시간 맞히고 애슐리 가자!🏆",
+      "url": "https://mlbpark.donga.com/mp/b.php?m=search&p=1&b=worldcup&id=202606100116097710",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 5,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🏆[이벤트] 2026 북중미월드컵 승부예측 이벤트🏆",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606100116098223",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
       "rank": 6,
       "channel": "초구딱"
     },
     {
-      "title": "⚽[이벤트] 체코전 대한민국 첫 골 시간 맞히고 애슐리 가자!⚽",
-      "url": "https://mlbpark.donga.com/mp/b.php?m=search&p=1&b=worldcup&id=202606100116097710",
+      "title": "참교육 처음에 김남길이 먼저 제안 받았다던데",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116106383&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
       "views": 0,
@@ -175,26 +193,26 @@
       "channel": "초구딱"
     },
     {
-      "title": "⚽[이벤트] 2026 북중미월드컵 승부예측 이벤트⚽",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606100116098223",
+      "title": "블라인드 선관위 글",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116106374&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 0,
+      "views": 97,
       "rank": 8,
       "channel": "초구딱"
     },
     {
-      "title": "Study & Work",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116102456&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "외국인 비중 2025년 약 34%, 2026년 약 39% 비중조절",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116106371&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 0,
+      "views": 16,
       "rank": 9,
       "channel": "초구딱"
     },
     {
-      "title": "주식 이제 맞을 때도 됐죠",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116102450&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "부동산 복비 거래금액 비율로 주는거 외국도 그러나요??",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116106362&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=kakao.com",
       "source": "MLB파크 불펜",
       "category": "야구",
       "views": 0,
@@ -202,203 +220,203 @@
       "channel": "초구딱"
     },
     {
-      "title": "반도체 지금이 고점은 아닐거라 생각합니다.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116102447&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "러시아,중국이 태국보다 더 비민주적인 나라죠?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116106353&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 14,
+      "views": 0,
       "rank": 11,
       "channel": "초구딱"
     },
     {
-      "title": "클로즈데이 폭망이라는 이야기 듣고 이제 기대할건 오디쎄이 뿐인가",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116102441&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "선동열, “나 때부터 삼성 왕조 시작되었다”",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116106350&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 0,
+      "views": 55,
       "rank": 12,
       "channel": "초구딱"
     },
     {
-      "title": "당구]뭘로쳤을까 정답공개",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116102435&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "이쯤에서 슬슬 찾게되는 그분.. 민스키 행님",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116106341&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 35,
+      "views": 69,
       "rank": 13,
       "channel": "초구딱"
     },
     {
-      "title": "4월5월에 soxl koru 했으면",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116102429&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "참교육 나화진 위화감 없는 존시나 합성.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116106332&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 89,
+      "views": 85,
       "rank": 14,
       "channel": "초구딱"
     },
     {
-      "title": "이런장이 짜증나는 게 ㅋㅋ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116102426&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "볼살 나연.swf",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116106326&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 152,
+      "views": 23,
       "rank": 15,
       "channel": "초구딱"
     },
     {
-      "title": "현차 본절허고 튀었네여",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116102408&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "롯데 오늘자 트럭시위.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116106320&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 182,
+      "views": 173,
       "rank": 16,
       "channel": "초구딱"
     },
     {
-      "title": "문원, 아내 신지 생각하며 만든 ‘기다렸던 시간’ 발매",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116102405&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "김무열 데뷔 후 최초로 1위에 오름",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116106311&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 129,
+      "views": 293,
       "rank": 17,
       "channel": "초구딱"
     },
     {
-      "title": "눈앞에서 4중추돌 사고 보고 119신고했습니다",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116102399&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "근데 왜 코인은 오후엔 오르고 밤엔 떨어져요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116106296&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 83,
+      "views": 33,
       "rank": 18,
       "channel": "초구딱"
     },
     {
-      "title": "큰 그림에서 보면 반도체 이제 시작 같습니다",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116102393&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "살아있는 양념게장",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116106290&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 277,
+      "views": 145,
       "rank": 19,
       "channel": "초구딱"
     },
     {
-      "title": "벽걸이 에어컨 인버터가 좋은가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116102390&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "군용 벤츠 G바겐인데 지리네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116106287&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 22,
+      "views": 258,
       "rank": 20,
       "channel": "초구딱"
     },
     {
-      "title": "아 돈 빼고싶은데 내일 오를거같음",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116102387&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "조다정 치아리다",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116106254&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 105,
+      "views": 258,
       "rank": 21,
       "channel": "초구딱"
     },
     {
-      "title": "64년만에 이등병 계급 사라진다.. 현역병 계급 3단계로 축소",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116102381&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "[에스파] 닝닝.mp4",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116106251&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 192,
+      "views": 68,
       "rank": 22,
       "channel": "초구딱"
     },
     {
-      "title": "주식으로 진짜 돈 번 사람은 다 어르신들이던데",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116102369&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "취사병 드라마 진짜",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116106245&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 62,
+      "views": 270,
       "rank": 23,
       "channel": "초구딱"
     },
     {
-      "title": "대통령 믿고 갑니다. 대통령 공약 보고 오세요!!!!",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116102363&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+      "title": "[에스파] 지젤.mp4",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116106242&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 74,
+      "views": 65,
       "rank": 24,
       "channel": "초구딱"
     },
     {
-      "title": "다들 얼마 물리셨나요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116102348&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "ps5 구매고민",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116106218&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 214,
+      "views": 143,
       "rank": 25,
       "channel": "초구딱"
     },
     {
-      "title": "주식을 도박이라 생각하니 답이 없는거죠",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116102345&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "프리장 미장 반도체 작살나는중",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116106215&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 155,
+      "views": 993,
       "rank": 26,
       "channel": "초구딱"
     },
     {
-      "title": "평범한 대학에서 복수전공 하면 독 아닌가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116102342&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "신지, ‘남의 집 귀한 가족’ 통해 화제성 상승세…2위 기록",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116106206&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 28,
+      "views": 121,
       "rank": 27,
       "channel": "초구딱"
     },
     {
-      "title": "[식품] [쿠팡] 수박(11 brix 이상) 9kg 이상",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116102333&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "펜싱 국가대표, ‘개표소 시위’에 亞선수권 못 나갈 판",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116106197&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 37,
+      "views": 494,
       "rank": 28,
       "channel": "초구딱"
     },
     {
-      "title": "외국인 3개월간 91조 매도",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116102312&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "수요일 낮 조깅",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116106191&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 502,
+      "views": 60,
       "rank": 29,
       "channel": "초구딱"
     },
     {
-      "title": "주식은 뭐 코에걸면 코걸이 귀에걸면귀걸이죠 뭐",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116102309&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "[미야오] 가원 안나.mp4",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606100116106188&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 109,
+      "views": 65,
       "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 39,
+      "article_count": 37,
       "topics": [
         {
           "title": "\"바이아, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
           "angle_type": "자산·몸값",
-          "article_count": 4,
+          "article_count": 3,
           "source_article": "재산 1조 5200억, 돈밖에 없다더니…탕진하고 이제 와서 남 탓→메이웨더 측근, '2660억' 사기 소송에 화났다 \"제정신 아냐, 모든 증거 남아 있어\"",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "바이아",
-            "선언",
-            "김수현",
-            "혐의",
-            "벗었지"
+            "윤남노",
+            "대출",
+            "식당",
+            "오픈"
           ],
           "template": "자산 서열",
           "score": 7.5,
@@ -420,21 +438,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"정경호 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "title": "\"둘째 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
           "angle_type": "결혼·이혼",
-          "article_count": 10,
-          "source_article": "'이혼' 린, 변기 보이는 화장실서 생활..결국 해명 \"공황 올 것 같아서\"",
-          "source_url": "https://m.entertain.naver.com/article/108/0003442808",
+          "article_count": 9,
+          "source_article": "황정음 “둘째 생겨서 재결합한 거 아니다”…둘째 임신 전말 고백",
+          "source_url": "https://m.entertain.naver.com/article/468/0001246150",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
+            "둘째",
+            "열애",
             "정경호",
-            "최수영",
-            "결혼",
-            "결별",
-            "이혼"
+            "황정음",
+            "생겨서"
           ],
           "template": "결혼 화제",
-          "score": 7.1,
+          "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -453,51 +471,18 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 4,
-          "source_article": "신정환, 지상파 복귀 안 하는 이유 \"시청률 높은 프로서 섭외..가족들이 극구 반대\"",
-          "source_url": "https://m.entertain.naver.com/article/076/0004413685",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "신정환",
-            "지상파",
-            "하는",
-            "시청률",
-            "높은"
-          ],
-          "template": "동갑내기",
-          "score": 6.9,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
           "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
           "angle_type": "복귀·근황",
-          "article_count": 5,
+          "article_count": 8,
           "source_article": "72년생 배용준의 뜻밖의 변화…‘백발 장발’로 포착된 욘사마 근황",
           "source_url": "https://m.entertain.naver.com/article/468/0001246028",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "근황",
-            "년생",
-            "배용준",
-            "뜻밖의",
-            "변화"
+            "마침표",
+            "최수영",
+            "정경호",
+            "결별"
           ],
           "template": "장기 공백 복귀",
           "score": 6.8,
@@ -519,50 +504,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"아냐까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 2,
-          "source_article": "손흥민 향해 “군대도 안 간 게” 막말 논란…JTBC “우리 취재진 아냐”",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "아냐",
-            "손흥민",
-            "향해",
-            "군대도",
-            "막말"
-          ],
-          "template": "논란 집합",
-          "score": 6.4,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"최수영 결혼설?\" 최수영 연애사 총정리",
-          "angle_type": "👤 최수영",
+          "title": "\"가족이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+          "angle_type": "가족·혈연",
           "article_count": 4,
-          "source_article": "'14년 열애 종지부' 정경호·최수영 결별에…이광수♥이선빈 '9년 연애 순항' 쏠린 눈",
-          "source_url": "https://m.entertain.naver.com/article/213/0001390003",
+          "source_article": "최진실 아들 최환희, 스웨덴서 근황…훈훈한 비주얼",
+          "source_url": "https://m.entertain.naver.com/article/003/0013996750",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "최수영"
+            "가족",
+            "최진실",
+            "아들",
+            "최환희",
+            "스웨덴"
           ],
-          "template": "결혼 화제",
-          "score": 6.3,
+          "template": "동갑내기",
+          "score": 6.6,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -573,96 +529,9 @@
           "table": {
             "headers": [
               "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"결별 결혼설?\" 결별 연애사 총정리",
-          "angle_type": "👤 결별",
-          "article_count": 4,
-          "source_article": "“최수영은 결혼 원하지만, 정경호는 피해”…결별 예언 있었다",
-          "source_url": "https://m.entertain.naver.com/article/410/0001128126",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "결별"
-          ],
-          "template": "결혼 화제",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"고소영 결혼설?\" 고소영 연애사 총정리",
-          "angle_type": "👤 고소영",
-          "article_count": 3,
-          "source_article": "장동건♥고소영, 하와이서 경악…“식당 팁만 32만원”",
-          "source_url": "https://m.entertain.naver.com/article/382/0001277539",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "고소영"
-          ],
-          "template": "결혼 화제",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"만원 결혼설?\" 만원 연애사 총정리",
-          "angle_type": "👤 만원",
-          "article_count": 3,
-          "source_article": "장동건♥고소영, 하와이서 경악…“식당 팁만 32만원”",
-          "source_url": "https://m.entertain.naver.com/article/382/0001277539",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "만원"
-          ],
-          "template": "결혼 화제",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
+              "나이",
+              "대표작",
+              "현재 활동"
             ]
           },
           "channel": "정보주는하마"
@@ -671,18 +540,18 @@
           "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
           "angle_type": "스포츠",
           "article_count": 2,
-          "source_article": "황희찬과 함께 2부로! '홍명보호 경계대상 1호' 멕시코 특급 골잡이, 파격 英 챔피언십행 확정...\"승격 도울 적임자\"",
+          "source_article": "미쳤다! '911호골' 메시, 45초 만에 페널티킥 유도 → 복귀골 작렬…아르헨티나 A매치 7연승 '월드컵 2연패 준비 끝'",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "쇄골뼈",
-            "너무",
-            "앙상해",
-            "문원",
-            "신지"
+            "미쳤다",
+            "호골",
+            "메시",
+            "페널티",
+            "유도"
           ],
           "template": "스포츠 기록",
-          "score": 5.8,
+          "score": 6.6,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -699,47 +568,126 @@
             ]
           },
           "channel": "정보주는하마"
+        },
+        {
+          "title": "\"정경호 결혼설?\" 정경호 연애사 총정리",
+          "angle_type": "👤 정경호",
+          "article_count": 4,
+          "source_article": "\"14년 열애 마침표\"…최수영·정경호, 결별 인정 속 SNS로 전한 근황",
+          "source_url": "https://m.entertain.naver.com/article/477/0000612473",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "정경호"
+          ],
+          "template": "결혼 화제",
+          "score": 6.6,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"황정음, 지금 어디서 뭐 하나?\" 황정음 근황 총정리",
+          "angle_type": "👤 황정음",
+          "article_count": 3,
+          "source_article": "황정음 “둘째 생겨서 재결합한 거 아니다”…둘째 임신 전말 고백",
+          "source_url": "https://m.entertain.naver.com/article/468/0001246150",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "황정음"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 2,
+          "source_article": "“14년 기다렸잖아...” 정경호 향한 뜻밖의 비난 폭주, 대체 왜?",
+          "source_url": "https://m.entertain.naver.com/article/468/0001246174",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "기다렸",
+            "잖아",
+            "정경호",
+            "향한",
+            "뜻밖의"
+          ],
+          "template": "논란 집합",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
         }
       ],
       "keyword_freq": [
         [
-          "정경호",
-          5
+          "근황",
+          6
         ],
         [
-          "결별",
+          "정경호",
           4
         ],
         [
+          "황정음",
+          3
+        ],
+        [
+          "뜻밖의",
+          2
+        ],
+        [
+          "백발",
+          2
+        ],
+        [
+          "마침표",
+          2
+        ],
+        [
           "최수영",
-          3
-        ],
-        [
-          "근황",
-          3
-        ],
-        [
-          "고소영",
-          3
-        ],
-        [
-          "만원",
-          3
-        ],
-        [
-          "결혼",
-          3
-        ],
-        [
-          "안선영",
-          2
-        ],
-        [
-          "이혼",
-          2
-        ],
-        [
-          "연애",
           2
         ],
         [
@@ -747,31 +695,27 @@
           2
         ],
         [
-          "장동건",
+          "결별",
           2
         ],
         [
-          "팁만",
+          "드라마",
           2
         ],
         [
-          "재혼",
+          "김무열",
           2
         ],
         [
-          "비주얼",
+          "가족",
           2
         ],
         [
-          "뼈말라",
+          "만원",
           2
         ],
         [
-          "아이돌",
-          2
-        ],
-        [
-          "하트시그널",
+          "수영",
           2
         ],
         [
@@ -779,49 +723,57 @@
           2
         ],
         [
-          "아냐",
+          "하트시그널",
           2
+        ],
+        [
+          "식당",
+          2
+        ],
+        [
+          "통했다",
+          2
+        ],
+        [
+          "영입",
+          2
+        ],
+        [
+          "욘사마",
+          1
         ]
       ],
       "name_freq": [
         [
-          "정경호",
+          "근황",
           6
         ],
         [
+          "정경호",
+          4
+        ],
+        [
+          "황정음",
+          3
+        ],
+        [
+          "배용준",
+          2
+        ],
+        [
+          "뜻밖의",
+          2
+        ],
+        [
+          "백발",
+          2
+        ],
+        [
+          "마침표",
+          2
+        ],
+        [
           "최수영",
-          4
-        ],
-        [
-          "결별",
-          4
-        ],
-        [
-          "근황",
-          3
-        ],
-        [
-          "고소영",
-          3
-        ],
-        [
-          "만원",
-          3
-        ],
-        [
-          "결혼",
-          3
-        ],
-        [
-          "안선영",
-          2
-        ],
-        [
-          "이혼",
-          2
-        ],
-        [
-          "연애",
           2
         ],
         [
@@ -829,26 +781,34 @@
           2
         ],
         [
-          "배용준",
+          "결별",
           2
         ],
         [
-          "장동건",
+          "드라마",
           2
         ],
         [
-          "팁만",
+          "김무열",
           2
         ],
         [
-          "하와이",
+          "가족",
+          2
+        ],
+        [
+          "만원",
+          2
+        ],
+        [
+          "수영",
           2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
-          4
+          3
         ],
         [
           "논란·사건",
@@ -856,11 +816,11 @@
         ],
         [
           "결혼·이혼",
-          10
+          9
         ],
         [
           "복귀·근황",
-          5
+          8
         ],
         [
           "스포츠",
@@ -873,24 +833,53 @@
       ]
     },
     "초구딱": {
-      "article_count": 41,
+      "article_count": 43,
       "topics": [
         {
-          "title": "\"이정후, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 8,
-          "source_article": "이정후, 3회 2번째 타석 안타→韓 최초 17G 연속 안타 달성…ML 타율 2위 복귀",
+          "title": "\"이정후 자산이 얼마?\" 이정후급 자산가 스타 TOP10",
+          "angle_type": "👤 이정후",
+          "article_count": 5,
+          "source_article": "‘충격!’ MLB 타율 2위 이정후, 세부 지표 보니...‘더 충격’",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "이정후",
-            "안타",
+            "이정후"
+          ],
+          "template": "자산 서열",
+          "score": 8.4,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"연속, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 10,
+          "source_article": "\"이정후는 지금 세계 최고의 타자\" 극찬 나왔다!…'韓 빅리거 연속경기 안타 신기록' 달성→'멀티히트' NL 타율 단독 2위 등극",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
             "연속",
-            "한국인",
-            "역사"
+            "안타",
+            "이정후",
+            "신기록",
+            "김하성"
           ],
           "template": "스포츠 기록",
-          "score": 7.5,
+          "score": 7.2,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -942,16 +931,16 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"안타, 지금 어디서 뭐 하나?\" 안타 근황 총정리",
-          "angle_type": "👤 안타",
-          "article_count": 4,
-          "source_article": "이정후, 3회 2번째 타석 안타→韓 최초 17G 연속 안타 달성…ML 타율 2위 복귀",
+          "title": "\"김하성 자산이 얼마?\" 김하성급 자산가 스타 TOP10",
+          "angle_type": "👤 김하성",
+          "article_count": 3,
+          "source_article": "\"김하성 좋은 선수였는데…이런 결정 쉽지 않다\" 연봉 2000만 달러 백업이라니, 냉정한 선택과 반등 기대",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "안타"
+            "김하성"
           ],
-          "template": "장기 공백 복귀",
+          "template": "자산 서열",
           "score": 7.0,
           "dup_check": {
             "is_duplicate": false,
@@ -963,25 +952,25 @@
           "table": {
             "headers": [
               "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
             ]
           },
           "channel": "초구딱"
         },
         {
-          "title": "\"연속, 지금 어디서 뭐 하나?\" 연속 근황 총정리",
-          "angle_type": "👤 연속",
-          "article_count": 3,
-          "source_article": "이정후, 3회 2번째 타석 안타→韓 최초 17G 연속 안타 달성…ML 타율 2위 복귀",
+          "title": "\"안타\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안타",
+          "article_count": 4,
+          "source_article": "\"이정후는 지금 세계 최고의 타자\" 극찬 나왔다!…'韓 빅리거 연속경기 안타 신기록' 달성→'멀티히트' NL 타율 단독 2위 등극",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "연속"
+            "안타"
           ],
-          "template": "장기 공백 복귀",
-          "score": 7.0,
+          "template": "인맥",
+          "score": 6.4,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -992,9 +981,67 @@
           "table": {
             "headers": [
               "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"신기록\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 신기록",
+          "article_count": 3,
+          "source_article": "\"이정후는 지금 세계 최고의 타자\" 극찬 나왔다!…'韓 빅리거 연속경기 안타 신기록' 달성→'멀티히트' NL 타율 단독 2위 등극",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "신기록"
+          ],
+          "template": "인맥",
+          "score": 6.4,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"롯데\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 롯데",
+          "article_count": 3,
+          "source_article": "'ERA 2.65→4.06 폭등' 나균안이 1군 전격 제외, \"휴식 차원 말소\"…'김태형 800승 5전6기 도전' 롯데 고승민 1루수 출격",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "롯데"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
             ]
           },
           "channel": "초구딱"
@@ -1002,70 +1049,12 @@
         {
           "title": "\"이벤트\" 관련 화제 스타 TOP10",
           "angle_type": "👤 이벤트",
-          "article_count": 4,
-          "source_article": "🏀[마감] 2026 NBA 플레이오프 예측 이벤트 - [NBA Finals]🏀",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=point&id=202605200115352199",
+          "article_count": 3,
+          "source_article": "🐻[수빈의 두산 두산의 수빈] 출간 기념 도서 증정 이벤트🐻",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002099",
           "source_name": "MLB파크 불펜",
           "related_names": [
             "이벤트"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"안내\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 안내",
-          "article_count": 3,
-          "source_article": "⚠[필독] 뉴스 저작물 인용 관련 유의사항 및 가이드 안내⚠",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "안내"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"이제\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 이제",
-          "article_count": 3,
-          "source_article": "주식 이제 맞을 때도 됐죠",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606100116102450&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "이제"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -1090,42 +1079,54 @@
       "keyword_freq": [
         [
           "이정후",
-          6
+          4
         ],
         [
           "안타",
           4
         ],
         [
-          "이벤트",
+          "연속",
           4
         ],
         [
-          "연속",
+          "신기록",
           3
         ],
         [
-          "안내",
+          "김하성",
           3
         ],
         [
-          "이제",
+          "롯데",
           3
         ],
         [
-          "썼다",
+          "이벤트",
+          3
+        ],
+        [
+          "타율",
           2
         ],
         [
-          "한국인",
+          "퓨처스",
           2
         ],
         [
-          "역사",
+          "제외",
           2
         ],
         [
-          "경기",
+          "추신수",
+          2
+        ],
+        [
+          "루수",
+          2
+        ],
+        [
+          "감독",
           2
         ],
         [
@@ -1133,81 +1134,61 @@
           2
         ],
         [
-          "시간",
+          "안내",
           2
         ],
         [
-          "반도체",
+          "참교육",
           2
         ],
         [
-          "보고",
+          "에스파",
           2
         ],
         [
-          "달성",
+          "지표",
           1
         ],
         [
-          "타율",
+          "세부",
           1
         ],
         [
-          "타석",
-          1
-        ],
-        [
-          "번째",
-          1
-        ],
-        [
-          "샌프란시스코",
-          1
-        ],
-        [
-          "무슨",
+          "보니",
           1
         ]
       ],
       "name_freq": [
         [
           "이정후",
-          7
+          5
         ],
         [
           "안타",
           4
         ],
         [
-          "이벤트",
+          "연속",
           4
         ],
         [
-          "연속",
+          "신기록",
           3
         ],
         [
-          "안내",
+          "김하성",
           3
         ],
         [
-          "이제",
+          "롯데",
           3
         ],
         [
-          "썼다",
-          2
+          "이벤트",
+          3
         ],
         [
-          "한국인",
-          2
-        ],
-        [
-          "역사",
-          2
-        ],
-        [
-          "경기",
+          "타율",
           2
         ],
         [
@@ -1215,19 +1196,27 @@
           2
         ],
         [
+          "제외",
+          2
+        ],
+        [
+          "퓨처스",
+          2
+        ],
+        [
+          "추신수",
+          2
+        ],
+        [
+          "루수",
+          2
+        ],
+        [
+          "감독",
+          2
+        ],
+        [
           "공지",
-          2
-        ],
-        [
-          "월드컵",
-          2
-        ],
-        [
-          "시간",
-          2
-        ],
-        [
-          "반도체",
           2
         ]
       ],
@@ -1238,28 +1227,57 @@
         ],
         [
           "스포츠",
-          8
+          10
         ]
       ]
     }
   },
   "topics": [
     {
-      "title": "\"이정후, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 8,
-      "source_article": "이정후, 3회 2번째 타석 안타→韓 최초 17G 연속 안타 달성…ML 타율 2위 복귀",
+      "title": "\"이정후 자산이 얼마?\" 이정후급 자산가 스타 TOP10",
+      "angle_type": "👤 이정후",
+      "article_count": 5,
+      "source_article": "‘충격!’ MLB 타율 2위 이정후, 세부 지표 보니...‘더 충격’",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "이정후",
-        "안타",
+        "이정후"
+      ],
+      "template": "자산 서열",
+      "score": 8.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"연속, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 10,
+      "source_article": "\"이정후는 지금 세계 최고의 타자\" 극찬 나왔다!…'韓 빅리거 연속경기 안타 신기록' 달성→'멀티히트' NL 타율 단독 2위 등극",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
         "연속",
-        "한국인",
-        "역사"
+        "안타",
+        "이정후",
+        "신기록",
+        "김하성"
       ],
       "template": "스포츠 기록",
-      "score": 7.5,
+      "score": 7.2,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1311,16 +1329,16 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"안타, 지금 어디서 뭐 하나?\" 안타 근황 총정리",
-      "angle_type": "👤 안타",
-      "article_count": 4,
-      "source_article": "이정후, 3회 2번째 타석 안타→韓 최초 17G 연속 안타 달성…ML 타율 2위 복귀",
+      "title": "\"김하성 자산이 얼마?\" 김하성급 자산가 스타 TOP10",
+      "angle_type": "👤 김하성",
+      "article_count": 3,
+      "source_article": "\"김하성 좋은 선수였는데…이런 결정 쉽지 않다\" 연봉 2000만 달러 백업이라니, 냉정한 선택과 반등 기대",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "안타"
+        "김하성"
       ],
-      "template": "장기 공백 복귀",
+      "template": "자산 서열",
       "score": 7.0,
       "dup_check": {
         "is_duplicate": false,
@@ -1332,25 +1350,25 @@
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
         ]
       },
       "channel": "초구딱"
     },
     {
-      "title": "\"연속, 지금 어디서 뭐 하나?\" 연속 근황 총정리",
-      "angle_type": "👤 연속",
-      "article_count": 3,
-      "source_article": "이정후, 3회 2번째 타석 안타→韓 최초 17G 연속 안타 달성…ML 타율 2위 복귀",
+      "title": "\"안타\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안타",
+      "article_count": 4,
+      "source_article": "\"이정후는 지금 세계 최고의 타자\" 극찬 나왔다!…'韓 빅리거 연속경기 안타 신기록' 달성→'멀티히트' NL 타율 단독 2위 등극",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "연속"
+        "안타"
       ],
-      "template": "장기 공백 복귀",
-      "score": 7.0,
+      "template": "인맥",
+      "score": 6.4,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1361,9 +1379,67 @@
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"신기록\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 신기록",
+      "article_count": 3,
+      "source_article": "\"이정후는 지금 세계 최고의 타자\" 극찬 나왔다!…'韓 빅리거 연속경기 안타 신기록' 달성→'멀티히트' NL 타율 단독 2위 등극",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "신기록"
+      ],
+      "template": "인맥",
+      "score": 6.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"롯데\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 롯데",
+      "article_count": 3,
+      "source_article": "'ERA 2.65→4.06 폭등' 나균안이 1군 전격 제외, \"휴식 차원 말소\"…'김태형 800승 5전6기 도전' 롯데 고승민 1루수 출격",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "롯데"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "초구딱"
@@ -1371,70 +1447,12 @@
     {
       "title": "\"이벤트\" 관련 화제 스타 TOP10",
       "angle_type": "👤 이벤트",
-      "article_count": 4,
-      "source_article": "🏀[마감] 2026 NBA 플레이오프 예측 이벤트 - [NBA Finals]🏀",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=point&id=202605200115352199",
+      "article_count": 3,
+      "source_article": "🐻[수빈의 두산 두산의 수빈] 출간 기념 도서 증정 이벤트🐻",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002099",
       "source_name": "MLB파크 불펜",
       "related_names": [
         "이벤트"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
-      "article_count": 3,
-      "source_article": "⚠[필독] 뉴스 저작물 인용 관련 유의사항 및 가이드 안내⚠",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "안내"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"이제\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 이제",
-      "article_count": 3,
-      "source_article": "주식 이제 맞을 때도 됐죠",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606100116102450&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "이제"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1460,16 +1478,16 @@
     {
       "title": "\"바이아, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
       "angle_type": "자산·몸값",
-      "article_count": 4,
+      "article_count": 3,
       "source_article": "재산 1조 5200억, 돈밖에 없다더니…탕진하고 이제 와서 남 탓→메이웨더 측근, '2660억' 사기 소송에 화났다 \"제정신 아냐, 모든 증거 남아 있어\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "바이아",
-        "선언",
-        "김수현",
-        "혐의",
-        "벗었지"
+        "윤남노",
+        "대출",
+        "식당",
+        "오픈"
       ],
       "template": "자산 서열",
       "score": 7.5,
@@ -1491,21 +1509,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"정경호 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "title": "\"둘째 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
       "angle_type": "결혼·이혼",
-      "article_count": 10,
-      "source_article": "'이혼' 린, 변기 보이는 화장실서 생활..결국 해명 \"공황 올 것 같아서\"",
-      "source_url": "https://m.entertain.naver.com/article/108/0003442808",
+      "article_count": 9,
+      "source_article": "황정음 “둘째 생겨서 재결합한 거 아니다”…둘째 임신 전말 고백",
+      "source_url": "https://m.entertain.naver.com/article/468/0001246150",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
+        "둘째",
+        "열애",
         "정경호",
-        "최수영",
-        "결혼",
-        "결별",
-        "이혼"
+        "황정음",
+        "생겨서"
       ],
       "template": "결혼 화제",
-      "score": 7.1,
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1524,51 +1542,18 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 4,
-      "source_article": "신정환, 지상파 복귀 안 하는 이유 \"시청률 높은 프로서 섭외..가족들이 극구 반대\"",
-      "source_url": "https://m.entertain.naver.com/article/076/0004413685",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "신정환",
-        "지상파",
-        "하는",
-        "시청률",
-        "높은"
-      ],
-      "template": "동갑내기",
-      "score": 6.9,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
       "angle_type": "복귀·근황",
-      "article_count": 5,
+      "article_count": 8,
       "source_article": "72년생 배용준의 뜻밖의 변화…‘백발 장발’로 포착된 욘사마 근황",
       "source_url": "https://m.entertain.naver.com/article/468/0001246028",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "근황",
-        "년생",
-        "배용준",
-        "뜻밖의",
-        "변화"
+        "마침표",
+        "최수영",
+        "정경호",
+        "결별"
       ],
       "template": "장기 공백 복귀",
       "score": 6.8,
@@ -1590,50 +1575,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"아냐까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 2,
-      "source_article": "손흥민 향해 “군대도 안 간 게” 막말 논란…JTBC “우리 취재진 아냐”",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "아냐",
-        "손흥민",
-        "향해",
-        "군대도",
-        "막말"
-      ],
-      "template": "논란 집합",
-      "score": 6.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"최수영 결혼설?\" 최수영 연애사 총정리",
-      "angle_type": "👤 최수영",
+      "title": "\"가족이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "angle_type": "가족·혈연",
       "article_count": 4,
-      "source_article": "'14년 열애 종지부' 정경호·최수영 결별에…이광수♥이선빈 '9년 연애 순항' 쏠린 눈",
-      "source_url": "https://m.entertain.naver.com/article/213/0001390003",
+      "source_article": "최진실 아들 최환희, 스웨덴서 근황…훈훈한 비주얼",
+      "source_url": "https://m.entertain.naver.com/article/003/0013996750",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "최수영"
+        "가족",
+        "최진실",
+        "아들",
+        "최환희",
+        "스웨덴"
       ],
-      "template": "결혼 화제",
-      "score": 6.3,
+      "template": "동갑내기",
+      "score": 6.6,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1644,96 +1600,9 @@
       "table": {
         "headers": [
           "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"결별 결혼설?\" 결별 연애사 총정리",
-      "angle_type": "👤 결별",
-      "article_count": 4,
-      "source_article": "“최수영은 결혼 원하지만, 정경호는 피해”…결별 예언 있었다",
-      "source_url": "https://m.entertain.naver.com/article/410/0001128126",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "결별"
-      ],
-      "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"고소영 결혼설?\" 고소영 연애사 총정리",
-      "angle_type": "👤 고소영",
-      "article_count": 3,
-      "source_article": "장동건♥고소영, 하와이서 경악…“식당 팁만 32만원”",
-      "source_url": "https://m.entertain.naver.com/article/382/0001277539",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "고소영"
-      ],
-      "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"만원 결혼설?\" 만원 연애사 총정리",
-      "angle_type": "👤 만원",
-      "article_count": 3,
-      "source_article": "장동건♥고소영, 하와이서 경악…“식당 팁만 32만원”",
-      "source_url": "https://m.entertain.naver.com/article/382/0001277539",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "만원"
-      ],
-      "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
+          "나이",
+          "대표작",
+          "현재 활동"
         ]
       },
       "channel": "정보주는하마"
@@ -1742,18 +1611,18 @@
       "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
       "angle_type": "스포츠",
       "article_count": 2,
-      "source_article": "황희찬과 함께 2부로! '홍명보호 경계대상 1호' 멕시코 특급 골잡이, 파격 英 챔피언십행 확정...\"승격 도울 적임자\"",
+      "source_article": "미쳤다! '911호골' 메시, 45초 만에 페널티킥 유도 → 복귀골 작렬…아르헨티나 A매치 7연승 '월드컵 2연패 준비 끝'",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "쇄골뼈",
-        "너무",
-        "앙상해",
-        "문원",
-        "신지"
+        "미쳤다",
+        "호골",
+        "메시",
+        "페널티",
+        "유도"
       ],
       "template": "스포츠 기록",
-      "score": 5.8,
+      "score": 6.6,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1772,21 +1641,141 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이정후, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 8,
-      "source_article": "이정후, 3회 2번째 타석 안타→韓 최초 17G 연속 안타 달성…ML 타율 2위 복귀",
+      "title": "\"정경호 결혼설?\" 정경호 연애사 총정리",
+      "angle_type": "👤 정경호",
+      "article_count": 4,
+      "source_article": "\"14년 열애 마침표\"…최수영·정경호, 결별 인정 속 SNS로 전한 근황",
+      "source_url": "https://m.entertain.naver.com/article/477/0000612473",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "정경호"
+      ],
+      "template": "결혼 화제",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"황정음, 지금 어디서 뭐 하나?\" 황정음 근황 총정리",
+      "angle_type": "👤 황정음",
+      "article_count": 3,
+      "source_article": "황정음 “둘째 생겨서 재결합한 거 아니다”…둘째 임신 전말 고백",
+      "source_url": "https://m.entertain.naver.com/article/468/0001246150",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "황정음"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 2,
+      "source_article": "“14년 기다렸잖아...” 정경호 향한 뜻밖의 비난 폭주, 대체 왜?",
+      "source_url": "https://m.entertain.naver.com/article/468/0001246174",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "기다렸",
+        "잖아",
+        "정경호",
+        "향한",
+        "뜻밖의"
+      ],
+      "template": "논란 집합",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이정후 자산이 얼마?\" 이정후급 자산가 스타 TOP10",
+      "angle_type": "👤 이정후",
+      "article_count": 5,
+      "source_article": "‘충격!’ MLB 타율 2위 이정후, 세부 지표 보니...‘더 충격’",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "이정후",
-        "안타",
+        "이정후"
+      ],
+      "template": "자산 서열",
+      "score": 8.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"연속, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 10,
+      "source_article": "\"이정후는 지금 세계 최고의 타자\" 극찬 나왔다!…'韓 빅리거 연속경기 안타 신기록' 달성→'멀티히트' NL 타율 단독 2위 등극",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
         "연속",
-        "한국인",
-        "역사"
+        "안타",
+        "이정후",
+        "신기록",
+        "김하성"
       ],
       "template": "스포츠 기록",
-      "score": 7.5,
+      "score": 7.2,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1838,16 +1827,16 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"안타, 지금 어디서 뭐 하나?\" 안타 근황 총정리",
-      "angle_type": "👤 안타",
-      "article_count": 4,
-      "source_article": "이정후, 3회 2번째 타석 안타→韓 최초 17G 연속 안타 달성…ML 타율 2위 복귀",
+      "title": "\"김하성 자산이 얼마?\" 김하성급 자산가 스타 TOP10",
+      "angle_type": "👤 김하성",
+      "article_count": 3,
+      "source_article": "\"김하성 좋은 선수였는데…이런 결정 쉽지 않다\" 연봉 2000만 달러 백업이라니, 냉정한 선택과 반등 기대",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "안타"
+        "김하성"
       ],
-      "template": "장기 공백 복귀",
+      "template": "자산 서열",
       "score": 7.0,
       "dup_check": {
         "is_duplicate": false,
@@ -1859,25 +1848,25 @@
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
         ]
       },
       "channel": "초구딱"
     },
     {
-      "title": "\"연속, 지금 어디서 뭐 하나?\" 연속 근황 총정리",
-      "angle_type": "👤 연속",
-      "article_count": 3,
-      "source_article": "이정후, 3회 2번째 타석 안타→韓 최초 17G 연속 안타 달성…ML 타율 2위 복귀",
+      "title": "\"안타\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안타",
+      "article_count": 4,
+      "source_article": "\"이정후는 지금 세계 최고의 타자\" 극찬 나왔다!…'韓 빅리거 연속경기 안타 신기록' 달성→'멀티히트' NL 타율 단독 2위 등극",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "연속"
+        "안타"
       ],
-      "template": "장기 공백 복귀",
-      "score": 7.0,
+      "template": "인맥",
+      "score": 6.4,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1888,9 +1877,67 @@
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"신기록\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 신기록",
+      "article_count": 3,
+      "source_article": "\"이정후는 지금 세계 최고의 타자\" 극찬 나왔다!…'韓 빅리거 연속경기 안타 신기록' 달성→'멀티히트' NL 타율 단독 2위 등극",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "신기록"
+      ],
+      "template": "인맥",
+      "score": 6.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"롯데\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 롯데",
+      "article_count": 3,
+      "source_article": "'ERA 2.65→4.06 폭등' 나균안이 1군 전격 제외, \"휴식 차원 말소\"…'김태형 800승 5전6기 도전' 롯데 고승민 1루수 출격",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "롯데"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "초구딱"
@@ -1898,70 +1945,12 @@
     {
       "title": "\"이벤트\" 관련 화제 스타 TOP10",
       "angle_type": "👤 이벤트",
-      "article_count": 4,
-      "source_article": "🏀[마감] 2026 NBA 플레이오프 예측 이벤트 - [NBA Finals]🏀",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=point&id=202605200115352199",
+      "article_count": 3,
+      "source_article": "🐻[수빈의 두산 두산의 수빈] 출간 기념 도서 증정 이벤트🐻",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002099",
       "source_name": "MLB파크 불펜",
       "related_names": [
         "이벤트"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
-      "article_count": 3,
-      "source_article": "⚠[필독] 뉴스 저작물 인용 관련 유의사항 및 가이드 안내⚠",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "안내"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"이제\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 이제",
-      "article_count": 3,
-      "source_article": "주식 이제 맞을 때도 됐죠",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606100116102450&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "이제"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1985,43 +1974,31 @@
   ],
   "keyword_freq": [
     [
-      "정경호",
-      5
+      "근황",
+      6
     ],
     [
-      "결별",
+      "정경호",
       4
     ],
     [
+      "황정음",
+      3
+    ],
+    [
+      "뜻밖의",
+      2
+    ],
+    [
+      "백발",
+      2
+    ],
+    [
+      "마침표",
+      2
+    ],
+    [
       "최수영",
-      3
-    ],
-    [
-      "근황",
-      3
-    ],
-    [
-      "고소영",
-      3
-    ],
-    [
-      "만원",
-      3
-    ],
-    [
-      "결혼",
-      3
-    ],
-    [
-      "안선영",
-      2
-    ],
-    [
-      "이혼",
-      2
-    ],
-    [
-      "연애",
       2
     ],
     [
@@ -2029,31 +2006,27 @@
       2
     ],
     [
-      "장동건",
+      "결별",
       2
     ],
     [
-      "팁만",
+      "드라마",
       2
     ],
     [
-      "재혼",
+      "김무열",
       2
     ],
     [
-      "비주얼",
+      "가족",
       2
     ],
     [
-      "뼈말라",
+      "만원",
       2
     ],
     [
-      "아이돌",
-      2
-    ],
-    [
-      "하트시그널",
+      "수영",
       2
     ],
     [
@@ -2061,49 +2034,57 @@
       2
     ],
     [
-      "아냐",
+      "하트시그널",
       2
+    ],
+    [
+      "식당",
+      2
+    ],
+    [
+      "통했다",
+      2
+    ],
+    [
+      "영입",
+      2
+    ],
+    [
+      "욘사마",
+      1
     ]
   ],
   "name_freq": [
     [
-      "정경호",
+      "근황",
       6
     ],
     [
+      "정경호",
+      4
+    ],
+    [
+      "황정음",
+      3
+    ],
+    [
+      "배용준",
+      2
+    ],
+    [
+      "뜻밖의",
+      2
+    ],
+    [
+      "백발",
+      2
+    ],
+    [
+      "마침표",
+      2
+    ],
+    [
       "최수영",
-      4
-    ],
-    [
-      "결별",
-      4
-    ],
-    [
-      "근황",
-      3
-    ],
-    [
-      "고소영",
-      3
-    ],
-    [
-      "만원",
-      3
-    ],
-    [
-      "결혼",
-      3
-    ],
-    [
-      "안선영",
-      2
-    ],
-    [
-      "이혼",
-      2
-    ],
-    [
-      "연애",
       2
     ],
     [
@@ -2111,23 +2092,31 @@
       2
     ],
     [
-      "배용준",
+      "결별",
       2
     ],
     [
-      "장동건",
+      "드라마",
       2
     ],
     [
-      "팁만",
+      "김무열",
       2
     ],
     [
-      "하와이",
+      "가족",
+      2
+    ],
+    [
+      "만원",
+      2
+    ],
+    [
+      "수영",
       2
     ]
   ],
-  "total_topics_generated": 17,
-  "valid_topics": 17,
+  "total_topics_generated": 16,
+  "valid_topics": 16,
   "excluded_duplicates": 0
 }
