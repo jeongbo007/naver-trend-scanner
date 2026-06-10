@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-06-10 16:29:09",
+  "scan_time": "2026-06-10 19:33:48",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -747,15 +747,11 @@
           2
         ],
         [
-          "단독주택",
-          2
-        ],
-        [
           "마리",
           2
         ],
         [
-          "바퀴벌레",
+          "단독주택",
           2
         ],
         [
@@ -763,7 +759,7 @@
           2
         ],
         [
-          "마침표",
+          "바퀴벌레",
           2
         ],
         [
@@ -771,15 +767,19 @@
           2
         ],
         [
+          "마침표",
+          2
+        ],
+        [
           "김신영",
           2
         ],
         [
-          "팁만",
+          "장동건",
           2
         ],
         [
-          "장동건",
+          "팁만",
           2
         ]
       ],
@@ -837,11 +837,11 @@
           2
         ],
         [
-          "는데",
+          "마리",
           2
         ],
         [
-          "마리",
+          "단독주",
           2
         ]
       ],
@@ -878,7 +878,7 @@
         {
           "title": "\"이정후, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 7,
+          "article_count": 6,
           "source_article": "\"김하성 좋은 선수였는데…이런 결정 쉽지 않다\" 연봉 2000만 달러 백업이라니, 냉정한 선택과 반등 기대",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -942,68 +942,6 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 2,
-          "source_article": "거래량 없고 프리장 도박발 없지만 주가만 떨어진 꾸준한 주식",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606110116129477&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "김무열",
-            "조빱",
-            "사기꾼",
-            "찌질이",
-            "거래량"
-          ],
-          "template": "논란 집합",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"트럼프\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 트럼프",
-          "article_count": 4,
-          "source_article": "트럼프 정상 아닌거 맞죠?",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606110116129540&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "트럼프"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
           "title": "\"이벤트\" 관련 화제 스타 TOP10",
           "angle_type": "👤 이벤트",
           "article_count": 3,
@@ -1031,19 +969,44 @@
             ]
           },
           "channel": "초구딱"
+        },
+        {
+          "title": "\"참교육\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 참교육",
+          "article_count": 3,
+          "source_article": "(약스포) 참교육 최고의 연기자.mp4",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606110116129882&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "참교육"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
         [
           "이정후",
-          4
+          5
         ],
         [
           "이벤트",
-          3
-        ],
-        [
-          "트럼프",
           3
         ],
         [
@@ -1051,11 +1014,11 @@
           2
         ],
         [
-          "활약",
+          "초대형",
           2
         ],
         [
-          "초대형",
+          "활약",
           2
         ],
         [
@@ -1063,16 +1026,16 @@
           2
         ],
         [
-          "안내",
-          2
-        ],
-        [
           "공지",
           2
         ],
         [
-          "좋은",
-          1
+          "안내",
+          2
+        ],
+        [
+          "참교육",
+          2
         ],
         [
           "이런",
@@ -1083,11 +1046,7 @@
           1
         ],
         [
-          "연봉",
-          1
-        ],
-        [
-          "김하성",
+          "좋은",
           1
         ],
         [
@@ -1099,7 +1058,11 @@
           1
         ],
         [
-          "냉정한",
+          "쉽지",
+          1
+        ],
+        [
+          "연봉",
           1
         ],
         [
@@ -1107,26 +1070,34 @@
           1
         ],
         [
+          "김하성",
+          1
+        ],
+        [
           "선수였는데",
           1
         ],
         [
-          "쉽지",
+          "냉정한",
           1
         ]
       ],
       "name_freq": [
         [
           "이정후",
-          5
-        ],
-        [
-          "트럼프",
-          4
+          6
         ],
         [
           "이벤트",
           3
+        ],
+        [
+          "참교육",
+          3
+        ],
+        [
+          "는데",
+          2
         ],
         [
           "보인다",
@@ -1137,11 +1108,11 @@
           2
         ],
         [
-          "활약",
+          "초대형",
           2
         ],
         [
-          "초대형",
+          "활약",
           2
         ],
         [
@@ -1149,11 +1120,11 @@
           2
         ],
         [
-          "안내",
+          "공지",
           2
         ],
         [
-          "공지",
+          "안내",
           2
         ],
         [
@@ -1167,12 +1138,8 @@
           2
         ],
         [
-          "논란·사건",
-          2
-        ],
-        [
           "스포츠",
-          7
+          6
         ]
       ]
     }
@@ -1811,7 +1778,7 @@
     {
       "title": "\"이정후, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 7,
+      "article_count": 6,
       "source_article": "\"김하성 좋은 선수였는데…이런 결정 쉽지 않다\" 연봉 2000만 달러 백업이라니, 냉정한 선택과 반등 기대",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -1875,47 +1842,14 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 2,
-      "source_article": "거래량 없고 프리장 도박발 없지만 주가만 떨어진 꾸준한 주식",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606110116129477&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "\"이벤트\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 이벤트",
+      "article_count": 3,
+      "source_article": "🐻[수빈의 두산 두산의 수빈] 출간 기념 도서 증정 이벤트🐻",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002099",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "김무열",
-        "조빱",
-        "사기꾼",
-        "찌질이",
-        "거래량"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"트럼프\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 트럼프",
-      "article_count": 4,
-      "source_article": "트럼프 정상 아닌거 맞죠?",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606110116129540&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "트럼프"
+        "이벤트"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1937,14 +1871,14 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"이벤트\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 이벤트",
+      "title": "\"참교육\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 참교육",
       "article_count": 3,
-      "source_article": "🐻[수빈의 두산 두산의 수빈] 출간 기념 도서 증정 이벤트🐻",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002099",
+      "source_article": "(약스포) 참교육 최고의 연기자.mp4",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606110116129882&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "이벤트"
+        "참교육"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -2012,15 +1946,11 @@
       2
     ],
     [
-      "단독주택",
-      2
-    ],
-    [
       "마리",
       2
     ],
     [
-      "바퀴벌레",
+      "단독주택",
       2
     ],
     [
@@ -2028,7 +1958,7 @@
       2
     ],
     [
-      "마침표",
+      "바퀴벌레",
       2
     ],
     [
@@ -2036,15 +1966,19 @@
       2
     ],
     [
+      "마침표",
+      2
+    ],
+    [
       "김신영",
       2
     ],
     [
-      "팁만",
+      "장동건",
       2
     ],
     [
-      "장동건",
+      "팁만",
       2
     ]
   ],
@@ -2102,15 +2036,15 @@
       2
     ],
     [
-      "는데",
+      "마리",
       2
     ],
     [
-      "마리",
+      "단독주",
       2
     ]
   ],
-  "total_topics_generated": 15,
-  "valid_topics": 15,
+  "total_topics_generated": 14,
+  "valid_topics": 14,
   "excluded_duplicates": 0
 }
