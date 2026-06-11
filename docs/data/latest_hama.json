@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-06-11 16:43:23",
+  "scan_time": "2026-06-11 19:35:09",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -583,14 +583,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"결별\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 결별",
+          "title": "\"정경호\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 정경호",
           "article_count": 3,
           "source_article": "‘정경호·수영 결별 적중’ 무속인, 이번엔 재회 예측 “이별 처음 아냐…여전히 사랑해”",
           "source_url": "https://m.entertain.naver.com/article/241/0003514423",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "결별"
+            "정경호"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -612,14 +612,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"정경호\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 정경호",
+          "title": "\"결별\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 결별",
           "article_count": 3,
           "source_article": "‘정경호·수영 결별 적중’ 무속인, 이번엔 재회 예측 “이별 처음 아냐…여전히 사랑해”",
           "source_url": "https://m.entertain.naver.com/article/241/0003514423",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "정경호"
+            "결별"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -696,19 +696,15 @@
           3
         ],
         [
+          "박신혜",
+          2
+        ],
+        [
           "디즈니",
           2
         ],
         [
           "싱가포르",
-          2
-        ],
-        [
-          "박신혜",
-          2
-        ],
-        [
-          "이혼",
           2
         ],
         [
@@ -720,11 +716,7 @@
           2
         ],
         [
-          "정경호",
-          2
-        ],
-        [
-          "재회",
+          "이혼",
           2
         ],
         [
@@ -732,7 +724,11 @@
           2
         ],
         [
-          "이번엔",
+          "여전히",
+          2
+        ],
+        [
+          "정경호",
           2
         ],
         [
@@ -740,7 +736,11 @@
           2
         ],
         [
-          "여전히",
+          "이번엔",
+          2
+        ],
+        [
+          "재회",
           2
         ],
         [
@@ -748,7 +748,7 @@
           2
         ],
         [
-          "김기수",
+          "돌연",
           2
         ]
       ],
@@ -762,11 +762,11 @@
           3
         ],
         [
-          "결별",
+          "정경호",
           3
         ],
         [
-          "정경호",
+          "결별",
           3
         ],
         [
@@ -782,7 +782,7 @@
           3
         ],
         [
-          "디즈니",
+          "싱가포",
           2
         ],
         [
@@ -790,7 +790,7 @@
           2
         ],
         [
-          "싱가포",
+          "디즈니",
           2
         ],
         [
@@ -798,7 +798,7 @@
           2
         ],
         [
-          "이혼",
+          "지연수",
           2
         ],
         [
@@ -810,7 +810,7 @@
           2
         ],
         [
-          "지연수",
+          "이혼",
           2
         ]
       ],
@@ -841,38 +841,9 @@
       "article_count": 42,
       "topics": [
         {
-          "title": "\"월드컵 자산이 얼마?\" 월드컵급 자산가 스타 TOP10",
-          "angle_type": "👤 월드컵",
-          "article_count": 6,
-          "source_article": "⚽[공지] 월드컵 기간 내 전용 게시판 운영 예정 안내⚽",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002102",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "월드컵"
-          ],
-          "template": "자산 서열",
-          "score": 7.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
           "title": "\"이정후, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 9,
+          "article_count": 8,
           "source_article": "\"이정후 트레이드 대어\" 美 새 행선지 언급, '2위' 돌풍 엄청나다…\"세계 최고 타자\" 찬사까지",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -898,6 +869,35 @@
               "소속팀",
               "기록 내용",
               "기록 가치"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"월드컵\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 월드컵",
+          "article_count": 7,
+          "source_article": "⚽[공지] 월드컵 기간 내 전용 게시판 운영 예정 안내⚽",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002102",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "월드컵"
+          ],
+          "template": "인맥",
+          "score": 7.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
             ]
           },
           "channel": "초구딱"
@@ -932,6 +932,35 @@
           "channel": "초구딱"
         },
         {
+          "title": "\"게시판\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 게시판",
+          "article_count": 3,
+          "source_article": "⚽[공지] 월드컵 기간 내 전용 게시판 운영 예정 안내⚽",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002102",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "게시판"
+          ],
+          "template": "인맥",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
           "title": "\"타자\" 관련 화제 스타 TOP10",
           "angle_type": "👤 타자",
           "article_count": 3,
@@ -943,6 +972,35 @@
           ],
           "template": "인맥",
           "score": 6.4,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"멕시코\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 멕시코",
+          "article_count": 4,
+          "source_article": "한화 위해 팔 빠지게 던지고 떠났다…'6주 활약' 쿠싱, 멕시코에서 새출발→'前 KIA' 소크라테스와 한솥밥",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "멕시코"
+          ],
+          "template": "인맥",
+          "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -997,88 +1055,6 @@
         ],
         [
           "월드컵",
-          5
-        ],
-        [
-          "연속",
-          3
-        ],
-        [
-          "타자",
-          3
-        ],
-        [
-          "이벤트",
-          3
-        ],
-        [
-          "타격",
-          2
-        ],
-        [
-          "미쳤다",
-          2
-        ],
-        [
-          "타율",
-          2
-        ],
-        [
-          "안타",
-          2
-        ],
-        [
-          "투수",
-          2
-        ],
-        [
-          "김서현",
-          2
-        ],
-        [
-          "직구",
-          2
-        ],
-        [
-          "무슨",
-          2
-        ],
-        [
-          "공지",
-          2
-        ],
-        [
-          "안내",
-          2
-        ],
-        [
-          "참교육",
-          2
-        ],
-        [
-          "우리나라",
-          2
-        ],
-        [
-          "아니다",
-          1
-        ],
-        [
-          "어느덧",
-          1
-        ],
-        [
-          "경쟁만",
-          1
-        ]
-      ],
-      "name_freq": [
-        [
-          "이정후",
-          7
-        ],
-        [
-          "월드컵",
           6
         ],
         [
@@ -1094,19 +1070,23 @@
           3
         ],
         [
-          "타격",
-          2
+          "게시판",
+          3
         ],
         [
           "미쳤다",
           2
         ],
         [
-          "타율",
+          "타격",
           2
         ],
         [
           "안타",
+          2
+        ],
+        [
+          "타율",
           2
         ],
         [
@@ -1122,22 +1102,100 @@
           2
         ],
         [
-          "게임",
+          "해외",
           2
         ],
         [
-          "무슨",
+          "안내",
           2
         ],
         [
           "공지",
+          2
+        ],
+        [
+          "미친자",
+          1
+        ],
+        [
+          "하는",
+          1
+        ],
+        [
+          "공동",
+          1
+        ],
+        [
+          "이것도",
+          1
+        ]
+      ],
+      "name_freq": [
+        [
+          "이정후",
+          7
+        ],
+        [
+          "월드컵",
+          7
+        ],
+        [
+          "멕시코",
+          4
+        ],
+        [
+          "연속",
+          3
+        ],
+        [
+          "타자",
+          3
+        ],
+        [
+          "이벤트",
+          3
+        ],
+        [
+          "게시판",
+          3
+        ],
+        [
+          "미쳤다",
+          2
+        ],
+        [
+          "타격",
+          2
+        ],
+        [
+          "안타",
+          2
+        ],
+        [
+          "타율",
+          2
+        ],
+        [
+          "투수",
+          2
+        ],
+        [
+          "김서현",
+          2
+        ],
+        [
+          "직구",
+          2
+        ],
+        [
+          "해외",
           2
         ]
       ],
       "angle_scores": [
         [
           "스포츠",
-          9
+          8
         ]
       ]
     }
@@ -1367,14 +1425,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"결별\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 결별",
+      "title": "\"정경호\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 정경호",
       "article_count": 3,
       "source_article": "‘정경호·수영 결별 적중’ 무속인, 이번엔 재회 예측 “이별 처음 아냐…여전히 사랑해”",
       "source_url": "https://m.entertain.naver.com/article/241/0003514423",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "결별"
+        "정경호"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1396,14 +1454,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"정경호\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 정경호",
+      "title": "\"결별\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 결별",
       "article_count": 3,
       "source_article": "‘정경호·수영 결별 적중’ 무속인, 이번엔 재회 예측 “이별 처음 아냐…여전히 사랑해”",
       "source_url": "https://m.entertain.naver.com/article/241/0003514423",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "정경호"
+        "결별"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1679,14 +1737,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"결별\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 결별",
+      "title": "\"정경호\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 정경호",
       "article_count": 3,
       "source_article": "‘정경호·수영 결별 적중’ 무속인, 이번엔 재회 예측 “이별 처음 아냐…여전히 사랑해”",
       "source_url": "https://m.entertain.naver.com/article/241/0003514423",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "결별"
+        "정경호"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1708,14 +1766,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"정경호\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 정경호",
+      "title": "\"결별\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 결별",
       "article_count": 3,
       "source_article": "‘정경호·수영 결별 적중’ 무속인, 이번엔 재회 예측 “이별 처음 아냐…여전히 사랑해”",
       "source_url": "https://m.entertain.naver.com/article/241/0003514423",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "정경호"
+        "결별"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1766,38 +1824,9 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"월드컵 자산이 얼마?\" 월드컵급 자산가 스타 TOP10",
-      "angle_type": "👤 월드컵",
-      "article_count": 6,
-      "source_article": "⚽[공지] 월드컵 기간 내 전용 게시판 운영 예정 안내⚽",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002102",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "월드컵"
-      ],
-      "template": "자산 서열",
-      "score": 7.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
       "title": "\"이정후, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 9,
+      "article_count": 8,
       "source_article": "\"이정후 트레이드 대어\" 美 새 행선지 언급, '2위' 돌풍 엄청나다…\"세계 최고 타자\" 찬사까지",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -1823,6 +1852,35 @@
           "소속팀",
           "기록 내용",
           "기록 가치"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"월드컵\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 월드컵",
+      "article_count": 7,
+      "source_article": "⚽[공지] 월드컵 기간 내 전용 게시판 운영 예정 안내⚽",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002102",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "월드컵"
+      ],
+      "template": "인맥",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "초구딱"
@@ -1857,6 +1915,35 @@
       "channel": "초구딱"
     },
     {
+      "title": "\"게시판\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 게시판",
+      "article_count": 3,
+      "source_article": "⚽[공지] 월드컵 기간 내 전용 게시판 운영 예정 안내⚽",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002102",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "게시판"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
       "title": "\"타자\" 관련 화제 스타 TOP10",
       "angle_type": "👤 타자",
       "article_count": 3,
@@ -1868,6 +1955,35 @@
       ],
       "template": "인맥",
       "score": 6.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"멕시코\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 멕시코",
+      "article_count": 4,
+      "source_article": "한화 위해 팔 빠지게 던지고 떠났다…'6주 활약' 쿠싱, 멕시코에서 새출발→'前 KIA' 소크라테스와 한솥밥",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "멕시코"
+      ],
+      "template": "인맥",
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1941,19 +2057,15 @@
       3
     ],
     [
+      "박신혜",
+      2
+    ],
+    [
       "디즈니",
       2
     ],
     [
       "싱가포르",
-      2
-    ],
-    [
-      "박신혜",
-      2
-    ],
-    [
-      "이혼",
       2
     ],
     [
@@ -1965,11 +2077,7 @@
       2
     ],
     [
-      "정경호",
-      2
-    ],
-    [
-      "재회",
+      "이혼",
       2
     ],
     [
@@ -1977,7 +2085,11 @@
       2
     ],
     [
-      "이번엔",
+      "여전히",
+      2
+    ],
+    [
+      "정경호",
       2
     ],
     [
@@ -1985,7 +2097,11 @@
       2
     ],
     [
-      "여전히",
+      "이번엔",
+      2
+    ],
+    [
+      "재회",
       2
     ],
     [
@@ -1993,7 +2109,7 @@
       2
     ],
     [
-      "김기수",
+      "돌연",
       2
     ]
   ],
@@ -2007,11 +2123,11 @@
       3
     ],
     [
-      "결별",
+      "정경호",
       3
     ],
     [
-      "정경호",
+      "결별",
       3
     ],
     [
@@ -2027,7 +2143,7 @@
       3
     ],
     [
-      "디즈니",
+      "싱가포",
       2
     ],
     [
@@ -2035,7 +2151,7 @@
       2
     ],
     [
-      "싱가포",
+      "디즈니",
       2
     ],
     [
@@ -2043,7 +2159,7 @@
       2
     ],
     [
-      "이혼",
+      "지연수",
       2
     ],
     [
@@ -2055,11 +2171,11 @@
       2
     ],
     [
-      "지연수",
+      "이혼",
       2
     ]
   ],
-  "total_topics_generated": 15,
-  "valid_topics": 15,
+  "total_topics_generated": 17,
+  "valid_topics": 17,
   "excluded_duplicates": 0
 }
