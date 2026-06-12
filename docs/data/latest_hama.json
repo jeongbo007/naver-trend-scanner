@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-06-12 16:09:41",
+  "scan_time": "2026-06-12 19:03:21",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -767,11 +767,11 @@
           4
         ],
         [
-          "성빈",
+          "근황",
           3
         ],
         [
-          "근황",
+          "성빈",
           3
         ],
         [
@@ -787,11 +787,11 @@
           2
         ],
         [
-          "슬리피",
+          "연하",
           2
         ],
         [
-          "연하",
+          "슬리피",
           2
         ],
         [
@@ -803,15 +803,15 @@
           2
         ],
         [
+          "유튜브",
+          2
+        ],
+        [
           "성준",
           2
         ],
         [
           "학년",
-          2
-        ],
-        [
-          "유튜브",
           2
         ],
         [
@@ -853,11 +853,11 @@
           4
         ],
         [
-          "성빈",
+          "근황",
           3
         ],
         [
-          "근황",
+          "성빈",
           3
         ],
         [
@@ -873,11 +873,11 @@
           2
         ],
         [
-          "슬리피",
+          "연하",
           2
         ],
         [
-          "연하",
+          "슬리피",
           2
         ],
         [
@@ -889,11 +889,11 @@
           2
         ],
         [
-          "성준",
+          "유튜브",
           2
         ],
         [
-          "학년",
+          "성준",
           2
         ]
       ],
@@ -965,17 +965,17 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"월드컵\" 관련 화제 스타 TOP10",
+          "title": "\"월드컵, 지금 어디서 뭐 하나?\" 월드컵 근황 총정리",
           "angle_type": "👤 월드컵",
-          "article_count": 6,
+          "article_count": 8,
           "source_article": "'황소' 황희찬, 월드컵 왔는데 초대형 날벼락! 울버햄튼, 에드워즈 감독 전격 경질 \"새로운 방향 필요하다고 판단\"",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "월드컵"
           ],
-          "template": "인맥",
-          "score": 7.0,
+          "template": "장기 공백 복귀",
+          "score": 7.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -986,25 +986,25 @@
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
             ]
           },
           "channel": "초구딱"
         },
         {
-          "title": "\"스페이\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 스페이",
-          "article_count": 4,
-          "source_article": "스페이스x 정찰병 투입 완료",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606130116213387&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "title": "\"네요\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 네요",
+          "article_count": 3,
+          "source_article": "케데헌 이재노래가 이번 월드컵 메인 OST 인가보네요 ㄷㄷ",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606130116214062&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
           "source_name": "MLB파크 불펜",
           "related_names": [
-            "스페이"
+            "네요"
           ],
           "template": "인맥",
-          "score": 6.0,
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -1023,14 +1023,47 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"스엑\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 스엑",
-          "article_count": 3,
-          "source_article": "스엑 155불에 50주 넣어봤는데",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606130116213390&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 2,
+          "source_article": "월드컵 인기 근황 ㄷㄷㄷ.jpg",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606130116214002&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
           "source_name": "MLB파크 불펜",
           "related_names": [
-            "스엑"
+            "근황",
+            "스페이",
+            "시가총",
+            "월드컵",
+            "인기"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"멕시코\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 멕시코",
+          "article_count": 3,
+          "source_article": "홍명보호에도 치명타! 멕시코 이기레 감독 '오피셜' 인정, 무조건 극복해야 하는 단 한가지...\"기록 꼭 깨고 싶어\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "멕시코"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -1055,22 +1088,14 @@
       "keyword_freq": [
         [
           "월드컵",
-          5
-        ],
-        [
-          "스페이스",
-          4
-        ],
-        [
-          "스엑",
-          3
+          6
         ],
         [
           "감독",
           2
         ],
         [
-          "투입",
+          "멕시코",
           2
         ],
         [
@@ -1086,31 +1111,39 @@
           2
         ],
         [
-          "없네요",
+          "체코전",
           2
         ],
         [
-          "생각보다",
+          "캐나다",
           2
         ],
         [
-          "대체",
-          1
+          "실시간",
+          2
         ],
         [
-          "뭐하는거야",
-          1
+          "인기",
+          2
         ],
         [
-          "아웃",
-          1
+          "근황",
+          2
         ],
         [
-          "충격받은",
+          "스페이스",
+          2
+        ],
+        [
+          "안타후",
           1
         ],
         [
           "동료",
+          1
+        ],
+        [
+          "받아들일",
           1
         ],
         [
@@ -1122,41 +1155,33 @@
           1
         ],
         [
+          "아웃",
+          1
+        ],
+        [
+          "뭐하는거야",
+          1
+        ],
+        [
           "있었다",
-          1
-        ],
-        [
-          "받아들일",
-          1
-        ],
-        [
-          "안타후",
           1
         ]
       ],
       "name_freq": [
         [
           "월드컵",
-          6
+          8
         ],
         [
-          "스페이",
-          4
+          "멕시코",
+          3
         ],
         [
-          "스엑",
+          "네요",
           3
         ],
         [
           "감독",
-          2
-        ],
-        [
-          "멕시코",
-          2
-        ],
-        [
-          "투입",
           2
         ],
         [
@@ -1172,15 +1197,35 @@
           2
         ],
         [
-          "없네요",
+          "체코전",
           2
         ],
         [
-          "생각보",
+          "캐나다",
+          2
+        ],
+        [
+          "실시간",
+          2
+        ],
+        [
+          "인기",
+          2
+        ],
+        [
+          "근황",
+          2
+        ],
+        [
+          "스페이",
           2
         ]
       ],
       "angle_scores": [
+        [
+          "복귀·근황",
+          2
+        ],
         [
           "스포츠",
           5
@@ -1919,17 +1964,17 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"월드컵\" 관련 화제 스타 TOP10",
+      "title": "\"월드컵, 지금 어디서 뭐 하나?\" 월드컵 근황 총정리",
       "angle_type": "👤 월드컵",
-      "article_count": 6,
+      "article_count": 8,
       "source_article": "'황소' 황희찬, 월드컵 왔는데 초대형 날벼락! 울버햄튼, 에드워즈 감독 전격 경질 \"새로운 방향 필요하다고 판단\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "월드컵"
       ],
-      "template": "인맥",
-      "score": 7.0,
+      "template": "장기 공백 복귀",
+      "score": 7.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1940,25 +1985,25 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "초구딱"
     },
     {
-      "title": "\"스페이\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 스페이",
-      "article_count": 4,
-      "source_article": "스페이스x 정찰병 투입 완료",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606130116213387&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "\"네요\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 네요",
+      "article_count": 3,
+      "source_article": "케데헌 이재노래가 이번 월드컵 메인 OST 인가보네요 ㄷㄷ",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606130116214062&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "스페이"
+        "네요"
       ],
       "template": "인맥",
-      "score": 6.0,
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1977,14 +2022,47 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"스엑\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 스엑",
-      "article_count": 3,
-      "source_article": "스엑 155불에 50주 넣어봤는데",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606130116213390&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "월드컵 인기 근황 ㄷㄷㄷ.jpg",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606130116214002&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "스엑"
+        "근황",
+        "스페이",
+        "시가총",
+        "월드컵",
+        "인기"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"멕시코\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 멕시코",
+      "article_count": 3,
+      "source_article": "홍명보호에도 치명타! 멕시코 이기레 감독 '오피셜' 인정, 무조건 극복해야 하는 단 한가지...\"기록 꼭 깨고 싶어\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "멕시코"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -2020,11 +2098,11 @@
       4
     ],
     [
-      "성빈",
+      "근황",
       3
     ],
     [
-      "근황",
+      "성빈",
       3
     ],
     [
@@ -2040,11 +2118,11 @@
       2
     ],
     [
-      "슬리피",
+      "연하",
       2
     ],
     [
-      "연하",
+      "슬리피",
       2
     ],
     [
@@ -2056,15 +2134,15 @@
       2
     ],
     [
+      "유튜브",
+      2
+    ],
+    [
       "성준",
       2
     ],
     [
       "학년",
-      2
-    ],
-    [
-      "유튜브",
       2
     ],
     [
@@ -2106,11 +2184,11 @@
       4
     ],
     [
-      "성빈",
+      "근황",
       3
     ],
     [
-      "근황",
+      "성빈",
       3
     ],
     [
@@ -2126,11 +2204,11 @@
       2
     ],
     [
-      "슬리피",
+      "연하",
       2
     ],
     [
-      "연하",
+      "슬리피",
       2
     ],
     [
@@ -2142,15 +2220,15 @@
       2
     ],
     [
-      "성준",
+      "유튜브",
       2
     ],
     [
-      "학년",
+      "성준",
       2
     ]
   ],
-  "total_topics_generated": 15,
-  "valid_topics": 15,
+  "total_topics_generated": 16,
+  "valid_topics": 16,
   "excluded_duplicates": 0
 }
