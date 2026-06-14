@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-06-14 11:20:57",
+  "scan_time": "2026-06-14 15:02:53",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -13,12 +13,30 @@
   "total_articles": 80,
   "articles": [
     {
-      "title": "'계약 0순위' KIA 대이변…트레이드 실패 위기의 거포, 절호의 기회가 왔다",
+      "title": "작심 비판! \"누굴 위한 월드컵\"...\"축구, 인질로 잡혔다\" 클롭 감독, 경기 흐름 '뚝' 광고 타임 진행되는 하이드레이션 브레이크에 분개",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 16189,
-      "rank": 4,
+      "views": 20701,
+      "rank": 3,
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"사과하고 싶습니다\" 日 결국 눈물의 기자회견…모리야스 감독 \"주장 엔도 이탈, 선수에게 끔찍한 일을 전한단 생각\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 11017,
+      "rank": 8,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'긴급 병원 이송' 두산 어쩌나, 직접 교체 요청 심상치 않다…\"15일 한번 더 검진 예정\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 8812,
+      "rank": 9,
       "channel": "초구딱"
     },
     {
@@ -26,35 +44,17 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 15566,
-      "rank": 5,
+      "views": 8512,
+      "rank": 10,
       "channel": "초구딱"
     },
     {
-      "title": "마침내 KIA 타이거즈 구단 새 역사 썼다! 홈 경기 연속 매진 '12G' 신기록 달성 '광주 야구 열기 대단하네'",
+      "title": "염경엽 LG 감독 \"이영빈, 열심히 하는 것 알아…자세만 고치길\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 5358,
-      "rank": 14,
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"이럴수가\" 9회 무사 1·3루 허공에 날린 한화, 강백호 대기록에도 충격의 '고척 피스윕'",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 5146,
-      "rank": 15,
-      "channel": "초구딱"
-    },
-    {
-      "title": "아이처럼 활짝! 차범근도 '홍명보 용병술'에 놀랐다...\"손흥민 남기길 원했는데 교체 적중, 감독 판단이 옳았다\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 5080,
-      "rank": 17,
+      "views": 8436,
+      "rank": 11,
       "channel": "초구딱"
     },
     {
@@ -62,8 +62,17 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 4804,
-      "rank": 19,
+      "views": 7045,
+      "rank": 12,
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"나이 든 손흥민, 토트넘 공격진보다 훨씬 잘해!\" 끝나지 않는 'SON 앓이'...\"구단 역사상 가장 위대한 레전드, 여전히 위협적\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 6682,
+      "rank": 14,
       "channel": "초구딱"
     },
     {
@@ -71,8 +80,17 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 4314,
-      "rank": 20,
+      "views": 6141,
+      "rank": 15,
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"이럴수가\" 9회 무사 1·3루 허공에 날린 한화, 강백호 대기록에도 충격의 '고척 피스윕'",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 5084,
+      "rank": 18,
       "channel": "초구딱"
     },
     {
@@ -130,8 +148,8 @@
       "channel": "초구딱"
     },
     {
-      "title": "섬나라 롯데 근황",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116271968&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "트럼프가 이번에는 종전 진심일까요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606150116276336&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
       "views": 0,
@@ -139,8 +157,8 @@
       "channel": "초구딱"
     },
     {
-      "title": "??? : 재밌었니???",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116271965&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "[스포] 참교육 4화 저 같은분 많으시죠?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606150116276333&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
       "views": 0,
@@ -148,35 +166,35 @@
       "channel": "초구딱"
     },
     {
-      "title": "전 니달리 나왔을때 이겼다 봤습니다",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116271956&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "김연경 쌍둥이 만약에 학폭얘기없었음 누구쪽여론이 우세였을까요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606150116276327&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 25,
+      "views": 14,
       "rank": 9,
       "channel": "초구딱"
     },
     {
-      "title": "트럼프 탄신일, MOU 체결, 현재 삼하 상황",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116271941&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "차상현 기름집 감독 되고 5위 4위 3위 2위 우승했음.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606150116276324&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 47,
+      "views": 0,
       "rank": 10,
       "channel": "초구딱"
     },
     {
-      "title": "근데 페이커 텔포는 진짜 뭐였을까요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116271929&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "김도영 이랑 오카모토 누가더 좋은 선수 인가요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606150116276321&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 41,
+      "views": 0,
       "rank": 11,
       "channel": "초구딱"
     },
     {
-      "title": "프로토스로 저그 상대해보면 저글링이 진짜 쎕니다.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116271926&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "유튜브 뮤직 리캡 3-5월 나의 최애 앨범",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606150116276318&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
       "views": 0,
@@ -184,188 +202,250 @@
       "channel": "초구딱"
     },
     {
-      "title": "네네 양념통닭 맛있지 않나요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116271920&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "한국 시청자 입장에서는 어느대륙에서 월드컵/올림픽 하는게 최악인가요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606150116276315&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 21,
+      "views": 0,
       "rank": 13,
       "channel": "초구딱"
     },
     {
-      "title": "룰러는 왜 시비르 거르고 미포한거죠?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116271902&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "불펜 롤판이 기울어진게",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606150116276312&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 50,
+      "views": 12,
       "rank": 14,
       "channel": "초구딱"
     },
     {
-      "title": "장예원 아나 인스타",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116271875&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "우리나라 조 2위가 좋나요? 1위가 좋나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606150116276309&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 134,
+      "views": 48,
       "rank": 15,
       "channel": "초구딱"
     },
     {
-      "title": "김민주 인스타..JPGIF",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116271872&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "와 나이를 먹긴 먹었는가 이게 기억이 안났네요.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606150116276303&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 94,
+      "views": 47,
       "rank": 16,
       "channel": "초구딱"
     },
     {
-      "title": "오늘로써 저만의 세체탑이 정해짐",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116271866&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "참교육은 괜히 찝찝해서 못 보겠네요.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606150116276300&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 60,
+      "views": 66,
       "rank": 17,
       "channel": "초구딱"
     },
     {
-      "title": "느그비 팬들 또 부흥회 열던데ㅋㅋㅋㅋ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116271845&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "학생 30만명에서 1만5천명 자퇴 하면 교사 수도 줄여야 하나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606150116276297&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 111,
+      "views": 30,
       "rank": 18,
       "channel": "초구딱"
     },
     {
-      "title": "티원은 오늘 밴픽 괜찮았는데 금요일은 너무 개발렸음...",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116271839&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "오늘 슈카월드라이브에서 놀란것",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606150116276294&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 62,
+      "views": 127,
       "rank": 19,
       "channel": "초구딱"
     },
     {
-      "title": "요즘 택안떼고 입는게 다시 유행인가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116271818&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+      "title": "UFC 좋아하시는 불페너분들께 질문 있습니다~",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606150116276291&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 78,
+      "views": 29,
       "rank": 20,
       "channel": "초구딱"
     },
     {
-      "title": "방송사들 진짜 나쁜놈들이네 죄다 썩었음",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116271809&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "남자라면 눈 돌아가는 식단 이라고",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116276288&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 93,
+      "views": 162,
       "rank": 21,
       "channel": "초구딱"
     },
     {
-      "title": "아이오아이 vs 아이즈원",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116271773&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "전세계 인지도 70% 가능vs불가능.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116276282&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 37,
+      "views": 117,
       "rank": 22,
       "channel": "초구딱"
     },
     {
-      "title": "쵸비는 내가 해야 한다는 강박이 있는듯",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116271767&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "영국인들만 올라온 포디움",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116276273&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 151,
+      "views": 162,
       "rank": 23,
       "channel": "초구딱"
     },
     {
-      "title": "오늘 젠지 티원은",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116271761&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "예쁜여자 똥꼬",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116276270&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 124,
+      "views": 1021018,
       "rank": 24,
       "channel": "초구딱"
     },
     {
-      "title": "여친이랑 헬스장 갔는데 이렇게 옷갈아입고 나오면?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116271755&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "미국서 '살인 2건' 한국인 용의자, 8년 숨어 다니다...라오스서 체포",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116276267&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=kakao.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 447,
+      "views": 177,
       "rank": 25,
       "channel": "초구딱"
     },
     {
-      "title": "페이커 오늘 리산판 빼면 잘한거 아니에요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116271743&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "참교육 불펜호평 많길래 봤다가",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116276264&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 255,
+      "views": 115,
       "rank": 26,
       "channel": "초구딱"
     },
     {
-      "title": "룰러 요즘 폼 별로긴 한데 대안이 없지 않아요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116271737&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "강회장 진구 와이프",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116276252&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 72,
+      "views": 265,
       "rank": 27,
       "channel": "초구딱"
     },
     {
-      "title": "중국요리는 탕수육이 진짜 최고아닌가요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116271731&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "웸반야마는 외모 뿐만이 아니라 인성도 괴물이네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116276243&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 123,
+      "views": 105,
       "rank": 28,
       "channel": "초구딱"
     },
     {
-      "title": "류지혁ㅋㅋㅋㅋ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116271719&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "페라리 차 좋아지니깐 해밀턴 바로 우승하네유",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116276240&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 163,
+      "views": 93,
       "rank": 29,
       "channel": "초구딱"
     },
     {
-      "title": "(강스포) 참교육 5화 우진엄마 연기력.mp4",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116271713&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "삼성전기는 멀티플 30이나 줘도 50만원대가 적정가인데",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606140116276237&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 166,
+      "views": 274,
       "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 43,
+      "article_count": 41,
       "topics": [
         {
-          "title": "\"붕어빵이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 6,
-          "source_article": "'이동건과 이혼' 조윤희, 붕어빵 딸 폭풍성장 근황…꼭 껴안고 다정",
-          "source_url": "https://m.entertain.naver.com/article/117/0004074421",
+          "title": "\"월드컵\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 월드컵",
+          "article_count": 3,
+          "source_article": "\"튀르키예서 축구 보던 이 아기가…아버지 따라 바로 지금 월드컵을 뛰다니\"→이태석 체코전 활약, 유럽서도 조명했다",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "월드컵"
+          ],
+          "template": "인맥",
+          "score": 7.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"멋진 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "angle_type": "결혼·이혼",
+          "article_count": 5,
+          "source_article": "'임신' 이다해, 사뭇 달라진 몸에 우울…\"지지배 말랐었네\" 하소연",
+          "source_url": "https://m.entertain.naver.com/article/109/0005553151",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "붕어빵",
-            "아들",
-            "이동건",
-            "이혼",
-            "조윤희"
+            "멋진",
+            "신세계",
+            "열애설",
+            "임신",
+            "이다해"
+          ],
+          "template": "결혼 화제",
+          "score": 6.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"한숨이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+          "angle_type": "가족·혈연",
+          "article_count": 5,
+          "source_article": "'오밀조밀 미인' 고현정, 父와 붕어빵이네..'배우 얼굴' 만든 부모님 공개",
+          "source_url": "https://m.entertain.naver.com/article/108/0003444221",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "한숨",
+            "오밀조",
+            "미인",
+            "고현정",
+            "붕어빵"
           ],
           "template": "동갑내기",
-          "score": 7.4,
+          "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -384,21 +464,54 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
+          "title": "\"제시카까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "angle_type": "논란·사건",
           "article_count": 4,
+          "source_article": "제시카, 中 공항 헛구역질 논란에 입 열었다…\"어린 팬에 놀란 것\" 갑론을박에 해명",
+          "source_url": "https://m.entertain.naver.com/article/312/0000763631",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "제시카",
+            "공항",
+            "헛구역",
+            "논란에",
+            "놀란"
+          ],
+          "template": "논란 집합",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"강예원, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 2,
           "source_article": "강예원, 1달 전 사망한 父 11억 빚 확인..\"직원 밀린 월급도 갚아야\" 눈물",
           "source_url": "https://m.entertain.naver.com/article/108/0003444177",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "강예원",
+            "밀린",
             "사망한",
             "직원",
-            "밀린",
             "월급도"
           ],
           "template": "자산 서열",
-          "score": 7.0,
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -417,17 +530,42 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"해명까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 4,
-          "source_article": "제시카, 공항 헛구역질 논란 해명…“팬 나이에 놀란 것”",
-          "source_url": "https://m.entertain.naver.com/article/241/0003514689",
+          "title": "\"헛구역, 대체 무슨 일이?\" 헛구역 관련 이슈 총정리",
+          "angle_type": "👤 헛구역",
+          "article_count": 3,
+          "source_article": "제시카, 中 공항 헛구역질 논란에 입 열었다…\"어린 팬에 놀란 것\" 갑론을박에 해명",
+          "source_url": "https://m.entertain.naver.com/article/312/0000763631",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "해명",
-            "제시카",
-            "공항",
-            "헛구역",
+            "헛구역"
+          ],
+          "template": "논란 집합",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"놀란, 대체 무슨 일이?\" 놀란 관련 이슈 총정리",
+          "angle_type": "👤 놀란",
+          "article_count": 3,
+          "source_article": "제시카, 中 공항 헛구역질 논란에 입 열었다…\"어린 팬에 놀란 것\" 갑론을박에 해명",
+          "source_url": "https://m.entertain.naver.com/article/312/0000763631",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
             "놀란"
           ],
           "template": "논란 집합",
@@ -452,19 +590,19 @@
         {
           "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
           "angle_type": "투병·건강",
-          "article_count": 3,
-          "source_article": "강예원, 1달 전 사망한 父 11억 빚 확인..\"직원 밀린 월급도 갚아야\" 눈물",
-          "source_url": "https://m.entertain.naver.com/article/108/0003444177",
+          "article_count": 4,
+          "source_article": "이미영, 뒤집어진 입술..필러 부작용 고백 \"공업용 물질 넣어 제거 수술만 두 번\"",
+          "source_url": "https://m.entertain.naver.com/article/076/0004415260",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "강예원",
-            "사망한",
-            "직원",
-            "밀린",
-            "월급도"
+            "고백",
+            "성형",
+            "몰래",
+            "이미영"
           ],
           "template": "투병 극복",
-          "score": 6.5,
+          "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -481,125 +619,13 @@
             ]
           },
           "channel": "정보주는하마"
-        },
-        {
-          "title": "\"이민우 자산이 얼마?\" 이민우급 자산가 스타 TOP10",
-          "angle_type": "👤 이민우",
-          "article_count": 3,
-          "source_article": "\"뜬금없이 둘째 낳아서\"..이민우 母, 손주 독박육아에 분노 ('살림남')",
-          "source_url": "https://m.entertain.naver.com/article/076/0004415153",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "이민우"
-          ],
-          "template": "자산 서열",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"놀란, 대체 무슨 일이?\" 놀란 관련 이슈 총정리",
-          "angle_type": "👤 놀란",
-          "article_count": 3,
-          "source_article": "제시카, 공항 헛구역질 논란 해명…“팬 나이에 놀란 것”",
-          "source_url": "https://m.entertain.naver.com/article/241/0003514689",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "놀란"
-          ],
-          "template": "논란 집합",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"제시카, 대체 무슨 일이?\" 제시카 관련 이슈 총정리",
-          "angle_type": "👤 제시카",
-          "article_count": 3,
-          "source_article": "'공항서 헛구역질' 제시카, \"냄새 얼마나 심했으면 VS 팬들 앞 부적절\" 시끌",
-          "source_url": "https://m.entertain.naver.com/article/076/0004415158",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "제시카"
-          ],
-          "template": "논란 집합",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"헛구역, 대체 무슨 일이?\" 헛구역 관련 이슈 총정리",
-          "angle_type": "👤 헛구역",
-          "article_count": 3,
-          "source_article": "'공항서 헛구역질' 제시카, \"냄새 얼마나 심했으면 VS 팬들 앞 부적절\" 시끌",
-          "source_url": "https://m.entertain.naver.com/article/076/0004415158",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "헛구역"
-          ],
-          "template": "논란 집합",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
         }
       ],
       "keyword_freq": [
+        [
+          "강예원",
+          4
+        ],
         [
           "헛구역질",
           3
@@ -609,23 +635,11 @@
           3
         ],
         [
-          "이민우",
-          3
-        ],
-        [
-          "해명",
-          3
-        ],
-        [
           "놀란",
           3
         ],
         [
-          "강예원",
-          2
-        ],
-        [
-          "위고비",
+          "고백",
           2
         ],
         [
@@ -633,19 +647,7 @@
           2
         ],
         [
-          "얼마나",
-          2
-        ],
-        [
-          "살림남",
-          2
-        ],
-        [
-          "드디어",
-          2
-        ],
-        [
-          "캠프",
+          "논란에",
           2
         ],
         [
@@ -653,11 +655,35 @@
           2
         ],
         [
+          "해명",
+          2
+        ],
+        [
+          "밀린",
+          2
+        ],
+        [
           "자랑",
           2
         ],
         [
-          "아들",
+          "위고비",
+          2
+        ],
+        [
+          "이민우",
+          2
+        ],
+        [
+          "미우새",
+          2
+        ],
+        [
+          "한채아",
+          2
+        ],
+        [
+          "얼마나",
           2
         ],
         [
@@ -665,37 +691,29 @@
           2
         ],
         [
-          "원작",
+          "성형",
           2
         ],
         [
-          "시청률",
+          "멋진",
           2
         ],
         [
-          "드라마",
-          2
-        ],
-        [
-          "아냐",
+          "신세계",
           2
         ]
       ],
       "name_freq": [
         [
-          "제시카",
-          3
+          "강예원",
+          4
         ],
         [
           "헛구역",
           3
         ],
         [
-          "이민우",
-          3
-        ],
-        [
-          "해명",
+          "제시카",
           3
         ],
         [
@@ -703,11 +721,11 @@
           3
         ],
         [
-          "강예원",
-          2
+          "월드컵",
+          3
         ],
         [
-          "위고비",
+          "고백",
           2
         ],
         [
@@ -719,34 +737,38 @@
           2
         ],
         [
-          "얼마나",
-          2
-        ],
-        [
-          "살림남",
-          2
-        ],
-        [
-          "붕어빵",
-          2
-        ],
-        [
-          "캠프",
-          2
-        ],
-        [
-          "드디어",
+          "논란에",
           2
         ],
         [
           "공항",
+          2
+        ],
+        [
+          "해명",
+          2
+        ],
+        [
+          "밀린",
+          2
+        ],
+        [
+          "자랑",
+          2
+        ],
+        [
+          "위고비",
+          2
+        ],
+        [
+          "인데",
           2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
-          4
+          2
         ],
         [
           "논란·사건",
@@ -754,95 +776,37 @@
         ],
         [
           "결혼·이혼",
-          6
+          5
         ],
         [
           "투병·건강",
-          3
+          4
         ],
         [
           "가족·혈연",
-          6
+          5
         ]
       ]
     },
     "초구딱": {
-      "article_count": 37,
+      "article_count": 39,
       "topics": [
         {
-          "title": "\"진짜\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 진짜",
-          "article_count": 5,
-          "source_article": "'와 진짜 사람인가' 이정후 침묵한 사이, MLB 타격 1위 경쟁자 또 쳤다",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "진짜"
-          ],
-          "template": "인맥",
-          "score": 7.4,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "재활용 가능",
-            "matched_title": "이효리가 늙지 않는 진짜 이유 연예계 채식 스타 TOP11  #연예인 #연예계소식 #비건",
-            "matched_views": 38958,
-            "reason": "기간 경과 153일"
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"월드컵\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 월드컵",
-          "article_count": 3,
-          "source_article": "스페인, \"이강인 방출, 얼마나 멍청한 결정이었나\" 분노...韓 에이스 월드컵에서 날뛰자, 또 맹비난 쏟아지는 라리가 구단",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "월드컵"
-          ],
-          "template": "인맥",
-          "score": 6.9,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+          "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 4,
-          "source_article": "'계약 0순위' KIA 대이변…트레이드 실패 위기의 거포, 절호의 기회가 왔다",
+          "article_count": 7,
+          "source_article": "작심 비판! \"누굴 위한 월드컵\"...\"축구, 인질로 잡혔다\" 클롭 감독, 경기 흐름 '뚝' 광고 타임 진행되는 하이드레이션 브레이크에 분개",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "계약",
-            "대이변",
-            "트레이",
-            "실패",
-            "위기의"
+            "감독",
+            "작심",
+            "비판",
+            "누굴",
+            "위한"
           ],
           "template": "스포츠 기록",
-          "score": 6.3,
+          "score": 7.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -859,100 +823,113 @@
             ]
           },
           "channel": "초구딱"
+        },
+        {
+          "title": "\"월드컵\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 월드컵",
+          "article_count": 5,
+          "source_article": "작심 비판! \"누굴 위한 월드컵\"...\"축구, 인질로 잡혔다\" 클롭 감독, 경기 흐름 '뚝' 광고 타임 진행되는 하이드레이션 브레이크에 분개",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "월드컵"
+          ],
+          "template": "인맥",
+          "score": 7.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 2,
+          "source_article": "\"사과하고 싶습니다\" 日 결국 눈물의 기자회견…모리야스 감독 \"주장 엔도 이탈, 선수에게 끔찍한 일을 전한단 생각\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "사과하",
+            "싶습니",
+            "눈물의",
+            "기자회",
+            "모리야"
+          ],
+          "template": "논란 집합",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"참교육\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 참교육",
+          "article_count": 3,
+          "source_article": "[스포] 참교육 4화 저 같은분 많으시죠?",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606150116276333&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "참교육"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
         [
-          "진짜",
-          5
-        ],
-        [
-          "이정후",
-          2
-        ],
-        [
-          "구단",
-          2
-        ],
-        [
-          "안내",
-          2
-        ],
-        [
-          "공지",
-          2
-        ],
-        [
-          "이벤트",
-          2
-        ],
-        [
-          "페이커",
-          2
-        ],
-        [
-          "인스타",
-          2
-        ],
-        [
-          "티원은",
-          2
-        ],
-        [
-          "요즘",
-          2
-        ],
-        [
-          "절호의",
-          1
-        ],
-        [
-          "기회가",
-          1
-        ],
-        [
-          "위기의",
-          1
-        ],
-        [
-          "실패",
-          1
-        ],
-        [
-          "대이변",
-          1
-        ],
-        [
-          "트레이드",
-          1
-        ],
-        [
-          "거포",
-          1
-        ],
-        [
-          "계약",
-          1
-        ],
-        [
-          "안심",
-          1
-        ],
-        [
-          "폭등",
-          1
-        ]
-      ],
-      "name_freq": [
-        [
-          "진짜",
-          5
+          "감독",
+          4
         ],
         [
           "월드컵",
           3
         ],
         [
+          "두산",
+          2
+        ],
+        [
           "이정후",
           2
         ],
@@ -973,105 +950,121 @@
           2
         ],
         [
-          "페이커",
+          "참교육",
           2
         ],
         [
-          "인스타",
+          "잡혔다",
+          1
+        ],
+        [
+          "분개",
+          1
+        ],
+        [
+          "작심",
+          1
+        ],
+        [
+          "비판",
+          1
+        ],
+        [
+          "진행되는",
+          1
+        ],
+        [
+          "하이드레이션",
+          1
+        ],
+        [
+          "누굴",
+          1
+        ],
+        [
+          "클롭",
+          1
+        ],
+        [
+          "브레이크에",
+          1
+        ],
+        [
+          "흐름",
+          1
+        ],
+        [
+          "경기",
+          1
+        ]
+      ],
+      "name_freq": [
+        [
+          "월드컵",
+          5
+        ],
+        [
+          "감독",
+          4
+        ],
+        [
+          "참교육",
+          3
+        ],
+        [
+          "두산",
           2
         ],
         [
-          "티원은",
+          "이정후",
           2
         ],
         [
-          "요즘",
+          "구단",
+          2
+        ],
+        [
+          "안내",
+          2
+        ],
+        [
+          "공지",
+          2
+        ],
+        [
+          "이벤트",
           2
         ]
       ],
       "angle_scores": [
         [
+          "논란·사건",
+          2
+        ],
+        [
           "스포츠",
-          4
+          7
         ]
       ]
     }
   },
   "topics": [
     {
-      "title": "\"진짜\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 진짜",
-      "article_count": 5,
-      "source_article": "'와 진짜 사람인가' 이정후 침묵한 사이, MLB 타격 1위 경쟁자 또 쳤다",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "진짜"
-      ],
-      "template": "인맥",
-      "score": 7.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "재활용 가능",
-        "matched_title": "이효리가 늙지 않는 진짜 이유 연예계 채식 스타 TOP11  #연예인 #연예계소식 #비건",
-        "matched_views": 38958,
-        "reason": "기간 경과 153일"
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"월드컵\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 월드컵",
-      "article_count": 3,
-      "source_article": "스페인, \"이강인 방출, 얼마나 멍청한 결정이었나\" 분노...韓 에이스 월드컵에서 날뛰자, 또 맹비난 쏟아지는 라리가 구단",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "월드컵"
-      ],
-      "template": "인맥",
-      "score": 6.9,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 4,
-      "source_article": "'계약 0순위' KIA 대이변…트레이드 실패 위기의 거포, 절호의 기회가 왔다",
+      "article_count": 7,
+      "source_article": "작심 비판! \"누굴 위한 월드컵\"...\"축구, 인질로 잡혔다\" 클롭 감독, 경기 흐름 '뚝' 광고 타임 진행되는 하이드레이션 브레이크에 분개",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "계약",
-        "대이변",
-        "트레이",
-        "실패",
-        "위기의"
+        "감독",
+        "작심",
+        "비판",
+        "누굴",
+        "위한"
       ],
       "template": "스포츠 기록",
-      "score": 6.3,
+      "score": 7.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1088,25 +1081,178 @@
         ]
       },
       "channel": "초구딱"
+    },
+    {
+      "title": "\"월드컵\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 월드컵",
+      "article_count": 5,
+      "source_article": "작심 비판! \"누굴 위한 월드컵\"...\"축구, 인질로 잡혔다\" 클롭 감독, 경기 흐름 '뚝' 광고 타임 진행되는 하이드레이션 브레이크에 분개",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "월드컵"
+      ],
+      "template": "인맥",
+      "score": 7.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 2,
+      "source_article": "\"사과하고 싶습니다\" 日 결국 눈물의 기자회견…모리야스 감독 \"주장 엔도 이탈, 선수에게 끔찍한 일을 전한단 생각\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "사과하",
+        "싶습니",
+        "눈물의",
+        "기자회",
+        "모리야"
+      ],
+      "template": "논란 집합",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"참교육\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 참교육",
+      "article_count": 3,
+      "source_article": "[스포] 참교육 4화 저 같은분 많으시죠?",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606150116276333&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "참교육"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
     }
   ],
   "all_topics": [
     {
-      "title": "\"붕어빵이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 6,
-      "source_article": "'이동건과 이혼' 조윤희, 붕어빵 딸 폭풍성장 근황…꼭 껴안고 다정",
-      "source_url": "https://m.entertain.naver.com/article/117/0004074421",
+      "title": "\"월드컵\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 월드컵",
+      "article_count": 3,
+      "source_article": "\"튀르키예서 축구 보던 이 아기가…아버지 따라 바로 지금 월드컵을 뛰다니\"→이태석 체코전 활약, 유럽서도 조명했다",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "월드컵"
+      ],
+      "template": "인맥",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"멋진 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 5,
+      "source_article": "'임신' 이다해, 사뭇 달라진 몸에 우울…\"지지배 말랐었네\" 하소연",
+      "source_url": "https://m.entertain.naver.com/article/109/0005553151",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "붕어빵",
-        "아들",
-        "이동건",
-        "이혼",
-        "조윤희"
+        "멋진",
+        "신세계",
+        "열애설",
+        "임신",
+        "이다해"
+      ],
+      "template": "결혼 화제",
+      "score": 6.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"한숨이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 5,
+      "source_article": "'오밀조밀 미인' 고현정, 父와 붕어빵이네..'배우 얼굴' 만든 부모님 공개",
+      "source_url": "https://m.entertain.naver.com/article/108/0003444221",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "한숨",
+        "오밀조",
+        "미인",
+        "고현정",
+        "붕어빵"
       ],
       "template": "동갑내기",
-      "score": 7.4,
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1125,21 +1271,54 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
+      "title": "\"제시카까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
       "article_count": 4,
+      "source_article": "제시카, 中 공항 헛구역질 논란에 입 열었다…\"어린 팬에 놀란 것\" 갑론을박에 해명",
+      "source_url": "https://m.entertain.naver.com/article/312/0000763631",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "제시카",
+        "공항",
+        "헛구역",
+        "논란에",
+        "놀란"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"강예원, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 2,
       "source_article": "강예원, 1달 전 사망한 父 11억 빚 확인..\"직원 밀린 월급도 갚아야\" 눈물",
       "source_url": "https://m.entertain.naver.com/article/108/0003444177",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "강예원",
+        "밀린",
         "사망한",
         "직원",
-        "밀린",
         "월급도"
       ],
       "template": "자산 서열",
-      "score": 7.0,
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1158,17 +1337,42 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"해명까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 4,
-      "source_article": "제시카, 공항 헛구역질 논란 해명…“팬 나이에 놀란 것”",
-      "source_url": "https://m.entertain.naver.com/article/241/0003514689",
+      "title": "\"헛구역, 대체 무슨 일이?\" 헛구역 관련 이슈 총정리",
+      "angle_type": "👤 헛구역",
+      "article_count": 3,
+      "source_article": "제시카, 中 공항 헛구역질 논란에 입 열었다…\"어린 팬에 놀란 것\" 갑론을박에 해명",
+      "source_url": "https://m.entertain.naver.com/article/312/0000763631",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "해명",
-        "제시카",
-        "공항",
-        "헛구역",
+        "헛구역"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"놀란, 대체 무슨 일이?\" 놀란 관련 이슈 총정리",
+      "angle_type": "👤 놀란",
+      "article_count": 3,
+      "source_article": "제시카, 中 공항 헛구역질 논란에 입 열었다…\"어린 팬에 놀란 것\" 갑론을박에 해명",
+      "source_url": "https://m.entertain.naver.com/article/312/0000763631",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
         "놀란"
       ],
       "template": "논란 집합",
@@ -1193,19 +1397,19 @@
     {
       "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
       "angle_type": "투병·건강",
-      "article_count": 3,
-      "source_article": "강예원, 1달 전 사망한 父 11억 빚 확인..\"직원 밀린 월급도 갚아야\" 눈물",
-      "source_url": "https://m.entertain.naver.com/article/108/0003444177",
+      "article_count": 4,
+      "source_article": "이미영, 뒤집어진 입술..필러 부작용 고백 \"공업용 물질 넣어 제거 수술만 두 번\"",
+      "source_url": "https://m.entertain.naver.com/article/076/0004415260",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "강예원",
-        "사망한",
-        "직원",
-        "밀린",
-        "월급도"
+        "고백",
+        "성형",
+        "몰래",
+        "이미영"
       ],
       "template": "투병 극복",
-      "score": 6.5,
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1224,195 +1428,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이민우 자산이 얼마?\" 이민우급 자산가 스타 TOP10",
-      "angle_type": "👤 이민우",
-      "article_count": 3,
-      "source_article": "\"뜬금없이 둘째 낳아서\"..이민우 母, 손주 독박육아에 분노 ('살림남')",
-      "source_url": "https://m.entertain.naver.com/article/076/0004415153",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "이민우"
-      ],
-      "template": "자산 서열",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"놀란, 대체 무슨 일이?\" 놀란 관련 이슈 총정리",
-      "angle_type": "👤 놀란",
-      "article_count": 3,
-      "source_article": "제시카, 공항 헛구역질 논란 해명…“팬 나이에 놀란 것”",
-      "source_url": "https://m.entertain.naver.com/article/241/0003514689",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "놀란"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"제시카, 대체 무슨 일이?\" 제시카 관련 이슈 총정리",
-      "angle_type": "👤 제시카",
-      "article_count": 3,
-      "source_article": "'공항서 헛구역질' 제시카, \"냄새 얼마나 심했으면 VS 팬들 앞 부적절\" 시끌",
-      "source_url": "https://m.entertain.naver.com/article/076/0004415158",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "제시카"
-      ],
-      "template": "논란 집합",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"헛구역, 대체 무슨 일이?\" 헛구역 관련 이슈 총정리",
-      "angle_type": "👤 헛구역",
-      "article_count": 3,
-      "source_article": "'공항서 헛구역질' 제시카, \"냄새 얼마나 심했으면 VS 팬들 앞 부적절\" 시끌",
-      "source_url": "https://m.entertain.naver.com/article/076/0004415158",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "헛구역"
-      ],
-      "template": "논란 집합",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"진짜\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 진짜",
-      "article_count": 5,
-      "source_article": "'와 진짜 사람인가' 이정후 침묵한 사이, MLB 타격 1위 경쟁자 또 쳤다",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "진짜"
-      ],
-      "template": "인맥",
-      "score": 7.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "재활용 가능",
-        "matched_title": "이효리가 늙지 않는 진짜 이유 연예계 채식 스타 TOP11  #연예인 #연예계소식 #비건",
-        "matched_views": 38958,
-        "reason": "기간 경과 153일"
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"월드컵\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 월드컵",
-      "article_count": 3,
-      "source_article": "스페인, \"이강인 방출, 얼마나 멍청한 결정이었나\" 분노...韓 에이스 월드컵에서 날뛰자, 또 맹비난 쏟아지는 라리가 구단",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "월드컵"
-      ],
-      "template": "인맥",
-      "score": 6.9,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 4,
-      "source_article": "'계약 0순위' KIA 대이변…트레이드 실패 위기의 거포, 절호의 기회가 왔다",
+      "article_count": 7,
+      "source_article": "작심 비판! \"누굴 위한 월드컵\"...\"축구, 인질로 잡혔다\" 클롭 감독, 경기 흐름 '뚝' 광고 타임 진행되는 하이드레이션 브레이크에 분개",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "계약",
-        "대이변",
-        "트레이",
-        "실패",
-        "위기의"
+        "감독",
+        "작심",
+        "비판",
+        "누굴",
+        "위한"
       ],
       "template": "스포츠 기록",
-      "score": 6.3,
+      "score": 7.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1429,9 +1459,104 @@
         ]
       },
       "channel": "초구딱"
+    },
+    {
+      "title": "\"월드컵\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 월드컵",
+      "article_count": 5,
+      "source_article": "작심 비판! \"누굴 위한 월드컵\"...\"축구, 인질로 잡혔다\" 클롭 감독, 경기 흐름 '뚝' 광고 타임 진행되는 하이드레이션 브레이크에 분개",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "월드컵"
+      ],
+      "template": "인맥",
+      "score": 7.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 2,
+      "source_article": "\"사과하고 싶습니다\" 日 결국 눈물의 기자회견…모리야스 감독 \"주장 엔도 이탈, 선수에게 끔찍한 일을 전한단 생각\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "사과하",
+        "싶습니",
+        "눈물의",
+        "기자회",
+        "모리야"
+      ],
+      "template": "논란 집합",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"참교육\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 참교육",
+      "article_count": 3,
+      "source_article": "[스포] 참교육 4화 저 같은분 많으시죠?",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606150116276333&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "참교육"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
+    [
+      "강예원",
+      4
+    ],
     [
       "헛구역질",
       3
@@ -1441,23 +1566,11 @@
       3
     ],
     [
-      "이민우",
-      3
-    ],
-    [
-      "해명",
-      3
-    ],
-    [
       "놀란",
       3
     ],
     [
-      "강예원",
-      2
-    ],
-    [
-      "위고비",
+      "고백",
       2
     ],
     [
@@ -1465,19 +1578,7 @@
       2
     ],
     [
-      "얼마나",
-      2
-    ],
-    [
-      "살림남",
-      2
-    ],
-    [
-      "드디어",
-      2
-    ],
-    [
-      "캠프",
+      "논란에",
       2
     ],
     [
@@ -1485,11 +1586,35 @@
       2
     ],
     [
+      "해명",
+      2
+    ],
+    [
+      "밀린",
+      2
+    ],
+    [
       "자랑",
       2
     ],
     [
-      "아들",
+      "위고비",
+      2
+    ],
+    [
+      "이민우",
+      2
+    ],
+    [
+      "미우새",
+      2
+    ],
+    [
+      "한채아",
+      2
+    ],
+    [
+      "얼마나",
       2
     ],
     [
@@ -1497,37 +1622,29 @@
       2
     ],
     [
-      "원작",
+      "성형",
       2
     ],
     [
-      "시청률",
+      "멋진",
       2
     ],
     [
-      "드라마",
-      2
-    ],
-    [
-      "아냐",
+      "신세계",
       2
     ]
   ],
   "name_freq": [
     [
-      "제시카",
-      3
+      "강예원",
+      4
     ],
     [
       "헛구역",
       3
     ],
     [
-      "이민우",
-      3
-    ],
-    [
-      "해명",
+      "제시카",
       3
     ],
     [
@@ -1535,11 +1652,11 @@
       3
     ],
     [
-      "강예원",
-      2
+      "월드컵",
+      3
     ],
     [
-      "위고비",
+      "고백",
       2
     ],
     [
@@ -1551,31 +1668,35 @@
       2
     ],
     [
-      "얼마나",
-      2
-    ],
-    [
-      "살림남",
-      2
-    ],
-    [
-      "붕어빵",
-      2
-    ],
-    [
-      "캠프",
-      2
-    ],
-    [
-      "드디어",
+      "논란에",
       2
     ],
     [
       "공항",
       2
+    ],
+    [
+      "해명",
+      2
+    ],
+    [
+      "밀린",
+      2
+    ],
+    [
+      "자랑",
+      2
+    ],
+    [
+      "위고비",
+      2
+    ],
+    [
+      "인데",
+      2
     ]
   ],
-  "total_topics_generated": 11,
-  "valid_topics": 11,
+  "total_topics_generated": 12,
+  "valid_topics": 12,
   "excluded_duplicates": 0
 }
