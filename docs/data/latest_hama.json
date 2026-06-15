@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-06-15 17:48:26",
+  "scan_time": "2026-06-15 20:24:08",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -718,19 +718,19 @@
           2
         ],
         [
-          "민원으로",
-          2
-        ],
-        [
           "심사",
           2
         ],
         [
-          "출국",
+          "민원으로",
           2
         ],
         [
           "번졌다",
+          2
+        ],
+        [
+          "출국",
           2
         ],
         [
@@ -784,11 +784,11 @@
           3
         ],
         [
-          "손흥민",
+          "대체",
           3
         ],
         [
-          "대체",
+          "손흥민",
           3
         ],
         [
@@ -804,19 +804,19 @@
           2
         ],
         [
-          "심사",
-          2
-        ],
-        [
-          "출국",
-          2
-        ],
-        [
           "민원으",
           2
         ],
         [
+          "심사",
+          2
+        ],
+        [
           "번졌다",
+          2
+        ],
+        [
+          "출국",
           2
         ],
         [
@@ -855,18 +855,18 @@
       "article_count": 34,
       "topics": [
         {
-          "title": "\"홈런, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "title": "\"이집트, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 7,
+          "article_count": 8,
           "source_article": "김혜성 덕분에 이게 무슨 횡재야, 다저스 트레이드 '초대박' 조짐…52G 연속 '출루 괴물' 떴다",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
+            "이집트",
             "홈런",
             "대한민",
             "시간",
-            "맞히고",
-            "애슐리"
+            "맞히고"
           ],
           "template": "스포츠 기록",
           "score": 6.8,
@@ -888,14 +888,14 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"스페인\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 스페인",
+          "title": "\"월드컵\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 월드컵",
           "article_count": 4,
-          "source_article": "스페인은 죽어도 롱볼축구 안하네요",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606160116296601&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_article": "⚽[공지] 월드컵 기간 내 전용 게시판 운영 예정 안내⚽",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002102",
           "source_name": "MLB파크 불펜",
           "related_names": [
-            "스페인"
+            "월드컵"
           ],
           "template": "인맥",
           "score": 6.5,
@@ -973,96 +973,13 @@
             ]
           },
           "channel": "초구딱"
-        },
-        {
-          "title": "\"승부예\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 승부예",
-          "article_count": 3,
-          "source_article": "🏀[당첨자 발표] 2026 NBA 플레이오프 승부예측 이벤트 🏀",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=point&id=202605200115352199",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "승부예"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"보지냐\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 보지냐",
-          "article_count": 3,
-          "source_article": "보지냐의 기적ㄷㄷㄷㄷ",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606160116296598&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "보지냐"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"카보베\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 카보베",
-          "article_count": 3,
-          "source_article": "카보베르데도 잘하네요",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606160116296595&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "카보베"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
+        [
+          "이집트",
+          4
+        ],
         [
           "당첨자",
           3
@@ -1072,16 +989,8 @@
           3
         ],
         [
-          "폭등",
-          2
-        ],
-        [
-          "맞히고",
-          2
-        ],
-        [
-          "시간",
-          2
+          "월드컵",
+          3
         ],
         [
           "애슐리",
@@ -1092,7 +1001,15 @@
           2
         ],
         [
+          "시간",
+          2
+        ],
+        [
           "대한민국",
+          2
+        ],
+        [
+          "맞히고",
           2
         ],
         [
@@ -1108,23 +1025,15 @@
           2
         ],
         [
-          "스페인은",
+          "기간",
           2
         ],
         [
-          "카보베르데",
+          "선제골",
           2
         ],
         [
-          "스페인",
-          2
-        ],
-        [
-          "사람인가",
-          1
-        ],
-        [
-          "쳤다",
+          "타격",
           1
         ],
         [
@@ -1132,21 +1041,29 @@
           1
         ],
         [
-          "타격",
+          "경쟁자",
+          1
+        ],
+        [
+          "사람인가",
+          1
+        ],
+        [
+          "진짜",
           1
         ],
         [
           "침묵한",
           1
-        ],
-        [
-          "경쟁자",
-          1
         ]
       ],
       "name_freq": [
         [
-          "스페인",
+          "월드컵",
+          4
+        ],
+        [
+          "이집트",
           4
         ],
         [
@@ -1156,30 +1073,6 @@
         [
           "이벤트",
           3
-        ],
-        [
-          "승부예",
-          3
-        ],
-        [
-          "보지냐",
-          3
-        ],
-        [
-          "카보베",
-          3
-        ],
-        [
-          "폭등",
-          2
-        ],
-        [
-          "맞히고",
-          2
-        ],
-        [
-          "시간",
-          2
         ],
         [
           "애슐리",
@@ -1194,6 +1087,18 @@
           2
         ],
         [
+          "시간",
+          2
+        ],
+        [
+          "맞히고",
+          2
+        ],
+        [
+          "승부예",
+          2
+        ],
+        [
           "공지",
           2
         ],
@@ -1202,14 +1107,22 @@
           2
         ],
         [
-          "월드컵",
+          "기간",
+          2
+        ],
+        [
+          "스페인",
+          2
+        ],
+        [
+          "보지냐",
           2
         ]
       ],
       "angle_scores": [
         [
           "스포츠",
-          7
+          8
         ]
       ]
     }
@@ -1722,18 +1635,18 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"홈런, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"이집트, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 7,
+      "article_count": 8,
       "source_article": "김혜성 덕분에 이게 무슨 횡재야, 다저스 트레이드 '초대박' 조짐…52G 연속 '출루 괴물' 떴다",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
+        "이집트",
         "홈런",
         "대한민",
         "시간",
-        "맞히고",
-        "애슐리"
+        "맞히고"
       ],
       "template": "스포츠 기록",
       "score": 6.8,
@@ -1755,14 +1668,14 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"스페인\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 스페인",
+      "title": "\"월드컵\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 월드컵",
       "article_count": 4,
-      "source_article": "스페인은 죽어도 롱볼축구 안하네요",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606160116296601&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_article": "⚽[공지] 월드컵 기간 내 전용 게시판 운영 예정 안내⚽",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002102",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "스페인"
+        "월드컵"
       ],
       "template": "인맥",
       "score": 6.5,
@@ -1840,93 +1753,6 @@
         ]
       },
       "channel": "초구딱"
-    },
-    {
-      "title": "\"승부예\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 승부예",
-      "article_count": 3,
-      "source_article": "🏀[당첨자 발표] 2026 NBA 플레이오프 승부예측 이벤트 🏀",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=point&id=202605200115352199",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "승부예"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"보지냐\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 보지냐",
-      "article_count": 3,
-      "source_article": "보지냐의 기적ㄷㄷㄷㄷ",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606160116296598&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "보지냐"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"카보베\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 카보베",
-      "article_count": 3,
-      "source_article": "카보베르데도 잘하네요",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606160116296595&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "카보베"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
@@ -1963,19 +1789,19 @@
       2
     ],
     [
-      "민원으로",
-      2
-    ],
-    [
       "심사",
       2
     ],
     [
-      "출국",
+      "민원으로",
       2
     ],
     [
       "번졌다",
+      2
+    ],
+    [
+      "출국",
       2
     ],
     [
@@ -2029,11 +1855,11 @@
       3
     ],
     [
-      "손흥민",
+      "대체",
       3
     ],
     [
-      "대체",
+      "손흥민",
       3
     ],
     [
@@ -2049,19 +1875,19 @@
       2
     ],
     [
-      "심사",
-      2
-    ],
-    [
-      "출국",
-      2
-    ],
-    [
       "민원으",
       2
     ],
     [
+      "심사",
+      2
+    ],
+    [
       "번졌다",
+      2
+    ],
+    [
+      "출국",
       2
     ],
     [
@@ -2073,7 +1899,7 @@
       2
     ]
   ],
-  "total_topics_generated": 15,
-  "valid_topics": 15,
+  "total_topics_generated": 12,
+  "valid_topics": 12,
   "excluded_duplicates": 0
 }
