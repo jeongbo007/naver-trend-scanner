@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-06-16 17:52:10",
+  "scan_time": "2026-06-16 20:11:48",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -10,7 +10,7 @@
     "DC 국내야구 갤러리": 0,
     "MLB파크 불펜": 30
   },
-  "total_articles": 79,
+  "total_articles": 80,
   "articles": [
     {
       "title": "14년 사랑도 헤어지면 끝…정경호·최수영, 뒤늦게 드러난 결별 시그널",
@@ -748,14 +748,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"출전\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 출전",
+          "title": "\"초비상\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 초비상",
           "article_count": 3,
           "source_article": "대한민국 초비상→초대형 낭보, 홍명보호 '고난 끝 햇볕' 완전체 훈련 중…배준호·김태현 팀 훈련 합류 \"김태현 2차전 출전 가능성 높아\" 위기 이겨내자 행운 따라와",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "출전"
+            "초비상"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -777,14 +777,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"초비상\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 초비상",
+          "title": "\"출전\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 출전",
           "article_count": 3,
           "source_article": "대한민국 초비상→초대형 낭보, 홍명보호 '고난 끝 햇볕' 완전체 훈련 중…배준호·김태현 팀 훈련 합류 \"김태현 2차전 출전 가능성 높아\" 위기 이겨내자 행운 따라와",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "초비상"
+            "출전"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -820,11 +820,11 @@
           3
         ],
         [
-          "출전",
+          "초비상",
           3
         ],
         [
-          "초비상",
+          "출전",
           3
         ],
         [
@@ -860,7 +860,7 @@
           2
         ],
         [
-          "따로",
+          "신민아",
           2
         ],
         [
@@ -868,7 +868,7 @@
           2
         ],
         [
-          "신민아",
+          "따로",
           2
         ],
         [
@@ -884,7 +884,7 @@
           2
         ],
         [
-          "뱃살",
+          "혜리",
           2
         ]
       ],
@@ -910,11 +910,11 @@
           3
         ],
         [
-          "출전",
+          "초비상",
           3
         ],
         [
-          "초비상",
+          "출전",
           3
         ],
         [
@@ -946,7 +946,7 @@
           2
         ],
         [
-          "같아",
+          "김태현",
           2
         ]
       ],
@@ -978,12 +978,12 @@
       ]
     },
     "초구딱": {
-      "article_count": 36,
+      "article_count": 37,
       "topics": [
         {
           "title": "\"타격왕, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 7,
+          "article_count": 8,
           "source_article": "'대회 수준 저하' 주장에 발끈한 카보 베르데 감독, \"우리 국기가 축구강국 사이에 있다는 게 기쁨\"",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -1014,14 +1014,14 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"월드컵\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 월드컵",
-          "article_count": 3,
-          "source_article": "⚽[공지] 월드컵 기간 내 전용 게시판 운영 예정 안내⚽",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002102",
+          "title": "\"프랑스\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 프랑스",
+          "article_count": 7,
+          "source_article": "프랑스 vs 세네갈 어디가 이길거같나요?",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606170116323769&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
           "source_name": "MLB파크 불펜",
           "related_names": [
-            "월드컵"
+            "프랑스"
           ],
           "template": "인맥",
           "score": 6.5,
@@ -1072,17 +1072,46 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"트레이\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 트레이",
+          "title": "\"진짜\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 진짜",
           "article_count": 3,
-          "source_article": "타격왕→타격왕→타격왕 해도 이정후 이기기 어렵다…과연 누가 먼저 트레이드로 팀을 떠날까",
+          "source_article": "“이정후, 시즌아웃 감수하고 싶지 않아서 멈췄더라도 용서했다” SF 에이스와 팬들이 열광하는 진짜 이유",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "트레이"
+            "진짜"
           ],
           "template": "인맥",
           "score": 6.4,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "재활용 가능",
+            "matched_title": "이효리가 늙지 않는 진짜 이유 연예계 채식 스타 TOP11  #연예인 #연예계소식 #비건",
+            "matched_views": 38958,
+            "reason": "기간 경과 155일"
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"세네갈\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 세네갈",
+          "article_count": 3,
+          "source_article": "프랑스 vs 세네갈 어디가 이길거같나요?",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606170116323769&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "세네갈"
+          ],
+          "template": "인맥",
+          "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -1103,11 +1132,23 @@
       ],
       "keyword_freq": [
         [
+          "프랑스",
+          6
+        ],
+        [
           "이정후",
           4
         ],
         [
           "진짜",
+          3
+        ],
+        [
+          "세네갈",
+          3
+        ],
+        [
+          "타격왕",
           2
         ],
         [
@@ -1115,7 +1156,19 @@
           2
         ],
         [
-          "타격왕",
+          "연속",
+          2
+        ],
+        [
+          "시간",
+          2
+        ],
+        [
+          "애슐리",
+          2
+        ],
+        [
+          "당첨자",
           2
         ],
         [
@@ -1123,27 +1176,19 @@
           2
         ],
         [
-          "가자",
-          2
-        ],
-        [
           "맞히고",
           2
         ],
         [
-          "당첨자",
-          2
-        ],
-        [
-          "애슐리",
-          2
-        ],
-        [
-          "시간",
+          "가자",
           2
         ],
         [
           "이벤트",
+          2
+        ],
+        [
+          "공지",
           2
         ],
         [
@@ -1151,61 +1196,41 @@
           2
         ],
         [
-          "공지",
+          "전반",
           2
         ],
         [
-          "월드컵",
-          2
-        ],
-        [
-          "와이스",
-          2
-        ],
-        [
-          "보면",
-          2
-        ],
-        [
-          "주장에",
+          "기쁨",
           1
         ],
         [
-          "있다는",
+          "저하",
           1
         ],
         [
-          "사이에",
-          1
-        ],
-        [
-          "우리",
+          "대회",
           1
         ]
       ],
       "name_freq": [
         [
+          "프랑스",
+          7
+        ],
+        [
           "이정후",
           4
         ],
         [
-          "트레이",
-          3
-        ],
-        [
-          "월드컵",
-          3
-        ],
-        [
           "진짜",
-          2
+          3
+        ],
+        [
+          "세네갈",
+          3
         ],
         [
           "김혜성",
-          2
-        ],
-        [
-          "누가",
           2
         ],
         [
@@ -1213,7 +1238,15 @@
           2
         ],
         [
-          "가자",
+          "누가",
+          2
+        ],
+        [
+          "트레이",
+          2
+        ],
+        [
+          "연속",
           2
         ],
         [
@@ -1221,11 +1254,7 @@
           2
         ],
         [
-          "맞히고",
-          2
-        ],
-        [
-          "당첨자",
+          "시간",
           2
         ],
         [
@@ -1233,22 +1262,22 @@
           2
         ],
         [
-          "시간",
+          "당첨자",
           2
         ],
         [
-          "이벤트",
+          "맞히고",
           2
         ],
         [
-          "공지",
+          "가자",
           2
         ]
       ],
       "angle_scores": [
         [
           "스포츠",
-          7
+          8
         ]
       ]
     }
@@ -1598,14 +1627,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"출전\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 출전",
+      "title": "\"초비상\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 초비상",
       "article_count": 3,
       "source_article": "대한민국 초비상→초대형 낭보, 홍명보호 '고난 끝 햇볕' 완전체 훈련 중…배준호·김태현 팀 훈련 합류 \"김태현 2차전 출전 가능성 높아\" 위기 이겨내자 행운 따라와",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "출전"
+        "초비상"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1627,14 +1656,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"초비상\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 초비상",
+      "title": "\"출전\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 출전",
       "article_count": 3,
       "source_article": "대한민국 초비상→초대형 낭보, 홍명보호 '고난 끝 햇볕' 완전체 훈련 중…배준호·김태현 팀 훈련 합류 \"김태현 2차전 출전 가능성 높아\" 위기 이겨내자 행운 따라와",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "초비상"
+        "출전"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -2001,35 +2030,6 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"출전\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 출전",
-      "article_count": 3,
-      "source_article": "대한민국 초비상→초대형 낭보, 홍명보호 '고난 끝 햇볕' 완전체 훈련 중…배준호·김태현 팀 훈련 합류 \"김태현 2차전 출전 가능성 높아\" 위기 이겨내자 행운 따라와",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "출전"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"초비상\" 관련 화제 스타 TOP10",
       "angle_type": "👤 초비상",
       "article_count": 3,
@@ -2059,9 +2059,38 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"출전\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 출전",
+      "article_count": 3,
+      "source_article": "대한민국 초비상→초대형 낭보, 홍명보호 '고난 끝 햇볕' 완전체 훈련 중…배준호·김태현 팀 훈련 합류 \"김태현 2차전 출전 가능성 높아\" 위기 이겨내자 행운 따라와",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "출전"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"타격왕, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 7,
+      "article_count": 8,
       "source_article": "'대회 수준 저하' 주장에 발끈한 카보 베르데 감독, \"우리 국기가 축구강국 사이에 있다는 게 기쁨\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -2092,14 +2121,14 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"월드컵\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 월드컵",
-      "article_count": 3,
-      "source_article": "⚽[공지] 월드컵 기간 내 전용 게시판 운영 예정 안내⚽",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002102",
+      "title": "\"프랑스\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 프랑스",
+      "article_count": 7,
+      "source_article": "프랑스 vs 세네갈 어디가 이길거같나요?",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606170116323769&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "월드컵"
+        "프랑스"
       ],
       "template": "인맥",
       "score": 6.5,
@@ -2150,17 +2179,46 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"트레이\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 트레이",
+      "title": "\"진짜\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 진짜",
       "article_count": 3,
-      "source_article": "타격왕→타격왕→타격왕 해도 이정후 이기기 어렵다…과연 누가 먼저 트레이드로 팀을 떠날까",
+      "source_article": "“이정후, 시즌아웃 감수하고 싶지 않아서 멈췄더라도 용서했다” SF 에이스와 팬들이 열광하는 진짜 이유",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "트레이"
+        "진짜"
       ],
       "template": "인맥",
       "score": 6.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "재활용 가능",
+        "matched_title": "이효리가 늙지 않는 진짜 이유 연예계 채식 스타 TOP11  #연예인 #연예계소식 #비건",
+        "matched_views": 38958,
+        "reason": "기간 경과 155일"
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"세네갈\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 세네갈",
+      "article_count": 3,
+      "source_article": "프랑스 vs 세네갈 어디가 이길거같나요?",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606170116323769&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "세네갈"
+      ],
+      "template": "인맥",
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2193,11 +2251,11 @@
       3
     ],
     [
-      "출전",
+      "초비상",
       3
     ],
     [
-      "초비상",
+      "출전",
       3
     ],
     [
@@ -2233,7 +2291,7 @@
       2
     ],
     [
-      "따로",
+      "신민아",
       2
     ],
     [
@@ -2241,7 +2299,7 @@
       2
     ],
     [
-      "신민아",
+      "따로",
       2
     ],
     [
@@ -2257,7 +2315,7 @@
       2
     ],
     [
-      "뱃살",
+      "혜리",
       2
     ]
   ],
@@ -2283,11 +2341,11 @@
       3
     ],
     [
-      "출전",
+      "초비상",
       3
     ],
     [
-      "초비상",
+      "출전",
       3
     ],
     [
@@ -2319,11 +2377,11 @@
       2
     ],
     [
-      "같아",
+      "김태현",
       2
     ]
   ],
-  "total_topics_generated": 17,
-  "valid_topics": 17,
+  "total_topics_generated": 18,
+  "valid_topics": 18,
   "excluded_duplicates": 0
 }
