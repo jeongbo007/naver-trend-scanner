@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-06-18 16:20:38",
+  "scan_time": "2026-06-18 19:26:12",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -817,11 +817,11 @@
           4
         ],
         [
-          "소식",
+          "근황",
           3
         ],
         [
-          "근황",
+          "소식",
           3
         ],
         [
@@ -899,11 +899,11 @@
           4
         ],
         [
-          "소식",
+          "근황",
           3
         ],
         [
-          "근황",
+          "소식",
           3
         ],
         [
@@ -984,7 +984,7 @@
         {
           "title": "\"월드컵, 대체 무슨 일이?\" 월드컵 관련 이슈 총정리",
           "angle_type": "👤 월드컵",
-          "article_count": 4,
+          "article_count": 5,
           "source_article": "월드컵 중 '하극상' 논란...결국 \"내 지시대로 해!\" 호통친 투헬 감독→잉글랜드, 크로아티아 4-2 대승에도 '시끌'",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -992,7 +992,7 @@
             "월드컵"
           ],
           "template": "논란 집합",
-          "score": 7.0,
+          "score": 7.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -1013,7 +1013,7 @@
         {
           "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 4,
+          "article_count": 3,
           "source_article": "'무리뉴 체제 2호 영입 확정''맨시티 레전드' 베르나르두 실바, 레알 마드리드와 FA 2년 계약..'포르투갈 커넥션, 하이재킹 성공'",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -1044,14 +1044,14 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"남아공\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 남아공",
-          "article_count": 7,
-          "source_article": "남아공 골키퍼 발밑 좋네요",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606190116391185&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "title": "\"멕시코\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 멕시코",
+          "article_count": 6,
+          "source_article": "⚽멕시코전 대한민국 첫 골 시간 맞히고 애슐리 가자!⚽",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606150116287976",
           "source_name": "MLB파크 불펜",
           "related_names": [
-            "남아공"
+            "멕시코"
           ],
           "template": "인맥",
           "score": 6.5,
@@ -1102,23 +1102,56 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"진짜\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 진짜",
-          "article_count": 3,
-          "source_article": "'와 159㎞ 강속구 통타' KIA 진짜 얼마 줘야 하나, '0.419' 외국인 타자 몫까지 해주다니",
+          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 2,
+          "source_article": "빈타 허덕이는 KIA, 대형 지원군 오나… 이범호 마음 굳혔나, 15억 타자 주말 돌아오나",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "진짜"
+            "빈타",
+            "허덕이",
+            "대형",
+            "지원군",
+            "오나"
+          ],
+          "template": "자산 서열",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"체코\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 체코",
+          "article_count": 3,
+          "source_article": "체코 남아공보다가 스위스 보스니아 보니..",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606190116392265&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "체코"
           ],
           "template": "인맥",
           "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
-            "status": "재활용 가능",
-            "matched_title": "이효리가 늙지 않는 진짜 이유 연예계 채식 스타 TOP11  #연예인 #연예계소식 #비건",
-            "matched_views": 38958,
-            "reason": "기간 경과 157일"
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
           },
           "table": {
             "headers": [
@@ -1133,23 +1166,31 @@
       ],
       "keyword_freq": [
         [
+          "월드컵",
+          4
+        ],
+        [
           "이정후",
           3
         ],
         [
+          "체코",
+          3
+        ],
+        [
+          "멕시코",
+          3
+        ],
+        [
           "진짜",
-          3
-        ],
-        [
-          "월드컵",
-          3
-        ],
-        [
-          "남아공",
-          3
+          2
         ],
         [
           "타자",
+          2
+        ],
+        [
+          "확정",
           2
         ],
         [
@@ -1161,11 +1202,15 @@
           2
         ],
         [
+          "안내",
+          2
+        ],
+        [
           "공지",
           2
         ],
         [
-          "안내",
+          "멕시코전",
           2
         ],
         [
@@ -1173,65 +1218,61 @@
           2
         ],
         [
-          "남아공이",
+          "아직도",
           2
         ],
         [
-          "지금",
+          "스위스",
           2
         ],
         [
-          "체코",
+          "보스니아",
           2
         ],
         [
-          "품나",
-          1
+          "우리나라",
+          2
         ],
         [
-          "하네",
-          1
+          "무슨",
+          2
         ],
         [
           "트리플",
           1
         ],
         [
-          "다저스",
-          1
-        ],
-        [
-          "해도",
-          1
-        ],
-        [
-          "초비상",
-          1
-        ],
-        [
-          "아라에즈",
+          "동료",
           1
         ]
       ],
       "name_freq": [
         [
-          "남아공",
-          7
+          "멕시코",
+          6
         ],
         [
           "월드컵",
-          4
+          5
         ],
         [
           "이정후",
           3
         ],
         [
-          "진짜",
+          "체코",
           3
         ],
         [
+          "진짜",
+          2
+        ],
+        [
           "타자",
+          2
+        ],
+        [
+          "확정",
           2
         ],
         [
@@ -1243,11 +1284,11 @@
           2
         ],
         [
-          "공지",
+          "안내",
           2
         ],
         [
-          "안내",
+          "공지",
           2
         ],
         [
@@ -1255,18 +1296,26 @@
           2
         ],
         [
-          "지금",
+          "아직도",
           2
         ],
         [
-          "체코",
+          "스위스",
+          2
+        ],
+        [
+          "보스니",
           2
         ]
       ],
       "angle_scores": [
         [
+          "자산·몸값",
+          2
+        ],
+        [
           "스포츠",
-          4
+          3
         ]
       ]
     }
@@ -2079,7 +2128,7 @@
     {
       "title": "\"월드컵, 대체 무슨 일이?\" 월드컵 관련 이슈 총정리",
       "angle_type": "👤 월드컵",
-      "article_count": 4,
+      "article_count": 5,
       "source_article": "월드컵 중 '하극상' 논란...결국 \"내 지시대로 해!\" 호통친 투헬 감독→잉글랜드, 크로아티아 4-2 대승에도 '시끌'",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -2087,7 +2136,7 @@
         "월드컵"
       ],
       "template": "논란 집합",
-      "score": 7.0,
+      "score": 7.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2108,7 +2157,7 @@
     {
       "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 4,
+      "article_count": 3,
       "source_article": "'무리뉴 체제 2호 영입 확정''맨시티 레전드' 베르나르두 실바, 레알 마드리드와 FA 2년 계약..'포르투갈 커넥션, 하이재킹 성공'",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -2139,14 +2188,14 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"남아공\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 남아공",
-      "article_count": 7,
-      "source_article": "남아공 골키퍼 발밑 좋네요",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606190116391185&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "\"멕시코\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 멕시코",
+      "article_count": 6,
+      "source_article": "⚽멕시코전 대한민국 첫 골 시간 맞히고 애슐리 가자!⚽",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606150116287976",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "남아공"
+        "멕시코"
       ],
       "template": "인맥",
       "score": 6.5,
@@ -2197,23 +2246,56 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"진짜\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 진짜",
-      "article_count": 3,
-      "source_article": "'와 159㎞ 강속구 통타' KIA 진짜 얼마 줘야 하나, '0.419' 외국인 타자 몫까지 해주다니",
+      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 2,
+      "source_article": "빈타 허덕이는 KIA, 대형 지원군 오나… 이범호 마음 굳혔나, 15억 타자 주말 돌아오나",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "진짜"
+        "빈타",
+        "허덕이",
+        "대형",
+        "지원군",
+        "오나"
+      ],
+      "template": "자산 서열",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"체코\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 체코",
+      "article_count": 3,
+      "source_article": "체코 남아공보다가 스위스 보스니아 보니..",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606190116392265&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "체코"
       ],
       "template": "인맥",
       "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
-        "status": "재활용 가능",
-        "matched_title": "이효리가 늙지 않는 진짜 이유 연예계 채식 스타 TOP11  #연예인 #연예계소식 #비건",
-        "matched_views": 38958,
-        "reason": "기간 경과 157일"
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
       },
       "table": {
         "headers": [
@@ -2236,11 +2318,11 @@
       4
     ],
     [
-      "소식",
+      "근황",
       3
     ],
     [
-      "근황",
+      "소식",
       3
     ],
     [
@@ -2318,11 +2400,11 @@
       4
     ],
     [
-      "소식",
+      "근황",
       3
     ],
     [
-      "근황",
+      "소식",
       3
     ],
     [
@@ -2370,7 +2452,7 @@
       2
     ]
   ],
-  "total_topics_generated": 18,
-  "valid_topics": 18,
+  "total_topics_generated": 19,
+  "valid_topics": 19,
   "excluded_duplicates": 0
 }
