@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-06-22 17:23:14",
+  "scan_time": "2026-06-22 20:08:01",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -425,35 +425,6 @@
       "article_count": 45,
       "topics": [
         {
-          "title": "\"아틀레 자산이 얼마?\" 아틀레급 자산가 스타 TOP10",
-          "angle_type": "👤 아틀레",
-          "article_count": 3,
-          "source_article": "월드컵 도중 낭보 전해졌다! '이강인, 아틀레티코 유니폼 입고 서울서 뛰나' ATM과 개인 합의 소식, HERE WE GO 확인→8월 방한 확정...맨시티와 격돌",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "아틀레"
-          ],
-          "template": "자산 서열",
-          "score": 7.4,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
           "title": "\"이강인 자산이 얼마?\" 이강인급 자산가 스타 TOP10",
           "angle_type": "👤 이강인",
           "article_count": 3,
@@ -549,6 +520,35 @@
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "티코"
+          ],
+          "template": "자산 서열",
+          "score": 7.4,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"아틀레 자산이 얼마?\" 아틀레급 자산가 스타 TOP10",
+          "angle_type": "👤 아틀레",
+          "article_count": 3,
+          "source_article": "월드컵 도중 낭보 전해졌다! '이강인, 아틀레티코 유니폼 입고 서울서 뛰나' ATM과 개인 합의 소식, HERE WE GO 확인→8월 방한 확정...맨시티와 격돌",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "아틀레"
           ],
           "template": "자산 서열",
           "score": 7.4,
@@ -803,7 +803,7 @@
           3
         ],
         [
-          "아틀레티코",
+          "이강인",
           3
         ],
         [
@@ -811,11 +811,11 @@
           3
         ],
         [
-          "합의",
+          "아틀레티코",
           3
         ],
         [
-          "이강인",
+          "합의",
           3
         ],
         [
@@ -847,11 +847,11 @@
           2
         ],
         [
-          "포착",
+          "깜짝",
           2
         ],
         [
-          "깜짝",
+          "포착",
           2
         ],
         [
@@ -859,11 +859,11 @@
           2
         ],
         [
-          "사랑꾼",
+          "아이",
           2
         ],
         [
-          "아이",
+          "사랑꾼",
           2
         ]
       ],
@@ -877,19 +877,15 @@
           3
         ],
         [
-          "박지성",
-          3
-        ],
-        [
           "공개한",
           3
         ],
         [
-          "대한민",
+          "박지성",
           3
         ],
         [
-          "아틀레",
+          "대한민",
           3
         ],
         [
@@ -909,6 +905,10 @@
           3
         ],
         [
+          "아틀레",
+          3
+        ],
+        [
           "일본",
           3
         ],
@@ -917,11 +917,11 @@
           2
         ],
         [
-          "드라마",
+          "재정비",
           2
         ],
         [
-          "재정비",
+          "드라마",
           2
         ],
         [
@@ -948,18 +948,76 @@
       "article_count": 35,
       "topics": [
         {
-          "title": "\"아르헨, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
+          "title": "\"메시 자산이 얼마?\" 메시급 자산가 스타 TOP10",
+          "angle_type": "👤 메시",
           "article_count": 7,
+          "source_article": "메시 이사람은 늙어도 드리블이 안죽네요...",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517719&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "메시"
+          ],
+          "template": "자산 서열",
+          "score": 7.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"월드컵\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 월드컵",
+          "article_count": 5,
+          "source_article": "'韓 통곡의 벽' 김민재, 월드컵 잘 뛰고 있는데 청천벽력 소식...뮌헨 3옵션→또 방출 명단? \"2002년생 포르투갈 특급 영입 준비\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "월드컵"
+          ],
+          "template": "인맥",
+          "score": 7.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"멕시코, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 9,
           "source_article": "'0-1 석패' 한국, 멕시코에 잘 졌다? 신태용 감독 \"조 2위로 LA 가는 게 현명...황금세대 홍명보호, 16강 이상도 가능해\"",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "아르헨",
             "멕시코",
             "감독",
             "남아공",
-            "석패"
+            "메시의",
+            "메시"
           ],
           "template": "스포츠 기록",
           "score": 6.8,
@@ -981,17 +1039,17 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"메시\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 메시",
-          "article_count": 5,
-          "source_article": "메시 오늘 왜 이러냐 ㅋㅋ",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517047&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "title": "\"메시의\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 메시의",
+          "article_count": 3,
+          "source_article": "메시의 또 해트트릭할뻔 2골 영상",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517707&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
           "source_name": "MLB파크 불펜",
           "related_names": [
-            "메시"
+            "메시의"
           ],
           "template": "인맥",
-          "score": 6.5,
+          "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -1010,17 +1068,17 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"월드컵\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 월드컵",
-          "article_count": 4,
-          "source_article": "'韓 통곡의 벽' 김민재, 월드컵 잘 뛰고 있는데 청천벽력 소식...뮌헨 3옵션→또 방출 명단? \"2002년생 포르투갈 특급 영입 준비\"",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "title": "\"호날두\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 호날두",
+          "article_count": 3,
+          "source_article": "메시 + 호날두 = 음바페 + 홀란드 + 야말    오 신구 대결이네요.",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517644&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
           "related_names": [
-            "월드컵"
+            "호날두"
           ],
           "template": "인맥",
-          "score": 6.5,
+          "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -1042,22 +1100,18 @@
       "keyword_freq": [
         [
           "메시",
-          5
+          7
         ],
         [
           "월드컵",
           3
         ],
         [
-          "아르헨",
+          "메시의",
           3
         ],
         [
           "감독",
-          2
-        ],
-        [
-          "년생",
           2
         ],
         [
@@ -1069,7 +1123,7 @@
           2
         ],
         [
-          "공지",
+          "경기",
           2
         ],
         [
@@ -1077,27 +1131,23 @@
           2
         ],
         [
+          "공지",
+          2
+        ],
+        [
           "승부예측",
           2
         ],
         [
-          "지노빌리",
+          "년전",
           2
         ],
         [
-          "가는",
-          1
-        ],
-        [
-          "현명",
-          1
+          "호날두",
+          2
         ],
         [
           "위로",
-          1
-        ],
-        [
-          "졌다",
           1
         ],
         [
@@ -1105,7 +1155,7 @@
           1
         ],
         [
-          "멕시코에",
+          "졌다",
           1
         ],
         [
@@ -1117,37 +1167,41 @@
           1
         ],
         [
-          "신태용",
+          "가능해",
+          1
+        ],
+        [
+          "현명",
+          1
+        ],
+        [
+          "이상도",
           1
         ]
       ],
       "name_freq": [
         [
           "메시",
-          5
+          7
         ],
         [
           "월드컵",
-          4
+          5
         ],
         [
-          "아르헨",
-          4
+          "메시의",
+          3
         ],
         [
-          "감독",
-          2
+          "호날두",
+          3
         ],
         [
           "멕시코",
           2
         ],
         [
-          "년생",
-          2
-        ],
-        [
-          "남아공",
+          "감독",
           2
         ],
         [
@@ -1155,11 +1209,15 @@
           2
         ],
         [
+          "남아공",
+          2
+        ],
+        [
           "이정후",
           2
         ],
         [
-          "공지",
+          "경기",
           2
         ],
         [
@@ -1167,52 +1225,31 @@
           2
         ],
         [
+          "공지",
+          2
+        ],
+        [
           "승부예",
           2
         ],
         [
-          "지노빌",
+          "마지막",
+          2
+        ],
+        [
+          "년전",
           2
         ]
       ],
       "angle_scores": [
         [
           "스포츠",
-          7
+          9
         ]
       ]
     }
   },
   "topics": [
-    {
-      "title": "\"아틀레 자산이 얼마?\" 아틀레급 자산가 스타 TOP10",
-      "angle_type": "👤 아틀레",
-      "article_count": 3,
-      "source_article": "월드컵 도중 낭보 전해졌다! '이강인, 아틀레티코 유니폼 입고 서울서 뛰나' ATM과 개인 합의 소식, HERE WE GO 확인→8월 방한 확정...맨시티와 격돌",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "아틀레"
-      ],
-      "template": "자산 서열",
-      "score": 7.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
     {
       "title": "\"이강인 자산이 얼마?\" 이강인급 자산가 스타 TOP10",
       "angle_type": "👤 이강인",
@@ -1309,6 +1346,35 @@
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "티코"
+      ],
+      "template": "자산 서열",
+      "score": 7.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"아틀레 자산이 얼마?\" 아틀레급 자산가 스타 TOP10",
+      "angle_type": "👤 아틀레",
+      "article_count": 3,
+      "source_article": "월드컵 도중 낭보 전해졌다! '이강인, 아틀레티코 유니폼 입고 서울서 뛰나' ATM과 개인 합의 소식, HERE WE GO 확인→8월 방한 확정...맨시티와 격돌",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "아틀레"
       ],
       "template": "자산 서열",
       "score": 7.4,
@@ -1547,35 +1613,6 @@
   ],
   "all_topics": [
     {
-      "title": "\"아틀레 자산이 얼마?\" 아틀레급 자산가 스타 TOP10",
-      "angle_type": "👤 아틀레",
-      "article_count": 3,
-      "source_article": "월드컵 도중 낭보 전해졌다! '이강인, 아틀레티코 유니폼 입고 서울서 뛰나' ATM과 개인 합의 소식, HERE WE GO 확인→8월 방한 확정...맨시티와 격돌",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "아틀레"
-      ],
-      "template": "자산 서열",
-      "score": 7.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"이강인 자산이 얼마?\" 이강인급 자산가 스타 TOP10",
       "angle_type": "👤 이강인",
       "article_count": 3,
@@ -1671,6 +1708,35 @@
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "티코"
+      ],
+      "template": "자산 서열",
+      "score": 7.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"아틀레 자산이 얼마?\" 아틀레급 자산가 스타 TOP10",
+      "angle_type": "👤 아틀레",
+      "article_count": 3,
+      "source_article": "월드컵 도중 낭보 전해졌다! '이강인, 아틀레티코 유니폼 입고 서울서 뛰나' ATM과 개인 합의 소식, HERE WE GO 확인→8월 방한 확정...맨시티와 격돌",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "아틀레"
       ],
       "template": "자산 서열",
       "score": 7.4,
@@ -1907,18 +1973,76 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"아르헨, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
+      "title": "\"메시 자산이 얼마?\" 메시급 자산가 스타 TOP10",
+      "angle_type": "👤 메시",
       "article_count": 7,
+      "source_article": "메시 이사람은 늙어도 드리블이 안죽네요...",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517719&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "메시"
+      ],
+      "template": "자산 서열",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"월드컵\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 월드컵",
+      "article_count": 5,
+      "source_article": "'韓 통곡의 벽' 김민재, 월드컵 잘 뛰고 있는데 청천벽력 소식...뮌헨 3옵션→또 방출 명단? \"2002년생 포르투갈 특급 영입 준비\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "월드컵"
+      ],
+      "template": "인맥",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"멕시코, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 9,
       "source_article": "'0-1 석패' 한국, 멕시코에 잘 졌다? 신태용 감독 \"조 2위로 LA 가는 게 현명...황금세대 홍명보호, 16강 이상도 가능해\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "아르헨",
         "멕시코",
         "감독",
         "남아공",
-        "석패"
+        "메시의",
+        "메시"
       ],
       "template": "스포츠 기록",
       "score": 6.8,
@@ -1940,17 +2064,17 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"메시\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 메시",
-      "article_count": 5,
-      "source_article": "메시 오늘 왜 이러냐 ㅋㅋ",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517047&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "\"메시의\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 메시의",
+      "article_count": 3,
+      "source_article": "메시의 또 해트트릭할뻔 2골 영상",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517707&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "메시"
+        "메시의"
       ],
       "template": "인맥",
-      "score": 6.5,
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1969,17 +2093,17 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"월드컵\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 월드컵",
-      "article_count": 4,
-      "source_article": "'韓 통곡의 벽' 김민재, 월드컵 잘 뛰고 있는데 청천벽력 소식...뮌헨 3옵션→또 방출 명단? \"2002년생 포르투갈 특급 영입 준비\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "title": "\"호날두\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 호날두",
+      "article_count": 3,
+      "source_article": "메시 + 호날두 = 음바페 + 홀란드 + 야말    오 신구 대결이네요.",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517644&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
       "related_names": [
-        "월드컵"
+        "호날두"
       ],
       "template": "인맥",
-      "score": 6.5,
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2016,7 +2140,7 @@
       3
     ],
     [
-      "아틀레티코",
+      "이강인",
       3
     ],
     [
@@ -2024,11 +2148,11 @@
       3
     ],
     [
-      "합의",
+      "아틀레티코",
       3
     ],
     [
-      "이강인",
+      "합의",
       3
     ],
     [
@@ -2060,11 +2184,11 @@
       2
     ],
     [
-      "포착",
+      "깜짝",
       2
     ],
     [
-      "깜짝",
+      "포착",
       2
     ],
     [
@@ -2072,11 +2196,11 @@
       2
     ],
     [
-      "사랑꾼",
+      "아이",
       2
     ],
     [
-      "아이",
+      "사랑꾼",
       2
     ]
   ],
@@ -2090,19 +2214,15 @@
       3
     ],
     [
-      "박지성",
-      3
-    ],
-    [
       "공개한",
       3
     ],
     [
-      "대한민",
+      "박지성",
       3
     ],
     [
-      "아틀레",
+      "대한민",
       3
     ],
     [
@@ -2122,6 +2242,10 @@
       3
     ],
     [
+      "아틀레",
+      3
+    ],
+    [
       "일본",
       3
     ],
@@ -2130,11 +2254,11 @@
       2
     ],
     [
-      "드라마",
+      "재정비",
       2
     ],
     [
-      "재정비",
+      "드라마",
       2
     ],
     [
@@ -2142,7 +2266,7 @@
       2
     ]
   ],
-  "total_topics_generated": 15,
-  "valid_topics": 15,
+  "total_topics_generated": 17,
+  "valid_topics": 17,
   "excluded_duplicates": 0
 }
