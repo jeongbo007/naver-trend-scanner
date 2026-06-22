@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-06-22 14:22:26",
+  "scan_time": "2026-06-22 17:23:14",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -13,21 +13,39 @@
   "total_articles": 80,
   "articles": [
     {
+      "title": "'0-1 석패' 한국, 멕시코에 잘 졌다? 신태용 감독 \"조 2위로 LA 가는 게 현명...황금세대 홍명보호, 16강 이상도 가능해\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 262987,
+      "rank": 2,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'韓 통곡의 벽' 김민재, 월드컵 잘 뛰고 있는데 청천벽력 소식...뮌헨 3옵션→또 방출 명단? \"2002년생 포르투갈 특급 영입 준비\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 129182,
+      "rank": 6,
+      "channel": "초구딱"
+    },
+    {
       "title": "'미쳤다' 남아공 감독 이례적 비유 \"한국은 멕시코와 체코 중간급...선수들 건전지 같아\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 15715,
-      "rank": 4,
+      "views": 115155,
+      "rank": 7,
       "channel": "초구딱"
     },
     {
-      "title": "日 자신감 미쳤다 \"32강에서 브라질 피할 생각 있습니까\"…모리야스 감독 배짱 발언에 드러난 야심, 이제 일본은 대진운 바라지 않는다",
+      "title": "이정후 진짜 미쳤다, 타격왕만 보이나, 이것도 보인다…8경기 결장했는데 탑5 임박, ML 새 역사다",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 10448,
-      "rank": 6,
+      "views": 112203,
+      "rank": 8,
       "channel": "초구딱"
     },
     {
@@ -35,53 +53,8 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 8638,
-      "rank": 9,
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"역사상 최악 사례\" 日에 0-4 대참사...르나르 감독, 부임 11일 만에 사임 전망→\"네덜란드전이 마지막\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 6122,
-      "rank": 12,
-      "channel": "초구딱"
-    },
-    {
-      "title": "'韓 월드컵 스타' 오현규, 또 감독 교체 후 날벼락인가, 빅클럽 이적 시그널인가...베식타스, 깜짝 공격수 영입 예고 \"구단 역대 최고 이적료 준비\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 5308,
-      "rank": 15,
-      "channel": "초구딱"
-    },
-    {
-      "title": "이정후 때문에 허둥지둥 뛰어갔어! 美 중계진 홀딱 반했다…펜스 충돌 불사한 슈퍼 캐치, 무안타에도 존재감 폭발",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 3621,
-      "rank": 17,
-      "channel": "초구딱"
-    },
-    {
-      "title": "‘뜬공-땅볼-삼진-삼진-삼진’ 잠실 빅보이, 또 무안타…2군행→1할 타율 부진 어쩌나, LG 우타 거포들 터지는데",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 2925,
-      "rank": 19,
-      "channel": "초구딱"
-    },
-    {
-      "title": "'KIA 96순위 지명→필승조→국가대표' 22살 마무리, 0이닝 5실점 대참사에 눈물 뚝뚝 흘렸다…\"충격이 클 것, 분한 건 분한 것이다\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 2910,
-      "rank": 20,
+      "views": 85022,
+      "rank": 10,
       "channel": "초구딱"
     },
     {
@@ -139,8 +112,8 @@
       "channel": "초구딱"
     },
     {
-      "title": "내일은 삼전의 날이네요 ㄷ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606220116516012&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "아르헨 코치 아이마르네요 jpg.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517068&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
       "views": 0,
@@ -148,227 +121,372 @@
       "channel": "초구딱"
     },
     {
-      "title": "남아공은 비기는 게 이겨야 됩니다.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606220116516006&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "다 핑크색 축구화 ㄷㄷ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517065&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 23,
+      "views": 0,
       "rank": 8,
       "channel": "초구딱"
     },
     {
-      "title": "오늘운동하면서 뭔가 심경의 변화가 생김",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606220116516003&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "방금 지노빌리 아니었나....",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517062&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 17,
+      "views": 26,
       "rank": 9,
       "channel": "초구딱"
     },
     {
-      "title": "일본은 요즘 유소년 교육서 학부모 간섭을 차단하고있습니다",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606220116515997&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "일베 흉기난동 살인마 검거....JPG",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517059&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 34,
+      "views": 123,
       "rank": 10,
       "channel": "초구딱"
     },
     {
-      "title": "이번에 주식으로 돈 번 사람들 결국 부동산으로 묶어버리겟죠?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606220116515994&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "지노빌리 경기보러왔네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517056&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 36,
+      "views": 18,
       "rank": 11,
       "channel": "초구딱"
     },
     {
-      "title": "(펌) 서울대 나와서 월 250 버는 9년차 직장인의 고백",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606220116515991&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "아르헨 이번엔 우승 못할듯",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517050&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 140,
+      "views": 89,
       "rank": 12,
       "channel": "초구딱"
     },
     {
-      "title": "이 과자 기억나는 형님들있음?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606220116515982&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "메시 오늘 왜 이러냐 ㅋㅋ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517047&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 171,
+      "views": 55,
       "rank": 13,
       "channel": "초구딱"
     },
     {
-      "title": "엘지는 90년대 중후반에 진짜 왕조 이룰줄 알았는데",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606220116515979&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "와 개못하네",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517044&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 64,
+      "views": 41,
       "rank": 14,
       "channel": "초구딱"
     },
     {
-      "title": "미래에셋생명 주식 어떻게 보시나요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606220116515976&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "만약 월드컵 한일전 열려서",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517041&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 135,
+      "views": 30,
       "rank": 15,
       "channel": "초구딱"
     },
     {
-      "title": "말자쇼 김영희 멘트",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606220116515967&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "성캐는ㅋ 축구해설도 하네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517038&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 318,
+      "views": 79,
       "rank": 16,
       "channel": "초구딱"
     },
     {
-      "title": "프로랑 아마추어 실력 격차가 가장 덜한 종목.jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606220116515964&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "아르헨 우승할 전력은 아니네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517035&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 312,
+      "views": 105,
       "rank": 17,
       "channel": "초구딱"
     },
     {
-      "title": "큰 이변없으면 내일 하이닉스 300만원 가능하겟죠??",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606220116515961&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "예쁜 커리어우먼 95년생 vs 훈녀 꽃처녀 00년생",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517032&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 226,
+      "views": 26,
       "rank": 18,
       "channel": "초구딱"
     },
     {
-      "title": "야구 해설가중 야알못 있었나요 ?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606220116515958&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "메시가 pk는 잘차는편은 아님",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517029&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 87,
+      "views": 62,
       "rank": 19,
       "channel": "초구딱"
     },
     {
-      "title": "북항 야구장 이래저래 시끄러워도 짓고나면 다 갈겁니다",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606220116515952&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "오늘의 메시는 아직까진 좀 별로네요 ㅎㅎㅎ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517026&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 86,
+      "views": 29,
       "rank": 20,
       "channel": "초구딱"
     },
     {
-      "title": "심수창 자산이 6억이 안되네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606220116515949&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "아무리 봐도 아르헨은 잉글랜드 만나면 위험함",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517023&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 467,
+      "views": 50,
       "rank": 21,
       "channel": "초구딱"
     },
     {
-      "title": "전현무가 뽑은 현 mc 탑3",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606220116515946&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "외교부 \"북한군 포로 2명 한국행 추진\"",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517020&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 268,
+      "views": 162,
       "rank": 22,
       "channel": "초구딱"
     },
     {
-      "title": "이 주식 물린사람 많네요 ㄷㄷㄷ.JPG",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606220116515940&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "나는 피케이 안놓친다",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517017&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 988,
+      "views": 163,
       "rank": 23,
       "channel": "초구딱"
     },
     {
-      "title": "삼전 하닉 7월 실적발표후",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606220116515937&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "뭔가 중간에 멈칫할때 이미 자신감이 없다는뜻",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517014&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 326,
+      "views": 138,
       "rank": 24,
       "channel": "초구딱"
     },
     {
-      "title": "근데 중앙그룹 오너인 홍석현이 캐쉬 많지 않아요??",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606220116515934&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+      "title": "역시 대인배 메시",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517011&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=kakao.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 114,
+      "views": 102,
       "rank": 25,
       "channel": "초구딱"
     },
     {
-      "title": "조정 버티니깐 떨어질 생각을 안하네요 ㄷㄷ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606220116515922&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "메시 역적질가나요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517008&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 171,
+      "views": 75,
       "rank": 26,
       "channel": "초구딱"
     },
     {
-      "title": "헬스 3대 300이면 그래도 초급자는 벗어난거죠?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606220116515919&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "메시 : 내 17번째 골은 패널티킥이면 안돼~",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517005&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 85,
+      "views": 74,
       "rank": 27,
       "channel": "초구딱"
     },
     {
-      "title": "아데토쿤보 보셀 가면 3연패 가능한가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606220116515907&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "원숭이도 나무에서 떨어지네",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116516999&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 92,
+      "views": 143,
       "rank": 28,
       "channel": "초구딱"
     },
     {
-      "title": "야구시키는 부모들 직업 대부분 자영업자인데",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606220116515904&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "PK로는 기록을 쓰지 않겠다 ㅋㅋㅋㅋ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116516996&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 77,
+      "views": 329,
       "rank": 29,
       "channel": "초구딱"
     },
     {
-      "title": "성질 안좋은 축구 감독",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606220116515901&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "메시 실축 ㄷㄷㄷ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116516993&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 163,
+      "views": 327,
       "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 42,
+      "article_count": 45,
       "topics": [
         {
-          "title": "\"월드컵, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 5,
-          "source_article": "'안타까운 소식…' 조 1위 확정 독일 주전 센터백 슐로터벡, 발목 부상으로 남은 월드컵 일정 하차",
+          "title": "\"아틀레 자산이 얼마?\" 아틀레급 자산가 스타 TOP10",
+          "angle_type": "👤 아틀레",
+          "article_count": 3,
+          "source_article": "월드컵 도중 낭보 전해졌다! '이강인, 아틀레티코 유니폼 입고 서울서 뛰나' ATM과 개인 합의 소식, HERE WE GO 확인→8월 방한 확정...맨시티와 격돌",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "월드컵",
-            "이런",
+            "아틀레"
+          ],
+          "template": "자산 서열",
+          "score": 7.4,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"이강인 자산이 얼마?\" 이강인급 자산가 스타 TOP10",
+          "angle_type": "👤 이강인",
+          "article_count": 3,
+          "source_article": "월드컵 도중 낭보 전해졌다! '이강인, 아틀레티코 유니폼 입고 서울서 뛰나' ATM과 개인 합의 소식, HERE WE GO 확인→8월 방한 확정...맨시티와 격돌",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "이강인"
+          ],
+          "template": "자산 서열",
+          "score": 7.4,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"개인 자산이 얼마?\" 개인급 자산가 스타 TOP10",
+          "angle_type": "👤 개인",
+          "article_count": 3,
+          "source_article": "월드컵 도중 낭보 전해졌다! '이강인, 아틀레티코 유니폼 입고 서울서 뛰나' ATM과 개인 합의 소식, HERE WE GO 확인→8월 방한 확정...맨시티와 격돌",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "개인"
+          ],
+          "template": "자산 서열",
+          "score": 7.4,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"합의 자산이 얼마?\" 합의급 자산가 스타 TOP10",
+          "angle_type": "👤 합의",
+          "article_count": 3,
+          "source_article": "월드컵 도중 낭보 전해졌다! '이강인, 아틀레티코 유니폼 입고 서울서 뛰나' ATM과 개인 합의 소식, HERE WE GO 확인→8월 방한 확정...맨시티와 격돌",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "합의"
+          ],
+          "template": "자산 서열",
+          "score": 7.4,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"티코 자산이 얼마?\" 티코급 자산가 스타 TOP10",
+          "angle_type": "👤 티코",
+          "article_count": 3,
+          "source_article": "월드컵 도중 낭보 전해졌다! '이강인, 아틀레티코 유니폼 입고 서울서 뛰나' ATM과 개인 합의 소식, HERE WE GO 확인→8월 방한 확정...맨시티와 격돌",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "티코"
+          ],
+          "template": "자산 서열",
+          "score": 7.4,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"박지성, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 6,
+          "source_article": "\"박지성이 이런 말을 하다니\" 日 언론도 놀랐다…아시아 최초 '4골 차 압승'에 한국축구 영웅도 찬사 \"우리가 앞섰는데 이젠 따라잡아야 한다\"→J리그 레전드 깜짝 발언에 열도 환호",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "박지성",
+            "주인공",
             "감량",
             "김민하",
             "쇄골마"
@@ -393,17 +511,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"개인, 지금 어디서 뭐 하나?\" 개인 근황 총정리",
-          "angle_type": "👤 개인",
-          "article_count": 3,
-          "source_article": "월드컵 도중 낭보 전해졌다! '이강인, 아틀레티코 유니폼 입고 서울서 뛰나' ATM과 개인 합의 소식, HERE WE GO 확인→8월 방한 확정...맨시티와 격돌",
+          "title": "\"월드컵\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 월드컵",
+          "article_count": 5,
+          "source_article": "대한민국 분노 폭발…5만 관중 모인 월드컵 경기장, 日 욱일기 등장 '한 개도 아니고 최소 3개' 떡하니",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "개인"
+            "월드컵"
           ],
-          "template": "장기 공백 복귀",
-          "score": 7.2,
+          "template": "인맥",
+          "score": 7.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -414,96 +532,9 @@
           "table": {
             "headers": [
               "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"이강인, 지금 어디서 뭐 하나?\" 이강인 근황 총정리",
-          "angle_type": "👤 이강인",
-          "article_count": 3,
-          "source_article": "월드컵 도중 낭보 전해졌다! '이강인, 아틀레티코 유니폼 입고 서울서 뛰나' ATM과 개인 합의 소식, HERE WE GO 확인→8월 방한 확정...맨시티와 격돌",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "이강인"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 7.2,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"아틀레, 지금 어디서 뭐 하나?\" 아틀레 근황 총정리",
-          "angle_type": "👤 아틀레",
-          "article_count": 3,
-          "source_article": "월드컵 도중 낭보 전해졌다! '이강인, 아틀레티코 유니폼 입고 서울서 뛰나' ATM과 개인 합의 소식, HERE WE GO 확인→8월 방한 확정...맨시티와 격돌",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "아틀레"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 7.2,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"합의, 지금 어디서 뭐 하나?\" 합의 근황 총정리",
-          "angle_type": "👤 합의",
-          "article_count": 3,
-          "source_article": "월드컵 도중 낭보 전해졌다! '이강인, 아틀레티코 유니폼 입고 서울서 뛰나' ATM과 개인 합의 소식, HERE WE GO 확인→8월 방한 확정...맨시티와 격돌",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "합의"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 7.2,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
+              "분류",
+              "이슈 내용",
+              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
@@ -542,35 +573,6 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"확정, 지금 어디서 뭐 하나?\" 확정 근황 총정리",
-          "angle_type": "👤 확정",
-          "article_count": 4,
-          "source_article": "'안타까운 소식…' 조 1위 확정 독일 주전 센터백 슐로터벡, 발목 부상으로 남은 월드컵 일정 하차",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "확정"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 6.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
           "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
           "angle_type": "가족·혈연",
           "article_count": 3,
@@ -599,6 +601,64 @@
               "나이",
               "대표작",
               "현재 활동"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"대한민\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 대한민",
+          "article_count": 3,
+          "source_article": "대한민국 분노 폭발…5만 관중 모인 월드컵 경기장, 日 욱일기 등장 '한 개도 아니고 최소 3개' 떡하니",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "대한민"
+          ],
+          "template": "인맥",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"일본\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 일본",
+          "article_count": 3,
+          "source_article": "일본 축구의 절규! \"프랑스 만날 확률 무려 83.5%…스웨덴에 져주기, F조 3위해도 끔찍해\"→그냥 브라질과 붙어야 하나",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "일본"
+          ],
+          "template": "인맥",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
@@ -636,11 +696,7 @@
       "keyword_freq": [
         [
           "월드컵",
-          6
-        ],
-        [
-          "확정",
-          4
+          5
         ],
         [
           "안영미",
@@ -651,7 +707,19 @@
           3
         ],
         [
+          "대한민국",
+          3
+        ],
+        [
+          "아틀레티코",
+          3
+        ],
+        [
           "개인",
+          3
+        ],
+        [
+          "합의",
           3
         ],
         [
@@ -659,7 +727,7 @@
           3
         ],
         [
-          "합의",
+          "일본",
           3
         ],
         [
@@ -703,29 +771,21 @@
           2
         ],
         [
-          "심수창",
-          2
-        ],
-        [
           "아이",
-          2
-        ],
-        [
-          "이혼",
           2
         ]
       ],
       "name_freq": [
         [
           "월드컵",
-          6
-        ],
-        [
-          "확정",
-          4
+          5
         ],
         [
           "안영미",
+          3
+        ],
+        [
+          "박지성",
           3
         ],
         [
@@ -733,11 +793,7 @@
           3
         ],
         [
-          "개인",
-          3
-        ],
-        [
-          "이강인",
+          "대한민",
           3
         ],
         [
@@ -745,7 +801,23 @@
           3
         ],
         [
+          "이강인",
+          3
+        ],
+        [
+          "개인",
+          3
+        ],
+        [
           "합의",
+          3
+        ],
+        [
+          "티코",
+          3
+        ],
+        [
+          "일본",
           3
         ],
         [
@@ -763,18 +835,6 @@
         [
           "마지막",
           2
-        ],
-        [
-          "얼굴",
-          2
-        ],
-        [
-          "배용준",
-          2
-        ],
-        [
-          "박수진",
-          2
         ]
       ],
       "angle_scores": [
@@ -784,7 +844,7 @@
         ],
         [
           "스포츠",
-          5
+          6
         ],
         [
           "가족·혈연",
@@ -793,21 +853,21 @@
       ]
     },
     "초구딱": {
-      "article_count": 38,
+      "article_count": 35,
       "topics": [
         {
-          "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "title": "\"아르헨, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 8,
-          "source_article": "'미쳤다' 남아공 감독 이례적 비유 \"한국은 멕시코와 체코 중간급...선수들 건전지 같아\"",
+          "article_count": 7,
+          "source_article": "'0-1 석패' 한국, 멕시코에 잘 졌다? 신태용 감독 \"조 2위로 LA 가는 게 현명...황금세대 홍명보호, 16강 이상도 가능해\"",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
+            "아르헨",
+            "멕시코",
             "감독",
-            "삼진",
-            "미쳤다",
             "남아공",
-            "인가"
+            "석패"
           ],
           "template": "스포츠 기록",
           "score": 6.8,
@@ -829,21 +889,17 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 2,
-          "source_article": "야구시키는 부모들 직업 대부분 자영업자인데",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606220116515904&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "title": "\"메시\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 메시",
+          "article_count": 5,
+          "source_article": "메시 오늘 왜 이러냐 ㅋㅋ",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517047&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
           "source_name": "MLB파크 불펜",
           "related_names": [
-            "일본은",
-            "요즘",
-            "유소년",
-            "교육서",
-            "학부모"
+            "메시"
           ],
-          "template": "동갑내기",
-          "score": 6.6,
+          "template": "인맥",
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -854,9 +910,9 @@
           "table": {
             "headers": [
               "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
+              "분류",
+              "이슈 내용",
+              "현재 상황"
             ]
           },
           "channel": "초구딱"
@@ -864,8 +920,8 @@
         {
           "title": "\"월드컵\" 관련 화제 스타 TOP10",
           "angle_type": "👤 월드컵",
-          "article_count": 3,
-          "source_article": "'韓 월드컵 스타' 오현규, 또 감독 교체 후 날벼락인가, 빅클럽 이적 시그널인가...베식타스, 깜짝 공격수 영입 예고 \"구단 역대 최고 이적료 준비\"",
+          "article_count": 4,
+          "source_article": "'韓 통곡의 벽' 김민재, 월드컵 잘 뛰고 있는데 청천벽력 소식...뮌헨 3옵션→또 방출 명단? \"2002년생 포르투갈 특급 영입 준비\"",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
@@ -889,85 +945,31 @@
             ]
           },
           "channel": "초구딱"
-        },
-        {
-          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 2,
-          "source_article": "심수창 자산이 6억이 안되네요",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606220116515949&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "이번에",
-            "주식으",
-            "사람들",
-            "부동산",
-            "묶어버"
-          ],
-          "template": "자산 서열",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"남아공\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 남아공",
-          "article_count": 3,
-          "source_article": "'미쳤다' 남아공 감독 이례적 비유 \"한국은 멕시코와 체코 중간급...선수들 건전지 같아\"",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "남아공"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
         [
-          "감독",
+          "메시",
           5
         ],
         [
+          "월드컵",
+          3
+        ],
+        [
+          "아르헨",
+          3
+        ],
+        [
+          "감독",
+          2
+        ],
+        [
+          "년생",
+          2
+        ],
+        [
           "미쳤다",
-          2
-        ],
-        [
-          "일본은",
-          2
-        ],
-        [
-          "타율",
           2
         ],
         [
@@ -975,15 +977,11 @@
           2
         ],
         [
-          "월드컵",
+          "공지",
           2
         ],
         [
           "안내",
-          2
-        ],
-        [
-          "공지",
           2
         ],
         [
@@ -991,73 +989,77 @@
           2
         ],
         [
-          "한국은",
+          "지노빌리",
+          2
+        ],
+        [
+          "가는",
           1
         ],
         [
-          "멕시코와",
+          "현명",
           1
         ],
         [
-          "같아",
+          "위로",
           1
         ],
         [
-          "남아공",
+          "졌다",
           1
         ],
         [
-          "비유",
+          "황금세대",
           1
         ],
         [
-          "체코",
+          "멕시코에",
           1
         ],
         [
-          "선수들",
+          "홍명보호",
           1
         ],
         [
-          "이례적",
+          "석패",
           1
         ],
         [
-          "건전지",
-          1
-        ],
-        [
-          "중간급",
-          1
-        ],
-        [
-          "생각",
+          "신태용",
           1
         ]
       ],
       "name_freq": [
         [
-          "감독",
+          "메시",
           5
         ],
         [
-          "남아공",
-          3
+          "월드컵",
+          4
         ],
         [
-          "월드컵",
-          3
+          "아르헨",
+          4
+        ],
+        [
+          "감독",
+          2
+        ],
+        [
+          "멕시코",
+          2
+        ],
+        [
+          "년생",
+          2
+        ],
+        [
+          "남아공",
+          2
         ],
         [
           "미쳤다",
-          2
-        ],
-        [
-          "일본은",
-          2
-        ],
-        [
-          "타율",
           2
         ],
         [
@@ -1065,15 +1067,7 @@
           2
         ],
         [
-          "중계진",
-          2
-        ],
-        [
-          "대참사",
-          2
-        ],
-        [
-          "무안타",
+          "공지",
           2
         ],
         [
@@ -1081,44 +1075,36 @@
           2
         ],
         [
-          "공지",
+          "승부예",
           2
         ],
         [
-          "승부예",
+          "지노빌",
           2
         ]
       ],
       "angle_scores": [
         [
-          "자산·몸값",
-          2
-        ],
-        [
           "스포츠",
-          8
-        ],
-        [
-          "가족·혈연",
-          2
+          7
         ]
       ]
     }
   },
   "topics": [
     {
-      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"아르헨, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 8,
-      "source_article": "'미쳤다' 남아공 감독 이례적 비유 \"한국은 멕시코와 체코 중간급...선수들 건전지 같아\"",
+      "article_count": 7,
+      "source_article": "'0-1 석패' 한국, 멕시코에 잘 졌다? 신태용 감독 \"조 2위로 LA 가는 게 현명...황금세대 홍명보호, 16강 이상도 가능해\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
+        "아르헨",
+        "멕시코",
         "감독",
-        "삼진",
-        "미쳤다",
         "남아공",
-        "인가"
+        "석패"
       ],
       "template": "스포츠 기록",
       "score": 6.8,
@@ -1140,21 +1126,17 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 2,
-      "source_article": "야구시키는 부모들 직업 대부분 자영업자인데",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606220116515904&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "\"메시\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 메시",
+      "article_count": 5,
+      "source_article": "메시 오늘 왜 이러냐 ㅋㅋ",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517047&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "일본은",
-        "요즘",
-        "유소년",
-        "교육서",
-        "학부모"
+        "메시"
       ],
-      "template": "동갑내기",
-      "score": 6.6,
+      "template": "인맥",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1165,9 +1147,9 @@
       "table": {
         "headers": [
           "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "초구딱"
@@ -1175,8 +1157,8 @@
     {
       "title": "\"월드컵\" 관련 화제 스타 TOP10",
       "angle_type": "👤 월드컵",
-      "article_count": 3,
-      "source_article": "'韓 월드컵 스타' 오현규, 또 감독 교체 후 날벼락인가, 빅클럽 이적 시그널인가...베식타스, 깜짝 공격수 영입 예고 \"구단 역대 최고 이적료 준비\"",
+      "article_count": 4,
+      "source_article": "'韓 통곡의 벽' 김민재, 월드컵 잘 뛰고 있는데 청천벽력 소식...뮌헨 3옵션→또 방출 명단? \"2002년생 포르투갈 특급 영입 준비\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
@@ -1200,23 +1182,21 @@
         ]
       },
       "channel": "초구딱"
-    },
+    }
+  ],
+  "all_topics": [
     {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 2,
-      "source_article": "심수창 자산이 6억이 안되네요",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606220116515949&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
+      "title": "\"아틀레 자산이 얼마?\" 아틀레급 자산가 스타 TOP10",
+      "angle_type": "👤 아틀레",
+      "article_count": 3,
+      "source_article": "월드컵 도중 낭보 전해졌다! '이강인, 아틀레티코 유니폼 입고 서울서 뛰나' ATM과 개인 합의 소식, HERE WE GO 확인→8월 방한 확정...맨시티와 격돌",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "이번에",
-        "주식으",
-        "사람들",
-        "부동산",
-        "묶어버"
+        "아틀레"
       ],
       "template": "자산 서열",
-      "score": 6.0,
+      "score": 7.4,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1232,20 +1212,20 @@
           "자산 특이점"
         ]
       },
-      "channel": "초구딱"
+      "channel": "정보주는하마"
     },
     {
-      "title": "\"남아공\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 남아공",
+      "title": "\"이강인 자산이 얼마?\" 이강인급 자산가 스타 TOP10",
+      "angle_type": "👤 이강인",
       "article_count": 3,
-      "source_article": "'미쳤다' 남아공 감독 이례적 비유 \"한국은 멕시코와 체코 중간급...선수들 건전지 같아\"",
+      "source_article": "월드컵 도중 낭보 전해졌다! '이강인, 아틀레티코 유니폼 입고 서울서 뛰나' ATM과 개인 합의 소식, HERE WE GO 확인→8월 방한 확정...맨시티와 격돌",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "남아공"
+        "이강인"
       ],
-      "template": "인맥",
-      "score": 6.0,
+      "template": "자산 서열",
+      "score": 7.4,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1256,25 +1236,110 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
         ]
       },
-      "channel": "초구딱"
-    }
-  ],
-  "all_topics": [
+      "channel": "정보주는하마"
+    },
     {
-      "title": "\"월드컵, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 5,
-      "source_article": "'안타까운 소식…' 조 1위 확정 독일 주전 센터백 슐로터벡, 발목 부상으로 남은 월드컵 일정 하차",
+      "title": "\"개인 자산이 얼마?\" 개인급 자산가 스타 TOP10",
+      "angle_type": "👤 개인",
+      "article_count": 3,
+      "source_article": "월드컵 도중 낭보 전해졌다! '이강인, 아틀레티코 유니폼 입고 서울서 뛰나' ATM과 개인 합의 소식, HERE WE GO 확인→8월 방한 확정...맨시티와 격돌",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "월드컵",
-        "이런",
+        "개인"
+      ],
+      "template": "자산 서열",
+      "score": 7.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"합의 자산이 얼마?\" 합의급 자산가 스타 TOP10",
+      "angle_type": "👤 합의",
+      "article_count": 3,
+      "source_article": "월드컵 도중 낭보 전해졌다! '이강인, 아틀레티코 유니폼 입고 서울서 뛰나' ATM과 개인 합의 소식, HERE WE GO 확인→8월 방한 확정...맨시티와 격돌",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "합의"
+      ],
+      "template": "자산 서열",
+      "score": 7.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"티코 자산이 얼마?\" 티코급 자산가 스타 TOP10",
+      "angle_type": "👤 티코",
+      "article_count": 3,
+      "source_article": "월드컵 도중 낭보 전해졌다! '이강인, 아틀레티코 유니폼 입고 서울서 뛰나' ATM과 개인 합의 소식, HERE WE GO 확인→8월 방한 확정...맨시티와 격돌",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "티코"
+      ],
+      "template": "자산 서열",
+      "score": 7.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"박지성, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 6,
+      "source_article": "\"박지성이 이런 말을 하다니\" 日 언론도 놀랐다…아시아 최초 '4골 차 압승'에 한국축구 영웅도 찬사 \"우리가 앞섰는데 이젠 따라잡아야 한다\"→J리그 레전드 깜짝 발언에 열도 환호",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "박지성",
+        "주인공",
         "감량",
         "김민하",
         "쇄골마"
@@ -1299,17 +1364,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"개인, 지금 어디서 뭐 하나?\" 개인 근황 총정리",
-      "angle_type": "👤 개인",
-      "article_count": 3,
-      "source_article": "월드컵 도중 낭보 전해졌다! '이강인, 아틀레티코 유니폼 입고 서울서 뛰나' ATM과 개인 합의 소식, HERE WE GO 확인→8월 방한 확정...맨시티와 격돌",
+      "title": "\"월드컵\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 월드컵",
+      "article_count": 5,
+      "source_article": "대한민국 분노 폭발…5만 관중 모인 월드컵 경기장, 日 욱일기 등장 '한 개도 아니고 최소 3개' 떡하니",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "개인"
+        "월드컵"
       ],
-      "template": "장기 공백 복귀",
-      "score": 7.2,
+      "template": "인맥",
+      "score": 7.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1320,96 +1385,9 @@
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이강인, 지금 어디서 뭐 하나?\" 이강인 근황 총정리",
-      "angle_type": "👤 이강인",
-      "article_count": 3,
-      "source_article": "월드컵 도중 낭보 전해졌다! '이강인, 아틀레티코 유니폼 입고 서울서 뛰나' ATM과 개인 합의 소식, HERE WE GO 확인→8월 방한 확정...맨시티와 격돌",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "이강인"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 7.2,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"아틀레, 지금 어디서 뭐 하나?\" 아틀레 근황 총정리",
-      "angle_type": "👤 아틀레",
-      "article_count": 3,
-      "source_article": "월드컵 도중 낭보 전해졌다! '이강인, 아틀레티코 유니폼 입고 서울서 뛰나' ATM과 개인 합의 소식, HERE WE GO 확인→8월 방한 확정...맨시티와 격돌",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "아틀레"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 7.2,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"합의, 지금 어디서 뭐 하나?\" 합의 근황 총정리",
-      "angle_type": "👤 합의",
-      "article_count": 3,
-      "source_article": "월드컵 도중 낭보 전해졌다! '이강인, 아틀레티코 유니폼 입고 서울서 뛰나' ATM과 개인 합의 소식, HERE WE GO 확인→8월 방한 확정...맨시티와 격돌",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "합의"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 7.2,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
@@ -1448,35 +1426,6 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"확정, 지금 어디서 뭐 하나?\" 확정 근황 총정리",
-      "angle_type": "👤 확정",
-      "article_count": 4,
-      "source_article": "'안타까운 소식…' 조 1위 확정 독일 주전 센터백 슐로터벡, 발목 부상으로 남은 월드컵 일정 하차",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "확정"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 6.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
       "angle_type": "가족·혈연",
       "article_count": 3,
@@ -1505,6 +1454,64 @@
           "나이",
           "대표작",
           "현재 활동"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"대한민\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 대한민",
+      "article_count": 3,
+      "source_article": "대한민국 분노 폭발…5만 관중 모인 월드컵 경기장, 日 욱일기 등장 '한 개도 아니고 최소 3개' 떡하니",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "대한민"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"일본\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 일본",
+      "article_count": 3,
+      "source_article": "일본 축구의 절규! \"프랑스 만날 확률 무려 83.5%…스웨덴에 져주기, F조 3위해도 끔찍해\"→그냥 브라질과 붙어야 하나",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "일본"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
@@ -1539,18 +1546,18 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"아르헨, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 8,
-      "source_article": "'미쳤다' 남아공 감독 이례적 비유 \"한국은 멕시코와 체코 중간급...선수들 건전지 같아\"",
+      "article_count": 7,
+      "source_article": "'0-1 석패' 한국, 멕시코에 잘 졌다? 신태용 감독 \"조 2위로 LA 가는 게 현명...황금세대 홍명보호, 16강 이상도 가능해\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
+        "아르헨",
+        "멕시코",
         "감독",
-        "삼진",
-        "미쳤다",
         "남아공",
-        "인가"
+        "석패"
       ],
       "template": "스포츠 기록",
       "score": 6.8,
@@ -1572,21 +1579,17 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 2,
-      "source_article": "야구시키는 부모들 직업 대부분 자영업자인데",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606220116515904&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "\"메시\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 메시",
+      "article_count": 5,
+      "source_article": "메시 오늘 왜 이러냐 ㅋㅋ",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606230116517047&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "일본은",
-        "요즘",
-        "유소년",
-        "교육서",
-        "학부모"
+        "메시"
       ],
-      "template": "동갑내기",
-      "score": 6.6,
+      "template": "인맥",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1597,9 +1600,9 @@
       "table": {
         "headers": [
           "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "초구딱"
@@ -1607,8 +1610,8 @@
     {
       "title": "\"월드컵\" 관련 화제 스타 TOP10",
       "angle_type": "👤 월드컵",
-      "article_count": 3,
-      "source_article": "'韓 월드컵 스타' 오현규, 또 감독 교체 후 날벼락인가, 빅클럽 이적 시그널인가...베식타스, 깜짝 공격수 영입 예고 \"구단 역대 최고 이적료 준비\"",
+      "article_count": 4,
+      "source_article": "'韓 통곡의 벽' 김민재, 월드컵 잘 뛰고 있는데 청천벽력 소식...뮌헨 3옵션→또 방출 명단? \"2002년생 포르투갈 특급 영입 준비\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
@@ -1632,78 +1635,12 @@
         ]
       },
       "channel": "초구딱"
-    },
-    {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 2,
-      "source_article": "심수창 자산이 6억이 안되네요",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606220116515949&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "이번에",
-        "주식으",
-        "사람들",
-        "부동산",
-        "묶어버"
-      ],
-      "template": "자산 서열",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"남아공\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 남아공",
-      "article_count": 3,
-      "source_article": "'미쳤다' 남아공 감독 이례적 비유 \"한국은 멕시코와 체코 중간급...선수들 건전지 같아\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "남아공"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
     [
       "월드컵",
-      6
-    ],
-    [
-      "확정",
-      4
+      5
     ],
     [
       "안영미",
@@ -1714,7 +1651,19 @@
       3
     ],
     [
+      "대한민국",
+      3
+    ],
+    [
+      "아틀레티코",
+      3
+    ],
+    [
       "개인",
+      3
+    ],
+    [
+      "합의",
       3
     ],
     [
@@ -1722,7 +1671,7 @@
       3
     ],
     [
-      "합의",
+      "일본",
       3
     ],
     [
@@ -1766,29 +1715,21 @@
       2
     ],
     [
-      "심수창",
-      2
-    ],
-    [
       "아이",
-      2
-    ],
-    [
-      "이혼",
       2
     ]
   ],
   "name_freq": [
     [
       "월드컵",
-      6
-    ],
-    [
-      "확정",
-      4
+      5
     ],
     [
       "안영미",
+      3
+    ],
+    [
+      "박지성",
       3
     ],
     [
@@ -1796,11 +1737,7 @@
       3
     ],
     [
-      "개인",
-      3
-    ],
-    [
-      "이강인",
+      "대한민",
       3
     ],
     [
@@ -1808,7 +1745,23 @@
       3
     ],
     [
+      "이강인",
+      3
+    ],
+    [
+      "개인",
+      3
+    ],
+    [
       "합의",
+      3
+    ],
+    [
+      "티코",
+      3
+    ],
+    [
+      "일본",
       3
     ],
     [
@@ -1826,21 +1779,9 @@
     [
       "마지막",
       2
-    ],
-    [
-      "얼굴",
-      2
-    ],
-    [
-      "배용준",
-      2
-    ],
-    [
-      "박수진",
-      2
     ]
   ],
-  "total_topics_generated": 14,
-  "valid_topics": 14,
+  "total_topics_generated": 15,
+  "valid_topics": 15,
   "excluded_duplicates": 0
 }
