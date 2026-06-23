@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-06-23 08:28:12",
+  "scan_time": "2026-06-23 11:50:02",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,337 +8,76 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 30
+    "MLB파크 불펜": 0
   },
-  "total_articles": 80,
+  "total_articles": 50,
   "articles": [
-    {
-      "title": "최형우 26억 삼성행+박찬호 80억 두산행, KIA는 어떻게 버티고 있나…\"젊은 선수들은 기회다, KIA 미래가 달렸다\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 7270,
-      "rank": 12,
-      "channel": "초구딱"
-    },
-    {
-      "title": "“한국 감독, 쏘니를 제대로 쓸 줄 모른다…최전방에 고립시키다니” 토트넘 전문매체, 손흥민 교체한 홍명보 감독전술에 ‘한숨’",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 6891,
-      "rank": 13,
-      "channel": "초구딱"
-    },
     {
       "title": "이정후 큰일났다! 하필 쉬는 날에...타율 1위 로페즈 또또 쳤다! 2안타 폭발→타율 0.336 상승, LEE와 '9리 차'",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 6259,
-      "rank": 16,
-      "channel": "초구딱"
-    },
-    {
-      "title": "하주석 펄펄 날고 정은원 몸 덜 풀렸고…한화 중앙내야, 1군보다 화려한 2군? 김경문 마음 흔들 수 있나",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 5314,
-      "rank": 19,
-      "channel": "초구딱"
-    },
-    {
-      "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 1,
-      "channel": "초구딱"
-    },
-    {
-      "title": "🛠️[공지] 해외 접속 장애 관련 안내_260522🛠️",
-      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202605220000002082",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
+      "views": 19011,
       "rank": 2,
       "channel": "초구딱"
     },
     {
-      "title": "⚽[공지] 월드컵 기간 내 전용 게시판 운영 예정 안내⚽",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002102",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 3,
-      "channel": "초구딱"
-    },
-    {
-      "title": "🏆[6/23 최신 순위 업뎃 完] 2026 북중미월드컵 승부예측 이벤트🏆",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606100116098223",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 4,
-      "channel": "초구딱"
-    },
-    {
-      "title": "🏆6/24(수) 2026 WC 승부예측 바로가기🏆",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606170116326676",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 5,
-      "channel": "초구딱"
-    },
-    {
-      "title": "🏆남아공전 대한민국 첫 골 시간 맞히고 애슐리 가자!🏆",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606220116509997",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 6,
-      "channel": "초구딱"
-    },
-    {
-      "title": "일본도 지난대회 모로코처럼 강팀들 잡으면서 올라가면 되죠.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116528663&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 7,
-      "channel": "초구딱"
-    },
-    {
-      "title": "GTA 6 맵 크기 GTA 5 대비 체감 6배???.jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116528654&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=facebook.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 35,
-      "rank": 8,
-      "channel": "초구딱"
-    },
-    {
-      "title": "미장도 좀 던져야하나...",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116528648&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 60,
-      "rank": 9,
-      "channel": "초구딱"
-    },
-    {
-      "title": "과도한 쏠림은 철퇴를 맞게 되는듯 합니다",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116528645&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 45,
-      "rank": 10,
-      "channel": "초구딱"
-    },
-    {
-      "title": "라르크 하이드가 부르는 케어레스 위스퍼",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116528642&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 11,
-      "channel": "초구딱"
-    },
-    {
-      "title": "정부서 기업에 호남권 반도체 공장건설 강제하는거 최악인게 뭐냐면",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116528639&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 47,
-      "rank": 12,
-      "channel": "초구딱"
-    },
-    {
-      "title": "일본 만화 작가의 말.txt",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116528636&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 948578,
+      "title": "'원조 LG 킬러' 오상민을 아시나요...그가 지금 LG를 보면 무슨 생각을 할까요",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 5595,
       "rank": 13,
       "channel": "초구딱"
     },
     {
-      "title": "역대 코스피 하락률 TOP 10",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116528633&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 190,
-      "rank": 14,
-      "channel": "초구딱"
-    },
-    {
-      "title": "나스닥 곧 마삼 ㄷㄷㄷㄷ -2.88%",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116528630&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 212,
+      "title": "“병원에서도 답을 못찾는다” 최정의 원인 모를 고관절 통증에 갑갑한 이숭용 SSG 감독",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 5017,
       "rank": 15,
       "channel": "초구딱"
     },
     {
-      "title": "삼전이 하닉 잡았네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116528627&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 133,
+      "title": "\"병원서도 해줄 게 없다고...\" 최정이 사라졌다, SSG 한미일 모든 의료진 찾아 나선다",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 4925,
       "rank": 16,
       "channel": "초구딱"
     },
     {
-      "title": "일야 갑니다",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116528621&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 28,
-      "rank": 17,
-      "channel": "초구딱"
-    },
-    {
-      "title": "수학 1타 강사 정승제 쌤 . 스무 살때 사진 ㅋㅋㅋㅋㅋㅋ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116528615&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 164,
-      "rank": 18,
-      "channel": "초구딱"
-    },
-    {
-      "title": "이 모든게 마이크론때문임",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116528612&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 297,
+      "title": "KIA 나성범, 무려 140m 초대형 타구…키움 박준현 프로 첫 피홈런",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 4886,
       "rank": 19,
-      "channel": "초구딱"
-    },
-    {
-      "title": "2010년 동아시안컵 한국 5-0 홍콩.gif",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116528609&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 38,
-      "rank": 20,
-      "channel": "초구딱"
-    },
-    {
-      "title": "성추행 논란.swf",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116528600&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 162,
-      "rank": 21,
-      "channel": "초구딱"
-    },
-    {
-      "title": "미장 추매 들어갑니다",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116528591&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 97,
-      "rank": 22,
-      "channel": "초구딱"
-    },
-    {
-      "title": "대항해시대2 선박 능력치 정리표.JPG",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116528588&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 133,
-      "rank": 23,
-      "channel": "초구딱"
-    },
-    {
-      "title": "나스닥선물 60분봉",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116528582&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 366,
-      "rank": 24,
-      "channel": "초구딱"
-    },
-    {
-      "title": "마이크론 프리장이기는 하지만 9퍼 마이너스네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116528576&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 265,
-      "rank": 25,
-      "channel": "초구딱"
-    },
-    {
-      "title": "노르웨이축구도 황금세대네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116528573&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 39,
-      "rank": 26,
-      "channel": "초구딱"
-    },
-    {
-      "title": "삼전 31만 500원에 10주 추매 신청",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116528570&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 225,
-      "rank": 27,
-      "channel": "초구딱"
-    },
-    {
-      "title": "지금 북한이 군사분계선 앞까지 진격했는데 전쟁 날까요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116528567&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 130,
-      "rank": 28,
-      "channel": "초구딱"
-    },
-    {
-      "title": "태국 간식 로띠 좋아하시는 분 계신가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116528561&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 80,
-      "rank": 29,
-      "channel": "초구딱"
-    },
-    {
-      "title": "네이버지도 도보 거리 시간 믿을만 한가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202606230116528558&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 57,
-      "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 46,
+      "article_count": 45,
       "topics": [
         {
-          "title": "\"대표팀까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-          "angle_type": "논란·사건",
+          "title": "\"재산, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
           "article_count": 5,
-          "source_article": "\"안정환 대표팀 논쟁에 일갈\" 日 언론도 화들짝...손흥민 조기 교체 논란에 \"어그로 끄는 거 꼴 보기 싫어\" 비판, 일본까지 주목한 작심 발언",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "source_article": "그리, 母 17억 빚 직접 언급…\"엄마 빚 때문에 제주도 자주 갔다\"",
+          "source_url": "https://m.entertain.naver.com/article/117/0004077484",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "대표팀",
-            "사기",
-            "진작",
+            "재산",
             "만원",
-            "무도"
+            "그리",
+            "직접",
+            "언급"
           ],
-          "template": "논란 집합",
-          "score": 7.4,
+          "template": "자산 서열",
+          "score": 8.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -349,54 +88,29 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"월드컵\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 월드컵",
-          "article_count": 3,
+          "title": "\"사기까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 6,
           "source_article": "파격 소식! \"연인과 성관계 적극 장려\" 월드컵 최약체 대표팀 가족과 동침 허용…사기 진작+경제적 부담 고려한 배려",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "월드컵"
-          ],
-          "template": "인맥",
-          "score": 7.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"손흥민, 대체 무슨 일이?\" 손흥민 관련 이슈 총정리",
-          "angle_type": "👤 손흥민",
-          "article_count": 4,
-          "source_article": "\"안정환 대표팀 논쟁에 일갈\" 日 언론도 화들짝...손흥민 조기 교체 논란에 \"어그로 끄는 거 꼴 보기 싫어\" 비판, 일본까지 주목한 작심 발언",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "손흥민"
+            "사기",
+            "진작",
+            "만원",
+            "음주",
+            "뺑소니"
           ],
           "template": "논란 집합",
-          "score": 6.9,
+          "score": 7.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -415,17 +129,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"조기, 대체 무슨 일이?\" 조기 관련 이슈 총정리",
-          "angle_type": "👤 조기",
-          "article_count": 3,
-          "source_article": "\"안정환 대표팀 논쟁에 일갈\" 日 언론도 화들짝...손흥민 조기 교체 논란에 \"어그로 끄는 거 꼴 보기 싫어\" 비판, 일본까지 주목한 작심 발언",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "title": "\"캥거루이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+          "angle_type": "가족·혈연",
+          "article_count": 7,
+          "source_article": "‘39세 캥거루족’ 오연서 “부모님도 결혼 포기…안 하는 게 아니라 못 해”",
+          "source_url": "https://m.entertain.naver.com/article/144/0001122369",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "조기"
+            "캥거루",
+            "오연서",
+            "부모님",
+            "결혼",
+            "포기"
           ],
-          "template": "논란 집합",
-          "score": 6.9,
+          "template": "동갑내기",
+          "score": 7.1,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -436,26 +154,26 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
+              "나이",
+              "대표작",
+              "현재 활동"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"임신 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
           "angle_type": "결혼·이혼",
           "article_count": 8,
           "source_article": "랄랄, 임신 직전까지 골초 수준 흡연량..\"하루 2갑씩 전자담배 피워\"",
           "source_url": "https://m.entertain.naver.com/article/076/0004418394",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "임신",
             "결혼",
-            "다니엘",
-            "린데만",
-            "아빠"
+            "하루",
+            "캥거루",
+            "오연서",
+            "부모님"
           ],
           "template": "결혼 화제",
           "score": 6.8,
@@ -477,18 +195,18 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"리그, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "title": "\"남아공, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 6,
+          "article_count": 5,
           "source_article": "랄랄, 임신 직전까지 골초 수준 흡연량..\"하루 2갑씩 전자담배 피워\"",
           "source_url": "https://m.entertain.naver.com/article/076/0004418394",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "리그",
+            "남아공",
+            "경기",
+            "멕시코",
             "만원",
-            "랄랄",
-            "임신",
-            "직전까"
+            "랄랄"
           ],
           "template": "스포츠 기록",
           "score": 6.8,
@@ -505,159 +223,6 @@
               "소속팀",
               "기록 내용",
               "기록 가치"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"여행이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 4,
-          "source_article": "‘39세 캥거루족’ 오연서 “부모님도 결혼 포기…안 하는 게 아니라 못 해”",
-          "source_url": "https://m.entertain.naver.com/article/144/0001122369",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "여행",
-            "캥거루",
-            "오연서",
-            "부모님",
-            "결혼"
-          ],
-          "template": "동갑내기",
-          "score": 6.6,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"만원, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 2,
-          "source_article": "그리, 母 17억 빚 직접 언급…\"엄마 빚 때문에 제주도 자주 갔다\"",
-          "source_url": "https://m.entertain.naver.com/article/117/0004077484",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "만원",
-            "그리",
-            "직접",
-            "언급",
-            "엄마"
-          ],
-          "template": "자산 서열",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"남아공 자산이 얼마?\" 남아공급 자산가 스타 TOP10",
-          "angle_type": "👤 남아공",
-          "article_count": 3,
-          "source_article": "홍명보호 대형 악재 만났다!…'1위 확정' 멕시코, 체코전 2진 대거 투입 예정 \"41세 GK 출전\"→한국의 남아공전 패배? 4위 가능성 커진다",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "남아공"
-          ],
-          "template": "자산 서열",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"축구\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 축구",
-          "article_count": 3,
-          "source_article": "'6연패→1승1무→다시 3연패' 아시아 축구 또 무너졌다…요르단, 알제리에 1-2 역전패→조기 탈락 확정",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "축구"
-          ],
-          "template": "인맥",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "재활용 가능",
-            "matched_title": "\"임영웅, 손흥민이랑 조기축구?\" 축구 좀 찬다고 알려진 스타 TOP10 #연예인 #스포츠 #축구",
-            "matched_views": 32359,
-            "reason": "기간 경과 97일"
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"차범근\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 차범근",
-          "article_count": 4,
-          "source_article": "'차범근 며느리' 한채아, 평창동 시댁 저택 공개 \"비현실적 옥상뷰\"",
-          "source_url": "https://m.entertain.naver.com/article/440/0000034675",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "차범근"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
@@ -692,14 +257,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"모습\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 모습",
+          "title": "\"많이\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 많이",
           "article_count": 3,
-          "source_article": "'연애전쟁' 김희철, '아는 형님' 하차 심경… \"집중 못 하는 내 모습 용납 안 돼\"",
-          "source_url": "https://m.entertain.naver.com/article/440/0000034606",
+          "source_article": "남보라 “실종된 남동생 잃고 무너졌다…하나님 원망 많이 해”",
+          "source_url": "https://m.entertain.naver.com/article/468/0001249474",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "모습"
+            "많이"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -721,14 +286,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"심경\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 심경",
+          "title": "\"멕시코\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 멕시코",
           "article_count": 3,
-          "source_article": "'연애전쟁' 김희철, '아는 형님' 하차 심경… \"집중 못 하는 내 모습 용납 안 돼\"",
-          "source_url": "https://m.entertain.naver.com/article/440/0000034606",
-          "source_name": "엔터 많이 본 뉴스",
+          "source_article": "홍명보호 대형 악재 만났다!…'1위 확정' 멕시코, 체코전 2진 대거 투입 예정 \"41세 GK 출전\"→한국의 남아공전 패배? 4위 가능성 커진다",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "심경"
+            "멕시코"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -750,43 +315,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"연애전\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 연애전",
+          "title": "\"홍명보\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 홍명보",
           "article_count": 3,
-          "source_article": "'연애전쟁' 김희철, '아는 형님' 하차 심경… \"집중 못 하는 내 모습 용납 안 돼\"",
-          "source_url": "https://m.entertain.naver.com/article/440/0000034606",
-          "source_name": "엔터 많이 본 뉴스",
+          "source_article": "홍명보호 대형 악재 만났다!…'1위 확정' 멕시코, 체코전 2진 대거 투입 예정 \"41세 GK 출전\"→한국의 남아공전 패배? 4위 가능성 커진다",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "연애전"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"얼굴\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 얼굴",
-          "article_count": 3,
-          "source_article": "\"얼굴 고등학생\" 40세 박수진, 놀라운 동안 엄마..♥︎배용준 짐 들며 듬직",
-          "source_url": "https://m.entertain.naver.com/article/109/0005558728",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "얼굴"
+            "홍명보"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -810,59 +346,71 @@
       ],
       "keyword_freq": [
         [
-          "차범근",
-          4
-        ],
-        [
           "수준",
           3
         ],
         [
-          "모습",
+          "결혼",
           3
         ],
         [
-          "연애전쟁",
+          "많이",
+          3
+        ],
+        [
+          "홍명보호",
           3
         ],
         [
           "심경",
-          3
-        ],
-        [
-          "얼굴",
-          3
-        ],
-        [
-          "여행",
-          3
-        ],
-        [
-          "손흥민",
-          3
-        ],
-        [
-          "조기",
-          3
-        ],
-        [
-          "레전드",
-          3
-        ],
-        [
-          "월드컵",
-          3
-        ],
-        [
-          "축구",
-          3
-        ],
-        [
-          "임신",
           2
         ],
         [
-          "엄마",
+          "하루",
+          2
+        ],
+        [
+          "연애전쟁",
+          2
+        ],
+        [
+          "아내",
+          2
+        ],
+        [
+          "성관계",
+          2
+        ],
+        [
+          "부모님도",
+          2
+        ],
+        [
+          "캥거루족",
+          2
+        ],
+        [
+          "포기",
+          2
+        ],
+        [
+          "오연서",
+          2
+        ],
+        [
+          "댓글",
+          2
+        ],
+        [
+          "걱정",
+          2
+        ],
+        [
+          "충격적인",
+          2
+        ],
+        [
+          "김호중",
           2
         ],
         [
@@ -874,53 +422,21 @@
           2
         ],
         [
-          "김호중",
-          2
-        ],
-        [
-          "하는",
-          2
-        ],
-        [
-          "집중",
-          2
-        ],
-        [
-          "계속",
+          "어디로",
           2
         ]
       ],
       "name_freq": [
         [
-          "차범근",
-          4
-        ],
-        [
-          "손흥민",
-          4
-        ],
-        [
           "수준",
           3
         ],
         [
-          "모습",
+          "결혼",
           3
         ],
         [
-          "심경",
-          3
-        ],
-        [
-          "연애전",
-          3
-        ],
-        [
-          "얼굴",
-          3
-        ],
-        [
-          "여행",
+          "많이",
           3
         ],
         [
@@ -928,38 +444,58 @@
           3
         ],
         [
-          "조기",
+          "멕시코",
           3
         ],
         [
-          "레전드",
+          "홍명보",
           3
         ],
         [
-          "월드컵",
-          3
-        ],
-        [
-          "축구",
-          3
-        ],
-        [
-          "임신",
+          "심경",
           2
         ],
         [
-          "엄마",
+          "하루",
+          2
+        ],
+        [
+          "연애전",
+          2
+        ],
+        [
+          "아이",
+          2
+        ],
+        [
+          "아내",
+          2
+        ],
+        [
+          "성관계",
+          2
+        ],
+        [
+          "부모님",
+          2
+        ],
+        [
+          "캥거루",
+          2
+        ],
+        [
+          "포기",
           2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
-          2
+          5
         ],
         [
           "논란·사건",
-          5
+          6
         ],
         [
           "결혼·이혼",
@@ -967,33 +503,33 @@
         ],
         [
           "스포츠",
-          6
+          5
         ],
         [
           "가족·혈연",
-          4
+          7
         ]
       ]
     },
     "초구딱": {
-      "article_count": 34,
+      "article_count": 5,
       "topics": [
         {
           "title": "\"타율, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 4,
-          "source_article": "최형우 26억 삼성행+박찬호 80억 두산행, KIA는 어떻게 버티고 있나…\"젊은 선수들은 기회다, KIA 미래가 달렸다\"",
+          "article_count": 3,
+          "source_article": "이정후 큰일났다! 하필 쉬는 날에...타율 1위 로페즈 또또 쳤다! 2안타 폭발→타율 0.336 상승, LEE와 '9리 차'",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "타율",
-            "최형우",
-            "삼성행",
-            "박찬호",
-            "두산행"
+            "이정후",
+            "큰일났",
+            "하필",
+            "쉬는"
           ],
           "template": "스포츠 기록",
-          "score": 6.3,
+          "score": 6.7,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -1014,128 +550,91 @@
       ],
       "keyword_freq": [
         [
-          "있나",
-          2
-        ],
-        [
-          "안내",
-          2
-        ],
-        [
-          "공지",
-          2
-        ],
-        [
-          "승부예측",
-          2
-        ],
-        [
-          "시간",
-          2
-        ],
-        [
-          "추매",
-          2
-        ],
-        [
-          "박찬호",
+          "폭발",
           1
         ],
         [
-          "버티고",
+          "큰일났다",
           1
         ],
         [
-          "두산행",
+          "쉬는",
           1
         ],
         [
-          "어떻게",
+          "날에",
           1
         ],
         [
-          "미래가",
+          "상승",
           1
         ],
         [
-          "젊은",
+          "하필",
           1
         ],
         [
-          "삼성행",
+          "로페즈",
           1
         ],
         [
-          "선수들은",
+          "쳤다",
           1
         ],
         [
-          "기회다",
+          "이정후",
           1
         ],
         [
-          "최형우",
+          "타율",
           1
         ],
         [
-          "달렸다",
+          "또또",
           1
         ],
         [
-          "고립시키다니",
+          "안타",
           1
         ],
         [
-          "최전방에",
+          "오상민을",
           1
         ],
         [
-          "전문매체",
+          "원조",
+          1
+        ],
+        [
+          "할까요",
+          1
+        ],
+        [
+          "생각을",
+          1
+        ],
+        [
+          "킬러",
+          1
+        ],
+        [
+          "그가",
+          1
+        ],
+        [
+          "지금",
+          1
+        ],
+        [
+          "아시나요",
           1
         ]
       ],
-      "name_freq": [
-        [
-          "있나",
-          2
-        ],
-        [
-          "안내",
-          2
-        ],
-        [
-          "공지",
-          2
-        ],
-        [
-          "월드컵",
-          2
-        ],
-        [
-          "승부예",
-          2
-        ],
-        [
-          "시간",
-          2
-        ],
-        [
-          "나스닥",
-          2
-        ],
-        [
-          "마이크",
-          2
-        ],
-        [
-          "추매",
-          2
-        ]
-      ],
+      "name_freq": [],
       "angle_scores": [
         [
           "스포츠",
-          4
+          3
         ]
       ]
     }
@@ -1144,19 +643,19 @@
     {
       "title": "\"타율, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 4,
-      "source_article": "최형우 26억 삼성행+박찬호 80억 두산행, KIA는 어떻게 버티고 있나…\"젊은 선수들은 기회다, KIA 미래가 달렸다\"",
+      "article_count": 3,
+      "source_article": "이정후 큰일났다! 하필 쉬는 날에...타율 1위 로페즈 또또 쳤다! 2안타 폭발→타율 0.336 상승, LEE와 '9리 차'",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "타율",
-        "최형우",
-        "삼성행",
-        "박찬호",
-        "두산행"
+        "이정후",
+        "큰일났",
+        "하필",
+        "쉬는"
       ],
       "template": "스포츠 기록",
-      "score": 6.3,
+      "score": 6.7,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1177,21 +676,21 @@
   ],
   "all_topics": [
     {
-      "title": "\"대표팀까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-      "angle_type": "논란·사건",
+      "title": "\"재산, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
       "article_count": 5,
-      "source_article": "\"안정환 대표팀 논쟁에 일갈\" 日 언론도 화들짝...손흥민 조기 교체 논란에 \"어그로 끄는 거 꼴 보기 싫어\" 비판, 일본까지 주목한 작심 발언",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "source_article": "그리, 母 17억 빚 직접 언급…\"엄마 빚 때문에 제주도 자주 갔다\"",
+      "source_url": "https://m.entertain.naver.com/article/117/0004077484",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "대표팀",
-        "사기",
-        "진작",
+        "재산",
         "만원",
-        "무도"
+        "그리",
+        "직접",
+        "언급"
       ],
-      "template": "논란 집합",
-      "score": 7.4,
+      "template": "자산 서열",
+      "score": 8.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1202,54 +701,29 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"월드컵\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 월드컵",
-      "article_count": 3,
+      "title": "\"사기까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 6,
       "source_article": "파격 소식! \"연인과 성관계 적극 장려\" 월드컵 최약체 대표팀 가족과 동침 허용…사기 진작+경제적 부담 고려한 배려",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "월드컵"
-      ],
-      "template": "인맥",
-      "score": 7.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"손흥민, 대체 무슨 일이?\" 손흥민 관련 이슈 총정리",
-      "angle_type": "👤 손흥민",
-      "article_count": 4,
-      "source_article": "\"안정환 대표팀 논쟁에 일갈\" 日 언론도 화들짝...손흥민 조기 교체 논란에 \"어그로 끄는 거 꼴 보기 싫어\" 비판, 일본까지 주목한 작심 발언",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "손흥민"
+        "사기",
+        "진작",
+        "만원",
+        "음주",
+        "뺑소니"
       ],
       "template": "논란 집합",
-      "score": 6.9,
+      "score": 7.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1268,17 +742,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"조기, 대체 무슨 일이?\" 조기 관련 이슈 총정리",
-      "angle_type": "👤 조기",
-      "article_count": 3,
-      "source_article": "\"안정환 대표팀 논쟁에 일갈\" 日 언론도 화들짝...손흥민 조기 교체 논란에 \"어그로 끄는 거 꼴 보기 싫어\" 비판, 일본까지 주목한 작심 발언",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "title": "\"캥거루이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 7,
+      "source_article": "‘39세 캥거루족’ 오연서 “부모님도 결혼 포기…안 하는 게 아니라 못 해”",
+      "source_url": "https://m.entertain.naver.com/article/144/0001122369",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "조기"
+        "캥거루",
+        "오연서",
+        "부모님",
+        "결혼",
+        "포기"
       ],
-      "template": "논란 집합",
-      "score": 6.9,
+      "template": "동갑내기",
+      "score": 7.1,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1289,26 +767,26 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
+          "나이",
+          "대표작",
+          "현재 활동"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"임신 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
       "angle_type": "결혼·이혼",
       "article_count": 8,
       "source_article": "랄랄, 임신 직전까지 골초 수준 흡연량..\"하루 2갑씩 전자담배 피워\"",
       "source_url": "https://m.entertain.naver.com/article/076/0004418394",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "임신",
         "결혼",
-        "다니엘",
-        "린데만",
-        "아빠"
+        "하루",
+        "캥거루",
+        "오연서",
+        "부모님"
       ],
       "template": "결혼 화제",
       "score": 6.8,
@@ -1330,18 +808,18 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"리그, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"남아공, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 6,
+      "article_count": 5,
       "source_article": "랄랄, 임신 직전까지 골초 수준 흡연량..\"하루 2갑씩 전자담배 피워\"",
       "source_url": "https://m.entertain.naver.com/article/076/0004418394",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "리그",
+        "남아공",
+        "경기",
+        "멕시코",
         "만원",
-        "랄랄",
-        "임신",
-        "직전까"
+        "랄랄"
       ],
       "template": "스포츠 기록",
       "score": 6.8,
@@ -1358,159 +836,6 @@
           "소속팀",
           "기록 내용",
           "기록 가치"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"여행이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 4,
-      "source_article": "‘39세 캥거루족’ 오연서 “부모님도 결혼 포기…안 하는 게 아니라 못 해”",
-      "source_url": "https://m.entertain.naver.com/article/144/0001122369",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "여행",
-        "캥거루",
-        "오연서",
-        "부모님",
-        "결혼"
-      ],
-      "template": "동갑내기",
-      "score": 6.6,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"만원, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 2,
-      "source_article": "그리, 母 17억 빚 직접 언급…\"엄마 빚 때문에 제주도 자주 갔다\"",
-      "source_url": "https://m.entertain.naver.com/article/117/0004077484",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "만원",
-        "그리",
-        "직접",
-        "언급",
-        "엄마"
-      ],
-      "template": "자산 서열",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"남아공 자산이 얼마?\" 남아공급 자산가 스타 TOP10",
-      "angle_type": "👤 남아공",
-      "article_count": 3,
-      "source_article": "홍명보호 대형 악재 만났다!…'1위 확정' 멕시코, 체코전 2진 대거 투입 예정 \"41세 GK 출전\"→한국의 남아공전 패배? 4위 가능성 커진다",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "남아공"
-      ],
-      "template": "자산 서열",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"축구\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 축구",
-      "article_count": 3,
-      "source_article": "'6연패→1승1무→다시 3연패' 아시아 축구 또 무너졌다…요르단, 알제리에 1-2 역전패→조기 탈락 확정",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "축구"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "재활용 가능",
-        "matched_title": "\"임영웅, 손흥민이랑 조기축구?\" 축구 좀 찬다고 알려진 스타 TOP10 #연예인 #스포츠 #축구",
-        "matched_views": 32359,
-        "reason": "기간 경과 97일"
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"차범근\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 차범근",
-      "article_count": 4,
-      "source_article": "'차범근 며느리' 한채아, 평창동 시댁 저택 공개 \"비현실적 옥상뷰\"",
-      "source_url": "https://m.entertain.naver.com/article/440/0000034675",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "차범근"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
@@ -1545,14 +870,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"모습\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 모습",
+      "title": "\"많이\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 많이",
       "article_count": 3,
-      "source_article": "'연애전쟁' 김희철, '아는 형님' 하차 심경… \"집중 못 하는 내 모습 용납 안 돼\"",
-      "source_url": "https://m.entertain.naver.com/article/440/0000034606",
+      "source_article": "남보라 “실종된 남동생 잃고 무너졌다…하나님 원망 많이 해”",
+      "source_url": "https://m.entertain.naver.com/article/468/0001249474",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "모습"
+        "많이"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1574,14 +899,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"심경\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 심경",
+      "title": "\"멕시코\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 멕시코",
       "article_count": 3,
-      "source_article": "'연애전쟁' 김희철, '아는 형님' 하차 심경… \"집중 못 하는 내 모습 용납 안 돼\"",
-      "source_url": "https://m.entertain.naver.com/article/440/0000034606",
-      "source_name": "엔터 많이 본 뉴스",
+      "source_article": "홍명보호 대형 악재 만났다!…'1위 확정' 멕시코, 체코전 2진 대거 투입 예정 \"41세 GK 출전\"→한국의 남아공전 패배? 4위 가능성 커진다",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "심경"
+        "멕시코"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1603,43 +928,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"연애전\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 연애전",
+      "title": "\"홍명보\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 홍명보",
       "article_count": 3,
-      "source_article": "'연애전쟁' 김희철, '아는 형님' 하차 심경… \"집중 못 하는 내 모습 용납 안 돼\"",
-      "source_url": "https://m.entertain.naver.com/article/440/0000034606",
-      "source_name": "엔터 많이 본 뉴스",
+      "source_article": "홍명보호 대형 악재 만났다!…'1위 확정' 멕시코, 체코전 2진 대거 투입 예정 \"41세 GK 출전\"→한국의 남아공전 패배? 4위 가능성 커진다",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "연애전"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"얼굴\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 얼굴",
-      "article_count": 3,
-      "source_article": "\"얼굴 고등학생\" 40세 박수진, 놀라운 동안 엄마..♥︎배용준 짐 들며 듬직",
-      "source_url": "https://m.entertain.naver.com/article/109/0005558728",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "얼굴"
+        "홍명보"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1663,19 +959,19 @@
     {
       "title": "\"타율, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 4,
-      "source_article": "최형우 26억 삼성행+박찬호 80억 두산행, KIA는 어떻게 버티고 있나…\"젊은 선수들은 기회다, KIA 미래가 달렸다\"",
+      "article_count": 3,
+      "source_article": "이정후 큰일났다! 하필 쉬는 날에...타율 1위 로페즈 또또 쳤다! 2안타 폭발→타율 0.336 상승, LEE와 '9리 차'",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "타율",
-        "최형우",
-        "삼성행",
-        "박찬호",
-        "두산행"
+        "이정후",
+        "큰일났",
+        "하필",
+        "쉬는"
       ],
       "template": "스포츠 기록",
-      "score": 6.3,
+      "score": 6.7,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1696,59 +992,71 @@
   ],
   "keyword_freq": [
     [
-      "차범근",
-      4
-    ],
-    [
       "수준",
       3
     ],
     [
-      "모습",
+      "결혼",
       3
     ],
     [
-      "연애전쟁",
+      "많이",
+      3
+    ],
+    [
+      "홍명보호",
       3
     ],
     [
       "심경",
-      3
-    ],
-    [
-      "얼굴",
-      3
-    ],
-    [
-      "여행",
-      3
-    ],
-    [
-      "손흥민",
-      3
-    ],
-    [
-      "조기",
-      3
-    ],
-    [
-      "레전드",
-      3
-    ],
-    [
-      "월드컵",
-      3
-    ],
-    [
-      "축구",
-      3
-    ],
-    [
-      "임신",
       2
     ],
     [
-      "엄마",
+      "하루",
+      2
+    ],
+    [
+      "연애전쟁",
+      2
+    ],
+    [
+      "아내",
+      2
+    ],
+    [
+      "성관계",
+      2
+    ],
+    [
+      "부모님도",
+      2
+    ],
+    [
+      "캥거루족",
+      2
+    ],
+    [
+      "포기",
+      2
+    ],
+    [
+      "오연서",
+      2
+    ],
+    [
+      "댓글",
+      2
+    ],
+    [
+      "걱정",
+      2
+    ],
+    [
+      "충격적인",
+      2
+    ],
+    [
+      "김호중",
       2
     ],
     [
@@ -1760,53 +1068,21 @@
       2
     ],
     [
-      "김호중",
-      2
-    ],
-    [
-      "하는",
-      2
-    ],
-    [
-      "집중",
-      2
-    ],
-    [
-      "계속",
+      "어디로",
       2
     ]
   ],
   "name_freq": [
     [
-      "차범근",
-      4
-    ],
-    [
-      "손흥민",
-      4
-    ],
-    [
       "수준",
       3
     ],
     [
-      "모습",
+      "결혼",
       3
     ],
     [
-      "심경",
-      3
-    ],
-    [
-      "연애전",
-      3
-    ],
-    [
-      "얼굴",
-      3
-    ],
-    [
-      "여행",
+      "많이",
       3
     ],
     [
@@ -1814,31 +1090,51 @@
       3
     ],
     [
-      "조기",
+      "멕시코",
       3
     ],
     [
-      "레전드",
+      "홍명보",
       3
     ],
     [
-      "월드컵",
-      3
-    ],
-    [
-      "축구",
-      3
-    ],
-    [
-      "임신",
+      "심경",
       2
     ],
     [
-      "엄마",
+      "하루",
+      2
+    ],
+    [
+      "연애전",
+      2
+    ],
+    [
+      "아이",
+      2
+    ],
+    [
+      "아내",
+      2
+    ],
+    [
+      "성관계",
+      2
+    ],
+    [
+      "부모님",
+      2
+    ],
+    [
+      "캥거루",
+      2
+    ],
+    [
+      "포기",
       2
     ]
   ],
-  "total_topics_generated": 17,
-  "valid_topics": 17,
+  "total_topics_generated": 10,
+  "valid_topics": 10,
   "excluded_duplicates": 0
 }
