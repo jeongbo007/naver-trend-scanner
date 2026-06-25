@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-06-25 15:35:32",
+  "scan_time": "2026-06-25 19:03:53",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -851,11 +851,11 @@
           2
         ],
         [
-          "고개",
+          "숙인",
           2
         ],
         [
-          "숙인",
+          "고개",
           2
         ],
         [
@@ -991,7 +991,7 @@
         {
           "title": "\"홍명보\" 관련 화제 스타 TOP10",
           "angle_type": "👤 홍명보",
-          "article_count": 5,
+          "article_count": 4,
           "source_article": "\"3일 안에 새 감독 물색?\" 홍명보호 대참사에 충격 받았다→대표팀 선배 김영광 돌발 발언…사령탑 교체 주장 나왔다",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -999,7 +999,36 @@
             "홍명보"
           ],
           "template": "인맥",
-          "score": 7.0,
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"월드컵\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 월드컵",
+          "article_count": 3,
+          "source_article": "⚽[공지] 월드컵 기간 내 전용 게시판 운영 예정 안내⚽",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002102",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "월드컵"
+          ],
+          "template": "인맥",
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -1047,21 +1076,17 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 2,
-          "source_article": "이명박아들이랑 이태임이랑 요트에서 사진찍힌것도 레전드 아닌가요",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606260116641298&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "title": "\"경기\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 경기",
+          "article_count": 3,
+          "source_article": "월드컵 조별 남은 경기 대충 봐보니까",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606260116642144&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
           "source_name": "MLB파크 불펜",
           "related_names": [
-            "할배들",
-            "니네",
-            "딸뻘되",
-            "애들",
-            "보고"
+            "경기"
           ],
-          "template": "동갑내기",
-          "score": 6.1,
+          "template": "인맥",
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -1072,9 +1097,71 @@
           "table": {
             "headers": [
               "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"이강인\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 이강인",
+          "article_count": 4,
+          "source_article": "\"이강인, 아틀레티코 마드리드와 2031년까지 계약\"...유벤투스 관심에도 스페인행 원한다! 이적 확정적",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606260116642141&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "이강인"
+          ],
+          "template": "인맥",
+          "score": 6.4,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 2,
+          "source_article": "2주만에 3억 오른 지역 ㄷㄷㄷ.jpg",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606260116642120&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "주만에",
+            "오른",
+            "지역",
+            "삼성그",
+            "룹이"
+          ],
+          "template": "자산 서열",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
             ]
           },
           "channel": "초구딱"
@@ -1086,97 +1173,23 @@
           4
         ],
         [
+          "이강인",
+          4
+        ],
+        [
           "승부예측",
           3
         ],
         [
-          "홍명보",
-          2
-        ],
-        [
-          "위가",
-          2
-        ],
-        [
-          "시간",
-          2
-        ],
-        [
-          "공지",
-          2
-        ],
-        [
-          "안내",
-          2
-        ],
-        [
-          "바로가기",
-          2
-        ],
-        [
-          "김영광",
-          1
-        ],
-        [
-          "교체",
-          1
-        ],
-        [
-          "발언",
-          1
-        ],
-        [
-          "대표팀",
-          1
-        ],
-        [
-          "물색",
-          1
-        ],
-        [
-          "돌발",
-          1
-        ],
-        [
-          "사령탑",
-          1
-        ],
-        [
-          "주장",
-          1
-        ],
-        [
-          "받았다",
-          1
-        ],
-        [
-          "대참사에",
-          1
-        ],
-        [
-          "홍명보호",
-          1
-        ],
-        [
-          "선배",
-          1
-        ]
-      ],
-      "name_freq": [
-        [
-          "홍명보",
-          5
-        ],
-        [
-          "감독",
-          4
-        ],
-        [
-          "승부예",
+          "경기",
           3
         ],
         [
-          "위가",
+          "홍명보",
+          2
+        ],
+        [
+          "이런",
           2
         ],
         [
@@ -1196,22 +1209,116 @@
           2
         ],
         [
+          "바로가기",
+          2
+        ],
+        [
+          "아틀레티코",
+          2
+        ],
+        [
+          "이적",
+          2
+        ],
+        [
+          "마이크론",
+          2
+        ],
+        [
+          "홍명보호",
+          1
+        ],
+        [
+          "받았다",
+          1
+        ],
+        [
+          "발언",
+          1
+        ],
+        [
+          "안에",
+          1
+        ],
+        [
+          "물색",
+          1
+        ],
+        [
+          "선배",
+          1
+        ]
+      ],
+      "name_freq": [
+        [
+          "홍명보",
+          4
+        ],
+        [
+          "감독",
+          4
+        ],
+        [
+          "이강인",
+          4
+        ],
+        [
+          "월드컵",
+          3
+        ],
+        [
+          "승부예",
+          3
+        ],
+        [
+          "경기",
+          3
+        ],
+        [
+          "이런",
+          2
+        ],
+        [
+          "남아공",
+          2
+        ],
+        [
+          "시간",
+          2
+        ],
+        [
+          "안내",
+          2
+        ],
+        [
+          "공지",
+          2
+        ],
+        [
           "바로가",
           2
         ],
         [
-          "네요",
+          "티코",
+          2
+        ],
+        [
+          "이적",
+          2
+        ],
+        [
+          "아틀레",
           2
         ]
       ],
       "angle_scores": [
         [
-          "스포츠",
-          7
+          "자산·몸값",
+          2
         ],
         [
-          "가족·혈연",
-          2
+          "스포츠",
+          7
         ]
       ]
     }
@@ -1991,7 +2098,7 @@
     {
       "title": "\"홍명보\" 관련 화제 스타 TOP10",
       "angle_type": "👤 홍명보",
-      "article_count": 5,
+      "article_count": 4,
       "source_article": "\"3일 안에 새 감독 물색?\" 홍명보호 대참사에 충격 받았다→대표팀 선배 김영광 돌발 발언…사령탑 교체 주장 나왔다",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -1999,7 +2106,36 @@
         "홍명보"
       ],
       "template": "인맥",
-      "score": 7.0,
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"월드컵\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 월드컵",
+      "article_count": 3,
+      "source_article": "⚽[공지] 월드컵 기간 내 전용 게시판 운영 예정 안내⚽",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002102",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "월드컵"
+      ],
+      "template": "인맥",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2047,21 +2183,17 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 2,
-      "source_article": "이명박아들이랑 이태임이랑 요트에서 사진찍힌것도 레전드 아닌가요",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606260116641298&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "\"경기\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 경기",
+      "article_count": 3,
+      "source_article": "월드컵 조별 남은 경기 대충 봐보니까",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606260116642144&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "할배들",
-        "니네",
-        "딸뻘되",
-        "애들",
-        "보고"
+        "경기"
       ],
-      "template": "동갑내기",
-      "score": 6.1,
+      "template": "인맥",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2072,9 +2204,71 @@
       "table": {
         "headers": [
           "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"이강인\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 이강인",
+      "article_count": 4,
+      "source_article": "\"이강인, 아틀레티코 마드리드와 2031년까지 계약\"...유벤투스 관심에도 스페인행 원한다! 이적 확정적",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606260116642141&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "이강인"
+      ],
+      "template": "인맥",
+      "score": 6.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 2,
+      "source_article": "2주만에 3억 오른 지역 ㄷㄷㄷ.jpg",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606260116642120&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "주만에",
+        "오른",
+        "지역",
+        "삼성그",
+        "룹이"
+      ],
+      "template": "자산 서열",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
         ]
       },
       "channel": "초구딱"
@@ -2146,11 +2340,11 @@
       2
     ],
     [
-      "고개",
+      "숙인",
       2
     ],
     [
-      "숙인",
+      "고개",
       2
     ],
     [
@@ -2224,7 +2418,7 @@
       2
     ]
   ],
-  "total_topics_generated": 16,
-  "valid_topics": 16,
+  "total_topics_generated": 19,
+  "valid_topics": 19,
   "excluded_duplicates": 0
 }
