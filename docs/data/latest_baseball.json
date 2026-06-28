@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-06-28 10:56:57",
+  "scan_time": "2026-06-28 14:30:22",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,44 +8,80 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 0
+    "MLB파크 불펜": 30
   },
-  "total_articles": 50,
+  "total_articles": 80,
   "articles": [
     {
       "title": "히딩크 감독, 충격 폭로! \"라커룸 난장판, 의자 공중 날아다녀\"...대한민국에 월드컵 16강 탈락당한 이탈리아 선수단 추태 공개",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 69171,
+      "views": 49232,
       "rank": 1,
       "channel": "초구딱"
     },
     {
-      "title": "작심 발언! \"홍명보 감독, 지금 당장 물러나야\"...\"손흥민·이강인·김민재 놔두고 떨어져\" 박문성 해설위원, 대한민국 월드컵 탈락 확정에 분통",
+      "title": "홍명보 감독, '1승 했잖아' 느슨한 계산 어긋…대한민국만 이길 생각 없었다 → 박지성 절규 \"공격 숫자 늘려\" 월드컵은 이래야 한다",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 21020,
-      "rank": 2,
+      "views": 15743,
+      "rank": 6,
       "channel": "초구딱"
     },
     {
-      "title": "‘홍명보 감독 사퇴?’ 일단 정몽규 회장은 아웃 선언, ‘기자회견 초미의 관심’",
+      "title": "\"월드컵 실패 책임 물을 것\" 이재명 대통령, 축구협회 '인사 참사' 정면 저격...\"네편내편 무능한 지휘관 선발 증명\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 19393,
-      "rank": 3,
+      "views": 12097,
+      "rank": 8,
       "channel": "초구딱"
     },
     {
-      "title": "'HERE WE GO 떴다!' 韓에이스 이강인, 월드컵 탈락 아쉬움 딛고 아틀레티코 마드리드 품에 안긴다...\"구단 간 합의 임박\"",
+      "title": "\"홍명보 감독 청문회 해야 할 판\" 정치권 통합 이룬 충격의 월드컵 탈락…'선임 과정 불공정' 대한축구협회 쇄신 정조준",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 15694,
-      "rank": 7,
+      "views": 11383,
+      "rank": 10,
+      "channel": "초구딱"
+    },
+    {
+      "title": "6월 타율 1위가 144km 투심 헤드샷에 쓰러졌다! 송찬의 타박상 교체...롯데 비슬리 퇴장",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 8147,
+      "rank": 13,
+      "channel": "초구딱"
+    },
+    {
+      "title": "“20홈런 이상 치고파” 김호령, 벌써 11개→시간 문제 아냐?…결국 관건은 ‘체력’",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 6555,
+      "rank": 16,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'승승승' 한화는 어떻게 국가대표 마무리를 무너뜨렸나…그저 류현진 고맙고 미안하다 \"좋은 피칭해줬는데 승리 못 가져가 아쉬워\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 6105,
+      "rank": 17,
+      "channel": "초구딱"
+    },
+    {
+      "title": "오스틴 그새 또 쳤어? 김도영, 공동 1위→2위 다시 밀렸다!…\"소극적 타석 문제, 과감한 스윙 덕 홈런 쳐\" 그래도 만족",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 5767,
+      "rank": 19,
       "channel": "초구딱"
     },
     {
@@ -53,58 +89,297 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 9627,
+      "views": 5655,
+      "rank": 20,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🏆[당첨자 발표]남아공전 대한민국 첫 골 맞히기 이벤트🏆",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606220116509997",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 1,
+      "channel": "초구딱"
+    },
+    {
+      "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 2,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🛠️[공지] 해외 접속 장애 관련 안내_260522🛠️",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202605220000002082",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 3,
+      "channel": "초구딱"
+    },
+    {
+      "title": "⚽[공지] 월드컵 기간 내 전용 게시판 운영 예정 안내⚽",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002102",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 4,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🏆[6/26 UPDATE] 2026 북중미월드컵 승부예측 이벤트🏆",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606100116098223",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 5,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🏆6/28(일) 2026 WC 승부예측 바로가기 [조별리그]🏆",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606180116368553",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 6,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🏆6/29(월) 2026 WC 승부예측 바로가기 [32강]🏆",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606250116614415",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 7,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🏆6/30(화) 2026 WC 승부예측 바로가기 [32강]🏆",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606270116693858",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
       "rank": 8,
       "channel": "초구딱"
     },
     {
-      "title": "선두 LG '간담이 서늘', 4번타자 문보경 한 타석도 안 서고 1회 교체 '왜?'→알고 보니 발목 통증, \"병원 검진 계획 無\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 5428,
+      "title": "대한민국 절반 이상 안먹어 본 음식",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606280116770706&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 9,
+      "channel": "초구딱"
+    },
+    {
+      "title": "2018 월드컵 예선에서 이탈리아 대표팀이 비슷한 전략 미스를 했을떄 벤치에서 멱살잡고 싸우고 난리났다던데",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606280116770700&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 10,
+      "channel": "초구딱"
+    },
+    {
+      "title": "강회장 며느리 이쁘네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606280116770697&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 11,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'PK 제외' 월드컵 역대 최다 득점자.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606280116770694&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 28,
+      "rank": 12,
+      "channel": "초구딱"
+    },
+    {
+      "title": "알고나면 충격적인 가슴 사진의 비밀",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606280116770691&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 54,
+      "rank": 13,
+      "channel": "초구딱"
+    },
+    {
+      "title": "오타니 올해 타격은 별로라 안그랬음?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606280116770688&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 31,
+      "rank": 14,
+      "channel": "초구딱"
+    },
+    {
+      "title": "안토넬리 독합니다 독해",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606280116770685&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 13,
+      "rank": 15,
+      "channel": "초구딱"
+    },
+    {
+      "title": "아르헨티나 진짜 개꿀로드긴 하네용",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606280116770682&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 29,
+      "rank": 16,
+      "channel": "초구딱"
+    },
+    {
+      "title": "전소연 x 코치 in 홍콩 비하인드 ㄷㄷㄷ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606280116770676&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 75,
       "rank": 17,
       "channel": "초구딱"
     },
     {
-      "title": "'韓 축구 역사상 최악의 감독'으로?...홍명보 감독, '불공정 선임 논란;+ 2014년 브라질 실패 극복까지 무산",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 5107,
+      "title": "왜 요즘엔 이런 선수가 없나요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606280116770673&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 948578,
       "rank": 18,
       "channel": "초구딱"
     },
     {
-      "title": "12년 전 ‘엿’ 치욕 피하기? 월드컵 망한 홍명보호, 30일 귀국행사 없다…‘아시안컵까지’ 홍명보 감독 경질 or 사임 관심↑",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 4995,
+      "title": "이강인 근황....",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606280116770670&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 248,
       "rank": 19,
+      "channel": "초구딱"
+    },
+    {
+      "title": "사퇴 기자회견을 하고 입국하는건가요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606280116770664&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 71,
+      "rank": 20,
+      "channel": "초구딱"
+    },
+    {
+      "title": "하이닉스는 진짜 코인처럼 거의 24시간 거래 되겠네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606280116770658&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 171,
+      "rank": 21,
+      "channel": "초구딱"
+    },
+    {
+      "title": "오스트리아 알제리전 정말 재미났었을 듯.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606280116770655&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 81,
+      "rank": 22,
+      "channel": "초구딱"
+    },
+    {
+      "title": "요즘 한국에 외국인 관광객 늘어난 실제 느낌 甲",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606280116770649&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 163,
+      "rank": 23,
+      "channel": "초구딱"
+    },
+    {
+      "title": "좋은 시절 다 갔다라고 할때 몇살까지를 말하죠??",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606280116770640&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 65,
+      "rank": 24,
+      "channel": "초구딱"
+    },
+    {
+      "title": "포르투갈 응원녀.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606280116770637&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 310,
+      "rank": 25,
+      "channel": "초구딱"
+    },
+    {
+      "title": "수도권 광역버스는 앞으로 완전 너프먹겠네요ㅠ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606280116770634&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 119,
+      "rank": 26,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[식품][15,730원]더미식 육즙교자만두 350g X6봉지 골라담기",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606280116770631&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 32,
+      "rank": 27,
+      "channel": "초구딱"
+    },
+    {
+      "title": "금요일 저녁, 극락 포인트.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606280116770628&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 454,
+      "rank": 28,
+      "channel": "초구딱"
+    },
+    {
+      "title": "메시는 아직도 유럽 빅클럽에서 주전 가능한 실력이죠?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606280116770625&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 98,
+      "rank": 29,
+      "channel": "초구딱"
+    },
+    {
+      "title": "장년층 타겟으로 한 QWER 고민중독 편곡 버전",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202606280116770622&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 51,
+      "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 42,
+      "article_count": 41,
       "topics": [
         {
-          "title": "\"홍명보, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 5,
-          "source_article": "열애설 없던 문채원, 오늘(28일) 결혼 골인‥혼전임신·의사 남편설 싹 다 “아니다”",
-          "source_url": "https://m.entertain.naver.com/article/609/0001139817",
+          "title": "\"월드컵\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 월드컵",
+          "article_count": 6,
+          "source_article": "홍명보호 월드컵 32강 탈락에 저격…김희철 \"한 명의 잘못으로 이렇게\"",
+          "source_url": "https://m.entertain.naver.com/article/117/0004079282",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "홍명보",
-            "열애설",
-            "없던",
-            "문채원",
-            "결혼"
+            "월드컵"
           ],
-          "template": "스포츠 기록",
-          "score": 7.1,
+          "template": "인맥",
+          "score": 7.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -114,30 +389,30 @@
           },
           "table": {
             "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+          "title": "\"가족이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
           "angle_type": "가족·혈연",
-          "article_count": 5,
-          "source_article": "아들은 ♥강재준 닮았는데...이은형 SNS 발칵 뒤집은 사진 한 장..넉살 등장 \"누가 엄마야?!\"",
-          "source_url": "https://m.entertain.naver.com/article/076/0004420285",
+          "article_count": 7,
+          "source_article": "♥윤후가 사귈만..'최재원 딸' 최유빈, 과감 비키니 자태 'S라인 몸매'",
+          "source_url": "https://m.entertain.naver.com/article/076/0004420390",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "아들은",
-            "강재준",
-            "닮았는",
-            "이은형",
-            "발칵"
+            "가족",
+            "윤후가",
+            "사귈만",
+            "최재원",
+            "최유빈"
           ],
           "template": "동갑내기",
-          "score": 7.1,
+          "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -156,20 +431,20 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 2,
-          "source_article": "'투병부부' 아내, 이혼 소송 중 작심 폭로…\"주 28만 원 양육비도 밀려\"",
-          "source_url": "https://m.entertain.naver.com/article/213/0001392416",
+          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "angle_type": "결혼·이혼",
+          "article_count": 6,
+          "source_article": "열애설 없던 문채원, 오늘(28일) 결혼 골인‥혼전임신·의사 남편설 싹 다 “아니다”",
+          "source_url": "https://m.entertain.naver.com/article/609/0001139817",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "투병부",
-            "아내",
+            "결혼",
             "이혼",
-            "소송",
-            "작심"
+            "미우새",
+            "열애설",
+            "없던"
           ],
-          "template": "논란 집합",
+          "template": "결혼 화제",
           "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
@@ -181,28 +456,82 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 3,
-          "source_article": "김지선, 월 2억 벌었는데…\"난폭운전 사고, 돈이 축복 아닌 것 알게 됐다\"",
-          "source_url": "https://m.entertain.naver.com/article/445/0000431931",
+          "title": "\"미우새 결혼설?\" 미우새 연애사 총정리",
+          "angle_type": "👤 미우새",
+          "article_count": 4,
+          "source_article": "린, '이수와 이혼' 10개월만에...\"가장 먼저 백지영에게 알리고 싶었다\" 고백 (미우새)",
+          "source_url": "https://m.entertain.naver.com/article/076/0004420301",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "김지선",
-            "벌었는",
-            "난폭운",
-            "사고",
-            "돈이"
+            "미우새"
           ],
-          "template": "자산 서열",
+          "template": "결혼 화제",
+          "score": 6.6,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"백지영 결혼설?\" 백지영 연애사 총정리",
+          "angle_type": "👤 백지영",
+          "article_count": 3,
+          "source_article": "린, '이수와 이혼' 10개월만에...\"가장 먼저 백지영에게 알리고 싶었다\" 고백 (미우새)",
+          "source_url": "https://m.entertain.naver.com/article/076/0004420301",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "백지영"
+          ],
+          "template": "결혼 화제",
+          "score": 6.6,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"홍명보\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 홍명보",
+          "article_count": 4,
+          "source_article": "홍명보호 월드컵 32강 탈락에 저격…김희철 \"한 명의 잘못으로 이렇게\"",
+          "source_url": "https://m.entertain.naver.com/article/117/0004079282",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "홍명보"
+          ],
+          "template": "인맥",
           "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
@@ -214,22 +543,22 @@
           "table": {
             "headers": [
               "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
+              "분류",
+              "이슈 내용",
+              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"월드컵\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 월드컵",
+          "title": "\"탈락\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 탈락",
           "article_count": 4,
-          "source_article": "홍명보호 월드컵 32강 탈락에 저격…김희철 \"한 명의 잘못으로 이렇게\"",
-          "source_url": "https://m.entertain.naver.com/article/117/0004079282",
-          "source_name": "엔터 많이 본 뉴스",
+          "source_article": "월드컵 졸전 탈락, '협회 분노 폭발'...'귀국 전세기 취소' 강경 대응한 우루과이",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "월드컵"
+            "탈락"
           ],
           "template": "인맥",
           "score": 6.5,
@@ -280,72 +609,6 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-          "angle_type": "결혼·이혼",
-          "article_count": 4,
-          "source_article": "열애설 없던 문채원, 오늘(28일) 결혼 골인‥혼전임신·의사 남편설 싹 다 “아니다”",
-          "source_url": "https://m.entertain.naver.com/article/609/0001139817",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "결혼",
-            "열애설",
-            "없던",
-            "문채원",
-            "골인"
-          ],
-          "template": "결혼 화제",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 3,
-          "source_article": "“감금 당했다” 이희진, 교제폭력 고백...목숨 구해준 심은진과 근황 ‘뭉클’",
-          "source_url": "https://m.entertain.naver.com/article/468/0001250438",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "근황",
-            "체코",
-            "감금",
-            "당했다",
-            "이희진"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
           "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
           "angle_type": "투병·건강",
           "article_count": 2,
@@ -377,202 +640,56 @@
             ]
           },
           "channel": "정보주는하마"
-        }
-      ],
-      "keyword_freq": [
-        [
-          "홍명보호",
-          4
-        ],
-        [
-          "홍명보",
-          4
-        ],
-        [
-          "탈락에",
-          3
-        ],
-        [
-          "월드컵",
-          3
-        ],
-        [
-          "결혼",
-          3
-        ],
-        [
-          "탈락",
-          3
-        ],
-        [
-          "밀착",
-          2
-        ],
-        [
-          "너무",
-          2
-        ],
-        [
-          "지적",
-          2
-        ],
-        [
-          "송해나",
-          2
-        ],
-        [
-          "남편",
-          2
-        ],
-        [
-          "김희철",
-          2
-        ],
-        [
-          "의사",
-          2
-        ],
-        [
-          "작심",
-          2
-        ],
-        [
-          "근황",
-          2
-        ],
-        [
-          "알았더니",
-          2
-        ],
-        [
-          "전참시",
-          2
-        ],
-        [
-          "먼저",
-          2
-        ],
-        [
-          "티파니",
-          2
-        ],
-        [
-          "팬들",
-          2
-        ]
-      ],
-      "name_freq": [
-        [
-          "홍명보",
-          10
-        ],
-        [
-          "월드컵",
-          4
-        ],
-        [
-          "탈락에",
-          3
-        ],
-        [
-          "결혼",
-          3
-        ],
-        [
-          "탈락",
-          3
-        ],
-        [
-          "밀착",
-          2
-        ],
-        [
-          "지적",
-          2
-        ],
-        [
-          "이현이",
-          2
-        ],
-        [
-          "송해나",
-          2
-        ],
-        [
-          "남편",
-          2
-        ],
-        [
-          "너무",
-          2
-        ],
-        [
-          "김희철",
-          2
-        ],
-        [
-          "의사",
-          2
-        ],
-        [
-          "작심",
-          2
-        ],
-        [
-          "근황",
-          2
-        ]
-      ],
-      "angle_scores": [
-        [
-          "자산·몸값",
-          3
-        ],
-        [
-          "논란·사건",
-          2
-        ],
-        [
-          "결혼·이혼",
-          4
-        ],
-        [
-          "복귀·근황",
-          3
-        ],
-        [
-          "투병·건강",
-          2
-        ],
-        [
-          "스포츠",
-          5
-        ],
-        [
-          "가족·혈연",
-          5
-        ]
-      ]
-    },
-    "초구딱": {
-      "article_count": 8,
-      "topics": [
+        },
         {
-          "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 6,
-          "source_article": "히딩크 감독, 충격 폭로! \"라커룸 난장판, 의자 공중 날아다녀\"...대한민국에 월드컵 16강 탈락당한 이탈리아 선수단 추태 공개",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 2,
+          "source_article": "'재벌2세 이필립♥︎' 박현선, 셋째 출산 근황 \"행복한 6인 가족..1시간마다 수유\"",
+          "source_url": "https://m.entertain.naver.com/article/109/0005562112",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "감독",
-            "홍명보",
-            "월드컵",
-            "대한민",
-            "선수단"
+            "근황",
+            "재벌",
+            "이필립",
+            "박현선",
+            "셋째"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.1,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 2,
+          "source_article": "열애설 없던 문채원, 오늘(28일) 결혼 골인‥혼전임신·의사 남편설 싹 다 “아니다”",
+          "source_url": "https://m.entertain.naver.com/article/609/0001139817",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "열애설",
+            "없던",
+            "문채원",
+            "결혼",
+            "골인"
           ],
           "template": "스포츠 기록",
-          "score": 8.3,
+          "score": 6.1,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -588,17 +705,283 @@
               "기록 가치"
             ]
           },
-          "channel": "초구딱"
+          "channel": "정보주는하마"
         },
+        {
+          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 2,
+          "source_article": "'강남 30억 빌라' 백지영♥정석원, 결국 이사 포기…\"층간소음 참고 산다\"",
+          "source_url": "https://m.entertain.naver.com/article/312/0000765477",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "강남",
+            "빌라",
+            "백지영",
+            "정석원",
+            "이사"
+          ],
+          "template": "자산 서열",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"남편\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 남편",
+          "article_count": 3,
+          "source_article": "\"가슴쪽 너무 밀착\" 송해나, '이현이 남편'과 스킨십 사진 올렸다가..결국 네티즌 지적",
+          "source_url": "https://m.entertain.naver.com/article/076/0004420300",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "남편"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        }
+      ],
+      "keyword_freq": [
+        [
+          "월드컵",
+          6
+        ],
+        [
+          "미우새",
+          4
+        ],
+        [
+          "탈락",
+          4
+        ],
+        [
+          "결혼",
+          3
+        ],
+        [
+          "남편",
+          3
+        ],
+        [
+          "탈락에",
+          3
+        ],
+        [
+          "의사",
+          2
+        ],
+        [
+          "몸매",
+          2
+        ],
+        [
+          "홍명보호",
+          2
+        ],
+        [
+          "가장",
+          2
+        ],
+        [
+          "먼저",
+          2
+        ],
+        [
+          "이혼",
+          2
+        ],
+        [
+          "전참시",
+          2
+        ],
+        [
+          "티파니",
+          2
+        ],
+        [
+          "작심",
+          2
+        ],
+        [
+          "정석원",
+          2
+        ],
+        [
+          "백지영",
+          2
+        ],
+        [
+          "윤은혜",
+          2
+        ],
+        [
+          "이희진",
+          2
+        ],
+        [
+          "나보다",
+          2
+        ]
+      ],
+      "name_freq": [
+        [
+          "월드컵",
+          6
+        ],
+        [
+          "홍명보",
+          4
+        ],
+        [
+          "미우새",
+          4
+        ],
+        [
+          "탈락",
+          4
+        ],
+        [
+          "결혼",
+          3
+        ],
+        [
+          "남편",
+          3
+        ],
+        [
+          "탈락에",
+          3
+        ],
+        [
+          "백지영",
+          3
+        ],
+        [
+          "의사",
+          2
+        ],
+        [
+          "몸매",
+          2
+        ],
+        [
+          "가장",
+          2
+        ],
+        [
+          "먼저",
+          2
+        ],
+        [
+          "이혼",
+          2
+        ],
+        [
+          "전참시",
+          2
+        ],
+        [
+          "티파니",
+          2
+        ]
+      ],
+      "angle_scores": [
+        [
+          "자산·몸값",
+          2
+        ],
+        [
+          "결혼·이혼",
+          6
+        ],
+        [
+          "복귀·근황",
+          2
+        ],
+        [
+          "투병·건강",
+          2
+        ],
+        [
+          "스포츠",
+          2
+        ],
+        [
+          "가족·혈연",
+          7
+        ]
+      ]
+    },
+    "초구딱": {
+      "article_count": 39,
+      "topics": [
         {
           "title": "\"월드컵, 대체 무슨 일이?\" 월드컵 관련 이슈 총정리",
           "angle_type": "👤 월드컵",
-          "article_count": 4,
+          "article_count": 8,
           "source_article": "히딩크 감독, 충격 폭로! \"라커룸 난장판, 의자 공중 날아다녀\"...대한민국에 월드컵 16강 탈락당한 이탈리아 선수단 추태 공개",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "월드컵"
+          ],
+          "template": "논란 집합",
+          "score": 8.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"대한민, 대체 무슨 일이?\" 대한민 관련 이슈 총정리",
+          "angle_type": "👤 대한민",
+          "article_count": 4,
+          "source_article": "히딩크 감독, 충격 폭로! \"라커룸 난장판, 의자 공중 날아다녀\"...대한민국에 월드컵 16강 탈락당한 이탈리아 선수단 추태 공개",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "대한민"
           ],
           "template": "논란 집합",
           "score": 7.5,
@@ -620,17 +1003,50 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"홍명보, 대체 무슨 일이?\" 홍명보 관련 이슈 총정리",
-          "angle_type": "👤 홍명보",
-          "article_count": 5,
-          "source_article": "작심 발언! \"홍명보 감독, 지금 당장 물러나야\"...\"손흥민·이강인·김민재 놔두고 떨어져\" 박문성 해설위원, 대한민국 월드컵 탈락 확정에 분통",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 11,
+          "source_article": "왜 요즘엔 이런 선수가 없나요",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606280116770673&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
           "related_names": [
-            "홍명보"
+            "감독",
+            "월드컵",
+            "대한민",
+            "홍명보",
+            "선수단"
           ],
-          "template": "논란 집합",
-          "score": 7.4,
+          "template": "스포츠 기록",
+          "score": 6.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"승부예\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 승부예",
+          "article_count": 4,
+          "source_article": "🏆[6/26 UPDATE] 2026 북중미월드컵 승부예측 이벤트🏆",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606100116098223",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "승부예"
+          ],
+          "template": "인맥",
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -641,29 +1057,25 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
+              "분류",
+              "이슈 내용",
               "현재 상황"
             ]
           },
           "channel": "초구딱"
         },
         {
-          "title": "\"감독까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 2,
-          "source_article": "히딩크 감독, 충격 폭로! \"라커룸 난장판, 의자 공중 날아다녀\"...대한민국에 월드컵 16강 탈락당한 이탈리아 선수단 추태 공개",
+          "title": "\"홍명보\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 홍명보",
+          "article_count": 3,
+          "source_article": "홍명보 감독, '1승 했잖아' 느슨한 계산 어긋…대한민국만 이길 생각 없었다 → 박지성 절규 \"공격 숫자 늘려\" 월드컵은 이래야 한다",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "감독",
-            "히딩크",
-            "폭로",
-            "라커룸",
-            "난장판"
+            "홍명보"
           ],
-          "template": "논란 집합",
-          "score": 7.0,
+          "template": "인맥",
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -674,8 +1086,37 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"바로가\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 바로가",
+          "article_count": 3,
+          "source_article": "🏆6/28(일) 2026 WC 승부예측 바로가기 [조별리그]🏆",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606180116368553",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "바로가"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
               "현재 상황"
             ]
           },
@@ -684,27 +1125,67 @@
       ],
       "keyword_freq": [
         [
-          "감독",
+          "월드컵",
           6
         ],
         [
-          "홍명보",
-          5
+          "감독",
+          4
         ],
         [
-          "월드컵",
+          "승부예측",
           4
+        ],
+        [
+          "홍명보",
+          3
+        ],
+        [
+          "바로가기",
+          3
         ],
         [
           "선수단",
           2
         ],
         [
-          "이강인",
+          "이탈리아",
           2
         ],
         [
-          "탈락",
+          "홈런",
+          2
+        ],
+        [
+          "시간",
+          2
+        ],
+        [
+          "문제",
+          2
+        ],
+        [
+          "좋은",
+          2
+        ],
+        [
+          "대한민국",
+          2
+        ],
+        [
+          "이벤트",
+          2
+        ],
+        [
+          "공지",
+          2
+        ],
+        [
+          "안내",
+          2
+        ],
+        [
+          "진짜",
           2
         ],
         [
@@ -712,35 +1193,7 @@
           1
         ],
         [
-          "날아다녀",
-          1
-        ],
-        [
-          "난장판",
-          1
-        ],
-        [
-          "추태",
-          1
-        ],
-        [
-          "탈락당한",
-          1
-        ],
-        [
-          "이탈리아",
-          1
-        ],
-        [
           "폭로",
-          1
-        ],
-        [
-          "공중",
-          1
-        ],
-        [
-          "라커룸",
           1
         ],
         [
@@ -748,81 +1201,93 @@
           1
         ],
         [
-          "의자",
-          1
-        ],
-        [
-          "놔두고",
-          1
-        ],
-        [
-          "떨어져",
-          1
-        ],
-        [
-          "작심",
+          "탈락당한",
           1
         ]
       ],
       "name_freq": [
         [
+          "월드컵",
+          8
+        ],
+        [
+          "대한민",
+          4
+        ],
+        [
           "감독",
-          6
+          4
+        ],
+        [
+          "승부예",
+          4
         ],
         [
           "홍명보",
-          5
+          3
         ],
         [
-          "월드컵",
-          4
+          "바로가",
+          3
         ],
         [
           "선수단",
           2
         ],
         [
-          "대한민",
+          "이탈리",
           2
         ],
         [
-          "이강인",
+          "홈런",
           2
         ],
         [
-          "탈락",
+          "시간",
+          2
+        ],
+        [
+          "문제",
+          2
+        ],
+        [
+          "좋은",
+          2
+        ],
+        [
+          "이벤트",
+          2
+        ],
+        [
+          "공지",
+          2
+        ],
+        [
+          "안내",
           2
         ]
       ],
       "angle_scores": [
         [
-          "논란·사건",
-          2
-        ],
-        [
           "스포츠",
-          6
+          11
         ]
       ]
     }
   },
   "topics": [
     {
-      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 6,
+      "title": "\"월드컵, 대체 무슨 일이?\" 월드컵 관련 이슈 총정리",
+      "angle_type": "👤 월드컵",
+      "article_count": 8,
       "source_article": "히딩크 감독, 충격 폭로! \"라커룸 난장판, 의자 공중 날아다녀\"...대한민국에 월드컵 16강 탈락당한 이탈리아 선수단 추태 공개",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "감독",
-        "홍명보",
-        "월드컵",
-        "대한민",
-        "선수단"
+        "월드컵"
       ],
-      "template": "스포츠 기록",
-      "score": 8.3,
+      "template": "논란 집합",
+      "score": 8.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -832,23 +1297,23 @@
       },
       "table": {
         "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
       "channel": "초구딱"
     },
     {
-      "title": "\"월드컵, 대체 무슨 일이?\" 월드컵 관련 이슈 총정리",
-      "angle_type": "👤 월드컵",
+      "title": "\"대한민, 대체 무슨 일이?\" 대한민 관련 이슈 총정리",
+      "angle_type": "👤 대한민",
       "article_count": 4,
       "source_article": "히딩크 감독, 충격 폭로! \"라커룸 난장판, 의자 공중 날아다녀\"...대한민국에 월드컵 16강 탈락당한 이탈리아 선수단 추태 공개",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "월드컵"
+        "대한민"
       ],
       "template": "논란 집합",
       "score": 7.5,
@@ -870,85 +1335,21 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"홍명보, 대체 무슨 일이?\" 홍명보 관련 이슈 총정리",
-      "angle_type": "👤 홍명보",
-      "article_count": 5,
-      "source_article": "작심 발언! \"홍명보 감독, 지금 당장 물러나야\"...\"손흥민·이강인·김민재 놔두고 떨어져\" 박문성 해설위원, 대한민국 월드컵 탈락 확정에 분통",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "홍명보"
-      ],
-      "template": "논란 집합",
-      "score": 7.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"감독까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 2,
-      "source_article": "히딩크 감독, 충격 폭로! \"라커룸 난장판, 의자 공중 날아다녀\"...대한민국에 월드컵 16강 탈락당한 이탈리아 선수단 추태 공개",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 11,
+      "source_article": "왜 요즘엔 이런 선수가 없나요",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606280116770673&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
       "related_names": [
         "감독",
-        "히딩크",
-        "폭로",
-        "라커룸",
-        "난장판"
-      ],
-      "template": "논란 집합",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    }
-  ],
-  "all_topics": [
-    {
-      "title": "\"홍명보, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 5,
-      "source_article": "열애설 없던 문채원, 오늘(28일) 결혼 골인‥혼전임신·의사 남편설 싹 다 “아니다”",
-      "source_url": "https://m.entertain.naver.com/article/609/0001139817",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
+        "월드컵",
+        "대한민",
         "홍명보",
-        "열애설",
-        "없던",
-        "문채원",
-        "결혼"
+        "선수단"
       ],
       "template": "스포츠 기록",
-      "score": 7.1,
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -964,24 +1365,142 @@
           "기록 가치"
         ]
       },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"승부예\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 승부예",
+      "article_count": 4,
+      "source_article": "🏆[6/26 UPDATE] 2026 북중미월드컵 승부예측 이벤트🏆",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606100116098223",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "승부예"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"홍명보\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 홍명보",
+      "article_count": 3,
+      "source_article": "홍명보 감독, '1승 했잖아' 느슨한 계산 어긋…대한민국만 이길 생각 없었다 → 박지성 절규 \"공격 숫자 늘려\" 월드컵은 이래야 한다",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "홍명보"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"바로가\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 바로가",
+      "article_count": 3,
+      "source_article": "🏆6/28(일) 2026 WC 승부예측 바로가기 [조별리그]🏆",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606180116368553",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "바로가"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    }
+  ],
+  "all_topics": [
+    {
+      "title": "\"월드컵\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 월드컵",
+      "article_count": 6,
+      "source_article": "홍명보호 월드컵 32강 탈락에 저격…김희철 \"한 명의 잘못으로 이렇게\"",
+      "source_url": "https://m.entertain.naver.com/article/117/0004079282",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "월드컵"
+      ],
+      "template": "인맥",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+      "title": "\"가족이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
       "angle_type": "가족·혈연",
-      "article_count": 5,
-      "source_article": "아들은 ♥강재준 닮았는데...이은형 SNS 발칵 뒤집은 사진 한 장..넉살 등장 \"누가 엄마야?!\"",
-      "source_url": "https://m.entertain.naver.com/article/076/0004420285",
+      "article_count": 7,
+      "source_article": "♥윤후가 사귈만..'최재원 딸' 최유빈, 과감 비키니 자태 'S라인 몸매'",
+      "source_url": "https://m.entertain.naver.com/article/076/0004420390",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "아들은",
-        "강재준",
-        "닮았는",
-        "이은형",
-        "발칵"
+        "가족",
+        "윤후가",
+        "사귈만",
+        "최재원",
+        "최유빈"
       ],
       "template": "동갑내기",
-      "score": 7.1,
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1000,20 +1519,20 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 2,
-      "source_article": "'투병부부' 아내, 이혼 소송 중 작심 폭로…\"주 28만 원 양육비도 밀려\"",
-      "source_url": "https://m.entertain.naver.com/article/213/0001392416",
+      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 6,
+      "source_article": "열애설 없던 문채원, 오늘(28일) 결혼 골인‥혼전임신·의사 남편설 싹 다 “아니다”",
+      "source_url": "https://m.entertain.naver.com/article/609/0001139817",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "투병부",
-        "아내",
+        "결혼",
         "이혼",
-        "소송",
-        "작심"
+        "미우새",
+        "열애설",
+        "없던"
       ],
-      "template": "논란 집합",
+      "template": "결혼 화제",
       "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
@@ -1025,28 +1544,82 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 3,
-      "source_article": "김지선, 월 2억 벌었는데…\"난폭운전 사고, 돈이 축복 아닌 것 알게 됐다\"",
-      "source_url": "https://m.entertain.naver.com/article/445/0000431931",
+      "title": "\"미우새 결혼설?\" 미우새 연애사 총정리",
+      "angle_type": "👤 미우새",
+      "article_count": 4,
+      "source_article": "린, '이수와 이혼' 10개월만에...\"가장 먼저 백지영에게 알리고 싶었다\" 고백 (미우새)",
+      "source_url": "https://m.entertain.naver.com/article/076/0004420301",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "김지선",
-        "벌었는",
-        "난폭운",
-        "사고",
-        "돈이"
+        "미우새"
       ],
-      "template": "자산 서열",
+      "template": "결혼 화제",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"백지영 결혼설?\" 백지영 연애사 총정리",
+      "angle_type": "👤 백지영",
+      "article_count": 3,
+      "source_article": "린, '이수와 이혼' 10개월만에...\"가장 먼저 백지영에게 알리고 싶었다\" 고백 (미우새)",
+      "source_url": "https://m.entertain.naver.com/article/076/0004420301",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "백지영"
+      ],
+      "template": "결혼 화제",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"홍명보\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 홍명보",
+      "article_count": 4,
+      "source_article": "홍명보호 월드컵 32강 탈락에 저격…김희철 \"한 명의 잘못으로 이렇게\"",
+      "source_url": "https://m.entertain.naver.com/article/117/0004079282",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "홍명보"
+      ],
+      "template": "인맥",
       "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
@@ -1058,22 +1631,22 @@
       "table": {
         "headers": [
           "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"월드컵\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 월드컵",
+      "title": "\"탈락\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 탈락",
       "article_count": 4,
-      "source_article": "홍명보호 월드컵 32강 탈락에 저격…김희철 \"한 명의 잘못으로 이렇게\"",
-      "source_url": "https://m.entertain.naver.com/article/117/0004079282",
-      "source_name": "엔터 많이 본 뉴스",
+      "source_article": "월드컵 졸전 탈락, '협회 분노 폭발'...'귀국 전세기 취소' 강경 대응한 우루과이",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "월드컵"
+        "탈락"
       ],
       "template": "인맥",
       "score": 6.5,
@@ -1124,72 +1697,6 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 4,
-      "source_article": "열애설 없던 문채원, 오늘(28일) 결혼 골인‥혼전임신·의사 남편설 싹 다 “아니다”",
-      "source_url": "https://m.entertain.naver.com/article/609/0001139817",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "결혼",
-        "열애설",
-        "없던",
-        "문채원",
-        "골인"
-      ],
-      "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 3,
-      "source_article": "“감금 당했다” 이희진, 교제폭력 고백...목숨 구해준 심은진과 근황 ‘뭉클’",
-      "source_url": "https://m.entertain.naver.com/article/468/0001250438",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "근황",
-        "체코",
-        "감금",
-        "당했다",
-        "이희진"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
       "angle_type": "투병·건강",
       "article_count": 2,
@@ -1223,21 +1730,54 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 6,
-      "source_article": "히딩크 감독, 충격 폭로! \"라커룸 난장판, 의자 공중 날아다녀\"...대한민국에 월드컵 16강 탈락당한 이탈리아 선수단 추태 공개",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "'재벌2세 이필립♥︎' 박현선, 셋째 출산 근황 \"행복한 6인 가족..1시간마다 수유\"",
+      "source_url": "https://m.entertain.naver.com/article/109/0005562112",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "감독",
-        "홍명보",
-        "월드컵",
-        "대한민",
-        "선수단"
+        "근황",
+        "재벌",
+        "이필립",
+        "박현선",
+        "셋째"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 2,
+      "source_article": "열애설 없던 문채원, 오늘(28일) 결혼 골인‥혼전임신·의사 남편설 싹 다 “아니다”",
+      "source_url": "https://m.entertain.naver.com/article/609/0001139817",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "열애설",
+        "없던",
+        "문채원",
+        "결혼",
+        "골인"
       ],
       "template": "스포츠 기록",
-      "score": 8.3,
+      "score": 6.1,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1253,17 +1793,108 @@
           "기록 가치"
         ]
       },
-      "channel": "초구딱"
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 2,
+      "source_article": "'강남 30억 빌라' 백지영♥정석원, 결국 이사 포기…\"층간소음 참고 산다\"",
+      "source_url": "https://m.entertain.naver.com/article/312/0000765477",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "강남",
+        "빌라",
+        "백지영",
+        "정석원",
+        "이사"
+      ],
+      "template": "자산 서열",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"남편\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 남편",
+      "article_count": 3,
+      "source_article": "\"가슴쪽 너무 밀착\" 송해나, '이현이 남편'과 스킨십 사진 올렸다가..결국 네티즌 지적",
+      "source_url": "https://m.entertain.naver.com/article/076/0004420300",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "남편"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
     },
     {
       "title": "\"월드컵, 대체 무슨 일이?\" 월드컵 관련 이슈 총정리",
       "angle_type": "👤 월드컵",
-      "article_count": 4,
+      "article_count": 8,
       "source_article": "히딩크 감독, 충격 폭로! \"라커룸 난장판, 의자 공중 날아다녀\"...대한민국에 월드컵 16강 탈락당한 이탈리아 선수단 추태 공개",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "월드컵"
+      ],
+      "template": "논란 집합",
+      "score": 8.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"대한민, 대체 무슨 일이?\" 대한민 관련 이슈 총정리",
+      "angle_type": "👤 대한민",
+      "article_count": 4,
+      "source_article": "히딩크 감독, 충격 폭로! \"라커룸 난장판, 의자 공중 날아다녀\"...대한민국에 월드컵 16강 탈락당한 이탈리아 선수단 추태 공개",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "대한민"
       ],
       "template": "논란 집합",
       "score": 7.5,
@@ -1285,17 +1916,50 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"홍명보, 대체 무슨 일이?\" 홍명보 관련 이슈 총정리",
-      "angle_type": "👤 홍명보",
-      "article_count": 5,
-      "source_article": "작심 발언! \"홍명보 감독, 지금 당장 물러나야\"...\"손흥민·이강인·김민재 놔두고 떨어져\" 박문성 해설위원, 대한민국 월드컵 탈락 확정에 분통",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 11,
+      "source_article": "왜 요즘엔 이런 선수가 없나요",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606280116770673&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
       "related_names": [
-        "홍명보"
+        "감독",
+        "월드컵",
+        "대한민",
+        "홍명보",
+        "선수단"
       ],
-      "template": "논란 집합",
-      "score": 7.4,
+      "template": "스포츠 기록",
+      "score": 6.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"승부예\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 승부예",
+      "article_count": 4,
+      "source_article": "🏆[6/26 UPDATE] 2026 북중미월드컵 승부예측 이벤트🏆",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606100116098223",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "승부예"
+      ],
+      "template": "인맥",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1306,29 +1970,25 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
+          "분류",
+          "이슈 내용",
           "현재 상황"
         ]
       },
       "channel": "초구딱"
     },
     {
-      "title": "\"감독까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 2,
-      "source_article": "히딩크 감독, 충격 폭로! \"라커룸 난장판, 의자 공중 날아다녀\"...대한민국에 월드컵 16강 탈락당한 이탈리아 선수단 추태 공개",
+      "title": "\"홍명보\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 홍명보",
+      "article_count": 3,
+      "source_article": "홍명보 감독, '1승 했잖아' 느슨한 계산 어긋…대한민국만 이길 생각 없었다 → 박지성 절규 \"공격 숫자 늘려\" 월드컵은 이래야 한다",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "감독",
-        "히딩크",
-        "폭로",
-        "라커룸",
-        "난장판"
+        "홍명보"
       ],
-      "template": "논란 집합",
-      "score": 7.0,
+      "template": "인맥",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1339,8 +1999,37 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"바로가\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 바로가",
+      "article_count": 3,
+      "source_article": "🏆6/28(일) 2026 WC 승부예측 바로가기 [조별리그]🏆",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606180116368553",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "바로가"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
           "현재 상황"
         ]
       },
@@ -1349,71 +2038,43 @@
   ],
   "keyword_freq": [
     [
-      "홍명보호",
-      4
-    ],
-    [
-      "홍명보",
-      4
-    ],
-    [
-      "탈락에",
-      3
-    ],
-    [
       "월드컵",
-      3
+      6
+    ],
+    [
+      "미우새",
+      4
+    ],
+    [
+      "탈락",
+      4
     ],
     [
       "결혼",
       3
     ],
     [
-      "탈락",
+      "남편",
       3
     ],
     [
-      "밀착",
-      2
-    ],
-    [
-      "너무",
-      2
-    ],
-    [
-      "지적",
-      2
-    ],
-    [
-      "송해나",
-      2
-    ],
-    [
-      "남편",
-      2
-    ],
-    [
-      "김희철",
-      2
+      "탈락에",
+      3
     ],
     [
       "의사",
       2
     ],
     [
-      "작심",
+      "몸매",
       2
     ],
     [
-      "근황",
+      "홍명보호",
       2
     ],
     [
-      "알았더니",
-      2
-    ],
-    [
-      "전참시",
+      "가장",
       2
     ],
     [
@@ -1421,65 +2082,15 @@
       2
     ],
     [
+      "이혼",
+      2
+    ],
+    [
+      "전참시",
+      2
+    ],
+    [
       "티파니",
-      2
-    ],
-    [
-      "팬들",
-      2
-    ]
-  ],
-  "name_freq": [
-    [
-      "홍명보",
-      10
-    ],
-    [
-      "월드컵",
-      4
-    ],
-    [
-      "탈락에",
-      3
-    ],
-    [
-      "결혼",
-      3
-    ],
-    [
-      "탈락",
-      3
-    ],
-    [
-      "밀착",
-      2
-    ],
-    [
-      "지적",
-      2
-    ],
-    [
-      "이현이",
-      2
-    ],
-    [
-      "송해나",
-      2
-    ],
-    [
-      "남편",
-      2
-    ],
-    [
-      "너무",
-      2
-    ],
-    [
-      "김희철",
-      2
-    ],
-    [
-      "의사",
       2
     ],
     [
@@ -1487,11 +2098,89 @@
       2
     ],
     [
-      "근황",
+      "정석원",
+      2
+    ],
+    [
+      "백지영",
+      2
+    ],
+    [
+      "윤은혜",
+      2
+    ],
+    [
+      "이희진",
+      2
+    ],
+    [
+      "나보다",
       2
     ]
   ],
-  "total_topics_generated": 13,
-  "valid_topics": 13,
+  "name_freq": [
+    [
+      "월드컵",
+      6
+    ],
+    [
+      "홍명보",
+      4
+    ],
+    [
+      "미우새",
+      4
+    ],
+    [
+      "탈락",
+      4
+    ],
+    [
+      "결혼",
+      3
+    ],
+    [
+      "남편",
+      3
+    ],
+    [
+      "탈락에",
+      3
+    ],
+    [
+      "백지영",
+      3
+    ],
+    [
+      "의사",
+      2
+    ],
+    [
+      "몸매",
+      2
+    ],
+    [
+      "가장",
+      2
+    ],
+    [
+      "먼저",
+      2
+    ],
+    [
+      "이혼",
+      2
+    ],
+    [
+      "전참시",
+      2
+    ],
+    [
+      "티파니",
+      2
+    ]
+  ],
+  "total_topics_generated": 19,
+  "valid_topics": 19,
   "excluded_duplicates": 0
 }
