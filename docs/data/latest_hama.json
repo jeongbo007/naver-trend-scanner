@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-06-29 16:31:26",
+  "scan_time": "2026-06-29 19:03:48",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -858,11 +858,11 @@
           2
         ],
         [
-          "안정환",
+          "내가",
           2
         ],
         [
-          "내가",
+          "안정환",
           2
         ],
         [
@@ -1001,7 +1001,7 @@
         {
           "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 9,
+          "article_count": 8,
           "source_article": "히딩크 감독, 충격 폭로! \"라커룸 난장판, 의자 공중 날아다녀\"...대한민국에 월드컵 16강 탈락당한 이탈리아 선수단 추태 공개",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -1034,7 +1034,7 @@
         {
           "title": "\"월드컵, 대체 무슨 일이?\" 월드컵 관련 이슈 총정리",
           "angle_type": "👤 월드컵",
-          "article_count": 4,
+          "article_count": 5,
           "source_article": "히딩크 감독, 충격 폭로! \"라커룸 난장판, 의자 공중 날아다녀\"...대한민국에 월드컵 16강 탈락당한 이탈리아 선수단 추태 공개",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -1042,7 +1042,7 @@
             "월드컵"
           ],
           "template": "논란 집합",
-          "score": 7.5,
+          "score": 8.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -1061,21 +1061,17 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 2,
-          "source_article": "히딩크 감독, 충격 폭로! \"라커룸 난장판, 의자 공중 날아다녀\"...대한민국에 월드컵 16강 탈락당한 이탈리아 선수단 추태 공개",
+          "title": "\"브라질\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 브라질",
+          "article_count": 3,
+          "source_article": "\"충격\" 하늘이 일본을 버렸다...하필 '우승 후보' 브라질전 대위기, 모리야스 감독 '오피셜' 발표, '日 이강인' 구보 \"뛸 수 없다\" 부상 결장 확정",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "히딩크",
-            "감독",
-            "폭로",
-            "라커룸",
-            "난장판"
+            "브라질"
           ],
-          "template": "논란 집합",
-          "score": 7.0,
+          "template": "인맥",
+          "score": 6.9,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -1086,22 +1082,51 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
+              "분류",
+              "이슈 내용",
               "현재 상황"
             ]
           },
           "channel": "초구딱"
         },
         {
-          "title": "\"홍명보\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 홍명보",
+          "title": "\"일본\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 일본",
           "article_count": 6,
-          "source_article": "홍명보 감독 자진 사퇴→박항서 단장도 고개 숙여 사과…\"뼈를 깎는 반성과 성찰로 미래 준비하겠다\"",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "source_article": "일본 잘한거죠 전반 오버페이스라 그렇지",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606300116797637&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
           "related_names": [
-            "홍명보"
+            "일본"
+          ],
+          "template": "인맥",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"일본은\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 일본은",
+          "article_count": 5,
+          "source_article": "일본은 졌잘싸인가요? 우리보다는 훨씬 나은데",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606300116797622&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "일본은"
           ],
           "template": "인맥",
           "score": 6.5,
@@ -1152,6 +1177,35 @@
           "channel": "초구딱"
         },
         {
+          "title": "\"네요\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 네요",
+          "article_count": 4,
+          "source_article": "안첸로티 진짜 대단하네요",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606300116797613&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "네요"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
           "title": "\"바로가\" 관련 화제 스타 TOP10",
           "angle_type": "👤 바로가",
           "article_count": 3,
@@ -1181,14 +1235,14 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"네요\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 네요",
+          "title": "\"토너먼\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 토너먼",
           "article_count": 3,
-          "source_article": "이임생? 이름이 되게 특이하네요",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606300116794418&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+          "source_article": "졌잘싸가 어딨음? 32강 딱에 토너먼트 0승ㅅㅅㅅㅅㅅㅅ",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606300116797595&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
           "source_name": "MLB파크 불펜",
           "related_names": [
-            "네요"
+            "토너먼"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -1212,11 +1266,19 @@
       ],
       "keyword_freq": [
         [
-          "감독",
+          "일본",
           6
         ],
         [
-          "홍명보",
+          "감독",
+          5
+        ],
+        [
+          "일본은",
+          5
+        ],
+        [
+          "월드컵",
           4
         ],
         [
@@ -1224,15 +1286,19 @@
           4
         ],
         [
-          "월드컵",
-          3
-        ],
-        [
           "바로가기",
           3
         ],
         [
+          "토너먼트",
+          3
+        ],
+        [
           "선수단",
+          2
+        ],
+        [
+          "홍명보",
           2
         ],
         [
@@ -1244,19 +1310,11 @@
           2
         ],
         [
-          "배재고",
+          "브라질은",
           2
         ],
         [
-          "홍명보는",
-          2
-        ],
-        [
-          "일본이",
-          2
-        ],
-        [
-          "축구",
+          "진짜",
           2
         ],
         [
@@ -1268,19 +1326,11 @@
           1
         ],
         [
-          "난장판",
+          "날아다녀",
           1
         ],
         [
-          "이탈리아",
-          1
-        ],
-        [
-          "의자",
-          1
-        ],
-        [
-          "히딩크",
+          "추태",
           1
         ],
         [
@@ -1288,37 +1338,61 @@
           1
         ],
         [
-          "탈락당한",
+          "대한민국에",
+          1
+        ],
+        [
+          "히딩크",
           1
         ]
       ],
       "name_freq": [
         [
-          "감독",
-          6
-        ],
-        [
-          "홍명보",
+          "일본",
           6
         ],
         [
           "월드컵",
-          4
+          5
+        ],
+        [
+          "감독",
+          5
+        ],
+        [
+          "일본은",
+          5
         ],
         [
           "승부예",
           4
         ],
         [
+          "네요",
+          4
+        ],
+        [
+          "브라질",
+          3
+        ],
+        [
           "바로가",
           3
         ],
         [
-          "네요",
+          "토너먼",
           3
         ],
         [
           "선수단",
+          2
+        ],
+        [
+          "홍명보",
+          2
+        ],
+        [
+          "마지막",
           2
         ],
         [
@@ -1330,34 +1404,14 @@
           2
         ],
         [
-          "배재고",
-          2
-        ],
-        [
-          "야구부",
-          2
-        ],
-        [
-          "일본이",
-          2
-        ],
-        [
-          "축구",
-          2
-        ],
-        [
-          "니다",
+          "졌잘싸",
           2
         ]
       ],
       "angle_scores": [
         [
-          "논란·사건",
-          2
-        ],
-        [
           "스포츠",
-          9
+          8
         ]
       ]
     }
@@ -2178,7 +2232,7 @@
     {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 9,
+      "article_count": 8,
       "source_article": "히딩크 감독, 충격 폭로! \"라커룸 난장판, 의자 공중 날아다녀\"...대한민국에 월드컵 16강 탈락당한 이탈리아 선수단 추태 공개",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -2211,7 +2265,7 @@
     {
       "title": "\"월드컵, 대체 무슨 일이?\" 월드컵 관련 이슈 총정리",
       "angle_type": "👤 월드컵",
-      "article_count": 4,
+      "article_count": 5,
       "source_article": "히딩크 감독, 충격 폭로! \"라커룸 난장판, 의자 공중 날아다녀\"...대한민국에 월드컵 16강 탈락당한 이탈리아 선수단 추태 공개",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -2219,7 +2273,7 @@
         "월드컵"
       ],
       "template": "논란 집합",
-      "score": 7.5,
+      "score": 8.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2238,21 +2292,17 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 2,
-      "source_article": "히딩크 감독, 충격 폭로! \"라커룸 난장판, 의자 공중 날아다녀\"...대한민국에 월드컵 16강 탈락당한 이탈리아 선수단 추태 공개",
+      "title": "\"브라질\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 브라질",
+      "article_count": 3,
+      "source_article": "\"충격\" 하늘이 일본을 버렸다...하필 '우승 후보' 브라질전 대위기, 모리야스 감독 '오피셜' 발표, '日 이강인' 구보 \"뛸 수 없다\" 부상 결장 확정",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "히딩크",
-        "감독",
-        "폭로",
-        "라커룸",
-        "난장판"
+        "브라질"
       ],
-      "template": "논란 집합",
-      "score": 7.0,
+      "template": "인맥",
+      "score": 6.9,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2263,22 +2313,51 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
+          "분류",
+          "이슈 내용",
           "현재 상황"
         ]
       },
       "channel": "초구딱"
     },
     {
-      "title": "\"홍명보\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 홍명보",
+      "title": "\"일본\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 일본",
       "article_count": 6,
-      "source_article": "홍명보 감독 자진 사퇴→박항서 단장도 고개 숙여 사과…\"뼈를 깎는 반성과 성찰로 미래 준비하겠다\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "source_article": "일본 잘한거죠 전반 오버페이스라 그렇지",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606300116797637&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
       "related_names": [
-        "홍명보"
+        "일본"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"일본은\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 일본은",
+      "article_count": 5,
+      "source_article": "일본은 졌잘싸인가요? 우리보다는 훨씬 나은데",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606300116797622&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "일본은"
       ],
       "template": "인맥",
       "score": 6.5,
@@ -2329,6 +2408,35 @@
       "channel": "초구딱"
     },
     {
+      "title": "\"네요\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 네요",
+      "article_count": 4,
+      "source_article": "안첸로티 진짜 대단하네요",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606300116797613&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "네요"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
       "title": "\"바로가\" 관련 화제 스타 TOP10",
       "angle_type": "👤 바로가",
       "article_count": 3,
@@ -2358,14 +2466,14 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"네요\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 네요",
+      "title": "\"토너먼\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 토너먼",
       "article_count": 3,
-      "source_article": "이임생? 이름이 되게 특이하네요",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606300116794418&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+      "source_article": "졌잘싸가 어딨음? 32강 딱에 토너먼트 0승ㅅㅅㅅㅅㅅㅅ",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202606300116797595&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "네요"
+        "토너먼"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -2425,11 +2533,11 @@
       2
     ],
     [
-      "안정환",
+      "내가",
       2
     ],
     [
-      "내가",
+      "안정환",
       2
     ],
     [
@@ -2531,7 +2639,7 @@
       2
     ]
   ],
-  "total_topics_generated": 20,
-  "valid_topics": 20,
+  "total_topics_generated": 22,
+  "valid_topics": 22,
   "excluded_duplicates": 0
 }
