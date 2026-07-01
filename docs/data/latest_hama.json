@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-07-01 15:33:45",
+  "scan_time": "2026-07-01 18:58:20",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -724,35 +724,6 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"박미선\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 박미선",
-          "article_count": 3,
-          "source_article": "박미선♥이봉원 아들 배우 최상엽...부모 후광 대신 '성 바꾸고 오디션'",
-          "source_url": "https://m.entertain.naver.com/article/416/0000324598",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "박미선"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
           "title": "\"배우\" 관련 화제 스타 TOP10",
           "angle_type": "👤 배우",
           "article_count": 3,
@@ -770,6 +741,35 @@
             "matched_title": "복싱 금메달 리스트가 배우? 운동선수 출신 스타 TOP 10 #연예인 #연예계소식",
             "matched_views": 57405,
             "reason": "기간 경과 162일"
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"박미선\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 박미선",
+          "article_count": 3,
+          "source_article": "박미선♥이봉원 아들 배우 최상엽...부모 후광 대신 '성 바꾸고 오디션'",
+          "source_url": "https://m.entertain.naver.com/article/416/0000324598",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "박미선"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
           },
           "table": {
             "headers": [
@@ -903,15 +903,11 @@
           3
         ],
         [
-          "박미선",
-          3
-        ],
-        [
           "배우",
           3
         ],
         [
-          "동상이몽",
+          "박미선",
           3
         ],
         [
@@ -919,8 +915,16 @@
           3
         ],
         [
+          "동상이몽",
+          3
+        ],
+        [
           "파격",
           3
+        ],
+        [
+          "반응",
+          2
         ],
         [
           "친모",
@@ -931,15 +935,11 @@
           2
         ],
         [
-          "소재",
-          2
-        ],
-        [
-          "반응",
-          2
-        ],
-        [
           "수사",
+          2
+        ],
+        [
+          "소재",
           2
         ],
         [
@@ -951,11 +951,11 @@
           2
         ],
         [
-          "이봉원",
+          "바꾸고",
           2
         ],
         [
-          "바꾸고",
+          "최상엽",
           2
         ]
       ],
@@ -985,15 +985,11 @@
           3
         ],
         [
-          "박미선",
-          3
-        ],
-        [
           "배우",
           3
         ],
         [
-          "동상이",
+          "박미선",
           3
         ],
         [
@@ -1001,8 +997,16 @@
           3
         ],
         [
+          "동상이",
+          3
+        ],
+        [
           "파격",
           3
+        ],
+        [
+          "반응",
+          2
         ],
         [
           "친모",
@@ -1013,11 +1017,7 @@
           2
         ],
         [
-          "소재",
-          2
-        ],
-        [
-          "반응",
+          "수사",
           2
         ]
       ],
@@ -1091,7 +1091,7 @@
         {
           "title": "\"월드컵\" 관련 화제 스타 TOP10",
           "angle_type": "👤 월드컵",
-          "article_count": 4,
+          "article_count": 7,
           "source_article": "\"한국 월드컵 조기 탈락했으니\" 김민재 '스틸 작전' 본격 돌입…\"이스탄불 더비 여름에도 발발\" 突매체 전망→뮌헨 잔류 vs 카르탈 감독 재회 vs 라이벌 러브콜 충돌 격화",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -1099,7 +1099,7 @@
             "월드컵"
           ],
           "template": "인맥",
-          "score": 6.5,
+          "score": 7.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -1147,20 +1147,16 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 2,
-          "source_article": "장윤정 전성기때부터 100억은 벌어겠죠?",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202607020116872169&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "title": "\"잉글랜\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 잉글랜",
+          "article_count": 4,
+          "source_article": "오늘 잉글랜드 경기를 보면서 이해를 못하고 있는 분",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202607020116874122&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
           "source_name": "MLB파크 불펜",
           "related_names": [
-            "서울부",
-            "동산",
-            "비정상",
-            "적이긴",
-            "장윤정"
+            "잉글랜"
           ],
-          "template": "자산 서열",
+          "template": "인맥",
           "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
@@ -1172,9 +1168,9 @@
           "table": {
             "headers": [
               "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
+              "분류",
+              "이슈 내용",
+              "현재 상황"
             ]
           },
           "channel": "초구딱"
@@ -1241,15 +1237,15 @@
       "keyword_freq": [
         [
           "감독",
-          4
+          5
+        ],
+        [
+          "월드컵",
+          5
         ],
         [
           "승부예측",
           4
-        ],
-        [
-          "월드컵",
-          3
         ],
         [
           "안내",
@@ -1260,6 +1256,14 @@
           3
         ],
         [
+          "잉글랜드",
+          3
+        ],
+        [
+          "클린스만",
+          2
+        ],
+        [
           "작심",
           2
         ],
@@ -1268,23 +1272,27 @@
           2
         ],
         [
-          "클린스만",
-          2
-        ],
-        [
-          "제외",
-          2
-        ],
-        [
           "공지",
           2
         ],
         [
-          "김진규",
-          1
+          "같은",
+          2
         ],
         [
-          "송민규",
+          "토트넘",
+          2
+        ],
+        [
+          "음바페",
+          2
+        ],
+        [
+          "케인",
+          2
+        ],
+        [
+          "포함",
           1
         ],
         [
@@ -1292,19 +1300,7 @@
           1
         ],
         [
-          "프로축구연맹",
-          1
-        ],
-        [
-          "기성용",
-          1
-        ],
-        [
-          "포함",
-          1
-        ],
-        [
-          "자격",
+          "김진규",
           1
         ],
         [
@@ -1312,25 +1308,29 @@
           1
         ],
         [
-          "일본은",
+          "프로축구연맹",
           1
         ],
         [
-          "홍명보",
+          "자격",
           1
         ]
       ],
       "name_freq": [
         [
-          "감독",
-          4
+          "월드컵",
+          7
         ],
         [
-          "월드컵",
-          4
+          "감독",
+          5
         ],
         [
           "승부예",
+          4
+        ],
+        [
+          "잉글랜",
           4
         ],
         [
@@ -1342,10 +1342,6 @@
           3
         ],
         [
-          "작심",
-          2
-        ],
-        [
           "독일",
           2
         ],
@@ -1354,19 +1350,31 @@
           2
         ],
         [
-          "제외",
+          "작심",
           2
         ],
         [
           "공지",
           2
+        ],
+        [
+          "같은",
+          2
+        ],
+        [
+          "토트넘",
+          2
+        ],
+        [
+          "음바페",
+          2
+        ],
+        [
+          "케인",
+          2
         ]
       ],
       "angle_scores": [
-        [
-          "자산·몸값",
-          2
-        ],
         [
           "스포츠",
           10
@@ -1686,35 +1694,6 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"박미선\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 박미선",
-      "article_count": 3,
-      "source_article": "박미선♥이봉원 아들 배우 최상엽...부모 후광 대신 '성 바꾸고 오디션'",
-      "source_url": "https://m.entertain.naver.com/article/416/0000324598",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "박미선"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"배우\" 관련 화제 스타 TOP10",
       "angle_type": "👤 배우",
       "article_count": 3,
@@ -1732,6 +1711,35 @@
         "matched_title": "복싱 금메달 리스트가 배우? 운동선수 출신 스타 TOP 10 #연예인 #연예계소식",
         "matched_views": 57405,
         "reason": "기간 경과 162일"
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"박미선\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 박미선",
+      "article_count": 3,
+      "source_article": "박미선♥이봉원 아들 배우 최상엽...부모 후광 대신 '성 바꾸고 오디션'",
+      "source_url": "https://m.entertain.naver.com/article/416/0000324598",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "박미선"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
       },
       "table": {
         "headers": [
@@ -2151,35 +2159,6 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"박미선\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 박미선",
-      "article_count": 3,
-      "source_article": "박미선♥이봉원 아들 배우 최상엽...부모 후광 대신 '성 바꾸고 오디션'",
-      "source_url": "https://m.entertain.naver.com/article/416/0000324598",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "박미선"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"배우\" 관련 화제 스타 TOP10",
       "angle_type": "👤 배우",
       "article_count": 3,
@@ -2197,6 +2176,35 @@
         "matched_title": "복싱 금메달 리스트가 배우? 운동선수 출신 스타 TOP 10 #연예인 #연예계소식",
         "matched_views": 57405,
         "reason": "기간 경과 162일"
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"박미선\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 박미선",
+      "article_count": 3,
+      "source_article": "박미선♥이봉원 아들 배우 최상엽...부모 후광 대신 '성 바꾸고 오디션'",
+      "source_url": "https://m.entertain.naver.com/article/416/0000324598",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "박미선"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
       },
       "table": {
         "headers": [
@@ -2339,7 +2347,7 @@
     {
       "title": "\"월드컵\" 관련 화제 스타 TOP10",
       "angle_type": "👤 월드컵",
-      "article_count": 4,
+      "article_count": 7,
       "source_article": "\"한국 월드컵 조기 탈락했으니\" 김민재 '스틸 작전' 본격 돌입…\"이스탄불 더비 여름에도 발발\" 突매체 전망→뮌헨 잔류 vs 카르탈 감독 재회 vs 라이벌 러브콜 충돌 격화",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -2347,7 +2355,7 @@
         "월드컵"
       ],
       "template": "인맥",
-      "score": 6.5,
+      "score": 7.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2395,20 +2403,16 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 2,
-      "source_article": "장윤정 전성기때부터 100억은 벌어겠죠?",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202607020116872169&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "\"잉글랜\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 잉글랜",
+      "article_count": 4,
+      "source_article": "오늘 잉글랜드 경기를 보면서 이해를 못하고 있는 분",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202607020116874122&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "서울부",
-        "동산",
-        "비정상",
-        "적이긴",
-        "장윤정"
+        "잉글랜"
       ],
-      "template": "자산 서열",
+      "template": "인맥",
       "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
@@ -2420,9 +2424,9 @@
       "table": {
         "headers": [
           "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "초구딱"
@@ -2512,15 +2516,11 @@
       3
     ],
     [
-      "박미선",
-      3
-    ],
-    [
       "배우",
       3
     ],
     [
-      "동상이몽",
+      "박미선",
       3
     ],
     [
@@ -2528,8 +2528,16 @@
       3
     ],
     [
+      "동상이몽",
+      3
+    ],
+    [
       "파격",
       3
+    ],
+    [
+      "반응",
+      2
     ],
     [
       "친모",
@@ -2540,15 +2548,11 @@
       2
     ],
     [
-      "소재",
-      2
-    ],
-    [
-      "반응",
-      2
-    ],
-    [
       "수사",
+      2
+    ],
+    [
+      "소재",
       2
     ],
     [
@@ -2560,11 +2564,11 @@
       2
     ],
     [
-      "이봉원",
+      "바꾸고",
       2
     ],
     [
-      "바꾸고",
+      "최상엽",
       2
     ]
   ],
@@ -2594,15 +2598,11 @@
       3
     ],
     [
-      "박미선",
-      3
-    ],
-    [
       "배우",
       3
     ],
     [
-      "동상이",
+      "박미선",
       3
     ],
     [
@@ -2610,8 +2610,16 @@
       3
     ],
     [
+      "동상이",
+      3
+    ],
+    [
       "파격",
       3
+    ],
+    [
+      "반응",
+      2
     ],
     [
       "친모",
@@ -2622,11 +2630,7 @@
       2
     ],
     [
-      "소재",
-      2
-    ],
-    [
-      "반응",
+      "수사",
       2
     ]
   ],
