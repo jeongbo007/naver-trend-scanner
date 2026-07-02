@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-07-02 18:24:27",
+  "scan_time": "2026-07-02 22:03:07",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,9 +8,9 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 30
+    "MLB파크 불펜": 0
   },
-  "total_articles": 80,
+  "total_articles": 50,
   "articles": [
     {
       "title": "\"나를 원했는데 기용하지 않았다\" 양민혁 충격 발언 나오게 만든 장본인...램파드 감독, 코번트리 시티와 재계약",
@@ -47,348 +47,12 @@
       "views": 66977,
       "rank": 18,
       "channel": "초구딱"
-    },
-    {
-      "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 1,
-      "channel": "초구딱"
-    },
-    {
-      "title": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 2,
-      "channel": "초구딱"
-    },
-    {
-      "title": "🛠️[공지] 해외 접속 장애 관련 안내_260522🛠️",
-      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202605220000002082",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 3,
-      "channel": "초구딱"
-    },
-    {
-      "title": "⚽[공지] 월드컵 기간 내 전용 게시판 운영 예정 안내⚽",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002102",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 4,
-      "channel": "초구딱"
-    },
-    {
-      "title": "🏆[7/2 UPDATE] 2026 북중미월드컵 승부예측 이벤트🏆",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606100116098223",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 5,
-      "channel": "초구딱"
-    },
-    {
-      "title": "🏆7/3(금) 2026 WC 승부예측 바로가기 [32강]🏆",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606290116776628",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 6,
-      "channel": "초구딱"
-    },
-    {
-      "title": "🏆7/4(토) 2026 WC 승부예측 바로가기 [32강]🏆",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606290116777843",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 7,
-      "channel": "초구딱"
-    },
-    {
-      "title": "🏆7/5(일) 2026 WC 승부예측 바로가기 [16강]🏆",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202607010116841749",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 8,
-      "channel": "초구딱"
-    },
-    {
-      "title": "미장 반도체~여럿 폭락해도 다우나 다른곳 계속 순환매임",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607030116907650&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 9,
-      "channel": "초구딱"
-    },
-    {
-      "title": "내일 국장 곡소리 제대로 나겠는데여",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607030116907638&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 132,
-      "rank": 10,
-      "channel": "초구딱"
-    },
-    {
-      "title": "세계) 한국 보다 앞서는 나라는?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607030116907635&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 49,
-      "rank": 11,
-      "channel": "초구딱"
-    },
-    {
-      "title": "이 시간대에 월드컵 축구 안하니 이상하네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607030116907632&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 30,
-      "rank": 12,
-      "channel": "초구딱"
-    },
-    {
-      "title": "장급락하면 무조건 낙폭 절반은 하락하던 음식료도 오름",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607030116907626&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 180,
-      "rank": 13,
-      "channel": "초구딱"
-    },
-    {
-      "title": "진짜 빅숏이 도래했네요.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607030116907617&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 448,
-      "rank": 14,
-      "channel": "초구딱"
-    },
-    {
-      "title": "요즘 야한 여배우가 너무 없는 듯",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607030116907608&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 146,
-      "rank": 15,
-      "channel": "초구딱"
-    },
-    {
-      "title": "아이러니한게 이란전쟁 때 반도체 떡상이 이상하긴 했음",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607030116907602&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 239,
-      "rank": 16,
-      "channel": "초구딱"
-    },
-    {
-      "title": "반도체 공급과잉으로 주가하락? 앞으로의 전망예상",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607030116907599&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 290,
-      "rank": 17,
-      "channel": "초구딱"
-    },
-    {
-      "title": "코스피 나락 간다고 여러번 글 올렸습니다.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607030116907596&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 250,
-      "rank": 18,
-      "channel": "초구딱"
-    },
-    {
-      "title": "명탐정 코난: 하이웨이의 타천사 국내 개봉 8월 12일 듯요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607030116907593&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 69,
-      "rank": 19,
-      "channel": "초구딱"
-    },
-    {
-      "title": "코스피 야선 마이너스 4.5% ㄷㄷㄷ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607030116907590&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 316,
-      "rank": 20,
-      "channel": "초구딱"
-    },
-    {
-      "title": "반도체 주주 분들 살아계십니까..ㄷㄷㄷㄷㄷ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607030116907587&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 599,
-      "rank": 21,
-      "channel": "초구딱"
-    },
-    {
-      "title": "요즘 분위기가",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607030116907581&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=kakao.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 559,
-      "rank": 22,
-      "channel": "초구딱"
-    },
-    {
-      "title": "할머니의 본명.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607030116907578&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 122,
-      "rank": 23,
-      "channel": "초구딱"
-    },
-    {
-      "title": "하츠투하츠 멤버들 노래 실력이 생각보다 괜찮군요.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607030116907575&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 82,
-      "rank": 24,
-      "channel": "초구딱"
-    },
-    {
-      "title": "크보 9개 구단들. 키움에 반발 심하다",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607030116907572&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 695,
-      "rank": 25,
-      "channel": "초구딱"
-    },
-    {
-      "title": "극여초 부서 오고 느낀 점",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607030116907569&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 236,
-      "rank": 26,
-      "channel": "초구딱"
-    },
-    {
-      "title": "반도체 폭락하는거 팀쿡이 창신메모리 쓴다는거 지분이 어느정도인가요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607030116907566&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 753,
-      "rank": 27,
-      "channel": "초구딱"
-    },
-    {
-      "title": "속슬 170도 깨질듯하네요 반도체 시즌 종료.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607030116907563&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 917,
-      "rank": 28,
-      "channel": "초구딱"
-    },
-    {
-      "title": "영턱스 정, 유피 뿌요뿌요, 자자 버스안에서",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607030116907560&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 142,
-      "rank": 29,
-      "channel": "초구딱"
-    },
-    {
-      "title": "반도체는 망할일이 없죠",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607030116907554&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 950,
-      "rank": 30,
-      "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
       "article_count": 46,
       "topics": [
-        {
-          "title": "\"토트넘, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 5,
-          "source_article": "'초대박' 이영표·손흥민·양민혁 이어 '韓 4호' 탄생 가능성 떴다…토트넘, 이강인 영입 관심→아랍 구단은 연봉 300억 제안",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "토트넘",
-            "이강인",
-            "연봉",
-            "제안",
-            "아빠가"
-          ],
-          "template": "자산 서열",
-          "score": 7.9,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 6,
-          "source_article": "월드컵 졸전 탈락 원인, \"아내·여자친구\" 지목...\"매일 자유로운 가족의 날 연속\" 전설 마테우스, 독일 굴욕적 패배에 분통",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "배우",
-            "최상엽",
-            "알고보",
-            "박미선",
-            "아들이"
-          ],
-          "template": "동갑내기",
-          "score": 7.6,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
         {
           "title": "\"월드컵\" 관련 화제 스타 TOP10",
           "angle_type": "👤 월드컵",
@@ -419,18 +83,51 @@
           "channel": "정보주는하마"
         },
         {
+          "title": "\"토트넘, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 3,
+          "source_article": "'초대박' 이영표·손흥민·양민혁 이어 '韓 4호' 탄생 가능성 떴다…토트넘, 이강인 영입 관심→아랍 구단은 연봉 300억 제안",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "토트넘",
+            "이강인",
+            "연봉",
+            "제안",
+            "아빠가"
+          ],
+          "template": "자산 서열",
+          "score": 7.4,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
           "title": "\"폭발, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 3,
+          "article_count": 4,
           "source_article": "\"홍명보 감독보다 더 큰 재앙이 올 수도 있다\" 축구 팬들 우려 폭발...월드컵 실패 쇼크→아시안게임에서는 반등할까",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "폭발",
-            "홍명보",
-            "감독보",
-            "재앙이",
-            "수도"
+            "함소원",
+            "주차",
+            "전봇대",
+            "충돌"
           ],
           "template": "스포츠 기록",
           "score": 7.3,
@@ -481,17 +178,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "title": "\"기성용 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
           "angle_type": "결혼·이혼",
-          "article_count": 7,
-          "source_article": "기성용, ♥한혜진과 결혼 13주년 '만삭' 사진 공개..\"나만 늙었다\"",
-          "source_url": "https://m.entertain.naver.com/article/109/0005564329",
+          "article_count": 8,
+          "source_article": "남궁민, 시청률 참패 쿨한 인정..\"'김부장'과 다른 깊이감, '결혼의 완성'\"",
+          "source_url": "https://m.entertain.naver.com/article/108/0003449134",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
+            "기성용",
+            "한혜진",
             "결혼",
-            "출산",
-            "한다감",
-            "임산부",
+            "만삭",
             "임신"
           ],
           "template": "결혼 화제",
@@ -509,6 +206,39 @@
               "배우자",
               "결혼 시점",
               "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"배우이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+          "angle_type": "가족·혈연",
+          "article_count": 7,
+          "source_article": "배우 최상엽, 알고보니 박미선 아들이었다 \"이봉원도 몰라, 성 바꾸고 조용히 활동\"",
+          "source_url": "https://m.entertain.naver.com/article/415/0000049788",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "배우",
+            "최상엽",
+            "박미선",
+            "이봉원",
+            "바꾸고"
+          ],
+          "template": "동갑내기",
+          "score": 6.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "나이",
+              "대표작",
+              "현재 활동"
             ]
           },
           "channel": "정보주는하마"
@@ -543,45 +273,12 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 4,
-          "source_article": "이런 선수가 한국에서 뛰었다니! 韓 20승 평정→美 복귀, 스위퍼로 ML 강타선 제압…5이닝 3실점 ‘시즌 3승’",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "간경화",
-            "직전",
-            "고지용",
-            "개월",
-            "금주하"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 6.6,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
           "title": "\"논란에까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
           "angle_type": "논란·사건",
           "article_count": 3,
-          "source_article": "'스타벅스 가야지' 배재고 논란에…이순철 해설위원 “지도자들 깊이 반성해야”",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "source_article": "장원영, 특혜 논란에 모자 벗었더니…이번엔 민낯 품평 쏟아졌다",
+          "source_url": "https://m.entertain.naver.com/article/144/0001124088",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "논란에",
             "장원영",
@@ -607,6 +304,68 @@
             ]
           },
           "channel": "정보주는하마"
+        },
+        {
+          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 3,
+          "source_article": "'188cm' 이재욱, 엄마·누나 비주얼도 美쳤다…군 입대 후 첫 근황",
+          "source_url": "https://m.entertain.naver.com/article/109/0005563722",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "이재욱",
+            "엄마",
+            "누나",
+            "비주얼",
+            "쳤다"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"깜짝\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 깜짝",
+          "article_count": 3,
+          "source_article": "조혜련, 남양주 집 최초 공개...♥2세 연하 남편 깜짝 등장 \"얼굴 공개는 NO\"",
+          "source_url": "https://m.entertain.naver.com/article/076/0004421642",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "깜짝"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
         }
       ],
       "keyword_freq": [
@@ -615,19 +374,63 @@
           6
         ],
         [
+          "깜짝",
+          3
+        ],
+        [
+          "폭발",
+          3
+        ],
+        [
           "이강인",
           3
+        ],
+        [
+          "배우",
+          2
+        ],
+        [
+          "최상엽",
+          2
+        ],
+        [
+          "바꾸고",
+          2
+        ],
+        [
+          "박미선",
+          2
+        ],
+        [
+          "김제동",
+          2
+        ],
+        [
+          "얼굴",
+          2
+        ],
+        [
+          "포착",
+          2
+        ],
+        [
+          "기성용",
+          2
+        ],
+        [
+          "만삭",
+          2
         ],
         [
           "결혼",
           2
         ],
         [
-          "논란에",
+          "친모",
           2
         ],
         [
-          "팬들",
+          "장윤정",
           2
         ],
         [
@@ -635,19 +438,7 @@
           2
         ],
         [
-          "원하는",
-          2
-        ],
-        [
-          "임산부",
-          2
-        ],
-        [
-          "한다감",
-          2
-        ],
-        [
-          "출산",
+          "팬들",
           2
         ],
         [
@@ -655,39 +446,7 @@
           2
         ],
         [
-          "깜짝",
-          2
-        ],
-        [
-          "연하",
-          2
-        ],
-        [
-          "임신",
-          2
-        ],
-        [
-          "서인영",
-          2
-        ],
-        [
-          "조민아",
-          2
-        ],
-        [
-          "가장",
-          2
-        ],
-        [
-          "순간",
-          2
-        ],
-        [
-          "사업",
-          2
-        ],
-        [
-          "배재고",
+          "눈물",
           2
         ]
       ],
@@ -701,62 +460,62 @@
           4
         ],
         [
+          "깜짝",
+          3
+        ],
+        [
+          "폭발",
+          3
+        ],
+        [
           "홍명보",
           3
         ],
         [
-          "결혼",
+          "배우",
           2
         ],
         [
-          "논란에",
+          "최상엽",
           2
         ],
         [
-          "팬들",
+          "바꾸고",
           2
         ],
         [
-          "황정민",
+          "이봉원",
           2
         ],
         [
-          "원하는",
+          "박미선",
           2
         ],
         [
-          "임산부",
+          "김제동",
           2
         ],
         [
-          "한다감",
+          "얼굴",
           2
         ],
         [
-          "출산",
+          "포착",
           2
         ],
         [
-          "남편",
+          "기성용",
           2
         ],
         [
-          "깜짝",
-          2
-        ],
-        [
-          "연하",
-          2
-        ],
-        [
-          "임신",
+          "한혜진",
           2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
-          5
+          3
         ],
         [
           "논란·사건",
@@ -764,24 +523,24 @@
         ],
         [
           "결혼·이혼",
-          7
+          8
         ],
         [
           "복귀·근황",
-          4
-        ],
-        [
-          "스포츠",
           3
         ],
         [
+          "스포츠",
+          4
+        ],
+        [
           "가족·혈연",
-          6
+          7
         ]
       ]
     },
     "초구딱": {
-      "article_count": 34,
+      "article_count": 4,
       "topics": [
         {
           "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
@@ -815,172 +574,11 @@
             ]
           },
           "channel": "초구딱"
-        },
-        {
-          "title": "\"반도체\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 반도체",
-          "article_count": 7,
-          "source_article": "미장 반도체~여럿 폭락해도 다우나 다른곳 계속 순환매임",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202607030116907650&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "반도체"
-          ],
-          "template": "인맥",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"승부예\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 승부예",
-          "article_count": 4,
-          "source_article": "🏆[7/2 UPDATE] 2026 북중미월드컵 승부예측 이벤트🏆",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606100116098223",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "승부예"
-          ],
-          "template": "인맥",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"월드컵\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 월드컵",
-          "article_count": 3,
-          "source_article": "⚽[공지] 월드컵 기간 내 전용 게시판 운영 예정 안내⚽",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002102",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "월드컵"
-          ],
-          "template": "인맥",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"안내\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 안내",
-          "article_count": 3,
-          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "안내"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"바로가\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 바로가",
-          "article_count": 3,
-          "source_article": "🏆7/3(금) 2026 WC 승부예측 바로가기 [32강]🏆",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606290116776628",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "바로가"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
         [
-          "반도체",
-          6
-        ],
-        [
-          "승부예측",
-          4
-        ],
-        [
           "감독",
-          3
-        ],
-        [
-          "안내",
-          3
-        ],
-        [
-          "바로가기",
           3
         ],
         [
@@ -988,39 +586,11 @@
           2
         ],
         [
-          "축구",
-          2
-        ],
-        [
-          "공지",
-          2
-        ],
-        [
-          "월드컵",
-          2
-        ],
-        [
-          "요즘",
-          2
-        ],
-        [
-          "나를",
-          1
-        ],
-        [
-          "램파드",
+          "나오게",
           1
         ],
         [
           "양민혁",
-          1
-        ],
-        [
-          "원했는데",
-          1
-        ],
-        [
-          "기용하지",
           1
         ],
         [
@@ -1032,6 +602,30 @@
           1
         ],
         [
+          "기용하지",
+          1
+        ],
+        [
+          "나를",
+          1
+        ],
+        [
+          "장본인",
+          1
+        ],
+        [
+          "원했는데",
+          1
+        ],
+        [
+          "시티와",
+          1
+        ],
+        [
+          "램파드",
+          1
+        ],
+        [
           "코번트리",
           1
         ],
@@ -1040,57 +634,37 @@
           1
         ],
         [
-          "나오게",
+          "감독도",
+          1
+        ],
+        [
+          "아냐",
+          1
+        ],
+        [
+          "년간",
+          1
+        ],
+        [
+          "축구",
+          1
+        ],
+        [
+          "나가",
+          1
+        ],
+        [
+          "홍명보",
           1
         ]
       ],
       "name_freq": [
         [
-          "반도체",
-          7
-        ],
-        [
-          "승부예",
-          4
-        ],
-        [
           "감독",
           3
         ],
         [
-          "안내",
-          3
-        ],
-        [
-          "월드컵",
-          3
-        ],
-        [
-          "바로가",
-          3
-        ],
-        [
           "재계약",
-          2
-        ],
-        [
-          "축구",
-          2
-        ],
-        [
-          "공지",
-          2
-        ],
-        [
-          "이상하",
-          2
-        ],
-        [
-          "네요",
-          2
-        ],
-        [
-          "요즘",
           2
         ]
       ],
@@ -1135,220 +709,9 @@
         ]
       },
       "channel": "초구딱"
-    },
-    {
-      "title": "\"반도체\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 반도체",
-      "article_count": 7,
-      "source_article": "미장 반도체~여럿 폭락해도 다우나 다른곳 계속 순환매임",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202607030116907650&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "반도체"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"승부예\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 승부예",
-      "article_count": 4,
-      "source_article": "🏆[7/2 UPDATE] 2026 북중미월드컵 승부예측 이벤트🏆",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606100116098223",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "승부예"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"월드컵\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 월드컵",
-      "article_count": 3,
-      "source_article": "⚽[공지] 월드컵 기간 내 전용 게시판 운영 예정 안내⚽",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002102",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "월드컵"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
-      "article_count": 3,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "안내"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"바로가\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 바로가",
-      "article_count": 3,
-      "source_article": "🏆7/3(금) 2026 WC 승부예측 바로가기 [32강]🏆",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606290116776628",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "바로가"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
     }
   ],
   "all_topics": [
-    {
-      "title": "\"토트넘, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 5,
-      "source_article": "'초대박' 이영표·손흥민·양민혁 이어 '韓 4호' 탄생 가능성 떴다…토트넘, 이강인 영입 관심→아랍 구단은 연봉 300억 제안",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "토트넘",
-        "이강인",
-        "연봉",
-        "제안",
-        "아빠가"
-      ],
-      "template": "자산 서열",
-      "score": 7.9,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 6,
-      "source_article": "월드컵 졸전 탈락 원인, \"아내·여자친구\" 지목...\"매일 자유로운 가족의 날 연속\" 전설 마테우스, 독일 굴욕적 패배에 분통",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "배우",
-        "최상엽",
-        "알고보",
-        "박미선",
-        "아들이"
-      ],
-      "template": "동갑내기",
-      "score": 7.6,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
     {
       "title": "\"월드컵\" 관련 화제 스타 TOP10",
       "angle_type": "👤 월드컵",
@@ -1379,18 +742,51 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"토트넘, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 3,
+      "source_article": "'초대박' 이영표·손흥민·양민혁 이어 '韓 4호' 탄생 가능성 떴다…토트넘, 이강인 영입 관심→아랍 구단은 연봉 300억 제안",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "토트넘",
+        "이강인",
+        "연봉",
+        "제안",
+        "아빠가"
+      ],
+      "template": "자산 서열",
+      "score": 7.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"폭발, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 3,
+      "article_count": 4,
       "source_article": "\"홍명보 감독보다 더 큰 재앙이 올 수도 있다\" 축구 팬들 우려 폭발...월드컵 실패 쇼크→아시안게임에서는 반등할까",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "폭발",
-        "홍명보",
-        "감독보",
-        "재앙이",
-        "수도"
+        "함소원",
+        "주차",
+        "전봇대",
+        "충돌"
       ],
       "template": "스포츠 기록",
       "score": 7.3,
@@ -1441,17 +837,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "title": "\"기성용 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
       "angle_type": "결혼·이혼",
-      "article_count": 7,
-      "source_article": "기성용, ♥한혜진과 결혼 13주년 '만삭' 사진 공개..\"나만 늙었다\"",
-      "source_url": "https://m.entertain.naver.com/article/109/0005564329",
+      "article_count": 8,
+      "source_article": "남궁민, 시청률 참패 쿨한 인정..\"'김부장'과 다른 깊이감, '결혼의 완성'\"",
+      "source_url": "https://m.entertain.naver.com/article/108/0003449134",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
+        "기성용",
+        "한혜진",
         "결혼",
-        "출산",
-        "한다감",
-        "임산부",
+        "만삭",
         "임신"
       ],
       "template": "결혼 화제",
@@ -1469,6 +865,39 @@
           "배우자",
           "결혼 시점",
           "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"배우이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 7,
+      "source_article": "배우 최상엽, 알고보니 박미선 아들이었다 \"이봉원도 몰라, 성 바꾸고 조용히 활동\"",
+      "source_url": "https://m.entertain.naver.com/article/415/0000049788",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "배우",
+        "최상엽",
+        "박미선",
+        "이봉원",
+        "바꾸고"
+      ],
+      "template": "동갑내기",
+      "score": 6.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "나이",
+          "대표작",
+          "현재 활동"
         ]
       },
       "channel": "정보주는하마"
@@ -1503,45 +932,12 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 4,
-      "source_article": "이런 선수가 한국에서 뛰었다니! 韓 20승 평정→美 복귀, 스위퍼로 ML 강타선 제압…5이닝 3실점 ‘시즌 3승’",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "간경화",
-        "직전",
-        "고지용",
-        "개월",
-        "금주하"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 6.6,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"논란에까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
       "angle_type": "논란·사건",
       "article_count": 3,
-      "source_article": "'스타벅스 가야지' 배재고 논란에…이순철 해설위원 “지도자들 깊이 반성해야”",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "source_article": "장원영, 특혜 논란에 모자 벗었더니…이번엔 민낯 품평 쏟아졌다",
+      "source_url": "https://m.entertain.naver.com/article/144/0001124088",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "논란에",
         "장원영",
@@ -1563,6 +959,68 @@
           "이름",
           "소속·직업",
           "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 3,
+      "source_article": "'188cm' 이재욱, 엄마·누나 비주얼도 美쳤다…군 입대 후 첫 근황",
+      "source_url": "https://m.entertain.naver.com/article/109/0005563722",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "이재욱",
+        "엄마",
+        "누나",
+        "비주얼",
+        "쳤다"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"깜짝\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 깜짝",
+      "article_count": 3,
+      "source_article": "조혜련, 남양주 집 최초 공개...♥2세 연하 남편 깜짝 등장 \"얼굴 공개는 NO\"",
+      "source_url": "https://m.entertain.naver.com/article/076/0004421642",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "깜짝"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
           "현재 상황"
         ]
       },
@@ -1600,151 +1058,6 @@
         ]
       },
       "channel": "초구딱"
-    },
-    {
-      "title": "\"반도체\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 반도체",
-      "article_count": 7,
-      "source_article": "미장 반도체~여럿 폭락해도 다우나 다른곳 계속 순환매임",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202607030116907650&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "반도체"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"승부예\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 승부예",
-      "article_count": 4,
-      "source_article": "🏆[7/2 UPDATE] 2026 북중미월드컵 승부예측 이벤트🏆",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606100116098223",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "승부예"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"월드컵\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 월드컵",
-      "article_count": 3,
-      "source_article": "⚽[공지] 월드컵 기간 내 전용 게시판 운영 예정 안내⚽",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002102",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "월드컵"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
-      "article_count": 3,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "안내"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"바로가\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 바로가",
-      "article_count": 3,
-      "source_article": "🏆7/3(금) 2026 WC 승부예측 바로가기 [32강]🏆",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606290116776628",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "바로가"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
@@ -1753,19 +1066,63 @@
       6
     ],
     [
+      "깜짝",
+      3
+    ],
+    [
+      "폭발",
+      3
+    ],
+    [
       "이강인",
       3
+    ],
+    [
+      "배우",
+      2
+    ],
+    [
+      "최상엽",
+      2
+    ],
+    [
+      "바꾸고",
+      2
+    ],
+    [
+      "박미선",
+      2
+    ],
+    [
+      "김제동",
+      2
+    ],
+    [
+      "얼굴",
+      2
+    ],
+    [
+      "포착",
+      2
+    ],
+    [
+      "기성용",
+      2
+    ],
+    [
+      "만삭",
+      2
     ],
     [
       "결혼",
       2
     ],
     [
-      "논란에",
+      "친모",
       2
     ],
     [
-      "팬들",
+      "장윤정",
       2
     ],
     [
@@ -1773,19 +1130,7 @@
       2
     ],
     [
-      "원하는",
-      2
-    ],
-    [
-      "임산부",
-      2
-    ],
-    [
-      "한다감",
-      2
-    ],
-    [
-      "출산",
+      "팬들",
       2
     ],
     [
@@ -1793,39 +1138,7 @@
       2
     ],
     [
-      "깜짝",
-      2
-    ],
-    [
-      "연하",
-      2
-    ],
-    [
-      "임신",
-      2
-    ],
-    [
-      "서인영",
-      2
-    ],
-    [
-      "조민아",
-      2
-    ],
-    [
-      "가장",
-      2
-    ],
-    [
-      "순간",
-      2
-    ],
-    [
-      "사업",
-      2
-    ],
-    [
-      "배재고",
+      "눈물",
       2
     ]
   ],
@@ -1839,59 +1152,59 @@
       4
     ],
     [
+      "깜짝",
+      3
+    ],
+    [
+      "폭발",
+      3
+    ],
+    [
       "홍명보",
       3
     ],
     [
-      "결혼",
+      "배우",
       2
     ],
     [
-      "논란에",
+      "최상엽",
       2
     ],
     [
-      "팬들",
+      "바꾸고",
       2
     ],
     [
-      "황정민",
+      "이봉원",
       2
     ],
     [
-      "원하는",
+      "박미선",
       2
     ],
     [
-      "임산부",
+      "김제동",
       2
     ],
     [
-      "한다감",
+      "얼굴",
       2
     ],
     [
-      "출산",
+      "포착",
       2
     ],
     [
-      "남편",
+      "기성용",
       2
     ],
     [
-      "깜짝",
-      2
-    ],
-    [
-      "연하",
-      2
-    ],
-    [
-      "임신",
+      "한혜진",
       2
     ]
   ],
-  "total_topics_generated": 15,
-  "valid_topics": 15,
+  "total_topics_generated": 11,
+  "valid_topics": 11,
   "excluded_duplicates": 0
 }
