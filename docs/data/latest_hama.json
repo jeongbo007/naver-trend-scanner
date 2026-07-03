@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-07-03 11:22:46",
+  "scan_time": "2026-07-03 15:00:03",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,26 +8,17 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 30
+    "MLB파크 불펜": 0
   },
-  "total_articles": 80,
+  "total_articles": 50,
   "articles": [
-    {
-      "title": "\"슈퍼주니어 탈퇴하고 정치해\" 최시원, 美 법원서 악플러 신원 확보",
-      "url": "https://m.entertain.naver.com/article/586/0000133018",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 126738,
-      "rank": 1,
-      "channel": "정보주는하마"
-    },
     {
       "title": "장윤정, 모친에 영치금 넣고 생활비 줬다?…장윤정 측 \"십 수년간 절연\"",
       "url": "https://m.entertain.naver.com/article/311/0002029532",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 55763,
-      "rank": 2,
+      "views": 70378,
+      "rank": 1,
       "channel": "정보주는하마"
     },
     {
@@ -35,26 +26,8 @@
       "url": "https://m.entertain.naver.com/article/410/0001131122",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 53275,
-      "rank": 3,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "장항준♥김은희, 결혼식 사진 최초 공개..\"헤어스타일 보고 둘 다 놀라\"",
-      "url": "https://m.entertain.naver.com/article/076/0004422120",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 50617,
-      "rank": 4,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "한혜진, 파리 미용실서 31만원 헤메받더니…\"이거 맞아?\" 폭소",
-      "url": "https://m.entertain.naver.com/article/117/0004080988",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 43838,
-      "rank": 5,
+      "views": 56880,
+      "rank": 2,
       "channel": "정보주는하마"
     },
     {
@@ -62,26 +35,17 @@
       "url": "https://m.entertain.naver.com/article/076/0004422020",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 40244,
-      "rank": 6,
+      "views": 42160,
+      "rank": 3,
       "channel": "정보주는하마"
     },
     {
-      "title": "'재혼' 최정윤, ♥5세연하 남편 태도에 서운..\"결국 안 사줘\"",
-      "url": "https://m.entertain.naver.com/article/076/0004422013",
+      "title": "오윤아 예비신랑 정체는 누구?…재혼 상대는 비연예인 \"아들도 품어줘\" 눈물",
+      "url": "https://m.entertain.naver.com/article/109/0005565248",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 21586,
-      "rank": 7,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "나현영 측 “김대성과 결별한 사이…편한 선후배”",
-      "url": "https://m.entertain.naver.com/article/009/0005702382",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 20875,
-      "rank": 8,
+      "views": 41502,
+      "rank": 4,
       "channel": "정보주는하마"
     },
     {
@@ -89,90 +53,53 @@
       "url": "https://m.entertain.naver.com/article/311/0002029406",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 20860,
+      "views": 40375,
+      "rank": 5,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "장항준♥김은희, 결혼식 사진 최초 공개..\"헤어스타일 보고 둘 다 놀라\"",
+      "url": "https://m.entertain.naver.com/article/076/0004422120",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 40072,
+      "rank": 6,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"슈퍼주니어 탈퇴하고 정치해\" 최시원, 美 법원서 악플러 신원 확보",
+      "url": "https://m.entertain.naver.com/article/586/0000133018",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 21734,
+      "rank": 7,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "세븐♥이다해, 2세 성별은 '공주님'..\"내가 아빠라니, 믿기지 않아\"",
+      "url": "https://m.entertain.naver.com/article/076/0004422203",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 15635,
+      "rank": 8,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"혼인신고 완료, 이미 합가\"..오윤아, 비연예인男과 법적 부부 '재혼'",
+      "url": "https://m.entertain.naver.com/article/108/0003449824",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 15596,
       "rank": 9,
       "channel": "정보주는하마"
     },
     {
-      "title": "“장윤정 엄마, 3주전까지 연락해 금전 요구”",
-      "url": "https://m.entertain.naver.com/article/144/0001124216",
+      "title": "한혜진, 파리 미용실서 31만원 헤메받더니…\"이거 맞아?\" 폭소",
+      "url": "https://m.entertain.naver.com/article/117/0004080988",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 16678,
+      "views": 15590,
       "rank": 10,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'사망 의혹' 장윤정 母가 남긴 글 \"마지막 될 수도, 속썩여 죄송\"..현재 행방 묘연",
-      "url": "https://m.entertain.naver.com/article/108/0003449665",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 14464,
-      "rank": 11,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'조재현 딸' 조혜정, 7kg 빼더니..레드카펫 실물은 더 말랐네 '물오른 미모'",
-      "url": "https://m.entertain.naver.com/article/076/0004422011",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 11278,
-      "rank": 12,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "신지, '7살 어린' 사랑꾼 ♥남편  자랑 \"내가 주사 맞는 거 보며 울더라\"",
-      "url": "https://m.entertain.naver.com/article/415/0000049806",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 10118,
-      "rank": 13,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'간경화 직전' 고지용, 6개월 금주하고 밝아진 근황",
-      "url": "https://m.entertain.naver.com/article/440/0000035855",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 8829,
-      "rank": 14,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "tvN 또 대작 나온다…시청률 27.6% 감독→밀정물로 돌아오는 新 주말극 ('100일의거짓말')",
-      "url": "https://m.entertain.naver.com/article/312/0000766142",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 8810,
-      "rank": 15,
-      "cross_baseball": true,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'173cm' 장원영, 실물 체감샷 봤더니…땅보다 천장에 더 가까워",
-      "url": "https://m.entertain.naver.com/article/312/0000766212",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 8034,
-      "rank": 16,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "정종철 아들 귀국 “많이 컸구나” 캐나다서 최고 성적상, 대학 입학 전…애틋한 아빠 마음",
-      "url": "https://m.entertain.naver.com/article/609/0001141700",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 7480,
-      "rank": 17,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "美 미인대회 우승자, 베네수엘라 지진으로 사망",
-      "url": "https://m.entertain.naver.com/article/117/0004081173",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 7152,
-      "rank": 18,
       "channel": "정보주는하마"
     },
     {
@@ -180,26 +107,8 @@
       "url": "https://m.entertain.naver.com/article/108/0003449642",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 7100,
-      "rank": 19,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "이창섭, 선재스님 조카였다…똑닮은 투샷으로 전설의 '당근국수' 영접",
-      "url": "https://m.entertain.naver.com/article/076/0004422018",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 6973,
-      "rank": 20,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"만 4세에 국제학교 합격\"…김구라 딸 수현, 유창한 영어실력 '깜짝'",
-      "url": "https://m.entertain.naver.com/article/109/0005564781",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 6738,
-      "rank": 21,
+      "views": 15268,
+      "rank": 11,
       "channel": "정보주는하마"
     },
     {
@@ -207,35 +116,8 @@
       "url": "https://m.entertain.naver.com/article/410/0001131142",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 6424,
-      "rank": 22,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "쌈디, 자택서 수억대 시계 도난...\"시계방 CCTV로 범인 잡았다\"",
-      "url": "https://m.entertain.naver.com/article/076/0004421936",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 5348,
-      "rank": 23,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "김지민, 학교폭력 피해자였다…\"가해자 이름 기억해, 지금이라도 사과 받길\" ('사이다')",
-      "url": "https://m.entertain.naver.com/article/445/0000434167",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 4965,
-      "rank": 24,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "정준하, 결혼 16주년 만에 설움 토로 \"일본인 아내 식사량 적어‥살고 싶어 요리학원 다녔다\" ('정준하하하')",
-      "url": "https://m.entertain.naver.com/article/109/0005564941",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 4684,
-      "rank": 25,
+      "views": 15150,
+      "rank": 12,
       "channel": "정보주는하마"
     },
     {
@@ -243,26 +125,80 @@
       "url": "https://m.entertain.naver.com/article/629/0000512861",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 4411,
-      "rank": 26,
+      "views": 14737,
+      "rank": 13,
       "channel": "정보주는하마"
     },
     {
-      "title": "'두 딸 입양' 신애라, 차인표♥ '자녀 과보호'에 난감..\"버스 아닌 택시 타게 해\"",
-      "url": "https://m.entertain.naver.com/article/076/0004422049",
+      "title": "김지민, 학교폭력 피해자였다…\"가해자 이름 기억해, 지금이라도 사과 받길\" ('사이다')",
+      "url": "https://m.entertain.naver.com/article/445/0000434167",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 4338,
-      "rank": 27,
+      "views": 14705,
+      "rank": 14,
       "channel": "정보주는하마"
     },
     {
-      "title": "최시원, 올림픽공원 추정 사진 ‘빛삭’?…“용기 있다” vs “당당하면 왜 삭제?” 정치색 논란 재점화",
-      "url": "https://m.entertain.naver.com/article/144/0001124271",
+      "title": "나현영 측, 김대성과 열애설에 입 열었다…“헤어진 상태, 선후배 사이”",
+      "url": "https://m.entertain.naver.com/article/241/0003518134",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 3960,
-      "rank": 28,
+      "views": 14603,
+      "rank": 15,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "오윤아, 이혼 11년 만에 재혼…\"♥예비신랑=비연예인\" (마데핫리뷰)",
+      "url": "https://m.entertain.naver.com/article/117/0004081234",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 12728,
+      "rank": 16,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'조재현 딸' 조혜정, 7kg 빼더니..레드카펫 실물은 더 말랐네 '물오른 미모'",
+      "url": "https://m.entertain.naver.com/article/076/0004422011",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 12297,
+      "rank": 17,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "발달장애 아들도 친손자처럼…오윤아, 예비 시부모에 울컥 \"진짜 인연\"",
+      "url": "https://m.entertain.naver.com/article/109/0005565271",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 12155,
+      "rank": 18,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'재혼' 최정윤, ♥5세연하 남편 태도에 서운..\"결국 안 사줘\"",
+      "url": "https://m.entertain.naver.com/article/076/0004422013",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 10895,
+      "rank": 19,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "정종철 아들 귀국 “많이 컸구나” 캐나다서 최고 성적상, 대학 입학 전…애틋한 아빠 마음",
+      "url": "https://m.entertain.naver.com/article/609/0001141700",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 9445,
+      "rank": 20,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "이창섭, 선재스님 조카였다…똑닮은 투샷으로 전설의 '당근국수' 영접",
+      "url": "https://m.entertain.naver.com/article/076/0004422018",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 8403,
+      "rank": 21,
       "channel": "정보주는하마"
     },
     {
@@ -270,16 +206,79 @@
       "url": "https://m.entertain.naver.com/article/076/0004421991",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 3847,
+      "views": 7735,
+      "rank": 22,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'정석원♥' 백지영, 성형 전 사진에 딸 충격..\"왜 이렇게 생겼냐며 슬퍼해\"",
+      "url": "https://m.entertain.naver.com/article/076/0004422042",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 6549,
+      "rank": 23,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"안녕히 계십시오\" 장윤정 母, 사망설 속 행적 포착..3주 전 금전 요구",
+      "url": "https://m.entertain.naver.com/article/108/0003449780",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 6057,
+      "rank": 24,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'42세 출산' 이인혜 \"신랑이 아기 밥 먹여준 덕에 여유\" 뷔페서 현실 육아",
+      "url": "https://m.entertain.naver.com/article/109/0005564982",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 5957,
+      "rank": 25,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "“장윤정 엄마, 3주전까지 연락해 금전 요구”",
+      "url": "https://m.entertain.naver.com/article/144/0001124216",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 5933,
+      "rank": 26,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "이지혜, 쿨 유리 보자마자 눈물 \"나이 먹었나 봐\"",
+      "url": "https://m.entertain.naver.com/article/003/0014045435",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 5537,
+      "rank": 27,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "오윤아, 이혼 11년 만에 재혼…“발달장애 子 품어줬다” 눈물",
+      "url": "https://m.entertain.naver.com/article/382/0001281528",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 5110,
+      "rank": 28,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "오윤아 재혼 발표, 발달장애아 子와 새 출발",
+      "url": "https://m.entertain.naver.com/article/440/0000036034",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 5052,
       "rank": 29,
       "channel": "정보주는하마"
     },
     {
-      "title": "스윙스, 8년 전 정관수술했는데…\"아이가 예뻐 보여, 복원했다\"",
-      "url": "https://m.entertain.naver.com/article/312/0000766167",
+      "title": "“헤어숍은 무슨 죄” 송지효, 5년 만 밝혀진 ‘숏컷 논란’ 전말 “술 먹고 직접 잘라”",
+      "url": "https://m.entertain.naver.com/article/468/0001251579",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 3787,
+      "views": 4218,
       "rank": 30,
       "channel": "정보주는하마"
     },
@@ -288,34 +287,25 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 40098,
-      "rank": 1,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "이을용 대박! 국가대표 '장남' 이태석 이어 '차남' 이승준도 유럽행...용인 떠나 독일 3부 자르브뤼켄 이적",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 21728,
+      "views": 23138,
       "rank": 2,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"우연치고는 너무 기묘하다\"… 11개국 모조리 탈락, 월드컵 뒤흔든 '빙고의 저주'",
+      "title": "\"대한민국 최고의 팀이다\"… 3부리그에서 韓 1위 클럽까지! '대기만성 FW' 정현우, FC 서울 입단",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 21198,
+      "views": 17026,
       "rank": 3,
       "channel": "정보주는하마"
     },
     {
-      "title": "박지성, 한국 축구 재기 위해 나선다...문체부 K-축구 혁신위원회 공동위원장 선임! 이영표-박주호와 함께 한다",
+      "title": "\"손흥민은 다음 월드컵 경기에 나설 때 37세\"…美 ESPN, 한국 탈락을 '두 번째로 충격적인 결과'로 평가",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 18563,
+      "views": 14925,
       "rank": 4,
       "channel": "정보주는하마"
     },
@@ -324,8 +314,8 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 11787,
-      "rank": 8,
+      "views": 13861,
+      "rank": 5,
       "channel": "정보주는하마"
     },
     {
@@ -333,122 +323,75 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 8448,
+      "views": 13173,
+      "rank": 6,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "이을용 대박! 국가대표 '장남' 이태석 이어 '차남' 이승준도 유럽행...용인 떠나 독일 3부 자르브뤼켄 이적",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 11690,
+      "rank": 7,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "축구협회 \"월드컵 부진 축구팬들에게 사과, 감독선임 작업 오늘 시작, 회장선거 제도 고민 중\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 8502,
       "rank": 10,
       "channel": "정보주는하마"
     },
     {
-      "title": "결국 '해버지' 박지성 나선다! '韓 축구 심폐소생' 이영표-박주호-문체부와 'K-축구 혁신위원회' 출범",
+      "title": "'도망치지 않는다더니 결국 사퇴'...나겔스만, 독일 WC 32강 탈락 후 퇴진 '클롭 후임설' 급부상",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 7694,
-      "rank": 11,
+      "views": 5117,
+      "rank": 12,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"한국 탈락, 2번째로 충격적인 결과…손흥민 월드컵 출전하려면 37세 돼야\" 美 ESPN이 본 '한국의 실패'",
+      "title": "요즘 김도영만큼 KIA에서 무서운 150억원 강타자…“다리 안 죽었네요”라고 하자 “그런데 좀 피로감이”",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 4562,
-      "rank": 14,
+      "views": 5087,
+      "rank": 13,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"지금도 함께하고 있다 믿는다\" 월드컵 토너먼트 첫 골 넣은 호날두, 故 조타 잊지 않았다...16강 진출 후 추모",
+      "title": "이강인 이적료 616억! \"연봉 깎았다\"…PSG 탈출 절실했다→사우디 아닌 스페인 컴백 선택→아틀레티코행 임박",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 4468,
-      "rank": 15,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "“내 라커룸에 누가 참견하나”…홍명보·손흥민 갈등의 진실은?",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 3922,
-      "rank": 16,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "BBC가 지적한 ‘무능력’ 홍명보의 열등감 “EPL 득점왕도 한 손흥민... 왜 멀리하나?”",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 3540,
-      "rank": 18,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "파격 결단! 박지성, 韓 축구 구원 투수로 등판...최휘영 문체부 장관과 K-축구 혁신위원회 공동위원장 중책 맡기로",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 3405,
-      "rank": 19,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이러다 반쪽짜리 된다. 눈 딱 감고 있어야지\"…최후통첩 얘기했지만, 김태형은 '천재타자' 나승엽 기다린다",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 3278,
+      "views": 3800,
       "rank": 20,
       "channel": "정보주는하마"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 43,
+      "article_count": 40,
       "topics": [
         {
-          "title": "\"손흥민\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 손흥민",
-          "article_count": 3,
-          "source_article": "\"한국 탈락, 2번째로 충격적인 결과…손흥민 월드컵 출전하려면 37세 돼야\" 美 ESPN이 본 '한국의 실패'",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "손흥민"
-          ],
-          "template": "인맥",
-          "score": 7.4,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 6,
-          "source_article": "이동국 넷째 딸, 14살에 171cm 언니 추월한 '기적의 피지컬'...'슈돌' 귀여움은 여전",
-          "source_url": "https://m.entertain.naver.com/article/076/0004422020",
+          "title": "\"재혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "angle_type": "결혼·이혼",
+          "article_count": 11,
+          "source_article": "‘개그계 커플 탄생’ 김대성♥나현영 열애 중…선후배에서 연인으로",
+          "source_url": "https://m.entertain.naver.com/article/410/0001131122",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "이동국",
-            "넷째",
-            "살에",
-            "언니",
-            "추월한"
+            "재혼",
+            "오윤아",
+            "비연예",
+            "김대성",
+            "나현영"
           ],
-          "template": "동갑내기",
+          "template": "결혼 화제",
           "score": 7.1,
           "dup_check": {
             "is_duplicate": false,
@@ -460,9 +403,42 @@
           "table": {
             "headers": [
               "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 3,
+          "source_article": "'초대박!' 韓국가대표 미드필더 백승호, 월드컵 덕분에 '2억 원' 소속팀 버밍엄에 안긴다...대표팀 차출 보상금으로 제대로 '효자 노릇'",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "초대박",
+            "국가대",
+            "미드필",
+            "백승호",
+            "월드컵"
+          ],
+          "template": "자산 서열",
+          "score": 7.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
             ]
           },
           "channel": "정보주는하마"
@@ -470,7 +446,7 @@
         {
           "title": "\"월드컵 자산이 얼마?\" 월드컵급 자산가 스타 TOP10",
           "angle_type": "👤 월드컵",
-          "article_count": 4,
+          "article_count": 3,
           "source_article": "'초대박!' 韓국가대표 미드필더 백승호, 월드컵 덕분에 '2억 원' 소속팀 버밍엄에 안긴다...대표팀 차출 보상금으로 제대로 '효자 노릇'",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -497,21 +473,50 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-          "angle_type": "결혼·이혼",
-          "article_count": 5,
-          "source_article": "‘개그계 커플 탄생’ 김대성♥나현영 열애 중…선후배에서 연인으로",
-          "source_url": "https://m.entertain.naver.com/article/410/0001131122",
+          "title": "\"오윤아이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+          "angle_type": "가족·혈연",
+          "article_count": 9,
+          "source_article": "이동국 넷째 딸, 14살에 171cm 언니 추월한 '기적의 피지컬'...'슈돌' 귀여움은 여전",
+          "source_url": "https://m.entertain.naver.com/article/076/0004422020",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "결혼",
-            "정준하",
-            "개그계",
-            "커플",
-            "탄생"
+            "오윤아",
+            "아들도",
+            "이동국",
+            "넷째",
+            "살에"
+          ],
+          "template": "동갑내기",
+          "score": 6.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "나이",
+              "대표작",
+              "현재 활동"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"비연예 결혼설?\" 비연예 연애사 총정리",
+          "angle_type": "👤 비연예",
+          "article_count": 3,
+          "source_article": "오윤아 예비신랑 정체는 누구?…재혼 상대는 비연예인 \"아들도 품어줘\" 눈물",
+          "source_url": "https://m.entertain.naver.com/article/109/0005565248",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "비연예"
           ],
           "template": "결혼 화제",
-          "score": 6.8,
+          "score": 6.6,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -530,18 +535,47 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+          "title": "\"눈물 결혼설?\" 눈물 연애사 총정리",
+          "angle_type": "👤 눈물",
+          "article_count": 3,
+          "source_article": "오윤아 예비신랑 정체는 누구?…재혼 상대는 비연예인 \"아들도 품어줘\" 눈물",
+          "source_url": "https://m.entertain.naver.com/article/109/0005565248",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "눈물"
+          ],
+          "template": "결혼 화제",
+          "score": 6.6,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"이강인, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
           "angle_type": "복귀·근황",
           "article_count": 2,
           "source_article": "'이강인 이 정도였다니…' 토트넘도, 유벤투스도, 사우디도 싹다 거절→스페인 복귀에 모든 걸 걸었다",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "간경화",
-            "직전",
-            "고지용",
-            "개월",
-            "금주하"
+            "이강인",
+            "사우디",
+            "스페인",
+            "정도였",
+            "다니"
           ],
           "template": "장기 공백 복귀",
           "score": 6.5,
@@ -563,165 +597,16 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"박지성\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 박지성",
+          "title": "\"발달장 결혼설?\" 발달장 연애사 총정리",
+          "angle_type": "👤 발달장",
           "article_count": 3,
-          "source_article": "박지성, 한국 축구 재기 위해 나선다...문체부 K-축구 혁신위원회 공동위원장 선임! 이영표-박주호와 함께 한다",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "박지성"
-          ],
-          "template": "인맥",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"원회\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 원회",
-          "article_count": 3,
-          "source_article": "박지성, 한국 축구 재기 위해 나선다...문체부 K-축구 혁신위원회 공동위원장 선임! 이영표-박주호와 함께 한다",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "원회"
-          ],
-          "template": "인맥",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"축구\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 축구",
-          "article_count": 3,
-          "source_article": "박지성, 한국 축구 재기 위해 나선다...문체부 K-축구 혁신위원회 공동위원장 선임! 이영표-박주호와 함께 한다",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "축구"
-          ],
-          "template": "인맥",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "재활용 가능",
-            "matched_title": "\"임영웅, 손흥민이랑 조기축구?\" 축구 좀 찬다고 알려진 스타 TOP10 #연예인 #스포츠 #축구",
-            "matched_views": 32359,
-            "reason": "기간 경과 107일"
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"문체부\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 문체부",
-          "article_count": 3,
-          "source_article": "박지성, 한국 축구 재기 위해 나선다...문체부 K-축구 혁신위원회 공동위원장 선임! 이영표-박주호와 함께 한다",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "문체부"
-          ],
-          "template": "인맥",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"혁신위\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 혁신위",
-          "article_count": 3,
-          "source_article": "박지성, 한국 축구 재기 위해 나선다...문체부 K-축구 혁신위원회 공동위원장 선임! 이영표-박주호와 함께 한다",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "혁신위"
-          ],
-          "template": "인맥",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 3,
-          "source_article": "tvN 또 대작 나온다…시청률 27.6% 감독→밀정물로 돌아오는 新 주말극 ('100일의거짓말')",
-          "source_url": "https://m.entertain.naver.com/article/312/0000766142",
+          "source_article": "발달장애 아들도 친손자처럼…오윤아, 예비 시부모에 울컥 \"진짜 인연\"",
+          "source_url": "https://m.entertain.naver.com/article/109/0005565271",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "대작",
-            "나온다",
-            "시청률",
-            "감독",
-            "밀정물"
+            "발달장"
           ],
-          "template": "스포츠 기록",
+          "template": "결혼 화제",
           "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
@@ -732,43 +617,10 @@
           },
           "table": {
             "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-          "angle_type": "투병·건강",
-          "article_count": 3,
-          "source_article": "'사망 의혹' 장윤정 母가 남긴 글 \"마지막 될 수도, 속썩여 죄송\"..현재 행방 묘연",
-          "source_url": "https://m.entertain.naver.com/article/108/0003449665",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "사망",
-            "의혹",
-            "장윤정",
-            "남긴",
-            "마지막"
-          ],
-          "template": "투병 극복",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
               "이름",
-              "투병 질환",
-              "공백기",
-              "복귀 작품"
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
             ]
           },
           "channel": "정보주는하마"
@@ -805,55 +657,63 @@
       ],
       "keyword_freq": [
         [
+          "오윤아",
+          6
+        ],
+        [
+          "재혼",
+          6
+        ],
+        [
           "장윤정",
           4
         ],
         [
+          "눈물",
+          3
+        ],
+        [
+          "비연예인",
+          3
+        ],
+        [
           "월드컵",
-          4
-        ],
-        [
-          "박지성",
           3
-        ],
-        [
-          "축구",
-          3
-        ],
-        [
-          "혁신위원회",
-          3
-        ],
-        [
-          "손흥민",
-          3
-        ],
-        [
-          "최시원",
-          2
         ],
         [
           "나현영",
           2
         ],
         [
-          "남편",
+          "아들도",
           2
         ],
         [
-          "쌈디",
+          "예비신랑",
           2
         ],
         [
-          "사망",
+          "선택",
           2
         ],
         [
-          "마지막",
+          "사과",
           2
         ],
         [
-          "결혼",
+          "이혼",
+          2
+        ],
+        [
+          "발달장애",
+          2
+        ],
+        [
+          "요구",
+          2
+        ],
+        [
+          "금전",
           2
         ],
         [
@@ -861,65 +721,53 @@
           2
         ],
         [
-          "탈락",
+          "이강인",
           2
         ],
         [
-          "나선다",
+          "스페인",
           2
         ],
         [
-          "공동위원장",
+          "독일",
           2
         ],
         [
-          "문체부",
-          2
-        ],
-        [
-          "이영표",
-          2
-        ],
-        [
-          "신원",
+          "줬다",
           1
         ]
       ],
       "name_freq": [
         [
+          "오윤아",
+          6
+        ],
+        [
+          "재혼",
+          6
+        ],
+        [
           "장윤정",
           4
         ],
         [
+          "비연예",
+          3
+        ],
+        [
+          "눈물",
+          3
+        ],
+        [
+          "발달장",
+          3
+        ],
+        [
           "월드컵",
-          4
-        ],
-        [
-          "박지성",
           3
         ],
         [
-          "원회",
-          3
-        ],
-        [
-          "축구",
-          3
-        ],
-        [
-          "문체부",
-          3
-        ],
-        [
-          "혁신위",
-          3
-        ],
-        [
-          "손흥민",
-          3
-        ],
-        [
-          "최시원",
+          "김대성",
           2
         ],
         [
@@ -927,65 +775,65 @@
           2
         ],
         [
-          "김대성",
-          2
-        ],
-        [
           "나현영",
           2
         ],
         [
-          "남편",
+          "아들도",
           2
         ],
         [
-          "쌈디",
+          "예비신",
           2
         ],
         [
-          "사망",
+          "더니",
+          2
+        ],
+        [
+          "선택",
+          2
+        ],
+        [
+          "사과",
           2
         ]
       ],
       "angle_scores": [
         [
+          "자산·몸값",
+          3
+        ],
+        [
           "결혼·이혼",
-          5
+          11
         ],
         [
           "복귀·근황",
           2
         ],
         [
-          "투병·건강",
-          3
-        ],
-        [
-          "스포츠",
-          3
-        ],
-        [
           "가족·혈연",
-          6
+          9
         ]
       ]
     },
     "초구딱": {
-      "article_count": 37,
+      "article_count": 10,
       "topics": [
         {
           "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 6,
+          "article_count": 9,
           "source_article": "\"대한민국 탈락 이후 급히 오퍼 넣었을 가능성\" 홍명보 일본 러브콜 정말 사실일까...'J리그 2팀 감독 교체 가능성 거론'",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "감독",
             "홍명보",
+            "홈런",
             "가능성",
-            "확정",
-            "대한민"
+            "탈락"
           ],
           "template": "스포츠 기록",
           "score": 6.8,
@@ -1007,103 +855,16 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"홍명보\" 관련 화제 스타 TOP10",
+          "title": "\"홍명보, 대체 무슨 일이?\" 홍명보 관련 이슈 총정리",
           "angle_type": "👤 홍명보",
-          "article_count": 5,
+          "article_count": 4,
           "source_article": "\"대한민국 탈락 이후 급히 오퍼 넣었을 가능성\" 홍명보 일본 러브콜 정말 사실일까...'J리그 2팀 감독 교체 가능성 거론'",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "홍명보"
           ],
-          "template": "인맥",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"월드컵\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 월드컵",
-          "article_count": 4,
-          "source_article": "홍명보 감독 LA로 떠났는데…국회 \"도피 아니길, 부르면 나와야\"…월드컵 참사 청문회 증인 출석 미지수",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "월드컵"
-          ],
-          "template": "인맥",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"승부예\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 승부예",
-          "article_count": 4,
-          "source_article": "🏆[7/3 업데이트] 2026 북중미월드컵 승부예측 이벤트🏆",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606100116098223",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "승부예"
-          ],
-          "template": "인맥",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"안내\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 안내",
-          "article_count": 3,
-          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "안내"
-          ],
-          "template": "인맥",
+          "template": "논란 집합",
           "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
@@ -1115,37 +876,8 @@
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"바로가\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 바로가",
-          "article_count": 3,
-          "source_article": "🏆7/4(토) 2026 WC 승부예측 바로가기 [32강]🏆",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606290116777843",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "바로가"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
+              "소속·직업",
+              "논란 내용",
               "현재 상황"
             ]
           },
@@ -1155,184 +887,143 @@
       "keyword_freq": [
         [
           "감독",
-          5
+          6
         ],
         [
           "홍명보",
-          4
-        ],
-        [
-          "승부예측",
-          4
-        ],
-        [
-          "월드컵",
           3
         ],
         [
-          "안내",
-          3
-        ],
-        [
-          "바로가기",
-          3
-        ],
-        [
-          "가장",
+          "가능성",
           2
         ],
         [
-          "확정",
+          "탈락",
           2
         ],
         [
-          "공지",
+          "주장",
           2
         ],
         [
-          "아일릿",
+          "손흥민",
           2
         ],
         [
-          "이런",
-          1
-        ],
-        [
-          "애리조나전",
-          1
-        ],
-        [
-          "터트리네",
-          1
-        ],
-        [
-          "적시타는",
-          1
-        ],
-        [
-          "중계진",
-          1
-        ],
-        [
-          "마침표",
-          1
-        ],
-        [
-          "승리의",
-          1
-        ],
-        [
-          "극찬을",
-          1
+          "홈런",
+          2
         ],
         [
           "폭발",
+          2
+        ],
+        [
+          "정말",
           1
         ],
         [
-          "멀티히트",
+          "일본",
+          1
+        ],
+        [
+          "사실일까",
+          1
+        ],
+        [
+          "리그",
+          1
+        ],
+        [
+          "오퍼",
+          1
+        ],
+        [
+          "넣었을",
+          1
+        ],
+        [
+          "대한민국",
+          1
+        ],
+        [
+          "러브콜",
+          1
+        ],
+        [
+          "교체",
+          1
+        ],
+        [
+          "급히",
+          1
+        ],
+        [
+          "거론",
+          1
+        ],
+        [
+          "나겔스만",
           1
         ]
       ],
       "name_freq": [
         [
           "감독",
-          5
+          6
         ],
         [
           "홍명보",
-          5
-        ],
-        [
-          "월드컵",
           4
         ],
         [
-          "승부예",
-          4
-        ],
-        [
-          "안내",
-          3
-        ],
-        [
-          "바로가",
-          3
-        ],
-        [
-          "가장",
+          "가능성",
           2
         ],
         [
-          "확정",
+          "탈락",
           2
         ],
         [
-          "공지",
+          "주장",
           2
         ],
         [
-          "아요",
+          "손흥민",
           2
         ],
         [
-          "아일릿",
+          "홈런",
+          2
+        ],
+        [
+          "폭발",
           2
         ]
       ],
       "angle_scores": [
         [
           "스포츠",
-          6
+          9
         ]
       ]
     }
   },
   "topics": [
     {
-      "title": "\"손흥민\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 손흥민",
-      "article_count": 3,
-      "source_article": "\"한국 탈락, 2번째로 충격적인 결과…손흥민 월드컵 출전하려면 37세 돼야\" 美 ESPN이 본 '한국의 실패'",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "손흥민"
-      ],
-      "template": "인맥",
-      "score": 7.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 6,
-      "source_article": "이동국 넷째 딸, 14살에 171cm 언니 추월한 '기적의 피지컬'...'슈돌' 귀여움은 여전",
-      "source_url": "https://m.entertain.naver.com/article/076/0004422020",
+      "title": "\"재혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 11,
+      "source_article": "‘개그계 커플 탄생’ 김대성♥나현영 열애 중…선후배에서 연인으로",
+      "source_url": "https://m.entertain.naver.com/article/410/0001131122",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "이동국",
-        "넷째",
-        "살에",
-        "언니",
-        "추월한"
+        "재혼",
+        "오윤아",
+        "비연예",
+        "김대성",
+        "나현영"
       ],
-      "template": "동갑내기",
+      "template": "결혼 화제",
       "score": 7.1,
       "dup_check": {
         "is_duplicate": false,
@@ -1344,9 +1035,42 @@
       "table": {
         "headers": [
           "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 3,
+      "source_article": "'초대박!' 韓국가대표 미드필더 백승호, 월드컵 덕분에 '2억 원' 소속팀 버밍엄에 안긴다...대표팀 차출 보상금으로 제대로 '효자 노릇'",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "초대박",
+        "국가대",
+        "미드필",
+        "백승호",
+        "월드컵"
+      ],
+      "template": "자산 서열",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
         ]
       },
       "channel": "정보주는하마"
@@ -1354,7 +1078,7 @@
     {
       "title": "\"월드컵 자산이 얼마?\" 월드컵급 자산가 스타 TOP10",
       "angle_type": "👤 월드컵",
-      "article_count": 4,
+      "article_count": 3,
       "source_article": "'초대박!' 韓국가대표 미드필더 백승호, 월드컵 덕분에 '2억 원' 소속팀 버밍엄에 안긴다...대표팀 차출 보상금으로 제대로 '효자 노릇'",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -1381,21 +1105,50 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 5,
-      "source_article": "‘개그계 커플 탄생’ 김대성♥나현영 열애 중…선후배에서 연인으로",
-      "source_url": "https://m.entertain.naver.com/article/410/0001131122",
+      "title": "\"오윤아이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 9,
+      "source_article": "이동국 넷째 딸, 14살에 171cm 언니 추월한 '기적의 피지컬'...'슈돌' 귀여움은 여전",
+      "source_url": "https://m.entertain.naver.com/article/076/0004422020",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "결혼",
-        "정준하",
-        "개그계",
-        "커플",
-        "탄생"
+        "오윤아",
+        "아들도",
+        "이동국",
+        "넷째",
+        "살에"
+      ],
+      "template": "동갑내기",
+      "score": 6.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "나이",
+          "대표작",
+          "현재 활동"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"비연예 결혼설?\" 비연예 연애사 총정리",
+      "angle_type": "👤 비연예",
+      "article_count": 3,
+      "source_article": "오윤아 예비신랑 정체는 누구?…재혼 상대는 비연예인 \"아들도 품어줘\" 눈물",
+      "source_url": "https://m.entertain.naver.com/article/109/0005565248",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "비연예"
       ],
       "template": "결혼 화제",
-      "score": 6.8,
+      "score": 6.6,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1414,18 +1167,47 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "title": "\"눈물 결혼설?\" 눈물 연애사 총정리",
+      "angle_type": "👤 눈물",
+      "article_count": 3,
+      "source_article": "오윤아 예비신랑 정체는 누구?…재혼 상대는 비연예인 \"아들도 품어줘\" 눈물",
+      "source_url": "https://m.entertain.naver.com/article/109/0005565248",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "눈물"
+      ],
+      "template": "결혼 화제",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이강인, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
       "angle_type": "복귀·근황",
       "article_count": 2,
       "source_article": "'이강인 이 정도였다니…' 토트넘도, 유벤투스도, 사우디도 싹다 거절→스페인 복귀에 모든 걸 걸었다",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "간경화",
-        "직전",
-        "고지용",
-        "개월",
-        "금주하"
+        "이강인",
+        "사우디",
+        "스페인",
+        "정도였",
+        "다니"
       ],
       "template": "장기 공백 복귀",
       "score": 6.5,
@@ -1447,165 +1229,16 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"박지성\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 박지성",
+      "title": "\"발달장 결혼설?\" 발달장 연애사 총정리",
+      "angle_type": "👤 발달장",
       "article_count": 3,
-      "source_article": "박지성, 한국 축구 재기 위해 나선다...문체부 K-축구 혁신위원회 공동위원장 선임! 이영표-박주호와 함께 한다",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "박지성"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"원회\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 원회",
-      "article_count": 3,
-      "source_article": "박지성, 한국 축구 재기 위해 나선다...문체부 K-축구 혁신위원회 공동위원장 선임! 이영표-박주호와 함께 한다",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "원회"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"축구\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 축구",
-      "article_count": 3,
-      "source_article": "박지성, 한국 축구 재기 위해 나선다...문체부 K-축구 혁신위원회 공동위원장 선임! 이영표-박주호와 함께 한다",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "축구"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "재활용 가능",
-        "matched_title": "\"임영웅, 손흥민이랑 조기축구?\" 축구 좀 찬다고 알려진 스타 TOP10 #연예인 #스포츠 #축구",
-        "matched_views": 32359,
-        "reason": "기간 경과 107일"
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"문체부\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 문체부",
-      "article_count": 3,
-      "source_article": "박지성, 한국 축구 재기 위해 나선다...문체부 K-축구 혁신위원회 공동위원장 선임! 이영표-박주호와 함께 한다",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "문체부"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"혁신위\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 혁신위",
-      "article_count": 3,
-      "source_article": "박지성, 한국 축구 재기 위해 나선다...문체부 K-축구 혁신위원회 공동위원장 선임! 이영표-박주호와 함께 한다",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "혁신위"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 3,
-      "source_article": "tvN 또 대작 나온다…시청률 27.6% 감독→밀정물로 돌아오는 新 주말극 ('100일의거짓말')",
-      "source_url": "https://m.entertain.naver.com/article/312/0000766142",
+      "source_article": "발달장애 아들도 친손자처럼…오윤아, 예비 시부모에 울컥 \"진짜 인연\"",
+      "source_url": "https://m.entertain.naver.com/article/109/0005565271",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "대작",
-        "나온다",
-        "시청률",
-        "감독",
-        "밀정물"
+        "발달장"
       ],
-      "template": "스포츠 기록",
+      "template": "결혼 화제",
       "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
@@ -1616,43 +1249,10 @@
       },
       "table": {
         "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-      "angle_type": "투병·건강",
-      "article_count": 3,
-      "source_article": "'사망 의혹' 장윤정 母가 남긴 글 \"마지막 될 수도, 속썩여 죄송\"..현재 행방 묘연",
-      "source_url": "https://m.entertain.naver.com/article/108/0003449665",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "사망",
-        "의혹",
-        "장윤정",
-        "남긴",
-        "마지막"
-      ],
-      "template": "투병 극복",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
           "이름",
-          "투병 질환",
-          "공백기",
-          "복귀 작품"
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
         ]
       },
       "channel": "정보주는하마"
@@ -1689,49 +1289,20 @@
   ],
   "all_topics": [
     {
-      "title": "\"손흥민\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 손흥민",
-      "article_count": 3,
-      "source_article": "\"한국 탈락, 2번째로 충격적인 결과…손흥민 월드컵 출전하려면 37세 돼야\" 美 ESPN이 본 '한국의 실패'",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "손흥민"
-      ],
-      "template": "인맥",
-      "score": 7.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 6,
-      "source_article": "이동국 넷째 딸, 14살에 171cm 언니 추월한 '기적의 피지컬'...'슈돌' 귀여움은 여전",
-      "source_url": "https://m.entertain.naver.com/article/076/0004422020",
+      "title": "\"재혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 11,
+      "source_article": "‘개그계 커플 탄생’ 김대성♥나현영 열애 중…선후배에서 연인으로",
+      "source_url": "https://m.entertain.naver.com/article/410/0001131122",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "이동국",
-        "넷째",
-        "살에",
-        "언니",
-        "추월한"
+        "재혼",
+        "오윤아",
+        "비연예",
+        "김대성",
+        "나현영"
       ],
-      "template": "동갑내기",
+      "template": "결혼 화제",
       "score": 7.1,
       "dup_check": {
         "is_duplicate": false,
@@ -1743,9 +1314,42 @@
       "table": {
         "headers": [
           "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 3,
+      "source_article": "'초대박!' 韓국가대표 미드필더 백승호, 월드컵 덕분에 '2억 원' 소속팀 버밍엄에 안긴다...대표팀 차출 보상금으로 제대로 '효자 노릇'",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "초대박",
+        "국가대",
+        "미드필",
+        "백승호",
+        "월드컵"
+      ],
+      "template": "자산 서열",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
         ]
       },
       "channel": "정보주는하마"
@@ -1753,7 +1357,7 @@
     {
       "title": "\"월드컵 자산이 얼마?\" 월드컵급 자산가 스타 TOP10",
       "angle_type": "👤 월드컵",
-      "article_count": 4,
+      "article_count": 3,
       "source_article": "'초대박!' 韓국가대표 미드필더 백승호, 월드컵 덕분에 '2억 원' 소속팀 버밍엄에 안긴다...대표팀 차출 보상금으로 제대로 '효자 노릇'",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -1780,21 +1384,50 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 5,
-      "source_article": "‘개그계 커플 탄생’ 김대성♥나현영 열애 중…선후배에서 연인으로",
-      "source_url": "https://m.entertain.naver.com/article/410/0001131122",
+      "title": "\"오윤아이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 9,
+      "source_article": "이동국 넷째 딸, 14살에 171cm 언니 추월한 '기적의 피지컬'...'슈돌' 귀여움은 여전",
+      "source_url": "https://m.entertain.naver.com/article/076/0004422020",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "결혼",
-        "정준하",
-        "개그계",
-        "커플",
-        "탄생"
+        "오윤아",
+        "아들도",
+        "이동국",
+        "넷째",
+        "살에"
+      ],
+      "template": "동갑내기",
+      "score": 6.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "나이",
+          "대표작",
+          "현재 활동"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"비연예 결혼설?\" 비연예 연애사 총정리",
+      "angle_type": "👤 비연예",
+      "article_count": 3,
+      "source_article": "오윤아 예비신랑 정체는 누구?…재혼 상대는 비연예인 \"아들도 품어줘\" 눈물",
+      "source_url": "https://m.entertain.naver.com/article/109/0005565248",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "비연예"
       ],
       "template": "결혼 화제",
-      "score": 6.8,
+      "score": 6.6,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1813,18 +1446,47 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "title": "\"눈물 결혼설?\" 눈물 연애사 총정리",
+      "angle_type": "👤 눈물",
+      "article_count": 3,
+      "source_article": "오윤아 예비신랑 정체는 누구?…재혼 상대는 비연예인 \"아들도 품어줘\" 눈물",
+      "source_url": "https://m.entertain.naver.com/article/109/0005565248",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "눈물"
+      ],
+      "template": "결혼 화제",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이강인, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
       "angle_type": "복귀·근황",
       "article_count": 2,
       "source_article": "'이강인 이 정도였다니…' 토트넘도, 유벤투스도, 사우디도 싹다 거절→스페인 복귀에 모든 걸 걸었다",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "간경화",
-        "직전",
-        "고지용",
-        "개월",
-        "금주하"
+        "이강인",
+        "사우디",
+        "스페인",
+        "정도였",
+        "다니"
       ],
       "template": "장기 공백 복귀",
       "score": 6.5,
@@ -1846,165 +1508,16 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"박지성\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 박지성",
+      "title": "\"발달장 결혼설?\" 발달장 연애사 총정리",
+      "angle_type": "👤 발달장",
       "article_count": 3,
-      "source_article": "박지성, 한국 축구 재기 위해 나선다...문체부 K-축구 혁신위원회 공동위원장 선임! 이영표-박주호와 함께 한다",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "박지성"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"원회\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 원회",
-      "article_count": 3,
-      "source_article": "박지성, 한국 축구 재기 위해 나선다...문체부 K-축구 혁신위원회 공동위원장 선임! 이영표-박주호와 함께 한다",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "원회"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"축구\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 축구",
-      "article_count": 3,
-      "source_article": "박지성, 한국 축구 재기 위해 나선다...문체부 K-축구 혁신위원회 공동위원장 선임! 이영표-박주호와 함께 한다",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "축구"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "재활용 가능",
-        "matched_title": "\"임영웅, 손흥민이랑 조기축구?\" 축구 좀 찬다고 알려진 스타 TOP10 #연예인 #스포츠 #축구",
-        "matched_views": 32359,
-        "reason": "기간 경과 107일"
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"문체부\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 문체부",
-      "article_count": 3,
-      "source_article": "박지성, 한국 축구 재기 위해 나선다...문체부 K-축구 혁신위원회 공동위원장 선임! 이영표-박주호와 함께 한다",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "문체부"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"혁신위\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 혁신위",
-      "article_count": 3,
-      "source_article": "박지성, 한국 축구 재기 위해 나선다...문체부 K-축구 혁신위원회 공동위원장 선임! 이영표-박주호와 함께 한다",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "혁신위"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 3,
-      "source_article": "tvN 또 대작 나온다…시청률 27.6% 감독→밀정물로 돌아오는 新 주말극 ('100일의거짓말')",
-      "source_url": "https://m.entertain.naver.com/article/312/0000766142",
+      "source_article": "발달장애 아들도 친손자처럼…오윤아, 예비 시부모에 울컥 \"진짜 인연\"",
+      "source_url": "https://m.entertain.naver.com/article/109/0005565271",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "대작",
-        "나온다",
-        "시청률",
-        "감독",
-        "밀정물"
+        "발달장"
       ],
-      "template": "스포츠 기록",
+      "template": "결혼 화제",
       "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
@@ -2015,43 +1528,10 @@
       },
       "table": {
         "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-      "angle_type": "투병·건강",
-      "article_count": 3,
-      "source_article": "'사망 의혹' 장윤정 母가 남긴 글 \"마지막 될 수도, 속썩여 죄송\"..현재 행방 묘연",
-      "source_url": "https://m.entertain.naver.com/article/108/0003449665",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "사망",
-        "의혹",
-        "장윤정",
-        "남긴",
-        "마지막"
-      ],
-      "template": "투병 극복",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
           "이름",
-          "투병 질환",
-          "공백기",
-          "복귀 작품"
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
         ]
       },
       "channel": "정보주는하마"
@@ -2088,16 +1568,16 @@
     {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 6,
+      "article_count": 9,
       "source_article": "\"대한민국 탈락 이후 급히 오퍼 넣었을 가능성\" 홍명보 일본 러브콜 정말 사실일까...'J리그 2팀 감독 교체 가능성 거론'",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "감독",
         "홍명보",
+        "홈런",
         "가능성",
-        "확정",
-        "대한민"
+        "탈락"
       ],
       "template": "스포츠 기록",
       "score": 6.8,
@@ -2119,103 +1599,16 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"홍명보\" 관련 화제 스타 TOP10",
+      "title": "\"홍명보, 대체 무슨 일이?\" 홍명보 관련 이슈 총정리",
       "angle_type": "👤 홍명보",
-      "article_count": 5,
+      "article_count": 4,
       "source_article": "\"대한민국 탈락 이후 급히 오퍼 넣었을 가능성\" 홍명보 일본 러브콜 정말 사실일까...'J리그 2팀 감독 교체 가능성 거론'",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "홍명보"
       ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"월드컵\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 월드컵",
-      "article_count": 4,
-      "source_article": "홍명보 감독 LA로 떠났는데…국회 \"도피 아니길, 부르면 나와야\"…월드컵 참사 청문회 증인 출석 미지수",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "월드컵"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"승부예\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 승부예",
-      "article_count": 4,
-      "source_article": "🏆[7/3 업데이트] 2026 북중미월드컵 승부예측 이벤트🏆",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606100116098223",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "승부예"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
-      "article_count": 3,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "안내"
-      ],
-      "template": "인맥",
+      "template": "논란 집합",
       "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
@@ -2227,37 +1620,8 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"바로가\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 바로가",
-      "article_count": 3,
-      "source_article": "🏆7/4(토) 2026 WC 승부예측 바로가기 [32강]🏆",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606290116777843",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "바로가"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
+          "소속·직업",
+          "논란 내용",
           "현재 상황"
         ]
       },
@@ -2266,55 +1630,63 @@
   ],
   "keyword_freq": [
     [
+      "오윤아",
+      6
+    ],
+    [
+      "재혼",
+      6
+    ],
+    [
       "장윤정",
       4
     ],
     [
+      "눈물",
+      3
+    ],
+    [
+      "비연예인",
+      3
+    ],
+    [
       "월드컵",
-      4
-    ],
-    [
-      "박지성",
       3
-    ],
-    [
-      "축구",
-      3
-    ],
-    [
-      "혁신위원회",
-      3
-    ],
-    [
-      "손흥민",
-      3
-    ],
-    [
-      "최시원",
-      2
     ],
     [
       "나현영",
       2
     ],
     [
-      "남편",
+      "아들도",
       2
     ],
     [
-      "쌈디",
+      "예비신랑",
       2
     ],
     [
-      "사망",
+      "선택",
       2
     ],
     [
-      "마지막",
+      "사과",
       2
     ],
     [
-      "결혼",
+      "이혼",
+      2
+    ],
+    [
+      "발달장애",
+      2
+    ],
+    [
+      "요구",
+      2
+    ],
+    [
+      "금전",
       2
     ],
     [
@@ -2322,65 +1694,53 @@
       2
     ],
     [
-      "탈락",
+      "이강인",
       2
     ],
     [
-      "나선다",
+      "스페인",
       2
     ],
     [
-      "공동위원장",
+      "독일",
       2
     ],
     [
-      "문체부",
-      2
-    ],
-    [
-      "이영표",
-      2
-    ],
-    [
-      "신원",
+      "줬다",
       1
     ]
   ],
   "name_freq": [
     [
+      "오윤아",
+      6
+    ],
+    [
+      "재혼",
+      6
+    ],
+    [
       "장윤정",
       4
     ],
     [
+      "비연예",
+      3
+    ],
+    [
+      "눈물",
+      3
+    ],
+    [
+      "발달장",
+      3
+    ],
+    [
       "월드컵",
-      4
-    ],
-    [
-      "박지성",
       3
     ],
     [
-      "원회",
-      3
-    ],
-    [
-      "축구",
-      3
-    ],
-    [
-      "문체부",
-      3
-    ],
-    [
-      "혁신위",
-      3
-    ],
-    [
-      "손흥민",
-      3
-    ],
-    [
-      "최시원",
+      "김대성",
       2
     ],
     [
@@ -2388,27 +1748,31 @@
       2
     ],
     [
-      "김대성",
-      2
-    ],
-    [
       "나현영",
       2
     ],
     [
-      "남편",
+      "아들도",
       2
     ],
     [
-      "쌈디",
+      "예비신",
       2
     ],
     [
-      "사망",
+      "더니",
+      2
+    ],
+    [
+      "선택",
+      2
+    ],
+    [
+      "사과",
       2
     ]
   ],
-  "total_topics_generated": 19,
-  "valid_topics": 19,
+  "total_topics_generated": 11,
+  "valid_topics": 11,
   "excluded_duplicates": 0
 }
