@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-07-03 15:00:03",
+  "scan_time": "2026-07-03 18:11:22",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,80 +8,26 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 0
+    "MLB파크 불펜": 30
   },
-  "total_articles": 50,
+  "total_articles": 80,
   "articles": [
+    {
+      "title": "日 모리야스 감독 소신 발언! \"홍명보 감독 1승 했잖아, 칭찬 받을 부분 있어\" 깜짝 옹호…\"역대 최악 아냐! 국가 위해 몸 바쳐\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 505902,
+      "rank": 1,
+      "channel": "초구딱"
+    },
     {
       "title": "\"대한민국 탈락 이후 급히 오퍼 넣었을 가능성\" 홍명보 일본 러브콜 정말 사실일까...'J리그 2팀 감독 교체 가능성 거론'",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 26876,
-      "rank": 1,
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"충격\" 홍명보호보다 심각했는데, 하늘이 독일 돕는다...\"내 발로 안 떠나\" 나겔스만 결국 사임 확정→\"클롭 감독 최우선 순위, 협상 시작 예정\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 11656,
-      "rank": 8,
-      "channel": "초구딱"
-    },
-    {
-      "title": "BBC \"홍명보, 2012년 올림픽 때 손흥민 빼더니…이번엔 주장 박탈 가능성 시사해 논란 됐어\"→축구종가서도 남아공전+감독 사퇴 '큰 화제'",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 10027,
-      "rank": 9,
-      "channel": "초구딱"
-    },
-    {
-      "title": "월드컵 대참사 후 마침내 입 연 축구협회 \"축구팬들에게 사과\"...차기 감독 선임+회장 선거 준비도 시작",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 6324,
-      "rank": 11,
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"난 홈런 타자 아냐\" 강백호의 언행불일치, 시즌 22·23호포로 오스틴 4개차 추격...최근 7G 6홈런 폭발",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 5031,
-      "rank": 14,
-      "channel": "초구딱"
-    },
-    {
-      "title": "두산 '또' 초대박 트레이드 예감! 개막 엔트리 탈락→ERA 1.67 대반전, 사령탑도 \"큰 역할했다\" 칭찬",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 4955,
-      "rank": 15,
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"이정후, 이거면 됐다!\" 美 중계진, 이런 극찬을 터트리네…LEE 적시타는 승리의 마침표? 7G 만에 멀티히트 폭발→SF는 애리조나전 8연패 탈출",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 4796,
-      "rank": 16,
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"더 과감하게 쳐라\" 홈런→병살타→홈런! '롯데 4번타자' 한동희, 더이상 망설임은 없다…2185일만의 '감격'",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 4779,
-      "rank": 17,
+      "views": 423102,
+      "rank": 2,
       "channel": "초구딱"
     },
     {
@@ -89,23 +35,302 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 4462,
+      "views": 192990,
+      "rank": 7,
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"이정후, 이거면 됐다!\" 美 중계진, 이런 극찬을 터트리네…LEE 적시타는 승리의 마침표? 7G 만에 멀티히트 폭발→SF는 애리조나전 8연패 탈출",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 105883,
+      "rank": 12,
+      "channel": "초구딱"
+    },
+    {
+      "title": "“대표팀 감독 하고 싶다” 日 혼다의 의지…韓 레전드 박지성은 “난 지도자 못 하겠더라”",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 92323,
+      "rank": 14,
+      "channel": "초구딱"
+    },
+    {
+      "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 1,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 2,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🛠️[공지] 해외 접속 장애 관련 안내_260522🛠️",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202605220000002082",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 3,
+      "channel": "초구딱"
+    },
+    {
+      "title": "⚽[공지] 월드컵 기간 내 전용 게시판 운영 예정 안내⚽",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002102",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 4,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🏆[7/3 업데이트] 2026 북중미월드컵 승부예측 이벤트🏆",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606100116098223",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 5,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🏆7/4(토) 2026 WC 승부예측 바로가기 [32강]🏆",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606290116777843",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 6,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🏆7/5(일) 2026 WC 승부예측 바로가기 [16강]🏆",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202607010116841749",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 7,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🏆7/6(월) 2026 WC 승부예측 바로가기 [16강]🏆",
+      "url": "https://mlbpark.donga.com/mp/b.php?m=search&p=1&b=worldcup&id=202607020116876816",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 8,
+      "channel": "초구딱"
+    },
+    {
+      "title": "호주 잘 하네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607040116940074&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 13,
+      "rank": 9,
+      "channel": "초구딱"
+    },
+    {
+      "title": "리센느  신라공주 댄스 실력",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607040116940071&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 29,
+      "rank": 10,
+      "channel": "초구딱"
+    },
+    {
+      "title": "내년 올림픽 단체 구기종목 몇 개 출전할까?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607040116940065&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 16,
+      "rank": 11,
+      "channel": "초구딱"
+    },
+    {
+      "title": "습식 사우나 간 블핑 제니",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607040116940062&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 199,
+      "rank": 12,
+      "channel": "초구딱"
+    },
+    {
+      "title": "어떻게 지내고 있을까 .... 궁금한 사람",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607040116940056&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 156,
+      "rank": 13,
+      "channel": "초구딱"
+    },
+    {
+      "title": "이 라면 실제로 인기 많나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607040116940053&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 225,
+      "rank": 14,
+      "channel": "초구딱"
+    },
+    {
+      "title": "레이싱모델 김시향 근황.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607040116940050&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 588,
+      "rank": 15,
+      "channel": "초구딱"
+    },
+    {
+      "title": "야식 대창쌀국수",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607040116940041&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 203,
+      "rank": 16,
+      "channel": "초구딱"
+    },
+    {
+      "title": "여준석 그냥 농구를 못하네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607040116940035&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 192,
+      "rank": 17,
+      "channel": "초구딱"
+    },
+    {
+      "title": "핀란드 역겹네",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607040116940020&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 282,
       "rank": 18,
       "channel": "초구딱"
     },
     {
-      "title": "\"데 제르비 감독 때문에 왔다\" 마테우스 페르난데스, 토트넘 이적… 몸값 1,747억, 클럽 레코드",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 3993,
+      "title": "여친 여동생의 유혹",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607040116940017&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 1098,
       "rank": 19,
+      "channel": "초구딱"
+    },
+    {
+      "title": "동영상 프로그램중에 1.4배속 1.5배속 등등 되는거 추천좀요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607040116940008&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 128,
+      "rank": 20,
+      "channel": "초구딱"
+    },
+    {
+      "title": "속궁합 빼고 다 잘맞으면",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607040116940002&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 511,
+      "rank": 21,
+      "channel": "초구딱"
+    },
+    {
+      "title": "6월 초만해도 이번장에 주식으로 돈 잃은사람 없겠다 생각했는데",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607040116939984&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 421,
+      "rank": 22,
+      "channel": "초구딱"
+    },
+    {
+      "title": "우리유진의 몸을 좋아하는 아이브 레이.MP4",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607040116939981&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 276,
+      "rank": 23,
+      "channel": "초구딱"
+    },
+    {
+      "title": "역대 최강 임팩트 단역",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607040116939966&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 675,
+      "rank": 24,
+      "channel": "초구딱"
+    },
+    {
+      "title": "드라마 김부장에 이 캐릭터 나올까요????",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607040116939963&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 482,
+      "rank": 25,
+      "channel": "초구딱"
+    },
+    {
+      "title": "배우 김광규 군입대 시절",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607040116939960&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 1305,
+      "rank": 26,
+      "channel": "초구딱"
+    },
+    {
+      "title": "일본 도로 포장이 깔끔해 보이는 이유",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607040116939957&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 1670,
+      "rank": 27,
+      "channel": "초구딱"
+    },
+    {
+      "title": "르노 팔랑트 디자인 이쁘지 않나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607040116939948&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 404,
+      "rank": 28,
+      "channel": "초구딱"
+    },
+    {
+      "title": "근데 일본여행 중 어깨빵 당해본 불페너 있나?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607040116939942&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 310,
+      "rank": 29,
+      "channel": "초구딱"
+    },
+    {
+      "title": "호날두가 축구력이 구린데도 올타임 5위 찍는 이유는",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607040116939939&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 260,
+      "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 40,
+      "article_count": 45,
       "topics": [
         {
           "title": "\"재혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
@@ -141,17 +366,13 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 3,
+          "title": "\"월드컵 자산이 얼마?\" 월드컵급 자산가 스타 TOP10",
+          "angle_type": "👤 월드컵",
+          "article_count": 4,
           "source_article": "'초대박!' 韓국가대표 미드필더 백승호, 월드컵 덕분에 '2억 원' 소속팀 버밍엄에 안긴다...대표팀 차출 보상금으로 제대로 '효자 노릇'",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "초대박",
-            "국가대",
-            "미드필",
-            "백승호",
             "월드컵"
           ],
           "template": "자산 서열",
@@ -174,17 +395,50 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"월드컵 자산이 얼마?\" 월드컵급 자산가 스타 TOP10",
-          "angle_type": "👤 월드컵",
+          "title": "\"국가대 자산이 얼마?\" 국가대급 자산가 스타 TOP10",
+          "angle_type": "👤 국가대",
           "article_count": 3,
           "source_article": "'초대박!' 韓국가대표 미드필더 백승호, 월드컵 덕분에 '2억 원' 소속팀 버밍엄에 안긴다...대표팀 차출 보상금으로 제대로 '효자 노릇'",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "월드컵"
+            "국가대"
           ],
           "template": "자산 서열",
           "score": 7.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 3,
+          "source_article": "\"흥민 오빠에게 사죄\"→\"손흥민 아이 가졌다\" 협박으로 3억 뜯어내고→뻔뻔하게 선처 호소 20대 여성 '징역 4년' 확정…40대 공범은 '2년'",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "흥민",
+            "오빠에",
+            "사죄",
+            "손흥민",
+            "아이"
+          ],
+          "template": "자산 서열",
+          "score": 6.9,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -205,16 +459,16 @@
         {
           "title": "\"오윤아이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
           "angle_type": "가족·혈연",
-          "article_count": 9,
-          "source_article": "이동국 넷째 딸, 14살에 171cm 언니 추월한 '기적의 피지컬'...'슈돌' 귀여움은 여전",
-          "source_url": "https://m.entertain.naver.com/article/076/0004422020",
-          "source_name": "엔터 많이 본 뉴스",
+          "article_count": 10,
+          "source_article": "'이을용 아들' 이승준, 독일 3부 자르브뤼켄행...\"꿈꾸던 유럽 무대 진출, 존중해줘 구단에 감사\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "오윤아",
             "아들도",
+            "아들",
             "이동국",
-            "넷째",
-            "살에"
+            "넷째"
           ],
           "template": "동갑내기",
           "score": 6.8,
@@ -294,7 +548,7 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"이강인, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
           "angle_type": "복귀·근황",
           "article_count": 2,
           "source_article": "'이강인 이 정도였다니…' 토트넘도, 유벤투스도, 사우디도 싹다 거절→스페인 복귀에 모든 걸 걸었다",
@@ -302,10 +556,10 @@
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "이강인",
-            "사우디",
-            "스페인",
             "정도였",
-            "다니"
+            "다니",
+            "토트넘",
+            "유벤투"
           ],
           "template": "장기 공백 복귀",
           "score": 6.5,
@@ -387,11 +641,11 @@
       ],
       "keyword_freq": [
         [
-          "오윤아",
+          "재혼",
           6
         ],
         [
-          "재혼",
+          "오윤아",
           6
         ],
         [
@@ -399,23 +653,27 @@
           4
         ],
         [
-          "눈물",
-          3
+          "월드컵",
+          4
         ],
         [
           "비연예인",
           3
         ],
         [
-          "월드컵",
+          "눈물",
           3
         ],
         [
-          "나현영",
+          "국가대표",
+          3
+        ],
+        [
+          "탄생",
           2
         ],
         [
-          "아들도",
+          "나현영",
           2
         ],
         [
@@ -423,11 +681,11 @@
           2
         ],
         [
-          "선택",
+          "아들도",
           2
         ],
         [
-          "사과",
+          "완료",
           2
         ],
         [
@@ -439,7 +697,11 @@
           2
         ],
         [
-          "요구",
+          "아들",
+          2
+        ],
+        [
+          "벌써",
           2
         ],
         [
@@ -447,37 +709,33 @@
           2
         ],
         [
-          "국가대표",
+          "요구",
           2
         ],
         [
-          "이강인",
+          "유럽",
           2
         ],
         [
-          "스페인",
+          "리그",
           2
-        ],
-        [
-          "독일",
-          2
-        ],
-        [
-          "줬다",
-          1
         ]
       ],
       "name_freq": [
-        [
-          "오윤아",
-          6
-        ],
         [
           "재혼",
           6
         ],
         [
+          "오윤아",
+          6
+        ],
+        [
           "장윤정",
+          4
+        ],
+        [
+          "월드컵",
           4
         ],
         [
@@ -493,19 +751,23 @@
           3
         ],
         [
-          "월드컵",
+          "국가대",
           3
-        ],
-        [
-          "김대성",
-          2
         ],
         [
           "선후배",
           2
         ],
         [
+          "탄생",
+          2
+        ],
+        [
           "나현영",
+          2
+        ],
+        [
+          "김대성",
           2
         ],
         [
@@ -517,15 +779,7 @@
           2
         ],
         [
-          "더니",
-          2
-        ],
-        [
-          "선택",
-          2
-        ],
-        [
-          "사과",
+          "완료",
           2
         ]
       ],
@@ -544,29 +798,58 @@
         ],
         [
           "가족·혈연",
-          9
+          10
         ]
       ]
     },
     "초구딱": {
-      "article_count": 10,
+      "article_count": 35,
       "topics": [
+        {
+          "title": "\"승부예\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 승부예",
+          "article_count": 4,
+          "source_article": "🏆[7/3 업데이트] 2026 북중미월드컵 승부예측 이벤트🏆",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606100116098223",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "승부예"
+          ],
+          "template": "인맥",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
         {
           "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 9,
-          "source_article": "\"대한민국 탈락 이후 급히 오퍼 넣었을 가능성\" 홍명보 일본 러브콜 정말 사실일까...'J리그 2팀 감독 교체 가능성 거론'",
+          "article_count": 4,
+          "source_article": "日 모리야스 감독 소신 발언! \"홍명보 감독 1승 했잖아, 칭찬 받을 부분 있어\" 깜짝 옹호…\"역대 최악 아냐! 국가 위해 몸 바쳐\"",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "감독",
             "홍명보",
-            "홈런",
             "가능성",
-            "탈락"
+            "모리야",
+            "소신"
           ],
           "template": "스포츠 기록",
-          "score": 6.8,
+          "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -585,16 +868,16 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"홍명보, 대체 무슨 일이?\" 홍명보 관련 이슈 총정리",
+          "title": "\"홍명보\" 관련 화제 스타 TOP10",
           "angle_type": "👤 홍명보",
-          "article_count": 4,
-          "source_article": "\"대한민국 탈락 이후 급히 오퍼 넣었을 가능성\" 홍명보 일본 러브콜 정말 사실일까...'J리그 2팀 감독 교체 가능성 거론'",
+          "article_count": 3,
+          "source_article": "日 모리야스 감독 소신 발언! \"홍명보 감독 1승 했잖아, 칭찬 받을 부분 있어\" 깜짝 옹호…\"역대 최악 아냐! 국가 위해 몸 바쳐\"",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "홍명보"
           ],
-          "template": "논란 집합",
+          "template": "인맥",
           "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
@@ -606,8 +889,66 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"안내\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안내",
+          "article_count": 3,
+          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "안내"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"바로가\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 바로가",
+          "article_count": 3,
+          "source_article": "🏆7/4(토) 2026 WC 승부예측 바로가기 [32강]🏆",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606290116777843",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "바로가"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
               "현재 상황"
             ]
           },
@@ -617,144 +958,173 @@
       "keyword_freq": [
         [
           "감독",
-          6
+          4
+        ],
+        [
+          "승부예측",
+          4
         ],
         [
           "홍명보",
           3
         ],
         [
-          "가능성",
-          2
+          "안내",
+          3
         ],
         [
-          "탈락",
-          2
-        ],
-        [
-          "주장",
-          2
-        ],
-        [
-          "손흥민",
-          2
-        ],
-        [
-          "홈런",
-          2
-        ],
-        [
-          "폭발",
-          2
-        ],
-        [
-          "정말",
-          1
+          "바로가기",
+          3
         ],
         [
           "일본",
+          2
+        ],
+        [
+          "공지",
+          2
+        ],
+        [
+          "받을",
           1
         ],
         [
-          "사실일까",
+          "칭찬",
           1
         ],
         [
-          "리그",
+          "부분",
           1
         ],
         [
-          "오퍼",
+          "위해",
           1
         ],
         [
-          "넣었을",
+          "소신",
           1
         ],
         [
-          "대한민국",
+          "깜짝",
           1
         ],
         [
-          "러브콜",
+          "했잖아",
           1
         ],
         [
-          "교체",
+          "국가",
           1
         ],
         [
-          "급히",
+          "아냐",
           1
         ],
         [
-          "거론",
+          "모리야스",
           1
         ],
         [
-          "나겔스만",
+          "있어",
+          1
+        ],
+        [
+          "바쳐",
+          1
+        ],
+        [
+          "발언",
           1
         ]
       ],
       "name_freq": [
         [
           "감독",
-          6
-        ],
-        [
-          "홍명보",
           4
         ],
         [
-          "가능성",
+          "승부예",
+          4
+        ],
+        [
+          "홍명보",
+          3
+        ],
+        [
+          "안내",
+          3
+        ],
+        [
+          "바로가",
+          3
+        ],
+        [
+          "일본",
           2
         ],
         [
-          "탈락",
+          "공지",
           2
         ],
         [
-          "주장",
-          2
-        ],
-        [
-          "손흥민",
-          2
-        ],
-        [
-          "홈런",
-          2
-        ],
-        [
-          "폭발",
+          "월드컵",
           2
         ]
       ],
       "angle_scores": [
         [
           "스포츠",
-          9
+          4
         ]
       ]
     }
   },
   "topics": [
     {
+      "title": "\"승부예\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 승부예",
+      "article_count": 4,
+      "source_article": "🏆[7/3 업데이트] 2026 북중미월드컵 승부예측 이벤트🏆",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606100116098223",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "승부예"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 9,
-      "source_article": "\"대한민국 탈락 이후 급히 오퍼 넣었을 가능성\" 홍명보 일본 러브콜 정말 사실일까...'J리그 2팀 감독 교체 가능성 거론'",
+      "article_count": 4,
+      "source_article": "日 모리야스 감독 소신 발언! \"홍명보 감독 1승 했잖아, 칭찬 받을 부분 있어\" 깜짝 옹호…\"역대 최악 아냐! 국가 위해 몸 바쳐\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "감독",
         "홍명보",
-        "홈런",
         "가능성",
-        "탈락"
+        "모리야",
+        "소신"
       ],
       "template": "스포츠 기록",
-      "score": 6.8,
+      "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -773,16 +1143,16 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"홍명보, 대체 무슨 일이?\" 홍명보 관련 이슈 총정리",
+      "title": "\"홍명보\" 관련 화제 스타 TOP10",
       "angle_type": "👤 홍명보",
-      "article_count": 4,
-      "source_article": "\"대한민국 탈락 이후 급히 오퍼 넣었을 가능성\" 홍명보 일본 러브콜 정말 사실일까...'J리그 2팀 감독 교체 가능성 거론'",
+      "article_count": 3,
+      "source_article": "日 모리야스 감독 소신 발언! \"홍명보 감독 1승 했잖아, 칭찬 받을 부분 있어\" 깜짝 옹호…\"역대 최악 아냐! 국가 위해 몸 바쳐\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "홍명보"
       ],
-      "template": "논란 집합",
+      "template": "인맥",
       "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
@@ -794,8 +1164,66 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"바로가\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 바로가",
+      "article_count": 3,
+      "source_article": "🏆7/4(토) 2026 WC 승부예측 바로가기 [32강]🏆",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606290116777843",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "바로가"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
           "현재 상황"
         ]
       },
@@ -837,17 +1265,13 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 3,
+      "title": "\"월드컵 자산이 얼마?\" 월드컵급 자산가 스타 TOP10",
+      "angle_type": "👤 월드컵",
+      "article_count": 4,
       "source_article": "'초대박!' 韓국가대표 미드필더 백승호, 월드컵 덕분에 '2억 원' 소속팀 버밍엄에 안긴다...대표팀 차출 보상금으로 제대로 '효자 노릇'",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "초대박",
-        "국가대",
-        "미드필",
-        "백승호",
         "월드컵"
       ],
       "template": "자산 서열",
@@ -870,17 +1294,50 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"월드컵 자산이 얼마?\" 월드컵급 자산가 스타 TOP10",
-      "angle_type": "👤 월드컵",
+      "title": "\"국가대 자산이 얼마?\" 국가대급 자산가 스타 TOP10",
+      "angle_type": "👤 국가대",
       "article_count": 3,
       "source_article": "'초대박!' 韓국가대표 미드필더 백승호, 월드컵 덕분에 '2억 원' 소속팀 버밍엄에 안긴다...대표팀 차출 보상금으로 제대로 '효자 노릇'",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "월드컵"
+        "국가대"
       ],
       "template": "자산 서열",
       "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 3,
+      "source_article": "\"흥민 오빠에게 사죄\"→\"손흥민 아이 가졌다\" 협박으로 3억 뜯어내고→뻔뻔하게 선처 호소 20대 여성 '징역 4년' 확정…40대 공범은 '2년'",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "흥민",
+        "오빠에",
+        "사죄",
+        "손흥민",
+        "아이"
+      ],
+      "template": "자산 서열",
+      "score": 6.9,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -901,16 +1358,16 @@
     {
       "title": "\"오윤아이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
       "angle_type": "가족·혈연",
-      "article_count": 9,
-      "source_article": "이동국 넷째 딸, 14살에 171cm 언니 추월한 '기적의 피지컬'...'슈돌' 귀여움은 여전",
-      "source_url": "https://m.entertain.naver.com/article/076/0004422020",
-      "source_name": "엔터 많이 본 뉴스",
+      "article_count": 10,
+      "source_article": "'이을용 아들' 이승준, 독일 3부 자르브뤼켄행...\"꿈꾸던 유럽 무대 진출, 존중해줘 구단에 감사\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "오윤아",
         "아들도",
+        "아들",
         "이동국",
-        "넷째",
-        "살에"
+        "넷째"
       ],
       "template": "동갑내기",
       "score": 6.8,
@@ -990,7 +1447,7 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이강인, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
       "angle_type": "복귀·근황",
       "article_count": 2,
       "source_article": "'이강인 이 정도였다니…' 토트넘도, 유벤투스도, 사우디도 싹다 거절→스페인 복귀에 모든 걸 걸었다",
@@ -998,10 +1455,10 @@
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "이강인",
-        "사우디",
-        "스페인",
         "정도였",
-        "다니"
+        "다니",
+        "토트넘",
+        "유벤투"
       ],
       "template": "장기 공백 복귀",
       "score": 6.5,
@@ -1081,21 +1538,50 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"승부예\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 승부예",
+      "article_count": 4,
+      "source_article": "🏆[7/3 업데이트] 2026 북중미월드컵 승부예측 이벤트🏆",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606100116098223",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "승부예"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 9,
-      "source_article": "\"대한민국 탈락 이후 급히 오퍼 넣었을 가능성\" 홍명보 일본 러브콜 정말 사실일까...'J리그 2팀 감독 교체 가능성 거론'",
+      "article_count": 4,
+      "source_article": "日 모리야스 감독 소신 발언! \"홍명보 감독 1승 했잖아, 칭찬 받을 부분 있어\" 깜짝 옹호…\"역대 최악 아냐! 국가 위해 몸 바쳐\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "감독",
         "홍명보",
-        "홈런",
         "가능성",
-        "탈락"
+        "모리야",
+        "소신"
       ],
       "template": "스포츠 기록",
-      "score": 6.8,
+      "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1114,16 +1600,16 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"홍명보, 대체 무슨 일이?\" 홍명보 관련 이슈 총정리",
+      "title": "\"홍명보\" 관련 화제 스타 TOP10",
       "angle_type": "👤 홍명보",
-      "article_count": 4,
-      "source_article": "\"대한민국 탈락 이후 급히 오퍼 넣었을 가능성\" 홍명보 일본 러브콜 정말 사실일까...'J리그 2팀 감독 교체 가능성 거론'",
+      "article_count": 3,
+      "source_article": "日 모리야스 감독 소신 발언! \"홍명보 감독 1승 했잖아, 칭찬 받을 부분 있어\" 깜짝 옹호…\"역대 최악 아냐! 국가 위해 몸 바쳐\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "홍명보"
       ],
-      "template": "논란 집합",
+      "template": "인맥",
       "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
@@ -1135,8 +1621,66 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"바로가\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 바로가",
+      "article_count": 3,
+      "source_article": "🏆7/4(토) 2026 WC 승부예측 바로가기 [32강]🏆",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606290116777843",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "바로가"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
           "현재 상황"
         ]
       },
@@ -1145,11 +1689,11 @@
   ],
   "keyword_freq": [
     [
-      "오윤아",
+      "재혼",
       6
     ],
     [
-      "재혼",
+      "오윤아",
       6
     ],
     [
@@ -1157,23 +1701,27 @@
       4
     ],
     [
-      "눈물",
-      3
+      "월드컵",
+      4
     ],
     [
       "비연예인",
       3
     ],
     [
-      "월드컵",
+      "눈물",
       3
     ],
     [
-      "나현영",
+      "국가대표",
+      3
+    ],
+    [
+      "탄생",
       2
     ],
     [
-      "아들도",
+      "나현영",
       2
     ],
     [
@@ -1181,11 +1729,11 @@
       2
     ],
     [
-      "선택",
+      "아들도",
       2
     ],
     [
-      "사과",
+      "완료",
       2
     ],
     [
@@ -1197,7 +1745,11 @@
       2
     ],
     [
-      "요구",
+      "아들",
+      2
+    ],
+    [
+      "벌써",
       2
     ],
     [
@@ -1205,37 +1757,33 @@
       2
     ],
     [
-      "국가대표",
+      "요구",
       2
     ],
     [
-      "이강인",
+      "유럽",
       2
     ],
     [
-      "스페인",
+      "리그",
       2
-    ],
-    [
-      "독일",
-      2
-    ],
-    [
-      "줬다",
-      1
     ]
   ],
   "name_freq": [
-    [
-      "오윤아",
-      6
-    ],
     [
       "재혼",
       6
     ],
     [
+      "오윤아",
+      6
+    ],
+    [
       "장윤정",
+      4
+    ],
+    [
+      "월드컵",
       4
     ],
     [
@@ -1251,19 +1799,23 @@
       3
     ],
     [
-      "월드컵",
+      "국가대",
       3
-    ],
-    [
-      "김대성",
-      2
     ],
     [
       "선후배",
       2
     ],
     [
+      "탄생",
+      2
+    ],
+    [
       "나현영",
+      2
+    ],
+    [
+      "김대성",
       2
     ],
     [
@@ -1275,19 +1827,11 @@
       2
     ],
     [
-      "더니",
-      2
-    ],
-    [
-      "선택",
-      2
-    ],
-    [
-      "사과",
+      "완료",
       2
     ]
   ],
-  "total_topics_generated": 11,
-  "valid_topics": 11,
+  "total_topics_generated": 15,
+  "valid_topics": 15,
   "excluded_duplicates": 0
 }
