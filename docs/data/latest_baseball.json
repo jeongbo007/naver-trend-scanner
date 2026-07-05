@@ -1,12 +1,11 @@
 {
-  "scan_time": "2026-07-05 14:23:14",
+  "scan_time": "2026-07-05 18:00:53",
   "scanner_version": "v4.0",
   "source_stats": {
-    "엔터 많이 본 뉴스": 0,
+    "엔터 많이 본 뉴스": 30,
     "엔터 5분 랭킹": 0,
     "스포츠 많이 본 뉴스": 20,
     "스포츠 5분 랭킹": 0,
-    "[폴백] 연예 랭킹": 30,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
     "MLB파크 불펜": 30
@@ -14,66 +13,48 @@
   "total_articles": 80,
   "articles": [
     {
-      "title": "\"내가 전술 본체\" 홍명보호 '브레인' 자처했던 아로수 코치 근황, 포르투갈 매체 \"지금 짐 싸고 있다\"",
+      "title": "설영우에 밀려 단 1경기 뛴 김문환, 황선홍 감독 \"본인도 아쉬워하더라\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 27522,
+      "views": 508984,
       "rank": 1,
       "channel": "초구딱"
     },
     {
-      "title": "'지단 박치기 사건 악몽 떠오른다' 20년 만에 또 가족 모욕 논란…\"최근 세상 떠난 어머니 욕보였나\" 佛 데샹 감독 의미심장 발언에 월드컵 '발칵'→파라과이 수장은 '어머니 모독설' 강력 부인",
+      "title": "\"내가 전술 본체\" 홍명보호 '브레인' 자처했던 아로수 코치 근황, 포르투갈 매체 \"지금 짐 싸고 있다\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 11822,
-      "rank": 6,
+      "views": 293822,
+      "rank": 3,
       "channel": "초구딱"
     },
     {
-      "title": "‘명장병 제대로 걸렸네…’ 제시 마치 감독, 캐나다 16강 탈락에도 “3-0으로 졌지만 우리가 모로코보다 더 나은 팀이다!”",
+      "title": "“살해 위협받아 긴급하게 도피” 외신들 일제히 ‘조별리그 탈락 후 자진 사임’ 홍명보 감독 미국행 주목",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 10528,
-      "rank": 7,
+      "views": 102975,
+      "rank": 11,
       "channel": "초구딱"
     },
     {
-      "title": "일본 축구 새 사령탑 찾았다…'ACL 우승+아시안컵 2회 정상' 오이와 고, 모리야스 후임 급부상→\"포스테코글루 사우디행에 54세 지도자 물망\" JFA 내부에선 '외국인 감독' 찬반 갈등",
+      "title": "작심 발언! \"이러면 누가 한국 감독 맡고 싶겠나\"...日 전문가 일침, \"경기 졌다고 청문회, 건전치 않아 보여, 안타깝다\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 6848,
+      "views": 101921,
       "rank": 12,
       "channel": "초구딱"
     },
     {
-      "title": "히딩크 감독, 깜짝 폭로! 한국 맡기 직전 속내 공개 \"FIFA 랭킹 70위가 16강? 이라고 생각했다\"...\"열정이 나를 자극했어\"",
+      "title": "KIA 박재현 9회말 충격의 아웃카운트 착각…아니, 3루타 잘 쳐놓고 어떻게 이런 일이 ‘꽃범호 허탈’",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 4712,
-      "rank": 13,
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"충격\" 3할 타자 이정후 휴스턴으로 트레이드?…美 SI 돌발 주장 \"LEE 가치 최고조, 가장 잘 맞는 행선지는 애스트로스\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 4607,
-      "rank": 16,
-      "channel": "초구딱"
-    },
-    {
-      "title": "김규성 뜬공에 고영민 코치가 팔을 돌렸다면…박재현 본헤드플레이는 없었을까, 3루 코치 참 힘들다",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 4574,
-      "rank": 17,
+      "views": 96269,
+      "rank": 14,
       "channel": "초구딱"
     },
     {
@@ -149,224 +130,224 @@
       "channel": "초구딱"
     },
     {
-      "title": "노는 무한 적용 가능해요 왜 없이도요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607050116999087&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "차범근은 데뷔시즌에만 월클 인정받고 그뒤로는 내리막이었군요ㄷㄷ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607060117000665&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 0,
+      "views": 11,
       "rank": 9,
       "channel": "초구딱"
     },
     {
-      "title": "논란을 부산 출신+부산대졸+경남mbc PD가 만든게 어이가 없음",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607050116999084&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "대한민국 커뮤니티 규모 순위 ㄷㄷ.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607060117000662&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 0,
+      "views": 46,
       "rank": 10,
       "channel": "초구딱"
     },
     {
-      "title": "MBN 나는 자연인이다 이거는 어떻게 계속 방송한거죠?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607050116999081&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "대견한 내새꾸 뽀리.jpg.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607060117000659&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 0,
+      "views": 38,
       "rank": 11,
       "channel": "초구딱"
     },
     {
-      "title": "에스파) 오늘 냉부 에스파 카라나,윈터 매력 쩔었네요. 역시 요즘은 노가식 아재미가 대세",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607050116999078&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "AI가 만든 5시 브라질 vs 노르웨이전 이미지.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607060117000656&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 11,
+      "views": 36,
       "rank": 12,
       "channel": "초구딱"
     },
     {
-      "title": "열혈농구단2) 추가된 코치+멤버들.gif",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607050116999075&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "갤럭시 S26 자급제 이정도면 선방한거겠죠",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607060117000653&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 37,
+      "views": 27,
       "rank": 13,
       "channel": "초구딱"
     },
     {
-      "title": "선관위 이거 진짜 심각하네요 ㄷㄷㄷ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607050116999072&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "퇴장당한 발로건 백악관 요청으로 16강 출전가능",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607060117000644&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 126,
+      "views": 200,
       "rank": 14,
       "channel": "초구딱"
     },
     {
-      "title": "현재 자유가 억압되고 있다고 느끼는 이유",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607050116999048&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "이 정도 윙어면 월클이죠?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607060117000638&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 92,
+      "views": 71,
       "rank": 15,
       "channel": "초구딱"
     },
     {
-      "title": "국내 최초로 지하철 스크린도어가 상용화된 역.JPG",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607050116999036&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "[대리기사] 수원에서 안산 가는 방향에 람보르기니 사고 났네요..",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607060117000623&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 187,
+      "views": 167,
       "rank": 16,
       "channel": "초구딱"
     },
     {
-      "title": "이제 금지곡될곡",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607050116999033&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "월드컵식 정지선 위반 단속",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607060117000617&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 106,
+      "views": 350,
       "rank": 17,
       "channel": "초구딱"
     },
     {
-      "title": "하늘나라로 간 짱구엄마...jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607050116999030&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "프랑스 파라과이 하이라이트 이제서야 봤는데",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607060117000608&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 569,
+      "views": 183,
       "rank": 18,
       "channel": "초구딱"
     },
     {
-      "title": "QWER 뻔데기로 인천 공주 괴롭히는 포항 여신.mp4",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607050116999027&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "내일 멕시코와 경기하는 잉글랜드 숙소앞 풍경.gif",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607060117000596&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 55,
+      "views": 663,
       "rank": 19,
       "channel": "초구딱"
     },
     {
-      "title": "서바이벌게임때 이상민 딱히 룰을 이해하고 배신하는게 아닌거 같죠??",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607050116999024&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "촬영중인거 깜빡한 배구부 여학생들",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607060117000593&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 16,
+      "views": 1002,
       "rank": 20,
       "channel": "초구딱"
     },
     {
-      "title": "드라마 무빙의 한 장면.mp4",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607050116999021&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "byd는 현대랑 비슷하죠",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607060117000590&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 183,
+      "views": 180,
       "rank": 21,
       "channel": "초구딱"
     },
     {
-      "title": "신입때 노래방 끌려갔는데..",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607050116999018&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "이청용 재능은 역대급인가요?????",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607060117000587&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 68,
+      "views": 162,
       "rank": 22,
       "channel": "초구딱"
     },
     {
-      "title": "비와이디 요즘 좀 보이긴하네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607050116999015&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "암튼 원이 앞으론 사투리 방송에선 안쓸듯",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607060117000584&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 37,
+      "views": 233,
       "rank": 23,
       "channel": "초구딱"
     },
     {
-      "title": "260705 KBO 하이라이트 신예원 김윤희 조은지(아럽베 월드컵 결방)",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607050116999009&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "국내파들은 아무도 감독 안하려고함",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607060117000581&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 41,
+      "views": 196,
       "rank": 24,
       "channel": "초구딱"
     },
     {
-      "title": "국대 윙어로 엄원상이나 박승수 가능하지 않나요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607050116999003&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "리센느는 제경험상 조국이 큰일한듯하네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607060117000578&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 17,
+      "views": 440,
       "rank": 25,
       "channel": "초구딱"
     },
     {
-      "title": "주말 오후 러닝 완료",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607050116998997&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "중국에서 파는 계란빵",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607060117000575&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 35,
+      "views": 519,
       "rank": 26,
       "channel": "초구딱"
     },
     {
-      "title": "랑께  당께도 일베 용어인가요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607050116998991&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "아약스는 빅클럽이다 vs 아니다",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607060117000572&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 109,
+      "views": 174,
       "rank": 27,
       "channel": "초구딱"
     },
     {
-      "title": "더본코리아 홈페이지에선 백종원이 1993년 대패삼겹살을 개발했다고 여전히 적혀있군요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607050116998988&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "요르단도 농구 엄청나네요.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607060117000569&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 93,
+      "views": 177,
       "rank": 28,
       "channel": "초구딱"
     },
     {
-      "title": "ㅅㅍ) 눈동자 영화 좀 그러네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607050116998985&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "미국인들 해외여행 잘 안간다는 얘기... 이거 완전 말도 안되는 얘기네요 ㅋㅋ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607060117000563&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 120,
+      "views": 261,
       "rank": 29,
       "channel": "초구딱"
     },
     {
-      "title": "미드 더보이즈 제일 불만인게 그거네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607050116998973&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "리센느 머부터보면 되나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607060117000560&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 77,
+      "views": 222,
       "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 43,
+      "article_count": 45,
       "topics": [
         {
-          "title": "\"억에, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
           "angle_type": "자산·몸값",
-          "article_count": 9,
+          "article_count": 3,
           "source_article": "'코리안 몬스터' 김민재에 꽂힌 명장 \"반드시 데려와 달라\"…437억 이적료+연봉 262억 '역대급 난관'→\"튀르키예 챔피언 올여름 최우선 타깃\" 4년 만에 복귀 이뤄지나",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "억에",
-            "조원",
-            "매출",
-            "사내",
-            "대출"
+            "빚만",
+            "윤남노",
+            "가게",
+            "오픈후",
+            "월급"
           ],
           "template": "자산 서열",
-          "score": 8.1,
+          "score": 7.6,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -385,21 +366,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
           "angle_type": "복귀·근황",
-          "article_count": 2,
+          "article_count": 3,
           "source_article": "'코리안 몬스터' 김민재에 꽂힌 명장 \"반드시 데려와 달라\"…437억 이적료+연봉 262억 '역대급 난관'→\"튀르키예 챔피언 올여름 최우선 타깃\" 4년 만에 복귀 이뤄지나",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "코리안",
-            "몬스터",
-            "김민재",
-            "꽂힌",
-            "명장"
+            "근황",
+            "팽팽해",
+            "얼굴",
+            "장동건",
+            "현실"
           ],
           "template": "장기 공백 복귀",
-          "score": 6.9,
+          "score": 7.4,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -418,9 +399,137 @@
           "channel": "정보주는하마"
         },
         {
+          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 3,
+          "source_article": "\"충격\" 일본 대표팀 감독직 거절했나...'손흥민 스승' 포스테코글루 파격 오피셜, 유럽 대신 '오일머니' 선택 \"알나스르 부임 확정\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "눈물",
+            "흘렸으",
+            "용서했",
+            "강부자",
+            "홍명보"
+          ],
+          "template": "스포츠 기록",
+          "score": 7.2,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"이혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "angle_type": "결혼·이혼",
+          "article_count": 7,
+          "source_article": "'새신랑♥' 옥택연, 시청률 21.6% 대박 '김부장' 특별출연...결혼 후에도 '열일'",
+          "source_url": "https://m.entertain.naver.com/article/109/0005566077",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "이혼",
+            "이수와",
+            "잃은",
+            "느낌",
+            "새신랑"
+          ],
+          "template": "결혼 화제",
+          "score": 7.1,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 2,
+          "source_article": "\"다시는 국대 유니폼 입지 마\" 대국민 분노....\"월드컵 16강 출전 포기, 내 결정\" 주장의 황당 고백 논란",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "민폐",
+            "공사",
+            "기은세",
+            "이웃집",
+            "소음"
+          ],
+          "template": "논란 집합",
+          "score": 7.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"미우새 결혼설?\" 미우새 연애사 총정리",
+          "angle_type": "👤 미우새",
+          "article_count": 3,
+          "source_article": "린 \"이수와 이혼, 절친 잃은 느낌”..심경 고백에 母까지 눈물(‘미우새’)",
+          "source_url": "https://m.entertain.naver.com/article/109/0005566058",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "미우새"
+          ],
+          "template": "결혼 화제",
+          "score": 6.6,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
           "title": "\"월드컵, 대체 무슨 일이?\" 월드컵 관련 이슈 총정리",
           "angle_type": "👤 월드컵",
-          "article_count": 4,
+          "article_count": 3,
           "source_article": "일본에 박살나며 월드컵 광탈…2경기 지휘하고 대표팀 떠났다 \"내 여정은 여기서 끝\"",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -447,68 +556,6 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 3,
-          "source_article": "\"홀란이 정말 부러웠다\" 어느덧 리그 5호골 넣은 석현준의 워너비",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "홀란이",
-            "정말",
-            "부러웠",
-            "어느덧",
-            "리그"
-          ],
-          "template": "스포츠 기록",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"홍명보\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 홍명보",
-          "article_count": 4,
-          "source_article": "홍명보호 주치의 작심 발언 \"힘들고, 지칠 때 가족 찾는 게 도피인가?\"... 송준섭 박사 \"모든 비판, 팩트 안에서 해야\"",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "홍명보"
-          ],
-          "template": "인맥",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
           "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
           "angle_type": "가족·혈연",
           "article_count": 2,
@@ -516,11 +563,11 @@
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "홍명보",
-            "주치의",
-            "작심",
-            "발언",
-            "힘들고"
+            "트루디",
+            "이대은",
+            "붕어빵",
+            "아들과",
+            "가족사"
           ],
           "template": "동갑내기",
           "score": 6.1,
@@ -540,160 +587,255 @@
             ]
           },
           "channel": "정보주는하마"
+        },
+        {
+          "title": "\"깜짝\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 깜짝",
+          "article_count": 4,
+          "source_article": "“알몸인 줄” 제니, 사우나 사진에 팬들 ‘깜짝’…이번에도 루틴 지켰다",
+          "source_url": "https://m.entertain.naver.com/article/468/0001251727",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "깜짝"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"홍명보\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 홍명보",
+          "article_count": 4,
+          "source_article": "“눈물 흘렸으면 용서했을 것” 강부자, 홍명보 귀국 태도 저격→“국민 영웅이 어쩌다” 안타까움 감추지 못해",
+          "source_url": "https://m.entertain.naver.com/article/076/0004422518",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "홍명보"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"신봉선\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 신봉선",
+          "article_count": 3,
+          "source_article": "신봉선 맞아? 믿기지 않는 '극세사 다리'...11kg 빼더니 몰라보겠네",
+          "source_url": "https://m.entertain.naver.com/article/076/0004422670",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "신봉선"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
         }
       ],
       "keyword_freq": [
         [
-          "월드컵",
+          "깜짝",
           4
         ],
         [
-          "반드시",
-          2
+          "신봉선",
+          3
         ],
         [
-          "홍명보호",
-          2
+          "이혼",
+          3
         ],
         [
-          "발언",
-          2
-        ],
-        [
-          "경기",
-          2
-        ],
-        [
-          "해요",
-          2
+          "미우새",
+          3
         ],
         [
           "홍명보",
+          3
+        ],
+        [
+          "월드컵",
+          3
+        ],
+        [
+          "김부장",
           2
         ],
         [
-          "나온",
+          "가게",
           2
         ],
         [
-          "위험",
+          "월급",
           2
         ],
         [
-          "조국",
+          "너무",
           2
         ],
         [
-          "무섭노",
+          "맞아",
           2
         ],
         [
-          "일베",
+          "잃은",
           2
         ],
         [
-          "엄마한테만",
+          "느낌",
           2
         ],
         [
-          "매출",
+          "눈물",
           2
         ],
         [
-          "사내",
+          "이수와",
           2
         ],
         [
-          "제한",
+          "아닌",
           2
         ],
         [
-          "대출",
+          "이수지",
           2
         ],
         [
-          "최우선",
-          1
+          "박은영",
+          2
         ],
         [
-          "코리안",
-          1
+          "얼굴",
+          2
         ],
         [
-          "튀르키예",
-          1
+          "근황",
+          2
         ]
       ],
       "name_freq": [
         [
+          "깜짝",
+          4
+        ],
+        [
           "홍명보",
           4
         ],
         [
+          "신봉선",
+          3
+        ],
+        [
+          "이혼",
+          3
+        ],
+        [
+          "미우새",
+          3
+        ],
+        [
           "월드컵",
-          4
+          3
         ],
         [
-          "반드시",
+          "김부장",
           2
         ],
         [
-          "발언",
+          "가게",
           2
         ],
         [
-          "경기",
+          "월급",
           2
         ],
         [
-          "해요",
+          "너무",
           2
         ],
         [
-          "나온",
+          "팽팽해",
           2
         ],
         [
-          "는데",
+          "몰라보",
           2
         ],
         [
-          "위험",
+          "맞아",
           2
         ],
         [
-          "조국",
+          "잃은",
           2
         ],
         [
-          "감별법",
-          2
-        ],
-        [
-          "일베",
-          2
-        ],
-        [
-          "무섭노",
-          2
-        ],
-        [
-          "트럼프",
-          2
-        ],
-        [
-          "엄마한",
+          "느낌",
           2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
-          9
+          3
+        ],
+        [
+          "논란·사건",
+          2
+        ],
+        [
+          "결혼·이혼",
+          7
         ],
         [
           "복귀·근황",
-          2
+          3
         ],
         [
           "스포츠",
@@ -706,86 +848,24 @@
       ]
     },
     "초구딱": {
-      "article_count": 37,
+      "article_count": 35,
       "topics": [
-        {
-          "title": "\"어머니까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 3,
-          "source_article": "'지단 박치기 사건 악몽 떠오른다' 20년 만에 또 가족 모욕 논란…\"최근 세상 떠난 어머니 욕보였나\" 佛 데샹 감독 의미심장 발언에 월드컵 '발칵'→파라과이 수장은 '어머니 모독설' 강력 부인",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "어머니",
-            "감독",
-            "지단",
-            "박치기",
-            "사건"
-          ],
-          "template": "논란 집합",
-          "score": 7.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"월드컵, 대체 무슨 일이?\" 월드컵 관련 이슈 총정리",
-          "angle_type": "👤 월드컵",
-          "article_count": 4,
-          "source_article": "'지단 박치기 사건 악몽 떠오른다' 20년 만에 또 가족 모욕 논란…\"최근 세상 떠난 어머니 욕보였나\" 佛 데샹 감독 의미심장 발언에 월드컵 '발칵'→파라과이 수장은 '어머니 모독설' 강력 부인",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "월드컵"
-          ],
-          "template": "논란 집합",
-          "score": 7.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
         {
           "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 9,
-          "source_article": "\"내가 전술 본체\" 홍명보호 '브레인' 자처했던 아로수 코치 근황, 포르투갈 매체 \"지금 짐 싸고 있다\"",
+          "article_count": 5,
+          "source_article": "설영우에 밀려 단 1경기 뛴 김문환, 황선홍 감독 \"본인도 아쉬워하더라\"",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "감독",
-            "코치",
-            "어머니",
-            "월드컵",
-            "내가"
+            "경기",
+            "홍명보",
+            "설영우",
+            "밀려"
           ],
           "template": "스포츠 기록",
-          "score": 7.1,
+          "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -833,17 +913,17 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"코치, 지금 어디서 뭐 하나?\" 코치 근황 총정리",
-          "angle_type": "👤 코치",
+          "title": "\"월드컵\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 월드컵",
           "article_count": 3,
-          "source_article": "\"내가 전술 본체\" 홍명보호 '브레인' 자처했던 아로수 코치 근황, 포르투갈 매체 \"지금 짐 싸고 있다\"",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "source_article": "⚽[공지] 월드컵 기간 내 전용 게시판 운영 예정 안내⚽",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002102",
+          "source_name": "MLB파크 불펜",
           "related_names": [
-            "코치"
+            "월드컵"
           ],
-          "template": "장기 공백 복귀",
-          "score": 6.3,
+          "template": "인맥",
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -854,9 +934,9 @@
           "table": {
             "headers": [
               "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
+              "분류",
+              "이슈 내용",
+              "현재 상황"
             ]
           },
           "channel": "초구딱"
@@ -930,14 +1010,6 @@
           4
         ],
         [
-          "코치",
-          3
-        ],
-        [
-          "월드컵",
-          3
-        ],
-        [
           "안내",
           3
         ],
@@ -946,8 +1018,48 @@
           3
         ],
         [
+          "경기",
+          2
+        ],
+        [
+          "위반",
+          2
+        ],
+        [
           "공지",
           2
+        ],
+        [
+          "김문환",
+          1
+        ],
+        [
+          "설영우에",
+          1
+        ],
+        [
+          "밀려",
+          1
+        ],
+        [
+          "아쉬워하더라",
+          1
+        ],
+        [
+          "본인도",
+          1
+        ],
+        [
+          "황선홍",
+          1
+        ],
+        [
+          "내가",
+          1
+        ],
+        [
+          "자처했던",
+          1
         ],
         [
           "전술",
@@ -958,55 +1070,19 @@
           1
         ],
         [
-          "본체",
-          1
-        ],
-        [
-          "자처했던",
-          1
-        ],
-        [
-          "브레인",
-          1
-        ],
-        [
-          "내가",
-          1
-        ],
-        [
-          "홍명보호",
-          1
-        ],
-        [
-          "근황",
-          1
-        ],
-        [
           "아로수",
           1
         ],
         [
-          "지금",
+          "코치",
           1
         ],
         [
           "포르투갈",
           1
-        ],
-        [
-          "싸고",
-          1
-        ],
-        [
-          "데샹",
-          1
         ]
       ],
       "name_freq": [
-        [
-          "월드컵",
-          4
-        ],
         [
           "감독",
           4
@@ -1016,11 +1092,11 @@
           4
         ],
         [
-          "코치",
+          "안내",
           3
         ],
         [
-          "안내",
+          "월드컵",
           3
         ],
         [
@@ -1028,101 +1104,51 @@
           3
         ],
         [
+          "경기",
+          2
+        ],
+        [
+          "홍명보",
+          2
+        ],
+        [
+          "위반",
+          2
+        ],
+        [
           "공지",
+          2
+        ],
+        [
+          "리센느",
           2
         ]
       ],
       "angle_scores": [
         [
-          "논란·사건",
-          3
-        ],
-        [
           "스포츠",
-          9
+          5
         ]
       ]
     }
   },
   "topics": [
     {
-      "title": "\"어머니까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 3,
-      "source_article": "'지단 박치기 사건 악몽 떠오른다' 20년 만에 또 가족 모욕 논란…\"최근 세상 떠난 어머니 욕보였나\" 佛 데샹 감독 의미심장 발언에 월드컵 '발칵'→파라과이 수장은 '어머니 모독설' 강력 부인",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "어머니",
-        "감독",
-        "지단",
-        "박치기",
-        "사건"
-      ],
-      "template": "논란 집합",
-      "score": 7.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"월드컵, 대체 무슨 일이?\" 월드컵 관련 이슈 총정리",
-      "angle_type": "👤 월드컵",
-      "article_count": 4,
-      "source_article": "'지단 박치기 사건 악몽 떠오른다' 20년 만에 또 가족 모욕 논란…\"최근 세상 떠난 어머니 욕보였나\" 佛 데샹 감독 의미심장 발언에 월드컵 '발칵'→파라과이 수장은 '어머니 모독설' 강력 부인",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "월드컵"
-      ],
-      "template": "논란 집합",
-      "score": 7.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 9,
-      "source_article": "\"내가 전술 본체\" 홍명보호 '브레인' 자처했던 아로수 코치 근황, 포르투갈 매체 \"지금 짐 싸고 있다\"",
+      "article_count": 5,
+      "source_article": "설영우에 밀려 단 1경기 뛴 김문환, 황선홍 감독 \"본인도 아쉬워하더라\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "감독",
-        "코치",
-        "어머니",
-        "월드컵",
-        "내가"
+        "경기",
+        "홍명보",
+        "설영우",
+        "밀려"
       ],
       "template": "스포츠 기록",
-      "score": 7.1,
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1170,17 +1196,17 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"코치, 지금 어디서 뭐 하나?\" 코치 근황 총정리",
-      "angle_type": "👤 코치",
+      "title": "\"월드컵\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 월드컵",
       "article_count": 3,
-      "source_article": "\"내가 전술 본체\" 홍명보호 '브레인' 자처했던 아로수 코치 근황, 포르투갈 매체 \"지금 짐 싸고 있다\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "source_article": "⚽[공지] 월드컵 기간 내 전용 게시판 운영 예정 안내⚽",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002102",
+      "source_name": "MLB파크 불펜",
       "related_names": [
-        "코치"
+        "월드컵"
       ],
-      "template": "장기 공백 복귀",
-      "score": 6.3,
+      "template": "인맥",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1191,9 +1217,9 @@
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "초구딱"
@@ -1259,21 +1285,21 @@
   ],
   "all_topics": [
     {
-      "title": "\"억에, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
       "angle_type": "자산·몸값",
-      "article_count": 9,
+      "article_count": 3,
       "source_article": "'코리안 몬스터' 김민재에 꽂힌 명장 \"반드시 데려와 달라\"…437억 이적료+연봉 262억 '역대급 난관'→\"튀르키예 챔피언 올여름 최우선 타깃\" 4년 만에 복귀 이뤄지나",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "억에",
-        "조원",
-        "매출",
-        "사내",
-        "대출"
+        "빚만",
+        "윤남노",
+        "가게",
+        "오픈후",
+        "월급"
       ],
       "template": "자산 서열",
-      "score": 8.1,
+      "score": 7.6,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1292,21 +1318,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
       "angle_type": "복귀·근황",
-      "article_count": 2,
+      "article_count": 3,
       "source_article": "'코리안 몬스터' 김민재에 꽂힌 명장 \"반드시 데려와 달라\"…437억 이적료+연봉 262억 '역대급 난관'→\"튀르키예 챔피언 올여름 최우선 타깃\" 4년 만에 복귀 이뤄지나",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "코리안",
-        "몬스터",
-        "김민재",
-        "꽂힌",
-        "명장"
+        "근황",
+        "팽팽해",
+        "얼굴",
+        "장동건",
+        "현실"
       ],
       "template": "장기 공백 복귀",
-      "score": 6.9,
+      "score": 7.4,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1325,9 +1351,137 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 3,
+      "source_article": "\"충격\" 일본 대표팀 감독직 거절했나...'손흥민 스승' 포스테코글루 파격 오피셜, 유럽 대신 '오일머니' 선택 \"알나스르 부임 확정\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "눈물",
+        "흘렸으",
+        "용서했",
+        "강부자",
+        "홍명보"
+      ],
+      "template": "스포츠 기록",
+      "score": 7.2,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 7,
+      "source_article": "'새신랑♥' 옥택연, 시청률 21.6% 대박 '김부장' 특별출연...결혼 후에도 '열일'",
+      "source_url": "https://m.entertain.naver.com/article/109/0005566077",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "이혼",
+        "이수와",
+        "잃은",
+        "느낌",
+        "새신랑"
+      ],
+      "template": "결혼 화제",
+      "score": 7.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 2,
+      "source_article": "\"다시는 국대 유니폼 입지 마\" 대국민 분노....\"월드컵 16강 출전 포기, 내 결정\" 주장의 황당 고백 논란",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "민폐",
+        "공사",
+        "기은세",
+        "이웃집",
+        "소음"
+      ],
+      "template": "논란 집합",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"미우새 결혼설?\" 미우새 연애사 총정리",
+      "angle_type": "👤 미우새",
+      "article_count": 3,
+      "source_article": "린 \"이수와 이혼, 절친 잃은 느낌”..심경 고백에 母까지 눈물(‘미우새’)",
+      "source_url": "https://m.entertain.naver.com/article/109/0005566058",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "미우새"
+      ],
+      "template": "결혼 화제",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"월드컵, 대체 무슨 일이?\" 월드컵 관련 이슈 총정리",
       "angle_type": "👤 월드컵",
-      "article_count": 4,
+      "article_count": 3,
       "source_article": "일본에 박살나며 월드컵 광탈…2경기 지휘하고 대표팀 떠났다 \"내 여정은 여기서 끝\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -1354,68 +1508,6 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 3,
-      "source_article": "\"홀란이 정말 부러웠다\" 어느덧 리그 5호골 넣은 석현준의 워너비",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "홀란이",
-        "정말",
-        "부러웠",
-        "어느덧",
-        "리그"
-      ],
-      "template": "스포츠 기록",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"홍명보\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 홍명보",
-      "article_count": 4,
-      "source_article": "홍명보호 주치의 작심 발언 \"힘들고, 지칠 때 가족 찾는 게 도피인가?\"... 송준섭 박사 \"모든 비판, 팩트 안에서 해야\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "홍명보"
-      ],
-      "template": "인맥",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
       "angle_type": "가족·혈연",
       "article_count": 2,
@@ -1423,11 +1515,11 @@
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "홍명보",
-        "주치의",
-        "작심",
-        "발언",
-        "힘들고"
+        "트루디",
+        "이대은",
+        "붕어빵",
+        "아들과",
+        "가족사"
       ],
       "template": "동갑내기",
       "score": 6.1,
@@ -1449,21 +1541,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"어머니까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 3,
-      "source_article": "'지단 박치기 사건 악몽 떠오른다' 20년 만에 또 가족 모욕 논란…\"최근 세상 떠난 어머니 욕보였나\" 佛 데샹 감독 의미심장 발언에 월드컵 '발칵'→파라과이 수장은 '어머니 모독설' 강력 부인",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "title": "\"깜짝\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 깜짝",
+      "article_count": 4,
+      "source_article": "“알몸인 줄” 제니, 사우나 사진에 팬들 ‘깜짝’…이번에도 루틴 지켰다",
+      "source_url": "https://m.entertain.naver.com/article/468/0001251727",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "어머니",
-        "감독",
-        "지단",
-        "박치기",
-        "사건"
+        "깜짝"
       ],
-      "template": "논란 집합",
-      "score": 7.3,
+      "template": "인맥",
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1474,25 +1562,25 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
+          "분류",
+          "이슈 내용",
           "현재 상황"
         ]
       },
-      "channel": "초구딱"
+      "channel": "정보주는하마"
     },
     {
-      "title": "\"월드컵, 대체 무슨 일이?\" 월드컵 관련 이슈 총정리",
-      "angle_type": "👤 월드컵",
+      "title": "\"홍명보\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 홍명보",
       "article_count": 4,
-      "source_article": "'지단 박치기 사건 악몽 떠오른다' 20년 만에 또 가족 모욕 논란…\"최근 세상 떠난 어머니 욕보였나\" 佛 데샹 감독 의미심장 발언에 월드컵 '발칵'→파라과이 수장은 '어머니 모독설' 강력 부인",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "source_article": "“눈물 흘렸으면 용서했을 것” 강부자, 홍명보 귀국 태도 저격→“국민 영웅이 어쩌다” 안타까움 감추지 못해",
+      "source_url": "https://m.entertain.naver.com/article/076/0004422518",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "월드컵"
+        "홍명보"
       ],
-      "template": "논란 집합",
-      "score": 7.3,
+      "template": "인맥",
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1503,29 +1591,58 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
+          "분류",
+          "이슈 내용",
           "현재 상황"
         ]
       },
-      "channel": "초구딱"
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"신봉선\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 신봉선",
+      "article_count": 3,
+      "source_article": "신봉선 맞아? 믿기지 않는 '극세사 다리'...11kg 빼더니 몰라보겠네",
+      "source_url": "https://m.entertain.naver.com/article/076/0004422670",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "신봉선"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
     },
     {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 9,
-      "source_article": "\"내가 전술 본체\" 홍명보호 '브레인' 자처했던 아로수 코치 근황, 포르투갈 매체 \"지금 짐 싸고 있다\"",
+      "article_count": 5,
+      "source_article": "설영우에 밀려 단 1경기 뛴 김문환, 황선홍 감독 \"본인도 아쉬워하더라\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "감독",
-        "코치",
-        "어머니",
-        "월드컵",
-        "내가"
+        "경기",
+        "홍명보",
+        "설영우",
+        "밀려"
       ],
       "template": "스포츠 기록",
-      "score": 7.1,
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1573,17 +1690,17 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"코치, 지금 어디서 뭐 하나?\" 코치 근황 총정리",
-      "angle_type": "👤 코치",
+      "title": "\"월드컵\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 월드컵",
       "article_count": 3,
-      "source_article": "\"내가 전술 본체\" 홍명보호 '브레인' 자처했던 아로수 코치 근황, 포르투갈 매체 \"지금 짐 싸고 있다\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "source_article": "⚽[공지] 월드컵 기간 내 전용 게시판 운영 예정 안내⚽",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202606080000002102",
+      "source_name": "MLB파크 불펜",
       "related_names": [
-        "코치"
+        "월드컵"
       ],
-      "template": "장기 공백 복귀",
-      "score": 6.3,
+      "template": "인맥",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1594,9 +1711,9 @@
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "초구딱"
@@ -1662,149 +1779,149 @@
   ],
   "keyword_freq": [
     [
-      "월드컵",
+      "깜짝",
       4
     ],
     [
-      "반드시",
-      2
+      "신봉선",
+      3
     ],
     [
-      "홍명보호",
-      2
+      "이혼",
+      3
     ],
     [
-      "발언",
-      2
-    ],
-    [
-      "경기",
-      2
-    ],
-    [
-      "해요",
-      2
+      "미우새",
+      3
     ],
     [
       "홍명보",
+      3
+    ],
+    [
+      "월드컵",
+      3
+    ],
+    [
+      "김부장",
       2
     ],
     [
-      "나온",
+      "가게",
       2
     ],
     [
-      "위험",
+      "월급",
       2
     ],
     [
-      "조국",
+      "너무",
       2
     ],
     [
-      "무섭노",
+      "맞아",
       2
     ],
     [
-      "일베",
+      "잃은",
       2
     ],
     [
-      "엄마한테만",
+      "느낌",
       2
     ],
     [
-      "매출",
+      "눈물",
       2
     ],
     [
-      "사내",
+      "이수와",
       2
     ],
     [
-      "제한",
+      "아닌",
       2
     ],
     [
-      "대출",
+      "이수지",
       2
     ],
     [
-      "최우선",
-      1
+      "박은영",
+      2
     ],
     [
-      "코리안",
-      1
+      "얼굴",
+      2
     ],
     [
-      "튀르키예",
-      1
+      "근황",
+      2
     ]
   ],
   "name_freq": [
     [
+      "깜짝",
+      4
+    ],
+    [
       "홍명보",
       4
     ],
     [
+      "신봉선",
+      3
+    ],
+    [
+      "이혼",
+      3
+    ],
+    [
+      "미우새",
+      3
+    ],
+    [
       "월드컵",
-      4
+      3
     ],
     [
-      "반드시",
+      "김부장",
       2
     ],
     [
-      "발언",
+      "가게",
       2
     ],
     [
-      "경기",
+      "월급",
       2
     ],
     [
-      "해요",
+      "너무",
       2
     ],
     [
-      "나온",
+      "팽팽해",
       2
     ],
     [
-      "는데",
+      "몰라보",
       2
     ],
     [
-      "위험",
+      "맞아",
       2
     ],
     [
-      "조국",
+      "잃은",
       2
     ],
     [
-      "감별법",
-      2
-    ],
-    [
-      "일베",
-      2
-    ],
-    [
-      "무섭노",
-      2
-    ],
-    [
-      "트럼프",
-      2
-    ],
-    [
-      "엄마한",
+      "느낌",
       2
     ]
   ],
-  "total_topics_generated": 13,
-  "valid_topics": 13,
+  "total_topics_generated": 16,
+  "valid_topics": 16,
   "excluded_duplicates": 0
 }
