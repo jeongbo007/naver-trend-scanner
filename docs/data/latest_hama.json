@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-07-07 08:22:29",
+  "scan_time": "2026-07-07 11:35:12",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,17 +8,26 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 0
+    "MLB파크 불펜": 30
   },
-  "total_articles": 50,
+  "total_articles": 80,
   "articles": [
     {
-      "title": "손담비, 숙소 비눗방울 놀이 논란 결국 사과 “제 부주의였습니다”",
-      "url": "https://m.entertain.naver.com/article/112/0003800717",
+      "title": "이지혜, '80평' 압구정 아파트 떠난다…\"이번 주 이사\" 넓은 내부 공개",
+      "url": "https://m.entertain.naver.com/article/311/0002030775",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 51892,
+      "views": 74779,
       "rank": 1,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "옥주현, '차기작 하기 싫다' 발언 후폭풍에 결국..\"프로 의식과는 별개, 팬들에 하소연일 뿐\"",
+      "url": "https://m.entertain.naver.com/article/076/0004423279",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 64106,
+      "rank": 2,
       "channel": "정보주는하마"
     },
     {
@@ -26,53 +35,8 @@
       "url": "https://m.entertain.naver.com/article/108/0003450516",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 38834,
-      "rank": 2,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "고두심, '폐암 투병' 故 정애란 회상 \"담배 때문에 망해..수술 후 냄새도 싫어해\"",
-      "url": "https://m.entertain.naver.com/article/076/0004423011",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 38704,
+      "views": 64072,
       "rank": 3,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"쥐약 먹어라\"..月 900만원 수입 남편, \"사는 게 지옥\" 아내에 폭언",
-      "url": "https://m.entertain.naver.com/article/108/0003450558",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 38503,
-      "rank": 4,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"개나소나 노래\" 옥주현, 역대급 동료 비난..김호영→가요계·뮤지컬계 '광역저격'",
-      "url": "https://m.entertain.naver.com/article/109/0005566975",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 36765,
-      "rank": 5,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "닉쿤 \"후덕한 모습에 충격…하루 계란 3개 먹고 감량\"",
-      "url": "https://m.entertain.naver.com/article/003/0014049746",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 36760,
-      "rank": 6,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "‘심혜진 친조카’ 심재원, 혼혈 고백…“아들처럼 키웠다”",
-      "url": "https://m.entertain.naver.com/article/016/0002666742",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 36728,
-      "rank": 7,
       "channel": "정보주는하마"
     },
     {
@@ -80,26 +44,44 @@
       "url": "https://m.entertain.naver.com/article/445/0000435921",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 33123,
+      "views": 36758,
+      "rank": 4,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "고두심, '폐암 투병' 故 정애란 회상 \"담배 때문에 망해..수술 후 냄새도 싫어해\"",
+      "url": "https://m.entertain.naver.com/article/076/0004423011",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 36416,
+      "rank": 5,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "최우식, 논란 한 달 만에 전한 근황…파리서 여유로운 일상",
+      "url": "https://m.entertain.naver.com/article/312/0000766736",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 33510,
+      "rank": 6,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "닉쿤 \"후덕한 모습에 충격…하루 계란 3개 먹고 감량\"",
+      "url": "https://m.entertain.naver.com/article/003/0014049746",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 29651,
+      "rank": 7,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "‘심혜진 친조카’ 심재원, 혼혈 고백…“아들처럼 키웠다”",
+      "url": "https://m.entertain.naver.com/article/016/0002666742",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 21655,
       "rank": 8,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "옥주현, 김호영 고소 취하 후회…“4년 지났지만 사과는 끝내 못 받았다”",
-      "url": "https://m.entertain.naver.com/article/410/0001131441",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 29358,
-      "rank": 9,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'6년 전 공개 열애' 이준, \"결혼 원하는 여친 있었다…서서히 옥죄어 와\" ('연애전쟁')",
-      "url": "https://m.entertain.naver.com/article/213/0001393452",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 22747,
-      "rank": 10,
       "channel": "정보주는하마"
     },
     {
@@ -107,143 +89,44 @@
       "url": "https://m.entertain.naver.com/article/311/0002030847",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 20995,
+      "views": 21093,
+      "rank": 9,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "안은진, 10kg 감량 후 청바지 남아도네..쪼리 신고도 황금비율",
+      "url": "https://m.entertain.naver.com/article/112/0003800743",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 19569,
+      "rank": 10,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'모친상에 라면 기계' 신기루, 해명했다…\"조문객들 위해 준비한 것\" ('동상이몽')",
+      "url": "https://m.entertain.naver.com/article/312/0000766703",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 18816,
       "rank": 11,
       "channel": "정보주는하마"
     },
     {
-      "title": "이지혜, '80평' 압구정 아파트 떠난다…\"이번 주 이사\" 넓은 내부 공개",
-      "url": "https://m.entertain.naver.com/article/311/0002030775",
+      "title": "\"쥐약 먹어라\"..月 900만원 수입 남편, \"사는 게 지옥\" 아내에 폭언",
+      "url": "https://m.entertain.naver.com/article/108/0003450558",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 20537,
+      "views": 18071,
       "rank": 12,
       "channel": "정보주는하마"
     },
     {
-      "title": "안은진, 10kg 감량 후에도 다이어트식만 먹더니…커피차보다 눈 가는 바지 핏",
-      "url": "https://m.entertain.naver.com/article/312/0000766743",
+      "title": "지연수, 이혼 후 살고 있는 15평 복층집 공개 \"집 작아도 애 잘 키워\"",
+      "url": "https://m.entertain.naver.com/article/415/0000049908",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 18547,
+      "views": 16151,
       "rank": 13,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"고소취하 후회\" '옥장판' 재소환→오토튠 저격..옥주현 발언 '갑론을박'",
-      "url": "https://m.entertain.naver.com/article/109/0005566893",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 18045,
-      "rank": 14,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "변요한, 엘리베이터서 '신혼 일상' 포착...♥티파니 영도 '하트' 산책 데이트 공개",
-      "url": "https://m.entertain.naver.com/article/076/0004423055",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 17708,
-      "rank": 15,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "심혜진 친조카 심재원, 혼혈 고백 '이국적 비주얼'…홍석천 '환호' (조선의 사랑꾼)",
-      "url": "https://m.entertain.naver.com/article/440/0000036460",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 15012,
-      "rank": 16,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'모친상에 라면 기계' 신기루, 결국 해명했다…\"조문객들 위해 준비한 것\" ('동상이몽')",
-      "url": "https://m.entertain.naver.com/article/312/0000766703",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 13354,
-      "rank": 17,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "옥주현 “차기작도 하기 싫다”…팬들 “프로의식 어디에”",
-      "url": "https://m.entertain.naver.com/article/382/0001281965",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 11937,
-      "rank": 18,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"엄마 때문에 유흥업소 전전\"…유명 개그우먼의 아픈 가정사",
-      "url": "https://m.entertain.naver.com/article/003/0014049222",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 11085,
-      "rank": 19,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "소지섭 액션은 통했는데…'김부장', 두피 뜯고 이빨 뽑는 폭력신에 호불호 갈렸다",
-      "url": "https://m.entertain.naver.com/article/312/0000766630",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 10881,
-      "rank": 20,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"주차비만 내, 허탕\"..이동건 카페, 연속 휴무→결국 재정비 선언",
-      "url": "https://m.entertain.naver.com/article/108/0003450491",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 10025,
-      "rank": 21,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "‘7월 입대’ 이준영, 이제 드라마 끝났는데…“나라에서 찾습니다” 응원에 ‘단호’",
-      "url": "https://m.entertain.naver.com/article/112/0003800737",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 9586,
-      "rank": 22,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"JTBC 아형·냉부 출연료 미지급…피해금액 수십억\"",
-      "url": "https://m.entertain.naver.com/article/003/0014050555",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 9553,
-      "rank": 23,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'며느리' 서효림, 김치 사업 잇더니…故김수미와 함께한 투샷 오랜만에 올렸다",
-      "url": "https://m.entertain.naver.com/article/311/0002030599",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 9119,
-      "rank": 24,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'핑계고' 천만 배우 주지훈 \"그냥 천만 배우보다 더 어려운 일인 것 같아\" 웃음('제5회 BSA')",
-      "url": "https://m.entertain.naver.com/article/076/0004423156",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 8500,
-      "rank": 25,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "유재석도 일베란 말이냐..리센느 원이 '무섭노' 논란이 일으킨 나비효과",
-      "url": "https://m.entertain.naver.com/article/076/0004423219",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 8316,
-      "rank": 26,
       "channel": "정보주는하마"
     },
     {
@@ -251,17 +134,125 @@
       "url": "https://m.entertain.naver.com/article/609/0001143011",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 7855,
-      "rank": 27,
+      "views": 15840,
+      "rank": 14,
       "channel": "정보주는하마"
     },
     {
-      "title": "'윤승열♥' 김영희, 남편 술 문제 털어놨더니…시어머니 \"네가 이해해라\"",
-      "url": "https://m.entertain.naver.com/article/312/0000766734",
+      "title": "손담비, 숙소 비눗방울 놀이 논란 결국 사과 “제 부주의였습니다”",
+      "url": "https://m.entertain.naver.com/article/112/0003800717",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 7838,
-      "rank": 28,
+      "views": 15188,
+      "rank": 15,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "조혜련, 국내 취업 실패 후 호주로 간 아들 근황 공개…상 받았다",
+      "url": "https://m.entertain.naver.com/article/109/0005566910",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 13943,
+      "rank": 16,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "정웅인 둘째 딸, 성형 저격에 의연한 대처 \"병원 정보는 우리 엄마, 아빠\"",
+      "url": "https://m.entertain.naver.com/article/440/0000036504",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 8065,
+      "rank": 17,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"축하해 주세요!\"…이천수家, 막내딸 모델 이어 첫째 딸까지 대박",
+      "url": "https://m.entertain.naver.com/article/312/0000766682",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 6881,
+      "rank": 18,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "변요한♥티파니, 엘리베이터 안에서…12장에 꽉꽉 담은 신혼일기",
+      "url": "https://m.entertain.naver.com/article/109/0005566914",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 6257,
+      "rank": 19,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "안은진, 10kg 감량 후에도 다이어트식만 먹더니…커피차보다 눈 가는 바지 핏",
+      "url": "https://m.entertain.naver.com/article/312/0000766743",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 5930,
+      "rank": 20,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "지지부진 시청률 속 막 내린다…종영 앞두고 4%대 제자리 걸음 중인 월화극 ('섬보이')",
+      "url": "https://m.entertain.naver.com/article/312/0000766725",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 5719,
+      "rank": 21,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"지난해부터 따로\"…'이혼설 부인' 이솔이, 박성광과 각자 휴가 왜?",
+      "url": "https://m.entertain.naver.com/article/477/0000617065",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 5129,
+      "rank": 22,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "변요한, 엘리베이터서 '신혼 일상' 포착...♥티파니 영도 '하트' 산책 데이트 공개",
+      "url": "https://m.entertain.naver.com/article/076/0004423055",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 5103,
+      "rank": 23,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "김기리, 게임 술 담배 못 끊고 방황하다 “故 박지선 누나 죽었다” 터닝포인트 ‘먹먹’(못간다)",
+      "url": "https://m.entertain.naver.com/article/609/0001143323",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 5071,
+      "rank": 24,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "이국주, 이렇게 슬림했나…일본 자취→10년 만에 새 프로필 공개",
+      "url": "https://m.entertain.naver.com/article/213/0001393431",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 4802,
+      "rank": 25,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"다 닦았다\"던 손담비, 민폐논란에 입장 바꿨다 \"숙소에서 비눗방울, 부주의했다\"",
+      "url": "https://m.entertain.naver.com/article/477/0000616982",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 4642,
+      "rank": 26,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "故강희선 아들, 장례 후 절절한 심경…\"사무치게 그리운 어머니, 13개월간 병실 생활\"",
+      "url": "https://m.entertain.naver.com/article/311/0002030739",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 4624,
+      "rank": 27,
       "channel": "정보주는하마"
     },
     {
@@ -269,26 +260,26 @@
       "url": "https://m.entertain.naver.com/article/469/0000940863",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 7237,
+      "views": 4330,
+      "rank": 28,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'9월 결혼' 류화영, 양가 어머니와 한복집 나들이…\"새아가 까꿍\" 애교 가득 예비 며느리",
+      "url": "https://m.entertain.naver.com/article/311/0002030971",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 4316,
       "rank": 29,
       "channel": "정보주는하마"
     },
     {
-      "title": "'영애씨 母' 김정하, 담배 배운 충격적 이유 \"18시간 울어..억울해서 못 끊어\"",
-      "url": "https://m.entertain.naver.com/article/076/0004423038",
+      "title": "'결혼 6년 차' 배우♥배우 부부, 뇌종양 발견…\"남편 머리에 5cm 크기\"",
+      "url": "https://m.entertain.naver.com/article/445/0000435975",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 6900,
+      "views": 4147,
       "rank": 30,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "이강인 ‘연봉 100억원’ AT 마드리드 이적 확정",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 26501,
-      "rank": 1,
       "channel": "정보주는하마"
     },
     {
@@ -296,35 +287,8 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 21694,
-      "rank": 2,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "정태영 현대카드 부회장, 홍명보 태도에 “신기하다”",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 21643,
-      "rank": 3,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "韓 축구 최초 초대박! 이강인(아틀레티코) 이적 확정...최고 공신력 컨펌 \"이적료 700억, 2031년까지 계약\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 20216,
-      "rank": 4,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "월드컵은 이런 곳이다...'패자' 비니시우스가 다가가자, '승자' 홀란이 안겼다, \"상처 받은 사람이 보여준 품격 있는 행동\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 19183,
-      "rank": 5,
+      "views": 39710,
+      "rank": 1,
       "channel": "정보주는하마"
     },
     {
@@ -332,17 +296,8 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 14843,
-      "rank": 6,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "벤투가 관심 표명했다는데... 벌써부터 차기 감독에 시선 집중",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 13866,
-      "rank": 7,
+      "views": 30735,
+      "rank": 2,
       "channel": "정보주는하마"
     },
     {
@@ -350,35 +305,26 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 12115,
-      "rank": 9,
+      "views": 16913,
+      "rank": 3,
       "channel": "정보주는하마"
     },
     {
-      "title": "미쳤다, 역대 30번째 한국인 빅리거 탄생 임박! 고우석 40인 로스터 자리 확보→ML 데뷔 준비 마쳤다",
+      "title": "'메이저리거' 고우석, 미네소타서 5억 원 받는다...3년간 총 70억원 챙겨",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 10962,
-      "rank": 10,
+      "views": 12717,
+      "rank": 4,
       "channel": "정보주는하마"
     },
     {
-      "title": "HERE WE GO! 韓 축구 역대급 경사...이강인, 마침내 AT마드리드 유니폼 입는다→\"이적료 최대 699억·5년 계약\"",
+      "title": "\"아시아는 5장이 적당, 출전권 낭비\"…한국은 쉬운 조에서 탈락, 일본마저 32강서 짐 싸 → \"슬프고 한심한 현실\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 10738,
-      "rank": 11,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"음바페? 식민지 카메룬인, 코코넛 빨고 자란 침팬지\" 파라과이 정치인 막말 파문…음바페 분노 \"비열한 여자, 나라 망신이다\"→프랑스 법적 대응까지",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 10142,
-      "rank": 12,
+      "views": 11280,
+      "rank": 5,
       "channel": "정보주는하마"
     },
     {
@@ -386,111 +332,85 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 8810,
-      "rank": 17,
+      "views": 10066,
+      "rank": 6,
       "channel": "정보주는하마"
     },
     {
-      "title": "박지성, 대한축구협회장 선거 안 나간다...유승민 체육회장-최휘영 문체부 장관과 손 잡고 한국 축구 바꾼다 → K-축구 혁신위 출범",
+      "title": "정신 못 차린 美 트럼프 \"벨기에가 이기면 승부조작, 2020 대선처럼\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 7770,
-      "rank": 18,
+      "views": 8571,
+      "rank": 8,
       "channel": "정보주는하마"
     },
     {
-      "title": "'깜짝 결단' KIA, 어쩌면 마지막 기회일까…'日 유학' 좌완 에이스와 경쟁 시작된다",
+      "title": "“2026~2027시즌 두 번째 영입 이강인” 마침내 ‘오피셜’ 공식발표 뜬다…‘韓 에이스’ AT 마드리드행 초임박 “모든 거래 완료, 이적료 최대 700억”",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 7080,
+      "views": 8299,
+      "rank": 9,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "홍명보에게 \"제발 대표팀 맡아주세요\"...월드컵 실패하니 '나 몰라라' 도망친 이임생 전 이사, 캄보디아 팀 기술고문 부임",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 7150,
+      "rank": 10,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "쥐 죽은 듯이 조용하다가 사과 한마디 없이 캄보디아로…‘홍명보 선임 주도’ 이임생, 나가월드FC 테크니컬 디렉터 부임",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 6069,
+      "rank": 14,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "2044억! 손흥민은 그렇게 외면하더니…토트넘, 이탈리아 특급 MF 토날리와 사인→폭풍 영입 계속된다",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 5213,
+      "rank": 19,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "한국 축구 날벼락! 월드컵 본선행 걱정하나?…\"아시아 8.5장 너무 많아\" 토너먼트 진출 압도적 '꼴찌'→대륙별 티켓 배분 재조정 되나",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 4815,
       "rank": 20,
       "channel": "정보주는하마"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 44,
+      "article_count": 42,
       "topics": [
         {
-          "title": "\"이강인, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+          "title": "\"영입, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
           "angle_type": "자산·몸값",
-          "article_count": 5,
-          "source_article": "이강인 ‘연봉 100억원’ AT 마드리드 이적 확정",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "이강인",
-            "연봉",
-            "마드리",
-            "이적",
-            "확정"
-          ],
-          "template": "자산 서열",
-          "score": 7.9,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"축구 자산이 얼마?\" 축구급 자산가 스타 TOP10",
-          "angle_type": "👤 축구",
-          "article_count": 3,
-          "source_article": "韓 축구 최초 초대박! 이강인(아틀레티코) 이적 확정...최고 공신력 컨펌 \"이적료 700억, 2031년까지 계약\"",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "축구"
-          ],
-          "template": "자산 서열",
-          "score": 7.4,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"월드컵, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 3,
+          "article_count": 4,
           "source_article": "\"한국 감독도 외국인만큼 연봉 받아야\" 홍명보 선임 주도했던 이임생 캄보디아 프로팀 취직...월드컵, 참사 최소한의 설명도 없었다",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "월드컵",
+            "영입",
             "감독도",
             "외국인",
             "연봉",
             "받아야"
           ],
-          "template": "스포츠 기록",
-          "score": 7.3,
+          "template": "자산 서열",
+          "score": 7.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -500,30 +420,212 @@
           },
           "table": {
             "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+          "title": "\"이임생 자산이 얼마?\" 이임생급 자산가 스타 TOP10",
+          "angle_type": "👤 이임생",
+          "article_count": 4,
+          "source_article": "\"한국 감독도 외국인만큼 연봉 받아야\" 홍명보 선임 주도했던 이임생 캄보디아 프로팀 취직...월드컵, 참사 최소한의 설명도 없었다",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "이임생"
+          ],
+          "template": "자산 서열",
+          "score": 7.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"캄보디 자산이 얼마?\" 캄보디급 자산가 스타 TOP10",
+          "angle_type": "👤 캄보디",
+          "article_count": 4,
+          "source_article": "\"한국 감독도 외국인만큼 연봉 받아야\" 홍명보 선임 주도했던 이임생 캄보디아 프로팀 취직...월드컵, 참사 최소한의 설명도 없었다",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "캄보디"
+          ],
+          "template": "자산 서열",
+          "score": 7.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"홍명보 자산이 얼마?\" 홍명보급 자산가 스타 TOP10",
+          "angle_type": "👤 홍명보",
+          "article_count": 4,
+          "source_article": "\"한국 감독도 외국인만큼 연봉 받아야\" 홍명보 선임 주도했던 이임생 캄보디아 프로팀 취직...월드컵, 참사 최소한의 설명도 없었다",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "홍명보"
+          ],
+          "template": "자산 서열",
+          "score": 7.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"선임 자산이 얼마?\" 선임급 자산가 스타 TOP10",
+          "angle_type": "👤 선임",
+          "article_count": 3,
+          "source_article": "\"한국 감독도 외국인만큼 연봉 받아야\" 홍명보 선임 주도했던 이임생 캄보디아 프로팀 취직...월드컵, 참사 최소한의 설명도 없었다",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "선임"
+          ],
+          "template": "자산 서열",
+          "score": 7.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "angle_type": "결혼·이혼",
+          "article_count": 5,
+          "source_article": "\"찢어발기러 갈 것\"…550만 공포에 떨게 한 목소리→소름 돋는 연기로 '시청률 6.4%' 찍은 韓 드라마 ('결혼의완성')",
+          "source_url": "https://m.entertain.naver.com/article/445/0000435921",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "결혼",
+            "배우",
+            "찢어발",
+            "기러",
+            "공포에"
+          ],
+          "template": "결혼 화제",
+          "score": 7.1,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"심혜진이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+          "angle_type": "가족·혈연",
+          "article_count": 6,
+          "source_article": "‘심혜진 친조카’ 심재원, 혼혈 고백…“아들처럼 키웠다”",
+          "source_url": "https://m.entertain.naver.com/article/016/0002666742",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "심혜진",
+            "심재원",
+            "아들처",
+            "아들",
+            "친조카"
+          ],
+          "template": "동갑내기",
+          "score": 6.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "나이",
+              "대표작",
+              "현재 활동"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"손담비까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
           "angle_type": "논란·사건",
           "article_count": 3,
-          "source_article": "손담비, 숙소 비눗방울 놀이 논란 결국 사과 “제 부주의였습니다”",
-          "source_url": "https://m.entertain.naver.com/article/112/0003800717",
+          "source_article": "최우식, 논란 한 달 만에 전한 근황…파리서 여유로운 일상",
+          "source_url": "https://m.entertain.naver.com/article/312/0000766736",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "손담비",
-            "숙소",
             "비눗방",
-            "놀이",
-            "사과"
+            "부주의",
+            "최우식",
+            "근황"
           ],
           "template": "논란 집합",
-          "score": 7.0,
+          "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -542,17 +644,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"홍명보 자산이 얼마?\" 홍명보급 자산가 스타 TOP10",
-          "angle_type": "👤 홍명보",
-          "article_count": 3,
-          "source_article": "정태영 현대카드 부회장, 홍명보 태도에 “신기하다”",
+          "title": "\"월드컵, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 2,
+          "source_article": "\"한국 감독도 외국인만큼 연봉 받아야\" 홍명보 선임 주도했던 이임생 캄보디아 프로팀 취직...월드컵, 참사 최소한의 설명도 없었다",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "홍명보"
+            "월드컵",
+            "감독도",
+            "외국인",
+            "연봉",
+            "받아야"
           ],
-          "template": "자산 서열",
-          "score": 6.5,
+          "template": "스포츠 기록",
+          "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -562,26 +668,26 @@
           },
           "table": {
             "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"옥주현\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 옥주현",
-          "article_count": 4,
-          "source_article": "\"개나소나 노래\" 옥주현, 역대급 동료 비난..김호영→가요계·뮤지컬계 '광역저격'",
-          "source_url": "https://m.entertain.naver.com/article/109/0005566975",
+          "title": "\"감량\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 감량",
+          "article_count": 3,
+          "source_article": "닉쿤 \"후덕한 모습에 충격…하루 계란 3개 먹고 감량\"",
+          "source_url": "https://m.entertain.naver.com/article/003/0014049746",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "옥주현"
+            "감량"
           ],
           "template": "인맥",
-          "score": 6.3,
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -600,14 +706,47 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"심재원\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 심재원",
-          "article_count": 3,
-          "source_article": "‘심혜진 친조카’ 심재원, 혼혈 고백…“아들처럼 키웠다”",
-          "source_url": "https://m.entertain.naver.com/article/016/0002666742",
+          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 2,
+          "source_article": "최우식, 논란 한 달 만에 전한 근황…파리서 여유로운 일상",
+          "source_url": "https://m.entertain.naver.com/article/312/0000766736",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "심재원"
+            "근황",
+            "최우식",
+            "파리서",
+            "여유로",
+            "일상"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"이사\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 이사",
+          "article_count": 3,
+          "source_article": "이지혜, '80평' 압구정 아파트 떠난다…\"이번 주 이사\" 넓은 내부 공개",
+          "source_url": "https://m.entertain.naver.com/article/311/0002030775",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "이사"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -624,39 +763,6 @@
               "분류",
               "이슈 내용",
               "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"심혜진이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 2,
-          "source_article": "‘심혜진 친조카’ 심재원, 혼혈 고백…“아들처럼 키웠다”",
-          "source_url": "https://m.entertain.naver.com/article/016/0002666742",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "심혜진",
-            "심재원",
-            "아들처",
-            "친조카",
-            "혼혈"
-          ],
-          "template": "동갑내기",
-          "score": 5.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
             ]
           },
           "channel": "정보주는하마"
@@ -697,109 +803,15 @@
       ],
       "keyword_freq": [
         [
-          "옥주현",
+          "이임생",
           4
         ],
         [
-          "심재원",
+          "이사",
           3
-        ],
-        [
-          "심혜진",
-          3
-        ],
-        [
-          "이강인",
-          3
-        ],
-        [
-          "홍명보",
-          3
-        ],
-        [
-          "축구",
-          3
-        ],
-        [
-          "담배",
-          2
-        ],
-        [
-          "때문에",
-          2
-        ],
-        [
-          "남편",
-          2
-        ],
-        [
-          "김호영",
-          2
-        ],
-        [
-          "역대급",
-          2
         ],
         [
           "감량",
-          2
-        ],
-        [
-          "고백",
-          2
-        ],
-        [
-          "아들처럼",
-          2
-        ],
-        [
-          "친조카",
-          2
-        ],
-        [
-          "혼혈",
-          2
-        ],
-        [
-          "드라마",
-          2
-        ],
-        [
-          "후회",
-          2
-        ],
-        [
-          "배우",
-          2
-        ],
-        [
-          "두피",
-          2
-        ]
-      ],
-      "name_freq": [
-        [
-          "옥주현",
-          4
-        ],
-        [
-          "심재원",
-          3
-        ],
-        [
-          "심혜진",
-          3
-        ],
-        [
-          "이강인",
-          3
-        ],
-        [
-          "홍명보",
-          3
-        ],
-        [
-          "축구",
           3
         ],
         [
@@ -807,11 +819,55 @@
           3
         ],
         [
+          "홍명보",
+          3
+        ],
+        [
+          "선임",
+          3
+        ],
+        [
+          "캄보디아",
+          3
+        ],
+        [
+          "발언",
+          2
+        ],
+        [
+          "시청률",
+          2
+        ],
+        [
           "담배",
           2
         ],
         [
-          "때문에",
+          "일상",
+          2
+        ],
+        [
+          "근황",
+          2
+        ],
+        [
+          "아들처럼",
+          2
+        ],
+        [
+          "심혜진",
+          2
+        ],
+        [
+          "심재원",
+          2
+        ],
+        [
+          "배우",
+          2
+        ],
+        [
+          "안은진",
           2
         ],
         [
@@ -819,30 +875,80 @@
           2
         ],
         [
-          "김호영",
+          "키워",
           2
         ],
         [
-          "역대급",
+          "사과",
           2
+        ]
+      ],
+      "name_freq": [
+        [
+          "이임생",
+          4
+        ],
+        [
+          "캄보디",
+          4
+        ],
+        [
+          "월드컵",
+          4
+        ],
+        [
+          "홍명보",
+          4
+        ],
+        [
+          "이사",
+          3
         ],
         [
           "감량",
+          3
+        ],
+        [
+          "선임",
+          3
+        ],
+        [
+          "발언",
           2
         ],
         [
-          "고백",
+          "시청률",
+          2
+        ],
+        [
+          "담배",
+          2
+        ],
+        [
+          "일상",
+          2
+        ],
+        [
+          "근황",
+          2
+        ],
+        [
+          "심혜진",
           2
         ],
         [
           "아들처",
+          2
+        ],
+        [
+          "심재원",
           2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
-          5
+          4
         ],
         [
           "논란·사건",
@@ -850,6 +956,10 @@
         ],
         [
           "결혼·이혼",
+          5
+        ],
+        [
+          "복귀·근황",
           2
         ],
         [
@@ -858,62 +968,33 @@
         ],
         [
           "스포츠",
-          3
+          2
         ],
         [
           "가족·혈연",
-          2
+          6
         ]
       ]
     },
     "초구딱": {
-      "article_count": 6,
+      "article_count": 38,
       "topics": [
         {
-          "title": "\"월드컵, 지금 어디서 뭐 하나?\" 월드컵 근황 총정리",
-          "angle_type": "👤 월드컵",
-          "article_count": 3,
-          "source_article": "\"한국 선수들 희생에 감명 받았다, 예측 불가능한 팀으로 만들고 싶어\"…'카타르월드컵 16강' 벤투 감독, 대표팀 복귀 의사",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "월드컵"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 7.1,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"경기, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 4,
-          "source_article": "이정후와 타격왕 싸움 벌였는데…로페스, 타율·최다안타 압도적인 1위 질주→4경기 연속 멀티 히트",
+          "article_count": 10,
+          "source_article": "'와' 이강인 1475억 단칼 거절!…\"입단 축하해\" 시메오네 감독 직접 전화 걸었다→LEE, AT 마드리드행 확정+800억 5년 계약 '뒷얘기'",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "경기",
-            "월드컵",
             "감독",
-            "대표팀",
-            "한태양"
+            "경기",
+            "이강인",
+            "단칼",
+            "거절"
           ],
           "template": "스포츠 기록",
-          "score": 6.7,
+          "score": 7.2,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -930,93 +1011,172 @@
             ]
           },
           "channel": "초구딱"
+        },
+        {
+          "title": "\"외인, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 3,
+          "source_article": "'와' 이강인 1475억 단칼 거절!…\"입단 축하해\" 시메오네 감독 직접 전화 걸었다→LEE, AT 마드리드행 확정+800억 5년 계약 '뒷얘기'",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "외인",
+            "이강인",
+            "단칼",
+            "거절",
+            "입단"
+          ],
+          "template": "자산 서열",
+          "score": 6.9,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"승부예\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 승부예",
+          "article_count": 4,
+          "source_article": "🏆[7/7 업뎃] 초접전! 2026 북중미월드컵 승부예측 이벤트🏆",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606100116098223",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "승부예"
+          ],
+          "template": "인맥",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"월드컵\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 월드컵",
+          "article_count": 3,
+          "source_article": "\"대표팀과 함께한 마지막 경기\" 사임 발표...\"국민들께 감사\" 포르투갈 마르티네스 감독, 월드컵 16강 패배 직후 지휘봉 내려놓았다",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "월드컵"
+          ],
+          "template": "인맥",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"안내\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안내",
+          "article_count": 3,
+          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "안내"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"바로가\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 바로가",
+          "article_count": 3,
+          "source_article": "🏆7/8(수) 2026 WC 승부예측 바로가기 [16강]🏆",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202607050116989796",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "바로가"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
         [
-          "경기",
-          2
+          "승부예측",
+          4
         ],
         [
           "감독",
-          2
+          3
         ],
         [
-          "월드컵",
-          2
+          "안내",
+          3
         ],
         [
-          "타격왕",
-          1
-        ],
-        [
-          "싸움",
-          1
-        ],
-        [
-          "타율",
-          1
-        ],
-        [
-          "로페스",
-          1
-        ],
-        [
-          "질주",
-          1
-        ],
-        [
-          "히트",
-          1
-        ],
-        [
-          "최다안타",
-          1
-        ],
-        [
-          "벌였는데",
-          1
-        ],
-        [
-          "멀티",
-          1
-        ],
-        [
-          "연속",
-          1
-        ],
-        [
-          "압도적인",
-          1
-        ],
-        [
-          "이정후와",
-          1
-        ],
-        [
-          "벤투",
-          1
-        ],
-        [
-          "대표팀",
-          1
-        ],
-        [
-          "불가능한",
-          1
-        ],
-        [
-          "선수들",
-          1
-        ],
-        [
-          "감명",
-          1
-        ]
-      ],
-      "name_freq": [
-        [
-          "월드컵",
+          "바로가기",
           3
         ],
         [
@@ -1024,101 +1184,141 @@
           2
         ],
         [
-          "대표팀",
+          "월드컵",
           2
         ],
         [
+          "외인",
+          2
+        ],
+        [
+          "공지",
+          2
+        ],
+        [
+          "이유가",
+          2
+        ],
+        [
+          "직접",
+          1
+        ],
+        [
+          "시메오네",
+          1
+        ],
+        [
+          "걸었다",
+          1
+        ],
+        [
+          "축하해",
+          1
+        ],
+        [
+          "계약",
+          1
+        ],
+        [
+          "이강인",
+          1
+        ],
+        [
+          "뒷얘기",
+          1
+        ],
+        [
+          "확정",
+          1
+        ],
+        [
+          "거절",
+          1
+        ],
+        [
+          "전화",
+          1
+        ],
+        [
+          "마드리드행",
+          1
+        ]
+      ],
+      "name_freq": [
+        [
+          "승부예",
+          4
+        ],
+        [
           "감독",
+          3
+        ],
+        [
+          "월드컵",
+          3
+        ],
+        [
+          "안내",
+          3
+        ],
+        [
+          "바로가",
+          3
+        ],
+        [
+          "경기",
+          2
+        ],
+        [
+          "외인",
+          2
+        ],
+        [
+          "인데",
+          2
+        ],
+        [
+          "공지",
+          2
+        ],
+        [
+          "이유가",
+          2
+        ],
+        [
+          "네요",
           2
         ]
       ],
       "angle_scores": [
         [
+          "자산·몸값",
+          3
+        ],
+        [
           "스포츠",
-          4
+          10
         ]
       ]
     }
   },
   "topics": [
     {
-      "title": "\"이강인, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "title": "\"영입, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
       "angle_type": "자산·몸값",
-      "article_count": 5,
-      "source_article": "이강인 ‘연봉 100억원’ AT 마드리드 이적 확정",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "이강인",
-        "연봉",
-        "마드리",
-        "이적",
-        "확정"
-      ],
-      "template": "자산 서열",
-      "score": 7.9,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"축구 자산이 얼마?\" 축구급 자산가 스타 TOP10",
-      "angle_type": "👤 축구",
-      "article_count": 3,
-      "source_article": "韓 축구 최초 초대박! 이강인(아틀레티코) 이적 확정...최고 공신력 컨펌 \"이적료 700억, 2031년까지 계약\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "축구"
-      ],
-      "template": "자산 서열",
-      "score": 7.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"월드컵, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 3,
+      "article_count": 4,
       "source_article": "\"한국 감독도 외국인만큼 연봉 받아야\" 홍명보 선임 주도했던 이임생 캄보디아 프로팀 취직...월드컵, 참사 최소한의 설명도 없었다",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "월드컵",
+        "영입",
         "감독도",
         "외국인",
         "연봉",
         "받아야"
       ],
-      "template": "스포츠 기록",
-      "score": 7.3,
+      "template": "자산 서열",
+      "score": 7.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1128,30 +1328,212 @@
       },
       "table": {
         "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "title": "\"이임생 자산이 얼마?\" 이임생급 자산가 스타 TOP10",
+      "angle_type": "👤 이임생",
+      "article_count": 4,
+      "source_article": "\"한국 감독도 외국인만큼 연봉 받아야\" 홍명보 선임 주도했던 이임생 캄보디아 프로팀 취직...월드컵, 참사 최소한의 설명도 없었다",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "이임생"
+      ],
+      "template": "자산 서열",
+      "score": 7.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"캄보디 자산이 얼마?\" 캄보디급 자산가 스타 TOP10",
+      "angle_type": "👤 캄보디",
+      "article_count": 4,
+      "source_article": "\"한국 감독도 외국인만큼 연봉 받아야\" 홍명보 선임 주도했던 이임생 캄보디아 프로팀 취직...월드컵, 참사 최소한의 설명도 없었다",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "캄보디"
+      ],
+      "template": "자산 서열",
+      "score": 7.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"홍명보 자산이 얼마?\" 홍명보급 자산가 스타 TOP10",
+      "angle_type": "👤 홍명보",
+      "article_count": 4,
+      "source_article": "\"한국 감독도 외국인만큼 연봉 받아야\" 홍명보 선임 주도했던 이임생 캄보디아 프로팀 취직...월드컵, 참사 최소한의 설명도 없었다",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "홍명보"
+      ],
+      "template": "자산 서열",
+      "score": 7.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"선임 자산이 얼마?\" 선임급 자산가 스타 TOP10",
+      "angle_type": "👤 선임",
+      "article_count": 3,
+      "source_article": "\"한국 감독도 외국인만큼 연봉 받아야\" 홍명보 선임 주도했던 이임생 캄보디아 프로팀 취직...월드컵, 참사 최소한의 설명도 없었다",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "선임"
+      ],
+      "template": "자산 서열",
+      "score": 7.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 5,
+      "source_article": "\"찢어발기러 갈 것\"…550만 공포에 떨게 한 목소리→소름 돋는 연기로 '시청률 6.4%' 찍은 韓 드라마 ('결혼의완성')",
+      "source_url": "https://m.entertain.naver.com/article/445/0000435921",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "결혼",
+        "배우",
+        "찢어발",
+        "기러",
+        "공포에"
+      ],
+      "template": "결혼 화제",
+      "score": 7.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"심혜진이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 6,
+      "source_article": "‘심혜진 친조카’ 심재원, 혼혈 고백…“아들처럼 키웠다”",
+      "source_url": "https://m.entertain.naver.com/article/016/0002666742",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "심혜진",
+        "심재원",
+        "아들처",
+        "아들",
+        "친조카"
+      ],
+      "template": "동갑내기",
+      "score": 6.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "나이",
+          "대표작",
+          "현재 활동"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"손담비까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
       "angle_type": "논란·사건",
       "article_count": 3,
-      "source_article": "손담비, 숙소 비눗방울 놀이 논란 결국 사과 “제 부주의였습니다”",
-      "source_url": "https://m.entertain.naver.com/article/112/0003800717",
+      "source_article": "최우식, 논란 한 달 만에 전한 근황…파리서 여유로운 일상",
+      "source_url": "https://m.entertain.naver.com/article/312/0000766736",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "손담비",
-        "숙소",
         "비눗방",
-        "놀이",
-        "사과"
+        "부주의",
+        "최우식",
+        "근황"
       ],
       "template": "논란 집합",
-      "score": 7.0,
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1170,17 +1552,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"홍명보 자산이 얼마?\" 홍명보급 자산가 스타 TOP10",
-      "angle_type": "👤 홍명보",
-      "article_count": 3,
-      "source_article": "정태영 현대카드 부회장, 홍명보 태도에 “신기하다”",
+      "title": "\"월드컵, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 2,
+      "source_article": "\"한국 감독도 외국인만큼 연봉 받아야\" 홍명보 선임 주도했던 이임생 캄보디아 프로팀 취직...월드컵, 참사 최소한의 설명도 없었다",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "홍명보"
+        "월드컵",
+        "감독도",
+        "외국인",
+        "연봉",
+        "받아야"
       ],
-      "template": "자산 서열",
-      "score": 6.5,
+      "template": "스포츠 기록",
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1190,26 +1576,26 @@
       },
       "table": {
         "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"옥주현\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 옥주현",
-      "article_count": 4,
-      "source_article": "\"개나소나 노래\" 옥주현, 역대급 동료 비난..김호영→가요계·뮤지컬계 '광역저격'",
-      "source_url": "https://m.entertain.naver.com/article/109/0005566975",
+      "title": "\"감량\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 감량",
+      "article_count": 3,
+      "source_article": "닉쿤 \"후덕한 모습에 충격…하루 계란 3개 먹고 감량\"",
+      "source_url": "https://m.entertain.naver.com/article/003/0014049746",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "옥주현"
+        "감량"
       ],
       "template": "인맥",
-      "score": 6.3,
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1228,14 +1614,47 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"심재원\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 심재원",
-      "article_count": 3,
-      "source_article": "‘심혜진 친조카’ 심재원, 혼혈 고백…“아들처럼 키웠다”",
-      "source_url": "https://m.entertain.naver.com/article/016/0002666742",
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "최우식, 논란 한 달 만에 전한 근황…파리서 여유로운 일상",
+      "source_url": "https://m.entertain.naver.com/article/312/0000766736",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "심재원"
+        "근황",
+        "최우식",
+        "파리서",
+        "여유로",
+        "일상"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이사\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 이사",
+      "article_count": 3,
+      "source_article": "이지혜, '80평' 압구정 아파트 떠난다…\"이번 주 이사\" 넓은 내부 공개",
+      "source_url": "https://m.entertain.naver.com/article/311/0002030775",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "이사"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1252,39 +1671,6 @@
           "분류",
           "이슈 내용",
           "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"심혜진이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 2,
-      "source_article": "‘심혜진 친조카’ 심재원, 혼혈 고백…“아들처럼 키웠다”",
-      "source_url": "https://m.entertain.naver.com/article/016/0002666742",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "심혜진",
-        "심재원",
-        "아들처",
-        "친조카",
-        "혼혈"
-      ],
-      "template": "동갑내기",
-      "score": 5.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
         ]
       },
       "channel": "정보주는하마"
@@ -1325,83 +1711,21 @@
   ],
   "all_topics": [
     {
-      "title": "\"이강인, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "title": "\"영입, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
       "angle_type": "자산·몸값",
-      "article_count": 5,
-      "source_article": "이강인 ‘연봉 100억원’ AT 마드리드 이적 확정",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "이강인",
-        "연봉",
-        "마드리",
-        "이적",
-        "확정"
-      ],
-      "template": "자산 서열",
-      "score": 7.9,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"축구 자산이 얼마?\" 축구급 자산가 스타 TOP10",
-      "angle_type": "👤 축구",
-      "article_count": 3,
-      "source_article": "韓 축구 최초 초대박! 이강인(아틀레티코) 이적 확정...최고 공신력 컨펌 \"이적료 700억, 2031년까지 계약\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "축구"
-      ],
-      "template": "자산 서열",
-      "score": 7.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"월드컵, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 3,
+      "article_count": 4,
       "source_article": "\"한국 감독도 외국인만큼 연봉 받아야\" 홍명보 선임 주도했던 이임생 캄보디아 프로팀 취직...월드컵, 참사 최소한의 설명도 없었다",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "월드컵",
+        "영입",
         "감독도",
         "외국인",
         "연봉",
         "받아야"
       ],
-      "template": "스포츠 기록",
-      "score": 7.3,
+      "template": "자산 서열",
+      "score": 7.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1411,30 +1735,212 @@
       },
       "table": {
         "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "title": "\"이임생 자산이 얼마?\" 이임생급 자산가 스타 TOP10",
+      "angle_type": "👤 이임생",
+      "article_count": 4,
+      "source_article": "\"한국 감독도 외국인만큼 연봉 받아야\" 홍명보 선임 주도했던 이임생 캄보디아 프로팀 취직...월드컵, 참사 최소한의 설명도 없었다",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "이임생"
+      ],
+      "template": "자산 서열",
+      "score": 7.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"캄보디 자산이 얼마?\" 캄보디급 자산가 스타 TOP10",
+      "angle_type": "👤 캄보디",
+      "article_count": 4,
+      "source_article": "\"한국 감독도 외국인만큼 연봉 받아야\" 홍명보 선임 주도했던 이임생 캄보디아 프로팀 취직...월드컵, 참사 최소한의 설명도 없었다",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "캄보디"
+      ],
+      "template": "자산 서열",
+      "score": 7.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"홍명보 자산이 얼마?\" 홍명보급 자산가 스타 TOP10",
+      "angle_type": "👤 홍명보",
+      "article_count": 4,
+      "source_article": "\"한국 감독도 외국인만큼 연봉 받아야\" 홍명보 선임 주도했던 이임생 캄보디아 프로팀 취직...월드컵, 참사 최소한의 설명도 없었다",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "홍명보"
+      ],
+      "template": "자산 서열",
+      "score": 7.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"선임 자산이 얼마?\" 선임급 자산가 스타 TOP10",
+      "angle_type": "👤 선임",
+      "article_count": 3,
+      "source_article": "\"한국 감독도 외국인만큼 연봉 받아야\" 홍명보 선임 주도했던 이임생 캄보디아 프로팀 취직...월드컵, 참사 최소한의 설명도 없었다",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "선임"
+      ],
+      "template": "자산 서열",
+      "score": 7.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 5,
+      "source_article": "\"찢어발기러 갈 것\"…550만 공포에 떨게 한 목소리→소름 돋는 연기로 '시청률 6.4%' 찍은 韓 드라마 ('결혼의완성')",
+      "source_url": "https://m.entertain.naver.com/article/445/0000435921",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "결혼",
+        "배우",
+        "찢어발",
+        "기러",
+        "공포에"
+      ],
+      "template": "결혼 화제",
+      "score": 7.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"심혜진이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 6,
+      "source_article": "‘심혜진 친조카’ 심재원, 혼혈 고백…“아들처럼 키웠다”",
+      "source_url": "https://m.entertain.naver.com/article/016/0002666742",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "심혜진",
+        "심재원",
+        "아들처",
+        "아들",
+        "친조카"
+      ],
+      "template": "동갑내기",
+      "score": 6.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "나이",
+          "대표작",
+          "현재 활동"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"손담비까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
       "angle_type": "논란·사건",
       "article_count": 3,
-      "source_article": "손담비, 숙소 비눗방울 놀이 논란 결국 사과 “제 부주의였습니다”",
-      "source_url": "https://m.entertain.naver.com/article/112/0003800717",
+      "source_article": "최우식, 논란 한 달 만에 전한 근황…파리서 여유로운 일상",
+      "source_url": "https://m.entertain.naver.com/article/312/0000766736",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "손담비",
-        "숙소",
         "비눗방",
-        "놀이",
-        "사과"
+        "부주의",
+        "최우식",
+        "근황"
       ],
       "template": "논란 집합",
-      "score": 7.0,
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1453,17 +1959,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"홍명보 자산이 얼마?\" 홍명보급 자산가 스타 TOP10",
-      "angle_type": "👤 홍명보",
-      "article_count": 3,
-      "source_article": "정태영 현대카드 부회장, 홍명보 태도에 “신기하다”",
+      "title": "\"월드컵, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 2,
+      "source_article": "\"한국 감독도 외국인만큼 연봉 받아야\" 홍명보 선임 주도했던 이임생 캄보디아 프로팀 취직...월드컵, 참사 최소한의 설명도 없었다",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "홍명보"
+        "월드컵",
+        "감독도",
+        "외국인",
+        "연봉",
+        "받아야"
       ],
-      "template": "자산 서열",
-      "score": 6.5,
+      "template": "스포츠 기록",
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1473,26 +1983,26 @@
       },
       "table": {
         "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"옥주현\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 옥주현",
-      "article_count": 4,
-      "source_article": "\"개나소나 노래\" 옥주현, 역대급 동료 비난..김호영→가요계·뮤지컬계 '광역저격'",
-      "source_url": "https://m.entertain.naver.com/article/109/0005566975",
+      "title": "\"감량\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 감량",
+      "article_count": 3,
+      "source_article": "닉쿤 \"후덕한 모습에 충격…하루 계란 3개 먹고 감량\"",
+      "source_url": "https://m.entertain.naver.com/article/003/0014049746",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "옥주현"
+        "감량"
       ],
       "template": "인맥",
-      "score": 6.3,
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1511,14 +2021,47 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"심재원\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 심재원",
-      "article_count": 3,
-      "source_article": "‘심혜진 친조카’ 심재원, 혼혈 고백…“아들처럼 키웠다”",
-      "source_url": "https://m.entertain.naver.com/article/016/0002666742",
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "최우식, 논란 한 달 만에 전한 근황…파리서 여유로운 일상",
+      "source_url": "https://m.entertain.naver.com/article/312/0000766736",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "심재원"
+        "근황",
+        "최우식",
+        "파리서",
+        "여유로",
+        "일상"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이사\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 이사",
+      "article_count": 3,
+      "source_article": "이지혜, '80평' 압구정 아파트 떠난다…\"이번 주 이사\" 넓은 내부 공개",
+      "source_url": "https://m.entertain.naver.com/article/311/0002030775",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "이사"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1535,39 +2078,6 @@
           "분류",
           "이슈 내용",
           "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"심혜진이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 2,
-      "source_article": "‘심혜진 친조카’ 심재원, 혼혈 고백…“아들처럼 키웠다”",
-      "source_url": "https://m.entertain.naver.com/article/016/0002666742",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "심혜진",
-        "심재원",
-        "아들처",
-        "친조카",
-        "혼혈"
-      ],
-      "template": "동갑내기",
-      "score": 5.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
         ]
       },
       "channel": "정보주는하마"
@@ -1606,50 +2116,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"월드컵, 지금 어디서 뭐 하나?\" 월드컵 근황 총정리",
-      "angle_type": "👤 월드컵",
-      "article_count": 3,
-      "source_article": "\"한국 선수들 희생에 감명 받았다, 예측 불가능한 팀으로 만들고 싶어\"…'카타르월드컵 16강' 벤투 감독, 대표팀 복귀 의사",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "월드컵"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 7.1,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"경기, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 4,
-      "source_article": "이정후와 타격왕 싸움 벌였는데…로페스, 타율·최다안타 압도적인 1위 질주→4경기 연속 멀티 히트",
+      "article_count": 10,
+      "source_article": "'와' 이강인 1475억 단칼 거절!…\"입단 축하해\" 시메오네 감독 직접 전화 걸었다→LEE, AT 마드리드행 확정+800억 5년 계약 '뒷얘기'",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "경기",
-        "월드컵",
         "감독",
-        "대표팀",
-        "한태양"
+        "경기",
+        "이강인",
+        "단칼",
+        "거절"
       ],
       "template": "스포츠 기록",
-      "score": 6.7,
+      "score": 7.2,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1666,113 +2147,168 @@
         ]
       },
       "channel": "초구딱"
+    },
+    {
+      "title": "\"외인, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 3,
+      "source_article": "'와' 이강인 1475억 단칼 거절!…\"입단 축하해\" 시메오네 감독 직접 전화 걸었다→LEE, AT 마드리드행 확정+800억 5년 계약 '뒷얘기'",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "외인",
+        "이강인",
+        "단칼",
+        "거절",
+        "입단"
+      ],
+      "template": "자산 서열",
+      "score": 6.9,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"승부예\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 승부예",
+      "article_count": 4,
+      "source_article": "🏆[7/7 업뎃] 초접전! 2026 북중미월드컵 승부예측 이벤트🏆",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606100116098223",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "승부예"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"월드컵\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 월드컵",
+      "article_count": 3,
+      "source_article": "\"대표팀과 함께한 마지막 경기\" 사임 발표...\"국민들께 감사\" 포르투갈 마르티네스 감독, 월드컵 16강 패배 직후 지휘봉 내려놓았다",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "월드컵"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"바로가\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 바로가",
+      "article_count": 3,
+      "source_article": "🏆7/8(수) 2026 WC 승부예측 바로가기 [16강]🏆",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202607050116989796",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "바로가"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
     [
-      "옥주현",
+      "이임생",
       4
     ],
     [
-      "심재원",
+      "이사",
       3
-    ],
-    [
-      "심혜진",
-      3
-    ],
-    [
-      "이강인",
-      3
-    ],
-    [
-      "홍명보",
-      3
-    ],
-    [
-      "축구",
-      3
-    ],
-    [
-      "담배",
-      2
-    ],
-    [
-      "때문에",
-      2
-    ],
-    [
-      "남편",
-      2
-    ],
-    [
-      "김호영",
-      2
-    ],
-    [
-      "역대급",
-      2
     ],
     [
       "감량",
-      2
-    ],
-    [
-      "고백",
-      2
-    ],
-    [
-      "아들처럼",
-      2
-    ],
-    [
-      "친조카",
-      2
-    ],
-    [
-      "혼혈",
-      2
-    ],
-    [
-      "드라마",
-      2
-    ],
-    [
-      "후회",
-      2
-    ],
-    [
-      "배우",
-      2
-    ],
-    [
-      "두피",
-      2
-    ]
-  ],
-  "name_freq": [
-    [
-      "옥주현",
-      4
-    ],
-    [
-      "심재원",
-      3
-    ],
-    [
-      "심혜진",
-      3
-    ],
-    [
-      "이강인",
-      3
-    ],
-    [
-      "홍명보",
-      3
-    ],
-    [
-      "축구",
       3
     ],
     [
@@ -1780,11 +2316,55 @@
       3
     ],
     [
+      "홍명보",
+      3
+    ],
+    [
+      "선임",
+      3
+    ],
+    [
+      "캄보디아",
+      3
+    ],
+    [
+      "발언",
+      2
+    ],
+    [
+      "시청률",
+      2
+    ],
+    [
       "담배",
       2
     ],
     [
-      "때문에",
+      "일상",
+      2
+    ],
+    [
+      "근황",
+      2
+    ],
+    [
+      "아들처럼",
+      2
+    ],
+    [
+      "심혜진",
+      2
+    ],
+    [
+      "심재원",
+      2
+    ],
+    [
+      "배우",
+      2
+    ],
+    [
+      "안은진",
       2
     ],
     [
@@ -1792,27 +2372,77 @@
       2
     ],
     [
-      "김호영",
+      "키워",
       2
     ],
     [
-      "역대급",
+      "사과",
       2
+    ]
+  ],
+  "name_freq": [
+    [
+      "이임생",
+      4
+    ],
+    [
+      "캄보디",
+      4
+    ],
+    [
+      "월드컵",
+      4
+    ],
+    [
+      "홍명보",
+      4
+    ],
+    [
+      "이사",
+      3
     ],
     [
       "감량",
+      3
+    ],
+    [
+      "선임",
+      3
+    ],
+    [
+      "발언",
       2
     ],
     [
-      "고백",
+      "시청률",
+      2
+    ],
+    [
+      "담배",
+      2
+    ],
+    [
+      "일상",
+      2
+    ],
+    [
+      "근황",
+      2
+    ],
+    [
+      "심혜진",
       2
     ],
     [
       "아들처",
       2
+    ],
+    [
+      "심재원",
+      2
     ]
   ],
-  "total_topics_generated": 11,
-  "valid_topics": 11,
+  "total_topics_generated": 19,
+  "valid_topics": 19,
   "excluded_duplicates": 0
 }
