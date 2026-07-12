@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-07-12 14:20:44",
+  "scan_time": "2026-07-12 17:57:17",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -10,7 +10,7 @@
     "DC 국내야구 갤러리": 0,
     "MLB파크 불펜": 30
   },
-  "total_articles": 80,
+  "total_articles": 79,
   "articles": [
     {
       "title": "이솔이, 드디어 이혼설 종결..♥박성광 본인 등판 “오~잘 나왔다♥”",
@@ -184,7 +184,7 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "방은희, 母 고독사 고백…“돌아가신지 이틀 만에 발견, 유퓸 정리도 못하겠더라”",
+      "title": "방은희, 母 고독사 고백…“돌아가신지 이틀 만에 발견, 유품 정리도 못하겠더라”",
       "url": "https://m.entertain.naver.com/article/016/0002669066",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
@@ -283,11 +283,11 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"희대의 사기극\" 맥그리거, 69초 만에 수백억 돈벼락→\"부상 상태 속이고 서커스\" 팬들은 강한 비판, 할로웨이 3차전 요구",
+      "title": "PSG 끝까지 너무하네! 이강인 '아틀레티코 이적' 다 끝났는데 '오피셜' 막고 있다…\"다른 선수 먼저 발표하려 허락 안 해\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 23655,
+      "views": 564572,
       "rank": 1,
       "channel": "정보주는하마"
     },
@@ -296,8 +296,17 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 22746,
-      "rank": 2,
+      "views": 222984,
+      "rank": 3,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'축구계 사망 비보' 홍명보호와 붙었던 남아공 대표 숨져…\"체코전 전날 가족상, 힘든 시기에도 조국을 위해 뛰었다\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 115370,
+      "rank": 7,
       "channel": "정보주는하마"
     },
     {
@@ -305,35 +314,17 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 12050,
-      "rank": 4,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"그는 3일 내내 누워만 있었다\"… 투헬 잉글랜드 감독이 밝힌 라이스 몸 상태, \"90분을 전부 소화하기 힘들어\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 7451,
-      "rank": 5,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"대표팀 은퇴하겠습니다\" 아프리카 최고 스타, 깜짝 선언인 줄 알았는데...공식 사과 \"가짜 뉴스, 사실무근이었다\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 6876,
-      "rank": 7,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "한국 박살 내고 16강 가더니…홍명보 후임 급부상, 이강인 애지중지했던 아기레 '유력 후보'",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 6620,
+      "views": 111017,
       "rank": 8,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"미쳤다\" '한국 축구의 미래' 김예건, 현대가더비서 프로데뷔골 폭발!…전북, 울산 3-1 압승 '2위 탈환→서울 6점차 추격'",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 109787,
+      "rank": 9,
       "channel": "정보주는하마"
     },
     {
@@ -341,112 +332,94 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 6219,
-      "rank": 9,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "PSG 때문에 전부 밀렸다! 이강인보다 늦게 HERE WE GO 떴는데...아틀레티코 마드리드 여름 2호 영입 확정, 모르텐 히울만 합류",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 5259,
+      "views": 104933,
       "rank": 10,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"죽을 때까지 이 얘기만 할 것\" 또 초대형 오심 논란...\"공이 케이블 닿았다\" 노르웨이 대폭발, FIFA는 \"센서 반응 없었다\" 일축",
+      "title": "\"대표팀 은퇴하겠습니다\" 아프리카 최고 스타, 깜짝 선언인 줄 알았는데...공식 사과 \"가짜 뉴스, 사실무근이었다\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 5010,
+      "views": 93348,
       "rank": 11,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"역사상 가장 황당한 퇴장\"…월드컵 8강서 어이없는 할리우드 액션→'폭풍 눈물' 엠볼로에 혹평 세례 \"부정행위는 결코 성공하지 못해\"",
+      "title": "\"희대의 사기극\" 맥그리거, 69초 만에 수백억 돈벼락→\"부상 상태 속이고 서커스\" 팬들은 강한 비판, 할로웨이 3차전 요구",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 4380,
+      "views": 91851,
       "rank": 12,
       "channel": "정보주는하마"
     },
     {
-      "title": "한국 이겼는데 홀로 침묵…'자살 추정' 남아공 MF, 극단적 선택 징조 보였다→\"눈치 못 채서 미안해\" 팬들 반성",
+      "title": "'충격 추태' 홀란 父, 카메라에 '손가락 욕' 딱 걸렸다... '철천지원수' 로이 킨 때문? 팬들은 \"월드컵 최고 명장면\" 흥분",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 4271,
+      "views": 72563,
       "rank": 13,
       "channel": "정보주는하마"
     },
     {
-      "title": "유난히 한국 사랑했던 '친한파' 월클, 끝까지 낭만 지켰다…친정 구애 뿌리치고 '1년 연장 확정'",
+      "title": "'한국 안 가!' 크로아티아 명장, 연봉 86억에 중동 복귀…\"UAE 대표팀과 공식 체결, 2030년까지 장기 계약\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 4224,
+      "views": 72409,
       "rank": 14,
       "channel": "정보주는하마"
     },
     {
-      "title": "“홈런더비 못 나가서 아쉬워, 내 몸을 위한 최선의 선택” 김도영과의 빅뱅 불발…오스틴에겐 이벤트보다 59G가 중요해",
+      "title": "韓 축구 대형 악재 피했다! '월드컵 활약' 황인범, 멕시코 리그 이적 날벼락 위기→포르투갈 명문 러브콜 본격 점화...\"눈여겨보는 선수\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 4045,
+      "views": 66456,
       "rank": 15,
       "channel": "정보주는하마"
     },
     {
-      "title": "'이강인 오피셜' 왜 안 뜨나 했더니...韓에서 아틀레티코 유니폼 품절? \"수천 장 팔 기회 놓칠 이유 없다\"",
+      "title": "\"와이어 맞았잖아!\" 결국 공식 발표 나왔다...논란 일파만파 퍼지자, FIFA \"벨링엄 동점골, 어떠한 외부 충격도 없었어\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 3906,
-      "rank": 16,
+      "views": 63618,
+      "rank": 18,
       "channel": "정보주는하마"
     },
     {
-      "title": "'대체 무슨 일?' KIA 출신 외인, 日서 5년이나 뛰었는데…1군서 자취 감추더니 결국 방출",
+      "title": "\"감독부터 제대로 뽑는다\" 한국보다 심각했는데…월드컵 3연속 진출 실패→'레전드 협회 합류'",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 3871,
-      "rank": 17,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "한국이었다면 어땠을까…영웅 벨링엄 파격 발언 \"투헬 감독이 질책했다고? 상관없다\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 3733,
+      "views": 62217,
       "rank": 19,
       "channel": "정보주는하마"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 46,
+      "article_count": 43,
       "topics": [
         {
-          "title": "\"투헬, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "title": "\"월드컵, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 6,
-          "source_article": "\"자살로 추정\" 안타까운 비보…불과 2주 전 한국과 월드컵 뛰었는데, 남아공 25세 MF 사망→\"우울증 앓았다\" 보도",
+          "article_count": 7,
+          "source_article": "PSG 끝까지 너무하네! 이강인 '아틀레티코 이적' 다 끝났는데 '오피셜' 막고 있다…\"다른 선수 먼저 발표하려 허락 안 해\"",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "투헬",
-            "감독이",
-            "자살로",
-            "추정",
-            "안타까"
+            "월드컵",
+            "이적",
+            "선수",
+            "리그",
+            "끝까지"
           ],
           "template": "스포츠 기록",
-          "score": 7.3,
+          "score": 7.7,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -498,6 +471,39 @@
           "channel": "정보주는하마"
         },
         {
+          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+          "angle_type": "가족·혈연",
+          "article_count": 4,
+          "source_article": "'축구계 사망 비보' 홍명보호와 붙었던 남아공 대표 숨져…\"체코전 전날 가족상, 힘든 시기에도 조국을 위해 뛰었다\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "김나영",
+            "마이큐",
+            "폭염",
+            "덮친",
+            "파리서"
+          ],
+          "template": "동갑내기",
+          "score": 7.1,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "나이",
+              "대표작",
+              "현재 활동"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
           "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
           "angle_type": "논란·사건",
           "article_count": 3,
@@ -531,50 +537,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-          "angle_type": "가족·혈연",
+          "title": "\"대표팀, 지금 어디서 뭐 하나?\" 대표팀 근황 총정리",
+          "angle_type": "👤 대표팀",
           "article_count": 3,
-          "source_article": "김나영♥마이큐, 폭염 덮친 파리서 가족여행..\"공원이 제일 시원해\"",
-          "source_url": "https://m.entertain.naver.com/article/076/0004424883",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "김나영",
-            "마이큐",
-            "폭염",
-            "덮친",
-            "파리서"
-          ],
-          "template": "동갑내기",
-          "score": 6.6,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"월드컵\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 월드컵",
-          "article_count": 3,
-          "source_article": "\"자살로 추정\" 안타까운 비보…불과 2주 전 한국과 월드컵 뛰었는데, 남아공 25세 MF 사망→\"우울증 앓았다\" 보도",
+          "source_article": "\"당분간 대표팀 경기는 쉬고 싶습니다\" 월드컵 8강서 무너지더니…\"마지막 경기였을 수도 있다\"",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "월드컵"
+            "대표팀"
           ],
-          "template": "인맥",
-          "score": 6.5,
+          "template": "장기 공백 복귀",
+          "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -585,38 +558,9 @@
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"이강인\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 이강인",
-          "article_count": 3,
-          "source_article": "한국 박살 내고 16강 가더니…홍명보 후임 급부상, 이강인 애지중지했던 아기레 '유력 후보'",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "이강인"
-          ],
-          "template": "인맥",
-          "score": 6.4,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
             ]
           },
           "channel": "정보주는하마"
@@ -624,19 +568,19 @@
         {
           "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
           "angle_type": "복귀·근황",
-          "article_count": 3,
-          "source_article": "“웬디 맞아?” 뼈만 남은 듯한 극마름 근황...갈수록 야윈 몸매에 팬들 ‘걱정’",
-          "source_url": "https://m.entertain.naver.com/article/468/0001253140",
-          "source_name": "엔터 많이 본 뉴스",
+          "article_count": 4,
+          "source_article": "\"대표팀 은퇴하겠습니다\" 아프리카 최고 스타, 깜짝 선언인 줄 알았는데...공식 사과 \"가짜 뉴스, 사실무근이었다\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "근황",
+            "대표팀",
+            "공식",
             "웬디",
-            "맞아",
-            "뼈만",
-            "남은"
+            "맞아"
           ],
           "template": "장기 공백 복귀",
-          "score": 6.3,
+          "score": 6.6,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -684,14 +628,76 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"달라진\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 달라진",
+          "title": "\"공식, 대체 무슨 일이?\" 공식 관련 이슈 총정리",
+          "angle_type": "👤 공식",
+          "article_count": 3,
+          "source_article": "\"대표팀 은퇴하겠습니다\" 아프리카 최고 스타, 깜짝 선언인 줄 알았는데...공식 사과 \"가짜 뉴스, 사실무근이었다\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "공식"
+          ],
+          "template": "논란 집합",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+          "angle_type": "투병·건강",
+          "article_count": 2,
+          "source_article": "\"자살로 추정\" 안타까운 비보…불과 2주 전 한국과 월드컵 뛰었는데, 남아공 25세 MF 사망→\"우울증 앓았다\" 보도",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "비보",
+            "남아공",
+            "사망",
+            "자살로",
+            "추정"
+          ],
+          "template": "투병 극복",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "투병 질환",
+              "공백기",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"얼굴\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 얼굴",
           "article_count": 3,
           "source_article": "“국악신동 송소희라고?” 몰라보게 달라진 얼굴...청순 미모에 ‘시선 집중’",
           "source_url": "https://m.entertain.naver.com/article/468/0001253109",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "달라진"
+            "얼굴"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -713,14 +719,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"얼굴\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 얼굴",
+          "title": "\"달라진\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 달라진",
           "article_count": 3,
           "source_article": "“국악신동 송소희라고?” 몰라보게 달라진 얼굴...청순 미모에 ‘시선 집중’",
           "source_url": "https://m.entertain.naver.com/article/468/0001253109",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "얼굴"
+            "달라진"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -771,14 +777,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"전부\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 전부",
+          "title": "\"위해\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 위해",
           "article_count": 3,
-          "source_article": "입소문 타더니 '초대박'…시청률 7.3% 돌파→동시간대 1위로 전부 썰어버린 韓 예능 ('언더커버 셰프')",
-          "source_url": "https://m.entertain.naver.com/article/213/0001393995",
+          "source_article": "소진 남편 이동하, 이탈리아 태생이었다…군 복무 위해 ‘국적 포기’",
+          "source_url": "https://m.entertain.naver.com/article/468/0001253198",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "전부"
+            "위해"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -802,15 +808,23 @@
       ],
       "keyword_freq": [
         [
-          "달라진",
-          3
+          "월드컵",
+          5
         ],
         [
           "얼굴",
           3
         ],
         [
+          "달라진",
+          3
+        ],
+        [
           "시청률",
+          3
+        ],
+        [
+          "위해",
           3
         ],
         [
@@ -822,19 +836,11 @@
           3
         ],
         [
-          "전부",
+          "공식",
           3
         ],
         [
-          "월드컵",
-          3
-        ],
-        [
-          "위해",
-          2
-        ],
-        [
-          "몸매에",
+          "나왔다",
           2
         ],
         [
@@ -842,23 +848,15 @@
           2
         ],
         [
+          "몸매에",
+          2
+        ],
+        [
           "부작용",
           2
         ],
         [
-          "발언",
-          2
-        ],
-        [
           "해명",
-          2
-        ],
-        [
-          "세례",
-          2
-        ],
-        [
-          "출신",
           2
         ],
         [
@@ -880,19 +878,35 @@
         [
           "근황",
           2
+        ],
+        [
+          "마지막",
+          2
+        ],
+        [
+          "결별",
+          2
         ]
       ],
       "name_freq": [
         [
-          "달라진",
-          3
+          "월드컵",
+          5
         ],
         [
           "얼굴",
           3
         ],
         [
+          "달라진",
+          3
+        ],
+        [
           "시청률",
+          3
+        ],
+        [
+          "위해",
           3
         ],
         [
@@ -904,23 +918,15 @@
           3
         ],
         [
-          "전부",
+          "대표팀",
           3
         ],
         [
-          "월드컵",
+          "공식",
           3
         ],
         [
-          "이강인",
-          3
-        ],
-        [
-          "위해",
-          2
-        ],
-        [
-          "몸매에",
+          "나왔다",
           2
         ],
         [
@@ -928,11 +934,11 @@
           2
         ],
         [
-          "부작용",
+          "몸매에",
           2
         ],
         [
-          "발언",
+          "부작용",
           2
         ],
         [
@@ -940,7 +946,7 @@
           2
         ],
         [
-          "세례",
+          "비주얼",
           2
         ]
       ],
@@ -955,34 +961,38 @@
         ],
         [
           "복귀·근황",
-          3
+          4
+        ],
+        [
+          "투병·건강",
+          2
         ],
         [
           "스포츠",
-          6
+          7
         ],
         [
           "가족·혈연",
-          3
+          4
         ]
       ]
     },
     "초구딱": {
-      "article_count": 34,
+      "article_count": 36,
       "topics": [
         {
           "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 4,
-          "source_article": "한국도, 일본도 마찬가지…벵거 감독 일침 \"아시아 월드컵 전멸, 아직 경쟁할 만한 실력 안 돼\"",
+          "article_count": 7,
+          "source_article": "\"기회 준 홍명보 감독, 협회에 감사하다\"… 한국 떠나는 페드루 로마 GK 코치, \"아쉽지만 결과보다 많은 것 안고 간다\"",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "감독",
+            "이정후",
             "월드컵",
-            "한국도",
-            "일본도",
-            "마찬가"
+            "기회",
+            "홍명보"
           ],
           "template": "스포츠 기록",
           "score": 6.8,
@@ -999,6 +1009,39 @@
               "소속팀",
               "기록 내용",
               "기록 가치"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 2,
+          "source_article": "유해란이 A급 배구선수 10년 연봉 3주만에 버네요",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202607130117174002&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "걸그룹",
+            "비인기",
+            "멤버도",
+            "억은",
+            "벌었겠"
+          ],
+          "template": "자산 서열",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
             ]
           },
           "channel": "초구딱"
@@ -1089,6 +1132,64 @@
             ]
           },
           "channel": "초구딱"
+        },
+        {
+          "title": "\"네요\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 네요",
+          "article_count": 3,
+          "source_article": "어쩌다 강아지를 맡게 되었는데 고역이네요",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202607130117174041&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "네요"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"즈베\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 즈베",
+          "article_count": 3,
+          "source_article": "즈베 포핸드",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202607130117173993&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "즈베"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
@@ -1097,7 +1198,7 @@
           4
         ],
         [
-          "월드컵",
+          "감독",
           3
         ],
         [
@@ -1105,11 +1206,19 @@
           3
         ],
         [
-          "감독",
+          "즈베",
+          3
+        ],
+        [
+          "이정후",
           2
         ],
         [
-          "이게",
+          "월드컵",
+          2
+        ],
+        [
+          "추가",
           2
         ],
         [
@@ -1121,55 +1230,47 @@
           2
         ],
         [
-          "일침",
+          "감사하다",
           1
         ],
         [
-          "마찬가지",
+          "안고",
           1
         ],
         [
-          "아시아",
+          "코치",
           1
         ],
         [
-          "만한",
+          "기회",
           1
         ],
         [
-          "전멸",
+          "로마",
           1
         ],
         [
-          "일본도",
+          "결과보다",
           1
         ],
         [
-          "경쟁할",
+          "간다",
           1
         ],
         [
-          "실력",
+          "아쉽지만",
           1
         ],
         [
-          "한국도",
+          "많은",
           1
         ],
         [
-          "벵거",
+          "협회에",
           1
         ],
         [
-          "아직",
-          1
-        ],
-        [
-          "무려",
-          1
-        ],
-        [
-          "중요한",
+          "페드루",
           1
         ]
       ],
@@ -1183,15 +1284,31 @@
           4
         ],
         [
+          "감독",
+          3
+        ],
+        [
           "승부예",
           3
         ],
         [
-          "감독",
+          "네요",
+          3
+        ],
+        [
+          "즈베",
+          3
+        ],
+        [
+          "이정후",
           2
         ],
         [
-          "이게",
+          "추가",
+          2
+        ],
+        [
+          "북중미",
           2
         ],
         [
@@ -1203,35 +1320,39 @@
           2
         ],
         [
-          "네요",
+          "나요",
           2
         ]
       ],
       "angle_scores": [
         [
+          "자산·몸값",
+          2
+        ],
+        [
           "스포츠",
-          4
+          7
         ]
       ]
     }
   },
   "topics": [
     {
-      "title": "\"투헬, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"월드컵, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 6,
-      "source_article": "\"자살로 추정\" 안타까운 비보…불과 2주 전 한국과 월드컵 뛰었는데, 남아공 25세 MF 사망→\"우울증 앓았다\" 보도",
+      "article_count": 7,
+      "source_article": "PSG 끝까지 너무하네! 이강인 '아틀레티코 이적' 다 끝났는데 '오피셜' 막고 있다…\"다른 선수 먼저 발표하려 허락 안 해\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "투헬",
-        "감독이",
-        "자살로",
-        "추정",
-        "안타까"
+        "월드컵",
+        "이적",
+        "선수",
+        "리그",
+        "끝까지"
       ],
       "template": "스포츠 기록",
-      "score": 7.3,
+      "score": 7.7,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1283,6 +1404,39 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 4,
+      "source_article": "'축구계 사망 비보' 홍명보호와 붙었던 남아공 대표 숨져…\"체코전 전날 가족상, 힘든 시기에도 조국을 위해 뛰었다\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "김나영",
+        "마이큐",
+        "폭염",
+        "덮친",
+        "파리서"
+      ],
+      "template": "동갑내기",
+      "score": 7.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "나이",
+          "대표작",
+          "현재 활동"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
       "angle_type": "논란·사건",
       "article_count": 3,
@@ -1316,50 +1470,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-      "angle_type": "가족·혈연",
+      "title": "\"대표팀, 지금 어디서 뭐 하나?\" 대표팀 근황 총정리",
+      "angle_type": "👤 대표팀",
       "article_count": 3,
-      "source_article": "김나영♥마이큐, 폭염 덮친 파리서 가족여행..\"공원이 제일 시원해\"",
-      "source_url": "https://m.entertain.naver.com/article/076/0004424883",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "김나영",
-        "마이큐",
-        "폭염",
-        "덮친",
-        "파리서"
-      ],
-      "template": "동갑내기",
-      "score": 6.6,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"월드컵\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 월드컵",
-      "article_count": 3,
-      "source_article": "\"자살로 추정\" 안타까운 비보…불과 2주 전 한국과 월드컵 뛰었는데, 남아공 25세 MF 사망→\"우울증 앓았다\" 보도",
+      "source_article": "\"당분간 대표팀 경기는 쉬고 싶습니다\" 월드컵 8강서 무너지더니…\"마지막 경기였을 수도 있다\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "월드컵"
+        "대표팀"
       ],
-      "template": "인맥",
-      "score": 6.5,
+      "template": "장기 공백 복귀",
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1370,38 +1491,9 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이강인\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 이강인",
-      "article_count": 3,
-      "source_article": "한국 박살 내고 16강 가더니…홍명보 후임 급부상, 이강인 애지중지했던 아기레 '유력 후보'",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "이강인"
-      ],
-      "template": "인맥",
-      "score": 6.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "정보주는하마"
@@ -1409,19 +1501,19 @@
     {
       "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
       "angle_type": "복귀·근황",
-      "article_count": 3,
-      "source_article": "“웬디 맞아?” 뼈만 남은 듯한 극마름 근황...갈수록 야윈 몸매에 팬들 ‘걱정’",
-      "source_url": "https://m.entertain.naver.com/article/468/0001253140",
-      "source_name": "엔터 많이 본 뉴스",
+      "article_count": 4,
+      "source_article": "\"대표팀 은퇴하겠습니다\" 아프리카 최고 스타, 깜짝 선언인 줄 알았는데...공식 사과 \"가짜 뉴스, 사실무근이었다\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "근황",
+        "대표팀",
+        "공식",
         "웬디",
-        "맞아",
-        "뼈만",
-        "남은"
+        "맞아"
       ],
       "template": "장기 공백 복귀",
-      "score": 6.3,
+      "score": 6.6,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1469,14 +1561,76 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"달라진\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 달라진",
+      "title": "\"공식, 대체 무슨 일이?\" 공식 관련 이슈 총정리",
+      "angle_type": "👤 공식",
+      "article_count": 3,
+      "source_article": "\"대표팀 은퇴하겠습니다\" 아프리카 최고 스타, 깜짝 선언인 줄 알았는데...공식 사과 \"가짜 뉴스, 사실무근이었다\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "공식"
+      ],
+      "template": "논란 집합",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+      "angle_type": "투병·건강",
+      "article_count": 2,
+      "source_article": "\"자살로 추정\" 안타까운 비보…불과 2주 전 한국과 월드컵 뛰었는데, 남아공 25세 MF 사망→\"우울증 앓았다\" 보도",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "비보",
+        "남아공",
+        "사망",
+        "자살로",
+        "추정"
+      ],
+      "template": "투병 극복",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "투병 질환",
+          "공백기",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"얼굴\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 얼굴",
       "article_count": 3,
       "source_article": "“국악신동 송소희라고?” 몰라보게 달라진 얼굴...청순 미모에 ‘시선 집중’",
       "source_url": "https://m.entertain.naver.com/article/468/0001253109",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "달라진"
+        "얼굴"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1498,14 +1652,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"얼굴\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 얼굴",
+      "title": "\"달라진\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 달라진",
       "article_count": 3,
       "source_article": "“국악신동 송소희라고?” 몰라보게 달라진 얼굴...청순 미모에 ‘시선 집중’",
       "source_url": "https://m.entertain.naver.com/article/468/0001253109",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "얼굴"
+        "달라진"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1556,14 +1710,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"전부\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 전부",
+      "title": "\"위해\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 위해",
       "article_count": 3,
-      "source_article": "입소문 타더니 '초대박'…시청률 7.3% 돌파→동시간대 1위로 전부 썰어버린 韓 예능 ('언더커버 셰프')",
-      "source_url": "https://m.entertain.naver.com/article/213/0001393995",
+      "source_article": "소진 남편 이동하, 이탈리아 태생이었다…군 복무 위해 ‘국적 포기’",
+      "source_url": "https://m.entertain.naver.com/article/468/0001253198",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "전부"
+        "위해"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1587,21 +1741,21 @@
   ],
   "all_topics": [
     {
-      "title": "\"투헬, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"월드컵, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 6,
-      "source_article": "\"자살로 추정\" 안타까운 비보…불과 2주 전 한국과 월드컵 뛰었는데, 남아공 25세 MF 사망→\"우울증 앓았다\" 보도",
+      "article_count": 7,
+      "source_article": "PSG 끝까지 너무하네! 이강인 '아틀레티코 이적' 다 끝났는데 '오피셜' 막고 있다…\"다른 선수 먼저 발표하려 허락 안 해\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "투헬",
-        "감독이",
-        "자살로",
-        "추정",
-        "안타까"
+        "월드컵",
+        "이적",
+        "선수",
+        "리그",
+        "끝까지"
       ],
       "template": "스포츠 기록",
-      "score": 7.3,
+      "score": 7.7,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1653,6 +1807,39 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 4,
+      "source_article": "'축구계 사망 비보' 홍명보호와 붙었던 남아공 대표 숨져…\"체코전 전날 가족상, 힘든 시기에도 조국을 위해 뛰었다\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "김나영",
+        "마이큐",
+        "폭염",
+        "덮친",
+        "파리서"
+      ],
+      "template": "동갑내기",
+      "score": 7.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "나이",
+          "대표작",
+          "현재 활동"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
       "angle_type": "논란·사건",
       "article_count": 3,
@@ -1686,50 +1873,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-      "angle_type": "가족·혈연",
+      "title": "\"대표팀, 지금 어디서 뭐 하나?\" 대표팀 근황 총정리",
+      "angle_type": "👤 대표팀",
       "article_count": 3,
-      "source_article": "김나영♥마이큐, 폭염 덮친 파리서 가족여행..\"공원이 제일 시원해\"",
-      "source_url": "https://m.entertain.naver.com/article/076/0004424883",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "김나영",
-        "마이큐",
-        "폭염",
-        "덮친",
-        "파리서"
-      ],
-      "template": "동갑내기",
-      "score": 6.6,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"월드컵\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 월드컵",
-      "article_count": 3,
-      "source_article": "\"자살로 추정\" 안타까운 비보…불과 2주 전 한국과 월드컵 뛰었는데, 남아공 25세 MF 사망→\"우울증 앓았다\" 보도",
+      "source_article": "\"당분간 대표팀 경기는 쉬고 싶습니다\" 월드컵 8강서 무너지더니…\"마지막 경기였을 수도 있다\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "월드컵"
+        "대표팀"
       ],
-      "template": "인맥",
-      "score": 6.5,
+      "template": "장기 공백 복귀",
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1740,38 +1894,9 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이강인\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 이강인",
-      "article_count": 3,
-      "source_article": "한국 박살 내고 16강 가더니…홍명보 후임 급부상, 이강인 애지중지했던 아기레 '유력 후보'",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "이강인"
-      ],
-      "template": "인맥",
-      "score": 6.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "정보주는하마"
@@ -1779,19 +1904,19 @@
     {
       "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
       "angle_type": "복귀·근황",
-      "article_count": 3,
-      "source_article": "“웬디 맞아?” 뼈만 남은 듯한 극마름 근황...갈수록 야윈 몸매에 팬들 ‘걱정’",
-      "source_url": "https://m.entertain.naver.com/article/468/0001253140",
-      "source_name": "엔터 많이 본 뉴스",
+      "article_count": 4,
+      "source_article": "\"대표팀 은퇴하겠습니다\" 아프리카 최고 스타, 깜짝 선언인 줄 알았는데...공식 사과 \"가짜 뉴스, 사실무근이었다\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "근황",
+        "대표팀",
+        "공식",
         "웬디",
-        "맞아",
-        "뼈만",
-        "남은"
+        "맞아"
       ],
       "template": "장기 공백 복귀",
-      "score": 6.3,
+      "score": 6.6,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1839,14 +1964,76 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"달라진\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 달라진",
+      "title": "\"공식, 대체 무슨 일이?\" 공식 관련 이슈 총정리",
+      "angle_type": "👤 공식",
+      "article_count": 3,
+      "source_article": "\"대표팀 은퇴하겠습니다\" 아프리카 최고 스타, 깜짝 선언인 줄 알았는데...공식 사과 \"가짜 뉴스, 사실무근이었다\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "공식"
+      ],
+      "template": "논란 집합",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+      "angle_type": "투병·건강",
+      "article_count": 2,
+      "source_article": "\"자살로 추정\" 안타까운 비보…불과 2주 전 한국과 월드컵 뛰었는데, 남아공 25세 MF 사망→\"우울증 앓았다\" 보도",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "비보",
+        "남아공",
+        "사망",
+        "자살로",
+        "추정"
+      ],
+      "template": "투병 극복",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "투병 질환",
+          "공백기",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"얼굴\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 얼굴",
       "article_count": 3,
       "source_article": "“국악신동 송소희라고?” 몰라보게 달라진 얼굴...청순 미모에 ‘시선 집중’",
       "source_url": "https://m.entertain.naver.com/article/468/0001253109",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "달라진"
+        "얼굴"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1868,14 +2055,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"얼굴\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 얼굴",
+      "title": "\"달라진\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 달라진",
       "article_count": 3,
       "source_article": "“국악신동 송소희라고?” 몰라보게 달라진 얼굴...청순 미모에 ‘시선 집중’",
       "source_url": "https://m.entertain.naver.com/article/468/0001253109",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "얼굴"
+        "달라진"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1926,14 +2113,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"전부\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 전부",
+      "title": "\"위해\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 위해",
       "article_count": 3,
-      "source_article": "입소문 타더니 '초대박'…시청률 7.3% 돌파→동시간대 1위로 전부 썰어버린 韓 예능 ('언더커버 셰프')",
-      "source_url": "https://m.entertain.naver.com/article/213/0001393995",
+      "source_article": "소진 남편 이동하, 이탈리아 태생이었다…군 복무 위해 ‘국적 포기’",
+      "source_url": "https://m.entertain.naver.com/article/468/0001253198",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "전부"
+        "위해"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1957,16 +2144,16 @@
     {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 4,
-      "source_article": "한국도, 일본도 마찬가지…벵거 감독 일침 \"아시아 월드컵 전멸, 아직 경쟁할 만한 실력 안 돼\"",
+      "article_count": 7,
+      "source_article": "\"기회 준 홍명보 감독, 협회에 감사하다\"… 한국 떠나는 페드루 로마 GK 코치, \"아쉽지만 결과보다 많은 것 안고 간다\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "감독",
+        "이정후",
         "월드컵",
-        "한국도",
-        "일본도",
-        "마찬가"
+        "기회",
+        "홍명보"
       ],
       "template": "스포츠 기록",
       "score": 6.8,
@@ -1983,6 +2170,39 @@
           "소속팀",
           "기록 내용",
           "기록 가치"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 2,
+      "source_article": "유해란이 A급 배구선수 10년 연봉 3주만에 버네요",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202607130117174002&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "걸그룹",
+        "비인기",
+        "멤버도",
+        "억은",
+        "벌었겠"
+      ],
+      "template": "자산 서열",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
         ]
       },
       "channel": "초구딱"
@@ -2073,19 +2293,85 @@
         ]
       },
       "channel": "초구딱"
+    },
+    {
+      "title": "\"네요\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 네요",
+      "article_count": 3,
+      "source_article": "어쩌다 강아지를 맡게 되었는데 고역이네요",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202607130117174041&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "네요"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"즈베\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 즈베",
+      "article_count": 3,
+      "source_article": "즈베 포핸드",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202607130117173993&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "즈베"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
     [
-      "달라진",
-      3
+      "월드컵",
+      5
     ],
     [
       "얼굴",
       3
     ],
     [
+      "달라진",
+      3
+    ],
+    [
       "시청률",
+      3
+    ],
+    [
+      "위해",
       3
     ],
     [
@@ -2097,19 +2383,11 @@
       3
     ],
     [
-      "전부",
+      "공식",
       3
     ],
     [
-      "월드컵",
-      3
-    ],
-    [
-      "위해",
-      2
-    ],
-    [
-      "몸매에",
+      "나왔다",
       2
     ],
     [
@@ -2117,23 +2395,15 @@
       2
     ],
     [
+      "몸매에",
+      2
+    ],
+    [
       "부작용",
       2
     ],
     [
-      "발언",
-      2
-    ],
-    [
       "해명",
-      2
-    ],
-    [
-      "세례",
-      2
-    ],
-    [
-      "출신",
       2
     ],
     [
@@ -2155,19 +2425,35 @@
     [
       "근황",
       2
+    ],
+    [
+      "마지막",
+      2
+    ],
+    [
+      "결별",
+      2
     ]
   ],
   "name_freq": [
     [
-      "달라진",
-      3
+      "월드컵",
+      5
     ],
     [
       "얼굴",
       3
     ],
     [
+      "달라진",
+      3
+    ],
+    [
       "시청률",
+      3
+    ],
+    [
+      "위해",
       3
     ],
     [
@@ -2179,23 +2465,15 @@
       3
     ],
     [
-      "전부",
+      "대표팀",
       3
     ],
     [
-      "월드컵",
+      "공식",
       3
     ],
     [
-      "이강인",
-      3
-    ],
-    [
-      "위해",
-      2
-    ],
-    [
-      "몸매에",
+      "나왔다",
       2
     ],
     [
@@ -2203,11 +2481,11 @@
       2
     ],
     [
-      "부작용",
+      "몸매에",
       2
     ],
     [
-      "발언",
+      "부작용",
       2
     ],
     [
@@ -2215,11 +2493,11 @@
       2
     ],
     [
-      "세례",
+      "비주얼",
       2
     ]
   ],
-  "total_topics_generated": 16,
-  "valid_topics": 16,
+  "total_topics_generated": 20,
+  "valid_topics": 20,
   "excluded_duplicates": 0
 }
