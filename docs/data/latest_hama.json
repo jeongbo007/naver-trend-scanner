@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-07-13 15:37:06",
+  "scan_time": "2026-07-13 18:42:19",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -561,14 +561,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"노르웨\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 노르웨",
+          "title": "\"폭발\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 폭발",
           "article_count": 3,
           "source_article": "\"이강인이 주는 패스, 다 날려먹을 것 같다\" 축구 팬들, 노르웨이 '월드컵 탈락' 대역죄인 향한 우려 폭발",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "노르웨"
+            "폭발"
           ],
           "template": "인맥",
           "score": 7.4,
@@ -590,14 +590,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"폭발\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 폭발",
+          "title": "\"노르웨\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 노르웨",
           "article_count": 3,
           "source_article": "\"이강인이 주는 패스, 다 날려먹을 것 같다\" 축구 팬들, 노르웨이 '월드컵 탈락' 대역죄인 향한 우려 폭발",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "폭발"
+            "노르웨"
           ],
           "template": "인맥",
           "score": 7.4,
@@ -856,11 +856,11 @@
           3
         ],
         [
-          "노르웨이",
+          "폭발",
           3
         ],
         [
-          "폭발",
+          "노르웨이",
           3
         ],
         [
@@ -896,11 +896,11 @@
           2
         ],
         [
-          "주사",
+          "철벽",
           2
         ],
         [
-          "철벽",
+          "주사",
           2
         ],
         [
@@ -942,11 +942,11 @@
           3
         ],
         [
-          "노르웨",
+          "폭발",
           3
         ],
         [
-          "폭발",
+          "노르웨",
           3
         ],
         [
@@ -1053,7 +1053,7 @@
         {
           "title": "\"홍명보, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 4,
+          "article_count": 3,
           "source_article": "\"홍명보 감독님께 감사드린다, 한국을 지도해 영광\" 홍명보호 골키퍼 코치, 감사 인사 전했다 \"평생 간직할 자부심\"",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -1113,14 +1113,14 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"리센느\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 리센느",
+          "title": "\"니다\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 니다",
           "article_count": 3,
-          "source_article": "리센느 최근 인기순위.jpg",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202607140117189815&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_article": "이현중 아쉽습니다",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202607140117190331&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
           "source_name": "MLB파크 불펜",
           "related_names": [
-            "리센느"
+            "니다"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -1152,15 +1152,11 @@
           3
         ],
         [
-          "리센느",
-          3
-        ],
-        [
-          "감독",
+          "월드컵",
           2
         ],
         [
-          "월드컵",
+          "감독",
           2
         ],
         [
@@ -1172,35 +1168,11 @@
           2
         ],
         [
-          "식품",
+          "년대",
           2
         ],
         [
-          "인사",
-          1
-        ],
-        [
-          "지도해",
-          1
-        ],
-        [
-          "골키퍼",
-          1
-        ],
-        [
           "평생",
-          1
-        ],
-        [
-          "간직할",
-          1
-        ],
-        [
-          "자부심",
-          1
-        ],
-        [
-          "전했다",
           1
         ],
         [
@@ -1208,11 +1180,11 @@
           1
         ],
         [
-          "한국을",
+          "전했다",
           1
         ],
         [
-          "감사",
+          "골키퍼",
           1
         ],
         [
@@ -1220,7 +1192,35 @@
           1
         ],
         [
+          "홍명보호",
+          1
+        ],
+        [
+          "코치",
+          1
+        ],
+        [
+          "인사",
+          1
+        ],
+        [
+          "간직할",
+          1
+        ],
+        [
+          "지도해",
+          1
+        ],
+        [
           "감독님께",
+          1
+        ],
+        [
+          "감사",
+          1
+        ],
+        [
+          "한국을",
           1
         ]
       ],
@@ -1238,7 +1238,7 @@
           3
         ],
         [
-          "리센느",
+          "니다",
           3
         ],
         [
@@ -1254,18 +1254,18 @@
           2
         ],
         [
-          "식품",
+          "년대",
           2
         ],
         [
-          "외국인",
+          "었는데",
           2
         ]
       ],
       "angle_scores": [
         [
           "스포츠",
-          4
+          3
         ]
       ]
     }
@@ -1400,14 +1400,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"노르웨\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 노르웨",
+      "title": "\"폭발\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 폭발",
       "article_count": 3,
       "source_article": "\"이강인이 주는 패스, 다 날려먹을 것 같다\" 축구 팬들, 노르웨이 '월드컵 탈락' 대역죄인 향한 우려 폭발",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "노르웨"
+        "폭발"
       ],
       "template": "인맥",
       "score": 7.4,
@@ -1429,14 +1429,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"폭발\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 폭발",
+      "title": "\"노르웨\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 노르웨",
       "article_count": 3,
       "source_article": "\"이강인이 주는 패스, 다 날려먹을 것 같다\" 축구 팬들, 노르웨이 '월드컵 탈락' 대역죄인 향한 우려 폭발",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "폭발"
+        "노르웨"
       ],
       "template": "인맥",
       "score": 7.4,
@@ -1795,14 +1795,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"노르웨\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 노르웨",
+      "title": "\"폭발\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 폭발",
       "article_count": 3,
       "source_article": "\"이강인이 주는 패스, 다 날려먹을 것 같다\" 축구 팬들, 노르웨이 '월드컵 탈락' 대역죄인 향한 우려 폭발",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "노르웨"
+        "폭발"
       ],
       "template": "인맥",
       "score": 7.4,
@@ -1824,14 +1824,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"폭발\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 폭발",
+      "title": "\"노르웨\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 노르웨",
       "article_count": 3,
       "source_article": "\"이강인이 주는 패스, 다 날려먹을 것 같다\" 축구 팬들, 노르웨이 '월드컵 탈락' 대역죄인 향한 우려 폭발",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "폭발"
+        "노르웨"
       ],
       "template": "인맥",
       "score": 7.4,
@@ -2120,7 +2120,7 @@
     {
       "title": "\"홍명보, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 4,
+      "article_count": 3,
       "source_article": "\"홍명보 감독님께 감사드린다, 한국을 지도해 영광\" 홍명보호 골키퍼 코치, 감사 인사 전했다 \"평생 간직할 자부심\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -2180,14 +2180,14 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"리센느\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 리센느",
+      "title": "\"니다\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 니다",
       "article_count": 3,
-      "source_article": "리센느 최근 인기순위.jpg",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202607140117189815&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_article": "이현중 아쉽습니다",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202607140117190331&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "리센느"
+        "니다"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -2239,11 +2239,11 @@
       3
     ],
     [
-      "노르웨이",
+      "폭발",
       3
     ],
     [
-      "폭발",
+      "노르웨이",
       3
     ],
     [
@@ -2279,11 +2279,11 @@
       2
     ],
     [
-      "주사",
+      "철벽",
       2
     ],
     [
-      "철벽",
+      "주사",
       2
     ],
     [
@@ -2325,11 +2325,11 @@
       3
     ],
     [
-      "노르웨",
+      "폭발",
       3
     ],
     [
-      "폭발",
+      "노르웨",
       3
     ],
     [
