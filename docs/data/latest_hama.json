@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-07-17 18:03:57",
+  "scan_time": "2026-07-17 21:47:19",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,26 +8,53 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 0
+    "MLB파크 불펜": 30
   },
-  "total_articles": 50,
+  "total_articles": 80,
   "articles": [
     {
-      "title": "\"가슴 4개 됐어\" 이세영, 수위 조절 요청에도 노출 계속…\"이번엔 누구게\"",
-      "url": "https://m.entertain.naver.com/article/312/0000768153",
+      "title": "16기 영숙, 상철 성관계 폭로→모욕 혐의…결국 벌금형 확정",
+      "url": "https://m.entertain.naver.com/article/117/0004085367",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 67620,
+      "views": 1000447,
       "rank": 1,
       "channel": "정보주는하마"
     },
     {
-      "title": "구혜선, 헤어롤 가격 논란에…\"'내가 돈을 하나도 몰랐구나' 생각\" (데이앤나잇)",
-      "url": "https://m.entertain.naver.com/article/311/0002034931",
+      "title": "'강제추행 혐의' 유재환 맞아? 요요 제대로..달라진 얼굴에 못 알아볼 정도",
+      "url": "https://m.entertain.naver.com/article/108/0003453406",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 64069,
+      "views": 959387,
       "rank": 2,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "tvN 사고 쳤다…최고 시청률 5.7%→동시간대 '1위' 차지하며 안방 극장 달군 韓 예능 ('유퀴즈')",
+      "url": "https://m.entertain.naver.com/article/213/0001394562",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 706401,
+      "rank": 3,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "배나라, 장기열애 끝 ♥한재아와 결혼…\"시기는 미정\"",
+      "url": "https://m.entertain.naver.com/article/477/0000618663",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 676740,
+      "rank": 4,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'母 사기 논란' 장윤정, 술 마시며 '눈물' 2주만 근황..\"하고픈 얘기 참 많아\"",
+      "url": "https://m.entertain.naver.com/article/108/0003453515",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 550243,
+      "rank": 5,
       "channel": "정보주는하마"
     },
     {
@@ -35,35 +62,26 @@
       "url": "https://m.entertain.naver.com/article/117/0004085426",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 43486,
-      "rank": 3,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "연예인 공구, 또 문제 발생했다…강원래 아내 \"전제품 100% 환불\"",
-      "url": "https://m.entertain.naver.com/article/312/0000768118",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 39487,
-      "rank": 4,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'세븐♥' 이다해, 배 내밀고 깜짝 공개한 D라인 \"먹을것 챙겨줘 살 더쪄\"",
-      "url": "https://m.entertain.naver.com/article/076/0004426383",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 35457,
-      "rank": 5,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'강원래♥' 김송, 공구 제품 논란에 고개 숙였다…\"100% 환불\" 사과",
-      "url": "https://m.entertain.naver.com/article/213/0001394618",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 31734,
+      "views": 505249,
       "rank": 6,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "혐의없음 뒤집혔다…송하윤 측 \"학폭 제보자 검찰 송치, 최종판단 기다려\"",
+      "url": "https://m.entertain.naver.com/article/477/0000618644",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 432914,
+      "rank": 7,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "신동엽♥선혜윤 딸, 서울대 입학 후 일냈다…오늘 첫 공연 무대 예정, 역시 '엄친딸' 맞네",
+      "url": "https://m.entertain.naver.com/article/311/0002034398",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 429497,
+      "rank": 8,
       "channel": "정보주는하마"
     },
     {
@@ -71,89 +89,81 @@
       "url": "https://m.entertain.naver.com/article/117/0004085402",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 24787,
-      "rank": 7,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "김지유, 연인 따라 폴란드行? \"결혼 생각 중\"",
-      "url": "https://m.entertain.naver.com/article/445/0000439892",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 24164,
-      "rank": 8,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "‘가슴성형 1000만원’ 이소라, 눈 퉁퉁…혼자 여행가서 눈물 주르륵",
-      "url": "https://m.entertain.naver.com/article/312/0000768134",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 22609,
+      "views": 316697,
       "rank": 9,
       "channel": "정보주는하마"
     },
     {
-      "title": "남궁민 아내 진아름, 임신 중 근황‥D라인 배 살짝 공개",
-      "url": "https://m.entertain.naver.com/article/609/0001147133",
+      "title": "'세븐♥' 이다해, 배 내밀고 깜짝 공개한 D라인 \"먹을것 챙겨줘 살 더쪄\"",
+      "url": "https://m.entertain.naver.com/article/076/0004426383",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 21544,
+      "views": 309010,
       "rank": 10,
       "channel": "정보주는하마"
     },
     {
-      "title": "엄지원, 이혼한 지 5년…\"너무 사랑해 결혼해도 싫어지는 것\"",
-      "url": "https://m.entertain.naver.com/article/415/0000050154",
+      "title": "'18살 연상' 장기하와 열애 인정 한 달 만에…윤가이, \"사랑해 쪽\" 김아영 응원",
+      "url": "https://m.entertain.naver.com/article/213/0001394490",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 21204,
+      "views": 286061,
       "rank": 11,
+      "cross_baseball": true,
       "channel": "정보주는하마"
     },
     {
-      "title": "‘리치언니’ 박세리, 이사했다..‘뉴 하우스’ 최초 공개 (박세리의 속사정)",
-      "url": "https://m.entertain.naver.com/article/109/0005573225",
+      "title": "\"가슴 4개 됐어\" 이세영, 수위 조절 요청에도 노출 계속…\"이번엔 누구게\"",
+      "url": "https://m.entertain.naver.com/article/312/0000768153",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 20669,
+      "views": 274029,
       "rank": 12,
       "channel": "정보주는하마"
     },
     {
-      "title": "'기성용♥' 한혜진, 母 얼굴·세 자매 완전체 공개 \"비주얼, 집안 내력이었네\"",
-      "url": "https://m.entertain.naver.com/article/076/0004426431",
+      "title": "'배그 부부' 남편, 아내 사망 후 두 아들과 근황..\"또 나만 살아있구나\"",
+      "url": "https://m.entertain.naver.com/article/108/0003453321",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 15231,
+      "views": 272426,
       "rank": 13,
       "channel": "정보주는하마"
     },
     {
-      "title": "'나혼산' 뼈말라 몸매 해명..류혜영 \"다이어트한 적 없다, '응팔' 때랑 체중 변화無\"",
-      "url": "https://m.entertain.naver.com/article/108/0003453678",
+      "title": "구혜선, 헤어롤 가격 논란에…\"'내가 돈을 하나도 몰랐구나' 생각\" (데이앤나잇)",
+      "url": "https://m.entertain.naver.com/article/311/0002034931",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 14787,
+      "views": 231328,
       "rank": 14,
       "channel": "정보주는하마"
     },
     {
-      "title": "'15대 의사 집안' 추사랑 남사친 유토, 궁궐 같은 집 공개…야노시호 \"딸 맡길 것\"",
-      "url": "https://m.entertain.naver.com/article/076/0004426496",
+      "title": "'강원래♥' 김송, 공구 제품 논란에 고개 숙였다…\"100% 환불\" 사과",
+      "url": "https://m.entertain.naver.com/article/213/0001394618",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 9817,
+      "views": 226285,
       "rank": 15,
       "channel": "정보주는하마"
     },
     {
-      "title": "배성재♥김다영, 눈물의 결혼식 현장...父 손 꼭 잡고 신부 입장 \"못 해볼 줄 알았는데\"",
-      "url": "https://m.entertain.naver.com/article/076/0004426394",
+      "title": "몸매 포토샵인 줄…'55세' 김혜수, 초밀착 원피스 입고 한 줌 '개미허리' 과시",
+      "url": "https://m.entertain.naver.com/article/312/0000768059",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 9163,
+      "views": 225993,
       "rank": 16,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "노홍철, 英 숙소서 불쾌 경험→직접 '호텔' 만든다…\"신나서 잠도 안 와\"",
+      "url": "https://m.entertain.naver.com/article/213/0001394533",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 223760,
+      "rank": 17,
       "channel": "정보주는하마"
     },
     {
@@ -161,124 +171,115 @@
       "url": "https://m.entertain.naver.com/article/609/0001146956",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 8829,
-      "rank": 17,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "이웃주민과 10억 소송 패소..\"난 몇 억 배 더 잘 될 것\" 차유람 남편 이지성 심경",
-      "url": "https://m.entertain.naver.com/article/108/0003453666",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 8690,
+      "views": 215874,
       "rank": 18,
       "channel": "정보주는하마"
     },
     {
-      "title": "“살 더 빠졌어?” 안은진, 얼굴 반쪽 됐다...더 날카로워진 턱선+콧날",
-      "url": "https://m.entertain.naver.com/article/468/0001254208",
+      "title": "김나영, 또 터진 '부실 밥상' 논란에 억울..\"우리 가족 충분히 배불러\"",
+      "url": "https://m.entertain.naver.com/article/108/0003453457",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 8456,
+      "views": 202292,
       "rank": 19,
       "channel": "정보주는하마"
     },
     {
-      "title": "'비연예인♥과 재혼' 오윤아, 또 기쁜 소식 \"자폐 子 발 틀어졌는데..장하다\"",
-      "url": "https://m.entertain.naver.com/article/076/0004426491",
+      "title": "구혜선, '가격 논란' 헤어롤 입 열었다…\"공장식 가공 어려워 전부 수작업\" ('데이앤나잇')",
+      "url": "https://m.entertain.naver.com/article/076/0004426402",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 8271,
+      "views": 200063,
       "rank": 20,
       "channel": "정보주는하마"
     },
     {
-      "title": "야노시호도 놀란 폭풍 성장…'사랑이 남사친' 유토, 훌쩍 자랐다 ('야노시호')",
-      "url": "https://m.entertain.naver.com/article/109/0005573053",
+      "title": "김지유, 연인 따라 폴란드行? \"결혼 생각 중\"",
+      "url": "https://m.entertain.naver.com/article/445/0000439892",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 7540,
+      "views": 199114,
       "rank": 21,
       "channel": "정보주는하마"
     },
     {
-      "title": "28기 영자, ♥영철 사진 삭제 이어 '언팔'…재혼 6개월만 '이혼설' 재점화",
-      "url": "https://m.entertain.naver.com/article/311/0002034988",
+      "title": "연예인 공구, 또 문제 발생했다…강원래 아내 \"전제품 100% 환불\"",
+      "url": "https://m.entertain.naver.com/article/312/0000768118",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 6926,
+      "views": 185386,
       "rank": 22,
       "channel": "정보주는하마"
     },
     {
-      "title": "“평생 다이어트 안 했다” 류혜영, 뼈말라 비결 밝혀지자 ‘반전’",
-      "url": "https://m.entertain.naver.com/article/468/0001254227",
+      "title": "‘수술 예정’ 이수지, 잘 쉬다가 날벼락…“영상 내려” 비난 쇄도",
+      "url": "https://m.entertain.naver.com/article/468/0001253969",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 6451,
+      "views": 172554,
       "rank": 23,
       "channel": "정보주는하마"
     },
     {
-      "title": "“상속 포기 안해” 구준엽, 1200억 탐낸다?…실제론 두 아이 몫 지키기",
-      "url": "https://m.entertain.naver.com/article/468/0001254236",
+      "title": "박경림 아들, 얼마나 훤칠하길래…이소라도 \"잘생겼다던데\" ('두데')",
+      "url": "https://m.entertain.naver.com/article/445/0000439848",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 6180,
+      "views": 152285,
       "rank": 24,
       "channel": "정보주는하마"
     },
     {
-      "title": "'이병현♥' 이민정, 농구하는 子 훌쩍 자란 키 공개→늦둥이 딸까지 자랐다",
-      "url": "https://m.entertain.naver.com/article/109/0005572735",
+      "title": "“솔비 맞아?” 새벽 4시 완전 민낯 공개...20년째 ‘동안 미모’ 팬들 깜짝",
+      "url": "https://m.entertain.naver.com/article/468/0001254018",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 5923,
+      "views": 150833,
       "rank": 25,
       "channel": "정보주는하마"
     },
     {
-      "title": "'하트시그널4' 이주미, 쌍꺼풀·눈밑지 성형 고백 \"'눈 달라졌다'는 질문 많이 받아\"",
-      "url": "https://m.entertain.naver.com/article/076/0004426450",
+      "title": "'하트 시그널' 인기 커플, 끝내 결별…'7년 연애' 마침표→\"각자의 길 걸을 것\"",
+      "url": "https://m.entertain.naver.com/article/445/0000439853",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 5514,
+      "views": 149170,
       "rank": 26,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"죄송한 마음\" 구혜선 돌연 사과 왜?..\"뚱뚱해\" 악플에 솔직 반응",
-      "url": "https://m.entertain.naver.com/article/109/0005572745",
+      "title": "‘가슴성형 1000만원’ 이소라, 눈 퉁퉁…혼자 여행가서 눈물 주르륵",
+      "url": "https://m.entertain.naver.com/article/312/0000768134",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 5331,
+      "views": 136674,
       "rank": 27,
       "channel": "정보주는하마"
     },
     {
-      "title": "51세 여배우, 중매로 만난 남편과 재혼 “만난 지 10일 만에 결심”",
-      "url": "https://m.entertain.naver.com/article/609/0001147081",
+      "title": "'고지용♥' 허양임, 폭풍성장 13살 승재 공개..확 달라진 훈남 몰라보겠어",
+      "url": "https://m.entertain.naver.com/article/109/0005572069",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 5226,
+      "views": 134787,
       "rank": 28,
       "channel": "정보주는하마"
     },
     {
-      "title": "BTS 정국, 파리서 밥 먹고 나오는데…팬들이 바글바글 ‘손인사’ 툭",
-      "url": "https://m.entertain.naver.com/article/312/0000768150",
+      "title": "'기성용♥' 한혜진, 母 얼굴·세 자매 완전체 공개 \"비주얼, 집안 내력이었네\"",
+      "url": "https://m.entertain.naver.com/article/076/0004426431",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 5189,
+      "views": 106422,
       "rank": 29,
       "channel": "정보주는하마"
     },
     {
-      "title": "이혼 전문 변호사 양나래, 9월 결혼 “다들 이미 시집간 줄 알아”",
-      "url": "https://m.entertain.naver.com/article/076/0004426412",
+      "title": "야노 시호, 더러운 50억 집 공개 후‥추사랑 “가사도우미가 청소 다해” 폭로에 당황(편스토랑)",
+      "url": "https://m.entertain.naver.com/article/609/0001146930",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 4602,
+      "views": 106131,
       "rank": 30,
       "channel": "정보주는하마"
     },
@@ -423,72 +424,6 @@
       "article_count": 45,
       "topics": [
         {
-          "title": "\"논란에까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 5,
-          "source_article": "이천수 충격 폭로! \"축구인보다 더 힘 센 대한축구협회 '장급' 5명 있어…K-혁신위, 그 사람들 끌어내야\"",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "논란에",
-            "폭로",
-            "구혜선",
-            "헤어롤",
-            "가격"
-          ],
-          "template": "논란 집합",
-          "score": 8.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"이적료, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 5,
-          "source_article": "“이적료 305억, 계약기간 3+1년·연봉 110억” 오현규 새 시즌 득점왕 경쟁 도울 ‘새로운 조력자’ 트로사르 베식타시 전력 합류",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "이적료",
-            "오현규",
-            "베식타",
-            "장원영",
-            "제니"
-          ],
-          "template": "자산 서열",
-          "score": 7.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
           "title": "\"월드컵 자산이 얼마?\" 월드컵급 자산가 스타 TOP10",
           "angle_type": "👤 월드컵",
           "article_count": 3,
@@ -551,54 +486,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"재혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-          "angle_type": "결혼·이혼",
-          "article_count": 8,
-          "source_article": "김지유, 연인 따라 폴란드行? \"결혼 생각 중\"",
-          "source_url": "https://m.entertain.naver.com/article/445/0000439892",
+          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 3,
+          "source_article": "'母 사기 논란' 장윤정, 술 마시며 '눈물' 2주만 근황..\"하고픈 얘기 참 많아\"",
+          "source_url": "https://m.entertain.naver.com/article/108/0003453515",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "재혼",
-            "결혼",
-            "만난",
-            "김지유",
-            "연인"
-          ],
-          "template": "결혼 화제",
-          "score": 7.1,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 2,
-          "source_article": "한국처럼 조별리그 탈락, 대표팀 넘어 현역 은퇴…'43세' 월드컵 최고령 축구화 벗었다",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "남궁민",
-            "아내",
-            "진아름",
-            "임신",
-            "근황"
+            "근황",
+            "사기",
+            "장윤정",
+            "마시며",
+            "눈물"
           ],
           "template": "장기 공백 복귀",
-          "score": 7.1,
+          "score": 7.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -617,21 +519,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+          "title": "\"우리이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
           "angle_type": "가족·혈연",
-          "article_count": 3,
-          "source_article": "션, ♥정혜영 똑닮은 막내딸 공개…\"우리 리틀혜영 하엘, 생일 축하해\"",
-          "source_url": "https://m.entertain.naver.com/article/117/0004085402",
+          "article_count": 5,
+          "source_article": "신동엽♥선혜윤 딸, 서울대 입학 후 일냈다…오늘 첫 공연 무대 예정, 역시 '엄친딸' 맞네",
+          "source_url": "https://m.entertain.naver.com/article/311/0002034398",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "정혜영",
-            "똑닮은",
-            "막내딸",
             "우리",
-            "리틀혜"
+            "신동엽",
+            "선혜윤",
+            "서울대",
+            "입학"
           ],
           "template": "동갑내기",
-          "score": 6.6,
+          "score": 7.2,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -650,17 +552,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"집안\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 집안",
-          "article_count": 3,
-          "source_article": "'기성용♥' 한혜진, 母 얼굴·세 자매 완전체 공개 \"비주얼, 집안 내력이었네\"",
-          "source_url": "https://m.entertain.naver.com/article/076/0004426431",
+          "title": "\"폭로까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 10,
+          "source_article": "16기 영숙, 상철 성관계 폭로→모욕 혐의…결국 벌금형 확정",
+          "source_url": "https://m.entertain.naver.com/article/117/0004085367",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "집안"
+            "폭로",
+            "논란에",
+            "구혜선",
+            "헤어롤",
+            "가격"
           ],
-          "template": "인맥",
-          "score": 6.0,
+          "template": "논란 집합",
+          "score": 7.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -671,25 +577,29 @@
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
+              "소속·직업",
+              "논란 내용",
               "현재 상황"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"유토\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 유토",
-          "article_count": 3,
-          "source_article": "'15대 의사 집안' 추사랑 남사친 유토, 궁궐 같은 집 공개…야노시호 \"딸 맡길 것\"",
-          "source_url": "https://m.entertain.naver.com/article/076/0004426496",
+          "title": "\"이적료, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 4,
+          "source_article": "장원영 137억…제니 50억…소시 효연 \"한남동 사는 연예인 부러워\"",
+          "source_url": "https://m.entertain.naver.com/article/117/0004085426",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "유토"
+            "이적료",
+            "오현규",
+            "베식타",
+            "장원영",
+            "제니"
           ],
-          "template": "인맥",
-          "score": 6.0,
+          "template": "자산 서열",
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -700,22 +610,84 @@
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"논란에, 대체 무슨 일이?\" 논란에 관련 이슈 총정리",
+          "angle_type": "👤 논란에",
+          "article_count": 3,
+          "source_article": "구혜선, 헤어롤 가격 논란에…\"'내가 돈을 하나도 몰랐구나' 생각\" (데이앤나잇)",
+          "source_url": "https://m.entertain.naver.com/article/311/0002034931",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "논란에"
+          ],
+          "template": "논란 집합",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
               "현재 상황"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"야노시\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 야노시",
+          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "angle_type": "결혼·이혼",
           "article_count": 3,
-          "source_article": "'15대 의사 집안' 추사랑 남사친 유토, 궁궐 같은 집 공개…야노시호 \"딸 맡길 것\"",
-          "source_url": "https://m.entertain.naver.com/article/076/0004426496",
+          "source_article": "배나라, 장기열애 끝 ♥한재아와 결혼…\"시기는 미정\"",
+          "source_url": "https://m.entertain.naver.com/article/477/0000618663",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "야노시"
+            "결혼",
+            "배나라",
+            "장기열",
+            "한재아",
+            "시기는"
+          ],
+          "template": "결혼 화제",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"날벼락\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 날벼락",
+          "article_count": 3,
+          "source_article": "‘수술 예정’ 이수지, 잘 쉬다가 날벼락…“영상 내려” 비난 쇄도",
+          "source_url": "https://m.entertain.naver.com/article/468/0001253969",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "날벼락"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -764,28 +736,113 @@
             ]
           },
           "channel": "정보주는하마"
+        },
+        {
+          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+          "angle_type": "투병·건강",
+          "article_count": 2,
+          "source_article": "'배그 부부' 남편, 아내 사망 후 두 아들과 근황..\"또 나만 살아있구나\"",
+          "source_url": "https://m.entertain.naver.com/article/108/0003453321",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "배그",
+            "부부",
+            "남편",
+            "아내",
+            "사망"
+          ],
+          "template": "투병 극복",
+          "score": 5.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "투병 질환",
+              "공백기",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
         }
       ],
       "keyword_freq": [
         [
-          "집안",
+          "폭로",
           3
         ],
         [
-          "유토",
+          "논란에",
           3
         ],
         [
-          "야노시호",
-          3
-        ],
-        [
-          "재혼",
+          "날벼락",
           3
         ],
         [
           "월드컵",
           3
+        ],
+        [
+          "혐의",
+          2
+        ],
+        [
+          "달라진",
+          2
+        ],
+        [
+          "맞아",
+          2
+        ],
+        [
+          "결혼",
+          2
+        ],
+        [
+          "눈물",
+          2
+        ],
+        [
+          "근황",
+          2
+        ],
+        [
+          "연예인",
+          2
+        ],
+        [
+          "무대",
+          2
+        ],
+        [
+          "우리",
+          2
+        ],
+        [
+          "깜짝",
+          2
+        ],
+        [
+          "아내",
+          2
+        ],
+        [
+          "데이앤나잇",
+          2
+        ],
+        [
+          "헤어롤",
+          2
+        ],
+        [
+          "가격",
+          2
         ],
         [
           "생각",
@@ -794,75 +851,19 @@
         [
           "구혜선",
           2
-        ],
-        [
-          "논란에",
-          2
-        ],
-        [
-          "연예인",
-          2
-        ],
-        [
-          "아내",
-          2
-        ],
-        [
-          "환불",
-          2
-        ],
-        [
-          "강원래",
-          2
-        ],
-        [
-          "사과",
-          2
-        ],
-        [
-          "결혼",
-          2
-        ],
-        [
-          "너무",
-          2
-        ],
-        [
-          "얼굴",
-          2
-        ],
-        [
-          "류혜영",
-          2
-        ],
-        [
-          "뼈말라",
-          2
-        ],
-        [
-          "의사",
-          2
-        ],
-        [
-          "남사친",
-          2
         ]
       ],
       "name_freq": [
         [
-          "집안",
+          "폭로",
           3
         ],
         [
-          "유토",
+          "논란에",
           3
         ],
         [
-          "야노시",
-          3
-        ],
-        [
-          "재혼",
+          "날벼락",
           3
         ],
         [
@@ -874,15 +875,27 @@
           3
         ],
         [
-          "생각",
+          "혐의",
           2
         ],
         [
-          "구혜선",
+          "달라진",
           2
         ],
         [
-          "논란에",
+          "맞아",
+          2
+        ],
+        [
+          "결혼",
+          2
+        ],
+        [
+          "눈물",
+          2
+        ],
+        [
+          "근황",
           2
         ],
         [
@@ -890,41 +903,37 @@
           2
         ],
         [
-          "아내",
+          "무대",
           2
         ],
         [
-          "환불",
+          "우리",
           2
         ],
         [
-          "강원래",
-          2
-        ],
-        [
-          "사과",
-          2
-        ],
-        [
-          "결혼",
+          "깜짝",
           2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
-          5
+          4
         ],
         [
           "논란·사건",
-          5
+          10
         ],
         [
           "결혼·이혼",
-          8
+          3
         ],
         [
           "복귀·근황",
+          3
+        ],
+        [
+          "투병·건강",
           2
         ],
         [
@@ -933,12 +942,12 @@
         ],
         [
           "가족·혈연",
-          3
+          5
         ]
       ]
     },
     "초구딱": {
-      "article_count": 5,
+      "article_count": 35,
       "topics": [
         {
           "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
@@ -974,6 +983,35 @@
           "channel": "초구딱"
         },
         {
+          "title": "\"월드컵\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 월드컵",
+          "article_count": 4,
+          "source_article": "소신 발언! 홍명보호, 관찰한 LAFC 감독 \"손흥민,나라를 사랑했기에 월드컵서 좋은 성적 원했어...아직 완벽히 극복하진 못해\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "월드컵"
+          ],
+          "template": "인맥",
+          "score": 6.9,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
           "title": "\"홍명보, 대체 무슨 일이?\" 홍명보 관련 이슈 총정리",
           "angle_type": "👤 홍명보",
           "article_count": 3,
@@ -1001,6 +1039,97 @@
             ]
           },
           "channel": "초구딱"
+        },
+        {
+          "title": "\"승부예\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 승부예",
+          "article_count": 3,
+          "source_article": "🏆[7/16 랭킹 확인] 2026 북중미월드컵 승부예측 이벤트🏆",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606100116098223",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "승부예"
+          ],
+          "template": "인맥",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"안내\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안내",
+          "article_count": 4,
+          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "안내"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 2,
+          "source_article": "베식타스에서 뛰고있는 오현규 근황 ㄷㄷ.jpg",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202607180117286205&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "근황",
+            "거물급",
+            "아나운",
+            "박지영",
+            "시간전"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 5.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
@@ -1009,6 +1138,14 @@
           4
         ],
         [
+          "안내",
+          4
+        ],
+        [
+          "승부예측",
+          3
+        ],
+        [
           "홍명보",
           2
         ],
@@ -1017,27 +1154,27 @@
           2
         ],
         [
-          "못해",
-          1
+          "공지",
+          2
+        ],
+        [
+          "바로가기",
+          2
+        ],
+        [
+          "메시",
+          2
+        ],
+        [
+          "근황",
+          2
+        ],
+        [
+          "동부간선도로",
+          2
         ],
         [
           "홍명보호",
-          1
-        ],
-        [
-          "월드컵서",
-          1
-        ],
-        [
-          "좋은",
-          1
-        ],
-        [
-          "나라를",
-          1
-        ],
-        [
-          "원했어",
           1
         ],
         [
@@ -1045,27 +1182,7 @@
           1
         ],
         [
-          "완벽히",
-          1
-        ],
-        [
-          "극복하진",
-          1
-        ],
-        [
-          "소신",
-          1
-        ],
-        [
-          "손흥민",
-          1
-        ],
-        [
-          "사랑했기에",
-          1
-        ],
-        [
-          "발언",
+          "원했어",
           1
         ],
         [
@@ -1073,26 +1190,54 @@
           1
         ],
         [
-          "성적",
+          "발언",
           1
         ],
         [
-          "음바페는",
+          "완벽히",
           1
         ],
         [
-          "저격",
+          "나라를",
+          1
+        ],
+        [
+          "좋은",
+          1
+        ],
+        [
+          "손흥민",
+          1
+        ],
+        [
+          "월드컵서",
           1
         ]
       ],
       "name_freq": [
         [
+          "월드컵",
+          4
+        ],
+        [
           "감독",
+          4
+        ],
+        [
+          "안내",
           4
         ],
         [
           "홍명보",
           3
+        ],
+        [
+          "승부예",
+          3
+        ],
+        [
+          "음바페",
+          2
         ],
         [
           "감독에",
@@ -1101,9 +1246,41 @@
         [
           "출신",
           2
+        ],
+        [
+          "공지",
+          2
+        ],
+        [
+          "바로가",
+          2
+        ],
+        [
+          "메시",
+          2
+        ],
+        [
+          "근황",
+          2
+        ],
+        [
+          "마지막",
+          2
+        ],
+        [
+          "선도로",
+          2
+        ],
+        [
+          "동부간",
+          2
         ]
       ],
       "angle_scores": [
+        [
+          "복귀·근황",
+          2
+        ],
         [
           "스포츠",
           5
@@ -1113,72 +1290,6 @@
   },
   "topics": [
     {
-      "title": "\"논란에까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 5,
-      "source_article": "이천수 충격 폭로! \"축구인보다 더 힘 센 대한축구협회 '장급' 5명 있어…K-혁신위, 그 사람들 끌어내야\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "논란에",
-        "폭로",
-        "구혜선",
-        "헤어롤",
-        "가격"
-      ],
-      "template": "논란 집합",
-      "score": 8.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이적료, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 5,
-      "source_article": "“이적료 305억, 계약기간 3+1년·연봉 110억” 오현규 새 시즌 득점왕 경쟁 도울 ‘새로운 조력자’ 트로사르 베식타시 전력 합류",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "이적료",
-        "오현규",
-        "베식타",
-        "장원영",
-        "제니"
-      ],
-      "template": "자산 서열",
-      "score": 7.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"월드컵 자산이 얼마?\" 월드컵급 자산가 스타 TOP10",
       "angle_type": "👤 월드컵",
       "article_count": 3,
@@ -1241,54 +1352,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"재혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 8,
-      "source_article": "김지유, 연인 따라 폴란드行? \"결혼 생각 중\"",
-      "source_url": "https://m.entertain.naver.com/article/445/0000439892",
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 3,
+      "source_article": "'母 사기 논란' 장윤정, 술 마시며 '눈물' 2주만 근황..\"하고픈 얘기 참 많아\"",
+      "source_url": "https://m.entertain.naver.com/article/108/0003453515",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "재혼",
-        "결혼",
-        "만난",
-        "김지유",
-        "연인"
-      ],
-      "template": "결혼 화제",
-      "score": 7.1,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 2,
-      "source_article": "한국처럼 조별리그 탈락, 대표팀 넘어 현역 은퇴…'43세' 월드컵 최고령 축구화 벗었다",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "남궁민",
-        "아내",
-        "진아름",
-        "임신",
-        "근황"
+        "근황",
+        "사기",
+        "장윤정",
+        "마시며",
+        "눈물"
       ],
       "template": "장기 공백 복귀",
-      "score": 7.1,
+      "score": 7.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1307,21 +1385,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+      "title": "\"우리이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
       "angle_type": "가족·혈연",
-      "article_count": 3,
-      "source_article": "션, ♥정혜영 똑닮은 막내딸 공개…\"우리 리틀혜영 하엘, 생일 축하해\"",
-      "source_url": "https://m.entertain.naver.com/article/117/0004085402",
+      "article_count": 5,
+      "source_article": "신동엽♥선혜윤 딸, 서울대 입학 후 일냈다…오늘 첫 공연 무대 예정, 역시 '엄친딸' 맞네",
+      "source_url": "https://m.entertain.naver.com/article/311/0002034398",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "정혜영",
-        "똑닮은",
-        "막내딸",
         "우리",
-        "리틀혜"
+        "신동엽",
+        "선혜윤",
+        "서울대",
+        "입학"
       ],
       "template": "동갑내기",
-      "score": 6.6,
+      "score": 7.2,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1340,17 +1418,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"집안\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 집안",
-      "article_count": 3,
-      "source_article": "'기성용♥' 한혜진, 母 얼굴·세 자매 완전체 공개 \"비주얼, 집안 내력이었네\"",
-      "source_url": "https://m.entertain.naver.com/article/076/0004426431",
+      "title": "\"폭로까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 10,
+      "source_article": "16기 영숙, 상철 성관계 폭로→모욕 혐의…결국 벌금형 확정",
+      "source_url": "https://m.entertain.naver.com/article/117/0004085367",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "집안"
+        "폭로",
+        "논란에",
+        "구혜선",
+        "헤어롤",
+        "가격"
       ],
-      "template": "인맥",
-      "score": 6.0,
+      "template": "논란 집합",
+      "score": 7.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1361,25 +1443,29 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
+          "소속·직업",
+          "논란 내용",
           "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"유토\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 유토",
-      "article_count": 3,
-      "source_article": "'15대 의사 집안' 추사랑 남사친 유토, 궁궐 같은 집 공개…야노시호 \"딸 맡길 것\"",
-      "source_url": "https://m.entertain.naver.com/article/076/0004426496",
+      "title": "\"이적료, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 4,
+      "source_article": "장원영 137억…제니 50억…소시 효연 \"한남동 사는 연예인 부러워\"",
+      "source_url": "https://m.entertain.naver.com/article/117/0004085426",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "유토"
+        "이적료",
+        "오현규",
+        "베식타",
+        "장원영",
+        "제니"
       ],
-      "template": "인맥",
-      "score": 6.0,
+      "template": "자산 서열",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1390,22 +1476,84 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"논란에, 대체 무슨 일이?\" 논란에 관련 이슈 총정리",
+      "angle_type": "👤 논란에",
+      "article_count": 3,
+      "source_article": "구혜선, 헤어롤 가격 논란에…\"'내가 돈을 하나도 몰랐구나' 생각\" (데이앤나잇)",
+      "source_url": "https://m.entertain.naver.com/article/311/0002034931",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "논란에"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
           "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"야노시\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 야노시",
+      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "angle_type": "결혼·이혼",
       "article_count": 3,
-      "source_article": "'15대 의사 집안' 추사랑 남사친 유토, 궁궐 같은 집 공개…야노시호 \"딸 맡길 것\"",
-      "source_url": "https://m.entertain.naver.com/article/076/0004426496",
+      "source_article": "배나라, 장기열애 끝 ♥한재아와 결혼…\"시기는 미정\"",
+      "source_url": "https://m.entertain.naver.com/article/477/0000618663",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "야노시"
+        "결혼",
+        "배나라",
+        "장기열",
+        "한재아",
+        "시기는"
+      ],
+      "template": "결혼 화제",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"날벼락\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 날벼락",
+      "article_count": 3,
+      "source_article": "‘수술 예정’ 이수지, 잘 쉬다가 날벼락…“영상 내려” 비난 쇄도",
+      "source_url": "https://m.entertain.naver.com/article/468/0001253969",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "날벼락"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1451,6 +1599,39 @@
           "분류",
           "이슈 내용",
           "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+      "angle_type": "투병·건강",
+      "article_count": 2,
+      "source_article": "'배그 부부' 남편, 아내 사망 후 두 아들과 근황..\"또 나만 살아있구나\"",
+      "source_url": "https://m.entertain.naver.com/article/108/0003453321",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "배그",
+        "부부",
+        "남편",
+        "아내",
+        "사망"
+      ],
+      "template": "투병 극복",
+      "score": 5.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "투병 질환",
+          "공백기",
+          "복귀 작품"
         ]
       },
       "channel": "정보주는하마"
@@ -1458,72 +1639,6 @@
   ],
   "all_topics": [
     {
-      "title": "\"논란에까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 5,
-      "source_article": "이천수 충격 폭로! \"축구인보다 더 힘 센 대한축구협회 '장급' 5명 있어…K-혁신위, 그 사람들 끌어내야\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "논란에",
-        "폭로",
-        "구혜선",
-        "헤어롤",
-        "가격"
-      ],
-      "template": "논란 집합",
-      "score": 8.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이적료, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 5,
-      "source_article": "“이적료 305억, 계약기간 3+1년·연봉 110억” 오현규 새 시즌 득점왕 경쟁 도울 ‘새로운 조력자’ 트로사르 베식타시 전력 합류",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "이적료",
-        "오현규",
-        "베식타",
-        "장원영",
-        "제니"
-      ],
-      "template": "자산 서열",
-      "score": 7.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"월드컵 자산이 얼마?\" 월드컵급 자산가 스타 TOP10",
       "angle_type": "👤 월드컵",
       "article_count": 3,
@@ -1586,54 +1701,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"재혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 8,
-      "source_article": "김지유, 연인 따라 폴란드行? \"결혼 생각 중\"",
-      "source_url": "https://m.entertain.naver.com/article/445/0000439892",
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 3,
+      "source_article": "'母 사기 논란' 장윤정, 술 마시며 '눈물' 2주만 근황..\"하고픈 얘기 참 많아\"",
+      "source_url": "https://m.entertain.naver.com/article/108/0003453515",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "재혼",
-        "결혼",
-        "만난",
-        "김지유",
-        "연인"
-      ],
-      "template": "결혼 화제",
-      "score": 7.1,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 2,
-      "source_article": "한국처럼 조별리그 탈락, 대표팀 넘어 현역 은퇴…'43세' 월드컵 최고령 축구화 벗었다",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "남궁민",
-        "아내",
-        "진아름",
-        "임신",
-        "근황"
+        "근황",
+        "사기",
+        "장윤정",
+        "마시며",
+        "눈물"
       ],
       "template": "장기 공백 복귀",
-      "score": 7.1,
+      "score": 7.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1652,21 +1734,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+      "title": "\"우리이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
       "angle_type": "가족·혈연",
-      "article_count": 3,
-      "source_article": "션, ♥정혜영 똑닮은 막내딸 공개…\"우리 리틀혜영 하엘, 생일 축하해\"",
-      "source_url": "https://m.entertain.naver.com/article/117/0004085402",
+      "article_count": 5,
+      "source_article": "신동엽♥선혜윤 딸, 서울대 입학 후 일냈다…오늘 첫 공연 무대 예정, 역시 '엄친딸' 맞네",
+      "source_url": "https://m.entertain.naver.com/article/311/0002034398",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "정혜영",
-        "똑닮은",
-        "막내딸",
         "우리",
-        "리틀혜"
+        "신동엽",
+        "선혜윤",
+        "서울대",
+        "입학"
       ],
       "template": "동갑내기",
-      "score": 6.6,
+      "score": 7.2,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1685,17 +1767,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"집안\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 집안",
-      "article_count": 3,
-      "source_article": "'기성용♥' 한혜진, 母 얼굴·세 자매 완전체 공개 \"비주얼, 집안 내력이었네\"",
-      "source_url": "https://m.entertain.naver.com/article/076/0004426431",
+      "title": "\"폭로까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 10,
+      "source_article": "16기 영숙, 상철 성관계 폭로→모욕 혐의…결국 벌금형 확정",
+      "source_url": "https://m.entertain.naver.com/article/117/0004085367",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "집안"
+        "폭로",
+        "논란에",
+        "구혜선",
+        "헤어롤",
+        "가격"
       ],
-      "template": "인맥",
-      "score": 6.0,
+      "template": "논란 집합",
+      "score": 7.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1706,25 +1792,29 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
+          "소속·직업",
+          "논란 내용",
           "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"유토\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 유토",
-      "article_count": 3,
-      "source_article": "'15대 의사 집안' 추사랑 남사친 유토, 궁궐 같은 집 공개…야노시호 \"딸 맡길 것\"",
-      "source_url": "https://m.entertain.naver.com/article/076/0004426496",
+      "title": "\"이적료, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 4,
+      "source_article": "장원영 137억…제니 50억…소시 효연 \"한남동 사는 연예인 부러워\"",
+      "source_url": "https://m.entertain.naver.com/article/117/0004085426",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "유토"
+        "이적료",
+        "오현규",
+        "베식타",
+        "장원영",
+        "제니"
       ],
-      "template": "인맥",
-      "score": 6.0,
+      "template": "자산 서열",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1735,22 +1825,84 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"논란에, 대체 무슨 일이?\" 논란에 관련 이슈 총정리",
+      "angle_type": "👤 논란에",
+      "article_count": 3,
+      "source_article": "구혜선, 헤어롤 가격 논란에…\"'내가 돈을 하나도 몰랐구나' 생각\" (데이앤나잇)",
+      "source_url": "https://m.entertain.naver.com/article/311/0002034931",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "논란에"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
           "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"야노시\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 야노시",
+      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "angle_type": "결혼·이혼",
       "article_count": 3,
-      "source_article": "'15대 의사 집안' 추사랑 남사친 유토, 궁궐 같은 집 공개…야노시호 \"딸 맡길 것\"",
-      "source_url": "https://m.entertain.naver.com/article/076/0004426496",
+      "source_article": "배나라, 장기열애 끝 ♥한재아와 결혼…\"시기는 미정\"",
+      "source_url": "https://m.entertain.naver.com/article/477/0000618663",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "야노시"
+        "결혼",
+        "배나라",
+        "장기열",
+        "한재아",
+        "시기는"
+      ],
+      "template": "결혼 화제",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"날벼락\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 날벼락",
+      "article_count": 3,
+      "source_article": "‘수술 예정’ 이수지, 잘 쉬다가 날벼락…“영상 내려” 비난 쇄도",
+      "source_url": "https://m.entertain.naver.com/article/468/0001253969",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "날벼락"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1796,6 +1948,39 @@
           "분류",
           "이슈 내용",
           "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+      "angle_type": "투병·건강",
+      "article_count": 2,
+      "source_article": "'배그 부부' 남편, 아내 사망 후 두 아들과 근황..\"또 나만 살아있구나\"",
+      "source_url": "https://m.entertain.naver.com/article/108/0003453321",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "배그",
+        "부부",
+        "남편",
+        "아내",
+        "사망"
+      ],
+      "template": "투병 극복",
+      "score": 5.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "투병 질환",
+          "공백기",
+          "복귀 작품"
         ]
       },
       "channel": "정보주는하마"
@@ -1834,6 +2019,35 @@
       "channel": "초구딱"
     },
     {
+      "title": "\"월드컵\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 월드컵",
+      "article_count": 4,
+      "source_article": "소신 발언! 홍명보호, 관찰한 LAFC 감독 \"손흥민,나라를 사랑했기에 월드컵서 좋은 성적 원했어...아직 완벽히 극복하진 못해\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "월드컵"
+      ],
+      "template": "인맥",
+      "score": 6.9,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
       "title": "\"홍명보, 대체 무슨 일이?\" 홍명보 관련 이슈 총정리",
       "angle_type": "👤 홍명보",
       "article_count": 3,
@@ -1861,28 +2075,171 @@
         ]
       },
       "channel": "초구딱"
+    },
+    {
+      "title": "\"승부예\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 승부예",
+      "article_count": 3,
+      "source_article": "🏆[7/16 랭킹 확인] 2026 북중미월드컵 승부예측 이벤트🏆",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=worldcup&id=202606100116098223",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "승부예"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 4,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "베식타스에서 뛰고있는 오현규 근황 ㄷㄷ.jpg",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202607180117286205&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "근황",
+        "거물급",
+        "아나운",
+        "박지영",
+        "시간전"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 5.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
     [
-      "집안",
+      "폭로",
       3
     ],
     [
-      "유토",
+      "논란에",
       3
     ],
     [
-      "야노시호",
-      3
-    ],
-    [
-      "재혼",
+      "날벼락",
       3
     ],
     [
       "월드컵",
       3
+    ],
+    [
+      "혐의",
+      2
+    ],
+    [
+      "달라진",
+      2
+    ],
+    [
+      "맞아",
+      2
+    ],
+    [
+      "결혼",
+      2
+    ],
+    [
+      "눈물",
+      2
+    ],
+    [
+      "근황",
+      2
+    ],
+    [
+      "연예인",
+      2
+    ],
+    [
+      "무대",
+      2
+    ],
+    [
+      "우리",
+      2
+    ],
+    [
+      "깜짝",
+      2
+    ],
+    [
+      "아내",
+      2
+    ],
+    [
+      "데이앤나잇",
+      2
+    ],
+    [
+      "헤어롤",
+      2
+    ],
+    [
+      "가격",
+      2
     ],
     [
       "생각",
@@ -1891,75 +2248,19 @@
     [
       "구혜선",
       2
-    ],
-    [
-      "논란에",
-      2
-    ],
-    [
-      "연예인",
-      2
-    ],
-    [
-      "아내",
-      2
-    ],
-    [
-      "환불",
-      2
-    ],
-    [
-      "강원래",
-      2
-    ],
-    [
-      "사과",
-      2
-    ],
-    [
-      "결혼",
-      2
-    ],
-    [
-      "너무",
-      2
-    ],
-    [
-      "얼굴",
-      2
-    ],
-    [
-      "류혜영",
-      2
-    ],
-    [
-      "뼈말라",
-      2
-    ],
-    [
-      "의사",
-      2
-    ],
-    [
-      "남사친",
-      2
     ]
   ],
   "name_freq": [
     [
-      "집안",
+      "폭로",
       3
     ],
     [
-      "유토",
+      "논란에",
       3
     ],
     [
-      "야노시",
-      3
-    ],
-    [
-      "재혼",
+      "날벼락",
       3
     ],
     [
@@ -1971,15 +2272,27 @@
       3
     ],
     [
-      "생각",
+      "혐의",
       2
     ],
     [
-      "구혜선",
+      "달라진",
       2
     ],
     [
-      "논란에",
+      "맞아",
+      2
+    ],
+    [
+      "결혼",
+      2
+    ],
+    [
+      "눈물",
+      2
+    ],
+    [
+      "근황",
       2
     ],
     [
@@ -1987,27 +2300,19 @@
       2
     ],
     [
-      "아내",
+      "무대",
       2
     ],
     [
-      "환불",
+      "우리",
       2
     ],
     [
-      "강원래",
-      2
-    ],
-    [
-      "사과",
-      2
-    ],
-    [
-      "결혼",
+      "깜짝",
       2
     ]
   ],
-  "total_topics_generated": 13,
-  "valid_topics": 13,
+  "total_topics_generated": 17,
+  "valid_topics": 17,
   "excluded_duplicates": 0
 }
