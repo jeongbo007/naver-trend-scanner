@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-07-23 14:58:47",
+  "scan_time": "2026-07-23 18:10:53",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,9 +8,9 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 30
+    "MLB파크 불펜": 0
   },
-  "total_articles": 80,
+  "total_articles": 50,
   "articles": [
     {
       "title": "박준형, 약 과다 복용으로 이상 증상 결국 병원 行 \"숨이 차고 몸이 저려\"",
@@ -283,30 +283,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "韓 축구 초대형 호재! '국가대표 수비수' 이태석, 마침내 유럽 빅리그 관심 등장...'손흥민 친정' 함부르크 \"예비 협상 진행\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 18278,
-      "rank": 6,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'히딩크도 뽑고 슈틸리케도 뽑았던' 이용수 부회장, 축구협회 직무대행 맡는다…대한체육회 인준 완료",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 17993,
-      "rank": 7,
-      "channel": "정보주는하마"
-    },
-    {
       "title": "'英 단독' 한국 축구 비상! 이강인 아틀레티코행 무산 위기…리버풀, PSG '대체자' 아클리우슈 가로채기 나섰다! \"672억 제안도 거절\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 16121,
-      "rank": 9,
+      "views": 669986,
+      "rank": 1,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"내가 범죄를 저지른 것도 아닌데\" 박지성 비판한 서강일 회장 작심 발언 \"진실은 세상에 알려지지 않았다\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 357380,
+      "rank": 2,
       "channel": "정보주는하마"
     },
     {
@@ -314,32 +305,95 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 16008,
-      "rank": 11,
+      "views": 324405,
+      "rank": 3,
       "channel": "정보주는하마"
     },
     {
-      "title": "홍명보 감독보다 더 큰 재앙 온다…월드컵 대참사 이어 아시안게임 '빨간불', 이민성호 죽음의 조 편성 '사우디-카타르 D조' 확정",
+      "title": "'韓 국가대표 미드필더' 백승호 \"중대 국면, 프리미어리그 진출 원한다면 스텝업 보여줘야\" 英 매체, PAIK 향해 진심 조언",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 15870,
-      "rank": 12,
+      "views": 236378,
+      "rank": 4,
       "channel": "정보주는하마"
     },
     {
-      "title": "'15년 이글스맨' 하주석 KIA로, '저니맨' 이형범은 한화로...1대1 전격 맞트레이드 성사",
+      "title": "한국 감독으로 일본인을 추천?…“홍명보 나가” 외쳤던 김영광, “자존심 챙길 때 아니야”",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 13429,
-      "rank": 18,
+      "views": 213744,
+      "rank": 6,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "정몽규 떠난 자리 이용수가 채운다, 대한축구협회 '직무 대행 체제' 승인",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 208447,
+      "rank": 7,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "안세영도 없는데…'中 최강자' 왕즈이, 한국 선수와 맞대결 '벌벌 떤다'→최대 천적 심유진과 빅매치",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 124855,
+      "rank": 13,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "드디어 떴다! 이강인 아틀레티코 이적 공식발표 '23일' 확정적…마르카 \"계약서 서명 완료\" 2031년까지 동행→684억 초대형 계약",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 120727,
+      "rank": 14,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'안세영 빠진 대회'서 이런 일이…2게임 21-1 충격 스코어 나왔다→日 야마구치, 세계랭킹 25위 상대로 압승 '화제'",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 105576,
+      "rank": 16,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"아르헨티나 선수들 징계 주지 마세요\" 월드컵 결승전 '폭행 피해자' 가비, 진정한 대인배 면모…이유는 \"이것이 축구니까\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 101722,
+      "rank": 17,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "공식석상서 여친과 진한 키스! 성형 후 몰라보게 잘생겨진 비니시우스…월드컵 탈락 후 요트 파티+승부차기 논란은 여전",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 92534,
+      "rank": 19,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'히딩크도 뽑고 슈틸리케도 뽑았던' 이용수 부회장, 축구협회 직무대행 맡는다…대한체육회 인준 완료",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 91265,
+      "rank": 20,
       "channel": "정보주는하마"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 36,
+      "article_count": 42,
       "topics": [
         {
           "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
@@ -408,6 +462,72 @@
           "channel": "정보주는하마"
         },
         {
+          "title": "\"이강인, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 3,
+          "source_article": "'英 단독' 한국 축구 비상! 이강인 아틀레티코행 무산 위기…리버풀, PSG '대체자' 아클리우슈 가로채기 나섰다! \"672억 제안도 거절\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "이강인",
+            "아틀레",
+            "곽범",
+            "삼성전",
+            "만원에"
+          ],
+          "template": "자산 서열",
+          "score": 7.4,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 2,
+          "source_article": "공식석상서 여친과 진한 키스! 성형 후 몰라보게 잘생겨진 비니시우스…월드컵 탈락 후 요트 파티+승부차기 논란은 여전",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "노사연",
+            "하늘로",
+            "떠난",
+            "사연",
+            "고백에"
+          ],
+          "template": "논란 집합",
+          "score": 7.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
           "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
           "angle_type": "복귀·근황",
           "article_count": 3,
@@ -470,35 +590,6 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"포착 결혼설?\" 포착 연애사 총정리",
-          "angle_type": "👤 포착",
-          "article_count": 3,
-          "source_article": "비♥김태희, 하와이 마트서 포착…'결혼 9년 차'→두 딸과 단란한 가족 여행 근황",
-          "source_url": "https://m.entertain.naver.com/article/445/0000441207",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "포착"
-          ],
-          "template": "결혼 화제",
-          "score": 6.9,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
           "title": "\"하와이 결혼설?\" 하와이 연애사 총정리",
           "angle_type": "👤 하와이",
           "article_count": 3,
@@ -528,21 +619,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 2,
-          "source_article": "곽범, 삼성전자 6만원에 '1억' 투자→수익률 공개…\"주식 초보라 불로소득 불안해\"",
-          "source_url": "https://m.entertain.naver.com/article/213/0001395287",
+          "title": "\"포착 결혼설?\" 포착 연애사 총정리",
+          "angle_type": "👤 포착",
+          "article_count": 3,
+          "source_article": "비♥김태희, 하와이 마트서 포착…'결혼 9년 차'→두 딸과 단란한 가족 여행 근황",
+          "source_url": "https://m.entertain.naver.com/article/445/0000441207",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "곽범",
-            "삼성전",
-            "만원에",
-            "투자",
-            "수익률"
+            "포착"
           ],
-          "template": "자산 서열",
-          "score": 6.5,
+          "template": "결혼 화제",
+          "score": 6.9,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -553,9 +640,9 @@
           "table": {
             "headers": [
               "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
             ]
           },
           "channel": "정보주는하마"
@@ -563,16 +650,16 @@
         {
           "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 2,
-          "source_article": "홍명보 감독보다 더 큰 재앙 온다…월드컵 대참사 이어 아시안게임 '빨간불', 이민성호 죽음의 조 편성 '사우디-카타르 D조' 확정",
+          "article_count": 3,
+          "source_article": "한국 감독으로 일본인을 추천?…“홍명보 나가” 외쳤던 김영광, “자존심 챙길 때 아니야”",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
+            "감독으",
+            "일본인",
+            "추천",
             "홍명보",
-            "감독보",
-            "재앙",
-            "온다",
-            "월드컵"
+            "나가"
           ],
           "template": "스포츠 기록",
           "score": 6.3,
@@ -600,15 +687,19 @@
           3
         ],
         [
-          "포착",
-          3
-        ],
-        [
           "하와이",
           3
         ],
         [
-          "이효리",
+          "포착",
+          3
+        ],
+        [
+          "이강인",
+          3
+        ],
+        [
+          "사과",
           2
         ],
         [
@@ -616,11 +707,7 @@
           2
         ],
         [
-          "사과",
-          2
-        ],
-        [
-          "결혼",
+          "이효리",
           2
         ],
         [
@@ -629,6 +716,10 @@
         ],
         [
           "김태희",
+          2
+        ],
+        [
+          "결혼",
           2
         ],
         [
@@ -652,7 +743,11 @@
           2
         ],
         [
-          "이어",
+          "떠난",
+          2
+        ],
+        [
+          "몰라보게",
           2
         ],
         [
@@ -660,29 +755,21 @@
           2
         ],
         [
-          "축구",
+          "계약",
           2
         ],
         [
-          "이강인",
+          "드디어",
           2
-        ],
-        [
-          "차고",
-          1
-        ],
-        [
-          "증상",
-          1
         ]
       ],
       "name_freq": [
         [
-          "여행",
+          "김태희",
           3
         ],
         [
-          "포착",
+          "여행",
           3
         ],
         [
@@ -690,11 +777,15 @@
           3
         ],
         [
-          "김태희",
+          "포착",
           3
         ],
         [
-          "이효리",
+          "이강인",
+          3
+        ],
+        [
+          "사과",
           2
         ],
         [
@@ -702,7 +793,7 @@
           2
         ],
         [
-          "사과",
+          "이효리",
           2
         ],
         [
@@ -732,15 +823,15 @@
         [
           "분위기",
           2
-        ],
-        [
-          "소탈",
-          2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
+          3
+        ],
+        [
+          "논란·사건",
           2
         ],
         [
@@ -753,7 +844,7 @@
         ],
         [
           "스포츠",
-          2
+          3
         ],
         [
           "가족·혈연",
@@ -762,82 +853,24 @@
       ]
     },
     "초구딱": {
-      "article_count": 44,
+      "article_count": 8,
       "topics": [
         {
-          "title": "\"하주석 자산이 얼마?\" 하주석급 자산가 스타 TOP10",
-          "angle_type": "👤 하주석",
-          "article_count": 9,
-          "source_article": "이럴 수가! FA 굴욕→연봉 122% 폭등 '대반전' 썼던 이글스 원클럽맨, 둥지 떠난다...한화 하주석↔KIA 이형범 1대1 맞트레이드",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "하주석"
-          ],
-          "template": "자산 서열",
-          "score": 8.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"이형범 자산이 얼마?\" 이형범급 자산가 스타 TOP10",
-          "angle_type": "👤 이형범",
-          "article_count": 8,
-          "source_article": "이럴 수가! FA 굴욕→연봉 122% 폭등 '대반전' 썼던 이글스 원클럽맨, 둥지 떠난다...한화 하주석↔KIA 이형범 1대1 맞트레이드",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "이형범"
-          ],
-          "template": "자산 서열",
-          "score": 8.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"한화, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 13,
-          "source_article": "이럴 수가! FA 굴욕→연봉 122% 폭등 '대반전' 썼던 이글스 원클럽맨, 둥지 떠난다...한화 하주석↔KIA 이형범 1대1 맞트레이드",
+          "article_count": 5,
+          "source_article": "\"이승우 안 뽑은 건 명백한 홍명보 감독 고집\"… 김영광, 예능서 작정하고 소신 발언",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "한화",
-            "하주석",
-            "이형범",
-            "전격",
-            "맞트레"
+            "감독",
+            "홍명보",
+            "니다",
+            "월드컵",
+            "이승우"
           ],
           "template": "스포츠 기록",
-          "score": 8.1,
+          "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -854,427 +887,15 @@
             ]
           },
           "channel": "초구딱"
-        },
-        {
-          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 3,
-          "source_article": "이럴 수가! FA 굴욕→연봉 122% 폭등 '대반전' 썼던 이글스 원클럽맨, 둥지 떠난다...한화 하주석↔KIA 이형범 1대1 맞트레이드",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "이럴",
-            "수가",
-            "굴욕",
-            "연봉",
-            "폭등"
-          ],
-          "template": "자산 서열",
-          "score": 7.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"맞트레 자산이 얼마?\" 맞트레급 자산가 스타 TOP10",
-          "angle_type": "👤 맞트레",
-          "article_count": 4,
-          "source_article": "이럴 수가! FA 굴욕→연봉 122% 폭등 '대반전' 썼던 이글스 원클럽맨, 둥지 떠난다...한화 하주석↔KIA 이형범 1대1 맞트레이드",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "맞트레"
-          ],
-          "template": "자산 서열",
-          "score": 7.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"이드 자산이 얼마?\" 이드급 자산가 스타 TOP10",
-          "angle_type": "👤 이드",
-          "article_count": 4,
-          "source_article": "이럴 수가! FA 굴욕→연봉 122% 폭등 '대반전' 썼던 이글스 원클럽맨, 둥지 떠난다...한화 하주석↔KIA 이형범 1대1 맞트레이드",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "이드"
-          ],
-          "template": "자산 서열",
-          "score": 7.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"전격\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 전격",
-          "article_count": 5,
-          "source_article": "'와' 한화-KIA 1대1 트레이드 전격 단행…하주석 타이거즈 유니폼 입는다→우완 투수 이형범 이글스행",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "전격"
-          ],
-          "template": "인맥",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"월드컵\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 월드컵",
-          "article_count": 3,
-          "source_article": "\"죄송합니다, 책임지겠습니다\" 월드컵 역사상 최악의 결승전…'폭행 가해자' 아얄라 아르헨티나 코치 사과",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "월드컵"
-          ],
-          "template": "인맥",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"떠나\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 떠나",
-          "article_count": 3,
-          "source_article": "'와 충격, 한화 원클럽맨' 하주석 대전 떠나 광주행, 이형범과 전격 맞트레이드…\"1군 경험 풍부, KIA 전력에 보탬될 것\"",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "떠나"
-          ],
-          "template": "인맥",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"아파트 자산이 얼마?\" 아파트급 자산가 스타 TOP10",
-          "angle_type": "👤 아파트",
-          "article_count": 3,
-          "source_article": "\"한국이 그립다, 강남 아파트 진짜 좋았는데…\" ML 돌아간 前 두산 타자의 회상, 왜 잊지 못하나",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "아파트"
-          ],
-          "template": "자산 서열",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"트레이\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 트레이",
-          "article_count": 4,
-          "source_article": "'와' 한화-KIA 1대1 트레이드 전격 단행…하주석 타이거즈 유니폼 입는다→우완 투수 이형범 이글스행",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "트레이"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"안내\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 안내",
-          "article_count": 4,
-          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "안내"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"유니폼\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 유니폼",
-          "article_count": 3,
-          "source_article": "'와' 한화-KIA 1대1 트레이드 전격 단행…하주석 타이거즈 유니폼 입는다→우완 투수 이형범 이글스행",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "유니폼"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"우완\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 우완",
-          "article_count": 3,
-          "source_article": "'와' 한화-KIA 1대1 트레이드 전격 단행…하주석 타이거즈 유니폼 입는다→우완 투수 이형범 이글스행",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "우완"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"입는다\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 입는다",
-          "article_count": 3,
-          "source_article": "'와' 한화-KIA 1대1 트레이드 전격 단행…하주석 타이거즈 유니폼 입는다→우완 투수 이형범 이글스행",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "입는다"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
         [
-          "하주석",
-          9
-        ],
-        [
-          "한화",
-          9
-        ],
-        [
-          "이형범",
-          5
-        ],
-        [
-          "전격",
-          5
-        ],
-        [
-          "맞트레이드",
-          4
-        ],
-        [
-          "트레이드",
-          4
-        ],
-        [
-          "안내",
-          4
-        ],
-        [
-          "우완",
-          3
-        ],
-        [
-          "입는다",
-          3
-        ],
-        [
-          "유니폼",
-          3
-        ],
-        [
-          "이형범과",
-          3
-        ],
-        [
-          "떠나",
-          3
-        ],
-        [
-          "원클럽맨",
-          2
-        ],
-        [
-          "단행",
-          2
-        ],
-        [
           "감독",
-          2
+          3
         ],
         [
-          "연패",
-          2
-        ],
-        [
-          "최악의",
+          "홍명보",
           2
         ],
         [
@@ -1282,84 +903,96 @@
           2
         ],
         [
-          "아파트",
-          2
+          "타자의",
+          1
         ],
         [
-          "강화",
-          2
+          "한국이",
+          1
+        ],
+        [
+          "잊지",
+          1
+        ],
+        [
+          "강남",
+          1
+        ],
+        [
+          "진짜",
+          1
+        ],
+        [
+          "그립다",
+          1
+        ],
+        [
+          "못하나",
+          1
+        ],
+        [
+          "아파트",
+          1
+        ],
+        [
+          "두산",
+          1
+        ],
+        [
+          "회상",
+          1
+        ],
+        [
+          "돌아간",
+          1
+        ],
+        [
+          "좋았는데",
+          1
+        ],
+        [
+          "예능서",
+          1
+        ],
+        [
+          "뽑은",
+          1
+        ],
+        [
+          "명백한",
+          1
+        ],
+        [
+          "발언",
+          1
+        ],
+        [
+          "고집",
+          1
         ]
       ],
       "name_freq": [
         [
-          "한화",
-          9
-        ],
-        [
-          "하주석",
-          9
-        ],
-        [
-          "이형범",
-          8
-        ],
-        [
-          "전격",
-          5
-        ],
-        [
-          "맞트레",
-          4
-        ],
-        [
-          "이드",
-          4
-        ],
-        [
-          "트레이",
-          4
-        ],
-        [
-          "안내",
-          4
-        ],
-        [
-          "유니폼",
+          "감독",
           3
         ],
         [
-          "우완",
-          3
+          "홍명보",
+          2
         ],
         [
-          "입는다",
-          3
+          "니다",
+          2
         ],
         [
           "월드컵",
-          3
-        ],
-        [
-          "떠나",
-          3
-        ],
-        [
-          "아파트",
-          3
-        ],
-        [
-          "원클럽",
           2
         ]
       ],
       "angle_scores": [
         [
-          "자산·몸값",
-          3
-        ],
-        [
           "스포츠",
-          13
+          5
         ]
       ]
     }
@@ -1432,6 +1065,72 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"이강인, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 3,
+      "source_article": "'英 단독' 한국 축구 비상! 이강인 아틀레티코행 무산 위기…리버풀, PSG '대체자' 아클리우슈 가로채기 나섰다! \"672억 제안도 거절\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "이강인",
+        "아틀레",
+        "곽범",
+        "삼성전",
+        "만원에"
+      ],
+      "template": "자산 서열",
+      "score": 7.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 2,
+      "source_article": "공식석상서 여친과 진한 키스! 성형 후 몰라보게 잘생겨진 비니시우스…월드컵 탈락 후 요트 파티+승부차기 논란은 여전",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "노사연",
+        "하늘로",
+        "떠난",
+        "사연",
+        "고백에"
+      ],
+      "template": "논란 집합",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
       "angle_type": "복귀·근황",
       "article_count": 3,
@@ -1494,35 +1193,6 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"포착 결혼설?\" 포착 연애사 총정리",
-      "angle_type": "👤 포착",
-      "article_count": 3,
-      "source_article": "비♥김태희, 하와이 마트서 포착…'결혼 9년 차'→두 딸과 단란한 가족 여행 근황",
-      "source_url": "https://m.entertain.naver.com/article/445/0000441207",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "포착"
-      ],
-      "template": "결혼 화제",
-      "score": 6.9,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"하와이 결혼설?\" 하와이 연애사 총정리",
       "angle_type": "👤 하와이",
       "article_count": 3,
@@ -1552,21 +1222,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 2,
-      "source_article": "곽범, 삼성전자 6만원에 '1억' 투자→수익률 공개…\"주식 초보라 불로소득 불안해\"",
-      "source_url": "https://m.entertain.naver.com/article/213/0001395287",
+      "title": "\"포착 결혼설?\" 포착 연애사 총정리",
+      "angle_type": "👤 포착",
+      "article_count": 3,
+      "source_article": "비♥김태희, 하와이 마트서 포착…'결혼 9년 차'→두 딸과 단란한 가족 여행 근황",
+      "source_url": "https://m.entertain.naver.com/article/445/0000441207",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "곽범",
-        "삼성전",
-        "만원에",
-        "투자",
-        "수익률"
+        "포착"
       ],
-      "template": "자산 서열",
-      "score": 6.5,
+      "template": "결혼 화제",
+      "score": 6.9,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1577,9 +1243,9 @@
       "table": {
         "headers": [
           "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
         ]
       },
       "channel": "정보주는하마"
@@ -1587,16 +1253,16 @@
     {
       "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 2,
-      "source_article": "홍명보 감독보다 더 큰 재앙 온다…월드컵 대참사 이어 아시안게임 '빨간불', 이민성호 죽음의 조 편성 '사우디-카타르 D조' 확정",
+      "article_count": 3,
+      "source_article": "한국 감독으로 일본인을 추천?…“홍명보 나가” 외쳤던 김영광, “자존심 챙길 때 아니야”",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
+        "감독으",
+        "일본인",
+        "추천",
         "홍명보",
-        "감독보",
-        "재앙",
-        "온다",
-        "월드컵"
+        "나가"
       ],
       "template": "스포츠 기록",
       "score": 6.3,
@@ -1686,6 +1352,72 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"이강인, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 3,
+      "source_article": "'英 단독' 한국 축구 비상! 이강인 아틀레티코행 무산 위기…리버풀, PSG '대체자' 아클리우슈 가로채기 나섰다! \"672억 제안도 거절\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "이강인",
+        "아틀레",
+        "곽범",
+        "삼성전",
+        "만원에"
+      ],
+      "template": "자산 서열",
+      "score": 7.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 2,
+      "source_article": "공식석상서 여친과 진한 키스! 성형 후 몰라보게 잘생겨진 비니시우스…월드컵 탈락 후 요트 파티+승부차기 논란은 여전",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "노사연",
+        "하늘로",
+        "떠난",
+        "사연",
+        "고백에"
+      ],
+      "template": "논란 집합",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
       "angle_type": "복귀·근황",
       "article_count": 3,
@@ -1748,35 +1480,6 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"포착 결혼설?\" 포착 연애사 총정리",
-      "angle_type": "👤 포착",
-      "article_count": 3,
-      "source_article": "비♥김태희, 하와이 마트서 포착…'결혼 9년 차'→두 딸과 단란한 가족 여행 근황",
-      "source_url": "https://m.entertain.naver.com/article/445/0000441207",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "포착"
-      ],
-      "template": "결혼 화제",
-      "score": 6.9,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"하와이 결혼설?\" 하와이 연애사 총정리",
       "angle_type": "👤 하와이",
       "article_count": 3,
@@ -1806,21 +1509,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 2,
-      "source_article": "곽범, 삼성전자 6만원에 '1억' 투자→수익률 공개…\"주식 초보라 불로소득 불안해\"",
-      "source_url": "https://m.entertain.naver.com/article/213/0001395287",
+      "title": "\"포착 결혼설?\" 포착 연애사 총정리",
+      "angle_type": "👤 포착",
+      "article_count": 3,
+      "source_article": "비♥김태희, 하와이 마트서 포착…'결혼 9년 차'→두 딸과 단란한 가족 여행 근황",
+      "source_url": "https://m.entertain.naver.com/article/445/0000441207",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "곽범",
-        "삼성전",
-        "만원에",
-        "투자",
-        "수익률"
+        "포착"
       ],
-      "template": "자산 서열",
-      "score": 6.5,
+      "template": "결혼 화제",
+      "score": 6.9,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1831,9 +1530,9 @@
       "table": {
         "headers": [
           "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
         ]
       },
       "channel": "정보주는하마"
@@ -1841,16 +1540,16 @@
     {
       "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 2,
-      "source_article": "홍명보 감독보다 더 큰 재앙 온다…월드컵 대참사 이어 아시안게임 '빨간불', 이민성호 죽음의 조 편성 '사우디-카타르 D조' 확정",
+      "article_count": 3,
+      "source_article": "한국 감독으로 일본인을 추천?…“홍명보 나가” 외쳤던 김영광, “자존심 챙길 때 아니야”",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
+        "감독으",
+        "일본인",
+        "추천",
         "홍명보",
-        "감독보",
-        "재앙",
-        "온다",
-        "월드컵"
+        "나가"
       ],
       "template": "스포츠 기록",
       "score": 6.3,
@@ -1872,79 +1571,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"하주석 자산이 얼마?\" 하주석급 자산가 스타 TOP10",
-      "angle_type": "👤 하주석",
-      "article_count": 9,
-      "source_article": "이럴 수가! FA 굴욕→연봉 122% 폭등 '대반전' 썼던 이글스 원클럽맨, 둥지 떠난다...한화 하주석↔KIA 이형범 1대1 맞트레이드",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "하주석"
-      ],
-      "template": "자산 서열",
-      "score": 8.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"이형범 자산이 얼마?\" 이형범급 자산가 스타 TOP10",
-      "angle_type": "👤 이형범",
-      "article_count": 8,
-      "source_article": "이럴 수가! FA 굴욕→연봉 122% 폭등 '대반전' 썼던 이글스 원클럽맨, 둥지 떠난다...한화 하주석↔KIA 이형범 1대1 맞트레이드",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "이형범"
-      ],
-      "template": "자산 서열",
-      "score": 8.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"한화, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 13,
-      "source_article": "이럴 수가! FA 굴욕→연봉 122% 폭등 '대반전' 썼던 이글스 원클럽맨, 둥지 떠난다...한화 하주석↔KIA 이형범 1대1 맞트레이드",
+      "article_count": 5,
+      "source_article": "\"이승우 안 뽑은 건 명백한 홍명보 감독 고집\"… 김영광, 예능서 작정하고 소신 발언",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "한화",
-        "하주석",
-        "이형범",
-        "전격",
-        "맞트레"
+        "감독",
+        "홍명보",
+        "니다",
+        "월드컵",
+        "이승우"
       ],
       "template": "스포츠 기록",
-      "score": 8.1,
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1961,358 +1602,6 @@
         ]
       },
       "channel": "초구딱"
-    },
-    {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 3,
-      "source_article": "이럴 수가! FA 굴욕→연봉 122% 폭등 '대반전' 썼던 이글스 원클럽맨, 둥지 떠난다...한화 하주석↔KIA 이형범 1대1 맞트레이드",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "이럴",
-        "수가",
-        "굴욕",
-        "연봉",
-        "폭등"
-      ],
-      "template": "자산 서열",
-      "score": 7.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"맞트레 자산이 얼마?\" 맞트레급 자산가 스타 TOP10",
-      "angle_type": "👤 맞트레",
-      "article_count": 4,
-      "source_article": "이럴 수가! FA 굴욕→연봉 122% 폭등 '대반전' 썼던 이글스 원클럽맨, 둥지 떠난다...한화 하주석↔KIA 이형범 1대1 맞트레이드",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "맞트레"
-      ],
-      "template": "자산 서열",
-      "score": 7.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"이드 자산이 얼마?\" 이드급 자산가 스타 TOP10",
-      "angle_type": "👤 이드",
-      "article_count": 4,
-      "source_article": "이럴 수가! FA 굴욕→연봉 122% 폭등 '대반전' 썼던 이글스 원클럽맨, 둥지 떠난다...한화 하주석↔KIA 이형범 1대1 맞트레이드",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "이드"
-      ],
-      "template": "자산 서열",
-      "score": 7.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"전격\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 전격",
-      "article_count": 5,
-      "source_article": "'와' 한화-KIA 1대1 트레이드 전격 단행…하주석 타이거즈 유니폼 입는다→우완 투수 이형범 이글스행",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "전격"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"월드컵\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 월드컵",
-      "article_count": 3,
-      "source_article": "\"죄송합니다, 책임지겠습니다\" 월드컵 역사상 최악의 결승전…'폭행 가해자' 아얄라 아르헨티나 코치 사과",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "월드컵"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"떠나\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 떠나",
-      "article_count": 3,
-      "source_article": "'와 충격, 한화 원클럽맨' 하주석 대전 떠나 광주행, 이형범과 전격 맞트레이드…\"1군 경험 풍부, KIA 전력에 보탬될 것\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "떠나"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"아파트 자산이 얼마?\" 아파트급 자산가 스타 TOP10",
-      "angle_type": "👤 아파트",
-      "article_count": 3,
-      "source_article": "\"한국이 그립다, 강남 아파트 진짜 좋았는데…\" ML 돌아간 前 두산 타자의 회상, 왜 잊지 못하나",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "아파트"
-      ],
-      "template": "자산 서열",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"트레이\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 트레이",
-      "article_count": 4,
-      "source_article": "'와' 한화-KIA 1대1 트레이드 전격 단행…하주석 타이거즈 유니폼 입는다→우완 투수 이형범 이글스행",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "트레이"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
-      "article_count": 4,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "안내"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"유니폼\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 유니폼",
-      "article_count": 3,
-      "source_article": "'와' 한화-KIA 1대1 트레이드 전격 단행…하주석 타이거즈 유니폼 입는다→우완 투수 이형범 이글스행",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "유니폼"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"우완\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 우완",
-      "article_count": 3,
-      "source_article": "'와' 한화-KIA 1대1 트레이드 전격 단행…하주석 타이거즈 유니폼 입는다→우완 투수 이형범 이글스행",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "우완"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"입는다\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 입는다",
-      "article_count": 3,
-      "source_article": "'와' 한화-KIA 1대1 트레이드 전격 단행…하주석 타이거즈 유니폼 입는다→우완 투수 이형범 이글스행",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "입는다"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
@@ -2321,15 +1610,19 @@
       3
     ],
     [
-      "포착",
-      3
-    ],
-    [
       "하와이",
       3
     ],
     [
-      "이효리",
+      "포착",
+      3
+    ],
+    [
+      "이강인",
+      3
+    ],
+    [
+      "사과",
       2
     ],
     [
@@ -2337,11 +1630,7 @@
       2
     ],
     [
-      "사과",
-      2
-    ],
-    [
-      "결혼",
+      "이효리",
       2
     ],
     [
@@ -2350,6 +1639,10 @@
     ],
     [
       "김태희",
+      2
+    ],
+    [
+      "결혼",
       2
     ],
     [
@@ -2373,7 +1666,11 @@
       2
     ],
     [
-      "이어",
+      "떠난",
+      2
+    ],
+    [
+      "몰라보게",
       2
     ],
     [
@@ -2381,29 +1678,21 @@
       2
     ],
     [
-      "축구",
+      "계약",
       2
     ],
     [
-      "이강인",
+      "드디어",
       2
-    ],
-    [
-      "차고",
-      1
-    ],
-    [
-      "증상",
-      1
     ]
   ],
   "name_freq": [
     [
-      "여행",
+      "김태희",
       3
     ],
     [
-      "포착",
+      "여행",
       3
     ],
     [
@@ -2411,11 +1700,15 @@
       3
     ],
     [
-      "김태희",
+      "포착",
       3
     ],
     [
-      "이효리",
+      "이강인",
+      3
+    ],
+    [
+      "사과",
       2
     ],
     [
@@ -2423,7 +1716,7 @@
       2
     ],
     [
-      "사과",
+      "이효리",
       2
     ],
     [
@@ -2453,13 +1746,9 @@
     [
       "분위기",
       2
-    ],
-    [
-      "소탈",
-      2
     ]
   ],
-  "total_topics_generated": 23,
-  "valid_topics": 23,
+  "total_topics_generated": 10,
+  "valid_topics": 10,
   "excluded_duplicates": 0
 }
