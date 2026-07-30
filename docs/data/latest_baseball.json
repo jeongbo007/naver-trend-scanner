@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-07-30 03:56:06",
+  "scan_time": "2026-07-30 07:33:04",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -13,57 +13,84 @@
   "total_articles": 80,
   "articles": [
     {
-      "title": "전격 트레이드 그 후…하주석 \"김범수가 매일 전화해\", \"노시환 죽었다\", \"KIA서 오래 뛰고파\" 적응 완료",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 15450,
-      "rank": 5,
-      "channel": "초구딱"
-    },
-    {
-      "title": "157km 뿌리던 韓 최고 유망주였는데…심준석, 두 번째 방출 아픔→KBO 복귀&ML 재도전 기로 섰다",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 10030,
-      "rank": 9,
-      "channel": "초구딱"
-    },
-    {
-      "title": "'1할 뚝' KIA 1차 지명 포수 위기인가…\"타격할 때 공이 잘 안 보인다고\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 9040,
-      "rank": 13,
-      "channel": "초구딱"
-    },
-    {
-      "title": "'홍명보호 4-0으로 이겼던 그 나라' 대한민국, 또 한 명의 '감독 후보' 사라질 위기...사비, 코트디부아르 지휘봉 관심",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 8529,
-      "rank": 16,
-      "channel": "초구딱"
-    },
-    {
       "title": "김기동 감독 \"어떻게 프로 선수가 70분, 90분을 뛰지도 못하고 힘들어하는지\"…'2부 선두' 부산에 패배, 코리아컵 탈락 아쉬움",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 7408,
-      "rank": 19,
+      "views": 17350,
+      "rank": 5,
       "channel": "초구딱"
     },
     {
-      "title": "\"내가 더 달라고 한 적 없다\" 홍명보 前 감독, '월드컵 16위' 38억 연봉 의혹 반박...\"그것보다 적어, 협회가 준 대로 받은 것\"",
+      "title": "전격 트레이드 그 후…하주석 \"김범수가 매일 전화해\", \"노시환 죽었다\", \"KIA서 오래 뛰고파\" 적응 완료",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 7078,
-      "rank": 20,
+      "views": 9815,
+      "rank": 6,
+      "channel": "초구딱"
+    },
+    {
+      "title": "MLB 메츠 소속 심준석 또 방출돼…장현석·조원빈·김성준은?",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 8952,
+      "rank": 7,
+      "channel": "초구딱"
+    },
+    {
+      "title": "‘우승 도전’ KT, 외인 에이스 전격 방출 결단 왜? 6억에 ML 선발 전문 요원 품었다 “안정된 제구력 강점”",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 7616,
+      "rank": 10,
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"왜 졌어요? 왜 그렇게 졸전 벌였어요?\"…코치 다그친 최민희",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 6849,
+      "rank": 12,
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"나는 버림받았습니다\" 감독 무덤이 된 잔혹한 월드컵, \"'국민영웅' 홍명보도 뼈저리게 느낀 현실\"(日매체)",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 6589,
+      "rank": 13,
+      "channel": "초구딱"
+    },
+    {
+      "title": "김진규 “손흥민·이재성 선발 제외 보복 아니다”…洪 선수 기용 ‘의혹’에 선 그어",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 6091,
+      "rank": 14,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'우승 도전' KT 칼 뽑았다, 사우어 전격 방출→데이비스 대니엘 영입…1위 삼성 위협하나",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 5810,
+      "rank": 17,
+      "channel": "초구딱"
+    },
+    {
+      "title": "처참했던 경기력에 LG 팬들 다 빠져나갔다…필승조 다 쓰고 18실점, 후반기 꼴찌엔 이유가 있다",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 5529,
+      "rank": 18,
       "channel": "초구딱"
     },
     {
@@ -112,8 +139,8 @@
       "channel": "초구딱"
     },
     {
-      "title": "블루베리와 토마토의 치명적 단점",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117647000&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "복숭아 만지면 간지러운거 흔한 알레르기죠?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651209&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
       "views": 0,
@@ -121,239 +148,301 @@
       "channel": "초구딱"
     },
     {
-      "title": "청문회 자리에 헤어스타일요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117646991&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "넥장 빠지는거 보니   많이 던지는 듯",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651203&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 17,
+      "views": 26,
       "rank": 7,
       "channel": "초구딱"
     },
     {
-      "title": "왜 졌냐고는 왜 따지는거야ㅋㅋㅋㅋㅋㅋ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117646982&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "남자가 결혼하지 않으면 생기는 일들.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651200&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 93,
+      "views": 35,
       "rank": 8,
       "channel": "초구딱"
     },
     {
-      "title": "새문안교회 식당 밥..",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117646967&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "못생긴 여자랑 사귀는 못생긴 남자의 한탄.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651197&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 98,
+      "views": 19,
       "rank": 9,
       "channel": "초구딱"
     },
     {
-      "title": "내일부터 단일레버 거래량 줄긴하겠죠?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117646964&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "윤석열때 부동산 정책 정상적 아닌가요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651194&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 23,
+      "views": 0,
       "rank": 10,
       "channel": "초구딱"
     },
     {
-      "title": "이번 폴드8을 100퍼 역대급 개망할 수밖에 없죠",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117646958&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "내일부터 종목담으세요 폭등합니다",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651185&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 102,
+      "views": 63,
       "rank": 11,
       "channel": "초구딱"
     },
     {
-      "title": "근데 전세계 다른 증시도 이런가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117646949&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "투히트 원더 탑티어는?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651173&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 59,
+      "views": 19,
       "rank": 12,
       "channel": "초구딱"
     },
     {
-      "title": "민주당 조계원 의원, \"현대는 한국 축구계에 기여한게 없다\"",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117646940&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "왜 삼성 갤럭시 z폴드8 카메라 위치 이렇게 한거죠",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651158&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 162,
+      "views": 88,
       "rank": 13,
       "channel": "초구딱"
     },
     {
-      "title": "(재업) 현금 1조 부자 vs 여름날씨 시원해지기 뭐 하실래요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117646937&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "예전 백스트릿보이즈 엔싱크 원디렉션 같은 애들도 BTS 같은 아이돌 범주인가요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651155&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 35,
+      "views": 21,
       "rank": 14,
       "channel": "초구딱"
     },
     {
-      "title": "주식오르면 꺼드럭대면서 조리돌림당하는건 왜싫어함?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117646934&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "광안리 해수욕장 왔습니다",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651152&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 49,
+      "views": 124,
       "rank": 15,
       "channel": "초구딱"
     },
     {
-      "title": "주식 손해본 사람들이 더 많나요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117646931&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "악재란건 사실 끼워맞추기라 ㅋㅋㅋ 악재로 미래를 예즉못하죠",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651149&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 125,
+      "views": 34,
       "rank": 16,
       "channel": "초구딱"
     },
     {
-      "title": "제주 성산일출봉을 점령한 중국인들",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117646928&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "하닉 차트를 거꾸로 보자",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651143&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 84,
+      "views": 204,
       "rank": 17,
       "channel": "초구딱"
     },
     {
-      "title": "연기금이 꽤 많이 사네요? 2.7천억",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117646925&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "렌터카 공제회 대인사고 질문드립니다",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651140&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 220,
+      "views": 20,
       "rank": 18,
       "channel": "초구딱"
     },
     {
-      "title": "스타1 리그 계속 연장되었으면 이영호 능가할 사람의 종족은 뭐였을까요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117646922&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "삼프로 근황ㄷㄷㄷ.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651134&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 28,
+      "views": 510,
       "rank": 19,
       "channel": "초구딱"
     },
     {
-      "title": "바빠도 꼭 챙겨야할 네이버 웹툰",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117646919&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "지자체가 시민과 기싸움?..공식 계정서 '설전'",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651128&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 161,
+      "views": 133,
       "rank": 20,
       "channel": "초구딱"
     },
     {
-      "title": "호프 450만, 스파이더맨 950~1050만, 오딧세이 500~600만 봅니다",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117646916&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "장발장에서 코제트가 장발장 잊은 건 충격이네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651119&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 56,
+      "views": 72,
       "rank": 21,
       "channel": "초구딱"
     },
     {
-      "title": "불펜에서 꺼드럭 될때마다 음전하는거 개웃기네요ㅋㅋㅋ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117646913&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "호프 보고왔네요. 나홍진이 대변신을 했군요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651116&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 155,
+      "views": 110,
       "rank": 22,
       "channel": "초구딱"
     },
     {
-      "title": "삼전하닉은 성장주에서 배당주되는 과정.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117646907&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "???: 역시 형이야 우릴 구하러왔구나",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651110&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 87,
+      "views": 256,
       "rank": 23,
       "channel": "초구딱"
     },
     {
-      "title": "그래미는 미국음악상인데 아시아부문을 만든게",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117646898&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "점괘위주보이 도박근절벳 결과보고 및 금일베팅",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651107&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 81,
+      "views": 29,
       "rank": 24,
       "channel": "초구딱"
     },
     {
-      "title": "선발 명단은 당연히 감독 고유 권한이 맞음",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117646895&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "유재석의 딴말",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651104&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 40,
+      "views": 188,
       "rank": 25,
       "channel": "초구딱"
     },
     {
-      "title": "결혼하고 남편 귀찮아 하는 아내는 흔하죠?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117646892&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "하이닉스가 향후 5년간  연 60조 영업이익을 확보한다고 가정하고 ai와 대화했습니다.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651101&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 40,
+      "views": 218,
       "rank": 26,
       "channel": "초구딱"
     },
     {
-      "title": "드디어 만난 메시와 카세미루",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117646889&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "젝키 고지용 이혼 후 방송.gif",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651098&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 189,
+      "views": 756,
       "rank": 27,
       "channel": "초구딱"
     },
     {
-      "title": "다음 런닝맨 멤버들 활약상 순위는?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117646877&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "황정민 요약",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651089&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 52,
+      "views": 153,
       "rank": 28,
       "channel": "초구딱"
     },
     {
-      "title": "(스포) 킬러들의 쇼핑몰 2 진짜 대박!!",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117646874&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "저희회사 부장님 주식때문에 싱글벙글 하시네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651086&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 202,
+      "views": 314,
       "rank": 29,
       "channel": "초구딱"
     },
     {
-      "title": "모두의카드 발급하려고하는데 추천 가능할까요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117646865&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "여러분들 여러분들이 어느 건물의 건물주라고 헤봅시다.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651083&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 28,
+      "views": 60,
       "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 44,
+      "article_count": 41,
       "topics": [
         {
-          "title": "\"올스타, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "title": "\"폭로까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 5,
+          "source_article": "“성관계는 없었다”…황정민 폭로 여성, 불륜 의혹에 직접 입 열었다",
+          "source_url": "https://m.entertain.naver.com/article/468/0001256788",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "폭로",
+            "성관계",
+            "황정민",
+            "없었다",
+            "여성"
+          ],
+          "template": "논란 집합",
+          "score": 7.4,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"황정민, 대체 무슨 일이?\" 황정민 관련 이슈 총정리",
+          "angle_type": "👤 황정민",
+          "article_count": 6,
+          "source_article": "“성관계는 없었다”…황정민 폭로 여성, 불륜 의혹에 직접 입 열었다",
+          "source_url": "https://m.entertain.naver.com/article/468/0001256788",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "황정민"
+          ],
+          "template": "논란 집합",
+          "score": 7.4,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"많은, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 8,
+          "article_count": 6,
           "source_article": "\"유니폼 참사!\" 치마가 엉덩이까지→호주 女 선수, 논란 일축...\"우리는 이 드레스가 정말 좋아요\" 댄스 영상까지 SNS 게시",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "올스타",
             "많은",
-            "박지성",
             "축구",
-            "선수"
+            "선수",
+            "킬잇",
+            "우승"
           ],
           "template": "스포츠 기록",
           "score": 7.3,
@@ -377,7 +466,7 @@
         {
           "title": "\"이혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
           "angle_type": "결혼·이혼",
-          "article_count": 9,
+          "article_count": 8,
           "source_article": "김지민♥김준호 부모 된다..임신 깜짝 발표 \"태명은 두룹이\"",
           "source_url": "https://m.entertain.naver.com/article/108/0003457647",
           "source_name": "엔터 많이 본 뉴스",
@@ -386,7 +475,7 @@
             "김지민",
             "김준호",
             "임신",
-            "고지용"
+            "깜짝"
           ],
           "template": "결혼 화제",
           "score": 7.1,
@@ -408,21 +497,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"성관계까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 5,
-          "source_article": "끝내 대한민국 땅 못 밟는다...'대낮 음주 장면 포착' 그릴리시, 맨시티서 '반등 기회' 아시아 투어 제외",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "title": "\"성관계, 대체 무슨 일이?\" 성관계 관련 이슈 총정리",
+          "angle_type": "👤 성관계",
+          "article_count": 3,
+          "source_article": "“성관계는 없었다”…황정민 폭로 여성, 불륜 의혹에 직접 입 열었다",
+          "source_url": "https://m.entertain.naver.com/article/468/0001256788",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "성관계",
-            "황정민",
-            "없었다",
-            "폭로",
-            "여성"
+            "성관계"
           ],
           "template": "논란 집합",
-          "score": 7.0,
+          "score": 6.9,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -441,104 +526,75 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"축구 자산이 얼마?\" 축구급 자산가 스타 TOP10",
-          "angle_type": "👤 축구",
+          "title": "\"없었다, 대체 무슨 일이?\" 없었다 관련 이슈 총정리",
+          "angle_type": "👤 없었다",
           "article_count": 3,
+          "source_article": "“성관계는 없었다”…황정민 폭로 여성, 불륜 의혹에 직접 입 열었다",
+          "source_url": "https://m.entertain.naver.com/article/468/0001256788",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "없었다"
+          ],
+          "template": "논란 집합",
+          "score": 6.9,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"축구\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 축구",
+          "article_count": 4,
           "source_article": "박지성, 한국 축구 일본과 격차 이유…\"해외 진출 선수 100명, 시스템 갖췄다\" ('유퀴즈')",
           "source_url": "https://m.entertain.naver.com/article/312/0000769753",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "축구"
           ],
-          "template": "자산 서열",
-          "score": 7.0,
+          "template": "인맥",
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
+            "status": "재활용 가능",
+            "matched_title": "\"임영웅, 손흥민이랑 조기축구?\" 축구 좀 찬다고 알려진 스타 TOP10 #연예인 #스포츠 #축구",
+            "matched_views": 32359,
+            "reason": "기간 경과 134일"
           },
           "table": {
             "headers": [
               "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"청문회 자산이 얼마?\" 청문회급 자산가 스타 TOP10",
-          "angle_type": "👤 청문회",
-          "article_count": 3,
-          "source_article": "'청문회 참석' 홍명보 \"제가 알고 있는 사실 그대로 말씀드리겠다\"...정몽규 \"월드컵 결과 죄송\"",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "청문회"
-          ],
-          "template": "자산 서열",
-          "score": 7.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"황정민, 대체 무슨 일이?\" 황정민 관련 이슈 총정리",
-          "angle_type": "👤 황정민",
-          "article_count": 5,
-          "source_article": "'불륜 주장' A씨, 황정민 '미성년자' 子에 DM 파문",
-          "source_url": "https://m.entertain.naver.com/article/108/0003457520",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "황정민"
-          ],
-          "template": "논란 집합",
-          "score": 6.9,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
+              "분류",
+              "이슈 내용",
               "현재 상황"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"여성, 대체 무슨 일이?\" 여성 관련 이슈 총정리",
-          "angle_type": "👤 여성",
+          "title": "\"스토킹\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 스토킹",
           "article_count": 3,
-          "source_article": "“성관계는 없었다”…황정민 폭로 여성, 불륜 의혹에 직접 입 열었다",
-          "source_url": "https://m.entertain.naver.com/article/468/0001256788",
+          "source_article": "\"죽어죽어죽어버려\"…황정민, 스토킹 범죄의 증거",
+          "source_url": "https://m.entertain.naver.com/article/433/0000129357",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "여성"
+            "스토킹"
           ],
-          "template": "논란 집합",
-          "score": 6.9,
+          "template": "인맥",
+          "score": 6.4,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -549,42 +605,9 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
+              "분류",
+              "이슈 내용",
               "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 4,
-          "source_article": "김지민♥김준호 부모 된다..임신 깜짝 발표 \"태명은 두룹이\"",
-          "source_url": "https://m.entertain.naver.com/article/108/0003457647",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "김지민",
-            "김준호",
-            "부모",
-            "임신",
-            "깜짝"
-          ],
-          "template": "동갑내기",
-          "score": 6.6,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
             ]
           },
           "channel": "정보주는하마"
@@ -593,160 +616,11 @@
           "title": "\"고지용 결혼설?\" 고지용 연애사 총정리",
           "angle_type": "👤 고지용",
           "article_count": 3,
-          "source_article": "'고지용 전처' 허양임, 이혼 숨겼지만 티났다..子 \"엄마 혼자 밥 챙겨먹어\"",
-          "source_url": "https://m.entertain.naver.com/article/076/0004430418",
+          "source_article": "고지용·이범수·엄태웅·이휘재·강경준…‘슈돌’아빠 잔혹사",
+          "source_url": "https://m.entertain.naver.com/article/144/0001128967",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "고지용"
-          ],
-          "template": "결혼 화제",
-          "score": 6.6,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 3,
-          "source_article": "'맨땅에 헤딩' 최준용, 미국 진출 선언 \"300억+NBA 유니폼 입고 돌아오고 싶다\"",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "맨땅에",
-            "헤딩",
-            "최준용",
-            "미국",
-            "선언"
-          ],
-          "template": "자산 서열",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"유니폼, 대체 무슨 일이?\" 유니폼 관련 이슈 총정리",
-          "angle_type": "👤 유니폼",
-          "article_count": 3,
-          "source_article": "\"유니폼 참사!\" 치마가 엉덩이까지→호주 女 선수, 논란 일축...\"우리는 이 드레스가 정말 좋아요\" 댄스 영상까지 SNS 게시",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "유니폼"
-          ],
-          "template": "논란 집합",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"주장\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 주장",
-          "article_count": 3,
-          "source_article": "'불륜 주장' A씨, 황정민 '미성년자' 子에 DM 파문",
-          "source_url": "https://m.entertain.naver.com/article/108/0003457520",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "주장"
-          ],
-          "template": "인맥",
-          "score": 6.4,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"손흥민\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 손흥민",
-          "article_count": 3,
-          "source_article": "'주장 완장차고 올스타전' 손흥민 35분 뛰고 멀티골...MLS 올스타, 리가 MX 올스타 상대로 3-1 리드",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "손흥민"
-          ],
-          "template": "인맥",
-          "score": 6.4,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"깜짝 결혼설?\" 깜짝 연애사 총정리",
-          "angle_type": "👤 깜짝",
-          "article_count": 3,
-          "source_article": "김지민♥김준호 부모 된다..임신 깜짝 발표 \"태명은 두룹이\"",
-          "source_url": "https://m.entertain.naver.com/article/108/0003457647",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "깜짝"
           ],
           "template": "결혼 화제",
           "score": 6.3,
@@ -768,47 +642,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-          "angle_type": "투병·건강",
+          "title": "\"유혜주\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 유혜주",
           "article_count": 3,
-          "source_article": "'유산→갑상선암 투병' 女배우, 스페인 여행 중 응급실행…\"병원비만 60만 원\"",
-          "source_url": "https://m.entertain.naver.com/article/213/0001396030",
+          "source_article": "'얼짱 유튜버' 유혜주·유지유 자매, 23일 부친상 비보",
+          "source_url": "https://m.entertain.naver.com/article/312/0000769760",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "투병",
-            "배우",
-            "유산",
-            "갑상선",
-            "스페인"
-          ],
-          "template": "투병 극복",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "투병 질환",
-              "공백기",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"임신\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 임신",
-          "article_count": 3,
-          "source_article": "김지민♥김준호 부모 된다..임신 깜짝 발표 \"태명은 두룹이\"",
-          "source_url": "https://m.entertain.naver.com/article/108/0003457647",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "임신"
+            "유혜주"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -830,72 +671,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"김지민\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 김지민",
+          "title": "\"부친상\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 부친상",
           "article_count": 3,
-          "source_article": "김지민♥김준호 부모 된다..임신 깜짝 발표 \"태명은 두룹이\"",
-          "source_url": "https://m.entertain.naver.com/article/108/0003457647",
+          "source_article": "'얼짱 유튜버' 유혜주·유지유 자매, 23일 부친상 비보",
+          "source_url": "https://m.entertain.naver.com/article/312/0000769760",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "김지민"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"김준호\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 김준호",
-          "article_count": 3,
-          "source_article": "김지민♥김준호 부모 된다..임신 깜짝 발표 \"태명은 두룹이\"",
-          "source_url": "https://m.entertain.naver.com/article/108/0003457647",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "김준호"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"김부장\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 김부장",
-          "article_count": 3,
-          "source_article": "‘김부장’ 빌런 유지안, 쇼호스트 전유경 딸이었다 “성신여대 입학→판타지오行”",
-          "source_url": "https://m.entertain.naver.com/article/609/0001151331",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "김부장"
+            "부친상"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -920,38 +703,30 @@
       "keyword_freq": [
         [
           "황정민",
-          5
+          6
         ],
         [
           "이혼",
           4
         ],
         [
-          "임신",
+          "축구",
+          4
+        ],
+        [
+          "폭로",
           3
         ],
         [
-          "깜짝",
+          "스토킹",
           3
         ],
         [
-          "김지민",
+          "유혜주",
           3
         ],
         [
-          "김준호",
-          3
-        ],
-        [
-          "주장",
-          3
-        ],
-        [
-          "김부장",
-          3
-        ],
-        [
-          "여성",
+          "부친상",
           3
         ],
         [
@@ -959,27 +734,11 @@
           3
         ],
         [
-          "축구",
-          3
-        ],
-        [
-          "손흥민",
-          3
-        ],
-        [
-          "불륜",
-          2
-        ],
-        [
-          "유지안",
-          2
-        ],
-        [
           "성관계는",
           2
         ],
         [
-          "폭로",
+          "불륜",
           2
         ],
         [
@@ -987,7 +746,27 @@
           2
         ],
         [
-          "투병",
+          "김지민",
+          2
+        ],
+        [
+          "김준호",
+          2
+        ],
+        [
+          "깜짝",
+          2
+        ],
+        [
+          "임신",
+          2
+        ],
+        [
+          "손나은",
+          2
+        ],
+        [
+          "김부장",
           2
         ],
         [
@@ -995,45 +774,29 @@
           2
         ],
         [
-          "사생활",
+          "비보",
+          2
+        ],
+        [
+          "유튜버",
           2
         ]
       ],
       "name_freq": [
         [
           "황정민",
-          5
+          6
         ],
         [
           "이혼",
           4
         ],
         [
-          "임신",
-          3
+          "축구",
+          4
         ],
         [
-          "깜짝",
-          3
-        ],
-        [
-          "김지민",
-          3
-        ],
-        [
-          "김준호",
-          3
-        ],
-        [
-          "주장",
-          3
-        ],
-        [
-          "김부장",
-          3
-        ],
-        [
-          "여성",
+          "폭로",
           3
         ],
         [
@@ -1041,72 +804,113 @@
           3
         ],
         [
+          "없었다",
+          3
+        ],
+        [
+          "스토킹",
+          3
+        ],
+        [
+          "유혜주",
+          3
+        ],
+        [
+          "부친상",
+          3
+        ],
+        [
           "고지용",
           3
         ],
         [
-          "축구",
-          3
+          "불륜",
+          2
         ],
         [
-          "유니폼",
-          3
+          "김지민",
+          2
         ],
         [
-          "손흥민",
-          3
+          "김준호",
+          2
         ],
         [
-          "청문회",
-          3
+          "깜짝",
+          2
+        ],
+        [
+          "임신",
+          2
         ]
       ],
       "angle_scores": [
-        [
-          "자산·몸값",
-          3
-        ],
         [
           "논란·사건",
           5
         ],
         [
           "결혼·이혼",
-          9
-        ],
-        [
-          "투병·건강",
-          3
-        ],
-        [
-          "스포츠",
           8
         ],
         [
-          "가족·혈연",
-          4
+          "스포츠",
+          6
         ]
       ]
     },
     "초구딱": {
-      "article_count": 36,
+      "article_count": 39,
       "topics": [
         {
-          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 2,
-          "source_article": "\"내가 더 달라고 한 적 없다\" 홍명보 前 감독, '월드컵 16위' 38억 연봉 의혹 반박...\"그것보다 적어, 협회가 준 대로 받은 것\"",
+          "title": "\"전격, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 7,
+          "source_article": "김기동 감독 \"어떻게 프로 선수가 70분, 90분을 뛰지도 못하고 힘들어하는지\"…'2부 선두' 부산에 패배, 코리아컵 탈락 아쉬움",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "내가",
-            "달라고",
-            "홍명보",
+            "전격",
             "감독",
-            "월드컵"
+            "우승",
+            "도전",
+            "방출"
+          ],
+          "template": "스포츠 기록",
+          "score": 6.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 3,
+          "source_article": "‘우승 도전’ KT, 외인 에이스 전격 방출 결단 왜? 6억에 ML 선발 전문 요원 품었다 “안정된 제구력 강점”",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "우승",
+            "도전",
+            "외인",
+            "에이스",
+            "전격"
           ],
           "template": "자산 서열",
-          "score": 7.0,
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -1125,21 +929,54 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 6,
-          "source_article": "전격 트레이드 그 후…하주석 \"김범수가 매일 전화해\", \"노시환 죽었다\", \"KIA서 오래 뛰고파\" 적응 완료",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
+          "angle_type": "결혼·이혼",
+          "article_count": 2,
+          "source_article": "젝키 고지용 이혼 후 방송.gif",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651098&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
           "related_names": [
-            "감독",
-            "홍명보",
-            "전격",
-            "트레이",
-            "하주석"
+            "남자가",
+            "결혼하",
+            "않으면",
+            "생기는",
+            "일들"
           ],
-          "template": "스포츠 기록",
-          "score": 6.8,
+          "template": "결혼 화제",
+          "score": 6.1,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "재활용 가능",
+            "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
+            "matched_views": 720727,
+            "reason": "검증됨 720,727회 · 110일 경과"
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"여러분까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 2,
+          "source_article": "여러분들 여러분들이 어느 건물의 건물주라고 헤봅시다.",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651083&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "여러분",
+            "점괘위",
+            "주보이",
+            "도박근",
+            "절벳"
+          ],
+          "template": "논란 집합",
+          "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -1149,10 +986,10 @@
           },
           "table": {
             "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
             ]
           },
           "channel": "초구딱"
@@ -1189,137 +1026,194 @@
       ],
       "keyword_freq": [
         [
-          "감독",
-          4
+          "전격",
+          3
         ],
         [
           "안내",
           3
         ],
         [
-          "적응",
-          1
+          "감독",
+          2
         ],
         [
-          "트레이드",
-          1
+          "우승",
+          2
         ],
         [
-          "오래",
-          1
+          "도전",
+          2
         ],
         [
-          "완료",
-          1
-        ],
-        [
-          "매일",
-          1
-        ],
-        [
-          "하주석",
-          1
-        ],
-        [
-          "노시환",
-          1
-        ],
-        [
-          "뛰고파",
-          1
-        ],
-        [
-          "죽었다",
-          1
-        ],
-        [
-          "전격",
-          1
-        ],
-        [
-          "전화해",
-          1
-        ],
-        [
-          "김범수가",
-          1
-        ],
-        [
-          "심준석",
-          1
-        ],
-        [
-          "뿌리던",
-          1
-        ],
-        [
-          "유망주였는데",
-          1
+          "선발",
+          2
         ],
         [
           "방출",
+          2
+        ],
+        [
+          "향후",
+          2
+        ],
+        [
+          "김기동",
           1
         ],
         [
-          "기로",
+          "선두",
           1
         ],
         [
-          "재도전",
+          "패배",
+          1
+        ],
+        [
+          "부산에",
+          1
+        ],
+        [
+          "코리아컵",
+          1
+        ],
+        [
+          "아쉬움",
+          1
+        ],
+        [
+          "탈락",
+          1
+        ],
+        [
+          "선수가",
+          1
+        ],
+        [
+          "어떻게",
+          1
+        ],
+        [
+          "분을",
+          1
+        ],
+        [
+          "힘들어하는지",
+          1
+        ],
+        [
+          "뛰지도",
           1
         ]
       ],
       "name_freq": [
         [
-          "감독",
-          4
+          "전격",
+          3
         ],
         [
           "안내",
           3
         ],
         [
-          "홍명보",
+          "감독",
           2
         ],
         [
-          "꺼드럭",
+          "우승",
           2
         ],
         [
-          "까요",
+          "도전",
+          2
+        ],
+        [
+          "선발",
+          2
+        ],
+        [
+          "방출",
+          2
+        ],
+        [
+          "향후",
+          2
+        ],
+        [
+          "네요",
           2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
+          3
+        ],
+        [
+          "논란·사건",
+          2
+        ],
+        [
+          "결혼·이혼",
           2
         ],
         [
           "스포츠",
-          6
+          7
         ]
       ]
     }
   },
   "topics": [
     {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 2,
-      "source_article": "\"내가 더 달라고 한 적 없다\" 홍명보 前 감독, '월드컵 16위' 38억 연봉 의혹 반박...\"그것보다 적어, 협회가 준 대로 받은 것\"",
+      "title": "\"전격, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 7,
+      "source_article": "김기동 감독 \"어떻게 프로 선수가 70분, 90분을 뛰지도 못하고 힘들어하는지\"…'2부 선두' 부산에 패배, 코리아컵 탈락 아쉬움",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "내가",
-        "달라고",
-        "홍명보",
+        "전격",
         "감독",
-        "월드컵"
+        "우승",
+        "도전",
+        "방출"
+      ],
+      "template": "스포츠 기록",
+      "score": 6.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 3,
+      "source_article": "‘우승 도전’ KT, 외인 에이스 전격 방출 결단 왜? 6억에 ML 선발 전문 요원 품었다 “안정된 제구력 강점”",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "우승",
+        "도전",
+        "외인",
+        "에이스",
+        "전격"
       ],
       "template": "자산 서열",
-      "score": 7.0,
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1338,21 +1232,54 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 6,
-      "source_article": "전격 트레이드 그 후…하주석 \"김범수가 매일 전화해\", \"노시환 죽었다\", \"KIA서 오래 뛰고파\" 적응 완료",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 2,
+      "source_article": "젝키 고지용 이혼 후 방송.gif",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651098&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
       "related_names": [
-        "감독",
-        "홍명보",
-        "전격",
-        "트레이",
-        "하주석"
+        "남자가",
+        "결혼하",
+        "않으면",
+        "생기는",
+        "일들"
       ],
-      "template": "스포츠 기록",
-      "score": 6.8,
+      "template": "결혼 화제",
+      "score": 6.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "재활용 가능",
+        "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
+        "matched_views": 720727,
+        "reason": "검증됨 720,727회 · 110일 경과"
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"여러분까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 2,
+      "source_article": "여러분들 여러분들이 어느 건물의 건물주라고 헤봅시다.",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651083&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "여러분",
+        "점괘위",
+        "주보이",
+        "도박근",
+        "절벳"
+      ],
+      "template": "논란 집합",
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1362,10 +1289,10 @@
       },
       "table": {
         "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
       "channel": "초구딱"
@@ -1402,18 +1329,80 @@
   ],
   "all_topics": [
     {
-      "title": "\"올스타, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"폭로까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 5,
+      "source_article": "“성관계는 없었다”…황정민 폭로 여성, 불륜 의혹에 직접 입 열었다",
+      "source_url": "https://m.entertain.naver.com/article/468/0001256788",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "폭로",
+        "성관계",
+        "황정민",
+        "없었다",
+        "여성"
+      ],
+      "template": "논란 집합",
+      "score": 7.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"황정민, 대체 무슨 일이?\" 황정민 관련 이슈 총정리",
+      "angle_type": "👤 황정민",
+      "article_count": 6,
+      "source_article": "“성관계는 없었다”…황정민 폭로 여성, 불륜 의혹에 직접 입 열었다",
+      "source_url": "https://m.entertain.naver.com/article/468/0001256788",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "황정민"
+      ],
+      "template": "논란 집합",
+      "score": 7.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"많은, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 8,
+      "article_count": 6,
       "source_article": "\"유니폼 참사!\" 치마가 엉덩이까지→호주 女 선수, 논란 일축...\"우리는 이 드레스가 정말 좋아요\" 댄스 영상까지 SNS 게시",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "올스타",
         "많은",
-        "박지성",
         "축구",
-        "선수"
+        "선수",
+        "킬잇",
+        "우승"
       ],
       "template": "스포츠 기록",
       "score": 7.3,
@@ -1437,7 +1426,7 @@
     {
       "title": "\"이혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
       "angle_type": "결혼·이혼",
-      "article_count": 9,
+      "article_count": 8,
       "source_article": "김지민♥김준호 부모 된다..임신 깜짝 발표 \"태명은 두룹이\"",
       "source_url": "https://m.entertain.naver.com/article/108/0003457647",
       "source_name": "엔터 많이 본 뉴스",
@@ -1446,7 +1435,7 @@
         "김지민",
         "김준호",
         "임신",
-        "고지용"
+        "깜짝"
       ],
       "template": "결혼 화제",
       "score": 7.1,
@@ -1468,21 +1457,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"성관계까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 5,
-      "source_article": "끝내 대한민국 땅 못 밟는다...'대낮 음주 장면 포착' 그릴리시, 맨시티서 '반등 기회' 아시아 투어 제외",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "title": "\"성관계, 대체 무슨 일이?\" 성관계 관련 이슈 총정리",
+      "angle_type": "👤 성관계",
+      "article_count": 3,
+      "source_article": "“성관계는 없었다”…황정민 폭로 여성, 불륜 의혹에 직접 입 열었다",
+      "source_url": "https://m.entertain.naver.com/article/468/0001256788",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "성관계",
-        "황정민",
-        "없었다",
-        "폭로",
-        "여성"
+        "성관계"
       ],
       "template": "논란 집합",
-      "score": 7.0,
+      "score": 6.9,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1501,104 +1486,75 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"축구 자산이 얼마?\" 축구급 자산가 스타 TOP10",
-      "angle_type": "👤 축구",
+      "title": "\"없었다, 대체 무슨 일이?\" 없었다 관련 이슈 총정리",
+      "angle_type": "👤 없었다",
       "article_count": 3,
+      "source_article": "“성관계는 없었다”…황정민 폭로 여성, 불륜 의혹에 직접 입 열었다",
+      "source_url": "https://m.entertain.naver.com/article/468/0001256788",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "없었다"
+      ],
+      "template": "논란 집합",
+      "score": 6.9,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"축구\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 축구",
+      "article_count": 4,
       "source_article": "박지성, 한국 축구 일본과 격차 이유…\"해외 진출 선수 100명, 시스템 갖췄다\" ('유퀴즈')",
       "source_url": "https://m.entertain.naver.com/article/312/0000769753",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "축구"
       ],
-      "template": "자산 서열",
-      "score": 7.0,
+      "template": "인맥",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
+        "status": "재활용 가능",
+        "matched_title": "\"임영웅, 손흥민이랑 조기축구?\" 축구 좀 찬다고 알려진 스타 TOP10 #연예인 #스포츠 #축구",
+        "matched_views": 32359,
+        "reason": "기간 경과 134일"
       },
       "table": {
         "headers": [
           "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"청문회 자산이 얼마?\" 청문회급 자산가 스타 TOP10",
-      "angle_type": "👤 청문회",
-      "article_count": 3,
-      "source_article": "'청문회 참석' 홍명보 \"제가 알고 있는 사실 그대로 말씀드리겠다\"...정몽규 \"월드컵 결과 죄송\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "청문회"
-      ],
-      "template": "자산 서열",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"황정민, 대체 무슨 일이?\" 황정민 관련 이슈 총정리",
-      "angle_type": "👤 황정민",
-      "article_count": 5,
-      "source_article": "'불륜 주장' A씨, 황정민 '미성년자' 子에 DM 파문",
-      "source_url": "https://m.entertain.naver.com/article/108/0003457520",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "황정민"
-      ],
-      "template": "논란 집합",
-      "score": 6.9,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
+          "분류",
+          "이슈 내용",
           "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"여성, 대체 무슨 일이?\" 여성 관련 이슈 총정리",
-      "angle_type": "👤 여성",
+      "title": "\"스토킹\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 스토킹",
       "article_count": 3,
-      "source_article": "“성관계는 없었다”…황정민 폭로 여성, 불륜 의혹에 직접 입 열었다",
-      "source_url": "https://m.entertain.naver.com/article/468/0001256788",
+      "source_article": "\"죽어죽어죽어버려\"…황정민, 스토킹 범죄의 증거",
+      "source_url": "https://m.entertain.naver.com/article/433/0000129357",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "여성"
+        "스토킹"
       ],
-      "template": "논란 집합",
-      "score": 6.9,
+      "template": "인맥",
+      "score": 6.4,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1609,42 +1565,9 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
+          "분류",
+          "이슈 내용",
           "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 4,
-      "source_article": "김지민♥김준호 부모 된다..임신 깜짝 발표 \"태명은 두룹이\"",
-      "source_url": "https://m.entertain.naver.com/article/108/0003457647",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "김지민",
-        "김준호",
-        "부모",
-        "임신",
-        "깜짝"
-      ],
-      "template": "동갑내기",
-      "score": 6.6,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
         ]
       },
       "channel": "정보주는하마"
@@ -1653,160 +1576,11 @@
       "title": "\"고지용 결혼설?\" 고지용 연애사 총정리",
       "angle_type": "👤 고지용",
       "article_count": 3,
-      "source_article": "'고지용 전처' 허양임, 이혼 숨겼지만 티났다..子 \"엄마 혼자 밥 챙겨먹어\"",
-      "source_url": "https://m.entertain.naver.com/article/076/0004430418",
+      "source_article": "고지용·이범수·엄태웅·이휘재·강경준…‘슈돌’아빠 잔혹사",
+      "source_url": "https://m.entertain.naver.com/article/144/0001128967",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "고지용"
-      ],
-      "template": "결혼 화제",
-      "score": 6.6,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 3,
-      "source_article": "'맨땅에 헤딩' 최준용, 미국 진출 선언 \"300억+NBA 유니폼 입고 돌아오고 싶다\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "맨땅에",
-        "헤딩",
-        "최준용",
-        "미국",
-        "선언"
-      ],
-      "template": "자산 서열",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"유니폼, 대체 무슨 일이?\" 유니폼 관련 이슈 총정리",
-      "angle_type": "👤 유니폼",
-      "article_count": 3,
-      "source_article": "\"유니폼 참사!\" 치마가 엉덩이까지→호주 女 선수, 논란 일축...\"우리는 이 드레스가 정말 좋아요\" 댄스 영상까지 SNS 게시",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "유니폼"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"주장\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 주장",
-      "article_count": 3,
-      "source_article": "'불륜 주장' A씨, 황정민 '미성년자' 子에 DM 파문",
-      "source_url": "https://m.entertain.naver.com/article/108/0003457520",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "주장"
-      ],
-      "template": "인맥",
-      "score": 6.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"손흥민\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 손흥민",
-      "article_count": 3,
-      "source_article": "'주장 완장차고 올스타전' 손흥민 35분 뛰고 멀티골...MLS 올스타, 리가 MX 올스타 상대로 3-1 리드",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "손흥민"
-      ],
-      "template": "인맥",
-      "score": 6.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"깜짝 결혼설?\" 깜짝 연애사 총정리",
-      "angle_type": "👤 깜짝",
-      "article_count": 3,
-      "source_article": "김지민♥김준호 부모 된다..임신 깜짝 발표 \"태명은 두룹이\"",
-      "source_url": "https://m.entertain.naver.com/article/108/0003457647",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "깜짝"
       ],
       "template": "결혼 화제",
       "score": 6.3,
@@ -1828,47 +1602,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-      "angle_type": "투병·건강",
+      "title": "\"유혜주\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 유혜주",
       "article_count": 3,
-      "source_article": "'유산→갑상선암 투병' 女배우, 스페인 여행 중 응급실행…\"병원비만 60만 원\"",
-      "source_url": "https://m.entertain.naver.com/article/213/0001396030",
+      "source_article": "'얼짱 유튜버' 유혜주·유지유 자매, 23일 부친상 비보",
+      "source_url": "https://m.entertain.naver.com/article/312/0000769760",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "투병",
-        "배우",
-        "유산",
-        "갑상선",
-        "스페인"
-      ],
-      "template": "투병 극복",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "투병 질환",
-          "공백기",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"임신\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 임신",
-      "article_count": 3,
-      "source_article": "김지민♥김준호 부모 된다..임신 깜짝 발표 \"태명은 두룹이\"",
-      "source_url": "https://m.entertain.naver.com/article/108/0003457647",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "임신"
+        "유혜주"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1890,14 +1631,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"김지민\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 김지민",
+      "title": "\"부친상\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 부친상",
       "article_count": 3,
-      "source_article": "김지민♥김준호 부모 된다..임신 깜짝 발표 \"태명은 두룹이\"",
-      "source_url": "https://m.entertain.naver.com/article/108/0003457647",
+      "source_article": "'얼짱 유튜버' 유혜주·유지유 자매, 23일 부친상 비보",
+      "source_url": "https://m.entertain.naver.com/article/312/0000769760",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "김지민"
+        "부친상"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1919,17 +1660,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"김준호\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 김준호",
-      "article_count": 3,
-      "source_article": "김지민♥김준호 부모 된다..임신 깜짝 발표 \"태명은 두룹이\"",
-      "source_url": "https://m.entertain.naver.com/article/108/0003457647",
-      "source_name": "엔터 많이 본 뉴스",
+      "title": "\"전격, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 7,
+      "source_article": "김기동 감독 \"어떻게 프로 선수가 70분, 90분을 뛰지도 못하고 힘들어하는지\"…'2부 선두' 부산에 패배, 코리아컵 탈락 아쉬움",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "김준호"
+        "전격",
+        "감독",
+        "우승",
+        "도전",
+        "방출"
       ],
-      "template": "인맥",
-      "score": 6.0,
+      "template": "스포츠 기록",
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1939,59 +1684,30 @@
       },
       "table": {
         "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
         ]
       },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"김부장\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 김부장",
-      "article_count": 3,
-      "source_article": "‘김부장’ 빌런 유지안, 쇼호스트 전유경 딸이었다 “성신여대 입학→판타지오行”",
-      "source_url": "https://m.entertain.naver.com/article/609/0001151331",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "김부장"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
+      "channel": "초구딱"
     },
     {
       "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
       "angle_type": "자산·몸값",
-      "article_count": 2,
-      "source_article": "\"내가 더 달라고 한 적 없다\" 홍명보 前 감독, '월드컵 16위' 38억 연봉 의혹 반박...\"그것보다 적어, 협회가 준 대로 받은 것\"",
+      "article_count": 3,
+      "source_article": "‘우승 도전’ KT, 외인 에이스 전격 방출 결단 왜? 6억에 ML 선발 전문 요원 품었다 “안정된 제구력 강점”",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "내가",
-        "달라고",
-        "홍명보",
-        "감독",
-        "월드컵"
+        "우승",
+        "도전",
+        "외인",
+        "에이스",
+        "전격"
       ],
       "template": "자산 서열",
-      "score": 7.0,
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2010,21 +1726,54 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 6,
-      "source_article": "전격 트레이드 그 후…하주석 \"김범수가 매일 전화해\", \"노시환 죽었다\", \"KIA서 오래 뛰고파\" 적응 완료",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 2,
+      "source_article": "젝키 고지용 이혼 후 방송.gif",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651098&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
       "related_names": [
-        "감독",
-        "홍명보",
-        "전격",
-        "트레이",
-        "하주석"
+        "남자가",
+        "결혼하",
+        "않으면",
+        "생기는",
+        "일들"
       ],
-      "template": "스포츠 기록",
-      "score": 6.8,
+      "template": "결혼 화제",
+      "score": 6.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "재활용 가능",
+        "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
+        "matched_views": 720727,
+        "reason": "검증됨 720,727회 · 110일 경과"
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"여러분까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 2,
+      "source_article": "여러분들 여러분들이 어느 건물의 건물주라고 헤봅시다.",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202607300117651083&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "여러분",
+        "점괘위",
+        "주보이",
+        "도박근",
+        "절벳"
+      ],
+      "template": "논란 집합",
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2034,10 +1783,10 @@
       },
       "table": {
         "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
       "channel": "초구딱"
@@ -2075,38 +1824,30 @@
   "keyword_freq": [
     [
       "황정민",
-      5
+      6
     ],
     [
       "이혼",
       4
     ],
     [
-      "임신",
+      "축구",
+      4
+    ],
+    [
+      "폭로",
       3
     ],
     [
-      "깜짝",
+      "스토킹",
       3
     ],
     [
-      "김지민",
+      "유혜주",
       3
     ],
     [
-      "김준호",
-      3
-    ],
-    [
-      "주장",
-      3
-    ],
-    [
-      "김부장",
-      3
-    ],
-    [
-      "여성",
+      "부친상",
       3
     ],
     [
@@ -2114,27 +1855,11 @@
       3
     ],
     [
-      "축구",
-      3
-    ],
-    [
-      "손흥민",
-      3
-    ],
-    [
-      "불륜",
-      2
-    ],
-    [
-      "유지안",
-      2
-    ],
-    [
       "성관계는",
       2
     ],
     [
-      "폭로",
+      "불륜",
       2
     ],
     [
@@ -2142,7 +1867,27 @@
       2
     ],
     [
-      "투병",
+      "김지민",
+      2
+    ],
+    [
+      "김준호",
+      2
+    ],
+    [
+      "깜짝",
+      2
+    ],
+    [
+      "임신",
+      2
+    ],
+    [
+      "손나은",
+      2
+    ],
+    [
+      "김부장",
       2
     ],
     [
@@ -2150,45 +1895,29 @@
       2
     ],
     [
-      "사생활",
+      "비보",
+      2
+    ],
+    [
+      "유튜버",
       2
     ]
   ],
   "name_freq": [
     [
       "황정민",
-      5
+      6
     ],
     [
       "이혼",
       4
     ],
     [
-      "임신",
-      3
+      "축구",
+      4
     ],
     [
-      "깜짝",
-      3
-    ],
-    [
-      "김지민",
-      3
-    ],
-    [
-      "김준호",
-      3
-    ],
-    [
-      "주장",
-      3
-    ],
-    [
-      "김부장",
-      3
-    ],
-    [
-      "여성",
+      "폭로",
       3
     ],
     [
@@ -2196,27 +1925,47 @@
       3
     ],
     [
+      "없었다",
+      3
+    ],
+    [
+      "스토킹",
+      3
+    ],
+    [
+      "유혜주",
+      3
+    ],
+    [
+      "부친상",
+      3
+    ],
+    [
       "고지용",
       3
     ],
     [
-      "축구",
-      3
+      "불륜",
+      2
     ],
     [
-      "유니폼",
-      3
+      "김지민",
+      2
     ],
     [
-      "손흥민",
-      3
+      "김준호",
+      2
     ],
     [
-      "청문회",
-      3
+      "깜짝",
+      2
+    ],
+    [
+      "임신",
+      2
     ]
   ],
-  "total_topics_generated": 22,
-  "valid_topics": 22,
+  "total_topics_generated": 16,
+  "valid_topics": 16,
   "excluded_duplicates": 0
 }
