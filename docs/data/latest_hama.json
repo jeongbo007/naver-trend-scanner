@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-07-31 15:11:23",
+  "scan_time": "2026-07-31 18:18:28",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -10,7 +10,7 @@
     "DC 국내야구 갤러리": 0,
     "MLB파크 불펜": 30
   },
-  "total_articles": 78,
+  "total_articles": 80,
   "articles": [
     {
       "title": "손흥민, 결혼설 나온 이유…970만원대 웨딩 반지를 왼손 약지에",
@@ -283,21 +283,12 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "김병현 사과 영상 본 김영광의 반응… “형님 왜 그러셨어요, 안타까웠다”",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 49162,
-      "rank": 1,
-      "channel": "정보주는하마"
-    },
-    {
       "title": "'韓 축구 에이스' 이강인, 마드리드 못 간다...PSG 겨우 탈출했는데 날벼락, \"이틀 만에 돌아와야, 서울에서 첫 합류 유력\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 33932,
-      "rank": 2,
+      "views": 505434,
+      "rank": 1,
       "channel": "정보주는하마"
     },
     {
@@ -305,16 +296,25 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 31810,
+      "views": 494880,
+      "rank": 2,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "“그건 그때고! 지금은 어떠냐고”…박문성, 홍명보 ‘특혜 논란’ 답변에 폭발",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 486285,
       "rank": 3,
       "channel": "정보주는하마"
     },
     {
-      "title": "中 탁구 전세계 대망신! 0-11 참패에 이성 잃었다…14세 유망주, 악수 청한 상대에 주먹+발길질→그런데 고작 1년 출전 정지",
+      "title": "'김영광·이천수의 저격 발언'에 입 연 홍명보 \"밖에서 말만 하기보다 직접 현장에 들어와 바꿔야\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 16086,
+      "views": 337567,
       "rank": 4,
       "channel": "정보주는하마"
     },
@@ -323,26 +323,44 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 14366,
-      "rank": 5,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이강인 오지 마!\" 아틀레티코 마드리드, 결국 포기했다…\"비행 14시간 비효율적, 한국서 합류 유력\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 13920,
+      "views": 240575,
       "rank": 6,
       "channel": "정보주는하마"
     },
     {
-      "title": "국회의원을 '거기'라 부르고, 주머니에 손까지 꽂은 문진희 심판위원장... 결정적 증거들 앞엔 \"모르겠다\" 발뺌",
+      "title": "김병현 사과 영상 본 김영광의 반응… “형님 왜 그러셨어요, 안타까웠다”",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 12054,
+      "views": 230779,
       "rank": 7,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "中 탁구 전세계 대망신! 0-11 참패에 이성 잃었다…14세 유망주, 악수 청한 상대에 주먹+발길질→그런데 고작 1년 출전 정지",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 203493,
+      "rank": 8,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "한국 축구 초대형 날벼락!…LA 올림픽 남자축구 본선 티켓 딱 2장인데→개최지가 최대 라이벌 일본으로 확정, 경쟁 더 거세지나",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 173446,
+      "rank": 10,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'결국 터질 게 터졌다' FIFA, 월드컵 결승전 징계 절차 개시… 파레데스 폭행 혐의 3건·몰리나 2건, 스페인 가비도 비신사적 행위 대상",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 163624,
+      "rank": 12,
       "channel": "정보주는하마"
     },
     {
@@ -350,67 +368,142 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 10665,
-      "rank": 8,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "양현종이 이렇게 등을 보이다니… KIA 팬들 가슴이 찢어졌다, 1패보다 더 아픈 하루",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 10610,
-      "rank": 9,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'벤투 해줘!' 위기의 한국축구, 11월까지만 대표팀 맡아줄 임시감독 찾는다...사상 첫 공개채용 실시",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 9643,
-      "rank": 11,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"사실상 사망\" 英 세계적 서핑스타, 포르투갈 해상서 실종→나흘 수색 끝 중단…\"생존 확률 0% 수렴\" 추모 물결",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 8441,
+      "views": 138822,
       "rank": 13,
       "channel": "정보주는하마"
     },
     {
-      "title": "'김영광·이천수의 저격 발언'에 입 연 홍명보 \"밖에서 말만 하기보다 직접 현장에 들어와 바꿔야\"",
+      "title": "'누나는 미스코리아, 동생은 유럽서도 주목받는 슈퍼루키' 18세 박시후, 포르투갈서 벌써 눈도장…\"스피드·기술·활동량 돋보여\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 7088,
+      "views": 136037,
+      "rank": 14,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이강인 오지 마!\" 아틀레티코 마드리드, 결국 포기했다…\"비행 14시간 비효율적, 한국서 합류 유력\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 118184,
+      "rank": 15,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"모델과 2년 반 동안 밀회\" 불륜 논란 '日 최고 테니스 스타', 처참한 완패에 충격…\"어이 없을 정도, 이렇게 은퇴할 수 없다\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 117716,
       "rank": 16,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"치마가 자꾸 허벅지 위로 올라가잖아!\" 팬들 맹비난에도…'무려 378득점' 호주 女 네트볼, 5연승 신바람→유럽서 화제",
+      "title": "韓 축구 역사상 처음 있는 일…'홍명보 후임 후보' 첫 공개 채용 시작→벤투·포옛·마르티네스 등 하마평 \"KFA 절차 따르겠다\" 강한 어필 눈길",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 6847,
-      "rank": 19,
+      "views": 117708,
+      "rank": 17,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "정해성 “건강 문제로 사퇴” 일관…박문성 “거짓말, 나한테 ‘축구협회 큰일 날 수 있다’고 했다”",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 117497,
+      "rank": 18,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"네일이 내 성질 건드려\" 김태군 진짜 화났다, 뼈아픈 일침까지…근데 그럴만했다",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 103029,
+      "rank": 20,
       "channel": "정보주는하마"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 43,
+      "article_count": 46,
       "topics": [
+        {
+          "title": "\"절차, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 6,
+          "source_article": "'충격' 현역 야구선수 2명이 경찰에 가택 수색당했다…日 '좀비 담배' 파문 일파만파, \"선수 등록 말소, 사과드린다\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "절차",
+            "소지섭",
+            "일하기",
+            "힘들",
+            "같다"
+          ],
+          "template": "스포츠 기록",
+          "score": 7.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 4,
+          "source_article": "\"모델과 2년 반 동안 밀회\" 불륜 논란 '日 최고 테니스 스타', 처참한 완패에 충격…\"어이 없을 정도, 이렇게 은퇴할 수 없다\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "종말이",
+            "곽진영",
+            "급격한",
+            "노화",
+            "포착"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 7.6,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
         {
           "title": "\"황정민까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
           "angle_type": "논란·사건",
-          "article_count": 5,
-          "source_article": "황정민 '불륜설→스킨십' 폭로 영향 터졌나…잘나가던 '호프', 예매율 6% 뚝 '악재'",
-          "source_url": "https://m.entertain.naver.com/article/213/0001396281",
-          "source_name": "엔터 많이 본 뉴스",
+          "article_count": 6,
+          "source_article": "“그건 그때고! 지금은 어떠냐고”…박문성, 홍명보 ‘특혜 논란’ 답변에 폭발",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "황정민",
             "폭로",
@@ -471,67 +564,30 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 5,
-          "source_article": "김병현 사과 영상 본 김영광의 반응… “형님 왜 그러셨어요, 안타까웠다”",
+          "title": "\"축구\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 축구",
+          "article_count": 3,
+          "source_article": "'韓 축구 에이스' 이강인, 마드리드 못 간다...PSG 겨우 탈출했는데 날벼락, \"이틀 만에 돌아와야, 서울에서 첫 합류 유력\"",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "소지섭",
-            "일하기",
-            "힘들",
-            "같다",
-            "김부장"
+            "축구"
           ],
-          "template": "스포츠 기록",
-          "score": 6.8,
+          "template": "인맥",
+          "score": 6.9,
           "dup_check": {
             "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 3,
-          "source_article": "'종말이' 곽진영, 급격한 노화 포착…\"갱년기로 콜라겐 은퇴\"",
-          "source_url": "https://m.entertain.naver.com/article/415/0000050552",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "종말이",
-            "곽진영",
-            "급격한",
-            "노화",
-            "포착"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 6.6,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
+            "status": "재활용 가능",
+            "matched_title": "\"임영웅, 손흥민이랑 조기축구?\" 축구 좀 찬다고 알려진 스타 TOP10 #연예인 #스포츠 #축구",
+            "matched_views": 32359,
+            "reason": "기간 경과 135일"
           },
           "table": {
             "headers": [
               "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
+              "분류",
+              "이슈 내용",
+              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
@@ -590,6 +646,35 @@
               "배우자",
               "결혼 시점",
               "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"홍명보, 대체 무슨 일이?\" 홍명보 관련 이슈 총정리",
+          "angle_type": "👤 홍명보",
+          "article_count": 3,
+          "source_article": "“그건 그때고! 지금은 어떠냐고”…박문성, 홍명보 ‘특혜 논란’ 답변에 폭발",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "홍명보"
+          ],
+          "template": "논란 집합",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
@@ -709,39 +794,6 @@
             ]
           },
           "channel": "정보주는하마"
-        },
-        {
-          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-          "angle_type": "투병·건강",
-          "article_count": 2,
-          "source_article": "'중환자실 입원' 허영만 근황 공개됐다…\"건강 회복 위해 노력 중\"",
-          "source_url": "https://m.entertain.naver.com/article/311/0002039970",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "중환자",
-            "입원",
-            "허영만",
-            "근황",
-            "공개됐"
-          ],
-          "template": "투병 극복",
-          "score": 5.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "투병 질환",
-              "공백기",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
         }
       ],
       "keyword_freq": [
@@ -759,6 +811,14 @@
         ],
         [
           "황정민",
+          3
+        ],
+        [
+          "축구",
+          3
+        ],
+        [
+          "홍명보",
           3
         ],
         [
@@ -810,19 +870,11 @@
           2
         ],
         [
-          "사체",
-          2
-        ],
-        [
           "고양이",
           2
         ],
         [
-          "남편",
-          2
-        ],
-        [
-          "눈물",
+          "사체",
           2
         ]
       ],
@@ -860,6 +912,14 @@
           3
         ],
         [
+          "축구",
+          3
+        ],
+        [
+          "홍명보",
+          3
+        ],
+        [
           "이혼",
           2
         ],
@@ -878,20 +938,12 @@
         [
           "의혹",
           2
-        ],
-        [
-          "감량",
-          2
-        ],
-        [
-          "김민하",
-          2
         ]
       ],
       "angle_scores": [
         [
           "논란·사건",
-          5
+          6
         ],
         [
           "결혼·이혼",
@@ -899,37 +951,33 @@
         ],
         [
           "복귀·근황",
-          3
-        ],
-        [
-          "투병·건강",
-          2
+          4
         ],
         [
           "스포츠",
-          5
+          6
         ]
       ]
     },
     "초구딱": {
-      "article_count": 35,
+      "article_count": 34,
       "topics": [
         {
-          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+          "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 5,
-          "source_article": "'대박' 멀티홈런 대폭발! 고교시절 오타니로 불린 두산 사나이 '드디어 잠재력 터지나' LG와 잠실 라이벌전 기선 제압",
+          "article_count": 4,
+          "source_article": "KFA 공식 발표, 한국 남자 축구대표팀 임시 감독 공개채용 시작… '최소 5인·최대7인 사단' 구성해 8월 내 선임",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "대박",
-            "멀티홈",
-            "대폭발",
-            "고교시",
-            "오타니"
+            "감독",
+            "공식",
+            "남자",
+            "축구대",
+            "표팀"
           ],
           "template": "스포츠 기록",
-          "score": 6.8,
+          "score": 7.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -943,39 +991,6 @@
               "소속팀",
               "기록 내용",
               "기록 가치"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 2,
-          "source_article": "LG 150㎞ 선발 유망주, 구속 하락 미스터리 풀렸다 \"의도치 않게 커터처럼…\"",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "선발",
-            "유망주",
-            "구속",
-            "하락",
-            "미스터"
-          ],
-          "template": "논란 집합",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
             ]
           },
           "channel": "초구딱"
@@ -1016,11 +1031,11 @@
           3
         ],
         [
-          "시간",
+          "공식",
           2
         ],
         [
-          "워터밤",
+          "감독",
           2
         ],
         [
@@ -1028,67 +1043,67 @@
           2
         ],
         [
-          "불린",
+          "워터밤",
+          2
+        ],
+        [
+          "임시",
           1
         ],
         [
-          "터지나",
+          "공개채용",
           1
         ],
         [
-          "고교시절",
+          "구성해",
           1
         ],
         [
-          "라이벌전",
+          "최소",
           1
         ],
         [
-          "두산",
+          "축구대표팀",
           1
         ],
         [
-          "대박",
+          "선임",
           1
         ],
         [
-          "드디어",
+          "남자",
           1
         ],
         [
-          "오타니로",
+          "사단",
           1
         ],
         [
-          "사나이",
+          "안녕",
           1
         ],
         [
-          "잠실",
+          "떴다",
           1
         ],
         [
-          "기선",
+          "방출",
           1
         ],
         [
-          "대폭발",
+          "전력",
           1
         ],
         [
-          "멀티홈런",
+          "보강",
           1
         ],
         [
-          "제압",
+          "대구에서",
           1
         ],
         [
-          "잠재력",
-          1
-        ],
-        [
-          "의도치",
+          "웃으며",
           1
         ]
       ],
@@ -1098,11 +1113,11 @@
           3
         ],
         [
-          "시간",
+          "공식",
           2
         ],
         [
-          "워터밤",
+          "감독",
           2
         ],
         [
@@ -1110,30 +1125,92 @@
           2
         ],
         [
-          "네요",
+          "워터밤",
           2
         ]
       ],
       "angle_scores": [
         [
-          "논란·사건",
-          2
-        ],
-        [
           "스포츠",
-          5
+          4
         ]
       ]
     }
   },
   "topics": [
     {
+      "title": "\"절차, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 6,
+      "source_article": "'충격' 현역 야구선수 2명이 경찰에 가택 수색당했다…日 '좀비 담배' 파문 일파만파, \"선수 등록 말소, 사과드린다\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "절차",
+        "소지섭",
+        "일하기",
+        "힘들",
+        "같다"
+      ],
+      "template": "스포츠 기록",
+      "score": 7.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 4,
+      "source_article": "\"모델과 2년 반 동안 밀회\" 불륜 논란 '日 최고 테니스 스타', 처참한 완패에 충격…\"어이 없을 정도, 이렇게 은퇴할 수 없다\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "종말이",
+        "곽진영",
+        "급격한",
+        "노화",
+        "포착"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 7.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"황정민까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
       "angle_type": "논란·사건",
-      "article_count": 5,
-      "source_article": "황정민 '불륜설→스킨십' 폭로 영향 터졌나…잘나가던 '호프', 예매율 6% 뚝 '악재'",
-      "source_url": "https://m.entertain.naver.com/article/213/0001396281",
-      "source_name": "엔터 많이 본 뉴스",
+      "article_count": 6,
+      "source_article": "“그건 그때고! 지금은 어떠냐고”…박문성, 홍명보 ‘특혜 논란’ 답변에 폭발",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "황정민",
         "폭로",
@@ -1194,67 +1271,30 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 5,
-      "source_article": "김병현 사과 영상 본 김영광의 반응… “형님 왜 그러셨어요, 안타까웠다”",
+      "title": "\"축구\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 축구",
+      "article_count": 3,
+      "source_article": "'韓 축구 에이스' 이강인, 마드리드 못 간다...PSG 겨우 탈출했는데 날벼락, \"이틀 만에 돌아와야, 서울에서 첫 합류 유력\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "소지섭",
-        "일하기",
-        "힘들",
-        "같다",
-        "김부장"
+        "축구"
       ],
-      "template": "스포츠 기록",
-      "score": 6.8,
+      "template": "인맥",
+      "score": 6.9,
       "dup_check": {
         "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 3,
-      "source_article": "'종말이' 곽진영, 급격한 노화 포착…\"갱년기로 콜라겐 은퇴\"",
-      "source_url": "https://m.entertain.naver.com/article/415/0000050552",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "종말이",
-        "곽진영",
-        "급격한",
-        "노화",
-        "포착"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 6.6,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
+        "status": "재활용 가능",
+        "matched_title": "\"임영웅, 손흥민이랑 조기축구?\" 축구 좀 찬다고 알려진 스타 TOP10 #연예인 #스포츠 #축구",
+        "matched_views": 32359,
+        "reason": "기간 경과 135일"
       },
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
@@ -1313,6 +1353,35 @@
           "배우자",
           "결혼 시점",
           "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"홍명보, 대체 무슨 일이?\" 홍명보 관련 이슈 총정리",
+      "angle_type": "👤 홍명보",
+      "article_count": 3,
+      "source_article": "“그건 그때고! 지금은 어떠냐고”…박문성, 홍명보 ‘특혜 논란’ 답변에 폭발",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "홍명보"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
@@ -1429,39 +1498,6 @@
           "분류",
           "이슈 내용",
           "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-      "angle_type": "투병·건강",
-      "article_count": 2,
-      "source_article": "'중환자실 입원' 허영만 근황 공개됐다…\"건강 회복 위해 노력 중\"",
-      "source_url": "https://m.entertain.naver.com/article/311/0002039970",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "중환자",
-        "입원",
-        "허영만",
-        "근황",
-        "공개됐"
-      ],
-      "template": "투병 극복",
-      "score": 5.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "투병 질환",
-          "공백기",
-          "복귀 작품"
         ]
       },
       "channel": "정보주는하마"
@@ -1469,12 +1505,78 @@
   ],
   "all_topics": [
     {
+      "title": "\"절차, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 6,
+      "source_article": "'충격' 현역 야구선수 2명이 경찰에 가택 수색당했다…日 '좀비 담배' 파문 일파만파, \"선수 등록 말소, 사과드린다\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "절차",
+        "소지섭",
+        "일하기",
+        "힘들",
+        "같다"
+      ],
+      "template": "스포츠 기록",
+      "score": 7.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 4,
+      "source_article": "\"모델과 2년 반 동안 밀회\" 불륜 논란 '日 최고 테니스 스타', 처참한 완패에 충격…\"어이 없을 정도, 이렇게 은퇴할 수 없다\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "종말이",
+        "곽진영",
+        "급격한",
+        "노화",
+        "포착"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 7.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"황정민까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
       "angle_type": "논란·사건",
-      "article_count": 5,
-      "source_article": "황정민 '불륜설→스킨십' 폭로 영향 터졌나…잘나가던 '호프', 예매율 6% 뚝 '악재'",
-      "source_url": "https://m.entertain.naver.com/article/213/0001396281",
-      "source_name": "엔터 많이 본 뉴스",
+      "article_count": 6,
+      "source_article": "“그건 그때고! 지금은 어떠냐고”…박문성, 홍명보 ‘특혜 논란’ 답변에 폭발",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "황정민",
         "폭로",
@@ -1535,67 +1637,30 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 5,
-      "source_article": "김병현 사과 영상 본 김영광의 반응… “형님 왜 그러셨어요, 안타까웠다”",
+      "title": "\"축구\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 축구",
+      "article_count": 3,
+      "source_article": "'韓 축구 에이스' 이강인, 마드리드 못 간다...PSG 겨우 탈출했는데 날벼락, \"이틀 만에 돌아와야, 서울에서 첫 합류 유력\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "소지섭",
-        "일하기",
-        "힘들",
-        "같다",
-        "김부장"
+        "축구"
       ],
-      "template": "스포츠 기록",
-      "score": 6.8,
+      "template": "인맥",
+      "score": 6.9,
       "dup_check": {
         "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 3,
-      "source_article": "'종말이' 곽진영, 급격한 노화 포착…\"갱년기로 콜라겐 은퇴\"",
-      "source_url": "https://m.entertain.naver.com/article/415/0000050552",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "종말이",
-        "곽진영",
-        "급격한",
-        "노화",
-        "포착"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 6.6,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
+        "status": "재활용 가능",
+        "matched_title": "\"임영웅, 손흥민이랑 조기축구?\" 축구 좀 찬다고 알려진 스타 TOP10 #연예인 #스포츠 #축구",
+        "matched_views": 32359,
+        "reason": "기간 경과 135일"
       },
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
@@ -1654,6 +1719,35 @@
           "배우자",
           "결혼 시점",
           "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"홍명보, 대체 무슨 일이?\" 홍명보 관련 이슈 총정리",
+      "angle_type": "👤 홍명보",
+      "article_count": 3,
+      "source_article": "“그건 그때고! 지금은 어떠냐고”…박문성, 홍명보 ‘특혜 논란’ 답변에 폭발",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "홍명보"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
@@ -1775,54 +1869,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-      "angle_type": "투병·건강",
-      "article_count": 2,
-      "source_article": "'중환자실 입원' 허영만 근황 공개됐다…\"건강 회복 위해 노력 중\"",
-      "source_url": "https://m.entertain.naver.com/article/311/0002039970",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "중환자",
-        "입원",
-        "허영만",
-        "근황",
-        "공개됐"
-      ],
-      "template": "투병 극복",
-      "score": 5.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "투병 질환",
-          "공백기",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 5,
-      "source_article": "'대박' 멀티홈런 대폭발! 고교시절 오타니로 불린 두산 사나이 '드디어 잠재력 터지나' LG와 잠실 라이벌전 기선 제압",
+      "article_count": 4,
+      "source_article": "KFA 공식 발표, 한국 남자 축구대표팀 임시 감독 공개채용 시작… '최소 5인·최대7인 사단' 구성해 8월 내 선임",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "대박",
-        "멀티홈",
-        "대폭발",
-        "고교시",
-        "오타니"
+        "감독",
+        "공식",
+        "남자",
+        "축구대",
+        "표팀"
       ],
       "template": "스포츠 기록",
-      "score": 6.8,
+      "score": 7.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1836,39 +1897,6 @@
           "소속팀",
           "기록 내용",
           "기록 가치"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 2,
-      "source_article": "LG 150㎞ 선발 유망주, 구속 하락 미스터리 풀렸다 \"의도치 않게 커터처럼…\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "선발",
-        "유망주",
-        "구속",
-        "하락",
-        "미스터"
-      ],
-      "template": "논란 집합",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
         ]
       },
       "channel": "초구딱"
@@ -1921,6 +1949,14 @@
       3
     ],
     [
+      "축구",
+      3
+    ],
+    [
+      "홍명보",
+      3
+    ],
+    [
       "이혼",
       2
     ],
@@ -1969,19 +2005,11 @@
       2
     ],
     [
-      "사체",
-      2
-    ],
-    [
       "고양이",
       2
     ],
     [
-      "남편",
-      2
-    ],
-    [
-      "눈물",
+      "사체",
       2
     ]
   ],
@@ -2019,6 +2047,14 @@
       3
     ],
     [
+      "축구",
+      3
+    ],
+    [
+      "홍명보",
+      3
+    ],
+    [
       "이혼",
       2
     ],
@@ -2036,14 +2072,6 @@
     ],
     [
       "의혹",
-      2
-    ],
-    [
-      "감량",
-      2
-    ],
-    [
-      "김민하",
       2
     ]
   ],
