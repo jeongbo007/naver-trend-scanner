@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-01 14:19:05",
+  "scan_time": "2026-08-01 17:58:11",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -287,26 +287,8 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 36848,
-      "rank": 2,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"월드컵 개최 포기하겠다\" 충격 선언!…스페인·포르투갈, FIFA 민영화에 2030 WC 개최권 반납 검토 '초강수'",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 17811,
-      "rank": 4,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'최악의 원정' 수원 이정효 감독의 작심발언 \"다시는 이곳에 오지 않자고 이야기했다...나도 최선을 다하겠다\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 14454,
-      "rank": 6,
+      "views": 475266,
+      "rank": 3,
       "channel": "정보주는하마"
     },
     {
@@ -314,26 +296,35 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 12955,
+      "views": 260281,
+      "rank": 5,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이강인 오지 마!\" 아틀레티코 마드리드, 결국 포기했다…\"비행 14시간 비효율적, 한국서 합류 유력\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 219105,
       "rank": 8,
       "channel": "정보주는하마"
     },
     {
-      "title": "끝내기 찬스서 나온 '3피트 라인 아웃'…김원형 감독이 분노한 이유는",
+      "title": "'韓 최초 외국 태생 혼혈' 카스트로프 악재, '日 국대' 경쟁자 깜짝 영입...\"팀에 큰 도움 확신\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 11795,
-      "rank": 9,
+      "views": 187126,
+      "rank": 10,
       "channel": "정보주는하마"
     },
     {
-      "title": "韓축구 또 한 번의 '초대형 이적'...'바이에른 뮌헨 입단' 허재원, \"키워준 제주에 보답, 뮌헨서 경쟁하는 선수 될 것\"",
+      "title": "여중생이 100m 11초…400m 계주 기록도 다시 썼다",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 9723,
-      "rank": 11,
+      "views": 126597,
+      "rank": 14,
       "channel": "정보주는하마"
     },
     {
@@ -341,19 +332,37 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 8174,
-      "rank": 13,
+      "views": 126009,
+      "rank": 15,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "메디컬 테스트 통과→사실상 ‘오피셜’ 공식발표만 남았다, ‘韓 국가대표 센터백’ 이한범 클럽 브뤼헤 이적 앞둬",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 117782,
+      "rank": 16,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"월드컵 개최 포기하겠다\" 충격 선언!…스페인·포르투갈, FIFA 민영화에 2030 WC 개최권 반납 검토 '초강수'",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 112404,
+      "rank": 17,
       "channel": "정보주는하마"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 37,
+      "article_count": 38,
       "topics": [
         {
           "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 5,
+          "article_count": 2,
           "source_article": "\"월드컵 개최 포기하겠다\" 충격 선언!…스페인·포르투갈, FIFA 민영화에 2030 WC 개최권 반납 검토 '초강수'",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -365,7 +374,7 @@
             "수와"
           ],
           "template": "스포츠 기록",
-          "score": 8.6,
+          "score": 7.6,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -417,6 +426,39 @@
           "channel": "정보주는하마"
         },
         {
+          "title": "\"연하까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 7,
+          "source_article": "\"홍명보 아들 병역 면탈 논란도 지적\"…청문회 본 日 매체 '놀란 이유'",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "연하",
+            "황정민",
+            "미모",
+            "어깨동",
+            "스킨십"
+          ],
+          "template": "논란 집합",
+          "score": 7.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
           "title": "\"스킨십, 대체 무슨 일이?\" 스킨십 관련 이슈 총정리",
           "angle_type": "👤 스킨십",
           "article_count": 3,
@@ -446,21 +488,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"연하까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 7,
-          "source_article": "\"더 많이 찾아주세요\" 김고은, 눈물의 대상…'취사병' 3관왕, 박지훈 무관 ('청룡시리즈어워즈')",
-          "source_url": "https://m.entertain.naver.com/article/312/0000770090",
-          "source_name": "엔터 많이 본 뉴스",
+          "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+          "angle_type": "가족·혈연",
+          "article_count": 3,
+          "source_article": "\"홍명보 아들 병역 면탈 논란도 지적\"…청문회 본 日 매체 '놀란 이유'",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "연하",
-            "황정민",
-            "미모",
-            "어깨동",
-            "스킨십"
+            "아들",
+            "부친상",
+            "유혜주",
+            "생후",
+            "둘째"
           ],
-          "template": "논란 집합",
-          "score": 6.5,
+          "template": "동갑내기",
+          "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -471,9 +513,9 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
+              "나이",
+              "대표작",
+              "현재 활동"
             ]
           },
           "channel": "정보주는하마"
@@ -570,39 +612,6 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 3,
-          "source_article": "'부친상' 유혜주, 생후 14일 된 둘째 아들 사진 공개",
-          "source_url": "https://m.entertain.naver.com/article/108/0003458436",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "아들",
-            "부친상",
-            "유혜주",
-            "생후",
-            "둘째"
-          ],
-          "template": "동갑내기",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
           "title": "\"미모, 대체 무슨 일이?\" 미모 관련 이슈 총정리",
           "angle_type": "👤 미모",
           "article_count": 3,
@@ -682,11 +691,11 @@
           2
         ],
         [
-          "포착",
+          "김우빈",
           2
         ],
         [
-          "김우빈",
+          "포착",
           2
         ],
         [
@@ -706,11 +715,11 @@
           2
         ],
         [
-          "입단",
+          "병역",
           2
         ],
         [
-          "병역",
+          "이강인",
           2
         ]
       ],
@@ -791,7 +800,7 @@
         ],
         [
           "스포츠",
-          5
+          2
         ],
         [
           "가족·혈연",
@@ -800,123 +809,24 @@
       ]
     },
     "초구딱": {
-      "article_count": 43,
+      "article_count": 42,
       "topics": [
-        {
-          "title": "\"이정후까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 2,
-          "source_article": "\"급여 지급 중단\" SF 결단 내렸다…이정후 위해 영입한 외야수, 스쿠터 사고에 음주 의혹까지 적발 충격",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "이정후",
-            "스쿠터",
-            "급여",
-            "지급",
-            "중단"
-          ],
-          "template": "논란 집합",
-          "score": 7.4,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"볼넷, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 2,
-          "source_article": "'한국 축구 구렁텅이 몰아넣었는데'…74세 월드컵 최고령 승리 그 감독, 남아공 떠났다→\"가족과 시간 보낼 때\" 재계약 뿌리치고 은퇴 선언",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "볼넷",
-            "축구",
-            "구렁텅",
-            "몰아넣",
-            "었는데"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 7.4,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 2,
-          "source_article": "'한국 축구 구렁텅이 몰아넣었는데'…74세 월드컵 최고령 승리 그 감독, 남아공 떠났다→\"가족과 시간 보낼 때\" 재계약 뿌리치고 은퇴 선언",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "축구",
-            "구렁텅",
-            "몰아넣",
-            "었는데",
-            "월드컵"
-          ],
-          "template": "동갑내기",
-          "score": 7.4,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
-            ]
-          },
-          "channel": "초구딱"
-        },
         {
           "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 9,
-          "source_article": "벤투 \"축구대표팀 임시 감독직 지원 안 한다\"…정식 감독 의사는 유지",
+          "article_count": 10,
+          "source_article": "\"이민성 감독, 음주 사고 후 현장 벗어난 혐의로 입건\" 이정문 의원, 청문회서 과거 뺑소니 전력 지적...\"상식적, 도의적으로 맞나\" 일침까지",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "감독",
-            "무승부",
-            "월드컵",
             "트레이",
-            "이닝"
+            "이적",
+            "이민성",
+            "음주"
           ],
           "template": "스포츠 기록",
-          "score": 7.3,
+          "score": 7.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -935,14 +845,47 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"무승부\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 무승부",
+          "title": "\"음주까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "angle_type": "논란·사건",
           "article_count": 3,
-          "source_article": "초대박 '카라스코 7이닝 퍼펙트 KBO 센세이션 데뷔!' 그런 LG 상대로 무서운 뒷심 두산 '결국 연장 11회 무승부'",
+          "source_article": "\"이민성 감독, 음주 사고 후 현장 벗어난 혐의로 입건\" 이정문 의원, 청문회서 과거 뺑소니 전력 지적...\"상식적, 도의적으로 맞나\" 일침까지",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "무승부"
+            "음주",
+            "스쿠터",
+            "이정후",
+            "이민성",
+            "감독"
+          ],
+          "template": "논란 집합",
+          "score": 7.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"트레이\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 트레이",
+          "article_count": 4,
+          "source_article": "고우석 초비상! 징계 철회·만료돼도 MLB 못 돌아가나…'통산 36세이브-122홀드' 베테랑 좌완, 트레이드로 미네소타 합류",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "트레이"
           ],
           "template": "인맥",
           "score": 6.5,
@@ -959,64 +902,6 @@
               "분류",
               "이슈 내용",
               "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"한화, 지금 어디서 뭐 하나?\" 한화 근황 총정리",
-          "angle_type": "👤 한화",
-          "article_count": 3,
-          "source_article": "'패전투수 김서현' 볼넷-볼넷-볼넷-실점-볼넷, 단기 유학 효과 아직인가…한화, SSG에 2-5 역전패",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "한화"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"강판, 지금 어디서 뭐 하나?\" 강판 근황 총정리",
-          "angle_type": "👤 강판",
-          "article_count": 3,
-          "source_article": "이러려고 하주석 광주로 보냈나…트레이드 필승맨 또 0이닝 1실점 강판, 한화 이적→ERA 32.40 어쩌나",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "강판"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
             ]
           },
           "channel": "초구딱"
@@ -1049,6 +934,64 @@
             ]
           },
           "channel": "초구딱"
+        },
+        {
+          "title": "\"완료\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 완료",
+          "article_count": 3,
+          "source_article": "[하이키] '서이, 리이나' 양양 서머 페스티벌 완료 공트",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608020117733148&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "완료"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"공트\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 공트",
+          "article_count": 3,
+          "source_article": "[하이키] '서이, 리이나' 양양 서머 페스티벌 완료 공트",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608020117733148&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "공트"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
@@ -1057,15 +1000,7 @@
           4
         ],
         [
-          "한화",
-          3
-        ],
-        [
-          "무승부",
-          3
-        ],
-        [
-          "강판",
+          "트레이드",
           3
         ],
         [
@@ -1073,7 +1008,23 @@
           3
         ],
         [
-          "이정후",
+          "완료",
+          3
+        ],
+        [
+          "공트",
+          3
+        ],
+        [
+          "음주",
+          2
+        ],
+        [
+          "의사는",
+          2
+        ],
+        [
+          "이적",
           2
         ],
         [
@@ -1081,11 +1032,15 @@
           2
         ],
         [
-          "월드컵",
+          "이정후",
           2
         ],
         [
-          "트레이드",
+          "새벽에",
+          2
+        ],
+        [
+          "알고",
           2
         ],
         [
@@ -1093,15 +1048,11 @@
           2
         ],
         [
-          "볼넷",
+          "한화",
           2
         ],
         [
-          "이닝",
-          2
-        ],
-        [
-          "두산",
+          "역사상",
           2
         ],
         [
@@ -1113,24 +1064,16 @@
           2
         ],
         [
-          "의미가",
+          "스파이더맨",
           2
         ],
         [
-          "같은데",
+          "하이키",
           2
         ],
         [
-          "정식",
-          1
-        ],
-        [
-          "유지",
-          1
-        ],
-        [
-          "임시",
-          1
+          "양양",
+          2
         ]
       ],
       "name_freq": [
@@ -1139,20 +1082,40 @@
           4
         ],
         [
-          "한화",
-          3
-        ],
-        [
-          "무승부",
-          3
-        ],
-        [
-          "강판",
-          3
+          "트레이",
+          4
         ],
         [
           "안내",
           3
+        ],
+        [
+          "완료",
+          3
+        ],
+        [
+          "공트",
+          3
+        ],
+        [
+          "음주",
+          2
+        ],
+        [
+          "의사는",
+          2
+        ],
+        [
+          "이적",
+          2
+        ],
+        [
+          "알고",
+          2
+        ],
+        [
+          "새벽에",
+          2
         ],
         [
           "이정후",
@@ -1163,54 +1126,26 @@
           2
         ],
         [
-          "월드컵",
-          2
-        ],
-        [
-          "트레이",
-          2
-        ],
-        [
           "실점",
           2
         ],
         [
-          "볼넷",
+          "한화",
           2
         ],
         [
-          "이닝",
-          2
-        ],
-        [
-          "두산",
-          2
-        ],
-        [
-          "엠팍",
-          2
-        ],
-        [
-          "워터밤",
+          "역사상",
           2
         ]
       ],
       "angle_scores": [
         [
           "논란·사건",
-          2
-        ],
-        [
-          "복귀·근황",
-          2
+          3
         ],
         [
           "스포츠",
-          9
-        ],
-        [
-          "가족·혈연",
-          2
+          10
         ]
       ]
     }
@@ -1219,7 +1154,7 @@
     {
       "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 5,
+      "article_count": 2,
       "source_article": "\"월드컵 개최 포기하겠다\" 충격 선언!…스페인·포르투갈, FIFA 민영화에 2030 WC 개최권 반납 검토 '초강수'",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -1231,7 +1166,7 @@
         "수와"
       ],
       "template": "스포츠 기록",
-      "score": 8.6,
+      "score": 7.6,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1283,6 +1218,39 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"연하까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 7,
+      "source_article": "\"홍명보 아들 병역 면탈 논란도 지적\"…청문회 본 日 매체 '놀란 이유'",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "연하",
+        "황정민",
+        "미모",
+        "어깨동",
+        "스킨십"
+      ],
+      "template": "논란 집합",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"스킨십, 대체 무슨 일이?\" 스킨십 관련 이슈 총정리",
       "angle_type": "👤 스킨십",
       "article_count": 3,
@@ -1312,21 +1280,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"연하까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 7,
-      "source_article": "\"더 많이 찾아주세요\" 김고은, 눈물의 대상…'취사병' 3관왕, 박지훈 무관 ('청룡시리즈어워즈')",
-      "source_url": "https://m.entertain.naver.com/article/312/0000770090",
-      "source_name": "엔터 많이 본 뉴스",
+      "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 3,
+      "source_article": "\"홍명보 아들 병역 면탈 논란도 지적\"…청문회 본 日 매체 '놀란 이유'",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "연하",
-        "황정민",
-        "미모",
-        "어깨동",
-        "스킨십"
+        "아들",
+        "부친상",
+        "유혜주",
+        "생후",
+        "둘째"
       ],
-      "template": "논란 집합",
-      "score": 6.5,
+      "template": "동갑내기",
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1337,9 +1305,9 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
+          "나이",
+          "대표작",
+          "현재 활동"
         ]
       },
       "channel": "정보주는하마"
@@ -1431,39 +1399,6 @@
           "소속·직업",
           "논란 내용",
           "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 3,
-      "source_article": "'부친상' 유혜주, 생후 14일 된 둘째 아들 사진 공개",
-      "source_url": "https://m.entertain.naver.com/article/108/0003458436",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "아들",
-        "부친상",
-        "유혜주",
-        "생후",
-        "둘째"
-      ],
-      "template": "동갑내기",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
         ]
       },
       "channel": "정보주는하마"
@@ -1502,7 +1437,7 @@
     {
       "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 5,
+      "article_count": 2,
       "source_article": "\"월드컵 개최 포기하겠다\" 충격 선언!…스페인·포르투갈, FIFA 민영화에 2030 WC 개최권 반납 검토 '초강수'",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -1514,7 +1449,7 @@
         "수와"
       ],
       "template": "스포츠 기록",
-      "score": 8.6,
+      "score": 7.6,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1566,6 +1501,39 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"연하까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 7,
+      "source_article": "\"홍명보 아들 병역 면탈 논란도 지적\"…청문회 본 日 매체 '놀란 이유'",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "연하",
+        "황정민",
+        "미모",
+        "어깨동",
+        "스킨십"
+      ],
+      "template": "논란 집합",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"스킨십, 대체 무슨 일이?\" 스킨십 관련 이슈 총정리",
       "angle_type": "👤 스킨십",
       "article_count": 3,
@@ -1595,21 +1563,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"연하까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 7,
-      "source_article": "\"더 많이 찾아주세요\" 김고은, 눈물의 대상…'취사병' 3관왕, 박지훈 무관 ('청룡시리즈어워즈')",
-      "source_url": "https://m.entertain.naver.com/article/312/0000770090",
-      "source_name": "엔터 많이 본 뉴스",
+      "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 3,
+      "source_article": "\"홍명보 아들 병역 면탈 논란도 지적\"…청문회 본 日 매체 '놀란 이유'",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "연하",
-        "황정민",
-        "미모",
-        "어깨동",
-        "스킨십"
+        "아들",
+        "부친상",
+        "유혜주",
+        "생후",
+        "둘째"
       ],
-      "template": "논란 집합",
-      "score": 6.5,
+      "template": "동갑내기",
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1620,9 +1588,9 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
+          "나이",
+          "대표작",
+          "현재 활동"
         ]
       },
       "channel": "정보주는하마"
@@ -1719,39 +1687,6 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 3,
-      "source_article": "'부친상' 유혜주, 생후 14일 된 둘째 아들 사진 공개",
-      "source_url": "https://m.entertain.naver.com/article/108/0003458436",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "아들",
-        "부친상",
-        "유혜주",
-        "생후",
-        "둘째"
-      ],
-      "template": "동갑내기",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"미모, 대체 무슨 일이?\" 미모 관련 이슈 총정리",
       "angle_type": "👤 미모",
       "article_count": 3,
@@ -1781,120 +1716,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이정후까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 2,
-      "source_article": "\"급여 지급 중단\" SF 결단 내렸다…이정후 위해 영입한 외야수, 스쿠터 사고에 음주 의혹까지 적발 충격",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "이정후",
-        "스쿠터",
-        "급여",
-        "지급",
-        "중단"
-      ],
-      "template": "논란 집합",
-      "score": 7.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"볼넷, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 2,
-      "source_article": "'한국 축구 구렁텅이 몰아넣었는데'…74세 월드컵 최고령 승리 그 감독, 남아공 떠났다→\"가족과 시간 보낼 때\" 재계약 뿌리치고 은퇴 선언",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "볼넷",
-        "축구",
-        "구렁텅",
-        "몰아넣",
-        "었는데"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 7.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 2,
-      "source_article": "'한국 축구 구렁텅이 몰아넣었는데'…74세 월드컵 최고령 승리 그 감독, 남아공 떠났다→\"가족과 시간 보낼 때\" 재계약 뿌리치고 은퇴 선언",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "축구",
-        "구렁텅",
-        "몰아넣",
-        "었는데",
-        "월드컵"
-      ],
-      "template": "동갑내기",
-      "score": 7.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 9,
-      "source_article": "벤투 \"축구대표팀 임시 감독직 지원 안 한다\"…정식 감독 의사는 유지",
+      "article_count": 10,
+      "source_article": "\"이민성 감독, 음주 사고 후 현장 벗어난 혐의로 입건\" 이정문 의원, 청문회서 과거 뺑소니 전력 지적...\"상식적, 도의적으로 맞나\" 일침까지",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "감독",
-        "무승부",
-        "월드컵",
         "트레이",
-        "이닝"
+        "이적",
+        "이민성",
+        "음주"
       ],
       "template": "스포츠 기록",
-      "score": 7.3,
+      "score": 7.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1913,14 +1749,47 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"무승부\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 무승부",
+      "title": "\"음주까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
       "article_count": 3,
-      "source_article": "초대박 '카라스코 7이닝 퍼펙트 KBO 센세이션 데뷔!' 그런 LG 상대로 무서운 뒷심 두산 '결국 연장 11회 무승부'",
+      "source_article": "\"이민성 감독, 음주 사고 후 현장 벗어난 혐의로 입건\" 이정문 의원, 청문회서 과거 뺑소니 전력 지적...\"상식적, 도의적으로 맞나\" 일침까지",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "무승부"
+        "음주",
+        "스쿠터",
+        "이정후",
+        "이민성",
+        "감독"
+      ],
+      "template": "논란 집합",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"트레이\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 트레이",
+      "article_count": 4,
+      "source_article": "고우석 초비상! 징계 철회·만료돼도 MLB 못 돌아가나…'통산 36세이브-122홀드' 베테랑 좌완, 트레이드로 미네소타 합류",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "트레이"
       ],
       "template": "인맥",
       "score": 6.5,
@@ -1942,64 +1811,6 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"한화, 지금 어디서 뭐 하나?\" 한화 근황 총정리",
-      "angle_type": "👤 한화",
-      "article_count": 3,
-      "source_article": "'패전투수 김서현' 볼넷-볼넷-볼넷-실점-볼넷, 단기 유학 효과 아직인가…한화, SSG에 2-5 역전패",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "한화"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"강판, 지금 어디서 뭐 하나?\" 강판 근황 총정리",
-      "angle_type": "👤 강판",
-      "article_count": 3,
-      "source_article": "이러려고 하주석 광주로 보냈나…트레이드 필승맨 또 0이닝 1실점 강판, 한화 이적→ERA 32.40 어쩌나",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "강판"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
       "title": "\"안내\" 관련 화제 스타 TOP10",
       "angle_type": "👤 안내",
       "article_count": 3,
@@ -2008,6 +1819,64 @@
       "source_name": "MLB파크 불펜",
       "related_names": [
         "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"완료\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 완료",
+      "article_count": 3,
+      "source_article": "[하이키] '서이, 리이나' 양양 서머 페스티벌 완료 공트",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608020117733148&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "완료"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"공트\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 공트",
+      "article_count": 3,
+      "source_article": "[하이키] '서이, 리이나' 양양 서머 페스티벌 완료 공트",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608020117733148&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "공트"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -2079,11 +1948,11 @@
       2
     ],
     [
-      "포착",
+      "김우빈",
       2
     ],
     [
-      "김우빈",
+      "포착",
       2
     ],
     [
@@ -2103,11 +1972,11 @@
       2
     ],
     [
-      "입단",
+      "병역",
       2
     ],
     [
-      "병역",
+      "이강인",
       2
     ]
   ],
@@ -2173,7 +2042,7 @@
       2
     ]
   ],
-  "total_topics_generated": 17,
-  "valid_topics": 17,
+  "total_topics_generated": 15,
+  "valid_topics": 15,
   "excluded_duplicates": 0
 }
