@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-02 10:22:25",
+  "scan_time": "2026-08-02 14:21:00",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -13,66 +13,39 @@
   "total_articles": 80,
   "articles": [
     {
+      "title": "'韓 축구 대반전' 정몽규 회장, 홍명보 감독 선임 반대 \"돌고 돌아 홍명보냐\" 큰 언성까지 오갔다 '충격'",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 21225,
+      "rank": 2,
+      "channel": "초구딱"
+    },
+    {
       "title": "'하주석 왜 줬나?' 한화 팬들 뿔났다...KIA서 데려온 이형범 2군행",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 25188,
-      "rank": 4,
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"진짜예요?\" 야마모토도 깜짝 놀랐다! 인터뷰 도중 '초대형 트레이드' 소식 접해…\"정말 놀랐다\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 14866,
+      "views": 12456,
       "rank": 7,
       "channel": "초구딱"
     },
     {
-      "title": "깜짝 반전! 홍명보 후임, '역대급 네임드' 사령탑 등판하나...'이강인 은사' 아기레 감독, \"대한축구협회 움직임 지켜보고 있어\"",
+      "title": "\"에어컨 밑에 앉아서 핸드폰만 보고… 나와서 1시간 서 있어봐!\" 살인적 더위에 경기 강행, 김태형 감독 제대로 뿔났다",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 10798,
+      "views": 9690,
       "rank": 8,
       "channel": "초구딱"
     },
     {
-      "title": "\"이임생, 사람 자체가 심장이 작아\"...이천수, 소신 발언 감독 선임 기자회견? \"그걸 왜 얘기했는지 미스테리로 남아 있어\"",
+      "title": "“지금 투수들 (옛날과)다릅니다…못 쳤다고 뭐라고 하지 마십시오” KBO 통산 AVG 6위 강타자가 부탁했다, 호부지도 OK",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 10169,
-      "rank": 10,
-      "channel": "초구딱"
-    },
-    {
-      "title": "‘한화 울고 싶어라’ 13억 포기→6억 더 질렀는데 7실점 대참사+삼중살 굴욕…가을야구+5할 승률 다 멀어진다",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 8017,
-      "rank": 12,
-      "channel": "초구딱"
-    },
-    {
-      "title": "폭염에 발 묶인 삼성, 앉아서 당했다..연승 후유증도 없는 마법의 필살기, ML 112승 퍼펙트 데뷔전도 부담",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 6720,
-      "rank": 15,
-      "channel": "초구딱"
-    },
-    {
-      "title": "'아뿔싸' 이정후 방심했나, 올해 처음 당했다! 421일 만에 견제사 굴욕→5타수 1안타 침묵...끝내 3할 타율도 붕괴",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 6591,
-      "rank": 16,
+      "views": 9375,
+      "rank": 9,
       "channel": "초구딱"
     },
     {
@@ -80,8 +53,35 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 6486,
-      "rank": 17,
+      "views": 7614,
+      "rank": 11,
+      "channel": "초구딱"
+    },
+    {
+      "title": "깜짝 반전! 홍명보 후임, '역대급 네임드' 사령탑 등판하나...'이강인 은사' 아기레 감독, \"대한축구협회 움직임 지켜보고 있어\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 7574,
+      "rank": 12,
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"이임생, 사람 자체가 심장이 작아\"...이천수, 소신 발언 감독 선임 기자회견? \"그걸 왜 얘기했는지 미스테리로 남아 있어\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 7200,
+      "rank": 13,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'땀이 비오듯 쏟아지는데' 롯데-삼성 폭염시리즈 마침내 끝, 마지막 날 승자는 롯데!…전민재 3안타 4타점 맹폭격→비슬리 4연승",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 7193,
+      "rank": 14,
       "channel": "초구딱"
     },
     {
@@ -89,8 +89,8 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 6245,
-      "rank": 19,
+      "views": 5488,
+      "rank": 18,
       "channel": "초구딱"
     },
     {
@@ -148,8 +148,8 @@
       "channel": "초구딱"
     },
     {
-      "title": "낚시터에서 먹는 회",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117747125&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "트와이스의 최고명곡은 뭘까요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117757235&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
       "views": 0,
@@ -157,209 +157,209 @@
       "channel": "초구딱"
     },
     {
-      "title": "여러분들은 은행권 인사팀이라면 누굴 채용할것인가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117747080&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "ocn 타짜 제목 근황",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117757226&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 13,
+      "views": 26,
       "rank": 8,
       "channel": "초구딱"
     },
     {
-      "title": "하이닉스 차트 보면 단타쟁이 좋와하는 추세선 차트네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117747077&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "이제 3위도 보인다....'박찬호 2타점 결승타+벤자민 QS' 두산, LG 꺾고 2경기 차 추격 [잠실 리뷰]",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117757223&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 16,
+      "views": 15,
       "rank": 9,
       "channel": "초구딱"
     },
     {
-      "title": "이동진 평론가는 왜 긁힌거죠?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117747053&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "잠실 두산의 권은비!",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117757220&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 54,
+      "views": 37,
       "rank": 10,
       "channel": "초구딱"
     },
     {
-      "title": "니하오는 인종차별일까요 아닐까요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117746987&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "곽철용 묻고떠블로갈라면 왜 3천이 필요한거죠???.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117757217&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 21,
+      "views": 45,
       "rank": 11,
       "channel": "초구딱"
     },
     {
-      "title": "여농) 퓨처스 리그도 관중 꽤 많네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117746921&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "지구온난화로 인해 대한민국 gdp가 동남아 처럼 될수도 있나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117757214&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 40,
+      "views": 19,
       "rank": 12,
       "channel": "초구딱"
     },
     {
-      "title": "양산때문에 대구 더위부심 꺽였네여",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117746915&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "아우디A6 프로모션 보통 얼마나 붙나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117757211&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 86,
+      "views": 35,
       "rank": 13,
       "channel": "초구딱"
     },
     {
-      "title": "한국에 노처녀들 넘쳐나는 이유",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117746912&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "[KARD] 'Back To Life' 퍼포먼스 Video",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117757205&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 150,
+      "views": 13,
       "rank": 14,
       "channel": "초구딱"
     },
     {
-      "title": "각서 쓰고 맞다이 뜨면",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117746903&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "[식품][5,420원]삼양라면 10개",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117757202&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 126,
+      "views": 16,
       "rank": 15,
       "channel": "초구딱"
     },
     {
-      "title": "ISA 오늘 개설한 초짜 질문 드립니다.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117746882&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "이 사진만 봐도 행군의 어려움이 느껴집니다.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117757190&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 96,
+      "views": 188,
       "rank": 16,
       "channel": "초구딱"
     },
     {
-      "title": "결혼의 완성이 김부장 보다 더 재밌네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117746846&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "국가 존망의 전쟁을 네번이나 겪었던 1580여년생",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117757169&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 119,
+      "views": 107,
       "rank": 17,
       "channel": "초구딱"
     },
     {
-      "title": "어제 노래방에서 베트남 도우미 불러서 놀았는데",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117746810&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "kt는 화요일에 이 로스터로 키움한테 대떡패",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117757157&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 547,
+      "views": 78,
       "rank": 18,
       "channel": "초구딱"
     },
     {
-      "title": "1인 샤브샤브",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117746807&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "젠지는 올해 롤드컵 못갑니다 설명해드림",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117757145&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 115,
+      "views": 49,
       "rank": 19,
       "channel": "초구딱"
     },
     {
-      "title": "이 날씨에 러닝하시는 분들 대단하네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117746687&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "[식품][14,800원]신라면 10입 + 너구리 5입 + 짜파게티 5입 (총 20봉)",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117757139&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 103,
+      "views": 61,
       "rank": 20,
       "channel": "초구딱"
     },
     {
-      "title": "부캐놀이의 원조..",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117746672&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "도란 오너 vs 카나비 vs 룰러",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117757136&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 171,
+      "views": 52,
       "rank": 21,
       "channel": "초구딱"
     },
     {
-      "title": "불멸의 이순신에서 기억나는 장면",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117746606&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "한국드라마 재밌게본거 목록",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117757130&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 40,
+      "views": 73,
       "rank": 22,
       "channel": "초구딱"
     },
     {
-      "title": "근데 김부장이 친구들보다 쎈건가여?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117746603&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "음주차량에 92세 노인 사망",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117757124&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 143,
+      "views": 353,
       "rank": 23,
       "channel": "초구딱"
     },
     {
-      "title": "호프8회차 다 따라잡혔네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117746579&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "더울땐 I Love the Smell of Napalm in the Morning",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117757121&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 142,
+      "views": 31,
       "rank": 24,
       "channel": "초구딱"
     },
     {
-      "title": "유부남분들 결혼 직전에 다른 여자들 꿈 꾸신 적 있나요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117746531&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "[아이브] IVE OFF 리즈와 뿌셔뿌셔 왁뿌볼 만들기...MP4",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117757118&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 57,
+      "views": 31,
       "rank": 25,
       "channel": "초구딱"
     },
     {
-      "title": "남자의 분리수거 특징.jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117746519&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "김민니 x 미우미우 엘르 화보 인스타 업데이트 ㄷㄷㄷ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117757115&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 515,
+      "views": 54,
       "rank": 26,
       "channel": "초구딱"
     },
     {
-      "title": "그래도 이번 더위덕에 양산시 이름은 제대로 알리긴 했네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117746447&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "조선이 일본한테 지배당한 이유 jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117757109&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 95,
+      "views": 316,
       "rank": 27,
       "channel": "초구딱"
     },
     {
-      "title": "윤지호센터장은 지금은 매수할 때라고 하네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117746423&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "승무패 결과",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117757106&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 346,
+      "views": 97,
       "rank": 28,
       "channel": "초구딱"
     },
     {
-      "title": "삼성 용병 망한듯",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117746345&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "호프 봤습니다.(볼지말지 망설이는분들 광클)",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117757103&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 611,
+      "views": 242,
       "rank": 29,
       "channel": "초구딱"
     },
     {
-      "title": "세계태마기행도 매번 똑같지 않나요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117746327&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "오늘의 OCN 멘트",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117757100&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 195,
+      "views": 238,
       "rank": 30,
       "channel": "초구딱"
     }
@@ -369,21 +369,21 @@
       "article_count": 41,
       "topics": [
         {
-          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 5,
-          "source_article": "'모친상' 고경표, 가족사 고백…\"어머니 투병 후 삶의 태도 바뀌어\" (놀러코스터)",
-          "source_url": "https://m.entertain.naver.com/article/311/0002040823",
-          "source_name": "엔터 많이 본 뉴스",
+          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 2,
+          "source_article": "이강인+살라 미친 조합 현실화! AT 마드리드 2+1년 계약 제시…베식타시 고액 연봉에 영입 포기 '호재'",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "모친상",
-            "고경표",
-            "가족사",
-            "고백",
-            "어머니"
+            "사망설",
+            "돌았던",
+            "공형진",
+            "명품시",
+            "억원치"
           ],
-          "template": "동갑내기",
-          "score": 7.1,
+          "template": "자산 서열",
+          "score": 6.9,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -394,56 +394,23 @@
           "table": {
             "headers": [
               "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"정준원까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 6,
-          "source_article": "'마약 논란' 한서희, ♥외국인 남친 최초 공개..'훈남 모델'과 달달 투샷",
-          "source_url": "https://m.entertain.naver.com/article/076/0004432040",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "정준원",
-            "무성의",
-            "놀뭐",
-            "태도",
-            "마약"
-          ],
-          "template": "논란 집합",
-          "score": 7.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "title": "\"자체 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
           "angle_type": "결혼·이혼",
-          "article_count": 7,
+          "article_count": 9,
           "source_article": "‘45세’ 조여정, 김재철과 결혼사진 공개…웨딩드레스 입고 볼키스까지(지금 불륜)",
           "source_url": "https://m.entertain.naver.com/article/410/0001134867",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "결혼",
             "자체",
+            "이혼",
             "조여정",
             "김재철",
             "결혼사"
@@ -468,20 +435,78 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
-          "angle_type": "스포츠",
+          "title": "\"아형, 지금 어디서 뭐 하나?\" 아형 근황 총정리",
+          "angle_type": "👤 아형",
           "article_count": 4,
-          "source_article": "'이윤지♥' 치과의사 남편, 안타까운 근황 \"고장난 정선비\" 무슨 일?",
-          "source_url": "https://m.entertain.naver.com/article/076/0004432084",
+          "source_article": "김희철, 솔직한 수입 고백..\"슈퍼주니어보다 '아형' 할때 더 많이 벌어\"('에겐남 스윙스')",
+          "source_url": "https://m.entertain.naver.com/article/109/0005582400",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "이윤지",
-            "치과의",
-            "남편",
-            "안타까",
-            "근황"
+            "아형"
           ],
-          "template": "스포츠 기록",
+          "template": "장기 공백 복귀",
+          "score": 6.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"고백 결혼설?\" 고백 연애사 총정리",
+          "angle_type": "👤 고백",
+          "article_count": 3,
+          "source_article": "김희철, 솔직한 수입 고백..\"슈퍼주니어보다 '아형' 할때 더 많이 벌어\"('에겐남 스윙스')",
+          "source_url": "https://m.entertain.naver.com/article/109/0005582400",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "고백"
+          ],
+          "template": "결혼 화제",
+          "score": 6.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+          "angle_type": "가족·혈연",
+          "article_count": 4,
+          "source_article": "'모친상' 고경표, 가족사 고백…\"어머니 투병 후 삶의 태도 바뀌어\" (놀러코스터)",
+          "source_url": "https://m.entertain.naver.com/article/311/0002040823",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "모친상",
+            "고경표",
+            "가족사",
+            "고백",
+            "어머니"
+          ],
+          "template": "동갑내기",
           "score": 6.6,
           "dup_check": {
             "is_duplicate": false,
@@ -492,23 +517,27 @@
           },
           "table": {
             "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
+              "이름",
+              "나이",
+              "대표작",
+              "현재 활동"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"무성의, 대체 무슨 일이?\" 무성의 관련 이슈 총정리",
-          "angle_type": "👤 무성의",
-          "article_count": 3,
-          "source_article": "대선배 공효진도 하는데…정준원 ‘놀뭐’ 무성의 태도 논란 “내향인”vs“속 터져”",
-          "source_url": "https://m.entertain.naver.com/article/609/0001152744",
+          "title": "\"김빈우까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 4,
+          "source_article": "김빈우, ‘운전 중 논란’ 두 달 만 한국 떠난다…“쉽지 않은 결정”",
+          "source_url": "https://m.entertain.naver.com/article/241/0003523131",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "무성의"
+            "김빈우",
+            "운전",
+            "떠난다",
+            "쉽지",
+            "않은"
           ],
           "template": "논란 집합",
           "score": 6.5,
@@ -530,20 +559,82 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
+          "title": "\"김희철\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 김희철",
           "article_count": 3,
-          "source_article": "'장기하♥' 윤가이, 여름 홋카이도 여행 인증…더 예뻐진 근황",
-          "source_url": "https://m.entertain.naver.com/article/421/0009091928",
+          "source_article": "김희철, 솔직한 수입 고백..\"슈퍼주니어보다 '아형' 할때 더 많이 벌어\"('에겐남 스윙스')",
+          "source_url": "https://m.entertain.naver.com/article/109/0005582400",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "근황",
-            "장기하",
-            "윤가이",
-            "여름",
-            "홋카이"
+            "김희철"
           ],
-          "template": "장기 공백 복귀",
+          "template": "인맥",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 4,
+          "source_article": "'박지성이 던진 화두' \"K리그는 너무 느리다\"  K리그가 유럽에서 외면받는 진짜 이유",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "박지성",
+            "던진",
+            "화두",
+            "리그는",
+            "너무"
+          ],
+          "template": "스포츠 기록",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+          "angle_type": "투병·건강",
+          "article_count": 3,
+          "source_article": "'모친상' 고경표, 가족사 고백…\"어머니 투병 후 삶의 태도 바뀌어\" (놀러코스터)",
+          "source_url": "https://m.entertain.naver.com/article/311/0002040823",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "판정",
+            "모친상",
+            "고경표",
+            "가족사",
+            "고백"
+          ],
+          "template": "투병 극복",
           "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
@@ -555,22 +646,22 @@
           "table": {
             "headers": [
               "이름",
-              "공백 기간",
-              "공백 사유",
+              "투병 질환",
+              "공백기",
               "복귀 작품"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"고백\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 고백",
+          "title": "\"김고은\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 김고은",
           "article_count": 3,
-          "source_article": "'모친상' 고경표, 가족사 고백…\"어머니 투병 후 삶의 태도 바뀌어\" (놀러코스터)",
-          "source_url": "https://m.entertain.naver.com/article/311/0002040823",
+          "source_article": "“대상이 뭐야?” 김고은 조카, 고모 수상에 두 팔 번쩍…온 가족 환호",
+          "source_url": "https://m.entertain.naver.com/article/410/0001134869",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "고백"
+            "김고은"
           ],
           "template": "인맥",
           "score": 6.3,
@@ -592,17 +683,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"태도, 대체 무슨 일이?\" 태도 관련 이슈 총정리",
-          "angle_type": "👤 태도",
+          "title": "\"이상이\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 이상이",
           "article_count": 3,
-          "source_article": "'모친상' 고경표, 가족사 고백…\"어머니 투병 후 삶의 태도 바뀌어\" (놀러코스터)",
-          "source_url": "https://m.entertain.naver.com/article/311/0002040823",
+          "source_article": "배우 이상이, 사별한 故 박동빈 향한 그리움 \"보고 싶어 사랑해\"",
+          "source_url": "https://m.entertain.naver.com/article/079/0004174569",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "태도"
+            "이상이"
           ],
-          "template": "논란 집합",
-          "score": 6.3,
+          "template": "인맥",
+          "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -613,42 +704,9 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
+              "분류",
+              "이슈 내용",
               "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-          "angle_type": "투병·건강",
-          "article_count": 2,
-          "source_article": "'모친상' 고경표, 가족사 고백…\"어머니 투병 후 삶의 태도 바뀌어\" (놀러코스터)",
-          "source_url": "https://m.entertain.naver.com/article/311/0002040823",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "고백",
-            "모친상",
-            "고경표",
-            "가족사",
-            "어머니"
-          ],
-          "template": "투병 극복",
-          "score": 5.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "투병 질환",
-              "공백기",
-              "복귀 작품"
             ]
           },
           "channel": "정보주는하마"
@@ -656,11 +714,11 @@
       ],
       "keyword_freq": [
         [
-          "정준원",
+          "아형",
           4
         ],
         [
-          "근황",
+          "김희철",
           3
         ],
         [
@@ -668,43 +726,23 @@
           3
         ],
         [
-          "태도",
+          "김고은",
           3
-        ],
-        [
-          "무성의",
-          3
-        ],
-        [
-          "이상이",
-          2
-        ],
-        [
-          "박동빈",
-          2
-        ],
-        [
-          "여행",
-          2
-        ],
-        [
-          "남편",
-          2
-        ],
-        [
-          "아형",
-          2
         ],
         [
           "맞아",
           2
         ],
         [
-          "많이",
+          "배우",
           2
         ],
         [
-          "결혼",
+          "이상이",
+          2
+        ],
+        [
+          "보고",
           2
         ],
         [
@@ -712,37 +750,57 @@
           2
         ],
         [
-          "뼈말라",
+          "김빈우",
           2
         ],
         [
-          "김부장",
+          "자체",
           2
         ],
         [
-          "이민",
+          "진짜",
           2
         ],
         [
-          "김고은",
+          "성시경",
           2
         ],
         [
-          "아내",
+          "미우새",
           2
         ],
         [
-          "만의",
+          "완벽",
           2
+        ],
+        [
+          "소환",
+          2
+        ],
+        [
+          "이혼",
+          2
+        ],
+        [
+          "전북",
+          2
+        ],
+        [
+          "결혼사진",
+          1
+        ],
+        [
+          "웨딩드레스",
+          1
         ]
       ],
       "name_freq": [
         [
-          "정준원",
+          "아형",
           4
         ],
         [
-          "근황",
+          "김희철",
           3
         ],
         [
@@ -750,43 +808,27 @@
           3
         ],
         [
-          "태도",
-          3
-        ],
-        [
-          "무성의",
-          3
-        ],
-        [
           "이상이",
-          2
+          3
         ],
         [
-          "박동빈",
-          2
-        ],
-        [
-          "여행",
-          2
-        ],
-        [
-          "남편",
-          2
-        ],
-        [
-          "아형",
-          2
+          "김고은",
+          3
         ],
         [
           "맞아",
           2
         ],
         [
-          "많이",
+          "배우",
           2
         ],
         [
-          "결혼",
+          "보고",
+          2
+        ],
+        [
+          "강호동",
           2
         ],
         [
@@ -794,26 +836,42 @@
           2
         ],
         [
-          "뼈말라",
+          "김빈우",
+          2
+        ],
+        [
+          "자체",
+          2
+        ],
+        [
+          "진짜",
+          2
+        ],
+        [
+          "조현아",
+          2
+        ],
+        [
+          "성시경",
           2
         ]
       ],
       "angle_scores": [
         [
+          "자산·몸값",
+          2
+        ],
+        [
           "논란·사건",
-          6
+          4
         ],
         [
           "결혼·이혼",
-          7
-        ],
-        [
-          "복귀·근황",
-          3
+          9
         ],
         [
           "투병·건강",
-          2
+          3
         ],
         [
           "스포츠",
@@ -821,7 +879,7 @@
         ],
         [
           "가족·혈연",
-          5
+          4
         ]
       ]
     },
@@ -829,21 +887,21 @@
       "article_count": 39,
       "topics": [
         {
-          "title": "\"깜짝, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 6,
-          "source_article": "\"진짜예요?\" 야마모토도 깜짝 놀랐다! 인터뷰 도중 '초대형 트레이드' 소식 접해…\"정말 놀랐다\"",
+          "article_count": 8,
+          "source_article": "'韓 축구 대반전' 정몽규 회장, 홍명보 감독 선임 반대 \"돌고 돌아 홍명보냐\" 큰 언성까지 오갔다 '충격'",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "깜짝",
-            "놀랐다",
-            "역대급",
             "감독",
-            "있어"
+            "홍명보",
+            "선임",
+            "는데",
+            "역대급"
           ],
           "template": "스포츠 기록",
-          "score": 6.8,
+          "score": 8.1,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -889,56 +947,31 @@
             ]
           },
           "channel": "초구딱"
-        },
-        {
-          "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
-          "angle_type": "결혼·이혼",
-          "article_count": 2,
-          "source_article": "결혼의 완성이 김부장 보다 더 재밌네요",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608020117746846&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "결혼의",
-            "완성이",
-            "김부장",
-            "재밌네",
-            "유부남"
-          ],
-          "template": "결혼 화제",
-          "score": 5.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "재활용 가능",
-            "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
-            "matched_views": 720727,
-            "reason": "검증됨 720,727회 · 113일 경과"
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
+        [
+          "감독",
+          4
+        ],
         [
           "안내",
           3
         ],
         [
-          "한화",
+          "홍명보",
           2
         ],
         [
-          "깜짝",
+          "선임",
           2
         ],
         [
-          "있어",
+          "뿔났다",
+          2
+        ],
+        [
+          "경기",
           2
         ],
         [
@@ -946,23 +979,15 @@
           2
         ],
         [
-          "감독",
+          "있어",
           2
         ],
         [
-          "굴욕",
+          "타점",
           2
         ],
         [
-          "당했다",
-          2
-        ],
-        [
-          "폭염에",
-          2
-        ],
-        [
-          "엠팍",
+          "업데이트",
           2
         ],
         [
@@ -970,53 +995,69 @@
           2
         ],
         [
-          "뿔났다",
+          "엠팍",
+          2
+        ],
+        [
+          "잠실",
+          2
+        ],
+        [
+          "식품",
+          2
+        ],
+        [
+          "반대",
           1
         ],
         [
-          "이형범",
+          "정몽규",
           1
         ],
         [
-          "데려온",
+          "돌고",
           1
         ],
         [
-          "하주석",
+          "돌아",
           1
         ],
         [
-          "줬나",
+          "오갔다",
           1
         ],
         [
-          "군행",
-          1
-        ],
-        [
-          "팬들",
-          1
-        ],
-        [
-          "도중",
-          1
-        ],
-        [
-          "접해",
+          "회장",
           1
         ]
       ],
       "name_freq": [
         [
+          "감독",
+          4
+        ],
+        [
           "안내",
           3
         ],
         [
-          "한화",
+          "선임",
           2
         ],
         [
-          "깜짝",
+          "홍명보",
+          2
+        ],
+        [
+          "뿔났다",
+          2
+        ],
+        [
+          "경기",
+          2
+        ],
+        [
+          "는데",
           2
         ],
         [
@@ -1028,23 +1069,11 @@
           2
         ],
         [
-          "감독",
+          "타점",
           2
         ],
         [
-          "굴욕",
-          2
-        ],
-        [
-          "퍼펙트",
-          2
-        ],
-        [
-          "폭염에",
-          2
-        ],
-        [
-          "엠팍",
+          "업데이",
           2
         ],
         [
@@ -1052,43 +1081,43 @@
           2
         ],
         [
-          "김부장",
+          "엠팍",
           2
         ],
         [
-          "분들",
+          "잠실",
+          2
+        ],
+        [
+          "식품",
           2
         ]
       ],
       "angle_scores": [
         [
-          "결혼·이혼",
-          2
-        ],
-        [
           "스포츠",
-          6
+          8
         ]
       ]
     }
   },
   "topics": [
     {
-      "title": "\"깜짝, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 6,
-      "source_article": "\"진짜예요?\" 야마모토도 깜짝 놀랐다! 인터뷰 도중 '초대형 트레이드' 소식 접해…\"정말 놀랐다\"",
+      "article_count": 8,
+      "source_article": "'韓 축구 대반전' 정몽규 회장, 홍명보 감독 선임 반대 \"돌고 돌아 홍명보냐\" 큰 언성까지 오갔다 '충격'",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "깜짝",
-        "놀랐다",
-        "역대급",
         "감독",
-        "있어"
+        "홍명보",
+        "선임",
+        "는데",
+        "역대급"
       ],
       "template": "스포츠 기록",
-      "score": 6.8,
+      "score": 8.1,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1134,58 +1163,25 @@
         ]
       },
       "channel": "초구딱"
-    },
-    {
-      "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 2,
-      "source_article": "결혼의 완성이 김부장 보다 더 재밌네요",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608020117746846&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "결혼의",
-        "완성이",
-        "김부장",
-        "재밌네",
-        "유부남"
-      ],
-      "template": "결혼 화제",
-      "score": 5.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "재활용 가능",
-        "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
-        "matched_views": 720727,
-        "reason": "검증됨 720,727회 · 113일 경과"
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "초구딱"
     }
   ],
   "all_topics": [
     {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 5,
-      "source_article": "'모친상' 고경표, 가족사 고백…\"어머니 투병 후 삶의 태도 바뀌어\" (놀러코스터)",
-      "source_url": "https://m.entertain.naver.com/article/311/0002040823",
-      "source_name": "엔터 많이 본 뉴스",
+      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 2,
+      "source_article": "이강인+살라 미친 조합 현실화! AT 마드리드 2+1년 계약 제시…베식타시 고액 연봉에 영입 포기 '호재'",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "모친상",
-        "고경표",
-        "가족사",
-        "고백",
-        "어머니"
+        "사망설",
+        "돌았던",
+        "공형진",
+        "명품시",
+        "억원치"
       ],
-      "template": "동갑내기",
-      "score": 7.1,
+      "template": "자산 서열",
+      "score": 6.9,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1196,56 +1192,23 @@
       "table": {
         "headers": [
           "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"정준원까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 6,
-      "source_article": "'마약 논란' 한서희, ♥외국인 남친 최초 공개..'훈남 모델'과 달달 투샷",
-      "source_url": "https://m.entertain.naver.com/article/076/0004432040",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "정준원",
-        "무성의",
-        "놀뭐",
-        "태도",
-        "마약"
-      ],
-      "template": "논란 집합",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "title": "\"자체 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
       "angle_type": "결혼·이혼",
-      "article_count": 7,
+      "article_count": 9,
       "source_article": "‘45세’ 조여정, 김재철과 결혼사진 공개…웨딩드레스 입고 볼키스까지(지금 불륜)",
       "source_url": "https://m.entertain.naver.com/article/410/0001134867",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "결혼",
         "자체",
+        "이혼",
         "조여정",
         "김재철",
         "결혼사"
@@ -1270,20 +1233,78 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
-      "angle_type": "스포츠",
+      "title": "\"아형, 지금 어디서 뭐 하나?\" 아형 근황 총정리",
+      "angle_type": "👤 아형",
       "article_count": 4,
-      "source_article": "'이윤지♥' 치과의사 남편, 안타까운 근황 \"고장난 정선비\" 무슨 일?",
-      "source_url": "https://m.entertain.naver.com/article/076/0004432084",
+      "source_article": "김희철, 솔직한 수입 고백..\"슈퍼주니어보다 '아형' 할때 더 많이 벌어\"('에겐남 스윙스')",
+      "source_url": "https://m.entertain.naver.com/article/109/0005582400",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "이윤지",
-        "치과의",
-        "남편",
-        "안타까",
-        "근황"
+        "아형"
       ],
-      "template": "스포츠 기록",
+      "template": "장기 공백 복귀",
+      "score": 6.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"고백 결혼설?\" 고백 연애사 총정리",
+      "angle_type": "👤 고백",
+      "article_count": 3,
+      "source_article": "김희철, 솔직한 수입 고백..\"슈퍼주니어보다 '아형' 할때 더 많이 벌어\"('에겐남 스윙스')",
+      "source_url": "https://m.entertain.naver.com/article/109/0005582400",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "고백"
+      ],
+      "template": "결혼 화제",
+      "score": 6.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 4,
+      "source_article": "'모친상' 고경표, 가족사 고백…\"어머니 투병 후 삶의 태도 바뀌어\" (놀러코스터)",
+      "source_url": "https://m.entertain.naver.com/article/311/0002040823",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "모친상",
+        "고경표",
+        "가족사",
+        "고백",
+        "어머니"
+      ],
+      "template": "동갑내기",
       "score": 6.6,
       "dup_check": {
         "is_duplicate": false,
@@ -1294,23 +1315,27 @@
       },
       "table": {
         "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
+          "이름",
+          "나이",
+          "대표작",
+          "현재 활동"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"무성의, 대체 무슨 일이?\" 무성의 관련 이슈 총정리",
-      "angle_type": "👤 무성의",
-      "article_count": 3,
-      "source_article": "대선배 공효진도 하는데…정준원 ‘놀뭐’ 무성의 태도 논란 “내향인”vs“속 터져”",
-      "source_url": "https://m.entertain.naver.com/article/609/0001152744",
+      "title": "\"김빈우까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 4,
+      "source_article": "김빈우, ‘운전 중 논란’ 두 달 만 한국 떠난다…“쉽지 않은 결정”",
+      "source_url": "https://m.entertain.naver.com/article/241/0003523131",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "무성의"
+        "김빈우",
+        "운전",
+        "떠난다",
+        "쉽지",
+        "않은"
       ],
       "template": "논란 집합",
       "score": 6.5,
@@ -1332,20 +1357,82 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
+      "title": "\"김희철\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 김희철",
       "article_count": 3,
-      "source_article": "'장기하♥' 윤가이, 여름 홋카이도 여행 인증…더 예뻐진 근황",
-      "source_url": "https://m.entertain.naver.com/article/421/0009091928",
+      "source_article": "김희철, 솔직한 수입 고백..\"슈퍼주니어보다 '아형' 할때 더 많이 벌어\"('에겐남 스윙스')",
+      "source_url": "https://m.entertain.naver.com/article/109/0005582400",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "근황",
-        "장기하",
-        "윤가이",
-        "여름",
-        "홋카이"
+        "김희철"
       ],
-      "template": "장기 공백 복귀",
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 4,
+      "source_article": "'박지성이 던진 화두' \"K리그는 너무 느리다\"  K리그가 유럽에서 외면받는 진짜 이유",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "박지성",
+        "던진",
+        "화두",
+        "리그는",
+        "너무"
+      ],
+      "template": "스포츠 기록",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+      "angle_type": "투병·건강",
+      "article_count": 3,
+      "source_article": "'모친상' 고경표, 가족사 고백…\"어머니 투병 후 삶의 태도 바뀌어\" (놀러코스터)",
+      "source_url": "https://m.entertain.naver.com/article/311/0002040823",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "판정",
+        "모친상",
+        "고경표",
+        "가족사",
+        "고백"
+      ],
+      "template": "투병 극복",
       "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
@@ -1357,22 +1444,22 @@
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
+          "투병 질환",
+          "공백기",
           "복귀 작품"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"고백\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 고백",
+      "title": "\"김고은\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 김고은",
       "article_count": 3,
-      "source_article": "'모친상' 고경표, 가족사 고백…\"어머니 투병 후 삶의 태도 바뀌어\" (놀러코스터)",
-      "source_url": "https://m.entertain.naver.com/article/311/0002040823",
+      "source_article": "“대상이 뭐야?” 김고은 조카, 고모 수상에 두 팔 번쩍…온 가족 환호",
+      "source_url": "https://m.entertain.naver.com/article/410/0001134869",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "고백"
+        "김고은"
       ],
       "template": "인맥",
       "score": 6.3,
@@ -1394,17 +1481,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"태도, 대체 무슨 일이?\" 태도 관련 이슈 총정리",
-      "angle_type": "👤 태도",
+      "title": "\"이상이\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 이상이",
       "article_count": 3,
-      "source_article": "'모친상' 고경표, 가족사 고백…\"어머니 투병 후 삶의 태도 바뀌어\" (놀러코스터)",
-      "source_url": "https://m.entertain.naver.com/article/311/0002040823",
+      "source_article": "배우 이상이, 사별한 故 박동빈 향한 그리움 \"보고 싶어 사랑해\"",
+      "source_url": "https://m.entertain.naver.com/article/079/0004174569",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "태도"
+        "이상이"
       ],
-      "template": "논란 집합",
-      "score": 6.3,
+      "template": "인맥",
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1415,62 +1502,29 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
+          "분류",
+          "이슈 내용",
           "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-      "angle_type": "투병·건강",
-      "article_count": 2,
-      "source_article": "'모친상' 고경표, 가족사 고백…\"어머니 투병 후 삶의 태도 바뀌어\" (놀러코스터)",
-      "source_url": "https://m.entertain.naver.com/article/311/0002040823",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "고백",
-        "모친상",
-        "고경표",
-        "가족사",
-        "어머니"
-      ],
-      "template": "투병 극복",
-      "score": 5.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "투병 질환",
-          "공백기",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"깜짝, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 6,
-      "source_article": "\"진짜예요?\" 야마모토도 깜짝 놀랐다! 인터뷰 도중 '초대형 트레이드' 소식 접해…\"정말 놀랐다\"",
+      "article_count": 8,
+      "source_article": "'韓 축구 대반전' 정몽규 회장, 홍명보 감독 선임 반대 \"돌고 돌아 홍명보냐\" 큰 언성까지 오갔다 '충격'",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "깜짝",
-        "놀랐다",
-        "역대급",
         "감독",
-        "있어"
+        "홍명보",
+        "선임",
+        "는데",
+        "역대급"
       ],
       "template": "스포츠 기록",
-      "score": 6.8,
+      "score": 8.1,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1516,48 +1570,15 @@
         ]
       },
       "channel": "초구딱"
-    },
-    {
-      "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 2,
-      "source_article": "결혼의 완성이 김부장 보다 더 재밌네요",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608020117746846&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "결혼의",
-        "완성이",
-        "김부장",
-        "재밌네",
-        "유부남"
-      ],
-      "template": "결혼 화제",
-      "score": 5.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "재활용 가능",
-        "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
-        "matched_views": 720727,
-        "reason": "검증됨 720,727회 · 113일 경과"
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
     [
-      "정준원",
+      "아형",
       4
     ],
     [
-      "근황",
+      "김희철",
       3
     ],
     [
@@ -1565,43 +1586,23 @@
       3
     ],
     [
-      "태도",
+      "김고은",
       3
-    ],
-    [
-      "무성의",
-      3
-    ],
-    [
-      "이상이",
-      2
-    ],
-    [
-      "박동빈",
-      2
-    ],
-    [
-      "여행",
-      2
-    ],
-    [
-      "남편",
-      2
-    ],
-    [
-      "아형",
-      2
     ],
     [
       "맞아",
       2
     ],
     [
-      "많이",
+      "배우",
       2
     ],
     [
-      "결혼",
+      "이상이",
+      2
+    ],
+    [
+      "보고",
       2
     ],
     [
@@ -1609,37 +1610,57 @@
       2
     ],
     [
-      "뼈말라",
+      "김빈우",
       2
     ],
     [
-      "김부장",
+      "자체",
       2
     ],
     [
-      "이민",
+      "진짜",
       2
     ],
     [
-      "김고은",
+      "성시경",
       2
     ],
     [
-      "아내",
+      "미우새",
       2
     ],
     [
-      "만의",
+      "완벽",
       2
+    ],
+    [
+      "소환",
+      2
+    ],
+    [
+      "이혼",
+      2
+    ],
+    [
+      "전북",
+      2
+    ],
+    [
+      "결혼사진",
+      1
+    ],
+    [
+      "웨딩드레스",
+      1
     ]
   ],
   "name_freq": [
     [
-      "정준원",
+      "아형",
       4
     ],
     [
-      "근황",
+      "김희철",
       3
     ],
     [
@@ -1647,43 +1668,27 @@
       3
     ],
     [
-      "태도",
-      3
-    ],
-    [
-      "무성의",
-      3
-    ],
-    [
       "이상이",
-      2
+      3
     ],
     [
-      "박동빈",
-      2
-    ],
-    [
-      "여행",
-      2
-    ],
-    [
-      "남편",
-      2
-    ],
-    [
-      "아형",
-      2
+      "김고은",
+      3
     ],
     [
       "맞아",
       2
     ],
     [
-      "많이",
+      "배우",
       2
     ],
     [
-      "결혼",
+      "보고",
+      2
+    ],
+    [
+      "강호동",
       2
     ],
     [
@@ -1691,11 +1696,27 @@
       2
     ],
     [
-      "뼈말라",
+      "김빈우",
+      2
+    ],
+    [
+      "자체",
+      2
+    ],
+    [
+      "진짜",
+      2
+    ],
+    [
+      "조현아",
+      2
+    ],
+    [
+      "성시경",
       2
     ]
   ],
-  "total_topics_generated": 12,
-  "valid_topics": 12,
+  "total_topics_generated": 13,
+  "valid_topics": 13,
   "excluded_duplicates": 0
 }
