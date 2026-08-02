@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-02 04:22:14",
+  "scan_time": "2026-08-02 07:30:31",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -13,12 +13,30 @@
   "total_articles": 80,
   "articles": [
     {
+      "title": "'하주석 왜 줬나?' 한화 팬들 뿔났다...KIA서 데려온 이형범 2군행",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 22100,
+      "rank": 4,
+      "channel": "초구딱"
+    },
+    {
       "title": "'홍명보 감독 약점 전부 파악 끝' 대한민국 절망·좌절→월드컵 탈락시켰던 74세 남아공 브로스 감독 '전격 사임' 아름다운 작별",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 17605,
-      "rank": 3,
+      "views": 20987,
+      "rank": 5,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'역대 최초' 창원 KIA-NC전, 2G 연속 폭염 취소…왜 부산 삼성-롯데전은 30분 지연 개시하나",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 13806,
+      "rank": 7,
       "channel": "초구딱"
     },
     {
@@ -26,44 +44,62 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 15984,
-      "rank": 4,
+      "views": 11849,
+      "rank": 9,
       "channel": "초구딱"
     },
     {
-      "title": "또 폭염중대경보, 롯데 한창 몸 풀 시간에 37도…사실상 훈련불능, 사직 이틀 연속 폭염취소인가",
+      "title": "폭염에 발 묶인 삼성, 앉아서 당했다..연승 후유증도 없는 마법의 필살기, ML 112승 퍼펙트 데뷔전도 부담",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 11479,
-      "rank": 7,
+      "views": 10892,
+      "rank": 10,
       "channel": "초구딱"
     },
     {
-      "title": "LG 사상 최초 퍼펙트게임 포기 후회했을까…만년 유망주의 역습, 홈런→홈런→2루타 드디어 터지기 시작했다",
+      "title": "\"선수도 팬도 쓰러진다\" KBO 백기 들게 한 38도 살인 더위... 창원 KIA-NC 폭염 취소",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 9694,
-      "rank": 11,
+      "views": 7841,
+      "rank": 15,
       "channel": "초구딱"
     },
     {
-      "title": "'하주석 왜 줬나?' 한화 팬들 뿔났다...KIA서 데려온 이형범 2군행",
+      "title": "\"탁상행정의 극치\", \"누굴 위한 야구인가?\"…이 더위에 야구를? 선수들도 뿔났다, 현장 목소리 듣지도 않는 KBO",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 8813,
-      "rank": 12,
+      "views": 7595,
+      "rank": 16,
       "channel": "초구딱"
     },
     {
-      "title": "70개 정도만 던지랬더니…7이닝까지 던진 LG 카라스코",
+      "title": "프로야구 롯데자이언츠 경기 ‘폭염’으로 취소",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 6576,
+      "views": 6883,
+      "rank": 18,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'창원 지역 폭염 중대경보' KBO, 이틀 연속 창원 경기 취소…부산은 30분 지연 시작키로",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 6472,
       "rank": 19,
+      "channel": "초구딱"
+    },
+    {
+      "title": "다저스 스쿠발 품었다 '소문이 사실로' 디트로이트와 대형 트레이드",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 6124,
+      "rank": 20,
       "channel": "초구딱"
     },
     {
@@ -121,8 +157,8 @@
       "channel": "초구딱"
     },
     {
-      "title": "아재(혹사)런.jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117738212&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "부산도 후쿠오카 페이페이돔처럼 만들수 없나요??",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117741281&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
       "views": 0,
@@ -130,8 +166,8 @@
       "channel": "초구딱"
     },
     {
-      "title": "호랑이가 주황색인 이유",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117738209&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "94년도 더위랑 대구더위는 역사속으로 사라지네요.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117741278&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
       "views": 0,
@@ -139,8 +175,8 @@
       "channel": "초구딱"
     },
     {
-      "title": "여행유튜브 유독 좋아하시는 분들 많은가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117738206&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "갤럭시 폴드8 vs 폴드8 울트라",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117741275&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
       "views": 0,
@@ -148,206 +184,206 @@
       "channel": "초구딱"
     },
     {
-      "title": "최근 2~3년 겨울은 추운줄도 모르고 지나가지읺았나요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117738200&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "이 날씨에도 이거 포기 못하는 사람들 있음",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117741272&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 0,
+      "views": 17,
       "rank": 10,
       "channel": "초구딱"
     },
     {
-      "title": "폭염취소는 왜 욕하는건가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117738197&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "우리나라는 전기세가  더렴한거죠?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117741269&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 38,
+      "views": 0,
       "rank": 11,
       "channel": "초구딱"
     },
     {
-      "title": "2026 음악수출국가 3위 대한민국",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117738194&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "그저께 매불쇼에서 은현장 대표가 말한 외식업 기획 세력, 그와중에 실제 소규모 개인 자영업이 사는 방법.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117741251&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 13,
+      "views": 70,
       "rank": 12,
       "channel": "초구딱"
     },
     {
-      "title": "지금 삼전닉스  공공의적된듯",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117738191&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "알상무 주말 트럼프 타코 예상했는데",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117741242&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=facebook.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 43,
+      "views": 145,
       "rank": 13,
       "channel": "초구딱"
     },
     {
-      "title": "다저스 선발 사기",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117738188&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "비육사 출신인데  대령이나 스타 진급한 사람들",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117741239&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 51,
+      "views": 75,
       "rank": 14,
       "channel": "초구딱"
     },
     {
-      "title": "여자들은 당구가 취미인 남자 싫어하나요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117738185&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "통닭보다 닭똥집 좋아하시는 분 계시나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117741236&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 18,
+      "views": 14,
       "rank": 15,
       "channel": "초구딱"
     },
     {
-      "title": "딱 2시 취소 시간 넘겨서 폭취할듯",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117738182&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "올여름은 미치도록 운동할생각이네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117741221&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 28,
+      "views": 120,
       "rank": 16,
       "channel": "초구딱"
     },
     {
-      "title": "보안쪽에 허우대 좋고 외모 괜찮고 능력 별로인 남자 많던데",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117738170&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "고척돔은 왜 도쿄돔처럼 못만들었나요??",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117741218&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 48,
+      "views": 143,
       "rank": 17,
       "channel": "초구딱"
     },
     {
-      "title": "경상도지역 지금 많이 덥나요??",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117738164&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "이제 김고은 > 김태리 맞나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117741206&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 51,
+      "views": 108,
       "rank": 18,
       "channel": "초구딱"
     },
     {
-      "title": "낼 삼전 30만원 가능하죠??",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117738158&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "올해가 24년 18년에 비교할만큼 덥나요???",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117741200&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 140,
+      "views": 120,
       "rank": 19,
       "channel": "초구딱"
     },
     {
-      "title": "[약혐] 스트리머 생방중 뺑소니 사고남...mp4",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117738155&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "결국 종편 1군데가 망했네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117741197&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 154,
+      "views": 251,
       "rank": 20,
       "channel": "초구딱"
     },
     {
-      "title": "킬쇼2에 백인 바빌론",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117738149&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "양현석 딸",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117741194&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 42,
+      "views": 332,
       "rank": 21,
       "channel": "초구딱"
     },
     {
-      "title": "지창욱 근황.mp4",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117738146&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "어느 미국 대학의 이상한?한국인 학생회 회장...jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117741191&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 136,
+      "views": 257,
       "rank": 22,
       "channel": "초구딱"
     },
     {
-      "title": "미쳐버린 경상도 폭염 근황.jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117738143&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "홍명보는 왜 갑자기 국대 감독 수락했을까요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117741185&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 249,
+      "views": 126,
       "rank": 23,
       "channel": "초구딱"
     },
     {
-      "title": "포드 몬데오 디젤 어떤가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117738116&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "삿포로 날씨 부럽네요 ㄷㄷ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117741164&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 37,
+      "views": 252,
       "rank": 24,
       "channel": "초구딱"
     },
     {
-      "title": "오늘 mls복귀한 리오넬 메시",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117738107&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "알약 백신 광고 너무 심해서 못쓰겠네요.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117741161&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 182,
+      "views": 83,
       "rank": 25,
       "channel": "초구딱"
     },
     {
-      "title": "전노자 올만에 보는데 수준 꽤 높아졌네요 ㄷㄷㄷ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117738101&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "정말 너무하는 LA다저스",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117741158&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 57,
+      "views": 384,
       "rank": 26,
       "channel": "초구딱"
     },
     {
-      "title": "요즘 수도권 신혼부부들은 집 마련 어떻게 하나요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117738098&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "키움 어린 투수들도 고교 때 유망주였나요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117741155&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 111,
+      "views": 56,
       "rank": 27,
       "channel": "초구딱"
     },
     {
-      "title": "손흥민 저모습은 왜 국대에서 안보여줄까요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117738089&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "태백시도 최고기온 32도네요ㄷㄷㄷㄷ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117741152&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 250,
+      "views": 129,
       "rank": 28,
       "channel": "초구딱"
     },
     {
-      "title": "2026 현역 최고참급 하드 락, 메탈 보컬들",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117738080&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "스코틀랜드 기후.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117741143&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 56,
+      "views": 240,
       "rank": 29,
       "channel": "초구딱"
     },
     {
-      "title": "오늘 마이애미 수지 선제골.gif",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117738077&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "부산에 돔구장 지을려면 고척돔 기반으로 해야댐",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608020117741140&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 159,
+      "views": 101,
       "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 44,
+      "article_count": 40,
       "topics": [
         {
           "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
           "angle_type": "결혼·이혼",
-          "article_count": 6,
-          "source_article": "이혼하자마자 '10년 연하 여친'과 새 인생 시작…손흥민과 함께 MLS 대표하는 스타 뮐러 '외모 관리 몰두'",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "article_count": 7,
+          "source_article": "‘45세’ 조여정, 김재철과 결혼사진 공개…웨딩드레스 입고 볼키스까지(지금 불륜)",
+          "source_url": "https://m.entertain.naver.com/article/410/0001134867",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "결혼",
             "조여정",
@@ -356,7 +392,7 @@
             "웨딩드"
           ],
           "template": "결혼 화제",
-          "score": 7.5,
+          "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -377,7 +413,7 @@
         {
           "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 5,
+          "article_count": 3,
           "source_article": "'이윤지♥' 치과의사 남편, 안타까운 근황 \"고장난 정선비\" 무슨 일?",
           "source_url": "https://m.entertain.naver.com/article/076/0004432084",
           "source_name": "엔터 많이 본 뉴스",
@@ -389,7 +425,7 @@
             "근황"
           ],
           "template": "스포츠 기록",
-          "score": 7.1,
+          "score": 6.6,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -408,21 +444,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"정준원까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "title": "\"놀뭐까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
           "angle_type": "논란·사건",
-          "article_count": 5,
+          "article_count": 4,
           "source_article": "'마약 논란' 한서희, ♥외국인 남친 최초 공개..'훈남 모델'과 달달 투샷",
           "source_url": "https://m.entertain.naver.com/article/076/0004432040",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
+            "놀뭐",
             "정준원",
+            "태도",
             "마약",
-            "한서희",
-            "외국인",
-            "남친"
+            "한서희"
           ],
           "template": "논란 집합",
-          "score": 7.0,
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -436,72 +472,6 @@
               "소속·직업",
               "논란 내용",
               "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 5,
-          "source_article": "'이윤지♥' 치과의사 남편, 안타까운 근황 \"고장난 정선비\" 무슨 일?",
-          "source_url": "https://m.entertain.naver.com/article/076/0004432084",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "근황",
-            "딸과",
-            "이윤지",
-            "치과의",
-            "남편"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 6.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"딸과이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 4,
-          "source_article": "'11세 연상과 결혼' 최진실 딸, 남편♥ 흰머리 염색하며 심란 \"나 두고 먼저 가면 어쩌나\"",
-          "source_url": "https://m.entertain.naver.com/article/076/0004432067",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "딸과",
-            "근황",
-            "연상과",
-            "결혼",
-            "최진실"
-          ],
-          "template": "동갑내기",
-          "score": 6.6,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
             ]
           },
           "channel": "정보주는하마"
@@ -536,11 +506,102 @@
           "channel": "정보주는하마"
         },
         {
+          "title": "\"정준원, 대체 무슨 일이?\" 정준원 관련 이슈 총정리",
+          "angle_type": "👤 정준원",
+          "article_count": 3,
+          "source_article": "'놀뭐' 정준원, 무성의 태도 논란…긴장감 호소에 시청자 갑론을박",
+          "source_url": "https://m.entertain.naver.com/article/440/0000039484",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "정준원"
+          ],
+          "template": "논란 집합",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"청문회\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 청문회",
+          "article_count": 3,
+          "source_article": "'가장 비겁한 韓 축구인' 홍명보·정몽규도 아니다, 기어이 청문회도 피해버리다니... '해외 도피성 취업'→쥐 죽은 듯 잠적",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "청문회"
+          ],
+          "template": "인맥",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+          "angle_type": "가족·혈연",
+          "article_count": 2,
+          "source_article": "'11세 연상과 결혼' 최진실 딸, 남편♥ 흰머리 염색하며 심란 \"나 두고 먼저 가면 어쩌나\"",
+          "source_url": "https://m.entertain.naver.com/article/076/0004432067",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "연상과",
+            "결혼",
+            "최진실",
+            "남편",
+            "흰머리"
+          ],
+          "template": "동갑내기",
+          "score": 6.4,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "나이",
+              "대표작",
+              "현재 활동"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
           "title": "\"유재석, 대체 무슨 일이?\" 유재석 관련 이슈 총정리",
           "angle_type": "👤 유재석",
-          "article_count": 4,
-          "source_article": "\"100억 벌면 41억 세금\" 유재석, 녹화 중 세금 납부하러 은행行",
-          "source_url": "https://m.entertain.naver.com/article/018/0006341911",
+          "article_count": 3,
+          "source_article": "정준원, 슈퍼카 오너였다..유재석·주우재 \"대박이다\" 열광",
+          "source_url": "https://m.entertain.naver.com/article/108/0003458529",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "유재석"
@@ -565,14 +626,18 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"이상이, 지금 어디서 뭐 하나?\" 이상이 근황 총정리",
-          "angle_type": "👤 이상이",
+          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
           "article_count": 4,
-          "source_article": "“못 간다던 그날 이후…” 故 박동빈 아내 이상이, 별세 3개월 만의 첫 고백 (上)",
-          "source_url": "https://m.entertain.naver.com/article/410/0001134852",
+          "source_article": "'장기하♥' 윤가이, 여름 홋카이도 여행 인증…더 예뻐진 근황",
+          "source_url": "https://m.entertain.naver.com/article/421/0009091928",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "이상이"
+            "근황",
+            "장기하",
+            "윤가이",
+            "여름",
+            "홋카이"
           ],
           "template": "장기 공백 복귀",
           "score": 6.3,
@@ -594,17 +659,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"박동빈, 지금 어디서 뭐 하나?\" 박동빈 근황 총정리",
+          "title": "\"박동빈\" 관련 화제 스타 TOP10",
           "angle_type": "👤 박동빈",
           "article_count": 3,
-          "source_article": "“못 간다던 그날 이후…” 故 박동빈 아내 이상이, 별세 3개월 만의 첫 고백 (上)",
-          "source_url": "https://m.entertain.naver.com/article/410/0001134852",
+          "source_article": "배우 이상이, 사별한 故 박동빈 향한 그리움 \"보고 싶어 사랑해\"",
+          "source_url": "https://m.entertain.naver.com/article/079/0004174569",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "박동빈"
           ],
-          "template": "장기 공백 복귀",
-          "score": 6.3,
+          "template": "인맥",
+          "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -615,22 +680,22 @@
           "table": {
             "headers": [
               "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
+              "분류",
+              "이슈 내용",
+              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"김고은\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 김고은",
+          "title": "\"이상이\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 이상이",
           "article_count": 3,
-          "source_article": "이상이에 이동욱까지...김고은 대상에 온 우주가 웃는다",
-          "source_url": "https://m.entertain.naver.com/article/108/0003458512",
+          "source_article": "배우 이상이, 사별한 故 박동빈 향한 그리움 \"보고 싶어 사랑해\"",
+          "source_url": "https://m.entertain.naver.com/article/079/0004174569",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "김고은"
+            "이상이"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -737,16 +802,70 @@
             ]
           },
           "channel": "정보주는하마"
+        },
+        {
+          "title": "\"아내\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 아내",
+          "article_count": 3,
+          "source_article": "“못 간다던 그날 이후…” 故 박동빈 아내 이상이, 별세 3개월 만의 첫 고백 (上)",
+          "source_url": "https://m.entertain.naver.com/article/410/0001134852",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "아내"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"김부장\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 김부장",
+          "article_count": 3,
+          "source_article": "“이게 ‘김부장’ 윤경호라고?”…10년전 뼈말라 몸매. 34kg 한번에 뺀 사연 재조명",
+          "source_url": "https://m.entertain.naver.com/article/016/0002678249",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "김부장"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
         }
       ],
       "keyword_freq": [
         [
           "근황",
-          5
-        ],
-        [
-          "남친",
-          3
+          4
         ],
         [
           "박동빈",
@@ -754,10 +873,6 @@
         ],
         [
           "이상이",
-          3
-        ],
-        [
-          "김고은",
           3
         ],
         [
@@ -769,7 +884,35 @@
           3
         ],
         [
-          "훈남",
+          "남친",
+          3
+        ],
+        [
+          "결혼",
+          3
+        ],
+        [
+          "아내",
+          3
+        ],
+        [
+          "놀뭐",
+          3
+        ],
+        [
+          "정준원",
+          3
+        ],
+        [
+          "김부장",
+          3
+        ],
+        [
+          "향한",
+          2
+        ],
+        [
+          "여행",
           2
         ],
         [
@@ -781,23 +924,11 @@
           2
         ],
         [
-          "유재석",
-          2
-        ],
-        [
           "고백",
           2
         ],
         [
-          "배우",
-          2
-        ],
-        [
-          "결혼",
-          2
-        ],
-        [
-          "김형배",
+          "아형",
           2
         ],
         [
@@ -805,45 +936,25 @@
           2
         ],
         [
-          "정준원",
+          "김형배",
           2
         ],
         [
-          "시끌",
-          2
-        ],
-        [
-          "유재석도",
-          2
-        ],
-        [
-          "김부장",
+          "훈남",
           2
         ]
       ],
       "name_freq": [
         [
           "근황",
-          5
-        ],
-        [
-          "유재석",
           4
-        ],
-        [
-          "이상이",
-          4
-        ],
-        [
-          "남친",
-          3
         ],
         [
           "박동빈",
           3
         ],
         [
-          "김고은",
+          "이상이",
           3
         ],
         [
@@ -859,69 +970,81 @@
           3
         ],
         [
-          "훈남",
-          2
-        ],
-        [
-          "무슨",
-          2
-        ],
-        [
-          "남편",
-          2
-        ],
-        [
-          "고백",
-          2
-        ],
-        [
-          "배우",
-          2
+          "남친",
+          3
         ],
         [
           "결혼",
+          3
+        ],
+        [
+          "아내",
+          3
+        ],
+        [
+          "놀뭐",
+          3
+        ],
+        [
+          "정준원",
+          3
+        ],
+        [
+          "김부장",
+          3
+        ],
+        [
+          "유재석",
+          3
+        ],
+        [
+          "청문회",
+          3
+        ],
+        [
+          "향한",
           2
         ]
       ],
       "angle_scores": [
         [
           "논란·사건",
-          5
+          4
         ],
         [
           "결혼·이혼",
-          6
+          7
         ],
         [
           "복귀·근황",
-          5
+          4
         ],
         [
           "스포츠",
-          5
+          3
         ],
         [
           "가족·혈연",
-          4
+          2
         ]
       ]
     },
     "초구딱": {
-      "article_count": 36,
+      "article_count": 40,
       "topics": [
         {
           "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 5,
+          "article_count": 7,
           "source_article": "'홍명보 감독 약점 전부 파악 끝' 대한민국 절망·좌절→월드컵 탈락시켰던 74세 남아공 브로스 감독 '전격 사임' 아름다운 작별",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "감독",
-            "홈런",
+            "창원",
             "홍명보",
-            "약점",
-            "전부"
+            "폭염",
+            "취소"
           ],
           "template": "스포츠 기록",
           "score": 7.3,
@@ -943,21 +1066,21 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 3,
-          "source_article": "미쳐버린 경상도 폭염 근황.jpg",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608020117738143&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
+          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+          "angle_type": "가족·혈연",
+          "article_count": 2,
+          "source_article": "'명문 클럽 거절, 韓 대표팀 원한다'…\"이강인 내 아들!\" 외쳤던 그 감독, 태극전사 지휘하나→\"한국 축구에 매력 느껴\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "근황",
-            "지창욱",
-            "미쳐버",
-            "경상도",
-            "폭염"
+            "명문",
+            "클럽",
+            "거절",
+            "대표팀",
+            "원한다"
           ],
-          "template": "장기 공백 복귀",
-          "score": 6.3,
+          "template": "동갑내기",
+          "score": 7.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -968,9 +1091,96 @@
           "table": {
             "headers": [
               "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
+              "나이",
+              "대표작",
+              "현재 활동"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"폭염\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 폭염",
+          "article_count": 4,
+          "source_article": "'역대 최초' 창원 KIA-NC전, 2G 연속 폭염 취소…왜 부산 삼성-롯데전은 30분 지연 개시하나",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "폭염"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"취소\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 취소",
+          "article_count": 4,
+          "source_article": "'역대 최초' 창원 KIA-NC전, 2G 연속 폭염 취소…왜 부산 삼성-롯데전은 30분 지연 개시하나",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "취소"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"창원\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 창원",
+          "article_count": 3,
+          "source_article": "'역대 최초' 창원 KIA-NC전, 2G 연속 폭염 취소…왜 부산 삼성-롯데전은 30분 지연 개시하나",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "창원"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
             ]
           },
           "channel": "초구딱"
@@ -1003,19 +1213,76 @@
             ]
           },
           "channel": "초구딱"
+        },
+        {
+          "title": "\"네요\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 네요",
+          "article_count": 3,
+          "source_article": "94년도 더위랑 대구더위는 역사속으로 사라지네요.",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608020117741278&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "네요"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
+        [
+          "폭염",
+          4
+        ],
+        [
+          "취소",
+          4
+        ],
+        [
+          "감독",
+          3
+        ],
+        [
+          "창원",
+          3
+        ],
         [
           "안내",
           3
         ],
         [
-          "대한민국",
+          "뿔났다",
           2
         ],
         [
-          "감독",
+          "연속",
+          2
+        ],
+        [
+          "지연",
+          2
+        ],
+        [
+          "경기",
+          2
+        ],
+        [
+          "다저스",
           2
         ],
         [
@@ -1027,81 +1294,85 @@
           2
         ],
         [
-          "지금",
+          "사람들",
           2
         ],
         [
-          "남자",
-          2
-        ],
-        [
-          "근황",
-          2
-        ],
-        [
-          "전부",
+          "줬나",
           1
         ],
         [
-          "월드컵",
+          "이형범",
           1
         ],
         [
-          "약점",
+          "하주석",
           1
         ],
         [
-          "홍명보",
+          "한화",
           1
         ],
         [
-          "탈락시켰던",
+          "팬들",
           1
         ],
         [
-          "파악",
+          "군행",
           1
         ],
         [
-          "브로스",
-          1
-        ],
-        [
-          "사임",
-          1
-        ],
-        [
-          "작별",
-          1
-        ],
-        [
-          "좌절",
-          1
-        ],
-        [
-          "절망",
-          1
-        ],
-        [
-          "아름다운",
+          "데려온",
           1
         ]
       ],
       "name_freq": [
         [
+          "폭염",
+          4
+        ],
+        [
+          "취소",
+          4
+        ],
+        [
+          "감독",
+          3
+        ],
+        [
+          "창원",
+          3
+        ],
+        [
           "안내",
           3
         ],
         [
-          "감독",
+          "네요",
+          3
+        ],
+        [
+          "뿔났다",
           2
         ],
         [
-          "대한민",
+          "홍명보",
           2
         ],
         [
-          "폭염취",
+          "연속",
+          2
+        ],
+        [
+          "지연",
+          2
+        ],
+        [
+          "경기",
+          2
+        ],
+        [
+          "다저스",
           2
         ],
         [
@@ -1113,34 +1384,18 @@
           2
         ],
         [
-          "나요",
-          2
-        ],
-        [
-          "지금",
-          2
-        ],
-        [
-          "남자",
-          2
-        ],
-        [
-          "경상도",
-          2
-        ],
-        [
-          "근황",
+          "사람들",
           2
         ]
       ],
       "angle_scores": [
         [
-          "복귀·근황",
-          3
+          "스포츠",
+          7
         ],
         [
-          "스포츠",
-          5
+          "가족·혈연",
+          2
         ]
       ]
     }
@@ -1149,16 +1404,16 @@
     {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 5,
+      "article_count": 7,
       "source_article": "'홍명보 감독 약점 전부 파악 끝' 대한민국 절망·좌절→월드컵 탈락시켰던 74세 남아공 브로스 감독 '전격 사임' 아름다운 작별",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "감독",
-        "홈런",
+        "창원",
         "홍명보",
-        "약점",
-        "전부"
+        "폭염",
+        "취소"
       ],
       "template": "스포츠 기록",
       "score": 7.3,
@@ -1180,21 +1435,21 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 3,
-      "source_article": "미쳐버린 경상도 폭염 근황.jpg",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608020117738143&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
+      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 2,
+      "source_article": "'명문 클럽 거절, 韓 대표팀 원한다'…\"이강인 내 아들!\" 외쳤던 그 감독, 태극전사 지휘하나→\"한국 축구에 매력 느껴\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "근황",
-        "지창욱",
-        "미쳐버",
-        "경상도",
-        "폭염"
+        "명문",
+        "클럽",
+        "거절",
+        "대표팀",
+        "원한다"
       ],
-      "template": "장기 공백 복귀",
-      "score": 6.3,
+      "template": "동갑내기",
+      "score": 7.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1205,9 +1460,96 @@
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
+          "나이",
+          "대표작",
+          "현재 활동"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"폭염\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 폭염",
+      "article_count": 4,
+      "source_article": "'역대 최초' 창원 KIA-NC전, 2G 연속 폭염 취소…왜 부산 삼성-롯데전은 30분 지연 개시하나",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "폭염"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"취소\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 취소",
+      "article_count": 4,
+      "source_article": "'역대 최초' 창원 KIA-NC전, 2G 연속 폭염 취소…왜 부산 삼성-롯데전은 30분 지연 개시하나",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "취소"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"창원\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 창원",
+      "article_count": 3,
+      "source_article": "'역대 최초' 창원 KIA-NC전, 2G 연속 폭염 취소…왜 부산 삼성-롯데전은 30분 지연 개시하나",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "창원"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "초구딱"
@@ -1240,16 +1582,45 @@
         ]
       },
       "channel": "초구딱"
+    },
+    {
+      "title": "\"네요\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 네요",
+      "article_count": 3,
+      "source_article": "94년도 더위랑 대구더위는 역사속으로 사라지네요.",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608020117741278&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "네요"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
     }
   ],
   "all_topics": [
     {
       "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
       "angle_type": "결혼·이혼",
-      "article_count": 6,
-      "source_article": "이혼하자마자 '10년 연하 여친'과 새 인생 시작…손흥민과 함께 MLS 대표하는 스타 뮐러 '외모 관리 몰두'",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "article_count": 7,
+      "source_article": "‘45세’ 조여정, 김재철과 결혼사진 공개…웨딩드레스 입고 볼키스까지(지금 불륜)",
+      "source_url": "https://m.entertain.naver.com/article/410/0001134867",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "결혼",
         "조여정",
@@ -1258,7 +1629,7 @@
         "웨딩드"
       ],
       "template": "결혼 화제",
-      "score": 7.5,
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1279,7 +1650,7 @@
     {
       "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 5,
+      "article_count": 3,
       "source_article": "'이윤지♥' 치과의사 남편, 안타까운 근황 \"고장난 정선비\" 무슨 일?",
       "source_url": "https://m.entertain.naver.com/article/076/0004432084",
       "source_name": "엔터 많이 본 뉴스",
@@ -1291,7 +1662,7 @@
         "근황"
       ],
       "template": "스포츠 기록",
-      "score": 7.1,
+      "score": 6.6,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1310,21 +1681,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"정준원까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "title": "\"놀뭐까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
       "angle_type": "논란·사건",
-      "article_count": 5,
+      "article_count": 4,
       "source_article": "'마약 논란' 한서희, ♥외국인 남친 최초 공개..'훈남 모델'과 달달 투샷",
       "source_url": "https://m.entertain.naver.com/article/076/0004432040",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
+        "놀뭐",
         "정준원",
+        "태도",
         "마약",
-        "한서희",
-        "외국인",
-        "남친"
+        "한서희"
       ],
       "template": "논란 집합",
-      "score": 7.0,
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1338,72 +1709,6 @@
           "소속·직업",
           "논란 내용",
           "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 5,
-      "source_article": "'이윤지♥' 치과의사 남편, 안타까운 근황 \"고장난 정선비\" 무슨 일?",
-      "source_url": "https://m.entertain.naver.com/article/076/0004432084",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "근황",
-        "딸과",
-        "이윤지",
-        "치과의",
-        "남편"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 6.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"딸과이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 4,
-      "source_article": "'11세 연상과 결혼' 최진실 딸, 남편♥ 흰머리 염색하며 심란 \"나 두고 먼저 가면 어쩌나\"",
-      "source_url": "https://m.entertain.naver.com/article/076/0004432067",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "딸과",
-        "근황",
-        "연상과",
-        "결혼",
-        "최진실"
-      ],
-      "template": "동갑내기",
-      "score": 6.6,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
         ]
       },
       "channel": "정보주는하마"
@@ -1438,11 +1743,102 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"정준원, 대체 무슨 일이?\" 정준원 관련 이슈 총정리",
+      "angle_type": "👤 정준원",
+      "article_count": 3,
+      "source_article": "'놀뭐' 정준원, 무성의 태도 논란…긴장감 호소에 시청자 갑론을박",
+      "source_url": "https://m.entertain.naver.com/article/440/0000039484",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "정준원"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"청문회\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 청문회",
+      "article_count": 3,
+      "source_article": "'가장 비겁한 韓 축구인' 홍명보·정몽규도 아니다, 기어이 청문회도 피해버리다니... '해외 도피성 취업'→쥐 죽은 듯 잠적",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "청문회"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 2,
+      "source_article": "'11세 연상과 결혼' 최진실 딸, 남편♥ 흰머리 염색하며 심란 \"나 두고 먼저 가면 어쩌나\"",
+      "source_url": "https://m.entertain.naver.com/article/076/0004432067",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "연상과",
+        "결혼",
+        "최진실",
+        "남편",
+        "흰머리"
+      ],
+      "template": "동갑내기",
+      "score": 6.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "나이",
+          "대표작",
+          "현재 활동"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"유재석, 대체 무슨 일이?\" 유재석 관련 이슈 총정리",
       "angle_type": "👤 유재석",
-      "article_count": 4,
-      "source_article": "\"100억 벌면 41억 세금\" 유재석, 녹화 중 세금 납부하러 은행行",
-      "source_url": "https://m.entertain.naver.com/article/018/0006341911",
+      "article_count": 3,
+      "source_article": "정준원, 슈퍼카 오너였다..유재석·주우재 \"대박이다\" 열광",
+      "source_url": "https://m.entertain.naver.com/article/108/0003458529",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "유재석"
@@ -1467,14 +1863,18 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이상이, 지금 어디서 뭐 하나?\" 이상이 근황 총정리",
-      "angle_type": "👤 이상이",
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
       "article_count": 4,
-      "source_article": "“못 간다던 그날 이후…” 故 박동빈 아내 이상이, 별세 3개월 만의 첫 고백 (上)",
-      "source_url": "https://m.entertain.naver.com/article/410/0001134852",
+      "source_article": "'장기하♥' 윤가이, 여름 홋카이도 여행 인증…더 예뻐진 근황",
+      "source_url": "https://m.entertain.naver.com/article/421/0009091928",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "이상이"
+        "근황",
+        "장기하",
+        "윤가이",
+        "여름",
+        "홋카이"
       ],
       "template": "장기 공백 복귀",
       "score": 6.3,
@@ -1496,17 +1896,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"박동빈, 지금 어디서 뭐 하나?\" 박동빈 근황 총정리",
+      "title": "\"박동빈\" 관련 화제 스타 TOP10",
       "angle_type": "👤 박동빈",
       "article_count": 3,
-      "source_article": "“못 간다던 그날 이후…” 故 박동빈 아내 이상이, 별세 3개월 만의 첫 고백 (上)",
-      "source_url": "https://m.entertain.naver.com/article/410/0001134852",
+      "source_article": "배우 이상이, 사별한 故 박동빈 향한 그리움 \"보고 싶어 사랑해\"",
+      "source_url": "https://m.entertain.naver.com/article/079/0004174569",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "박동빈"
       ],
-      "template": "장기 공백 복귀",
-      "score": 6.3,
+      "template": "인맥",
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1517,22 +1917,22 @@
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"김고은\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 김고은",
+      "title": "\"이상이\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 이상이",
       "article_count": 3,
-      "source_article": "이상이에 이동욱까지...김고은 대상에 온 우주가 웃는다",
-      "source_url": "https://m.entertain.naver.com/article/108/0003458512",
+      "source_article": "배우 이상이, 사별한 故 박동빈 향한 그리움 \"보고 싶어 사랑해\"",
+      "source_url": "https://m.entertain.naver.com/article/079/0004174569",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "김고은"
+        "이상이"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1641,18 +2041,76 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"아내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 아내",
+      "article_count": 3,
+      "source_article": "“못 간다던 그날 이후…” 故 박동빈 아내 이상이, 별세 3개월 만의 첫 고백 (上)",
+      "source_url": "https://m.entertain.naver.com/article/410/0001134852",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "아내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"김부장\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 김부장",
+      "article_count": 3,
+      "source_article": "“이게 ‘김부장’ 윤경호라고?”…10년전 뼈말라 몸매. 34kg 한번에 뺀 사연 재조명",
+      "source_url": "https://m.entertain.naver.com/article/016/0002678249",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "김부장"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 5,
+      "article_count": 7,
       "source_article": "'홍명보 감독 약점 전부 파악 끝' 대한민국 절망·좌절→월드컵 탈락시켰던 74세 남아공 브로스 감독 '전격 사임' 아름다운 작별",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "감독",
-        "홈런",
+        "창원",
         "홍명보",
-        "약점",
-        "전부"
+        "폭염",
+        "취소"
       ],
       "template": "스포츠 기록",
       "score": 7.3,
@@ -1674,21 +2132,21 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 3,
-      "source_article": "미쳐버린 경상도 폭염 근황.jpg",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608020117738143&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
+      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 2,
+      "source_article": "'명문 클럽 거절, 韓 대표팀 원한다'…\"이강인 내 아들!\" 외쳤던 그 감독, 태극전사 지휘하나→\"한국 축구에 매력 느껴\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "근황",
-        "지창욱",
-        "미쳐버",
-        "경상도",
-        "폭염"
+        "명문",
+        "클럽",
+        "거절",
+        "대표팀",
+        "원한다"
       ],
-      "template": "장기 공백 복귀",
-      "score": 6.3,
+      "template": "동갑내기",
+      "score": 7.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1699,9 +2157,96 @@
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
+          "나이",
+          "대표작",
+          "현재 활동"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"폭염\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 폭염",
+      "article_count": 4,
+      "source_article": "'역대 최초' 창원 KIA-NC전, 2G 연속 폭염 취소…왜 부산 삼성-롯데전은 30분 지연 개시하나",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "폭염"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"취소\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 취소",
+      "article_count": 4,
+      "source_article": "'역대 최초' 창원 KIA-NC전, 2G 연속 폭염 취소…왜 부산 삼성-롯데전은 30분 지연 개시하나",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "취소"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"창원\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 창원",
+      "article_count": 3,
+      "source_article": "'역대 최초' 창원 KIA-NC전, 2G 연속 폭염 취소…왜 부산 삼성-롯데전은 30분 지연 개시하나",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "창원"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "초구딱"
@@ -1734,16 +2279,41 @@
         ]
       },
       "channel": "초구딱"
+    },
+    {
+      "title": "\"네요\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 네요",
+      "article_count": 3,
+      "source_article": "94년도 더위랑 대구더위는 역사속으로 사라지네요.",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608020117741278&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "네요"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
     [
       "근황",
-      5
-    ],
-    [
-      "남친",
-      3
+      4
     ],
     [
       "박동빈",
@@ -1751,10 +2321,6 @@
     ],
     [
       "이상이",
-      3
-    ],
-    [
-      "김고은",
       3
     ],
     [
@@ -1766,7 +2332,35 @@
       3
     ],
     [
-      "훈남",
+      "남친",
+      3
+    ],
+    [
+      "결혼",
+      3
+    ],
+    [
+      "아내",
+      3
+    ],
+    [
+      "놀뭐",
+      3
+    ],
+    [
+      "정준원",
+      3
+    ],
+    [
+      "김부장",
+      3
+    ],
+    [
+      "향한",
+      2
+    ],
+    [
+      "여행",
       2
     ],
     [
@@ -1778,23 +2372,11 @@
       2
     ],
     [
-      "유재석",
-      2
-    ],
-    [
       "고백",
       2
     ],
     [
-      "배우",
-      2
-    ],
-    [
-      "결혼",
-      2
-    ],
-    [
-      "김형배",
+      "아형",
       2
     ],
     [
@@ -1802,45 +2384,25 @@
       2
     ],
     [
-      "정준원",
+      "김형배",
       2
     ],
     [
-      "시끌",
-      2
-    ],
-    [
-      "유재석도",
-      2
-    ],
-    [
-      "김부장",
+      "훈남",
       2
     ]
   ],
   "name_freq": [
     [
       "근황",
-      5
-    ],
-    [
-      "유재석",
       4
-    ],
-    [
-      "이상이",
-      4
-    ],
-    [
-      "남친",
-      3
     ],
     [
       "박동빈",
       3
     ],
     [
-      "김고은",
+      "이상이",
       3
     ],
     [
@@ -1856,31 +2418,43 @@
       3
     ],
     [
-      "훈남",
-      2
-    ],
-    [
-      "무슨",
-      2
-    ],
-    [
-      "남편",
-      2
-    ],
-    [
-      "고백",
-      2
-    ],
-    [
-      "배우",
-      2
+      "남친",
+      3
     ],
     [
       "결혼",
+      3
+    ],
+    [
+      "아내",
+      3
+    ],
+    [
+      "놀뭐",
+      3
+    ],
+    [
+      "정준원",
+      3
+    ],
+    [
+      "김부장",
+      3
+    ],
+    [
+      "유재석",
+      3
+    ],
+    [
+      "청문회",
+      3
+    ],
+    [
+      "향한",
       2
     ]
   ],
-  "total_topics_generated": 16,
-  "valid_topics": 16,
+  "total_topics_generated": 23,
+  "valid_topics": 23,
   "excluded_duplicates": 0
 }
