@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-03 18:49:04",
+  "scan_time": "2026-08-03 22:03:46",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,260 +8,17 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 30
+    "MLB파크 불펜": 0
   },
-  "total_articles": 80,
+  "total_articles": 50,
   "articles": [
     {
-      "title": "tvN 또 큰 거 온다…'6억뷰' 웹툰 원작→글로벌 1위 배우의 첫 로코물 ('최애의사원')",
-      "url": "https://m.entertain.naver.com/article/312/0000770395",
+      "title": "김희철, 11년 만에 '아형' 결국 그만둔 이유 \"강호동에 방송 마인드 배웠다\"",
+      "url": "https://m.entertain.naver.com/article/076/0004432283",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 88135,
+      "views": 1089705,
       "rank": 1,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'리틀 싸이' 이후 잘 사는 줄…황민우 \"베트남 母에 악플 직격→연예인 길 후회\" ('동치미')",
-      "url": "https://m.entertain.naver.com/article/213/0001396563",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 66895,
-      "rank": 2,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "♥티파니 손 꼭 잡았다…변요한, 결혼 후 첫 부부 투샷 공개",
-      "url": "https://m.entertain.naver.com/article/312/0000770327",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 65339,
-      "rank": 3,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "‘거식증 의혹’ 아리아나 그란데, 활동 중단 선언…“대중의 감시에서 벗어나고파”",
-      "url": "https://m.entertain.naver.com/article/144/0001129624",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 49523,
-      "rank": 4,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'미우새' 만든 전 SBS 예능본부장..최영인, SM C&C 엔터사업 대표 선임",
-      "url": "https://m.entertain.naver.com/article/108/0003458803",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 48735,
-      "rank": 5,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "‘유부녀 킬러’ 정준원, ‘놀뭐’ 출연 후폭풍…내향인인가 무성의인가",
-      "url": "https://m.entertain.naver.com/article/009/0005715951",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 36548,
-      "rank": 6,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'최태준♥' 박신혜, 둘째는 딸? 왕리본 달고 만삭 태교",
-      "url": "https://m.entertain.naver.com/article/108/0003458790",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 32855,
-      "rank": 7,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "‘흑백요리사’ 김도윤, 배우 김서연과 공개 열애…“만난 지 4년”",
-      "url": "https://m.entertain.naver.com/article/009/0005715708",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 26570,
-      "rank": 8,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "‘손종원 열애설’ 여연희, 파리서 ♥남친과 입맞춤 포착",
-      "url": "https://m.entertain.naver.com/article/144/0001129653",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 21391,
-      "rank": 9,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "리센느 원이 담임 교사, 쿨하게 계정 삭제…“잘 해결된듯 하니, 이만”",
-      "url": "https://m.entertain.naver.com/article/468/0001257360",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 21259,
-      "rank": 10,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'결혼 11년 차' 배우♥배우 부부, 지하철서 포착된 달달한 모습…소탈한 주말 데이트",
-      "url": "https://m.entertain.naver.com/article/213/0001396562",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 17075,
-      "rank": 11,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'이윤지♥' 치과의사 남편, 수술 후 몰라보게 달라진 얼굴..\"우리 신랑 힘내라\"",
-      "url": "https://m.entertain.naver.com/article/076/0004432438",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 16807,
-      "rank": 12,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "리센느 원이, 억지 일진설에도 쿨 반응 \"내 옛날사진 보고 탈덕 마\"",
-      "url": "https://m.entertain.naver.com/article/076/0004432603",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 16198,
-      "rank": 13,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "고영욱, 이번엔 이지혜 저격 “49평이 미니멀리즘? 까불더니 출세해”",
-      "url": "https://m.entertain.naver.com/article/009/0005715726",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 15744,
-      "rank": 14,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"내가 지금 뭘 본 거지\"…웬디, 거식증 걱정 부른 극한의 뼈말라",
-      "url": "https://m.entertain.naver.com/article/109/0005583104",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 15712,
-      "rank": 15,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "열애설 2주 만에…17개 광고 싹쓸이한 여배우, 축구국대 캡틴과 '혼전임신·결혼' 고백",
-      "url": "https://m.entertain.naver.com/article/117/0004091234",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 14142,
-      "rank": 16,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'하시2' 이규빈♥안선미, 진짜 결혼한다…한복 웨딩화보 대방출",
-      "url": "https://m.entertain.naver.com/article/117/0004091318",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 13899,
-      "rank": 17,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "이효리, 정치 논쟁에 결국 '영업 중단' 선언...\"오늘은 빠지면 안될까요\" ('연애전쟁')",
-      "url": "https://m.entertain.naver.com/article/076/0004432450",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 13853,
-      "rank": 18,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "이진호 \"황정민 폭로자, 상당한 미모의 40대 여성\"",
-      "url": "https://m.entertain.naver.com/article/445/0000445116",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 12847,
-      "rank": 19,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "다 방송용 연애였다…'55세 미혼' 박소현, 알고보니 22년째 솔로 \"서른 초반이 마지막\" ('미우새')",
-      "url": "https://m.entertain.naver.com/article/312/0000770299",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 12425,
-      "rank": 20,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "이혼 후 면접교섭권 행사...최동석, '의대 준비' 딸과 오랜만에 만남 \"둘만의 시간 필요해\"",
-      "url": "https://m.entertain.naver.com/article/076/0004432421",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 10349,
-      "rank": 21,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'응팔 노을이' 최성원, 백혈병 재발 고백에 눈물…\"너무 힘들었다\"",
-      "url": "https://m.entertain.naver.com/article/477/0000621684",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 9529,
-      "rank": 22,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'130→56kg' 32기 영숙, '폐암 투병' 동생 홍보 의혹에 분노 \"어떤 가족이 그러겠냐\"",
-      "url": "https://m.entertain.naver.com/article/477/0000621734",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 8358,
-      "rank": 23,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'부친상' 유혜주, 암투병 부친과 마지막 만남…\"잠깐이라도 뵙길 잘했다\" 먹먹 (리쥬라이크)",
-      "url": "https://m.entertain.naver.com/article/311/0002041304",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 8325,
-      "rank": 24,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'시험관 성공' 김지민, 입덧 대신 먹덧 고통…♥김준호도 확 달라졌다",
-      "url": "https://m.entertain.naver.com/article/076/0004432623",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 7911,
-      "rank": 25,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "하원미, 돈 몇 푼 아끼려고 빨래방 갔다가…\"옷 전부 도둑 맞았다, 이게 맞아?\"",
-      "url": "https://m.entertain.naver.com/article/311/0002041081",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 7421,
-      "rank": 26,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "임수향, ‘신기생뎐’ 15년간 재방료 못 받았다…“돈이 쌓이고 있는데” (‘미우새’)",
-      "url": "https://m.entertain.naver.com/article/312/0000770262",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 7414,
-      "rank": 27,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "남보라 아들 \"안 태어났으면 어쩔 뻔\"…생후 2개월 벌써 표정 생겼다",
-      "url": "https://m.entertain.naver.com/article/311/0002041084",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 7202,
-      "rank": 28,
       "channel": "정보주는하마"
     },
     {
@@ -269,16 +26,259 @@
       "url": "https://m.entertain.naver.com/article/477/0000621590",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 6721,
+      "views": 742284,
+      "rank": 2,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'박성광과 이혼 부인' 이솔이 \"남은 건 이별뿐\"..서글픈 심경 고백",
+      "url": "https://m.entertain.naver.com/article/108/0003458692",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 714307,
+      "rank": 3,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "‘흑백요리사’ 김도윤, 배우 김서연과 공개 열애…“만난 지 4년”",
+      "url": "https://m.entertain.naver.com/article/009/0005715708",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 642488,
+      "rank": 4,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'다운증후군 작가' 서은혜, ♥조영남과 이혼설 확산에 결국 입 열었다",
+      "url": "https://m.entertain.naver.com/article/311/0002041020",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 596298,
+      "rank": 5,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "♥티파니 손 꼭 잡았다…변요한, 결혼 후 첫 부부 투샷 공개",
+      "url": "https://m.entertain.naver.com/article/312/0000770327",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 522750,
+      "rank": 6,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "리센느 원이 담임 교사, 쿨하게 계정 삭제…“잘 해결된듯 하니, 이만”",
+      "url": "https://m.entertain.naver.com/article/468/0001257360",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 520883,
+      "rank": 7,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'미우새' 만든 전 SBS 예능본부장..최영인, SM C&C 엔터사업 대표 선임",
+      "url": "https://m.entertain.naver.com/article/108/0003458803",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 515285,
+      "rank": 8,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "걸그룹 전 멤버, 생방송서 임신 발표→활동 중단…\"억측 자체 해달라\"",
+      "url": "https://m.entertain.naver.com/article/445/0000444671",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 385060,
+      "rank": 9,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "임수향, ‘신기생뎐’ 15년간 재방료 못 받았다…“돈이 쌓이고 있는데” (‘미우새’)",
+      "url": "https://m.entertain.naver.com/article/312/0000770262",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 335262,
+      "rank": 10,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'최태준♥' 박신혜, 둘째는 딸? 왕리본 달고 만삭 태교",
+      "url": "https://m.entertain.naver.com/article/108/0003458790",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 333030,
+      "rank": 11,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "전소미 맞아? '갑자기' 이런 모습은 처음...화보가 된 수영복 자태",
+      "url": "https://m.entertain.naver.com/article/109/0005582867",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 291625,
+      "rank": 12,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'리틀 싸이' 이후 잘 사는 줄…황민우 \"베트남 母에 악플 직격→연예인 길 후회\" ('동치미')",
+      "url": "https://m.entertain.naver.com/article/213/0001396563",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 290848,
+      "rank": 13,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "‘거식증 의혹’ 아리아나 그란데, 활동 중단 선언…“대중의 감시에서 벗어나고파”",
+      "url": "https://m.entertain.naver.com/article/144/0001129624",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 255005,
+      "rank": 14,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "‘45세’ 조여정, 김재철과 결혼사진 공개…웨딩드레스 입고 볼키스까지(지금 불륜)",
+      "url": "https://m.entertain.naver.com/article/410/0001134867",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 229731,
+      "rank": 15,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "60억대 자가 전현무, 독립 전 살던 본가 공개 “아직도 그대로”(사당귀)",
+      "url": "https://m.entertain.naver.com/article/609/0001152904",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 223439,
+      "rank": 16,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "한서희, ♥외국인 모델 열애 ‘거짓’이었다…“좋다고 해서 찍었다”",
+      "url": "https://m.entertain.naver.com/article/241/0003523275",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 222264,
+      "rank": 17,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'흑백요리사' 김도윤 셰프, 배우 김서연과 열애 공개 \"숨겨져 있는 관계, 문제였다\"",
+      "url": "https://m.entertain.naver.com/article/477/0000621548",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 214169,
+      "rank": 18,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'이윤지♥' 치과의사 남편, 수술 후 몰라보게 달라진 얼굴..\"우리 신랑 힘내라\"",
+      "url": "https://m.entertain.naver.com/article/076/0004432438",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 185240,
+      "rank": 19,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "tvN 또 큰 거 온다…'6억뷰' 웹툰 원작→글로벌 1위 배우의 첫 로코물 ('최애의사원')",
+      "url": "https://m.entertain.naver.com/article/312/0000770395",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 167813,
+      "rank": 20,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'모친상' 고경표, 가족사 고백…\"어머니 투병 후 삶의 태도 바뀌어\" (놀러코스터)",
+      "url": "https://m.entertain.naver.com/article/311/0002040823",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 150676,
+      "rank": 21,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "다 방송용 연애였다…'55세 미혼' 박소현, 알고보니 22년째 솔로 \"서른 초반이 마지막\" ('미우새')",
+      "url": "https://m.entertain.naver.com/article/312/0000770299",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 148743,
+      "rank": 22,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "MBC 인터뷰 도중 \"그만 물어보면 안 돼요?\"…금새록, 비명 지르며 과거 회상 ('심야괴담회')",
+      "url": "https://m.entertain.naver.com/article/312/0000770190",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 128483,
+      "rank": 23,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'정영림♥' 심현섭, 母 빚 15억 떠안았다…\"하루에 3억 벌었는데\"",
+      "url": "https://m.entertain.naver.com/article/117/0004090995",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 128442,
+      "rank": 24,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "SBS 작정했다…최고 시청률 11% 흥행 신화→2년 만에 '도파민' 서사로 돌아오는 韓 드라마 ('재벌X형사2')",
+      "url": "https://m.entertain.naver.com/article/213/0001396497",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 119360,
+      "rank": 25,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "손나은, 윤보미 결혼식 불참 이유 있었다…\"축하 마음은 변함없어\"",
+      "url": "https://m.entertain.naver.com/article/445/0000444683",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 119354,
+      "rank": 26,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'아빠어디가' 준수 맞아? 194cm 중앙대 새내기 근황..\"농구해도 될듯\" ('아형')",
+      "url": "https://m.entertain.naver.com/article/076/0004432128",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 117608,
+      "rank": 27,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "母는 VCR 보자 당황...'43세' 김희철, 만취 사진 공개→성시경은 해명까지 ('미우새')",
+      "url": "https://m.entertain.naver.com/article/445/0000445127",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 116223,
+      "rank": 28,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "정지선, 장기근속 직원에 고급세단 선물...\"차 부담되면 명품백도 가능\" (사당귀)",
+      "url": "https://m.entertain.naver.com/article/311/0002041064",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 115403,
       "rank": 29,
       "channel": "정보주는하마"
     },
     {
-      "title": "시청률 또 떨어졌다…4주 연속 하락세, 이번엔 바캉스 특집 ('1박 2일')",
-      "url": "https://m.entertain.naver.com/article/312/0000770323",
+      "title": "'흑백요리사' 김도윤 셰프, 배우 김서연과 4년째 열애 중",
+      "url": "https://m.entertain.naver.com/article/437/0000504197",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 5825,
+      "views": 109311,
       "rank": 30,
       "channel": "정보주는하마"
     },
@@ -451,16 +451,16 @@
         {
           "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
           "angle_type": "자산·몸값",
-          "article_count": 3,
-          "source_article": "이강인+살라 미친 조합 현실화! AT 마드리드 2+1년 계약 제시…베식타시 고액 연봉에 영입 포기 '호재'",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "article_count": 5,
+          "source_article": "60억대 자가 전현무, 독립 전 살던 본가 공개 “아직도 그대로”(사당귀)",
+          "source_url": "https://m.entertain.naver.com/article/609/0001152904",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "온다",
-            "억뷰",
-            "웹툰",
-            "원작",
-            "글로벌"
+            "억대",
+            "자가",
+            "전현무",
+            "독립",
+            "살던"
           ],
           "template": "자산 서열",
           "score": 7.4,
@@ -511,54 +511,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 6,
-          "source_article": "박문성 해설위원 충격 주장 \"김병지 대표이사, 아들 사적으로 토트넘 연수 포함시켰다\"",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "아들",
-            "이혼",
-            "최태준",
-            "박신혜",
-            "둘째는"
-          ],
-          "template": "동갑내기",
-          "score": 7.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "title": "\"열애 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
           "angle_type": "결혼·이혼",
-          "article_count": 9,
-          "source_article": "\"이미 배에 아이가 있습니다\" 일본 국가대표 수비수, 경사 났다...미녀 인기 배우와 전격 결혼 발표",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "article_count": 12,
+          "source_article": "'고지용과 이혼' 허양임, 아들 향한 심경글 공개 \"많이 컸구나 싶다\"",
+          "source_url": "https://m.entertain.naver.com/article/477/0000621590",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "결혼",
-            "배우",
-            "부부",
-            "열애설",
-            "이혼"
+            "열애",
+            "흑백요",
+            "리사",
+            "김도윤",
+            "배우"
           ],
           "template": "결혼 화제",
-          "score": 6.8,
+          "score": 7.1,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -577,9 +544,42 @@
           "channel": "정보주는하마"
         },
         {
+          "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+          "angle_type": "가족·혈연",
+          "article_count": 4,
+          "source_article": "'고지용과 이혼' 허양임, 아들 향한 심경글 공개 \"많이 컸구나 싶다\"",
+          "source_url": "https://m.entertain.naver.com/article/477/0000621590",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "아들",
+            "고지용",
+            "이혼",
+            "허양임",
+            "향한"
+          ],
+          "template": "동갑내기",
+          "score": 6.6,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "나이",
+              "대표작",
+              "현재 활동"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
           "title": "\"미우새\" 관련 화제 스타 TOP10",
           "angle_type": "👤 미우새",
-          "article_count": 3,
+          "article_count": 4,
           "source_article": "'미우새' 만든 전 SBS 예능본부장..최영인, SM C&C 엔터사업 대표 선임",
           "source_url": "https://m.entertain.naver.com/article/108/0003458803",
           "source_name": "엔터 많이 본 뉴스",
@@ -606,9 +606,183 @@
           "channel": "정보주는하마"
         },
         {
+          "title": "\"김서연 결혼설?\" 김서연 연애사 총정리",
+          "angle_type": "👤 김서연",
+          "article_count": 3,
+          "source_article": "‘흑백요리사’ 김도윤, 배우 김서연과 공개 열애…“만난 지 4년”",
+          "source_url": "https://m.entertain.naver.com/article/009/0005715708",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "김서연"
+          ],
+          "template": "결혼 화제",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"배우 결혼설?\" 배우 연애사 총정리",
+          "angle_type": "👤 배우",
+          "article_count": 3,
+          "source_article": "‘흑백요리사’ 김도윤, 배우 김서연과 공개 열애…“만난 지 4년”",
+          "source_url": "https://m.entertain.naver.com/article/009/0005715708",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "배우"
+          ],
+          "template": "결혼 화제",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"김도윤 결혼설?\" 김도윤 연애사 총정리",
+          "angle_type": "👤 김도윤",
+          "article_count": 3,
+          "source_article": "‘흑백요리사’ 김도윤, 배우 김서연과 공개 열애…“만난 지 4년”",
+          "source_url": "https://m.entertain.naver.com/article/009/0005715708",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "김도윤"
+          ],
+          "template": "결혼 화제",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"리사 결혼설?\" 리사 연애사 총정리",
+          "angle_type": "👤 리사",
+          "article_count": 3,
+          "source_article": "‘흑백요리사’ 김도윤, 배우 김서연과 공개 열애…“만난 지 4년”",
+          "source_url": "https://m.entertain.naver.com/article/009/0005715708",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "리사"
+          ],
+          "template": "결혼 화제",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"흑백요 결혼설?\" 흑백요 연애사 총정리",
+          "angle_type": "👤 흑백요",
+          "article_count": 3,
+          "source_article": "‘흑백요리사’ 김도윤, 배우 김서연과 공개 열애…“만난 지 4년”",
+          "source_url": "https://m.entertain.naver.com/article/009/0005715708",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "흑백요"
+          ],
+          "template": "결혼 화제",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"이런\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 이런",
+          "article_count": 3,
+          "source_article": "전소미 맞아? '갑자기' 이런 모습은 처음...화보가 된 수영복 자태",
+          "source_url": "https://m.entertain.naver.com/article/109/0005582867",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "이런"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
           "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
           "angle_type": "투병·건강",
-          "article_count": 3,
+          "article_count": 2,
           "source_article": "'이윤지♥' 치과의사 남편, 수술 후 몰라보게 달라진 얼굴..\"우리 신랑 힘내라\"",
           "source_url": "https://m.entertain.naver.com/article/076/0004432438",
           "source_name": "엔터 많이 본 뉴스",
@@ -620,7 +794,7 @@
             "몰라보"
           ],
           "template": "투병 극복",
-          "score": 6.0,
+          "score": 5.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -641,15 +815,31 @@
       ],
       "keyword_freq": [
         [
-          "결혼",
+          "열애",
           4
         ],
         [
           "미우새",
+          4
+        ],
+        [
+          "흑백요리사",
           3
         ],
         [
-          "아들",
+          "배우",
+          3
+        ],
+        [
+          "김도윤",
+          3
+        ],
+        [
+          "김서연과",
+          3
+        ],
+        [
+          "이런",
           3
         ],
         [
@@ -661,51 +851,15 @@
           3
         ],
         [
-          "부부",
+          "아형",
           2
         ],
         [
-          "중단",
+          "김희철",
           2
         ],
         [
-          "거식증",
-          2
-        ],
-        [
-          "선언",
-          2
-        ],
-        [
-          "의혹",
-          2
-        ],
-        [
-          "배우",
-          2
-        ],
-        [
-          "열애설",
-          2
-        ],
-        [
-          "원이",
-          2
-        ],
-        [
-          "리센느",
-          2
-        ],
-        [
-          "반응",
-          2
-        ],
-        [
-          "이번엔",
-          2
-        ],
-        [
-          "마지막",
+          "아들",
           2
         ],
         [
@@ -713,25 +867,65 @@
           2
         ],
         [
-          "만남",
+          "고백",
           2
         ],
         [
-          "연속",
+          "결혼",
+          2
+        ],
+        [
+          "중단",
+          2
+        ],
+        [
+          "맞아",
+          2
+        ],
+        [
+          "의혹",
+          2
+        ],
+        [
+          "사당귀",
+          2
+        ],
+        [
+          "외국인",
           2
         ]
       ],
       "name_freq": [
         [
-          "결혼",
+          "열애",
           4
         ],
         [
           "미우새",
+          4
+        ],
+        [
+          "김서연",
           3
         ],
         [
-          "아들",
+          "배우",
+          3
+        ],
+        [
+          "김도윤",
+          3
+        ],
+        [
+          "리사",
+          3
+        ],
+        [
+          "흑백요",
+          3
+        ],
+        [
+          "이런",
           3
         ],
         [
@@ -743,58 +937,38 @@
           3
         ],
         [
-          "부부",
+          "아형",
           2
         ],
         [
-          "중단",
+          "김희철",
           2
         ],
         [
-          "거식증",
+          "아들",
           2
         ],
         [
-          "선언",
+          "이혼",
           2
         ],
         [
-          "의혹",
-          2
-        ],
-        [
-          "배우",
-          2
-        ],
-        [
-          "열애설",
-          2
-        ],
-        [
-          "원이",
-          2
-        ],
-        [
-          "리센느",
-          2
-        ],
-        [
-          "반응",
+          "고백",
           2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
-          3
+          5
         ],
         [
           "결혼·이혼",
-          9
+          12
         ],
         [
           "투병·건강",
-          3
+          2
         ],
         [
           "스포츠",
@@ -802,12 +976,12 @@
         ],
         [
           "가족·혈연",
-          6
+          4
         ]
       ]
     },
     "초구딱": {
-      "article_count": 39,
+      "article_count": 9,
       "topics": [
         {
           "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
@@ -845,7 +1019,7 @@
         {
           "title": "\"감경까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
           "angle_type": "논란·사건",
-          "article_count": 3,
+          "article_count": 2,
           "source_article": "美기자 충격 폭로! \"김하성 방출, 구단 내 다수가 원하는 결정→다만 이뤄지긴 어려울 것\"",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -857,7 +1031,7 @@
             "구단"
           ],
           "template": "논란 집합",
-          "score": 7.0,
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -874,78 +1048,12 @@
             ]
           },
           "channel": "초구딱"
-        },
-        {
-          "title": "\"말이\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 말이",
-          "article_count": 3,
-          "source_article": "\"이럴 거면 FC서울에 남지\" 김기동 감독 말이 현실로…린가드, 평점 3점 굴욕+리그 11경기 0골→주전 경쟁도 밀렸다",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "말이"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"안내\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 안내",
-          "article_count": 3,
-          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "안내"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
         [
           "감독",
           5
-        ],
-        [
-          "말이",
-          3
-        ],
-        [
-          "안내",
-          3
         ],
         [
           "이럴",
@@ -960,43 +1068,7 @@
           2
         ],
         [
-          "엠팍",
-          2
-        ],
-        [
-          "워터밤",
-          2
-        ],
-        [
-          "실시간",
-          2
-        ],
-        [
-          "재개봉",
-          2
-        ],
-        [
-          "반대",
-          1
-        ],
-        [
           "대반전",
-          1
-        ],
-        [
-          "돌아",
-          1
-        ],
-        [
-          "오갔다",
-          1
-        ],
-        [
-          "축구",
-          1
-        ],
-        [
-          "선임",
           1
         ],
         [
@@ -1008,11 +1080,55 @@
           1
         ],
         [
-          "언성까지",
+          "홍명보",
+          1
+        ],
+        [
+          "회장",
+          1
+        ],
+        [
+          "축구",
           1
         ],
         [
           "돌고",
+          1
+        ],
+        [
+          "돌아",
+          1
+        ],
+        [
+          "반대",
+          1
+        ],
+        [
+          "선임",
+          1
+        ],
+        [
+          "오갔다",
+          1
+        ],
+        [
+          "언성까지",
+          1
+        ],
+        [
+          "수가",
+          1
+        ],
+        [
+          "라이선스",
+          1
+        ],
+        [
+          "촌평",
+          1
+        ],
+        [
+          "대표팀",
           1
         ]
       ],
@@ -1020,14 +1136,6 @@
         [
           "감독",
           5
-        ],
-        [
-          "말이",
-          3
-        ],
-        [
-          "안내",
-          3
         ],
         [
           "이럴",
@@ -1040,32 +1148,12 @@
         [
           "글러브",
           2
-        ],
-        [
-          "는데",
-          2
-        ],
-        [
-          "엠팍",
-          2
-        ],
-        [
-          "워터밤",
-          2
-        ],
-        [
-          "실시간",
-          2
-        ],
-        [
-          "재개봉",
-          2
         ]
       ],
       "angle_scores": [
         [
           "논란·사건",
-          3
+          2
         ],
         [
           "스포츠",
@@ -1140,16 +1228,16 @@
     {
       "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
       "angle_type": "자산·몸값",
-      "article_count": 3,
-      "source_article": "이강인+살라 미친 조합 현실화! AT 마드리드 2+1년 계약 제시…베식타시 고액 연봉에 영입 포기 '호재'",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "article_count": 5,
+      "source_article": "60억대 자가 전현무, 독립 전 살던 본가 공개 “아직도 그대로”(사당귀)",
+      "source_url": "https://m.entertain.naver.com/article/609/0001152904",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "온다",
-        "억뷰",
-        "웹툰",
-        "원작",
-        "글로벌"
+        "억대",
+        "자가",
+        "전현무",
+        "독립",
+        "살던"
       ],
       "template": "자산 서열",
       "score": 7.4,
@@ -1200,54 +1288,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 6,
-      "source_article": "박문성 해설위원 충격 주장 \"김병지 대표이사, 아들 사적으로 토트넘 연수 포함시켰다\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "아들",
-        "이혼",
-        "최태준",
-        "박신혜",
-        "둘째는"
-      ],
-      "template": "동갑내기",
-      "score": 7.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "title": "\"열애 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
       "angle_type": "결혼·이혼",
-      "article_count": 9,
-      "source_article": "\"이미 배에 아이가 있습니다\" 일본 국가대표 수비수, 경사 났다...미녀 인기 배우와 전격 결혼 발표",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "article_count": 12,
+      "source_article": "'고지용과 이혼' 허양임, 아들 향한 심경글 공개 \"많이 컸구나 싶다\"",
+      "source_url": "https://m.entertain.naver.com/article/477/0000621590",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "결혼",
-        "배우",
-        "부부",
-        "열애설",
-        "이혼"
+        "열애",
+        "흑백요",
+        "리사",
+        "김도윤",
+        "배우"
       ],
       "template": "결혼 화제",
-      "score": 6.8,
+      "score": 7.1,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1266,9 +1321,42 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 4,
+      "source_article": "'고지용과 이혼' 허양임, 아들 향한 심경글 공개 \"많이 컸구나 싶다\"",
+      "source_url": "https://m.entertain.naver.com/article/477/0000621590",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "아들",
+        "고지용",
+        "이혼",
+        "허양임",
+        "향한"
+      ],
+      "template": "동갑내기",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "나이",
+          "대표작",
+          "현재 활동"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"미우새\" 관련 화제 스타 TOP10",
       "angle_type": "👤 미우새",
-      "article_count": 3,
+      "article_count": 4,
       "source_article": "'미우새' 만든 전 SBS 예능본부장..최영인, SM C&C 엔터사업 대표 선임",
       "source_url": "https://m.entertain.naver.com/article/108/0003458803",
       "source_name": "엔터 많이 본 뉴스",
@@ -1295,9 +1383,183 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"김서연 결혼설?\" 김서연 연애사 총정리",
+      "angle_type": "👤 김서연",
+      "article_count": 3,
+      "source_article": "‘흑백요리사’ 김도윤, 배우 김서연과 공개 열애…“만난 지 4년”",
+      "source_url": "https://m.entertain.naver.com/article/009/0005715708",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "김서연"
+      ],
+      "template": "결혼 화제",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"배우 결혼설?\" 배우 연애사 총정리",
+      "angle_type": "👤 배우",
+      "article_count": 3,
+      "source_article": "‘흑백요리사’ 김도윤, 배우 김서연과 공개 열애…“만난 지 4년”",
+      "source_url": "https://m.entertain.naver.com/article/009/0005715708",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "배우"
+      ],
+      "template": "결혼 화제",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"김도윤 결혼설?\" 김도윤 연애사 총정리",
+      "angle_type": "👤 김도윤",
+      "article_count": 3,
+      "source_article": "‘흑백요리사’ 김도윤, 배우 김서연과 공개 열애…“만난 지 4년”",
+      "source_url": "https://m.entertain.naver.com/article/009/0005715708",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "김도윤"
+      ],
+      "template": "결혼 화제",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"리사 결혼설?\" 리사 연애사 총정리",
+      "angle_type": "👤 리사",
+      "article_count": 3,
+      "source_article": "‘흑백요리사’ 김도윤, 배우 김서연과 공개 열애…“만난 지 4년”",
+      "source_url": "https://m.entertain.naver.com/article/009/0005715708",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "리사"
+      ],
+      "template": "결혼 화제",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"흑백요 결혼설?\" 흑백요 연애사 총정리",
+      "angle_type": "👤 흑백요",
+      "article_count": 3,
+      "source_article": "‘흑백요리사’ 김도윤, 배우 김서연과 공개 열애…“만난 지 4년”",
+      "source_url": "https://m.entertain.naver.com/article/009/0005715708",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "흑백요"
+      ],
+      "template": "결혼 화제",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이런\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 이런",
+      "article_count": 3,
+      "source_article": "전소미 맞아? '갑자기' 이런 모습은 처음...화보가 된 수영복 자태",
+      "source_url": "https://m.entertain.naver.com/article/109/0005582867",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "이런"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
       "angle_type": "투병·건강",
-      "article_count": 3,
+      "article_count": 2,
       "source_article": "'이윤지♥' 치과의사 남편, 수술 후 몰라보게 달라진 얼굴..\"우리 신랑 힘내라\"",
       "source_url": "https://m.entertain.naver.com/article/076/0004432438",
       "source_name": "엔터 많이 본 뉴스",
@@ -1309,7 +1571,7 @@
         "몰라보"
       ],
       "template": "투병 극복",
-      "score": 6.0,
+      "score": 5.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1394,16 +1656,16 @@
     {
       "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
       "angle_type": "자산·몸값",
-      "article_count": 3,
-      "source_article": "이강인+살라 미친 조합 현실화! AT 마드리드 2+1년 계약 제시…베식타시 고액 연봉에 영입 포기 '호재'",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "article_count": 5,
+      "source_article": "60억대 자가 전현무, 독립 전 살던 본가 공개 “아직도 그대로”(사당귀)",
+      "source_url": "https://m.entertain.naver.com/article/609/0001152904",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "온다",
-        "억뷰",
-        "웹툰",
-        "원작",
-        "글로벌"
+        "억대",
+        "자가",
+        "전현무",
+        "독립",
+        "살던"
       ],
       "template": "자산 서열",
       "score": 7.4,
@@ -1454,54 +1716,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 6,
-      "source_article": "박문성 해설위원 충격 주장 \"김병지 대표이사, 아들 사적으로 토트넘 연수 포함시켰다\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "아들",
-        "이혼",
-        "최태준",
-        "박신혜",
-        "둘째는"
-      ],
-      "template": "동갑내기",
-      "score": 7.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "title": "\"열애 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
       "angle_type": "결혼·이혼",
-      "article_count": 9,
-      "source_article": "\"이미 배에 아이가 있습니다\" 일본 국가대표 수비수, 경사 났다...미녀 인기 배우와 전격 결혼 발표",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "article_count": 12,
+      "source_article": "'고지용과 이혼' 허양임, 아들 향한 심경글 공개 \"많이 컸구나 싶다\"",
+      "source_url": "https://m.entertain.naver.com/article/477/0000621590",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "결혼",
-        "배우",
-        "부부",
-        "열애설",
-        "이혼"
+        "열애",
+        "흑백요",
+        "리사",
+        "김도윤",
+        "배우"
       ],
       "template": "결혼 화제",
-      "score": 6.8,
+      "score": 7.1,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1520,9 +1749,42 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 4,
+      "source_article": "'고지용과 이혼' 허양임, 아들 향한 심경글 공개 \"많이 컸구나 싶다\"",
+      "source_url": "https://m.entertain.naver.com/article/477/0000621590",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "아들",
+        "고지용",
+        "이혼",
+        "허양임",
+        "향한"
+      ],
+      "template": "동갑내기",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "나이",
+          "대표작",
+          "현재 활동"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"미우새\" 관련 화제 스타 TOP10",
       "angle_type": "👤 미우새",
-      "article_count": 3,
+      "article_count": 4,
       "source_article": "'미우새' 만든 전 SBS 예능본부장..최영인, SM C&C 엔터사업 대표 선임",
       "source_url": "https://m.entertain.naver.com/article/108/0003458803",
       "source_name": "엔터 많이 본 뉴스",
@@ -1549,9 +1811,183 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"김서연 결혼설?\" 김서연 연애사 총정리",
+      "angle_type": "👤 김서연",
+      "article_count": 3,
+      "source_article": "‘흑백요리사’ 김도윤, 배우 김서연과 공개 열애…“만난 지 4년”",
+      "source_url": "https://m.entertain.naver.com/article/009/0005715708",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "김서연"
+      ],
+      "template": "결혼 화제",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"배우 결혼설?\" 배우 연애사 총정리",
+      "angle_type": "👤 배우",
+      "article_count": 3,
+      "source_article": "‘흑백요리사’ 김도윤, 배우 김서연과 공개 열애…“만난 지 4년”",
+      "source_url": "https://m.entertain.naver.com/article/009/0005715708",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "배우"
+      ],
+      "template": "결혼 화제",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"김도윤 결혼설?\" 김도윤 연애사 총정리",
+      "angle_type": "👤 김도윤",
+      "article_count": 3,
+      "source_article": "‘흑백요리사’ 김도윤, 배우 김서연과 공개 열애…“만난 지 4년”",
+      "source_url": "https://m.entertain.naver.com/article/009/0005715708",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "김도윤"
+      ],
+      "template": "결혼 화제",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"리사 결혼설?\" 리사 연애사 총정리",
+      "angle_type": "👤 리사",
+      "article_count": 3,
+      "source_article": "‘흑백요리사’ 김도윤, 배우 김서연과 공개 열애…“만난 지 4년”",
+      "source_url": "https://m.entertain.naver.com/article/009/0005715708",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "리사"
+      ],
+      "template": "결혼 화제",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"흑백요 결혼설?\" 흑백요 연애사 총정리",
+      "angle_type": "👤 흑백요",
+      "article_count": 3,
+      "source_article": "‘흑백요리사’ 김도윤, 배우 김서연과 공개 열애…“만난 지 4년”",
+      "source_url": "https://m.entertain.naver.com/article/009/0005715708",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "흑백요"
+      ],
+      "template": "결혼 화제",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이런\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 이런",
+      "article_count": 3,
+      "source_article": "전소미 맞아? '갑자기' 이런 모습은 처음...화보가 된 수영복 자태",
+      "source_url": "https://m.entertain.naver.com/article/109/0005582867",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "이런"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
       "angle_type": "투병·건강",
-      "article_count": 3,
+      "article_count": 2,
       "source_article": "'이윤지♥' 치과의사 남편, 수술 후 몰라보게 달라진 얼굴..\"우리 신랑 힘내라\"",
       "source_url": "https://m.entertain.naver.com/article/076/0004432438",
       "source_name": "엔터 많이 본 뉴스",
@@ -1563,7 +1999,7 @@
         "몰라보"
       ],
       "template": "투병 극복",
-      "score": 6.0,
+      "score": 5.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1617,7 +2053,7 @@
     {
       "title": "\"감경까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
       "angle_type": "논란·사건",
-      "article_count": 3,
+      "article_count": 2,
       "source_article": "美기자 충격 폭로! \"김하성 방출, 구단 내 다수가 원하는 결정→다만 이뤄지긴 어려울 것\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -1629,7 +2065,7 @@
         "구단"
       ],
       "template": "논란 집합",
-      "score": 7.0,
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1646,77 +2082,35 @@
         ]
       },
       "channel": "초구딱"
-    },
-    {
-      "title": "\"말이\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 말이",
-      "article_count": 3,
-      "source_article": "\"이럴 거면 FC서울에 남지\" 김기동 감독 말이 현실로…린가드, 평점 3점 굴욕+리그 11경기 0골→주전 경쟁도 밀렸다",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "말이"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
-      "article_count": 3,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "안내"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
     [
-      "결혼",
+      "열애",
       4
     ],
     [
       "미우새",
+      4
+    ],
+    [
+      "흑백요리사",
       3
     ],
     [
-      "아들",
+      "배우",
+      3
+    ],
+    [
+      "김도윤",
+      3
+    ],
+    [
+      "김서연과",
+      3
+    ],
+    [
+      "이런",
       3
     ],
     [
@@ -1728,51 +2122,15 @@
       3
     ],
     [
-      "부부",
+      "아형",
       2
     ],
     [
-      "중단",
+      "김희철",
       2
     ],
     [
-      "거식증",
-      2
-    ],
-    [
-      "선언",
-      2
-    ],
-    [
-      "의혹",
-      2
-    ],
-    [
-      "배우",
-      2
-    ],
-    [
-      "열애설",
-      2
-    ],
-    [
-      "원이",
-      2
-    ],
-    [
-      "리센느",
-      2
-    ],
-    [
-      "반응",
-      2
-    ],
-    [
-      "이번엔",
-      2
-    ],
-    [
-      "마지막",
+      "아들",
       2
     ],
     [
@@ -1780,25 +2138,65 @@
       2
     ],
     [
-      "만남",
+      "고백",
       2
     ],
     [
-      "연속",
+      "결혼",
+      2
+    ],
+    [
+      "중단",
+      2
+    ],
+    [
+      "맞아",
+      2
+    ],
+    [
+      "의혹",
+      2
+    ],
+    [
+      "사당귀",
+      2
+    ],
+    [
+      "외국인",
       2
     ]
   ],
   "name_freq": [
     [
-      "결혼",
+      "열애",
       4
     ],
     [
       "미우새",
+      4
+    ],
+    [
+      "김서연",
       3
     ],
     [
-      "아들",
+      "배우",
+      3
+    ],
+    [
+      "김도윤",
+      3
+    ],
+    [
+      "리사",
+      3
+    ],
+    [
+      "흑백요",
+      3
+    ],
+    [
+      "이런",
       3
     ],
     [
@@ -1810,47 +2208,27 @@
       3
     ],
     [
-      "부부",
+      "아형",
       2
     ],
     [
-      "중단",
+      "김희철",
       2
     ],
     [
-      "거식증",
+      "아들",
       2
     ],
     [
-      "선언",
+      "이혼",
       2
     ],
     [
-      "의혹",
-      2
-    ],
-    [
-      "배우",
-      2
-    ],
-    [
-      "열애설",
-      2
-    ],
-    [
-      "원이",
-      2
-    ],
-    [
-      "리센느",
-      2
-    ],
-    [
-      "반응",
+      "고백",
       2
     ]
   ],
-  "total_topics_generated": 12,
-  "valid_topics": 12,
+  "total_topics_generated": 16,
+  "valid_topics": 16,
   "excluded_duplicates": 0
 }
