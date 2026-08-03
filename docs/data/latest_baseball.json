@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-02 21:50:42",
+  "scan_time": "2026-08-03 04:29:23",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,89 +8,359 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 0
+    "MLB파크 불펜": 30
   },
-  "total_articles": 50,
+  "total_articles": 80,
   "articles": [
     {
-      "title": "'하주석 왜 줬나?' 한화 팬들 뿔났다...KIA서 데려온 이형범 2군행",
+      "title": "'韓 축구 대반전' 정몽규 회장, 홍명보 감독 선임 반대 \"돌고 돌아 홍명보냐\" 큰 언성까지 오갔다 '충격'",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 294947,
-      "rank": 5,
+      "views": 37117,
+      "rank": 1,
       "channel": "초구딱"
     },
     {
-      "title": "'명문 클럽 거절, 韓 대표팀 원한다'…\"이강인 내 아들!\" 외쳤던 그 감독, 태극전사 지휘하나→\"한국 축구에 매력 느껴\"",
+      "title": "'이럴 수가' 日 레전드 혼다, 한국 대표팀 감독 공채 응시?…\"재미있는 시도\" 촌평→일본 팬들 \"어서 지원해 봐\", \"라이선스 없잖아\" 다양한 반응",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 203479,
+      "views": 31711,
+      "rank": 2,
+      "channel": "초구딱"
+    },
+    {
+      "title": "부정투구 의혹 고우석 \"야구 가치 훼손하는 선택 한 적 없다\" 항변 통했다! 10G→8G 징계 감경...오는 5일 마운드 복귀, 빅리그 재승격 이뤄낼까",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 25476,
+      "rank": 3,
+      "channel": "초구딱"
+    },
+    {
+      "title": "美기자 충격 폭로! \"김하성 방출, 구단 내 다수가 원하는 결정→다만 이뤄지긴 어려울 것\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 19475,
+      "rank": 4,
+      "channel": "초구딱"
+    },
+    {
+      "title": "고우석, 야구史 다시 썼다! 최초 기록 만들다…'글러브 이물질 논란' 항소 통했다→10G 출전정지 8G로 감경, MLB 첫 징계 감경 사례",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 13831,
+      "rank": 6,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'韓 국가대표 공격수' 오현규, 프리미어리그 진출 멀어진다...베식타스서 주전 차지 확률 UP \"감독, 한국인 공격수 OH, 매우 신뢰\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 12724,
       "rank": 7,
       "channel": "초구딱"
     },
     {
-      "title": "\"급여 지급 중단\" SF 결단 내렸다…이정후 위해 영입한 외야수, 스쿠터 사고에 음주 의혹까지 적발 충격",
+      "title": "\"입 가리지 마\" 글러브 확 끌어내린 김태형,  '또 흔들린 마무리' 김원중을 깨운 한마디",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 202259,
-      "rank": 8,
+      "views": 10661,
+      "rank": 11,
       "channel": "초구딱"
     },
     {
-      "title": "'홍명보 감독 약점 전부 파악 끝' 대한민국 절망·좌절→월드컵 탈락시켰던 74세 남아공 브로스 감독 '전격 사임' 아름다운 작별",
+      "title": "'래시포드의 꿈' 산산조각! 꿈의 구단 바르셀로나와 결별…결국 맨유 복귀→\"팀은 그를 그리워할 것\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 144591,
-      "rank": 10,
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"이임생, 사람 자체가 심장이 작아\"...이천수, 소신 발언 감독 선임 기자회견? \"그걸 왜 얘기했는지 미스테리로 남아 있어\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 105089,
-      "rank": 13,
-      "channel": "초구딱"
-    },
-    {
-      "title": "'살다살다 이런 블론세이브는 처음' 74구 퍼펙트가 물거품 됐다…LG 불펜, 카라스코 승리 날려, 염경엽 감독의 선택은 옳았나",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 100394,
-      "rank": 14,
-      "channel": "초구딱"
-    },
-    {
-      "title": "‘한화 울고 싶어라’ 13억 포기→6억 더 질렀는데 7실점 대참사+삼중살 굴욕…가을야구+5할 승률 다 멀어진다",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 99257,
-      "rank": 16,
-      "channel": "초구딱"
-    },
-    {
-      "title": "깜짝 반전! 홍명보 후임, '역대급 네임드' 사령탑 등판하나...'이강인 은사' 아기레 감독, \"대한축구협회 움직임 지켜보고 있어\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 97630,
+      "views": 7109,
       "rank": 17,
       "channel": "초구딱"
     },
     {
-      "title": "벤투 \"축구대표팀 임시 감독직 지원 안 한다\"…정식 감독 의사는 유지",
+      "title": "황선홍 감독 \"어떻게 하다 여기까지 왔는지 모르겠어...결과 말고는 다른 거 없다\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 88161,
+      "views": 6344,
+      "rank": 20,
+      "channel": "초구딱"
+    },
+    {
+      "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 1,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 2,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🛠️[공지] 해외 접속 장애 관련 안내_260522🛠️",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202605220000002082",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 3,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🔔[업데이트] 외부 링크 미리보기(Embed/OG 태그) 기능 추가 안내🔔",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202607070000002111",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 4,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🌊[엠팍 회원 대상] 워터밤 속초 2026 티켓 증정 이벤트 (비비 출연)🌊",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202607290000002144",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 5,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🌊[추첨/판매] 엠팍 하계 휴양 : 워터밤+호텔 풀세팅 해드림🌊",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202607270000002132",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 6,
+      "channel": "초구딱"
+    },
+    {
+      "title": "인구 5천만 국민이 악착같이 재활용 분리배출 신경써도",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608030117763431&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 7,
+      "channel": "초구딱"
+    },
+    {
+      "title": "공짜로 시켜주면 하나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608030117763425&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 8,
+      "channel": "초구딱"
+    },
+    {
+      "title": "스파이더맨 존잼이네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608030117763422&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 9,
+      "channel": "초구딱"
+    },
+    {
+      "title": "건대 씨지비는 왜 이래유?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608030117763419&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 10,
+      "channel": "초구딱"
+    },
+    {
+      "title": "일본 75세 할아버지가 초딩 여학생 폭행 시건",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608030117763416&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 43,
+      "rank": 11,
+      "channel": "초구딱"
+    },
+    {
+      "title": "톰 홀랜드 스파이더맨 역대 1위 가능할까요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608030117763413&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 26,
+      "rank": 12,
+      "channel": "초구딱"
+    },
+    {
+      "title": "제미나이가 저보고 삼각근이 있다고 하는군요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608030117763404&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 35,
+      "rank": 13,
+      "channel": "초구딱"
+    },
+    {
+      "title": "가장 무자비했던 체벌",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608030117763401&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 23,
+      "rank": 14,
+      "channel": "초구딱"
+    },
+    {
+      "title": "오디세이 용아맥은 포기 ㅠ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608030117763392&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 105,
+      "rank": 15,
+      "channel": "초구딱"
+    },
+    {
+      "title": "고교 평교사 3명 중 2명이 여성인데…교장은 남성이 78%",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608030117763386&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 164,
+      "rank": 16,
+      "channel": "초구딱"
+    },
+    {
+      "title": "2010년대가 이런 점은 좋았는데",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608030117763383&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 45,
+      "rank": 17,
+      "channel": "초구딱"
+    },
+    {
+      "title": "제2차 슈퍼로봇대전 Z 파계편 리마스터",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608030117763380&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 112,
+      "rank": 18,
+      "channel": "초구딱"
+    },
+    {
+      "title": "아프리카 표범 사냥하기 mp4",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608030117763377&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 195,
       "rank": 19,
+      "channel": "초구딱"
+    },
+    {
+      "title": "주말드라마 여주 부자집안 남주 가난 설정 작품은 잘 안만드는듯요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608030117763371&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 94,
+      "rank": 20,
+      "channel": "초구딱"
+    },
+    {
+      "title": "다시 태어나면 해보고 싶은 직업이 있다면?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608030117763359&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 88,
+      "rank": 21,
+      "channel": "초구딱"
+    },
+    {
+      "title": "경제학 이론을 보면...",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608030117763353&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 111,
+      "rank": 22,
+      "channel": "초구딱"
+    },
+    {
+      "title": "오디세이 흑인 헬레네 까는거 그냥 망무새 수준이라네용",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608030117763350&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 258,
+      "rank": 23,
+      "channel": "초구딱"
+    },
+    {
+      "title": "비중격만곡증 수술만으로 후각 상실되는 경우 있나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608030117763347&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 34,
+      "rank": 24,
+      "channel": "초구딱"
+    },
+    {
+      "title": "지금 부동산 정책은 모두가 불행한거 아닌지요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608030117763341&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 236,
+      "rank": 25,
+      "channel": "초구딱"
+    },
+    {
+      "title": "휴가때 책 읽으니까 시간 잘 가고  좋네요.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608030117763335&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 111,
+      "rank": 26,
+      "channel": "초구딱"
+    },
+    {
+      "title": "로또 1등 당첨 시의 내가 받을 실수령액",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608030117763332&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 462,
+      "rank": 27,
+      "channel": "초구딱"
+    },
+    {
+      "title": "수능하고 고교 내신을 절대 평가로 바꾸는 건 취지는 좋은데",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608030117763329&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 106,
+      "rank": 28,
+      "channel": "초구딱"
+    },
+    {
+      "title": "t1 2군 정글 페인터 1군 콜업썰 도네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608030117763326&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 167,
+      "rank": 29,
+      "channel": "초구딱"
+    },
+    {
+      "title": "난민에 까다로운 한국서 난민 인정 받아 대성공한 흑인 난민 jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608030117763323&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 365,
+      "rank": 30,
       "channel": "초구딱"
     }
   ],
@@ -99,21 +369,21 @@
       "article_count": 41,
       "topics": [
         {
-          "title": "\"포르투, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "title": "\"날벼락, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 5,
-          "source_article": "'이윤지♥' 치과의사 남편, 안타까운 근황 \"고장난 정선비\" 무슨 일?",
-          "source_url": "https://m.entertain.naver.com/article/076/0004432084",
-          "source_name": "엔터 많이 본 뉴스",
+          "article_count": 4,
+          "source_article": "'韓 축구 에이스' 이강인, 날벼락도 이런 날벼락이...이적 후 도움 적립 비상, '월드컵 우승' 공격수 떠나고, '홀란 방해꾼' 남는다 \"판매 계획 없어\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "포르투",
-            "이윤지",
-            "치과의",
-            "남편",
-            "안타까"
+            "날벼락",
+            "이적",
+            "월드컵",
+            "없어",
+            "손흥민"
           ],
           "template": "스포츠 기록",
-          "score": 7.1,
+          "score": 7.7,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -132,18 +402,171 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-          "angle_type": "결혼·이혼",
-          "article_count": 6,
-          "source_article": "‘45세’ 조여정, 김재철과 결혼사진 공개…웨딩드레스 입고 볼키스까지(지금 불륜)",
-          "source_url": "https://m.entertain.naver.com/article/410/0001134867",
+          "title": "\"이적, 지금 어디서 뭐 하나?\" 이적 근황 총정리",
+          "angle_type": "👤 이적",
+          "article_count": 3,
+          "source_article": "'韓 축구 에이스' 이강인, 날벼락도 이런 날벼락이...이적 후 도움 적립 비상, '월드컵 우승' 공격수 떠나고, '홀란 방해꾼' 남는다 \"판매 계획 없어\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "이적"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 7.7,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"손흥민, 지금 어디서 뭐 하나?\" 손흥민 근황 총정리",
+          "angle_type": "👤 손흥민",
+          "article_count": 3,
+          "source_article": "'홍명보가 범인 맞았네!' 월드컵 0골 손흥민, 소속팀 복귀 후 4경기 연속골 폭발→MLS \"LAFC 이적 후 최고\" 극찬",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "손흥민"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 7.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"이강인\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 이강인",
+          "article_count": 4,
+          "source_article": "'韓 축구 에이스' 이강인, 날벼락도 이런 날벼락이...이적 후 도움 적립 비상, '월드컵 우승' 공격수 떠나고, '홀란 방해꾼' 남는다 \"판매 계획 없어\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "이강인"
+          ],
+          "template": "인맥",
+          "score": 7.4,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"전현무, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 4,
+          "source_article": "60억대 자가 전현무, 독립 전 살던 본가 공개 “아직도 그대로”(사당귀)",
+          "source_url": "https://m.entertain.naver.com/article/609/0001152904",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "결혼",
-            "임신",
-            "조여정",
-            "김재철",
-            "결혼사"
+            "전현무",
+            "억대",
+            "자가",
+            "독립",
+            "살던"
+          ],
+          "template": "자산 서열",
+          "score": 6.9,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+          "angle_type": "가족·혈연",
+          "article_count": 3,
+          "source_article": "'고지용과 이혼' 허양임, 아들 향한 심경글 공개 \"많이 컸구나 싶다\"",
+          "source_url": "https://m.entertain.naver.com/article/477/0000621590",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "고지용",
+            "이혼",
+            "허양임",
+            "아들",
+            "향한"
+          ],
+          "template": "동갑내기",
+          "score": 6.9,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "나이",
+              "대표작",
+              "현재 활동"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"김도윤 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "angle_type": "결혼·이혼",
+          "article_count": 8,
+          "source_article": "‘흑백요리사’ 김도윤, 배우 김서연과 공개 열애…“만난 지 4년”",
+          "source_url": "https://m.entertain.naver.com/article/009/0005715708",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "김도윤",
+            "김서연",
+            "열애",
+            "흑백요",
+            "리사"
           ],
           "template": "결혼 화제",
           "score": 6.8,
@@ -165,80 +588,18 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"아형, 지금 어디서 뭐 하나?\" 아형 근황 총정리",
-          "angle_type": "👤 아형",
-          "article_count": 3,
-          "source_article": "김희철, 솔직한 수입 고백..\"슈퍼주니어보다 '아형' 할때 더 많이 벌어\"('에겐남 스윙스')",
-          "source_url": "https://m.entertain.naver.com/article/109/0005582400",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "아형"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 6.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 3,
-          "source_article": "'모친상' 고경표, 가족사 고백…\"어머니 투병 후 삶의 태도 바뀌어\" (놀러코스터)",
-          "source_url": "https://m.entertain.naver.com/article/311/0002040823",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "모친상",
-            "고경표",
-            "가족사",
-            "고백",
-            "어머니"
-          ],
-          "template": "동갑내기",
-          "score": 6.6,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+          "title": "\"정준원까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
           "angle_type": "논란·사건",
-          "article_count": 2,
-          "source_article": "'마약 논란' 한서희, ♥외국인 남친 최초 공개..'훈남 모델'과 달달 투샷",
-          "source_url": "https://m.entertain.naver.com/article/076/0004432040",
+          "article_count": 3,
+          "source_article": "정준원, 외모 논란에 무성의 논란까지…‘유부녀 킬러’는 시청률 8% 돌파",
+          "source_url": "https://m.entertain.naver.com/article/609/0001152803",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "마약",
-            "한서희",
-            "외국인",
-            "남친",
-            "훈남"
+            "정준원",
+            "논란에",
+            "무성의",
+            "외모",
+            "논란까"
           ],
           "template": "논란 집합",
           "score": 6.5,
@@ -260,21 +621,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"세금, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 2,
-          "source_article": "\"100억 벌면 41억 세금\" 유재석, 녹화 중 세금 납부하러 은행行",
-          "source_url": "https://m.entertain.naver.com/article/018/0006341911",
+          "title": "\"열애 결혼설?\" 열애 연애사 총정리",
+          "angle_type": "👤 열애",
+          "article_count": 3,
+          "source_article": "‘흑백요리사’ 김도윤, 배우 김서연과 공개 열애…“만난 지 4년”",
+          "source_url": "https://m.entertain.naver.com/article/009/0005715708",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "세금",
-            "벌면",
-            "유재석",
-            "납부하",
-            "은행"
+            "열애"
           ],
-          "template": "자산 서열",
-          "score": 6.4,
+          "template": "결혼 화제",
+          "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -285,29 +642,291 @@
           "table": {
             "headers": [
               "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 4,
-          "source_article": "'이윤지♥' 치과의사 남편, 안타까운 근황 \"고장난 정선비\" 무슨 일?",
-          "source_url": "https://m.entertain.naver.com/article/076/0004432084",
+          "title": "\"김서연 결혼설?\" 김서연 연애사 총정리",
+          "angle_type": "👤 김서연",
+          "article_count": 3,
+          "source_article": "‘흑백요리사’ 김도윤, 배우 김서연과 공개 열애…“만난 지 4년”",
+          "source_url": "https://m.entertain.naver.com/article/009/0005715708",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "근황",
-            "이윤지",
-            "치과의",
-            "남편",
-            "안타까"
+            "김서연"
+          ],
+          "template": "결혼 화제",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"외국인 결혼설?\" 외국인 연애사 총정리",
+          "angle_type": "👤 외국인",
+          "article_count": 3,
+          "source_article": "한서희, ♥외국인 모델 열애 ‘거짓’이었다…“좋다고 해서 찍었다”",
+          "source_url": "https://m.entertain.naver.com/article/241/0003523275",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "외국인"
+          ],
+          "template": "결혼 화제",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        }
+      ],
+      "keyword_freq": [
+        [
+          "김도윤",
+          3
+        ],
+        [
+          "열애",
+          3
+        ],
+        [
+          "외국인",
+          3
+        ],
+        [
+          "정준원",
+          3
+        ],
+        [
+          "이적",
+          3
+        ],
+        [
+          "이강인",
+          3
+        ],
+        [
+          "손흥민",
+          3
+        ],
+        [
+          "흑백요리사",
+          2
+        ],
+        [
+          "김서연과",
+          2
+        ],
+        [
+          "배우",
+          2
+        ],
+        [
+          "많이",
+          2
+        ],
+        [
+          "사당귀",
+          2
+        ],
+        [
+          "전현무",
+          2
+        ],
+        [
+          "한서희",
+          2
+        ],
+        [
+          "거짓",
+          2
+        ],
+        [
+          "미우새",
+          2
+        ],
+        [
+          "저격",
+          2
+        ],
+        [
+          "고영욱",
+          2
+        ],
+        [
+          "놀란",
+          2
+        ],
+        [
+          "이렇게",
+          2
+        ]
+      ],
+      "name_freq": [
+        [
+          "이강인",
+          4
+        ],
+        [
+          "김도윤",
+          3
+        ],
+        [
+          "열애",
+          3
+        ],
+        [
+          "김서연",
+          3
+        ],
+        [
+          "외국인",
+          3
+        ],
+        [
+          "정준원",
+          3
+        ],
+        [
+          "이적",
+          3
+        ],
+        [
+          "손흥민",
+          3
+        ],
+        [
+          "리사",
+          2
+        ],
+        [
+          "흑백요",
+          2
+        ],
+        [
+          "배우",
+          2
+        ],
+        [
+          "많이",
+          2
+        ],
+        [
+          "사당귀",
+          2
+        ],
+        [
+          "전현무",
+          2
+        ],
+        [
+          "한서희",
+          2
+        ]
+      ],
+      "angle_scores": [
+        [
+          "자산·몸값",
+          4
+        ],
+        [
+          "논란·사건",
+          3
+        ],
+        [
+          "결혼·이혼",
+          8
+        ],
+        [
+          "스포츠",
+          4
+        ],
+        [
+          "가족·혈연",
+          3
+        ]
+      ]
+    },
+    "초구딱": {
+      "article_count": 39,
+      "topics": [
+        {
+          "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 4,
+          "source_article": "'韓 축구 대반전' 정몽규 회장, 홍명보 감독 선임 반대 \"돌고 돌아 홍명보냐\" 큰 언성까지 오갔다 '충격'",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "감독",
+            "홍명보",
+            "공격수",
+            "축구",
+            "대반전"
+          ],
+          "template": "스포츠 기록",
+          "score": 7.6,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 2,
+          "source_article": "부정투구 의혹 고우석 \"야구 가치 훼손하는 선택 한 적 없다\" 항변 통했다! 10G→8G 징계 감경...오는 5일 마운드 복귀, 빅리그 재승격 이뤄낼까",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "부정투",
+            "의혹",
+            "고우석",
+            "야구",
+            "가치"
           ],
           "template": "장기 공백 복귀",
-          "score": 6.3,
+          "score": 6.6,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -323,17 +942,50 @@
               "복귀 작품"
             ]
           },
-          "channel": "정보주는하마"
+          "channel": "초구딱"
         },
         {
-          "title": "\"고백\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 고백",
-          "article_count": 3,
-          "source_article": "“못 간다던 그날 이후…” 故 박동빈 아내 이상이, 별세 3개월 만의 첫 고백 (上)",
-          "source_url": "https://m.entertain.naver.com/article/410/0001134852",
-          "source_name": "엔터 많이 본 뉴스",
+          "title": "\"감경까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 2,
+          "source_article": "美기자 충격 폭로! \"김하성 방출, 구단 내 다수가 원하는 결정→다만 이뤄지긴 어려울 것\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "고백"
+            "감경",
+            "폭로",
+            "김하성",
+            "방출",
+            "구단"
+          ],
+          "template": "논란 집합",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"안내\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안내",
+          "article_count": 3,
+          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "안내"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -352,21 +1004,21 @@
               "현재 상황"
             ]
           },
-          "channel": "정보주는하마"
+          "channel": "초구딱"
         },
         {
           "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
           "angle_type": "투병·건강",
           "article_count": 2,
-          "source_article": "“못 간다던 그날 이후…” 故 박동빈 아내 이상이, 별세 3개월 만의 첫 고백 (上)",
-          "source_url": "https://m.entertain.naver.com/article/410/0001134852",
-          "source_name": "엔터 많이 본 뉴스",
+          "source_article": "비중격만곡증 수술만으로 후각 상실되는 경우 있나요?",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608030117763347&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
           "related_names": [
-            "고백",
-            "간다던",
-            "그날",
-            "박동빈",
-            "아내"
+            "인구",
+            "천만",
+            "국민이",
+            "악착같",
+            "재활용"
           ],
           "template": "투병 극복",
           "score": 5.5,
@@ -385,169 +1037,161 @@
               "복귀 작품"
             ]
           },
-          "channel": "정보주는하마"
+          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
         [
-          "근황",
+          "감독",
           4
         ],
         [
-          "고백",
+          "안내",
           3
         ],
         [
-          "아형",
-          3
-        ],
-        [
-          "이상이",
+          "일본",
           2
         ],
         [
-          "박동빈",
+          "감경",
           2
         ],
         [
-          "향한",
+          "야구",
           2
         ],
         [
-          "남편",
+          "고우석",
           2
         ],
         [
-          "무슨",
+          "통했다",
           2
         ],
         [
-          "남친",
+          "징계",
           2
         ],
         [
-          "김희철",
+          "구단",
           2
         ],
         [
-          "온다",
+          "글러브",
           2
         ],
         [
-          "시청률",
+          "엠팍",
           2
         ],
         [
-          "여행",
+          "워터밤",
           2
         ],
         [
-          "아옳이",
+          "스파이더맨",
           2
         ],
         [
-          "한의사",
+          "오디세이",
           2
         ],
         [
-          "커플샷",
+          "고교",
           2
         ],
         [
-          "결별",
+          "흑인",
           2
         ],
         [
-          "청룡",
-          2
+          "돌고",
+          1
         ],
         [
-          "결혼",
-          2
+          "대반전",
+          1
         ],
         [
-          "앞두고",
-          2
+          "돌아",
+          1
+        ],
+        [
+          "회장",
+          1
         ]
       ],
       "name_freq": [
         [
-          "근황",
+          "감독",
           4
         ],
         [
-          "고백",
+          "안내",
           3
         ],
         [
-          "아형",
-          3
-        ],
-        [
-          "이상이",
+          "일본",
           2
         ],
         [
-          "박동빈",
+          "감경",
           2
         ],
         [
-          "향한",
+          "야구",
           2
         ],
         [
-          "남편",
+          "고우석",
           2
         ],
         [
-          "무슨",
+          "징계",
           2
         ],
         [
-          "남친",
+          "구단",
           2
         ],
         [
-          "김희철",
+          "글러브",
           2
         ],
         [
-          "온다",
+          "엠팍",
           2
         ],
         [
-          "시청률",
+          "워터밤",
           2
         ],
         [
-          "여행",
+          "더맨",
           2
         ],
         [
-          "아옳이",
+          "스파이",
           2
         ],
         [
-          "한의사",
+          "오디세",
+          2
+        ],
+        [
+          "고교",
           2
         ]
       ],
       "angle_scores": [
         [
-          "자산·몸값",
-          2
-        ],
-        [
           "논란·사건",
           2
         ],
         [
-          "결혼·이혼",
-          6
-        ],
-        [
           "복귀·근황",
-          4
+          2
         ],
         [
           "투병·건강",
@@ -555,159 +1199,7 @@
         ],
         [
           "스포츠",
-          5
-        ],
-        [
-          "가족·혈연",
-          3
-        ]
-      ]
-    },
-    "초구딱": {
-      "article_count": 9,
-      "topics": [
-        {
-          "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 6,
-          "source_article": "'명문 클럽 거절, 韓 대표팀 원한다'…\"이강인 내 아들!\" 외쳤던 그 감독, 태극전사 지휘하나→\"한국 축구에 매력 느껴\"",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "감독",
-            "이강인",
-            "홍명보",
-            "있어",
-            "명문"
-          ],
-          "template": "스포츠 기록",
-          "score": 7.7,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
-            ]
-          },
-          "channel": "초구딱"
-        }
-      ],
-      "keyword_freq": [
-        [
-          "감독",
-          5
-        ],
-        [
-          "한화",
-          2
-        ],
-        [
-          "이강인",
-          2
-        ],
-        [
-          "홍명보",
-          2
-        ],
-        [
-          "있어",
-          2
-        ],
-        [
-          "군행",
-          1
-        ],
-        [
-          "팬들",
-          1
-        ],
-        [
-          "데려온",
-          1
-        ],
-        [
-          "하주석",
-          1
-        ],
-        [
-          "이형범",
-          1
-        ],
-        [
-          "줬나",
-          1
-        ],
-        [
-          "뿔났다",
-          1
-        ],
-        [
-          "외쳤던",
-          1
-        ],
-        [
-          "느껴",
-          1
-        ],
-        [
-          "지휘하나",
-          1
-        ],
-        [
-          "태극전사",
-          1
-        ],
-        [
-          "대표팀",
-          1
-        ],
-        [
-          "원한다",
-          1
-        ],
-        [
-          "아들",
-          1
-        ],
-        [
-          "매력",
-          1
-        ]
-      ],
-      "name_freq": [
-        [
-          "감독",
-          5
-        ],
-        [
-          "한화",
-          2
-        ],
-        [
-          "이강인",
-          2
-        ],
-        [
-          "홍명보",
-          2
-        ],
-        [
-          "있어",
-          2
-        ]
-      ],
-      "angle_scores": [
-        [
-          "스포츠",
-          6
+          4
         ]
       ]
     }
@@ -716,16 +1208,179 @@
     {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 6,
-      "source_article": "'명문 클럽 거절, 韓 대표팀 원한다'…\"이강인 내 아들!\" 외쳤던 그 감독, 태극전사 지휘하나→\"한국 축구에 매력 느껴\"",
+      "article_count": 4,
+      "source_article": "'韓 축구 대반전' 정몽규 회장, 홍명보 감독 선임 반대 \"돌고 돌아 홍명보냐\" 큰 언성까지 오갔다 '충격'",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "감독",
-        "이강인",
         "홍명보",
-        "있어",
-        "명문"
+        "공격수",
+        "축구",
+        "대반전"
+      ],
+      "template": "스포츠 기록",
+      "score": 7.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "부정투구 의혹 고우석 \"야구 가치 훼손하는 선택 한 적 없다\" 항변 통했다! 10G→8G 징계 감경...오는 5일 마운드 복귀, 빅리그 재승격 이뤄낼까",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "부정투",
+        "의혹",
+        "고우석",
+        "야구",
+        "가치"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"감경까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 2,
+      "source_article": "美기자 충격 폭로! \"김하성 방출, 구단 내 다수가 원하는 결정→다만 이뤄지긴 어려울 것\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "감경",
+        "폭로",
+        "김하성",
+        "방출",
+        "구단"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+      "angle_type": "투병·건강",
+      "article_count": 2,
+      "source_article": "비중격만곡증 수술만으로 후각 상실되는 경우 있나요?",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608030117763347&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "인구",
+        "천만",
+        "국민이",
+        "악착같",
+        "재활용"
+      ],
+      "template": "투병 극복",
+      "score": 5.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "투병 질환",
+          "공백기",
+          "복귀 작품"
+        ]
+      },
+      "channel": "초구딱"
+    }
+  ],
+  "all_topics": [
+    {
+      "title": "\"날벼락, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 4,
+      "source_article": "'韓 축구 에이스' 이강인, 날벼락도 이런 날벼락이...이적 후 도움 적립 비상, '월드컵 우승' 공격수 떠나고, '홀란 방해꾼' 남는다 \"판매 계획 없어\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "날벼락",
+        "이적",
+        "월드컵",
+        "없어",
+        "손흥민"
       ],
       "template": "스포츠 기록",
       "score": 7.7,
@@ -744,26 +1399,20 @@
           "기록 가치"
         ]
       },
-      "channel": "초구딱"
-    }
-  ],
-  "all_topics": [
+      "channel": "정보주는하마"
+    },
     {
-      "title": "\"포르투, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 5,
-      "source_article": "'이윤지♥' 치과의사 남편, 안타까운 근황 \"고장난 정선비\" 무슨 일?",
-      "source_url": "https://m.entertain.naver.com/article/076/0004432084",
-      "source_name": "엔터 많이 본 뉴스",
+      "title": "\"이적, 지금 어디서 뭐 하나?\" 이적 근황 총정리",
+      "angle_type": "👤 이적",
+      "article_count": 3,
+      "source_article": "'韓 축구 에이스' 이강인, 날벼락도 이런 날벼락이...이적 후 도움 적립 비상, '월드컵 우승' 공격수 떠나고, '홀란 방해꾼' 남는다 \"판매 계획 없어\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "포르투",
-        "이윤지",
-        "치과의",
-        "남편",
-        "안타까"
+        "이적"
       ],
-      "template": "스포츠 기록",
-      "score": 7.1,
+      "template": "장기 공백 복귀",
+      "score": 7.7,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -773,27 +1422,151 @@
       },
       "table": {
         "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 6,
-      "source_article": "‘45세’ 조여정, 김재철과 결혼사진 공개…웨딩드레스 입고 볼키스까지(지금 불륜)",
-      "source_url": "https://m.entertain.naver.com/article/410/0001134867",
+      "title": "\"손흥민, 지금 어디서 뭐 하나?\" 손흥민 근황 총정리",
+      "angle_type": "👤 손흥민",
+      "article_count": 3,
+      "source_article": "'홍명보가 범인 맞았네!' 월드컵 0골 손흥민, 소속팀 복귀 후 4경기 연속골 폭발→MLS \"LAFC 이적 후 최고\" 극찬",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "손흥민"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 7.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이강인\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 이강인",
+      "article_count": 4,
+      "source_article": "'韓 축구 에이스' 이강인, 날벼락도 이런 날벼락이...이적 후 도움 적립 비상, '월드컵 우승' 공격수 떠나고, '홀란 방해꾼' 남는다 \"판매 계획 없어\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "이강인"
+      ],
+      "template": "인맥",
+      "score": 7.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"전현무, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 4,
+      "source_article": "60억대 자가 전현무, 독립 전 살던 본가 공개 “아직도 그대로”(사당귀)",
+      "source_url": "https://m.entertain.naver.com/article/609/0001152904",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "결혼",
-        "임신",
-        "조여정",
-        "김재철",
-        "결혼사"
+        "전현무",
+        "억대",
+        "자가",
+        "독립",
+        "살던"
+      ],
+      "template": "자산 서열",
+      "score": 6.9,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 3,
+      "source_article": "'고지용과 이혼' 허양임, 아들 향한 심경글 공개 \"많이 컸구나 싶다\"",
+      "source_url": "https://m.entertain.naver.com/article/477/0000621590",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "고지용",
+        "이혼",
+        "허양임",
+        "아들",
+        "향한"
+      ],
+      "template": "동갑내기",
+      "score": 6.9,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "나이",
+          "대표작",
+          "현재 활동"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"김도윤 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 8,
+      "source_article": "‘흑백요리사’ 김도윤, 배우 김서연과 공개 열애…“만난 지 4년”",
+      "source_url": "https://m.entertain.naver.com/article/009/0005715708",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "김도윤",
+        "김서연",
+        "열애",
+        "흑백요",
+        "리사"
       ],
       "template": "결혼 화제",
       "score": 6.8,
@@ -815,80 +1588,18 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"아형, 지금 어디서 뭐 하나?\" 아형 근황 총정리",
-      "angle_type": "👤 아형",
-      "article_count": 3,
-      "source_article": "김희철, 솔직한 수입 고백..\"슈퍼주니어보다 '아형' 할때 더 많이 벌어\"('에겐남 스윙스')",
-      "source_url": "https://m.entertain.naver.com/article/109/0005582400",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "아형"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 6.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 3,
-      "source_article": "'모친상' 고경표, 가족사 고백…\"어머니 투병 후 삶의 태도 바뀌어\" (놀러코스터)",
-      "source_url": "https://m.entertain.naver.com/article/311/0002040823",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "모친상",
-        "고경표",
-        "가족사",
-        "고백",
-        "어머니"
-      ],
-      "template": "동갑내기",
-      "score": 6.6,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "title": "\"정준원까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
       "angle_type": "논란·사건",
-      "article_count": 2,
-      "source_article": "'마약 논란' 한서희, ♥외국인 남친 최초 공개..'훈남 모델'과 달달 투샷",
-      "source_url": "https://m.entertain.naver.com/article/076/0004432040",
+      "article_count": 3,
+      "source_article": "정준원, 외모 논란에 무성의 논란까지…‘유부녀 킬러’는 시청률 8% 돌파",
+      "source_url": "https://m.entertain.naver.com/article/609/0001152803",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "마약",
-        "한서희",
-        "외국인",
-        "남친",
-        "훈남"
+        "정준원",
+        "논란에",
+        "무성의",
+        "외모",
+        "논란까"
       ],
       "template": "논란 집합",
       "score": 6.5,
@@ -910,21 +1621,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"세금, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 2,
-      "source_article": "\"100억 벌면 41억 세금\" 유재석, 녹화 중 세금 납부하러 은행行",
-      "source_url": "https://m.entertain.naver.com/article/018/0006341911",
+      "title": "\"열애 결혼설?\" 열애 연애사 총정리",
+      "angle_type": "👤 열애",
+      "article_count": 3,
+      "source_article": "‘흑백요리사’ 김도윤, 배우 김서연과 공개 열애…“만난 지 4년”",
+      "source_url": "https://m.entertain.naver.com/article/009/0005715708",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "세금",
-        "벌면",
-        "유재석",
-        "납부하",
-        "은행"
+        "열애"
       ],
-      "template": "자산 서열",
-      "score": 6.4,
+      "template": "결혼 화제",
+      "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -935,29 +1642,120 @@
       "table": {
         "headers": [
           "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 4,
-      "source_article": "'이윤지♥' 치과의사 남편, 안타까운 근황 \"고장난 정선비\" 무슨 일?",
-      "source_url": "https://m.entertain.naver.com/article/076/0004432084",
+      "title": "\"김서연 결혼설?\" 김서연 연애사 총정리",
+      "angle_type": "👤 김서연",
+      "article_count": 3,
+      "source_article": "‘흑백요리사’ 김도윤, 배우 김서연과 공개 열애…“만난 지 4년”",
+      "source_url": "https://m.entertain.naver.com/article/009/0005715708",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "근황",
-        "이윤지",
-        "치과의",
-        "남편",
-        "안타까"
+        "김서연"
+      ],
+      "template": "결혼 화제",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"외국인 결혼설?\" 외국인 연애사 총정리",
+      "angle_type": "👤 외국인",
+      "article_count": 3,
+      "source_article": "한서희, ♥외국인 모델 열애 ‘거짓’이었다…“좋다고 해서 찍었다”",
+      "source_url": "https://m.entertain.naver.com/article/241/0003523275",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "외국인"
+      ],
+      "template": "결혼 화제",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 4,
+      "source_article": "'韓 축구 대반전' 정몽규 회장, 홍명보 감독 선임 반대 \"돌고 돌아 홍명보냐\" 큰 언성까지 오갔다 '충격'",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "감독",
+        "홍명보",
+        "공격수",
+        "축구",
+        "대반전"
+      ],
+      "template": "스포츠 기록",
+      "score": 7.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "부정투구 의혹 고우석 \"야구 가치 훼손하는 선택 한 적 없다\" 항변 통했다! 10G→8G 징계 감경...오는 5일 마운드 복귀, 빅리그 재승격 이뤄낼까",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "부정투",
+        "의혹",
+        "고우석",
+        "야구",
+        "가치"
       ],
       "template": "장기 공백 복귀",
-      "score": 6.3,
+      "score": 6.6,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -973,17 +1771,50 @@
           "복귀 작품"
         ]
       },
-      "channel": "정보주는하마"
+      "channel": "초구딱"
     },
     {
-      "title": "\"고백\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 고백",
-      "article_count": 3,
-      "source_article": "“못 간다던 그날 이후…” 故 박동빈 아내 이상이, 별세 3개월 만의 첫 고백 (上)",
-      "source_url": "https://m.entertain.naver.com/article/410/0001134852",
-      "source_name": "엔터 많이 본 뉴스",
+      "title": "\"감경까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 2,
+      "source_article": "美기자 충격 폭로! \"김하성 방출, 구단 내 다수가 원하는 결정→다만 이뤄지긴 어려울 것\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "고백"
+        "감경",
+        "폭로",
+        "김하성",
+        "방출",
+        "구단"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1002,21 +1833,21 @@
           "현재 상황"
         ]
       },
-      "channel": "정보주는하마"
+      "channel": "초구딱"
     },
     {
       "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
       "angle_type": "투병·건강",
       "article_count": 2,
-      "source_article": "“못 간다던 그날 이후…” 故 박동빈 아내 이상이, 별세 3개월 만의 첫 고백 (上)",
-      "source_url": "https://m.entertain.naver.com/article/410/0001134852",
-      "source_name": "엔터 많이 본 뉴스",
+      "source_article": "비중격만곡증 수술만으로 후각 상실되는 경우 있나요?",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608030117763347&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
       "related_names": [
-        "고백",
-        "간다던",
-        "그날",
-        "박동빈",
-        "아내"
+        "인구",
+        "천만",
+        "국민이",
+        "악착같",
+        "재활용"
       ],
       "template": "투병 극복",
       "score": 5.5,
@@ -1035,187 +1866,154 @@
           "복귀 작품"
         ]
       },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 6,
-      "source_article": "'명문 클럽 거절, 韓 대표팀 원한다'…\"이강인 내 아들!\" 외쳤던 그 감독, 태극전사 지휘하나→\"한국 축구에 매력 느껴\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "감독",
-        "이강인",
-        "홍명보",
-        "있어",
-        "명문"
-      ],
-      "template": "스포츠 기록",
-      "score": 7.7,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
       "channel": "초구딱"
     }
   ],
   "keyword_freq": [
     [
-      "근황",
-      4
-    ],
-    [
-      "고백",
+      "김도윤",
       3
     ],
     [
-      "아형",
+      "열애",
       3
     ],
     [
-      "이상이",
+      "외국인",
+      3
+    ],
+    [
+      "정준원",
+      3
+    ],
+    [
+      "이적",
+      3
+    ],
+    [
+      "이강인",
+      3
+    ],
+    [
+      "손흥민",
+      3
+    ],
+    [
+      "흑백요리사",
       2
     ],
     [
-      "박동빈",
+      "김서연과",
       2
     ],
     [
-      "향한",
+      "배우",
       2
     ],
     [
-      "남편",
+      "많이",
       2
     ],
     [
-      "무슨",
+      "사당귀",
       2
     ],
     [
-      "남친",
+      "전현무",
       2
     ],
     [
-      "김희철",
+      "한서희",
       2
     ],
     [
-      "온다",
+      "거짓",
       2
     ],
     [
-      "시청률",
+      "미우새",
       2
     ],
     [
-      "여행",
+      "저격",
       2
     ],
     [
-      "아옳이",
+      "고영욱",
       2
     ],
     [
-      "한의사",
+      "놀란",
       2
     ],
     [
-      "커플샷",
-      2
-    ],
-    [
-      "결별",
-      2
-    ],
-    [
-      "청룡",
-      2
-    ],
-    [
-      "결혼",
-      2
-    ],
-    [
-      "앞두고",
+      "이렇게",
       2
     ]
   ],
   "name_freq": [
     [
-      "근황",
+      "이강인",
       4
     ],
     [
-      "고백",
+      "김도윤",
       3
     ],
     [
-      "아형",
+      "열애",
       3
     ],
     [
-      "이상이",
+      "김서연",
+      3
+    ],
+    [
+      "외국인",
+      3
+    ],
+    [
+      "정준원",
+      3
+    ],
+    [
+      "이적",
+      3
+    ],
+    [
+      "손흥민",
+      3
+    ],
+    [
+      "리사",
       2
     ],
     [
-      "박동빈",
+      "흑백요",
       2
     ],
     [
-      "향한",
+      "배우",
       2
     ],
     [
-      "남편",
+      "많이",
       2
     ],
     [
-      "무슨",
+      "사당귀",
       2
     ],
     [
-      "남친",
+      "전현무",
       2
     ],
     [
-      "김희철",
-      2
-    ],
-    [
-      "온다",
-      2
-    ],
-    [
-      "시청률",
-      2
-    ],
-    [
-      "여행",
-      2
-    ],
-    [
-      "아옳이",
-      2
-    ],
-    [
-      "한의사",
+      "한서희",
       2
     ]
   ],
-  "total_topics_generated": 10,
-  "valid_topics": 10,
+  "total_topics_generated": 16,
+  "valid_topics": 16,
   "excluded_duplicates": 0
 }
