@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-05 11:09:42",
+  "scan_time": "2026-08-05 15:05:22",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,44 +8,17 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 30
+    "MLB파크 불펜": 0
   },
-  "total_articles": 80,
+  "total_articles": 50,
   "articles": [
     {
-      "title": "\"30년 야구보면서 가장 황당한 트레이드\" 유망주 5명이나 퍼주다니, MLB 관계자들 경악…역대급 오버페이 트레이드 되나",
+      "title": "배지환, 메츠서 전격 방출…메이저리그 복귀 좌절",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 24411,
-      "rank": 3,
-      "channel": "초구딱"
-    },
-    {
-      "title": "“홍명보는 선수들에게 감독 취급도 못 받았구만…” 축구팬들이 충격받은 이유…남아공전 하이드레이션 브레이크 충격 공개",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 19773,
-      "rank": 4,
-      "channel": "초구딱"
-    },
-    {
-      "title": "‘관중까지 쓰러진 야구장 속 폭염’ KBO, 5~6일 전 경기 취소 결정…대책 긴급회의도 연다",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 16802,
-      "rank": 5,
-      "channel": "초구딱"
-    },
-    {
-      "title": "'터질 게 터졌다' 살인 폭염에 진행된 LG-SSG전, 관중 온열 질환, 심정지 사태 발생",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 15490,
-      "rank": 7,
+      "views": 28901,
+      "rank": 1,
       "channel": "초구딱"
     },
     {
@@ -53,358 +26,91 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 10708,
-      "rank": 9,
-      "channel": "초구딱"
-    },
-    {
-      "title": "'레전드' 사비, 한국 국대 감독직 관심 사실...하지만 임시 감독 공채는 지원하지 않아",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 7481,
-      "rank": 17,
-      "channel": "초구딱"
-    },
-    {
-      "title": "'5경기 연속 폭염 취소' KIA 이범호 감독 \"타자들 경기 감각 걱정\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 7457,
-      "rank": 18,
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"이정후, 오 맙소사! 넘어지고 말았다\" 美 중계진도 충격…끝내기 패배 부른 LEE 수비 실수 \"텍사스가 승리를 훔쳤다\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 6975,
-      "rank": 20,
-      "channel": "초구딱"
-    },
-    {
-      "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 1,
-      "channel": "초구딱"
-    },
-    {
-      "title": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 2,
-      "channel": "초구딱"
-    },
-    {
-      "title": "🛠️[공지] 해외 접속 장애 관련 안내_260522🛠️",
-      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202605220000002082",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 3,
-      "channel": "초구딱"
-    },
-    {
-      "title": "🔔[업데이트] 외부 링크 미리보기(Embed/OG 태그) 기능 추가 안내🔔",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202607070000002111",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
+      "views": 14797,
       "rank": 4,
       "channel": "초구딱"
     },
     {
-      "title": "🌊[엠팍 회원 대상] 워터밤 속초 2026 티켓 증정 이벤트 (비비 출연)🌊",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202607290000002144",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 5,
-      "channel": "초구딱"
-    },
-    {
-      "title": "🌊[추첨/판매] 엠팍 하계 휴양 : 워터밤+호텔 풀세팅 해드림🌊",
-      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202607270000002132",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 6,
-      "channel": "초구딱"
-    },
-    {
-      "title": "프로미스나인.mp4",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608050117812676&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
+      "title": "\"30년 야구보면서 가장 황당한 트레이드\" 유망주 5명이나 퍼주다니, MLB 관계자들 경악…역대급 오버페이 트레이드 되나",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 7510,
       "rank": 7,
       "channel": "초구딱"
     },
     {
-      "title": "[아일릿] 이로하.mp4",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608050117812661&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 8,
-      "channel": "초구딱"
-    },
-    {
-      "title": "운전하다가 미친 인간들 만난 경우 있으신가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608050117812655&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 21,
+      "title": "‘대충격!’ 이강인, 이러면 왜 AT·마드리드 갔나···西 유력지 새 시즌 개막전, 예상 선발 라인업 ‘LEE 제외’",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 6916,
       "rank": 9,
       "channel": "초구딱"
     },
     {
-      "title": "파라파라나 춰야겠다",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608050117812652&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 43,
-      "rank": 10,
-      "channel": "초구딱"
-    },
-    {
-      "title": "한로로.mp4",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608050117812649&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 42,
+      "title": "\"이런 말 해도 될지 모르겠는데...\" 맨시티와 붙은 정정용 감독, '딱 한 명' 콕 집어 극찬 \"더 좋은 팀 가야 할 선수\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 6015,
       "rank": 11,
       "channel": "초구딱"
     },
     {
-      "title": "개인적으로 지방국립대 등록금 무료는 그러려니 하겠는데 서울대 등록금 싼건 못받아들이겠음.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608050117812646&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 27,
-      "rank": 12,
-      "channel": "초구딱"
-    },
-    {
-      "title": "50세 넘은 은퇴한분들 내년부터 지방국립대 들어가면?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608050117812640&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 82,
+      "title": "벤투 감독 퇴장시켰던 테일러 심판, 은퇴 후 튀르키예축구협회 심판위원장 됐다",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 5803,
       "rank": 13,
       "channel": "초구딱"
     },
     {
-      "title": "[피프티피프티] 바이에른 뮌헨 김민재 만난 문샤넬.MP4",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608050117812637&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 75,
-      "rank": 14,
-      "channel": "초구딱"
-    },
-    {
-      "title": "안전에 있어서 과함이란건 없어요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608050117812634&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 56,
-      "rank": 15,
-      "channel": "초구딱"
-    },
-    {
-      "title": "귀신이 보인다는 블라인",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608050117812631&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 183,
-      "rank": 16,
-      "channel": "초구딱"
-    },
-    {
-      "title": "버스 택시 트럭 오토바이 난폭운전은 절대적으로 당연한건가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608050117812625&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 40,
-      "rank": 17,
-      "channel": "초구딱"
-    },
-    {
-      "title": "1592년으로 타임슬립한 현대 기계화부대 vs 일본군 mp4",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608050117812619&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 84,
+      "title": "'샐러리캡 폭발' 걱정했던 LG, FA 대어들이 알아서 몸값 디스카운트? 웃지 못할 현실",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 5282,
       "rank": 18,
       "channel": "초구딱"
     },
     {
-      "title": "맨시티 k리그 2만명 정도 온 거 같은데",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608050117812616&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 113,
+      "title": "디아즈 대체 왜 이러니? 2위 삼성 마음 급한데…10G 홈런 無+타율 0.243→사령탑 진단은",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 4894,
       "rank": 19,
       "channel": "초구딱"
     },
     {
-      "title": "요 일주일간 제로콜라 끊어보니 느꼈네요 제가 살찐건  콜라때문입니다",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608050117812613&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 95,
+      "title": "‘취재 결과’ 나왔다 “이강인, 한 대 쥐어박고 싶다” 한국 대표팀 ‘새 감독’ 자리, LEE 아들처럼 아낀 은사가 원한다",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 4869,
       "rank": 20,
-      "channel": "초구딱"
-    },
-    {
-      "title": "안세영 세계선수권 대진나왔네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608050117812610&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 61,
-      "rank": 21,
-      "channel": "초구딱"
-    },
-    {
-      "title": "올해 주식으로 개인 피해 어마어마하군요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608050117812607&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 440,
-      "rank": 22,
-      "channel": "초구딱"
-    },
-    {
-      "title": "관중들 퇴근하고 들어오는중이라 시간이 많이 걸리고있음",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608050117812604&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 71,
-      "rank": 23,
-      "channel": "초구딱"
-    },
-    {
-      "title": "오늘의 주시은",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608050117812589&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 113,
-      "rank": 24,
-      "channel": "초구딱"
-    },
-    {
-      "title": "아니 이 날씨에 축구를 어떻게 하는지",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608050117812586&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 86,
-      "rank": 25,
-      "channel": "초구딱"
-    },
-    {
-      "title": "맨시티 오늘 경기",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608050117812583&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 75,
-      "rank": 26,
-      "channel": "초구딱"
-    },
-    {
-      "title": "축구도 취소했어야",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608050117812574&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 246,
-      "rank": 27,
-      "channel": "초구딱"
-    },
-    {
-      "title": "대구구장 취소는 어이가 없긴 하네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608050117812565&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 380,
-      "rank": 28,
-      "channel": "초구딱"
-    },
-    {
-      "title": "30대 중반 남성들 중에서 섹스 경험 없는 남자는",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608050117812559&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 160,
-      "rank": 29,
-      "channel": "초구딱"
-    },
-    {
-      "title": "발라당 뒤집었습니다.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608050117812553&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 89,
-      "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 42,
+      "article_count": 41,
       "topics": [
         {
-          "title": "\"정준원까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 7,
-          "source_article": "\"인사성 없고 무례했다\"…정준원, '태도 논란'→장항준 한마디 '소환'",
-          "source_url": "https://m.entertain.naver.com/article/213/0001396870",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "정준원",
-            "태도",
-            "이승기",
-            "만기",
-            "집주인"
-          ],
-          "template": "논란 집합",
-          "score": 7.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"이승기, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+          "title": "\"전세, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
           "angle_type": "자산·몸값",
           "article_count": 5,
-          "source_article": "1236억 초대형 계약! '토트넘 왜 돌아가나?' 케인, 뮌헨과 더 간다…최소 2029년까지 동행",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "source_article": "샤이니 키, '나혼산 하차' 7개월 만→38억 전세 자택서 여유 만끽…\"김씨네 여름나기\"",
+          "source_url": "https://m.entertain.naver.com/article/213/0001396848",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "이승기",
             "전세",
-            "만기",
-            "집주인",
-            "됐는데"
+            "이승기",
+            "샤이니",
+            "나혼산",
+            "하차"
           ],
           "template": "자산 서열",
           "score": 7.0,
@@ -426,18 +132,18 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+          "title": "\"만세, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 5,
-          "source_article": "\"엉덩이 왜 찍지 말라고 하나?\" 네덜란드 女 육상 스타도 반대하는데…\"여성 선수들 생계 막막해질 거야\" 방송연맹 규제에 '비판 속출'",
+          "article_count": 6,
+          "source_article": "홍명보 후임보다 빨리 정해졌다...'이례적 공채' 韓 대표팀, 임시감독 데뷔 무대 확정! 9월 A매치 에콰도르·우루과이와 2연전",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "놀란",
-            "감독",
-            "진짜",
-            "잘생겼",
-            "유재석"
+            "만세",
+            "손흥민",
+            "피라미",
+            "토트넘",
+            "역사상"
           ],
           "template": "스포츠 기록",
           "score": 6.8,
@@ -459,27 +165,23 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
-          "angle_type": "결혼·이혼",
-          "article_count": 4,
-          "source_article": "세 번 이혼한 이아현, 첫 남편 떠올리다 눈물…“나는 왜 못 참았을까”",
-          "source_url": "https://m.entertain.naver.com/article/410/0001135212",
+          "title": "\"배인규 결혼설?\" 배인규 연애사 총정리",
+          "angle_type": "👤 배인규",
+          "article_count": 5,
+          "source_article": "‘배인규와 현피’ 고기남자, 진심 어린 추모…“모욕·억측 삼가주시길”",
+          "source_url": "https://m.entertain.naver.com/article/468/0001258086",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "이혼한",
-            "이아현",
-            "남편",
-            "떠올리",
-            "눈물"
+            "배인규"
           ],
           "template": "결혼 화제",
-          "score": 6.6,
+          "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
-            "status": "재활용 가능",
-            "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
-            "matched_views": 720727,
-            "reason": "검증됨 720,727회 · 116일 경과"
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
           },
           "table": {
             "headers": [
@@ -492,14 +194,18 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"발견 결혼설?\" 발견 연애사 총정리",
-          "angle_type": "👤 발견",
-          "article_count": 3,
-          "source_article": "'71만 유튜버' 배인규 대표, 숨진채 발견..이혼→마약 투약 혐의후 우울증 앓아",
-          "source_url": "https://m.entertain.naver.com/article/076/0004433323",
+          "title": "\"이혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "angle_type": "결혼·이혼",
+          "article_count": 4,
+          "source_article": "'故 최진실 딸' 최준희, 결혼 세 달 만에 또 성형…전신마취 앞두고 \"헤헤 설렌다\"",
+          "source_url": "https://m.entertain.naver.com/article/117/0004091962",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "발견"
+            "이혼",
+            "최진실",
+            "최준희",
+            "결혼",
+            "성형"
           ],
           "template": "결혼 화제",
           "score": 6.6,
@@ -521,14 +227,109 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"자택서 자산이 얼마?\" 자택서급 자산가 스타 TOP10",
-          "angle_type": "👤 자택서",
+          "title": "\"최진실이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+          "angle_type": "가족·혈연",
           "article_count": 3,
-          "source_article": "배인규 신남성연대 대표, 인천 자택서 추락사…\"필로폰 투약 혐의로 수사 받아\"",
-          "source_url": "https://m.entertain.naver.com/article/416/0000325556",
+          "source_article": "'故 최진실 딸' 최준희, 결혼 세 달 만에 또 성형…전신마취 앞두고 \"헤헤 설렌다\"",
+          "source_url": "https://m.entertain.naver.com/article/117/0004091962",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "자택서"
+            "최진실",
+            "최준희",
+            "전신마",
+            "결혼",
+            "성형"
+          ],
+          "template": "동갑내기",
+          "score": 6.6,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "나이",
+              "대표작",
+              "현재 활동"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"눈물 결혼설?\" 눈물 연애사 총정리",
+          "angle_type": "👤 눈물",
+          "article_count": 4,
+          "source_article": "세 번 이혼한 이아현, 첫 남편 떠올리다 눈물…“나는 왜 못 참았을까”",
+          "source_url": "https://m.entertain.naver.com/article/410/0001135212",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "눈물"
+          ],
+          "template": "결혼 화제",
+          "score": 6.6,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 2,
+          "source_article": "\"인사성 없고 무례했다\"…정준원, '태도 논란'→장항준 한마디 '소환'",
+          "source_url": "https://m.entertain.naver.com/article/213/0001396870",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "인사성",
+            "없고",
+            "무례했",
+            "정준원",
+            "태도"
+          ],
+          "template": "논란 집합",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"추모 자산이 얼마?\" 추모급 자산가 스타 TOP10",
+          "angle_type": "👤 추모",
+          "article_count": 3,
+          "source_article": "‘배인규와 현피’ 고기남자, 진심 어린 추모…“모욕·억측 삼가주시길”",
+          "source_url": "https://m.entertain.naver.com/article/468/0001258086",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "추모"
           ],
           "template": "자산 서열",
           "score": 6.5,
@@ -550,125 +351,9 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"황정민, 대체 무슨 일이?\" 황정민 관련 이슈 총정리",
-          "angle_type": "👤 황정민",
-          "article_count": 4,
-          "source_article": "황정민, A씨 사주에 \"너  약간 그런 게 있어\"…통화 내역 공개",
-          "source_url": "https://m.entertain.naver.com/article/445/0000445884",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "황정민"
-          ],
-          "template": "논란 집합",
-          "score": 6.4,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"맞아, 대체 무슨 일이?\" 맞아 관련 이슈 총정리",
-          "angle_type": "👤 맞아",
-          "article_count": 4,
-          "source_article": "성관계 없다지만…\"황정민 불륜 맞아\" 현직 변호사 분석",
-          "source_url": "https://m.entertain.naver.com/article/117/0004091996",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "맞아"
-          ],
-          "template": "논란 집합",
-          "score": 6.4,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"있어\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 있어",
-          "article_count": 3,
-          "source_article": "황정민, A씨 사주에 \"너  약간 그런 게 있어\"…통화 내역 공개",
-          "source_url": "https://m.entertain.naver.com/article/445/0000445884",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "있어"
-          ],
-          "template": "인맥",
-          "score": 6.4,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"먼저\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 먼저",
-          "article_count": 3,
-          "source_article": "\"다른 남자 만나고 있어\" 황정민, A씨 스토킹 특정 기간에도 연락…1년간 62차례 먼저 전화",
-          "source_url": "https://m.entertain.naver.com/article/312/0000770684",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "먼저"
-          ],
-          "template": "인맥",
-          "score": 6.4,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
           "title": "\"대표 결혼설?\" 대표 연애사 총정리",
           "angle_type": "👤 대표",
-          "article_count": 4,
+          "article_count": 3,
           "source_article": "배인규 신남성연대 대표, 인천 자택서 추락사…\"필로폰 투약 혐의로 수사 받아\"",
           "source_url": "https://m.entertain.naver.com/article/416/0000325556",
           "source_name": "엔터 많이 본 뉴스",
@@ -695,17 +380,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"투약 결혼설?\" 투약 연애사 총정리",
-          "angle_type": "👤 투약",
+          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+          "angle_type": "투병·건강",
           "article_count": 3,
-          "source_article": "배인규 신남성연대 대표, 인천 자택서 추락사…\"필로폰 투약 혐의로 수사 받아\"",
-          "source_url": "https://m.entertain.naver.com/article/416/0000325556",
+          "source_article": "‘신남성연대’ 배인규 대표 사망…동료 유튜버들 잇따라 추모",
+          "source_url": "https://m.entertain.naver.com/article/144/0001130142",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "투약"
+            "신남성",
+            "연대",
+            "배인규",
+            "대표",
+            "사망"
           ],
-          "template": "결혼 화제",
-          "score": 6.3,
+          "template": "투병 극복",
+          "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -716,71 +405,9 @@
           "table": {
             "headers": [
               "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"배인규 결혼설?\" 배인규 연애사 총정리",
-          "angle_type": "👤 배인규",
-          "article_count": 3,
-          "source_article": "배인규 신남성연대 대표, 인천 자택서 추락사…\"필로폰 투약 혐의로 수사 받아\"",
-          "source_url": "https://m.entertain.naver.com/article/416/0000325556",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "배인규"
-          ],
-          "template": "결혼 화제",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"최진실이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 2,
-          "source_article": "'故최진실 딸' 최준희 \"얼굴에 칼 더 댄다\"더니…\"설렌당\" 전신마취 수술 예약",
-          "source_url": "https://m.entertain.naver.com/article/311/0002041889",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "최진실",
-            "최준희",
-            "전신마",
-            "얼굴에",
-            "댄다"
-          ],
-          "template": "동갑내기",
-          "score": 5.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
+              "투병 질환",
+              "공백기",
+              "복귀 작품"
             ]
           },
           "channel": "정보주는하마"
@@ -788,23 +415,11 @@
       ],
       "keyword_freq": [
         [
-          "대표",
+          "눈물",
           4
         ],
         [
-          "황정민",
-          4
-        ],
-        [
-          "맞아",
-          4
-        ],
-        [
-          "투약",
-          3
-        ],
-        [
-          "자택서",
+          "추모",
           3
         ],
         [
@@ -812,35 +427,11 @@
           3
         ],
         [
-          "발견",
-          3
-        ],
-        [
-          "있어",
+          "대표",
           3
         ],
         [
           "먼저",
-          3
-        ],
-        [
-          "눈물",
-          2
-        ],
-        [
-          "신남성연대",
-          2
-        ],
-        [
-          "필로폰",
-          2
-        ],
-        [
-          "인생",
-          2
-        ],
-        [
-          "태도",
           2
         ],
         [
@@ -848,11 +439,35 @@
           2
         ],
         [
-          "유튜버",
+          "태도",
           2
         ],
         [
-          "집주인",
+          "배인규와",
+          2
+        ],
+        [
+          "고기남자",
+          2
+        ],
+        [
+          "취소",
+          2
+        ],
+        [
+          "최준희",
+          2
+        ],
+        [
+          "앞두고",
+          2
+        ],
+        [
+          "전신마취",
+          2
+        ],
+        [
+          "최진실",
           2
         ],
         [
@@ -860,73 +475,85 @@
           2
         ],
         [
-          "이승기",
+          "자택서",
           2
         ],
         [
-          "만기",
+          "신남성연대",
+          2
+        ],
+        [
+          "투약",
+          2
+        ],
+        [
+          "이혼",
+          2
+        ],
+        [
+          "발끈",
           2
         ]
       ],
       "name_freq": [
         [
-          "대표",
-          4
-        ],
-        [
-          "황정민",
-          4
-        ],
-        [
-          "맞아",
-          4
-        ],
-        [
-          "투약",
-          3
-        ],
-        [
-          "자택서",
-          3
-        ],
-        [
           "배인규",
+          5
+        ],
+        [
+          "눈물",
+          4
+        ],
+        [
+          "추모",
           3
         ],
         [
-          "발견",
-          3
-        ],
-        [
-          "있어",
+          "대표",
           3
         ],
         [
           "먼저",
-          3
-        ],
-        [
-          "눈물",
           2
         ],
         [
-          "필로폰",
-          2
-        ],
-        [
-          "신남성",
-          2
-        ],
-        [
-          "연대",
-          2
-        ],
-        [
-          "인생",
+          "정준원",
           2
         ],
         [
           "태도",
+          2
+        ],
+        [
+          "고기남자",
+          2
+        ],
+        [
+          "고기남",
+          2
+        ],
+        [
+          "취소",
+          2
+        ],
+        [
+          "최준희",
+          2
+        ],
+        [
+          "앞두고",
+          2
+        ],
+        [
+          "전신마",
+          2
+        ],
+        [
+          "최진실",
+          2
+        ],
+        [
+          "전세",
           2
         ]
       ],
@@ -937,38 +564,42 @@
         ],
         [
           "논란·사건",
-          7
+          2
         ],
         [
           "결혼·이혼",
           4
         ],
         [
+          "투병·건강",
+          3
+        ],
+        [
           "스포츠",
-          5
+          6
         ],
         [
           "가족·혈연",
-          2
+          3
         ]
       ]
     },
     "초구딱": {
-      "article_count": 38,
+      "article_count": 9,
       "topics": [
         {
           "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 7,
-          "source_article": "\"30년 야구보면서 가장 황당한 트레이드\" 유망주 5명이나 퍼주다니, MLB 관계자들 경악…역대급 오버페이 트레이드 되나",
+          "article_count": 8,
+          "source_article": "'충격' 위기의 한국 축구 이용했나 \"홍명보 후임 유력 후보 루머\" 르나르 감독, 전격 코트디부아르행",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "감독",
-            "경기",
             "트레이",
-            "홍명보",
-            "폭염"
+            "이강인",
+            "위기의",
+            "축구"
           ],
           "template": "스포츠 기록",
           "score": 7.8,
@@ -990,17 +621,21 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"경기\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 경기",
-          "article_count": 3,
-          "source_article": "‘관중까지 쓰러진 야구장 속 폭염’ KBO, 5~6일 전 경기 취소 결정…대책 긴급회의도 연다",
+          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 2,
+          "source_article": "배지환, 메츠서 전격 방출…메이저리그 복귀 좌절",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "경기"
+            "배지환",
+            "메츠서",
+            "전격",
+            "방출",
+            "메이저"
           ],
-          "template": "인맥",
-          "score": 7.0,
+          "template": "장기 공백 복귀",
+          "score": 6.1,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -1011,38 +646,9 @@
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"안내\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 안내",
-          "article_count": 3,
-          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "안내"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
             ]
           },
           "channel": "초구딱"
@@ -1054,71 +660,71 @@
           4
         ],
         [
-          "경기",
-          3
-        ],
-        [
-          "안내",
-          3
-        ],
-        [
-          "폭염",
+          "전격",
           2
         ],
         [
-          "취소",
+          "이강인",
           2
         ],
         [
-          "엠팍",
-          2
+          "메츠서",
+          1
         ],
         [
-          "워터밤",
-          2
+          "메이저리그",
+          1
         ],
         [
-          "만난",
-          2
+          "배지환",
+          1
         ],
         [
-          "지방국립대",
-          2
+          "방출",
+          1
         ],
         [
-          "맨시티",
-          2
+          "좌절",
+          1
+        ],
+        [
+          "축구",
+          1
+        ],
+        [
+          "홍명보",
+          1
+        ],
+        [
+          "위기의",
+          1
+        ],
+        [
+          "코트디부아르행",
+          1
+        ],
+        [
+          "후임",
+          1
+        ],
+        [
+          "르나르",
+          1
+        ],
+        [
+          "루머",
+          1
+        ],
+        [
+          "이용했나",
+          1
+        ],
+        [
+          "유력",
+          1
         ],
         [
           "트레이드",
-          1
-        ],
-        [
-          "명이나",
-          1
-        ],
-        [
-          "역대급",
-          1
-        ],
-        [
-          "오버페이",
-          1
-        ],
-        [
-          "야구보면서",
-          1
-        ],
-        [
-          "유망주",
-          1
-        ],
-        [
-          "관계자들",
-          1
-        ],
-        [
-          "되나",
           1
         ],
         [
@@ -1126,7 +732,7 @@
           1
         ],
         [
-          "가장",
+          "퍼주다니",
           1
         ]
       ],
@@ -1136,54 +742,22 @@
           4
         ],
         [
-          "경기",
-          3
-        ],
-        [
-          "안내",
-          3
-        ],
-        [
-          "홍명보",
+          "전격",
           2
         ],
         [
-          "폭염",
-          2
-        ],
-        [
-          "취소",
-          2
-        ],
-        [
-          "엠팍",
-          2
-        ],
-        [
-          "워터밤",
-          2
-        ],
-        [
-          "만난",
-          2
-        ],
-        [
-          "립대",
-          2
-        ],
-        [
-          "지방국",
-          2
-        ],
-        [
-          "맨시티",
+          "이강인",
           2
         ]
       ],
       "angle_scores": [
         [
+          "복귀·근황",
+          2
+        ],
+        [
           "스포츠",
-          7
+          8
         ]
       ]
     }
@@ -1192,16 +766,16 @@
     {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 7,
-      "source_article": "\"30년 야구보면서 가장 황당한 트레이드\" 유망주 5명이나 퍼주다니, MLB 관계자들 경악…역대급 오버페이 트레이드 되나",
+      "article_count": 8,
+      "source_article": "'충격' 위기의 한국 축구 이용했나 \"홍명보 후임 유력 후보 루머\" 르나르 감독, 전격 코트디부아르행",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "감독",
-        "경기",
         "트레이",
-        "홍명보",
-        "폭염"
+        "이강인",
+        "위기의",
+        "축구"
       ],
       "template": "스포츠 기록",
       "score": 7.8,
@@ -1223,17 +797,21 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"경기\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 경기",
-      "article_count": 3,
-      "source_article": "‘관중까지 쓰러진 야구장 속 폭염’ KBO, 5~6일 전 경기 취소 결정…대책 긴급회의도 연다",
+      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "배지환, 메츠서 전격 방출…메이저리그 복귀 좌절",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "경기"
+        "배지환",
+        "메츠서",
+        "전격",
+        "방출",
+        "메이저"
       ],
-      "template": "인맥",
-      "score": 7.0,
+      "template": "장기 공백 복귀",
+      "score": 6.1,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1244,38 +822,9 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
-      "article_count": 3,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "안내"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "초구딱"
@@ -1283,51 +832,18 @@
   ],
   "all_topics": [
     {
-      "title": "\"정준원까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 7,
-      "source_article": "\"인사성 없고 무례했다\"…정준원, '태도 논란'→장항준 한마디 '소환'",
-      "source_url": "https://m.entertain.naver.com/article/213/0001396870",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "정준원",
-        "태도",
-        "이승기",
-        "만기",
-        "집주인"
-      ],
-      "template": "논란 집합",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이승기, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "title": "\"전세, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
       "angle_type": "자산·몸값",
       "article_count": 5,
-      "source_article": "1236억 초대형 계약! '토트넘 왜 돌아가나?' 케인, 뮌헨과 더 간다…최소 2029년까지 동행",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "source_article": "샤이니 키, '나혼산 하차' 7개월 만→38억 전세 자택서 여유 만끽…\"김씨네 여름나기\"",
+      "source_url": "https://m.entertain.naver.com/article/213/0001396848",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "이승기",
         "전세",
-        "만기",
-        "집주인",
-        "됐는데"
+        "이승기",
+        "샤이니",
+        "나혼산",
+        "하차"
       ],
       "template": "자산 서열",
       "score": 7.0,
@@ -1349,18 +865,18 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+      "title": "\"만세, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 5,
-      "source_article": "\"엉덩이 왜 찍지 말라고 하나?\" 네덜란드 女 육상 스타도 반대하는데…\"여성 선수들 생계 막막해질 거야\" 방송연맹 규제에 '비판 속출'",
+      "article_count": 6,
+      "source_article": "홍명보 후임보다 빨리 정해졌다...'이례적 공채' 韓 대표팀, 임시감독 데뷔 무대 확정! 9월 A매치 에콰도르·우루과이와 2연전",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "놀란",
-        "감독",
-        "진짜",
-        "잘생겼",
-        "유재석"
+        "만세",
+        "손흥민",
+        "피라미",
+        "토트넘",
+        "역사상"
       ],
       "template": "스포츠 기록",
       "score": 6.8,
@@ -1382,27 +898,23 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 4,
-      "source_article": "세 번 이혼한 이아현, 첫 남편 떠올리다 눈물…“나는 왜 못 참았을까”",
-      "source_url": "https://m.entertain.naver.com/article/410/0001135212",
+      "title": "\"배인규 결혼설?\" 배인규 연애사 총정리",
+      "angle_type": "👤 배인규",
+      "article_count": 5,
+      "source_article": "‘배인규와 현피’ 고기남자, 진심 어린 추모…“모욕·억측 삼가주시길”",
+      "source_url": "https://m.entertain.naver.com/article/468/0001258086",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "이혼한",
-        "이아현",
-        "남편",
-        "떠올리",
-        "눈물"
+        "배인규"
       ],
       "template": "결혼 화제",
-      "score": 6.6,
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
-        "status": "재활용 가능",
-        "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
-        "matched_views": 720727,
-        "reason": "검증됨 720,727회 · 116일 경과"
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
       },
       "table": {
         "headers": [
@@ -1415,14 +927,18 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"발견 결혼설?\" 발견 연애사 총정리",
-      "angle_type": "👤 발견",
-      "article_count": 3,
-      "source_article": "'71만 유튜버' 배인규 대표, 숨진채 발견..이혼→마약 투약 혐의후 우울증 앓아",
-      "source_url": "https://m.entertain.naver.com/article/076/0004433323",
+      "title": "\"이혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 4,
+      "source_article": "'故 최진실 딸' 최준희, 결혼 세 달 만에 또 성형…전신마취 앞두고 \"헤헤 설렌다\"",
+      "source_url": "https://m.entertain.naver.com/article/117/0004091962",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "발견"
+        "이혼",
+        "최진실",
+        "최준희",
+        "결혼",
+        "성형"
       ],
       "template": "결혼 화제",
       "score": 6.6,
@@ -1444,14 +960,109 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"자택서 자산이 얼마?\" 자택서급 자산가 스타 TOP10",
-      "angle_type": "👤 자택서",
+      "title": "\"최진실이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "angle_type": "가족·혈연",
       "article_count": 3,
-      "source_article": "배인규 신남성연대 대표, 인천 자택서 추락사…\"필로폰 투약 혐의로 수사 받아\"",
-      "source_url": "https://m.entertain.naver.com/article/416/0000325556",
+      "source_article": "'故 최진실 딸' 최준희, 결혼 세 달 만에 또 성형…전신마취 앞두고 \"헤헤 설렌다\"",
+      "source_url": "https://m.entertain.naver.com/article/117/0004091962",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "자택서"
+        "최진실",
+        "최준희",
+        "전신마",
+        "결혼",
+        "성형"
+      ],
+      "template": "동갑내기",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "나이",
+          "대표작",
+          "현재 활동"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"눈물 결혼설?\" 눈물 연애사 총정리",
+      "angle_type": "👤 눈물",
+      "article_count": 4,
+      "source_article": "세 번 이혼한 이아현, 첫 남편 떠올리다 눈물…“나는 왜 못 참았을까”",
+      "source_url": "https://m.entertain.naver.com/article/410/0001135212",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "눈물"
+      ],
+      "template": "결혼 화제",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 2,
+      "source_article": "\"인사성 없고 무례했다\"…정준원, '태도 논란'→장항준 한마디 '소환'",
+      "source_url": "https://m.entertain.naver.com/article/213/0001396870",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "인사성",
+        "없고",
+        "무례했",
+        "정준원",
+        "태도"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"추모 자산이 얼마?\" 추모급 자산가 스타 TOP10",
+      "angle_type": "👤 추모",
+      "article_count": 3,
+      "source_article": "‘배인규와 현피’ 고기남자, 진심 어린 추모…“모욕·억측 삼가주시길”",
+      "source_url": "https://m.entertain.naver.com/article/468/0001258086",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "추모"
       ],
       "template": "자산 서열",
       "score": 6.5,
@@ -1473,125 +1084,9 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"황정민, 대체 무슨 일이?\" 황정민 관련 이슈 총정리",
-      "angle_type": "👤 황정민",
-      "article_count": 4,
-      "source_article": "황정민, A씨 사주에 \"너  약간 그런 게 있어\"…통화 내역 공개",
-      "source_url": "https://m.entertain.naver.com/article/445/0000445884",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "황정민"
-      ],
-      "template": "논란 집합",
-      "score": 6.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"맞아, 대체 무슨 일이?\" 맞아 관련 이슈 총정리",
-      "angle_type": "👤 맞아",
-      "article_count": 4,
-      "source_article": "성관계 없다지만…\"황정민 불륜 맞아\" 현직 변호사 분석",
-      "source_url": "https://m.entertain.naver.com/article/117/0004091996",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "맞아"
-      ],
-      "template": "논란 집합",
-      "score": 6.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"있어\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 있어",
-      "article_count": 3,
-      "source_article": "황정민, A씨 사주에 \"너  약간 그런 게 있어\"…통화 내역 공개",
-      "source_url": "https://m.entertain.naver.com/article/445/0000445884",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "있어"
-      ],
-      "template": "인맥",
-      "score": 6.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"먼저\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 먼저",
-      "article_count": 3,
-      "source_article": "\"다른 남자 만나고 있어\" 황정민, A씨 스토킹 특정 기간에도 연락…1년간 62차례 먼저 전화",
-      "source_url": "https://m.entertain.naver.com/article/312/0000770684",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "먼저"
-      ],
-      "template": "인맥",
-      "score": 6.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"대표 결혼설?\" 대표 연애사 총정리",
       "angle_type": "👤 대표",
-      "article_count": 4,
+      "article_count": 3,
       "source_article": "배인규 신남성연대 대표, 인천 자택서 추락사…\"필로폰 투약 혐의로 수사 받아\"",
       "source_url": "https://m.entertain.naver.com/article/416/0000325556",
       "source_name": "엔터 많이 본 뉴스",
@@ -1618,17 +1113,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"투약 결혼설?\" 투약 연애사 총정리",
-      "angle_type": "👤 투약",
+      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+      "angle_type": "투병·건강",
       "article_count": 3,
-      "source_article": "배인규 신남성연대 대표, 인천 자택서 추락사…\"필로폰 투약 혐의로 수사 받아\"",
-      "source_url": "https://m.entertain.naver.com/article/416/0000325556",
+      "source_article": "‘신남성연대’ 배인규 대표 사망…동료 유튜버들 잇따라 추모",
+      "source_url": "https://m.entertain.naver.com/article/144/0001130142",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "투약"
+        "신남성",
+        "연대",
+        "배인규",
+        "대표",
+        "사망"
       ],
-      "template": "결혼 화제",
-      "score": 6.3,
+      "template": "투병 극복",
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1639,71 +1138,9 @@
       "table": {
         "headers": [
           "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"배인규 결혼설?\" 배인규 연애사 총정리",
-      "angle_type": "👤 배인규",
-      "article_count": 3,
-      "source_article": "배인규 신남성연대 대표, 인천 자택서 추락사…\"필로폰 투약 혐의로 수사 받아\"",
-      "source_url": "https://m.entertain.naver.com/article/416/0000325556",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "배인규"
-      ],
-      "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"최진실이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 2,
-      "source_article": "'故최진실 딸' 최준희 \"얼굴에 칼 더 댄다\"더니…\"설렌당\" 전신마취 수술 예약",
-      "source_url": "https://m.entertain.naver.com/article/311/0002041889",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "최진실",
-        "최준희",
-        "전신마",
-        "얼굴에",
-        "댄다"
-      ],
-      "template": "동갑내기",
-      "score": 5.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
+          "투병 질환",
+          "공백기",
+          "복귀 작품"
         ]
       },
       "channel": "정보주는하마"
@@ -1711,16 +1148,16 @@
     {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 7,
-      "source_article": "\"30년 야구보면서 가장 황당한 트레이드\" 유망주 5명이나 퍼주다니, MLB 관계자들 경악…역대급 오버페이 트레이드 되나",
+      "article_count": 8,
+      "source_article": "'충격' 위기의 한국 축구 이용했나 \"홍명보 후임 유력 후보 루머\" 르나르 감독, 전격 코트디부아르행",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "감독",
-        "경기",
         "트레이",
-        "홍명보",
-        "폭염"
+        "이강인",
+        "위기의",
+        "축구"
       ],
       "template": "스포츠 기록",
       "score": 7.8,
@@ -1742,17 +1179,21 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"경기\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 경기",
-      "article_count": 3,
-      "source_article": "‘관중까지 쓰러진 야구장 속 폭염’ KBO, 5~6일 전 경기 취소 결정…대책 긴급회의도 연다",
+      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "배지환, 메츠서 전격 방출…메이저리그 복귀 좌절",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "경기"
+        "배지환",
+        "메츠서",
+        "전격",
+        "방출",
+        "메이저"
       ],
-      "template": "인맥",
-      "score": 7.0,
+      "template": "장기 공백 복귀",
+      "score": 6.1,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1763,38 +1204,9 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
-      "article_count": 3,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "안내"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "초구딱"
@@ -1802,23 +1214,11 @@
   ],
   "keyword_freq": [
     [
-      "대표",
+      "눈물",
       4
     ],
     [
-      "황정민",
-      4
-    ],
-    [
-      "맞아",
-      4
-    ],
-    [
-      "투약",
-      3
-    ],
-    [
-      "자택서",
+      "추모",
       3
     ],
     [
@@ -1826,35 +1226,11 @@
       3
     ],
     [
-      "발견",
-      3
-    ],
-    [
-      "있어",
+      "대표",
       3
     ],
     [
       "먼저",
-      3
-    ],
-    [
-      "눈물",
-      2
-    ],
-    [
-      "신남성연대",
-      2
-    ],
-    [
-      "필로폰",
-      2
-    ],
-    [
-      "인생",
-      2
-    ],
-    [
-      "태도",
       2
     ],
     [
@@ -1862,11 +1238,35 @@
       2
     ],
     [
-      "유튜버",
+      "태도",
       2
     ],
     [
-      "집주인",
+      "배인규와",
+      2
+    ],
+    [
+      "고기남자",
+      2
+    ],
+    [
+      "취소",
+      2
+    ],
+    [
+      "최준희",
+      2
+    ],
+    [
+      "앞두고",
+      2
+    ],
+    [
+      "전신마취",
+      2
+    ],
+    [
+      "최진실",
       2
     ],
     [
@@ -1874,77 +1274,89 @@
       2
     ],
     [
-      "이승기",
+      "자택서",
       2
     ],
     [
-      "만기",
+      "신남성연대",
+      2
+    ],
+    [
+      "투약",
+      2
+    ],
+    [
+      "이혼",
+      2
+    ],
+    [
+      "발끈",
       2
     ]
   ],
   "name_freq": [
     [
-      "대표",
-      4
-    ],
-    [
-      "황정민",
-      4
-    ],
-    [
-      "맞아",
-      4
-    ],
-    [
-      "투약",
-      3
-    ],
-    [
-      "자택서",
-      3
-    ],
-    [
       "배인규",
+      5
+    ],
+    [
+      "눈물",
+      4
+    ],
+    [
+      "추모",
       3
     ],
     [
-      "발견",
-      3
-    ],
-    [
-      "있어",
+      "대표",
       3
     ],
     [
       "먼저",
-      3
-    ],
-    [
-      "눈물",
       2
     ],
     [
-      "필로폰",
-      2
-    ],
-    [
-      "신남성",
-      2
-    ],
-    [
-      "연대",
-      2
-    ],
-    [
-      "인생",
+      "정준원",
       2
     ],
     [
       "태도",
       2
+    ],
+    [
+      "고기남자",
+      2
+    ],
+    [
+      "고기남",
+      2
+    ],
+    [
+      "취소",
+      2
+    ],
+    [
+      "최준희",
+      2
+    ],
+    [
+      "앞두고",
+      2
+    ],
+    [
+      "전신마",
+      2
+    ],
+    [
+      "최진실",
+      2
+    ],
+    [
+      "전세",
+      2
     ]
   ],
-  "total_topics_generated": 17,
-  "valid_topics": 17,
+  "total_topics_generated": 12,
+  "valid_topics": 12,
   "excluded_duplicates": 0
 }
