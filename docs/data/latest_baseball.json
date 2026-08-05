@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-05 15:05:22",
+  "scan_time": "2026-08-05 18:18:59",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,26 +8,17 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 0
+    "MLB파크 불펜": 30
   },
-  "total_articles": 50,
+  "total_articles": 80,
   "articles": [
     {
-      "title": "배지환, 메츠서 전격 방출…메이저리그 복귀 좌절",
+      "title": "“홍명보는 선수들에게 감독 취급도 못 받았구만…” 축구팬들이 충격받은 이유…남아공전 하이드레이션 브레이크 충격 공개",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 28901,
+      "views": 525578,
       "rank": 1,
-      "channel": "초구딱"
-    },
-    {
-      "title": "'충격' 위기의 한국 축구 이용했나 \"홍명보 후임 유력 후보 루머\" 르나르 감독, 전격 코트디부아르행",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 14797,
-      "rank": 4,
       "channel": "초구딱"
     },
     {
@@ -35,82 +26,352 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 7510,
-      "rank": 7,
+      "views": 228069,
+      "rank": 6,
       "channel": "초구딱"
     },
     {
-      "title": "‘대충격!’ 이강인, 이러면 왜 AT·마드리드 갔나···西 유력지 새 시즌 개막전, 예상 선발 라인업 ‘LEE 제외’",
+      "title": "'레전드' 사비, 한국 국대 감독직 관심 사실...하지만 임시 감독 공채는 지원하지 않아",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 6916,
+      "views": 216692,
+      "rank": 8,
+      "channel": "초구딱"
+    },
+    {
+      "title": "고우석 또 날벼락! 징계 항소 이겼더니.. → 트레이드 악재다. 초대형 구원투수 왔다",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 149564,
       "rank": 9,
       "channel": "초구딱"
     },
     {
-      "title": "\"이런 말 해도 될지 모르겠는데...\" 맨시티와 붙은 정정용 감독, '딱 한 명' 콕 집어 극찬 \"더 좋은 팀 가야 할 선수\"",
+      "title": "배지환, 메츠서 전격 방출…메이저리그 복귀 좌절",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 6015,
+      "views": 136591,
       "rank": 11,
       "channel": "초구딱"
     },
     {
-      "title": "벤투 감독 퇴장시켰던 테일러 심판, 은퇴 후 튀르키예축구협회 심판위원장 됐다",
+      "title": "포옛 감독, 한국 대표팀 차기 감독 선임 위한 '공개채용 지원'…\"며칠 내로 지원서 제출 예정, KFA에서 요청한 모든 서류 준비 중\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 5803,
+      "views": 126284,
+      "rank": 12,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'충격' 위기의 한국 축구 이용했나 \"홍명보 후임 유력 후보 루머\" 르나르 감독, 전격 코트디부아르행",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 120527,
       "rank": 13,
       "channel": "초구딱"
     },
     {
-      "title": "'샐러리캡 폭발' 걱정했던 LG, FA 대어들이 알아서 몸값 디스카운트? 웃지 못할 현실",
+      "title": "KIA 초대형 변수 맞는다! 김도영 사라지는데 어쩌나?…사상 초유의 3G 연속 폭염 취소→9월 순연 경기 '5강 싸움' 영향 끼치나, 日 AG 대거 차출되는데",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 5282,
+      "views": 89395,
+      "rank": 20,
+      "channel": "초구딱"
+    },
+    {
+      "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 1,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 2,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🛠️[공지] 해외 접속 장애 관련 안내_260522🛠️",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202605220000002082",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 3,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🔔[업데이트] 외부 링크 미리보기(Embed/OG 태그) 기능 추가 안내🔔",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202607070000002111",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 4,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🌊[엠팍 회원 대상] 워터밤 속초 2026 티켓 증정 이벤트 (비비 출연)🌊",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202607290000002144",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 5,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🌊[추첨/판매] 엠팍 하계 휴양 : 워터밤+호텔 풀세팅 해드림🌊",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202607270000002132",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 6,
+      "channel": "초구딱"
+    },
+    {
+      "title": "티스토리 블로거 마키는 최근까지도 활동했네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608060117817197&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=kakao.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 7,
+      "channel": "초구딱"
+    },
+    {
+      "title": "클릭비 멤버한명이 압도적으로 키가 크네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608060117817194&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 27,
+      "rank": 8,
+      "channel": "초구딱"
+    },
+    {
+      "title": "나솔 모태솔로편 재밌나요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608060117817191&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 24,
+      "rank": 9,
+      "channel": "초구딱"
+    },
+    {
+      "title": "날씨가 미치긴 미친듯여 ㅋㅋㅋ.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608060117817188&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 99,
+      "rank": 10,
+      "channel": "초구딱"
+    },
+    {
+      "title": "2025년 배드민턴 결산",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608060117817185&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 25,
+      "rank": 11,
+      "channel": "초구딱"
+    },
+    {
+      "title": "현재 한국여자들 상태에 대한 한 이대남의 쓰레드 + 관련 댓글들",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608060117817176&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 182,
+      "rank": 12,
+      "channel": "초구딱"
+    },
+    {
+      "title": "잠실이나 부산은 짓는김에 돔구장으로 가면 되는데",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608060117817173&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 96,
+      "rank": 13,
+      "channel": "초구딱"
+    },
+    {
+      "title": "대한민국 만화 오프닝 레전드.gif",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608060117817170&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 859,
+      "rank": 14,
+      "channel": "초구딱"
+    },
+    {
+      "title": "일본 야구팬 \"한국 폭염 야구 취소는 돔구장 하나, 관객 선수 건강 생각한 적절 조치\"",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608060117817167&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 241,
+      "rank": 15,
+      "channel": "초구딱"
+    },
+    {
+      "title": "31 동갑인데 신혼 기싸움 ㄷㄷ.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608060117817161&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 594,
+      "rank": 16,
+      "channel": "초구딱"
+    },
+    {
+      "title": "태양계 행성이 더 있을거라는 가설도 있네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608060117817158&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 206,
+      "rank": 17,
+      "channel": "초구딱"
+    },
+    {
+      "title": "최근 10년간 가장 시원했던 여름.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608060117817152&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 274,
       "rank": 18,
       "channel": "초구딱"
     },
     {
-      "title": "디아즈 대체 왜 이러니? 2위 삼성 마음 급한데…10G 홈런 無+타율 0.243→사령탑 진단은",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 4894,
+      "title": "건보 추가정산금 납부 거부하는 퇴직자들에게서 강제로 받아낼 것.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608060117817146&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 158,
       "rank": 19,
       "channel": "초구딱"
     },
     {
-      "title": "‘취재 결과’ 나왔다 “이강인, 한 대 쥐어박고 싶다” 한국 대표팀 ‘새 감독’ 자리, LEE 아들처럼 아낀 은사가 원한다",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 4869,
+      "title": "헐 벌랜더 은퇴하는거 스톡킹 보고 알았네요 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608060117817143&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 136,
       "rank": 20,
+      "channel": "초구딱"
+    },
+    {
+      "title": "오디세이는 아맥으로 봐야되요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608060117817140&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 197,
+      "rank": 21,
+      "channel": "초구딱"
+    },
+    {
+      "title": "김민주가 진짜 완벽한 여자의 표본인듯",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608060117817137&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 309,
+      "rank": 22,
+      "channel": "초구딱"
+    },
+    {
+      "title": "WWE 월드 헤비웨이트 타이틀 도전자 결정 토너먼트 진행",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608060117817134&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 91,
+      "rank": 23,
+      "channel": "초구딱"
+    },
+    {
+      "title": "귀멸의 칼날은 도저히 못보겠네요....ㅇㅇ;;",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608060117817131&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 216,
+      "rank": 24,
+      "channel": "초구딱"
+    },
+    {
+      "title": "요즘은 왜 유리상자같은 그룹이 안나오나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608060117817125&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 194,
+      "rank": 25,
+      "channel": "초구딱"
+    },
+    {
+      "title": "우미관, 명동시대에서 양은이파로 가는 오디세이",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608060117817122&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 155,
+      "rank": 26,
+      "channel": "초구딱"
+    },
+    {
+      "title": "삼국지 좋아하는 인물 열 명",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608060117817119&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 172,
+      "rank": 27,
+      "channel": "초구딱"
+    },
+    {
+      "title": "오디세이  이 장면 나오나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608060117817116&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 442,
+      "rank": 28,
+      "channel": "초구딱"
+    },
+    {
+      "title": "알트 중에는 한때 사기꾼 의심받던 저스틴선 코인만 살아남았네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608060117817113&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 245,
+      "rank": 29,
+      "channel": "초구딱"
+    },
+    {
+      "title": "중국산 과자 드시나요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608060117817110&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 377,
+      "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 41,
+      "article_count": 42,
       "topics": [
         {
           "title": "\"전세, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
           "angle_type": "자산·몸값",
           "article_count": 5,
-          "source_article": "샤이니 키, '나혼산 하차' 7개월 만→38억 전세 자택서 여유 만끽…\"김씨네 여름나기\"",
-          "source_url": "https://m.entertain.naver.com/article/213/0001396848",
-          "source_name": "엔터 많이 본 뉴스",
+          "source_article": "1236억 초대형 계약! '토트넘 왜 돌아가나?' 케인, 뮌헨과 더 간다…최소 2029년까지 동행",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "전세",
             "이승기",
+            "계약",
             "샤이니",
-            "나혼산",
-            "하차"
+            "나혼산"
           ],
           "template": "자산 서열",
           "score": 7.0,
@@ -132,18 +393,51 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"만세, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 6,
-          "source_article": "홍명보 후임보다 빨리 정해졌다...'이례적 공채' 韓 대표팀, 임시감독 데뷔 무대 확정! 9월 A매치 에콰도르·우루과이와 2연전",
+          "title": "\"오심까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 4,
+          "source_article": "\"진심으로 사과, 송구한 마음 전합니다\" 끝내 오심 인정...KFA 심판평가협의체, 수원삼성-충북청주전 PK 미선언 논란 '명백한 오심' 결론",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "만세",
-            "손흥민",
-            "피라미",
-            "토트넘",
-            "역사상"
+            "오심",
+            "인사성",
+            "없고",
+            "무례했",
+            "정준원"
+          ],
+          "template": "논란 집합",
+          "score": 7.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"오심, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 5,
+          "source_article": "\"엉덩이 왜 찍지 말라고 하나?\" 네덜란드 女 육상 스타도 반대하는데…\"여성 선수들 생계 막막해질 거야\" 방송연맹 규제에 '비판 속출'",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "오심",
+            "메시",
+            "엉덩이",
+            "찍지",
+            "말라고"
           ],
           "template": "스포츠 기록",
           "score": 6.8,
@@ -289,39 +583,6 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 2,
-          "source_article": "\"인사성 없고 무례했다\"…정준원, '태도 논란'→장항준 한마디 '소환'",
-          "source_url": "https://m.entertain.naver.com/article/213/0001396870",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "인사성",
-            "없고",
-            "무례했",
-            "정준원",
-            "태도"
-          ],
-          "template": "논란 집합",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
           "title": "\"추모 자산이 얼마?\" 추모급 자산가 스타 TOP10",
           "angle_type": "👤 추모",
           "article_count": 3,
@@ -423,11 +684,11 @@
           3
         ],
         [
-          "배인규",
+          "대표",
           3
         ],
         [
-          "대표",
+          "배인규",
           3
         ],
         [
@@ -435,15 +696,11 @@
           2
         ],
         [
-          "정준원",
-          2
-        ],
-        [
           "태도",
           2
         ],
         [
-          "배인규와",
+          "정준원",
           2
         ],
         [
@@ -451,19 +708,11 @@
           2
         ],
         [
+          "배인규와",
+          2
+        ],
+        [
           "취소",
-          2
-        ],
-        [
-          "최준희",
-          2
-        ],
-        [
-          "앞두고",
-          2
-        ],
-        [
-          "전신마취",
           2
         ],
         [
@@ -471,11 +720,23 @@
           2
         ],
         [
-          "전세",
+          "최준희",
+          2
+        ],
+        [
+          "전신마취",
+          2
+        ],
+        [
+          "앞두고",
           2
         ],
         [
           "자택서",
+          2
+        ],
+        [
+          "전세",
           2
         ],
         [
@@ -517,11 +778,11 @@
           2
         ],
         [
-          "정준원",
+          "태도",
           2
         ],
         [
-          "태도",
+          "정준원",
           2
         ],
         [
@@ -537,14 +798,6 @@
           2
         ],
         [
-          "최준희",
-          2
-        ],
-        [
-          "앞두고",
-          2
-        ],
-        [
           "전신마",
           2
         ],
@@ -553,7 +806,15 @@
           2
         ],
         [
-          "전세",
+          "최준희",
+          2
+        ],
+        [
+          "앞두고",
+          2
+        ],
+        [
+          "자택서",
           2
         ]
       ],
@@ -564,7 +825,7 @@
         ],
         [
           "논란·사건",
-          2
+          4
         ],
         [
           "결혼·이혼",
@@ -576,7 +837,7 @@
         ],
         [
           "스포츠",
-          6
+          5
         ],
         [
           "가족·혈연",
@@ -585,21 +846,21 @@
       ]
     },
     "초구딱": {
-      "article_count": 9,
+      "article_count": 38,
       "topics": [
         {
           "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 8,
-          "source_article": "'충격' 위기의 한국 축구 이용했나 \"홍명보 후임 유력 후보 루머\" 르나르 감독, 전격 코트디부아르행",
+          "article_count": 7,
+          "source_article": "“홍명보는 선수들에게 감독 취급도 못 받았구만…” 축구팬들이 충격받은 이유…남아공전 하이드레이션 브레이크 충격 공개",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "감독",
             "트레이",
-            "이강인",
-            "위기의",
-            "축구"
+            "홍명보",
+            "선수들",
+            "취급도"
           ],
           "template": "스포츠 기록",
           "score": 7.8,
@@ -652,6 +913,64 @@
             ]
           },
           "channel": "초구딱"
+        },
+        {
+          "title": "\"안내\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안내",
+          "article_count": 3,
+          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "안내"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"오디세\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 오디세",
+          "article_count": 3,
+          "source_article": "오디세이는 아맥으로 봐야되요",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608060117817140&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "오디세"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
@@ -660,79 +979,79 @@
           4
         ],
         [
+          "안내",
+          3
+        ],
+        [
+          "가장",
+          2
+        ],
+        [
+          "트레이드",
+          2
+        ],
+        [
+          "레전드",
+          2
+        ],
+        [
+          "초대형",
+          2
+        ],
+        [
           "전격",
           2
         ],
         [
-          "이강인",
+          "폭염",
           2
         ],
         [
-          "메츠서",
+          "워터밤",
+          2
+        ],
+        [
+          "엠팍",
+          2
+        ],
+        [
+          "오디세이",
+          2
+        ],
+        [
+          "충격받은",
           1
         ],
         [
-          "메이저리그",
+          "홍명보는",
           1
         ],
         [
-          "배지환",
+          "브레이크",
           1
         ],
         [
-          "방출",
+          "취급도",
           1
         ],
         [
-          "좌절",
+          "축구팬들이",
           1
         ],
         [
-          "축구",
+          "하이드레이션",
           1
         ],
         [
-          "홍명보",
+          "받았구만",
           1
         ],
         [
-          "위기의",
+          "남아공전",
           1
         ],
         [
-          "코트디부아르행",
-          1
-        ],
-        [
-          "후임",
-          1
-        ],
-        [
-          "르나르",
-          1
-        ],
-        [
-          "루머",
-          1
-        ],
-        [
-          "이용했나",
-          1
-        ],
-        [
-          "유력",
-          1
-        ],
-        [
-          "트레이드",
-          1
-        ],
-        [
-          "황당한",
-          1
-        ],
-        [
-          "퍼주다니",
+          "선수들에게",
           1
         ]
       ],
@@ -742,11 +1061,55 @@
           4
         ],
         [
+          "안내",
+          3
+        ],
+        [
+          "오디세",
+          3
+        ],
+        [
+          "홍명보",
+          2
+        ],
+        [
+          "가장",
+          2
+        ],
+        [
+          "트레이",
+          2
+        ],
+        [
+          "레전드",
+          2
+        ],
+        [
+          "초대형",
+          2
+        ],
+        [
           "전격",
           2
         ],
         [
-          "이강인",
+          "폭염",
+          2
+        ],
+        [
+          "워터밤",
+          2
+        ],
+        [
+          "엠팍",
+          2
+        ],
+        [
+          "네요",
+          2
+        ],
+        [
+          "돔구장",
           2
         ]
       ],
@@ -757,7 +1120,7 @@
         ],
         [
           "스포츠",
-          8
+          7
         ]
       ]
     }
@@ -766,16 +1129,16 @@
     {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 8,
-      "source_article": "'충격' 위기의 한국 축구 이용했나 \"홍명보 후임 유력 후보 루머\" 르나르 감독, 전격 코트디부아르행",
+      "article_count": 7,
+      "source_article": "“홍명보는 선수들에게 감독 취급도 못 받았구만…” 축구팬들이 충격받은 이유…남아공전 하이드레이션 브레이크 충격 공개",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "감독",
         "트레이",
-        "이강인",
-        "위기의",
-        "축구"
+        "홍명보",
+        "선수들",
+        "취급도"
       ],
       "template": "스포츠 기록",
       "score": 7.8,
@@ -828,6 +1191,64 @@
         ]
       },
       "channel": "초구딱"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"오디세\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 오디세",
+      "article_count": 3,
+      "source_article": "오디세이는 아맥으로 봐야되요",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608060117817140&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "오디세"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
     }
   ],
   "all_topics": [
@@ -835,15 +1256,15 @@
       "title": "\"전세, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
       "angle_type": "자산·몸값",
       "article_count": 5,
-      "source_article": "샤이니 키, '나혼산 하차' 7개월 만→38억 전세 자택서 여유 만끽…\"김씨네 여름나기\"",
-      "source_url": "https://m.entertain.naver.com/article/213/0001396848",
-      "source_name": "엔터 많이 본 뉴스",
+      "source_article": "1236억 초대형 계약! '토트넘 왜 돌아가나?' 케인, 뮌헨과 더 간다…최소 2029년까지 동행",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "전세",
         "이승기",
+        "계약",
         "샤이니",
-        "나혼산",
-        "하차"
+        "나혼산"
       ],
       "template": "자산 서열",
       "score": 7.0,
@@ -865,18 +1286,51 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"만세, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 6,
-      "source_article": "홍명보 후임보다 빨리 정해졌다...'이례적 공채' 韓 대표팀, 임시감독 데뷔 무대 확정! 9월 A매치 에콰도르·우루과이와 2연전",
+      "title": "\"오심까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 4,
+      "source_article": "\"진심으로 사과, 송구한 마음 전합니다\" 끝내 오심 인정...KFA 심판평가협의체, 수원삼성-충북청주전 PK 미선언 논란 '명백한 오심' 결론",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "만세",
-        "손흥민",
-        "피라미",
-        "토트넘",
-        "역사상"
+        "오심",
+        "인사성",
+        "없고",
+        "무례했",
+        "정준원"
+      ],
+      "template": "논란 집합",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"오심, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 5,
+      "source_article": "\"엉덩이 왜 찍지 말라고 하나?\" 네덜란드 女 육상 스타도 반대하는데…\"여성 선수들 생계 막막해질 거야\" 방송연맹 규제에 '비판 속출'",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "오심",
+        "메시",
+        "엉덩이",
+        "찍지",
+        "말라고"
       ],
       "template": "스포츠 기록",
       "score": 6.8,
@@ -1022,39 +1476,6 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 2,
-      "source_article": "\"인사성 없고 무례했다\"…정준원, '태도 논란'→장항준 한마디 '소환'",
-      "source_url": "https://m.entertain.naver.com/article/213/0001396870",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "인사성",
-        "없고",
-        "무례했",
-        "정준원",
-        "태도"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"추모 자산이 얼마?\" 추모급 자산가 스타 TOP10",
       "angle_type": "👤 추모",
       "article_count": 3,
@@ -1148,16 +1569,16 @@
     {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 8,
-      "source_article": "'충격' 위기의 한국 축구 이용했나 \"홍명보 후임 유력 후보 루머\" 르나르 감독, 전격 코트디부아르행",
+      "article_count": 7,
+      "source_article": "“홍명보는 선수들에게 감독 취급도 못 받았구만…” 축구팬들이 충격받은 이유…남아공전 하이드레이션 브레이크 충격 공개",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "감독",
         "트레이",
-        "이강인",
-        "위기의",
-        "축구"
+        "홍명보",
+        "선수들",
+        "취급도"
       ],
       "template": "스포츠 기록",
       "score": 7.8,
@@ -1210,6 +1631,64 @@
         ]
       },
       "channel": "초구딱"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"오디세\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 오디세",
+      "article_count": 3,
+      "source_article": "오디세이는 아맥으로 봐야되요",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608060117817140&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "오디세"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
@@ -1222,11 +1701,11 @@
       3
     ],
     [
-      "배인규",
+      "대표",
       3
     ],
     [
-      "대표",
+      "배인규",
       3
     ],
     [
@@ -1234,15 +1713,11 @@
       2
     ],
     [
-      "정준원",
-      2
-    ],
-    [
       "태도",
       2
     ],
     [
-      "배인규와",
+      "정준원",
       2
     ],
     [
@@ -1250,19 +1725,11 @@
       2
     ],
     [
+      "배인규와",
+      2
+    ],
+    [
       "취소",
-      2
-    ],
-    [
-      "최준희",
-      2
-    ],
-    [
-      "앞두고",
-      2
-    ],
-    [
-      "전신마취",
       2
     ],
     [
@@ -1270,11 +1737,23 @@
       2
     ],
     [
-      "전세",
+      "최준희",
+      2
+    ],
+    [
+      "전신마취",
+      2
+    ],
+    [
+      "앞두고",
       2
     ],
     [
       "자택서",
+      2
+    ],
+    [
+      "전세",
       2
     ],
     [
@@ -1316,11 +1795,11 @@
       2
     ],
     [
-      "정준원",
+      "태도",
       2
     ],
     [
-      "태도",
+      "정준원",
       2
     ],
     [
@@ -1336,14 +1815,6 @@
       2
     ],
     [
-      "최준희",
-      2
-    ],
-    [
-      "앞두고",
-      2
-    ],
-    [
       "전신마",
       2
     ],
@@ -1352,11 +1823,19 @@
       2
     ],
     [
-      "전세",
+      "최준희",
+      2
+    ],
+    [
+      "앞두고",
+      2
+    ],
+    [
+      "자택서",
       2
     ]
   ],
-  "total_topics_generated": 12,
-  "valid_topics": 12,
+  "total_topics_generated": 14,
+  "valid_topics": 14,
   "excluded_duplicates": 0
 }
