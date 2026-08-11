@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-11 03:03:11",
+  "scan_time": "2026-08-11 05:52:44",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -13,75 +13,84 @@
   "total_articles": 80,
   "articles": [
     {
-      "title": "결국, KIA 트레이드 버튼 눌렀다…줄부상→최고 기대주 입대, 하주석 생각보다 큰 영입이었네",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 17734,
-      "rank": 4,
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"韓 대표팀 새 감독, 포옛 거의 확실\" 서류 마감 하루 만에 일본 매체 보도",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 14685,
-      "rank": 5,
-      "channel": "초구딱"
-    },
-    {
-      "title": "21년 만의 '韓 EPL 0명' 현실화되나…'토트넘 0분' 양민혁, 4번째 임대 초읽기→벨기에 구단 메디컬테스트 완료",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 10967,
-      "rank": 8,
-      "channel": "초구딱"
-    },
-    {
-      "title": "'타율 0.067' 김하성 복귀 유탄 제대로 맞았다…'도루왕 출신' 유틸리티 내야수 끝내 방출, 놀아도 돈 다 받는다",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 10882,
-      "rank": 9,
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"정말 공식이다\" NBA 11년 뛴 '211cm·121kg' 빅맨이 여자농구 드래프트 진출 선언",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 10573,
-      "rank": 11,
-      "channel": "초구딱"
-    },
-    {
-      "title": "한국 대표팀 새로운 감독, 9월·10월 평가전 '작전 타임' 없다…하이드레이션 브레이크 사라질 전망",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 8882,
-      "rank": 15,
-      "channel": "초구딱"
-    },
-    {
       "title": "'한국 야구 대박 소식' 나올까? '김도영·안현민 동기' 조원빈, 올 시즌 마치면 5년 차→40인 로스터 등재 가능성 대두",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 8859,
-      "rank": 16,
+      "views": 16065,
+      "rank": 2,
       "channel": "초구딱"
     },
     {
-      "title": "파울 타구 맞고 ‘으악’...SF 포수 수작, 슬개골 골절 이탈",
+      "title": "\"포옛, 한국 대표팀 감독 취임 거의 확실\"...지원자도 안 밝혔는데 日서 먼저 터졌다",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 7348,
-      "rank": 20,
+      "views": 15604,
+      "rank": 3,
+      "channel": "초구딱"
+    },
+    {
+      "title": "결국, KIA 트레이드 버튼 눌렀다…줄부상→최고 기대주 입대, 하주석 생각보다 큰 영입이었네",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 13529,
+      "rank": 5,
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"韓 평생 감사\" WBC 한국 대표, 타율 0.476 미쳤다!…보스턴 이적 뒤 맹타 펑펑→방출 대기생에서 '대반전 핵심 동력' 180도 변신",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 11318,
+      "rank": 9,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'1승 8패' 충격 부진 다저스 결국 칼 빼 들었다! 투수 4명 전격 교체…前 KBO 외인 깜짝 콜업",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 10459,
+      "rank": 10,
+      "channel": "초구딱"
+    },
+    {
+      "title": "“144경기 조정 필요”…이순철 위원, 김태형 감독 의견에 공감→KBO 경기 축소 주장",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 9471,
+      "rank": 13,
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"韓 귀화 추진, 작년엔 코치 면접도 봤다\" 그런데 왜 돌아오지 못했나? 여전히 한국 잊지 못한 롯데 복덩이",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 8602,
+      "rank": 14,
+      "channel": "초구딱"
+    },
+    {
+      "title": "이정후, 일주일 만에 시즌 9호포 폭발! ML 첫 10홈런까지 '단 1개' 남았다→美 커리어하이 달성",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 7983,
+      "rank": 15,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'이럴수가' 한국계 꽃미남 내야수 충격의 DFA, 그래도 美 언론 긍정 전망 \"다른팀 관심받을 가능성 충분\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 7436,
+      "rank": 19,
       "channel": "초구딱"
     },
     {
@@ -139,8 +148,8 @@
       "channel": "초구딱"
     },
     {
-      "title": "리센느는 오마이걸 만큼만 되어도 성공일려나요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117873924&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "(스포) 오디세이 영화 보고나면 생각 바뀐다고 하는 장면 JPG",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117876678&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
       "views": 0,
@@ -148,8 +157,8 @@
       "channel": "초구딱"
     },
     {
-      "title": "솔직히 입으로 애국하는 인간들 절반이상은 그 시대 떨어지면",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117873921&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=facebook.com",
+      "title": "조재현도 고영욱이랑 똑같은 처지인데",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117876675&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
       "views": 0,
@@ -157,224 +166,224 @@
       "channel": "초구딱"
     },
     {
-      "title": "심지어 1930년대까지 유명 친일파들은 조선인 정체성이 강했죠",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117873912&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "[QWER] 스탠딩구역 예매하시는 분들?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117876669&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 17,
+      "views": 0,
       "rank": 9,
       "channel": "초구딱"
     },
     {
-      "title": "남자 1986년생이면 외모서 티가 확 나는 나이 인가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117873909&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "각자 할아버지 뭐하셨는지 아시나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117876666&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 0,
+      "views": 28,
       "rank": 10,
       "channel": "초구딱"
     },
     {
-      "title": "축협 접대논란에 감사원과 축협 해명",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117873900&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "원피스에 미호크는 누구랑 마지막에 싸울까요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117876657&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 52,
+      "views": 12,
       "rank": 11,
       "channel": "초구딱"
     },
     {
-      "title": "친일파 자손들은 자기가 친일파 자손이란 걸 알까요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117873897&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "비빔면 또 끓여 봤습니다..",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117876654&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 47,
+      "views": 64,
       "rank": 12,
       "channel": "초구딱"
     },
     {
-      "title": "제가 일제 강점기에 살았으면 독립운동 친일파 둘 다 못했을거같네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117873888&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "증조부 이름 아시나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117876642&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 78,
+      "views": 74,
       "rank": 13,
       "channel": "초구딱"
     },
     {
-      "title": "리센느 리브가 울컥한 장면",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117873882&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "정해인이 정약용 차남 후손이던데",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117876639&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 158,
+      "views": 122,
       "rank": 14,
       "channel": "초구딱"
     },
     {
-      "title": "태풍 덮친 중국 근황.mp4",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117873879&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "넷플에 쇼생크 탈출 올라왔네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117876636&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 164,
+      "views": 36,
       "rank": 15,
       "channel": "초구딱"
     },
     {
-      "title": "블핑 제니, 이거 뭔가요? ㄷㄷ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117873864&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "하영 크게 억울할건 없어보이네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117876633&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=kakao.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 305,
+      "views": 81,
       "rank": 16,
       "channel": "초구딱"
     },
     {
-      "title": "소나타 dn8 괜찮은 차인가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117873852&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "자율주행 전기로봇택시 되면 요금 절반이하 가능 봅니다",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117876630&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 61,
+      "views": 44,
       "rank": 17,
       "channel": "초구딱"
     },
     {
-      "title": "이정후는 중박 이상은 되나요??",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117873849&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "그래서 이여자가 지금  이쁘다고요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117876621&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 272,
+      "views": 311,
       "rank": 18,
       "channel": "초구딱"
     },
     {
-      "title": "다저스 스쿠발 영입도 폭망",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117873846&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "이제 에어컨 안틀어도 되네요 ㄷㄷㄷ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117876618&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 190,
+      "views": 126,
       "rank": 19,
       "channel": "초구딱"
     },
     {
-      "title": "한국에서 하면 난리날 방송.jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117873840&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "늦은 점심했습니다.JPG",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117876609&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 255,
+      "views": 101,
       "rank": 20,
       "channel": "초구딱"
     },
     {
-      "title": "수학은 아이큐가 많이 중요할까요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117873837&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "호프는 결국 안티가 승리했군요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117876606&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 79,
+      "views": 289,
       "rank": 21,
       "channel": "초구딱"
     },
     {
-      "title": "홍난파도 3관왕이군요. jpg.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117873834&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "강동원 이지아 열받겠네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117876603&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 176,
+      "views": 274,
       "rank": 22,
       "channel": "초구딱"
     },
     {
-      "title": "하영이 자랑스럽게 떠들었다한들 뭐가 그렇게 크게 문제인지 모르겠는데요.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117873825&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "여자가 전기자전거 배달 할수있나요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117876600&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 219,
+      "views": 56,
       "rank": 23,
       "channel": "초구딱"
     },
     {
-      "title": "옐 어제.MP4",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117873819&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "거제 놀러간 외국인 가족 인터뷰.mp4",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117876594&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 74,
+      "views": 279,
       "rank": 24,
       "channel": "초구딱"
     },
     {
-      "title": "이정후 시즌 9호 솔로포.mp4",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117873816&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "하영 집안에선 하영 증조부에 대한 인식이 딱히 없었을수도 있음",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117876588&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 590,
+      "views": 161,
       "rank": 25,
       "channel": "초구딱"
     },
     {
-      "title": "여직원한테 냄새난다고 들은지 6일째네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117873813&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "발라트로 고수님들 이거 깨는각 나왔나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117876585&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 229,
+      "views": 29,
       "rank": 26,
       "channel": "초구딱"
     },
     {
-      "title": "용아맥 암표 수준",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117873810&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "9년전이랑 지금이랑 똑같이생긴 여돌",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117876579&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 136,
+      "views": 144,
       "rank": 27,
       "channel": "초구딱"
     },
     {
-      "title": "카리나 빨간약 사진 의문점.JPG...ㅇㅇ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117873798&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "남들은 다 잘생겼다는데 난 잘 모르겠는 배우들...ㄷㄷㄷㄷ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117876576&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 408,
+      "views": 221,
       "rank": 28,
       "channel": "초구딱"
     },
     {
-      "title": "평생 10억을 못버는 사람들이 널린 이유는",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117873792&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "스파이더맨, 제일 먼저 생각나는 배우는?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117876573&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 306,
+      "views": 88,
       "rank": 29,
       "channel": "초구딱"
     },
     {
-      "title": "오늘 장대 양봉이 나온다면",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117873783&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "귀지 빼고 8천원 청구한 소아과",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608110117876570&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 353,
+      "views": 533,
       "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 42,
+      "article_count": 41,
       "topics": [
         {
           "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
           "angle_type": "복귀·근황",
-          "article_count": 7,
-          "source_article": "이상민, 개인사로 갑작스러운 하차…11년 만 서바이벌 복귀→허무한 퇴장 ('피의 게임X')",
-          "source_url": "https://m.entertain.naver.com/article/213/0001397425",
+          "article_count": 9,
+          "source_article": "\"가슴 수술 포기·여성호르몬 중단\"…'물어보살' 레전드 사연자, 1년 만에 180도 바뀐 근황",
+          "source_url": "https://m.entertain.naver.com/article/445/0000448446",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "근황",
-            "이상민",
-            "개인사",
-            "갑작스",
-            "러운"
+            "동생",
+            "배달",
+            "알바",
+            "런닝맨"
           ],
           "template": "장기 공백 복귀",
-          "score": 7.5,
+          "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -393,21 +402,112 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-          "angle_type": "논란·사건",
+          "title": "\"이강인, 지금 어디서 뭐 하나?\" 이강인 근황 총정리",
+          "angle_type": "👤 이강인",
           "article_count": 3,
-          "source_article": "'4대째 의사 집안' 하영, 친일 후손 논란에 선 그었다 \"증조부 안상호 맞지만..의혹 사실무근\"",
-          "source_url": "https://m.entertain.naver.com/article/108/0003460769",
+          "source_article": "'이강인에 그리즈만급 활약은 기대 마라' 아틀레티코 데뷔전 본 현지 매체 \"왼발 퀄리티 좋지만, 볼 너무 오래 소유\" 냉정 평가",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "이강인"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.7,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+          "angle_type": "가족·혈연",
+          "article_count": 3,
+          "source_article": "시댁 식구들, 결국 안 왔다…6명 예약한 심규덕, 딸랑 둘이서 식사",
+          "source_url": "https://m.entertain.naver.com/article/312/0000771454",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "대째",
-            "의사",
-            "집안",
+            "시댁",
+            "식구들",
+            "예약한",
+            "심규덕",
+            "딸랑"
+          ],
+          "template": "동갑내기",
+          "score": 6.6,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "나이",
+              "대표작",
+              "현재 활동"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"하영까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 4,
+          "source_article": "“친일파=사실무근”마저 번복…하영, 증조부 친일 논란에 ‘사면초가’",
+          "source_url": "https://m.entertain.naver.com/article/144/0001131123",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
             "하영",
+            "증조부",
+            "친일",
+            "논란에",
+            "황정민"
+          ],
+          "template": "논란 집합",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"친일, 대체 무슨 일이?\" 친일 관련 이슈 총정리",
+          "angle_type": "👤 친일",
+          "article_count": 7,
+          "source_article": "하영, '친일' 의사 증조부 자랑 처음 아냐…\"당연히 자랑스럽다\"",
+          "source_url": "https://m.entertain.naver.com/article/311/0002043796",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
             "친일"
           ],
           "template": "논란 집합",
-          "score": 7.0,
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -429,14 +529,14 @@
           "title": "\"증조부, 대체 무슨 일이?\" 증조부 관련 이슈 총정리",
           "angle_type": "👤 증조부",
           "article_count": 6,
-          "source_article": "'4대째 의사 집안' 하영, 친일 후손 논란에 선 그었다 \"증조부 안상호 맞지만..의혹 사실무근\"",
-          "source_url": "https://m.entertain.naver.com/article/108/0003460769",
+          "source_article": "하영, '친일' 의사 증조부 자랑 처음 아냐…\"당연히 자랑스럽다\"",
+          "source_url": "https://m.entertain.naver.com/article/311/0002043796",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "증조부"
           ],
           "template": "논란 집합",
-          "score": 7.0,
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -455,17 +555,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"하영, 대체 무슨 일이?\" 하영 관련 이슈 총정리",
-          "angle_type": "👤 하영",
-          "article_count": 5,
-          "source_article": "'4대째 의사 집안' 하영, 친일 후손 논란에 선 그었다 \"증조부 안상호 맞지만..의혹 사실무근\"",
-          "source_url": "https://m.entertain.naver.com/article/108/0003460769",
+          "title": "\"친일파, 대체 무슨 일이?\" 친일파 관련 이슈 총정리",
+          "angle_type": "👤 친일파",
+          "article_count": 3,
+          "source_article": "“친일파=사실무근”마저 번복…하영, 증조부 친일 논란에 ‘사면초가’",
+          "source_url": "https://m.entertain.naver.com/article/144/0001131123",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "하영"
+            "친일파"
           ],
           "template": "논란 집합",
-          "score": 7.0,
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -484,50 +584,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"친일, 대체 무슨 일이?\" 친일 관련 이슈 총정리",
-          "angle_type": "👤 친일",
-          "article_count": 5,
-          "source_article": "'4대째 의사 집안' 하영, 친일 후손 논란에 선 그었다 \"증조부 안상호 맞지만..의혹 사실무근\"",
-          "source_url": "https://m.entertain.naver.com/article/108/0003460769",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "친일"
-          ],
-          "template": "논란 집합",
-          "score": 7.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"드디어, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "title": "\"임대, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 7,
-          "source_article": "'홍명보 후임' 드디어 찾았다! '전북 우승 명장' 포옛, 韓 대표팀 사령탑 부임 사실상 확정→\"9~11월 A매치 6경기 임시 지휘 전망\"",
+          "article_count": 4,
+          "source_article": "\"양민혁, 수준 낮은 K리그서 왔다\" 포스테코글루 망언 현실화 우려...최악의 임대 후 4번째 임대 결정 '벨기에 베스테를로로 향해'",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "드디어",
-            "홍명보",
-            "후임",
-            "찾았다",
-            "전북"
+            "임대",
+            "양민혁",
+            "수준",
+            "낮은",
+            "리그서"
           ],
           "template": "스포츠 기록",
-          "score": 6.8,
+          "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -546,9 +617,96 @@
           "channel": "정보주는하마"
         },
         {
+          "title": "\"알바, 지금 어디서 뭐 하나?\" 알바 근황 총정리",
+          "angle_type": "👤 알바",
+          "article_count": 3,
+          "source_article": "‘런닝맨’ 나왔던 전소민 동생, 38세에 배달 알바 근황…“누나 돈 상관 없어”",
+          "source_url": "https://m.entertain.naver.com/article/144/0001131131",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "알바"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"동생, 지금 어디서 뭐 하나?\" 동생 근황 총정리",
+          "angle_type": "👤 동생",
+          "article_count": 3,
+          "source_article": "‘런닝맨’ 나왔던 전소민 동생, 38세에 배달 알바 근황…“누나 돈 상관 없어”",
+          "source_url": "https://m.entertain.naver.com/article/144/0001131131",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "동생"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"배달, 지금 어디서 뭐 하나?\" 배달 근황 총정리",
+          "angle_type": "👤 배달",
+          "article_count": 3,
+          "source_article": "‘런닝맨’ 나왔던 전소민 동생, 38세에 배달 알바 근황…“누나 돈 상관 없어”",
+          "source_url": "https://m.entertain.naver.com/article/144/0001131131",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "배달"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
           "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
           "angle_type": "자산·몸값",
-          "article_count": 3,
+          "article_count": 2,
           "source_article": "이승기, 105억 물렸다더니 하청업체 돈 안줬나…\"입 열면 다죽어\" 차가원 고소",
           "source_url": "https://m.entertain.naver.com/article/076/0004434647",
           "source_name": "엔터 많이 본 뉴스",
@@ -560,7 +718,7 @@
             "안줬나"
           ],
           "template": "자산 서열",
-          "score": 6.5,
+          "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -579,17 +737,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"안상호, 대체 무슨 일이?\" 안상호 관련 이슈 총정리",
-          "angle_type": "👤 안상호",
+          "title": "\"하영이\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 하영이",
           "article_count": 3,
-          "source_article": "'4대째 의사 집안' 하영, 친일 후손 논란에 선 그었다 \"증조부 안상호 맞지만..의혹 사실무근\"",
-          "source_url": "https://m.entertain.naver.com/article/108/0003460769",
+          "source_article": "하영이 자랑한 증조부 안상호, 매국 정당화 '핵심 친일 논리' 인터뷰 원문 파문",
+          "source_url": "https://m.entertain.naver.com/article/108/0003460787",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "안상호"
+            "하영이"
           ],
-          "template": "논란 집합",
-          "score": 6.5,
+          "template": "인맥",
+          "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -600,93 +758,35 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
+              "분류",
+              "이슈 내용",
               "현재 상황"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"의혹, 대체 무슨 일이?\" 의혹 관련 이슈 총정리",
-          "angle_type": "👤 의혹",
-          "article_count": 3,
-          "source_article": "'4대째 의사 집안' 하영, 친일 후손 논란에 선 그었다 \"증조부 안상호 맞지만..의혹 사실무근\"",
-          "source_url": "https://m.entertain.naver.com/article/108/0003460769",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "의혹"
-          ],
-          "template": "논란 집합",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"의사, 대체 무슨 일이?\" 의사 관련 이슈 총정리",
-          "angle_type": "👤 의사",
-          "article_count": 3,
-          "source_article": "'4대째 의사 집안' 하영, 친일 후손 논란에 선 그었다 \"증조부 안상호 맞지만..의혹 사실무근\"",
-          "source_url": "https://m.entertain.naver.com/article/108/0003460769",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "의사"
-          ],
-          "template": "논란 집합",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
+          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
           "angle_type": "결혼·이혼",
-          "article_count": 4,
+          "article_count": 2,
           "source_article": "'선업튀' 서혜원, 임신했다…결혼 발표 4개월만 \"베이비 탄생 축복\"",
           "source_url": "https://m.entertain.naver.com/article/117/0004093471",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
+            "결혼",
             "선업튀",
             "서혜원",
             "임신했",
-            "결혼",
             "개월만"
           ],
           "template": "결혼 화제",
-          "score": 6.3,
+          "score": 5.8,
           "dup_check": {
             "is_duplicate": false,
-            "status": "재활용 가능",
-            "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
-            "matched_views": 720727,
-            "reason": "검증됨 720,727회 · 122일 경과"
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
           },
           "table": {
             "headers": [
@@ -697,75 +797,13 @@
             ]
           },
           "channel": "정보주는하마"
-        },
-        {
-          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-          "angle_type": "투병·건강",
-          "article_count": 3,
-          "source_article": "\"가슴 수술 포기·여성호르몬 중단\"…'물어보살' 레전드 사연자, 1년 만에 180도 바뀐 근황",
-          "source_url": "https://m.entertain.naver.com/article/445/0000448446",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "가슴",
-            "수술",
-            "포기",
-            "여성호",
-            "르몬"
-          ],
-          "template": "투병 극복",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "투병 질환",
-              "공백기",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 2,
-          "source_article": "\"아빠 죽거든 살 빼라\" 정은표, 120kg 아들 향한 '극단적 유언'…군대서 40kg 폭풍 감량",
-          "source_url": "https://m.entertain.naver.com/article/117/0004093579",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "아빠",
-            "죽거든",
-            "빼라",
-            "정은표",
-            "아들"
-          ],
-          "template": "동갑내기",
-          "score": 6.1,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
-            ]
-          },
-          "channel": "정보주는하마"
         }
       ],
       "keyword_freq": [
+        [
+          "친일",
+          7
+        ],
         [
           "증조부",
           6
@@ -779,19 +817,19 @@
           5
         ],
         [
-          "친일",
-          5
-        ],
-        [
-          "안상호",
+          "알바",
           3
         ],
         [
-          "의혹",
+          "동생",
           3
         ],
         [
-          "의사",
+          "배달",
+          3
+        ],
+        [
+          "하영이",
           3
         ],
         [
@@ -799,12 +837,8 @@
           3
         ],
         [
-          "포기",
-          2
-        ],
-        [
-          "가슴",
-          2
+          "친일파",
+          3
         ],
         [
           "중단",
@@ -815,40 +849,44 @@
           2
         ],
         [
+          "가슴",
+          2
+        ],
+        [
           "레전드",
           2
         ],
         [
-          "고소",
+          "포기",
           2
         ],
         [
-          "열면",
+          "의사",
           2
         ],
         [
-          "이승기",
+          "결혼",
           2
         ],
         [
-          "차가원",
+          "전소민",
           2
         ],
         [
-          "집안",
+          "런닝맨",
           2
         ],
         [
-          "사실무근",
-          2
-        ],
-        [
-          "혐의",
+          "없어",
           2
         ]
       ],
       "name_freq": [
         [
+          "친일",
+          7
+        ],
+        [
           "증조부",
           6
         ],
@@ -861,19 +899,19 @@
           5
         ],
         [
-          "친일",
-          5
-        ],
-        [
-          "안상호",
+          "알바",
           3
         ],
         [
-          "의혹",
+          "동생",
           3
         ],
         [
-          "의사",
+          "배달",
+          3
+        ],
+        [
+          "하영이",
           3
         ],
         [
@@ -881,11 +919,15 @@
           3
         ],
         [
-          "여성호",
-          2
+          "친일파",
+          3
         ],
         [
-          "포기",
+          "이강인",
+          3
+        ],
+        [
+          "중단",
           2
         ],
         [
@@ -897,68 +939,56 @@
           2
         ],
         [
-          "중단",
-          2
-        ],
-        [
           "레전드",
-          2
-        ],
-        [
-          "고소",
           2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
-          3
+          2
         ],
         [
           "논란·사건",
-          3
-        ],
-        [
-          "결혼·이혼",
           4
         ],
         [
-          "복귀·근황",
-          7
+          "결혼·이혼",
+          2
         ],
         [
-          "투병·건강",
-          3
+          "복귀·근황",
+          9
         ],
         [
           "스포츠",
-          7
+          4
         ],
         [
           "가족·혈연",
-          2
+          3
         ]
       ]
     },
     "초구딱": {
-      "article_count": 38,
+      "article_count": 39,
       "topics": [
         {
-          "title": "\"대표팀, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 4,
-          "source_article": "결국, KIA 트레이드 버튼 눌렀다…줄부상→최고 기대주 입대, 하주석 생각보다 큰 영입이었네",
+          "article_count": 7,
+          "source_article": "\"포옛, 한국 대표팀 감독 취임 거의 확실\"...지원자도 안 밝혔는데 日서 먼저 터졌다",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "대표팀",
             "감독",
-            "트레이",
-            "버튼",
-            "눌렀다"
+            "경기",
+            "포옛",
+            "대표팀",
+            "취임"
           ],
           "template": "스포츠 기록",
-          "score": 6.3,
+          "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -972,39 +1002,6 @@
               "소속팀",
               "기록 내용",
               "기록 가치"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 2,
-          "source_article": "'타율 0.067' 김하성 복귀 유탄 제대로 맞았다…'도루왕 출신' 유틸리티 내야수 끝내 방출, 놀아도 돈 다 받는다",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "타율",
-            "김하성",
-            "유탄",
-            "제대로",
-            "맞았다"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 6.1,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
             ]
           },
           "channel": "초구딱"
@@ -1037,35 +1034,6 @@
             ]
           },
           "channel": "초구딱"
-        },
-        {
-          "title": "\"친일파\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 친일파",
-          "article_count": 3,
-          "source_article": "심지어 1930년대까지 유명 친일파들은 조선인 정체성이 강했죠",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608110117873912&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "친일파"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
@@ -1074,11 +1042,7 @@
           3
         ],
         [
-          "감독",
-          2
-        ],
-        [
-          "대표팀",
+          "가능성",
           2
         ],
         [
@@ -1086,11 +1050,15 @@
           2
         ],
         [
-          "업데이트",
+          "먼저",
           2
         ],
         [
-          "엠팍",
+          "감독",
+          2
+        ],
+        [
+          "업데이트",
           2
         ],
         [
@@ -1098,55 +1066,55 @@
           2
         ],
         [
-          "친일파",
+          "엠팍",
           2
         ],
         [
-          "트레이드",
+          "아시나요",
+          2
+        ],
+        [
+          "하영",
+          2
+        ],
+        [
+          "로스터",
           1
         ],
         [
-          "버튼",
+          "대두",
           1
         ],
         [
-          "하주석",
+          "등재",
           1
         ],
         [
-          "영입이었네",
+          "동기",
           1
         ],
         [
-          "기대주",
+          "야구",
           1
         ],
         [
-          "생각보다",
+          "안현민",
           1
         ],
         [
-          "눌렀다",
+          "대박",
           1
         ],
         [
-          "줄부상",
+          "김도영",
           1
         ],
         [
-          "포옛",
+          "마치면",
           1
         ],
         [
-          "확실",
-          1
-        ],
-        [
-          "서류",
-          1
-        ],
-        [
-          "매체",
+          "소식",
           1
         ]
       ],
@@ -1156,15 +1124,7 @@
           3
         ],
         [
-          "친일파",
-          3
-        ],
-        [
-          "감독",
-          2
-        ],
-        [
-          "대표팀",
+          "가능성",
           2
         ],
         [
@@ -1172,11 +1132,15 @@
           2
         ],
         [
-          "업데이",
+          "먼저",
           2
         ],
         [
-          "엠팍",
+          "감독",
+          2
+        ],
+        [
+          "업데이",
           2
         ],
         [
@@ -1184,43 +1148,51 @@
           2
         ],
         [
-          "리센느",
+          "엠팍",
           2
         ],
         [
-          "이정후",
+          "아시나",
+          2
+        ],
+        [
+          "증조부",
+          2
+        ],
+        [
+          "네요",
+          2
+        ],
+        [
+          "하영",
           2
         ]
       ],
       "angle_scores": [
         [
-          "복귀·근황",
-          2
-        ],
-        [
           "스포츠",
-          4
+          7
         ]
       ]
     }
   },
   "topics": [
     {
-      "title": "\"대표팀, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 4,
-      "source_article": "결국, KIA 트레이드 버튼 눌렀다…줄부상→최고 기대주 입대, 하주석 생각보다 큰 영입이었네",
+      "article_count": 7,
+      "source_article": "\"포옛, 한국 대표팀 감독 취임 거의 확실\"...지원자도 안 밝혔는데 日서 먼저 터졌다",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "대표팀",
         "감독",
-        "트레이",
-        "버튼",
-        "눌렀다"
+        "경기",
+        "포옛",
+        "대표팀",
+        "취임"
       ],
       "template": "스포츠 기록",
-      "score": 6.3,
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1239,39 +1211,6 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 2,
-      "source_article": "'타율 0.067' 김하성 복귀 유탄 제대로 맞았다…'도루왕 출신' 유틸리티 내야수 끝내 방출, 놀아도 돈 다 받는다",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "타율",
-        "김하성",
-        "유탄",
-        "제대로",
-        "맞았다"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 6.1,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
       "title": "\"안내\" 관련 화제 스타 TOP10",
       "angle_type": "👤 안내",
       "article_count": 3,
@@ -1280,35 +1219,6 @@
       "source_name": "MLB파크 불펜",
       "related_names": [
         "안내"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"친일파\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 친일파",
-      "article_count": 3,
-      "source_article": "심지어 1930년대까지 유명 친일파들은 조선인 정체성이 강했죠",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608110117873912&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "친일파"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1334,19 +1244,19 @@
     {
       "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
       "angle_type": "복귀·근황",
-      "article_count": 7,
-      "source_article": "이상민, 개인사로 갑작스러운 하차…11년 만 서바이벌 복귀→허무한 퇴장 ('피의 게임X')",
-      "source_url": "https://m.entertain.naver.com/article/213/0001397425",
+      "article_count": 9,
+      "source_article": "\"가슴 수술 포기·여성호르몬 중단\"…'물어보살' 레전드 사연자, 1년 만에 180도 바뀐 근황",
+      "source_url": "https://m.entertain.naver.com/article/445/0000448446",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "근황",
-        "이상민",
-        "개인사",
-        "갑작스",
-        "러운"
+        "동생",
+        "배달",
+        "알바",
+        "런닝맨"
       ],
       "template": "장기 공백 복귀",
-      "score": 7.5,
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1365,21 +1275,112 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-      "angle_type": "논란·사건",
+      "title": "\"이강인, 지금 어디서 뭐 하나?\" 이강인 근황 총정리",
+      "angle_type": "👤 이강인",
       "article_count": 3,
-      "source_article": "'4대째 의사 집안' 하영, 친일 후손 논란에 선 그었다 \"증조부 안상호 맞지만..의혹 사실무근\"",
-      "source_url": "https://m.entertain.naver.com/article/108/0003460769",
+      "source_article": "'이강인에 그리즈만급 활약은 기대 마라' 아틀레티코 데뷔전 본 현지 매체 \"왼발 퀄리티 좋지만, 볼 너무 오래 소유\" 냉정 평가",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "이강인"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.7,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 3,
+      "source_article": "시댁 식구들, 결국 안 왔다…6명 예약한 심규덕, 딸랑 둘이서 식사",
+      "source_url": "https://m.entertain.naver.com/article/312/0000771454",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "대째",
-        "의사",
-        "집안",
+        "시댁",
+        "식구들",
+        "예약한",
+        "심규덕",
+        "딸랑"
+      ],
+      "template": "동갑내기",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "나이",
+          "대표작",
+          "현재 활동"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"하영까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 4,
+      "source_article": "“친일파=사실무근”마저 번복…하영, 증조부 친일 논란에 ‘사면초가’",
+      "source_url": "https://m.entertain.naver.com/article/144/0001131123",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
         "하영",
+        "증조부",
+        "친일",
+        "논란에",
+        "황정민"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"친일, 대체 무슨 일이?\" 친일 관련 이슈 총정리",
+      "angle_type": "👤 친일",
+      "article_count": 7,
+      "source_article": "하영, '친일' 의사 증조부 자랑 처음 아냐…\"당연히 자랑스럽다\"",
+      "source_url": "https://m.entertain.naver.com/article/311/0002043796",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
         "친일"
       ],
       "template": "논란 집합",
-      "score": 7.0,
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1401,14 +1402,14 @@
       "title": "\"증조부, 대체 무슨 일이?\" 증조부 관련 이슈 총정리",
       "angle_type": "👤 증조부",
       "article_count": 6,
-      "source_article": "'4대째 의사 집안' 하영, 친일 후손 논란에 선 그었다 \"증조부 안상호 맞지만..의혹 사실무근\"",
-      "source_url": "https://m.entertain.naver.com/article/108/0003460769",
+      "source_article": "하영, '친일' 의사 증조부 자랑 처음 아냐…\"당연히 자랑스럽다\"",
+      "source_url": "https://m.entertain.naver.com/article/311/0002043796",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "증조부"
       ],
       "template": "논란 집합",
-      "score": 7.0,
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1427,17 +1428,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"하영, 대체 무슨 일이?\" 하영 관련 이슈 총정리",
-      "angle_type": "👤 하영",
-      "article_count": 5,
-      "source_article": "'4대째 의사 집안' 하영, 친일 후손 논란에 선 그었다 \"증조부 안상호 맞지만..의혹 사실무근\"",
-      "source_url": "https://m.entertain.naver.com/article/108/0003460769",
+      "title": "\"친일파, 대체 무슨 일이?\" 친일파 관련 이슈 총정리",
+      "angle_type": "👤 친일파",
+      "article_count": 3,
+      "source_article": "“친일파=사실무근”마저 번복…하영, 증조부 친일 논란에 ‘사면초가’",
+      "source_url": "https://m.entertain.naver.com/article/144/0001131123",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "하영"
+        "친일파"
       ],
       "template": "논란 집합",
-      "score": 7.0,
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1456,50 +1457,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"친일, 대체 무슨 일이?\" 친일 관련 이슈 총정리",
-      "angle_type": "👤 친일",
-      "article_count": 5,
-      "source_article": "'4대째 의사 집안' 하영, 친일 후손 논란에 선 그었다 \"증조부 안상호 맞지만..의혹 사실무근\"",
-      "source_url": "https://m.entertain.naver.com/article/108/0003460769",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "친일"
-      ],
-      "template": "논란 집합",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"드디어, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"임대, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 7,
-      "source_article": "'홍명보 후임' 드디어 찾았다! '전북 우승 명장' 포옛, 韓 대표팀 사령탑 부임 사실상 확정→\"9~11월 A매치 6경기 임시 지휘 전망\"",
+      "article_count": 4,
+      "source_article": "\"양민혁, 수준 낮은 K리그서 왔다\" 포스테코글루 망언 현실화 우려...최악의 임대 후 4번째 임대 결정 '벨기에 베스테를로로 향해'",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "드디어",
-        "홍명보",
-        "후임",
-        "찾았다",
-        "전북"
+        "임대",
+        "양민혁",
+        "수준",
+        "낮은",
+        "리그서"
       ],
       "template": "스포츠 기록",
-      "score": 6.8,
+      "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1518,9 +1490,96 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"알바, 지금 어디서 뭐 하나?\" 알바 근황 총정리",
+      "angle_type": "👤 알바",
+      "article_count": 3,
+      "source_article": "‘런닝맨’ 나왔던 전소민 동생, 38세에 배달 알바 근황…“누나 돈 상관 없어”",
+      "source_url": "https://m.entertain.naver.com/article/144/0001131131",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "알바"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"동생, 지금 어디서 뭐 하나?\" 동생 근황 총정리",
+      "angle_type": "👤 동생",
+      "article_count": 3,
+      "source_article": "‘런닝맨’ 나왔던 전소민 동생, 38세에 배달 알바 근황…“누나 돈 상관 없어”",
+      "source_url": "https://m.entertain.naver.com/article/144/0001131131",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "동생"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"배달, 지금 어디서 뭐 하나?\" 배달 근황 총정리",
+      "angle_type": "👤 배달",
+      "article_count": 3,
+      "source_article": "‘런닝맨’ 나왔던 전소민 동생, 38세에 배달 알바 근황…“누나 돈 상관 없어”",
+      "source_url": "https://m.entertain.naver.com/article/144/0001131131",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "배달"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
       "angle_type": "자산·몸값",
-      "article_count": 3,
+      "article_count": 2,
       "source_article": "이승기, 105억 물렸다더니 하청업체 돈 안줬나…\"입 열면 다죽어\" 차가원 고소",
       "source_url": "https://m.entertain.naver.com/article/076/0004434647",
       "source_name": "엔터 많이 본 뉴스",
@@ -1532,7 +1591,7 @@
         "안줬나"
       ],
       "template": "자산 서열",
-      "score": 6.5,
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1551,17 +1610,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"안상호, 대체 무슨 일이?\" 안상호 관련 이슈 총정리",
-      "angle_type": "👤 안상호",
+      "title": "\"하영이\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 하영이",
       "article_count": 3,
-      "source_article": "'4대째 의사 집안' 하영, 친일 후손 논란에 선 그었다 \"증조부 안상호 맞지만..의혹 사실무근\"",
-      "source_url": "https://m.entertain.naver.com/article/108/0003460769",
+      "source_article": "하영이 자랑한 증조부 안상호, 매국 정당화 '핵심 친일 논리' 인터뷰 원문 파문",
+      "source_url": "https://m.entertain.naver.com/article/108/0003460787",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "안상호"
+        "하영이"
       ],
-      "template": "논란 집합",
-      "score": 6.5,
+      "template": "인맥",
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1572,93 +1631,35 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
+          "분류",
+          "이슈 내용",
           "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"의혹, 대체 무슨 일이?\" 의혹 관련 이슈 총정리",
-      "angle_type": "👤 의혹",
-      "article_count": 3,
-      "source_article": "'4대째 의사 집안' 하영, 친일 후손 논란에 선 그었다 \"증조부 안상호 맞지만..의혹 사실무근\"",
-      "source_url": "https://m.entertain.naver.com/article/108/0003460769",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "의혹"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"의사, 대체 무슨 일이?\" 의사 관련 이슈 총정리",
-      "angle_type": "👤 의사",
-      "article_count": 3,
-      "source_article": "'4대째 의사 집안' 하영, 친일 후손 논란에 선 그었다 \"증조부 안상호 맞지만..의혹 사실무근\"",
-      "source_url": "https://m.entertain.naver.com/article/108/0003460769",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "의사"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
+      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
       "angle_type": "결혼·이혼",
-      "article_count": 4,
+      "article_count": 2,
       "source_article": "'선업튀' 서혜원, 임신했다…결혼 발표 4개월만 \"베이비 탄생 축복\"",
       "source_url": "https://m.entertain.naver.com/article/117/0004093471",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
+        "결혼",
         "선업튀",
         "서혜원",
         "임신했",
-        "결혼",
         "개월만"
       ],
       "template": "결혼 화제",
-      "score": 6.3,
+      "score": 5.8,
       "dup_check": {
         "is_duplicate": false,
-        "status": "재활용 가능",
-        "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
-        "matched_views": 720727,
-        "reason": "검증됨 720,727회 · 122일 경과"
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
       },
       "table": {
         "headers": [
@@ -1671,87 +1672,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-      "angle_type": "투병·건강",
-      "article_count": 3,
-      "source_article": "\"가슴 수술 포기·여성호르몬 중단\"…'물어보살' 레전드 사연자, 1년 만에 180도 바뀐 근황",
-      "source_url": "https://m.entertain.naver.com/article/445/0000448446",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "가슴",
-        "수술",
-        "포기",
-        "여성호",
-        "르몬"
-      ],
-      "template": "투병 극복",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "투병 질환",
-          "공백기",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 2,
-      "source_article": "\"아빠 죽거든 살 빼라\" 정은표, 120kg 아들 향한 '극단적 유언'…군대서 40kg 폭풍 감량",
-      "source_url": "https://m.entertain.naver.com/article/117/0004093579",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "아빠",
-        "죽거든",
-        "빼라",
-        "정은표",
-        "아들"
-      ],
-      "template": "동갑내기",
-      "score": 6.1,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"대표팀, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 4,
-      "source_article": "결국, KIA 트레이드 버튼 눌렀다…줄부상→최고 기대주 입대, 하주석 생각보다 큰 영입이었네",
+      "article_count": 7,
+      "source_article": "\"포옛, 한국 대표팀 감독 취임 거의 확실\"...지원자도 안 밝혔는데 日서 먼저 터졌다",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "대표팀",
         "감독",
-        "트레이",
-        "버튼",
-        "눌렀다"
+        "경기",
+        "포옛",
+        "대표팀",
+        "취임"
       ],
       "template": "스포츠 기록",
-      "score": 6.3,
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1765,39 +1700,6 @@
           "소속팀",
           "기록 내용",
           "기록 가치"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 2,
-      "source_article": "'타율 0.067' 김하성 복귀 유탄 제대로 맞았다…'도루왕 출신' 유틸리티 내야수 끝내 방출, 놀아도 돈 다 받는다",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "타율",
-        "김하성",
-        "유탄",
-        "제대로",
-        "맞았다"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 6.1,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
         ]
       },
       "channel": "초구딱"
@@ -1830,38 +1732,13 @@
         ]
       },
       "channel": "초구딱"
-    },
-    {
-      "title": "\"친일파\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 친일파",
-      "article_count": 3,
-      "source_article": "심지어 1930년대까지 유명 친일파들은 조선인 정체성이 강했죠",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608110117873912&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "친일파"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
+    [
+      "친일",
+      7
+    ],
     [
       "증조부",
       6
@@ -1875,19 +1752,19 @@
       5
     ],
     [
-      "친일",
-      5
-    ],
-    [
-      "안상호",
+      "알바",
       3
     ],
     [
-      "의혹",
+      "동생",
       3
     ],
     [
-      "의사",
+      "배달",
+      3
+    ],
+    [
+      "하영이",
       3
     ],
     [
@@ -1895,12 +1772,8 @@
       3
     ],
     [
-      "포기",
-      2
-    ],
-    [
-      "가슴",
-      2
+      "친일파",
+      3
     ],
     [
       "중단",
@@ -1911,40 +1784,44 @@
       2
     ],
     [
+      "가슴",
+      2
+    ],
+    [
       "레전드",
       2
     ],
     [
-      "고소",
+      "포기",
       2
     ],
     [
-      "열면",
+      "의사",
       2
     ],
     [
-      "이승기",
+      "결혼",
       2
     ],
     [
-      "차가원",
+      "전소민",
       2
     ],
     [
-      "집안",
+      "런닝맨",
       2
     ],
     [
-      "사실무근",
-      2
-    ],
-    [
-      "혐의",
+      "없어",
       2
     ]
   ],
   "name_freq": [
     [
+      "친일",
+      7
+    ],
+    [
       "증조부",
       6
     ],
@@ -1957,19 +1834,19 @@
       5
     ],
     [
-      "친일",
-      5
-    ],
-    [
-      "안상호",
+      "알바",
       3
     ],
     [
-      "의혹",
+      "동생",
       3
     ],
     [
-      "의사",
+      "배달",
+      3
+    ],
+    [
+      "하영이",
       3
     ],
     [
@@ -1977,11 +1854,15 @@
       3
     ],
     [
-      "여성호",
-      2
+      "친일파",
+      3
     ],
     [
-      "포기",
+      "이강인",
+      3
+    ],
+    [
+      "중단",
       2
     ],
     [
@@ -1993,19 +1874,11 @@
       2
     ],
     [
-      "중단",
-      2
-    ],
-    [
       "레전드",
-      2
-    ],
-    [
-      "고소",
       2
     ]
   ],
-  "total_topics_generated": 17,
-  "valid_topics": 17,
+  "total_topics_generated": 16,
+  "valid_topics": 16,
   "excluded_duplicates": 0
 }
