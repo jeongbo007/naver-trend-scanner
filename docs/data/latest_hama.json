@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-12 14:10:30",
+  "scan_time": "2026-08-12 17:55:40",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -290,44 +290,62 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 26947,
-      "rank": 2,
+      "views": 576559,
+      "rank": 1,
       "channel": "정보주는하마"
     },
     {
-      "title": "KIA서 방출→은퇴 위기였는데 이렇게 부활하다니…레전드도 \"영입 성공, 드디어 서교수가 돌아왔다\" 극찬",
+      "title": "\"한국 銅메달 박탈 현실화 가능성\"…일본 축구, 2012 올림픽 동메달 손에 쥘까 기대→심판 성접대 여파 크다",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 12122,
-      "rank": 8,
+      "views": 231025,
+      "rank": 4,
       "channel": "정보주는하마"
     },
     {
-      "title": "손흥민 우승 도전 망했다...LAFC 최악의 경쟁자 탄생 임박, 메시-수아레스 그리고 네이마르 \"역대 최강 공격진 재결성 준비\"",
+      "title": "'충격적인 두 얼굴' 이임생, \"정몽규가 홍명보로 하라 직접 지시\"...\"내가 홀로 선임 주도, 모든 책임 약속\" 호언장담 어디로",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 11461,
-      "rank": 9,
+      "views": 211330,
+      "rank": 6,
       "channel": "정보주는하마"
     },
     {
-      "title": "안세영 미쳤다! 96주 연속 세계 1위…\"100주 연속 1위도 예약\"→'韓 배드민턴 신화' 끝 보이질 않는다",
+      "title": "이럴 수가! '韓 EPL 전멸 위기'...2007년생 '16호' 프리미어리거 되나? 박승수 '1군' 가능성 등장, 英 언론 \"뉴캐슬에서 주목받는 상황\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 8202,
+      "views": 132874,
+      "rank": 10,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "스쿠발 분노 폭발! 글러브 내던지고 얼굴까지 '벌겋게'…로버츠 감독이 직접 다독였다, 대체 무슨 일이?",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 129100,
+      "rank": 11,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'와 2위 초대박' 한국 163㎞ 파이어볼러 놓치다니…통한의 국대 탈락, 생애 최고 시즌 보낼 줄이야",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 126271,
+      "rank": 12,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'와 1위' KIA 드디어 이 선수 터졌다, 이범호 결단 내릴까…\"2번 쓸까 고민했다\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 120994,
       "rank": 13,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "韓 축구 대형 악재! '대표팀 유망주' 양민혁, \"토트넘 수준과 거리 멀어\" 잔혹 평가 날벼락...벨기에 임대 확정, \"유망주 기량 발전에 능숙한 팀\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 6745,
-      "rank": 17,
       "channel": "정보주는하마"
     },
     {
@@ -335,31 +353,49 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 6657,
-      "rank": 18,
+      "views": 112542,
+      "rank": 15,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'38승 1패' 안세영 질주에 제동 걸었던 '재발성 통증'…\"왼발이 세계선수권+아시안게임 견딜까\" → \"80~90% 회복\" 자신",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 108814,
+      "rank": 17,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"전력에 포함하지 말라\" 이강인 아틀레티코 입단 3주차인데 어쩌나...팀 핵심 FW, 여전히 바르사행 갈망",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 103452,
+      "rank": 19,
       "channel": "정보주는하마"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 36,
+      "article_count": 40,
       "topics": [
         {
-          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 3,
+          "title": "\"하영까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 5,
           "source_article": "'음주 후 女 성추행' 제자 폭행한 176kg 레전드 충격 근황 \"당뇨로 엄청 고생했는데...\" '열도 환호 세례' 이유는",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "근황",
-            "레전드",
-            "는데",
-            "신사의",
-            "품격"
+            "하영",
+            "친일파",
+            "후손",
+            "논란에",
+            "트와이"
           ],
-          "template": "장기 공백 복귀",
-          "score": 7.3,
+          "template": "논란 집합",
+          "score": 7.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -370,9 +406,9 @@
           "table": {
             "headers": [
               "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
@@ -411,6 +447,39 @@
           "channel": "정보주는하마"
         },
         {
+          "title": "\"드라마, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 6,
+          "source_article": "스쿠발 분노 폭발! 글러브 내던지고 얼굴까지 '벌겋게'…로버츠 감독이 직접 다독였다, 대체 무슨 일이?",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "드라마",
+            "안판석",
+            "감독",
+            "별세",
+            "뇌출혈"
+          ],
+          "template": "스포츠 기록",
+          "score": 7.1,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
           "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
           "angle_type": "가족·혈연",
           "article_count": 5,
@@ -444,21 +513,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"하영까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 5,
-          "source_article": "트와이스 채영, 갑작스런 '실내흡연' 논란..결국 \"생각 없는 사람 아냐, 담배 아닌 음료\" 해명",
-          "source_url": "https://m.entertain.naver.com/article/076/0004435155",
-          "source_name": "엔터 많이 본 뉴스",
+          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 2,
+          "source_article": "'음주 후 女 성추행' 제자 폭행한 176kg 레전드 충격 근황 \"당뇨로 엄청 고생했는데...\" '열도 환호 세례' 이유는",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "하영",
-            "친일파",
-            "후손",
-            "논란에",
-            "트와이"
+            "근황",
+            "신사의",
+            "품격",
+            "배우였",
+            "몰라보"
           ],
-          "template": "논란 집합",
-          "score": 7.0,
+          "template": "장기 공백 복귀",
+          "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -469,71 +538,9 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"드라마, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 4,
-          "source_article": "'드라마 거장' 안판석 감독, 뇌출혈 투병 중 별세…\"장례 절차 비공개\"(종합)",
-          "source_url": "https://m.entertain.naver.com/article/421/0009110971",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "드라마",
-            "안판석",
-            "감독",
-            "별세",
-            "뇌출혈"
-          ],
-          "template": "스포츠 기록",
-          "score": 6.6,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"후손, 대체 무슨 일이?\" 후손 관련 이슈 총정리",
-          "angle_type": "👤 후손",
-          "article_count": 4,
-          "source_article": "노윤서까지 불똥 튄 하영 '친일파 후손' 논란…와장창 무너진 신뢰, 과거 이력까지 도마 위",
-          "source_url": "https://m.entertain.naver.com/article/445/0000448770",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "후손"
-          ],
-          "template": "논란 집합",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
             ]
           },
           "channel": "정보주는하마"
@@ -568,17 +575,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"는데, 지금 어디서 뭐 하나?\" 는데 근황 총정리",
-          "angle_type": "👤 는데",
-          "article_count": 3,
-          "source_article": "\"참 예의 바르다 생각했는데\"…정해인, 日 보조출연자 보고 놀란 이유",
-          "source_url": "https://m.entertain.naver.com/article/003/0014123160",
+          "title": "\"후손, 대체 무슨 일이?\" 후손 관련 이슈 총정리",
+          "angle_type": "👤 후손",
+          "article_count": 4,
+          "source_article": "노윤서까지 불똥 튄 하영 '친일파 후손' 논란…와장창 무너진 신뢰, 과거 이력까지 도마 위",
+          "source_url": "https://m.entertain.naver.com/article/445/0000448770",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "는데"
+            "후손"
           ],
-          "template": "장기 공백 복귀",
-          "score": 6.3,
+          "template": "논란 집합",
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -589,22 +596,22 @@
           "table": {
             "headers": [
               "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"별세\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 별세",
+          "title": "\"감독\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 감독",
           "article_count": 3,
           "source_article": "'드라마 거장' 안판석 감독, 뇌출혈 투병 중 별세…\"장례 절차 비공개\"(종합)",
           "source_url": "https://m.entertain.naver.com/article/421/0009110971",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "별세"
+            "감독"
           ],
           "template": "인맥",
           "score": 6.3,
@@ -655,14 +662,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"감독\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 감독",
+          "title": "\"별세\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 별세",
           "article_count": 3,
           "source_article": "'드라마 거장' 안판석 감독, 뇌출혈 투병 중 별세…\"장례 절차 비공개\"(종합)",
           "source_url": "https://m.entertain.naver.com/article/421/0009110971",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "감독"
+            "별세"
           ],
           "template": "인맥",
           "score": 6.3,
@@ -723,20 +730,12 @@
           6
         ],
         [
-          "후손",
-          4
-        ],
-        [
           "친일파",
           4
         ],
         [
-          "별세",
-          3
-        ],
-        [
-          "드라마",
-          3
+          "후손",
+          4
         ],
         [
           "감독",
@@ -744,6 +743,14 @@
         ],
         [
           "안판석",
+          3
+        ],
+        [
+          "별세",
+          3
+        ],
+        [
+          "드라마",
           3
         ],
         [
@@ -755,15 +762,11 @@
           2
         ],
         [
-          "황정음",
-          2
-        ],
-        [
           "아들",
           2
         ],
         [
-          "둘째",
+          "황정음",
           2
         ],
         [
@@ -771,11 +774,11 @@
           2
         ],
         [
-          "뇌출혈",
+          "둘째",
           2
         ],
         [
-          "비공개",
+          "뇌출혈",
           2
         ],
         [
@@ -783,11 +786,15 @@
           2
         ],
         [
+          "비공개",
+          2
+        ],
+        [
           "논란에",
           2
         ],
         [
-          "영국",
+          "위기",
           2
         ],
         [
@@ -795,7 +802,7 @@
           2
         ],
         [
-          "작가",
+          "영국",
           2
         ]
       ],
@@ -805,15 +812,19 @@
           6
         ],
         [
-          "후손",
-          4
-        ],
-        [
           "친일파",
           4
         ],
         [
-          "는데",
+          "후손",
+          4
+        ],
+        [
+          "감독",
+          3
+        ],
+        [
+          "안판석",
           3
         ],
         [
@@ -825,19 +836,11 @@
           3
         ],
         [
-          "안판석",
-          3
-        ],
-        [
-          "감독",
-          3
-        ],
-        [
-          "트와이",
+          "해명",
           2
         ],
         [
-          "해명",
+          "트와이",
           2
         ],
         [
@@ -853,11 +856,15 @@
           2
         ],
         [
-          "둘째",
+          "는데",
           2
         ],
         [
           "없어",
+          2
+        ],
+        [
+          "둘째",
           2
         ]
       ],
@@ -872,7 +879,7 @@
         ],
         [
           "복귀·근황",
-          3
+          2
         ],
         [
           "투병·건강",
@@ -880,7 +887,7 @@
         ],
         [
           "스포츠",
-          4
+          6
         ],
         [
           "가족·혈연",
@@ -889,53 +896,24 @@
       ]
     },
     "초구딱": {
-      "article_count": 44,
+      "article_count": 40,
       "topics": [
         {
-          "title": "\"하주석\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 하주석",
-          "article_count": 3,
-          "source_article": "김도영 34호 역전포→박재현 14호 솔로→하주석 1호 쐐기투런, 네일 QS+ 8승...KIA 만나면 왜 이러나, 2위 삼성 충격 4연패",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "하주석"
-          ],
-          "template": "인맥",
-          "score": 6.9,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"한화, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
           "article_count": 9,
-          "source_article": "'KIA→한화' 트레이드 주인공, ERA 1.46인데 초구 '130m' 초대형 스리런포 맞고 붕괴…데뷔 첫 패 쓰라렸다",
+          "source_article": "이럴수가! 35홈런 '한국계 거포' 어쩌다 이렇게 됐나…타율 0.130 충격 부진→40인 로스터 제외, 방출 위기",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "한화",
-            "트레이",
-            "오카다",
-            "무산",
-            "하주석"
+            "감독",
+            "홈런",
+            "대표팀",
+            "이럴수",
+            "한국계"
           ],
           "template": "스포츠 기록",
-          "score": 6.8,
+          "score": 7.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -954,20 +932,16 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 2,
-          "source_article": "'아빠 찬스'로 한국 축구대표팀 코치 된다?…포옛 아들, '삭발+다부진 팔뚝' 깜짝 근황→태극마크 달까",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "title": "\"하영\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 하영",
+          "article_count": 4,
+          "source_article": "하영 증조할아버지 위상이 드라마속 나오는 이사람급 될까요?",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608130117924837&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
           "related_names": [
-            "근황",
-            "아빠",
-            "찬스",
-            "축구대",
-            "표팀"
+            "하영"
           ],
-          "template": "장기 공백 복귀",
+          "template": "인맥",
           "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
@@ -979,8 +953,41 @@
           "table": {
             "headers": [
               "이름",
-              "공백 기간",
-              "공백 사유",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+          "angle_type": "투병·건강",
+          "article_count": 2,
+          "source_article": "'KBO MVP' 폰세 어디서 뭐하나 했더니…ACL 파열→NFL 슈퍼스타 처남과 이색 재활",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "폰세",
+            "어디서",
+            "뭐하나",
+            "했더니",
+            "파열"
+          ],
+          "template": "투병 극복",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "투병 질환",
+              "공백기",
               "복귀 작품"
             ]
           },
@@ -1016,17 +1023,21 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"워터밤\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 워터밤",
-          "article_count": 3,
-          "source_article": "🌊[이벤트 종료] 엠팍 유저 대상 워터밤 속초 2026 티켓 증정 이벤트🌊",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202607290000002144",
+          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 2,
+          "source_article": "ㅇㅎ) 대만에서 활동하는 모모리나 근황",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608130117924792&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
           "source_name": "MLB파크 불펜",
           "related_names": [
-            "워터밤"
+            "근황",
+            "송성문",
+            "대만에",
+            "활동하",
+            "모모리"
           ],
-          "template": "인맥",
-          "score": 6.0,
+          "template": "장기 공백 복귀",
+          "score": 5.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -1037,67 +1048,9 @@
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"나솔\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 나솔",
-          "article_count": 3,
-          "source_article": "나솔 광수 ㅋㅋ 어안이 벙벙 급인가요? ㅋㅋㅋ",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608120117922857&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "나솔"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"광수\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 광수",
-          "article_count": 3,
-          "source_article": "나솔 광수 ㅋㅋ 어안이 벙벙 급인가요? ㅋㅋㅋ",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608120117922857&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "광수"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
             ]
           },
           "channel": "초구딱"
@@ -1105,35 +1058,23 @@
       ],
       "keyword_freq": [
         [
-          "한화",
-          3
+          "감독",
+          4
         ],
         [
-          "하주석",
-          3
+          "하영",
+          4
         ],
         [
           "안내",
           3
         ],
         [
-          "워터밤",
-          3
-        ],
-        [
-          "나솔",
-          3
-        ],
-        [
-          "광수",
-          3
-        ],
-        [
-          "소식",
+          "홈런",
           2
         ],
         [
-          "트레이드",
+          "한화",
           2
         ],
         [
@@ -1141,81 +1082,81 @@
           2
         ],
         [
-          "어디서",
+          "대표팀",
           2
         ],
         [
-          "오카다",
+          "업데이트",
           2
         ],
         [
-          "공식",
+          "이벤트",
           2
         ],
         [
-          "무산",
+          "엠팍",
           2
         ],
         [
-          "대포",
-          2
-        ],
-        [
-          "사토시",
-          2
-        ],
-        [
-          "드디어",
-          2
-        ],
-        [
-          "시절",
-          2
-        ],
-        [
-          "사상",
-          2
-        ],
-        [
-          "이적",
+          "워터밤",
           2
         ],
         [
           "근황",
           2
+        ],
+        [
+          "로스터",
+          1
+        ],
+        [
+          "이렇게",
+          1
+        ],
+        [
+          "이럴수가",
+          1
+        ],
+        [
+          "부진",
+          1
+        ],
+        [
+          "방출",
+          1
+        ],
+        [
+          "위기",
+          1
+        ],
+        [
+          "어쩌다",
+          1
+        ],
+        [
+          "됐나",
+          1
         ]
       ],
       "name_freq": [
         [
-          "한화",
-          3
+          "감독",
+          4
         ],
         [
-          "하주석",
-          3
+          "하영",
+          4
         ],
         [
           "안내",
           3
         ],
         [
-          "워터밤",
-          3
-        ],
-        [
-          "나솔",
-          3
-        ],
-        [
-          "광수",
-          3
-        ],
-        [
-          "소식",
+          "홈런",
           2
         ],
         [
-          "트레이",
+          "한화",
           2
         ],
         [
@@ -1223,33 +1164,41 @@
           2
         ],
         [
-          "어디서",
+          "대표팀",
           2
         ],
         [
-          "오카다",
+          "업데이",
           2
         ],
         [
-          "공식",
+          "이벤트",
           2
         ],
         [
-          "무산",
+          "엠팍",
           2
         ],
         [
-          "대포",
+          "워터밤",
           2
         ],
         [
-          "사토시",
+          "근황",
+          2
+        ],
+        [
+          "증조부",
           2
         ]
       ],
       "angle_scores": [
         [
           "복귀·근황",
+          2
+        ],
+        [
+          "투병·건강",
           2
         ],
         [
@@ -1261,21 +1210,21 @@
   },
   "topics": [
     {
-      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 3,
+      "title": "\"하영까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 5,
       "source_article": "'음주 후 女 성추행' 제자 폭행한 176kg 레전드 충격 근황 \"당뇨로 엄청 고생했는데...\" '열도 환호 세례' 이유는",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "근황",
-        "레전드",
-        "는데",
-        "신사의",
-        "품격"
+        "하영",
+        "친일파",
+        "후손",
+        "논란에",
+        "트와이"
       ],
-      "template": "장기 공백 복귀",
-      "score": 7.3,
+      "template": "논란 집합",
+      "score": 7.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1286,9 +1235,9 @@
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
@@ -1327,6 +1276,39 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"드라마, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 6,
+      "source_article": "스쿠발 분노 폭발! 글러브 내던지고 얼굴까지 '벌겋게'…로버츠 감독이 직접 다독였다, 대체 무슨 일이?",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "드라마",
+        "안판석",
+        "감독",
+        "별세",
+        "뇌출혈"
+      ],
+      "template": "스포츠 기록",
+      "score": 7.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
       "angle_type": "가족·혈연",
       "article_count": 5,
@@ -1360,21 +1342,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"하영까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 5,
-      "source_article": "트와이스 채영, 갑작스런 '실내흡연' 논란..결국 \"생각 없는 사람 아냐, 담배 아닌 음료\" 해명",
-      "source_url": "https://m.entertain.naver.com/article/076/0004435155",
-      "source_name": "엔터 많이 본 뉴스",
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "'음주 후 女 성추행' 제자 폭행한 176kg 레전드 충격 근황 \"당뇨로 엄청 고생했는데...\" '열도 환호 세례' 이유는",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "하영",
-        "친일파",
-        "후손",
-        "논란에",
-        "트와이"
+        "근황",
+        "신사의",
+        "품격",
+        "배우였",
+        "몰라보"
       ],
-      "template": "논란 집합",
-      "score": 7.0,
+      "template": "장기 공백 복귀",
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1385,71 +1367,9 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"드라마, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 4,
-      "source_article": "'드라마 거장' 안판석 감독, 뇌출혈 투병 중 별세…\"장례 절차 비공개\"(종합)",
-      "source_url": "https://m.entertain.naver.com/article/421/0009110971",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "드라마",
-        "안판석",
-        "감독",
-        "별세",
-        "뇌출혈"
-      ],
-      "template": "스포츠 기록",
-      "score": 6.6,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"후손, 대체 무슨 일이?\" 후손 관련 이슈 총정리",
-      "angle_type": "👤 후손",
-      "article_count": 4,
-      "source_article": "노윤서까지 불똥 튄 하영 '친일파 후손' 논란…와장창 무너진 신뢰, 과거 이력까지 도마 위",
-      "source_url": "https://m.entertain.naver.com/article/445/0000448770",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "후손"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "정보주는하마"
@@ -1484,17 +1404,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"는데, 지금 어디서 뭐 하나?\" 는데 근황 총정리",
-      "angle_type": "👤 는데",
-      "article_count": 3,
-      "source_article": "\"참 예의 바르다 생각했는데\"…정해인, 日 보조출연자 보고 놀란 이유",
-      "source_url": "https://m.entertain.naver.com/article/003/0014123160",
+      "title": "\"후손, 대체 무슨 일이?\" 후손 관련 이슈 총정리",
+      "angle_type": "👤 후손",
+      "article_count": 4,
+      "source_article": "노윤서까지 불똥 튄 하영 '친일파 후손' 논란…와장창 무너진 신뢰, 과거 이력까지 도마 위",
+      "source_url": "https://m.entertain.naver.com/article/445/0000448770",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "는데"
+        "후손"
       ],
-      "template": "장기 공백 복귀",
-      "score": 6.3,
+      "template": "논란 집합",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1505,22 +1425,22 @@
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"별세\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 별세",
+      "title": "\"감독\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 감독",
       "article_count": 3,
       "source_article": "'드라마 거장' 안판석 감독, 뇌출혈 투병 중 별세…\"장례 절차 비공개\"(종합)",
       "source_url": "https://m.entertain.naver.com/article/421/0009110971",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "별세"
+        "감독"
       ],
       "template": "인맥",
       "score": 6.3,
@@ -1571,14 +1491,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"감독\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 감독",
+      "title": "\"별세\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 별세",
       "article_count": 3,
       "source_article": "'드라마 거장' 안판석 감독, 뇌출혈 투병 중 별세…\"장례 절차 비공개\"(종합)",
       "source_url": "https://m.entertain.naver.com/article/421/0009110971",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "감독"
+        "별세"
       ],
       "template": "인맥",
       "score": 6.3,
@@ -1635,21 +1555,21 @@
   ],
   "all_topics": [
     {
-      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 3,
+      "title": "\"하영까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 5,
       "source_article": "'음주 후 女 성추행' 제자 폭행한 176kg 레전드 충격 근황 \"당뇨로 엄청 고생했는데...\" '열도 환호 세례' 이유는",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "근황",
-        "레전드",
-        "는데",
-        "신사의",
-        "품격"
+        "하영",
+        "친일파",
+        "후손",
+        "논란에",
+        "트와이"
       ],
-      "template": "장기 공백 복귀",
-      "score": 7.3,
+      "template": "논란 집합",
+      "score": 7.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1660,9 +1580,9 @@
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
@@ -1701,6 +1621,39 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"드라마, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 6,
+      "source_article": "스쿠발 분노 폭발! 글러브 내던지고 얼굴까지 '벌겋게'…로버츠 감독이 직접 다독였다, 대체 무슨 일이?",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "드라마",
+        "안판석",
+        "감독",
+        "별세",
+        "뇌출혈"
+      ],
+      "template": "스포츠 기록",
+      "score": 7.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
       "angle_type": "가족·혈연",
       "article_count": 5,
@@ -1734,21 +1687,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"하영까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 5,
-      "source_article": "트와이스 채영, 갑작스런 '실내흡연' 논란..결국 \"생각 없는 사람 아냐, 담배 아닌 음료\" 해명",
-      "source_url": "https://m.entertain.naver.com/article/076/0004435155",
-      "source_name": "엔터 많이 본 뉴스",
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "'음주 후 女 성추행' 제자 폭행한 176kg 레전드 충격 근황 \"당뇨로 엄청 고생했는데...\" '열도 환호 세례' 이유는",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "하영",
-        "친일파",
-        "후손",
-        "논란에",
-        "트와이"
+        "근황",
+        "신사의",
+        "품격",
+        "배우였",
+        "몰라보"
       ],
-      "template": "논란 집합",
-      "score": 7.0,
+      "template": "장기 공백 복귀",
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1759,71 +1712,9 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"드라마, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 4,
-      "source_article": "'드라마 거장' 안판석 감독, 뇌출혈 투병 중 별세…\"장례 절차 비공개\"(종합)",
-      "source_url": "https://m.entertain.naver.com/article/421/0009110971",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "드라마",
-        "안판석",
-        "감독",
-        "별세",
-        "뇌출혈"
-      ],
-      "template": "스포츠 기록",
-      "score": 6.6,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"후손, 대체 무슨 일이?\" 후손 관련 이슈 총정리",
-      "angle_type": "👤 후손",
-      "article_count": 4,
-      "source_article": "노윤서까지 불똥 튄 하영 '친일파 후손' 논란…와장창 무너진 신뢰, 과거 이력까지 도마 위",
-      "source_url": "https://m.entertain.naver.com/article/445/0000448770",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "후손"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "정보주는하마"
@@ -1858,17 +1749,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"는데, 지금 어디서 뭐 하나?\" 는데 근황 총정리",
-      "angle_type": "👤 는데",
-      "article_count": 3,
-      "source_article": "\"참 예의 바르다 생각했는데\"…정해인, 日 보조출연자 보고 놀란 이유",
-      "source_url": "https://m.entertain.naver.com/article/003/0014123160",
+      "title": "\"후손, 대체 무슨 일이?\" 후손 관련 이슈 총정리",
+      "angle_type": "👤 후손",
+      "article_count": 4,
+      "source_article": "노윤서까지 불똥 튄 하영 '친일파 후손' 논란…와장창 무너진 신뢰, 과거 이력까지 도마 위",
+      "source_url": "https://m.entertain.naver.com/article/445/0000448770",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "는데"
+        "후손"
       ],
-      "template": "장기 공백 복귀",
-      "score": 6.3,
+      "template": "논란 집합",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1879,22 +1770,22 @@
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"별세\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 별세",
+      "title": "\"감독\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 감독",
       "article_count": 3,
       "source_article": "'드라마 거장' 안판석 감독, 뇌출혈 투병 중 별세…\"장례 절차 비공개\"(종합)",
       "source_url": "https://m.entertain.naver.com/article/421/0009110971",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "별세"
+        "감독"
       ],
       "template": "인맥",
       "score": 6.3,
@@ -1945,14 +1836,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"감독\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 감독",
+      "title": "\"별세\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 별세",
       "article_count": 3,
       "source_article": "'드라마 거장' 안판석 감독, 뇌출혈 투병 중 별세…\"장례 절차 비공개\"(종합)",
       "source_url": "https://m.entertain.naver.com/article/421/0009110971",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "감독"
+        "별세"
       ],
       "template": "인맥",
       "score": 6.3,
@@ -2007,50 +1898,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"하주석\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 하주석",
-      "article_count": 3,
-      "source_article": "김도영 34호 역전포→박재현 14호 솔로→하주석 1호 쐐기투런, 네일 QS+ 8승...KIA 만나면 왜 이러나, 2위 삼성 충격 4연패",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "하주석"
-      ],
-      "template": "인맥",
-      "score": 6.9,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"한화, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
       "article_count": 9,
-      "source_article": "'KIA→한화' 트레이드 주인공, ERA 1.46인데 초구 '130m' 초대형 스리런포 맞고 붕괴…데뷔 첫 패 쓰라렸다",
+      "source_article": "이럴수가! 35홈런 '한국계 거포' 어쩌다 이렇게 됐나…타율 0.130 충격 부진→40인 로스터 제외, 방출 위기",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "한화",
-        "트레이",
-        "오카다",
-        "무산",
-        "하주석"
+        "감독",
+        "홈런",
+        "대표팀",
+        "이럴수",
+        "한국계"
       ],
       "template": "스포츠 기록",
-      "score": 6.8,
+      "score": 7.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2069,20 +1931,16 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 2,
-      "source_article": "'아빠 찬스'로 한국 축구대표팀 코치 된다?…포옛 아들, '삭발+다부진 팔뚝' 깜짝 근황→태극마크 달까",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "title": "\"하영\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 하영",
+      "article_count": 4,
+      "source_article": "하영 증조할아버지 위상이 드라마속 나오는 이사람급 될까요?",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608130117924837&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
       "related_names": [
-        "근황",
-        "아빠",
-        "찬스",
-        "축구대",
-        "표팀"
+        "하영"
       ],
-      "template": "장기 공백 복귀",
+      "template": "인맥",
       "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
@@ -2094,8 +1952,41 @@
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+      "angle_type": "투병·건강",
+      "article_count": 2,
+      "source_article": "'KBO MVP' 폰세 어디서 뭐하나 했더니…ACL 파열→NFL 슈퍼스타 처남과 이색 재활",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "폰세",
+        "어디서",
+        "뭐하나",
+        "했더니",
+        "파열"
+      ],
+      "template": "투병 극복",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "투병 질환",
+          "공백기",
           "복귀 작품"
         ]
       },
@@ -2131,17 +2022,21 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"워터밤\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 워터밤",
-      "article_count": 3,
-      "source_article": "🌊[이벤트 종료] 엠팍 유저 대상 워터밤 속초 2026 티켓 증정 이벤트🌊",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202607290000002144",
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "ㅇㅎ) 대만에서 활동하는 모모리나 근황",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608130117924792&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "워터밤"
+        "근황",
+        "송성문",
+        "대만에",
+        "활동하",
+        "모모리"
       ],
-      "template": "인맥",
-      "score": 6.0,
+      "template": "장기 공백 복귀",
+      "score": 5.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2152,67 +2047,9 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"나솔\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 나솔",
-      "article_count": 3,
-      "source_article": "나솔 광수 ㅋㅋ 어안이 벙벙 급인가요? ㅋㅋㅋ",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608120117922857&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "나솔"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"광수\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 광수",
-      "article_count": 3,
-      "source_article": "나솔 광수 ㅋㅋ 어안이 벙벙 급인가요? ㅋㅋㅋ",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608120117922857&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "광수"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "초구딱"
@@ -2224,20 +2061,12 @@
       6
     ],
     [
-      "후손",
-      4
-    ],
-    [
       "친일파",
       4
     ],
     [
-      "별세",
-      3
-    ],
-    [
-      "드라마",
-      3
+      "후손",
+      4
     ],
     [
       "감독",
@@ -2245,6 +2074,14 @@
     ],
     [
       "안판석",
+      3
+    ],
+    [
+      "별세",
+      3
+    ],
+    [
+      "드라마",
       3
     ],
     [
@@ -2256,15 +2093,11 @@
       2
     ],
     [
-      "황정음",
-      2
-    ],
-    [
       "아들",
       2
     ],
     [
-      "둘째",
+      "황정음",
       2
     ],
     [
@@ -2272,11 +2105,11 @@
       2
     ],
     [
-      "뇌출혈",
+      "둘째",
       2
     ],
     [
-      "비공개",
+      "뇌출혈",
       2
     ],
     [
@@ -2284,11 +2117,15 @@
       2
     ],
     [
+      "비공개",
+      2
+    ],
+    [
       "논란에",
       2
     ],
     [
-      "영국",
+      "위기",
       2
     ],
     [
@@ -2296,7 +2133,7 @@
       2
     ],
     [
-      "작가",
+      "영국",
       2
     ]
   ],
@@ -2306,15 +2143,19 @@
       6
     ],
     [
-      "후손",
-      4
-    ],
-    [
       "친일파",
       4
     ],
     [
-      "는데",
+      "후손",
+      4
+    ],
+    [
+      "감독",
+      3
+    ],
+    [
+      "안판석",
       3
     ],
     [
@@ -2326,19 +2167,11 @@
       3
     ],
     [
-      "안판석",
-      3
-    ],
-    [
-      "감독",
-      3
-    ],
-    [
-      "트와이",
+      "해명",
       2
     ],
     [
-      "해명",
+      "트와이",
       2
     ],
     [
@@ -2354,15 +2187,19 @@
       2
     ],
     [
-      "둘째",
+      "는데",
       2
     ],
     [
       "없어",
       2
+    ],
+    [
+      "둘째",
+      2
     ]
   ],
-  "total_topics_generated": 19,
-  "valid_topics": 19,
+  "total_topics_generated": 16,
+  "valid_topics": 16,
   "excluded_duplicates": 0
 }
