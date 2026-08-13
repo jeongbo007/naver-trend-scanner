@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-13 17:55:44",
+  "scan_time": "2026-08-13 21:39:15",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,17 +8,35 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 0
+    "MLB파크 불펜": 30
   },
-  "total_articles": 50,
+  "total_articles": 80,
   "articles": [
     {
-      "title": "이아영, 또 명품 자랑…'66만 원' 곱창 밴드에 \"♥심규덕 마음 괜찮니\"",
-      "url": "https://m.entertain.naver.com/article/311/0002044684",
+      "title": "'황정민 스토킹' 40대 '미모의 A씨', 정체 드러냈다...法출석-SNS 사진 공개에 관심 집중",
+      "url": "https://m.entertain.naver.com/article/076/0004435446",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 75712,
+      "views": 724894,
       "rank": 1,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "샤이니 온유 측 \"의사인 줄 알고 진료 받아\"",
+      "url": "https://m.entertain.naver.com/article/440/0000040936",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 608733,
+      "rank": 2,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "함은정, 고졸 학력 고백 \"동국대 출신이라 할 때마다 민망, 학교 못 다녔다\"",
+      "url": "https://m.entertain.naver.com/article/076/0004435219",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 503040,
+      "rank": 3,
       "channel": "정보주는하마"
     },
     {
@@ -26,8 +44,8 @@
       "url": "https://m.entertain.naver.com/article/108/0003461587",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 62520,
-      "rank": 2,
+      "views": 488541,
+      "rank": 4,
       "channel": "정보주는하마"
     },
     {
@@ -35,43 +53,25 @@
       "url": "https://m.entertain.naver.com/article/311/0002044625",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 53738,
-      "rank": 3,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "오상진 50일 子, 중환자실서 3일간 생사의 기로...\"기도 밖에 할 게 없더라\" ('편스토랑')",
-      "url": "https://m.entertain.naver.com/article/076/0004435450",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 38937,
-      "rank": 4,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "3살짜리 1억뷰 인플루언서, 자택 공개됐다…넓직한 내부 눈길 ('홈즈')",
-      "url": "https://m.entertain.naver.com/article/312/0000771743",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 38148,
+      "views": 441754,
       "rank": 5,
       "channel": "정보주는하마"
     },
     {
-      "title": "공효진, 하의실종에 나이실종…46세 양갈래로 박소담·이연 앞 깜짝 포즈",
-      "url": "https://m.entertain.naver.com/article/410/0001136208",
+      "title": "'신사의 품격' 그 배우였네…몰라보게 달라진 근황 →한층 짙어진 중후한 매력",
+      "url": "https://m.entertain.naver.com/article/445/0000448988",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 35285,
+      "views": 355679,
       "rank": 6,
       "channel": "정보주는하마"
     },
     {
-      "title": "박주호♥안나, 넷째 임신 전격 발표…“희망 찾아왔다”",
-      "url": "https://m.entertain.naver.com/article/468/0001259810",
+      "title": "황정음, 이혼한 전남편에 SOS…아들 문제 생기자 \"아빠한테 전화해\"",
+      "url": "https://m.entertain.naver.com/article/117/0004094187",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 31906,
+      "views": 349268,
       "rank": 7,
       "channel": "정보주는하마"
     },
@@ -80,53 +80,134 @@
       "url": "https://m.entertain.naver.com/article/468/0001259615",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 31341,
+      "views": 320540,
       "rank": 8,
       "channel": "정보주는하마"
     },
     {
-      "title": "“아빠 잊어도 돼”…시한부 전경철 작가, 자폐 아들과 이별 준비(‘유퀴즈’)",
-      "url": "https://m.entertain.naver.com/article/009/0005720376",
+      "title": "트와이스 채영, 갑작스런 '실내흡연' 논란..결국 \"생각 없는 사람 아냐, 담배 아닌 음료\" 해명",
+      "url": "https://m.entertain.naver.com/article/076/0004435155",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 23921,
+      "views": 316404,
       "rank": 9,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"33세면 알 거 다 알아\" 배기성 vs \"친일파 단정 신중해야\" 심용환…하영 두고 갈린 시선",
-      "url": "https://m.entertain.naver.com/article/117/0004094591",
+      "title": "노윤서까지 불똥 튄 하영 '친일파 후손' 논란…와장창 무너진 신뢰, 과거 이력까지 도마 위",
+      "url": "https://m.entertain.naver.com/article/445/0000448770",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 23882,
+      "views": 295429,
       "rank": 10,
       "channel": "정보주는하마"
     },
     {
-      "title": "박주호♥안나, 넷째 임신…초음파 공개 “소중한 아기”",
-      "url": "https://m.entertain.naver.com/article/382/0001288175",
+      "title": "이아영, 또 명품 자랑…'66만 원' 곱창 밴드에 \"♥심규덕 마음 괜찮니\"",
+      "url": "https://m.entertain.naver.com/article/311/0002044684",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 18129,
+      "views": 208727,
       "rank": 11,
       "channel": "정보주는하마"
     },
     {
-      "title": "스키즈·트와이스 없인 희망도 없다···JYP ‘비상 사태’",
-      "url": "https://m.entertain.naver.com/article/144/0001131620",
+      "title": "유혜정 “15㎏ 찌며 XL 안 맞아 남성복 사서 입을 정도” (퍼펙트라이프)",
+      "url": "https://m.entertain.naver.com/article/609/0001156360",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 14777,
+      "views": 205801,
       "rank": 12,
       "channel": "정보주는하마"
     },
     {
-      "title": "한채아, 결혼 초 갈등 고백 \"♥차세찌에 진절머리 나…돈 문제로 많이 부딪혀\" (광예원)",
-      "url": "https://m.entertain.naver.com/article/311/0002044882",
+      "title": "\"한국서 안 낳아\"...'임신 5개월' 백진경, 영국 출산 결심한 진짜 이유",
+      "url": "https://m.entertain.naver.com/article/076/0004435058",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 14141,
+      "views": 190643,
       "rank": 13,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "박주호♥안나, 넷째 임신 전격 발표…“희망 찾아왔다”",
+      "url": "https://m.entertain.naver.com/article/468/0001259810",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 177797,
+      "rank": 14,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "오상진 50일 子, 중환자실서 3일간 생사의 기로...\"기도 밖에 할 게 없더라\" ('편스토랑')",
+      "url": "https://m.entertain.naver.com/article/076/0004435450",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 154727,
+      "rank": 15,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "추영우인 줄..친동생 차정우, 형 못지않은 훈남",
+      "url": "https://m.entertain.naver.com/article/108/0003461357",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 135923,
+      "rank": 16,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "공효진, 하의실종에 나이실종…46세 양갈래로 박소담·이연 앞 깜짝 포즈",
+      "url": "https://m.entertain.naver.com/article/410/0001136208",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 128799,
+      "rank": 17,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "홍현희 친오빠, 부친 장례식서 개그맨들에 분노 “돌아가셨는데 웃어?”(라스)",
+      "url": "https://m.entertain.naver.com/article/609/0001156417",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 127757,
+      "rank": 18,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'하이브 연습생 출신' 정태우 子, 초중고 모두 검정고시…아이돌 준비 후 깜짝 근황",
+      "url": "https://m.entertain.naver.com/article/076/0004435230",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 123499,
+      "rank": 19,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "“친일파 증조부 논란” 하영 사과문에…넷플릭스 감독들이 보인 뜻밖의 행동",
+      "url": "https://m.entertain.naver.com/article/468/0001259620",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 122180,
+      "rank": 20,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "음주운전 후 복귀 리지, 최여진과 수영장 풍덩 “슬기로운 가평 생활”",
+      "url": "https://m.entertain.naver.com/article/609/0001156256",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 117659,
+      "rank": 21,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "3살짜리 1억뷰 인플루언서, 자택 공개됐다…넓직한 내부 눈길 ('홈즈')",
+      "url": "https://m.entertain.naver.com/article/312/0000771743",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 111307,
+      "rank": 22,
       "channel": "정보주는하마"
     },
     {
@@ -134,152 +215,70 @@
       "url": "https://m.entertain.naver.com/article/076/0004435536",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 12332,
-      "rank": 14,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "박봄, 건강 문제로 활동 중단했는데…새벽에 공개한 '확 달라진 얼굴'",
-      "url": "https://m.entertain.naver.com/article/117/0004094390",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 11368,
-      "rank": 15,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "김종국 \"30년 동안 올 현금 보유, '5만 전자' 샀지만 안 팔아\"('옥문아들')",
-      "url": "https://m.entertain.naver.com/article/477/0000623193",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 10525,
-      "rank": 16,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "샤이니 온유 측 \"의사인 줄 알고 진료 받아\"",
-      "url": "https://m.entertain.naver.com/article/440/0000040936",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 9976,
-      "rank": 17,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "박주호♥안나, 넷째 임신 발표…암투병 중 찾아온 \"소중한 희망\"",
-      "url": "https://m.entertain.naver.com/article/117/0004094617",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 9916,
-      "rank": 18,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "장원영 \"샤워만 1시간, 몸 100% 깨끗하지 않으면 안 되는 성격\" 깜짝 고백 (눕터뷰)",
-      "url": "https://m.entertain.naver.com/article/311/0002044654",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 9760,
-      "rank": 19,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "하영 사과문에 '좋아요' 꾹…'중증외상센터'·'참교육' 감독 행보에 누리꾼 '갑론을박'",
-      "url": "https://m.entertain.naver.com/article/213/0001397848",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 9035,
-      "rank": 20,
-      "cross_baseball": true,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'5번째 음주운전' 손승원, 징역 1년에서 2년으로…형량 두 배 \"죄질 불량\"",
-      "url": "https://m.entertain.naver.com/article/311/0002044824",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 8802,
-      "rank": 21,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "이주승, '명문가 자랑'은 이렇게 해야…\"국가유공자 조부 덕에 청와대\"",
-      "url": "https://m.entertain.naver.com/article/311/0002044752",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 7497,
-      "rank": 22,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "10㎏ 뺀 윤영미, 안면·목 거상→3천모 모발이식 효과 대박 “젊어 보이고파” (메종레아)",
-      "url": "https://m.entertain.naver.com/article/609/0001156708",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 6606,
+      "views": 105741,
       "rank": 23,
       "channel": "정보주는하마"
     },
     {
-      "title": "현직 변호사가 본 ‘친일 파묘’ 하영 집안 “재산 환수 가능성↓ 돈 자랑은 사회적 환원 방법 有”",
-      "url": "https://m.entertain.naver.com/article/609/0001156673",
+      "title": "“업보청산 어떻게...” 하영 증조부, 이토 히로부미 추도회까지…여론 결국 ‘폭발’",
+      "url": "https://m.entertain.naver.com/article/468/0001259732",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 6534,
+      "views": 94834,
       "rank": 24,
       "channel": "정보주는하마"
     },
     {
-      "title": "한채아 \"♥차세찌와 돈 문제로 많이 다퉈…진절머리 났다\"('광예원')",
-      "url": "https://m.entertain.naver.com/article/477/0000623278",
+      "title": "'라스' 이창호 \"서울 아파트 청약 당첨…27억 없어 포기\"",
+      "url": "https://m.entertain.naver.com/article/421/0009111102",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 6498,
+      "views": 94020,
       "rank": 25,
       "channel": "정보주는하마"
     },
     {
-      "title": "'황정민 스토킹' 40대 '미모의 A씨', 정체 드러냈다...法출석-SNS 사진 공개에 관심 집중",
-      "url": "https://m.entertain.naver.com/article/076/0004435446",
+      "title": "“아빠 잊어도 돼”…시한부 전경철 작가, 자폐 아들과 이별 준비(‘유퀴즈’)",
+      "url": "https://m.entertain.naver.com/article/009/0005720376",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 6103,
+      "views": 93735,
       "rank": 26,
       "channel": "정보주는하마"
     },
     {
-      "title": "얼굴 또 달라졌다…강석우 딸, 이목구비 분위기 완전 바뀌었네",
-      "url": "https://m.entertain.naver.com/article/312/0000771718",
+      "title": "74세 박정수, 7년 넘게 PT 받았지만..“허리→손가락 휘어” 몸상태 고백 (웬만해선)",
+      "url": "https://m.entertain.naver.com/article/109/0005587524",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 6071,
+      "views": 87305,
       "rank": 27,
       "channel": "정보주는하마"
     },
     {
-      "title": "박남정 미모의 둘째 딸, 배우 지망생이라더니…\"현재 매체 준비 중\" 본격 데뷔할까",
-      "url": "https://m.entertain.naver.com/article/311/0002044599",
+      "title": "'같은 사람 맞아?' 김현정, 다이어트 전후 달라진 얼굴에 비결 문의 쇄도",
+      "url": "https://m.entertain.naver.com/article/117/0004094345",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 6061,
+      "views": 84846,
       "rank": 28,
       "channel": "정보주는하마"
     },
     {
-      "title": "박보검 일냈다…'시청률 23.3%' 주연 배우들, 10년 만에 재회→1박 2일 여행 떠난다",
-      "url": "https://m.entertain.naver.com/article/445/0000449103",
+      "title": "이선민, 서른에 하루아침에 실직→인생 역전…\"수입 10배, 9월까지 스케줄 꽉 차\"  (종합)",
+      "url": "https://m.entertain.naver.com/article/117/0004094285",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 5394,
+      "views": 80621,
       "rank": 29,
       "channel": "정보주는하마"
     },
     {
-      "title": "박주호♥안나, 넷째 임신 깜짝 고백…‘슈돌’ 돌아올까",
-      "url": "https://m.entertain.naver.com/article/144/0001131741",
+      "title": "\"무지한 상태\" 하영과 달랐다…친일파 후손들의 고백 \"조상 업보 청산하며 산다\"",
+      "url": "https://m.entertain.naver.com/article/311/0002044718",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 5094,
+      "views": 79793,
       "rank": 30,
       "channel": "정보주는하마"
     },
@@ -361,20 +360,20 @@
       "article_count": 38,
       "topics": [
         {
-          "title": "\"이강인, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 3,
-          "source_article": "이강인 효과 미쳤다! 아틀레티코, 벌써 이강인 이적료 다 벌었다...유니폼 완판에 이어 320억원에 한국 기업과 스폰서십 체결 임박!",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "title": "\"하영까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 6,
+          "source_article": "‘황정민 폭로녀’, 돌연 잠적…‘벌금 3배’ 구형받고 SNS 사라져",
+          "source_url": "https://m.entertain.naver.com/article/468/0001259615",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "이강인",
-            "살짜리",
-            "억뷰",
-            "인플루",
-            "언서"
+            "하영",
+            "친일파",
+            "황정민",
+            "폭로녀",
+            "돌연"
           ],
-          "template": "자산 서열",
+          "template": "논란 집합",
           "score": 7.4,
           "dup_check": {
             "is_duplicate": false,
@@ -386,9 +385,9 @@
           "table": {
             "headers": [
               "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
@@ -402,10 +401,10 @@
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "우승",
+            "친일파",
+            "증조부",
             "하영",
-            "사과문",
-            "좋아요",
-            "중증외"
+            "사과문"
           ],
           "template": "스포츠 기록",
           "score": 7.3,
@@ -427,78 +426,20 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"고백 결혼설?\" 고백 연애사 총정리",
-          "angle_type": "👤 고백",
-          "article_count": 6,
-          "source_article": "'성형 고백' 김정은 과거 사진에 깜짝…탁재훈 \"이분 누구야?\" (노빠꾸탁재훈)",
-          "source_url": "https://m.entertain.naver.com/article/311/0002044625",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "고백"
-          ],
-          "template": "결혼 화제",
-          "score": 7.2,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-          "angle_type": "논란·사건",
+          "title": "\"이강인, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
           "article_count": 3,
-          "source_article": "깜짝 폭로! '韓 에이스' 김민재, 21호 프리미어리거 거부...'유로파 우승' 빌라 관심 \"가능성 낮아, 노팅엄은 이미 거절\"",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "황정민",
-            "폭로녀",
-            "돌연",
-            "잠적",
-            "벌금"
-          ],
-          "template": "논란 집합",
-          "score": 7.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"깜짝, 대체 무슨 일이?\" 깜짝 관련 이슈 총정리",
-          "angle_type": "👤 깜짝",
-          "article_count": 5,
-          "source_article": "'성형 고백' 김정은 과거 사진에 깜짝…탁재훈 \"이분 누구야?\" (노빠꾸탁재훈)",
-          "source_url": "https://m.entertain.naver.com/article/311/0002044625",
+          "source_article": "3살짜리 1억뷰 인플루언서, 자택 공개됐다…넓직한 내부 눈길 ('홈즈')",
+          "source_url": "https://m.entertain.naver.com/article/312/0000771743",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "깜짝"
+            "이강인",
+            "살짜리",
+            "억뷰",
+            "인플루",
+            "언서"
           ],
-          "template": "논란 집합",
+          "template": "자산 서열",
           "score": 6.9,
           "dup_check": {
             "is_duplicate": false,
@@ -510,29 +451,29 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"박주호 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "title": "\"임신 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
           "angle_type": "결혼·이혼",
-          "article_count": 5,
-          "source_article": "박주호♥안나, 넷째 임신 전격 발표…“희망 찾아왔다”",
-          "source_url": "https://m.entertain.naver.com/article/468/0001259810",
+          "article_count": 3,
+          "source_article": "황정음, 이혼한 전남편에 SOS…아들 문제 생기자 \"아빠한테 전화해\"",
+          "source_url": "https://m.entertain.naver.com/article/117/0004094187",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "박주호",
-            "안나",
-            "넷째",
             "임신",
-            "희망"
+            "황정음",
+            "이혼한",
+            "전남편",
+            "아들"
           ],
           "template": "결혼 화제",
-          "score": 6.8,
+          "score": 6.6,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -551,21 +492,50 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"준비이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 4,
-          "source_article": "“아빠 잊어도 돼”…시한부 전경철 작가, 자폐 아들과 이별 준비(‘유퀴즈’)",
-          "source_url": "https://m.entertain.naver.com/article/009/0005720376",
+          "title": "\"고백\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 고백",
+          "article_count": 6,
+          "source_article": "함은정, 고졸 학력 고백 \"동국대 출신이라 할 때마다 민망, 학교 못 다녔다\"",
+          "source_url": "https://m.entertain.naver.com/article/076/0004435219",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "준비",
-            "아빠",
-            "잊어도",
-            "시한부",
-            "전경철"
+            "고백"
+          ],
+          "template": "인맥",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+          "angle_type": "가족·혈연",
+          "article_count": 2,
+          "source_article": "황정음, 이혼한 전남편에 SOS…아들 문제 생기자 \"아빠한테 전화해\"",
+          "source_url": "https://m.entertain.naver.com/article/117/0004094187",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "황정음",
+            "이혼한",
+            "전남편",
+            "아들",
+            "문제"
           ],
           "template": "동갑내기",
-          "score": 6.3,
+          "score": 6.4,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -584,16 +554,49 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"문제로 결혼설?\" 문제로 연애사 총정리",
-          "angle_type": "👤 문제로",
-          "article_count": 3,
-          "source_article": "한채아, 결혼 초 갈등 고백 \"♥차세찌에 진절머리 나…돈 문제로 많이 부딪혀\" (광예원)",
-          "source_url": "https://m.entertain.naver.com/article/311/0002044882",
+          "title": "\"깜짝, 대체 무슨 일이?\" 깜짝 관련 이슈 총정리",
+          "angle_type": "👤 깜짝",
+          "article_count": 4,
+          "source_article": "'성형 고백' 김정은 과거 사진에 깜짝…탁재훈 \"이분 누구야?\" (노빠꾸탁재훈)",
+          "source_url": "https://m.entertain.naver.com/article/311/0002044625",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "문제로"
+            "깜짝"
           ],
-          "template": "결혼 화제",
+          "template": "논란 집합",
+          "score": 6.4,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 3,
+          "source_article": "'신사의 품격' 그 배우였네…몰라보게 달라진 근황 →한층 짙어진 중후한 매력",
+          "source_url": "https://m.entertain.naver.com/article/445/0000448988",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "근황",
+            "신사의",
+            "품격",
+            "배우였",
+            "몰라보"
+          ],
+          "template": "장기 공백 복귀",
           "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
@@ -605,24 +608,24 @@
           "table": {
             "headers": [
               "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"하영\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 하영",
+          "title": "\"친일파, 대체 무슨 일이?\" 친일파 관련 이슈 총정리",
+          "angle_type": "👤 친일파",
           "article_count": 4,
           "source_article": "고개 숙인 하영..역사학자 심용환 \"안상호, 친일파 단정은 신중해야\"",
           "source_url": "https://m.entertain.naver.com/article/108/0003461587",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "하영"
+            "친일파"
           ],
-          "template": "인맥",
+          "template": "논란 집합",
           "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
@@ -634,95 +637,8 @@
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"안나\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 안나",
-          "article_count": 4,
-          "source_article": "박주호♥안나, 넷째 임신 전격 발표…“희망 찾아왔다”",
-          "source_url": "https://m.entertain.naver.com/article/468/0001259810",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "안나"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"넷째\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 넷째",
-          "article_count": 4,
-          "source_article": "박주호♥안나, 넷째 임신 전격 발표…“희망 찾아왔다”",
-          "source_url": "https://m.entertain.naver.com/article/468/0001259810",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "넷째"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"임신\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 임신",
-          "article_count": 4,
-          "source_article": "박주호♥안나, 넷째 임신 전격 발표…“희망 찾아왔다”",
-          "source_url": "https://m.entertain.naver.com/article/468/0001259810",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "임신"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
+              "소속·직업",
+              "논란 내용",
               "현재 상황"
             ]
           },
@@ -735,51 +651,19 @@
           6
         ],
         [
-          "깜짝",
-          5
-        ],
-        [
           "하영",
           4
         ],
         [
-          "박주호",
-          4
-        ],
-        [
-          "안나",
-          4
-        ],
-        [
-          "넷째",
-          4
-        ],
-        [
-          "임신",
-          4
-        ],
-        [
-          "문제로",
-          3
-        ],
-        [
-          "자랑",
-          2
-        ],
-        [
-          "심용환",
-          2
-        ],
-        [
-          "신중해야",
-          2
-        ],
-        [
           "친일파",
-          2
+          4
         ],
         [
-          "희망",
+          "깜짝",
+          4
+        ],
+        [
+          "스토킹",
           2
         ],
         [
@@ -787,28 +671,60 @@
           2
         ],
         [
+          "근황",
+          2
+        ],
+        [
+          "달라진",
+          2
+        ],
+        [
+          "사람",
+          2
+        ],
+        [
+          "맞아",
+          2
+        ],
+        [
+          "임신",
+          2
+        ],
+        [
+          "라스",
+          2
+        ],
+        [
           "준비",
           2
         ],
         [
-          "소중한",
+          "증조부",
           2
         ],
         [
-          "광예원",
+          "우승",
           2
         ],
         [
-          "많이",
+          "홍명보",
           2
         ],
         [
-          "한채아",
+          "협상",
           2
         ],
         [
-          "진절머리",
-          2
+          "드러냈다",
+          1
+        ],
+        [
+          "정체",
+          1
+        ],
+        [
+          "공개에",
+          1
         ]
       ],
       "name_freq": [
@@ -817,51 +733,19 @@
           6
         ],
         [
-          "깜짝",
-          5
-        ],
-        [
           "하영",
           4
         ],
         [
-          "박주호",
-          4
-        ],
-        [
-          "안나",
-          4
-        ],
-        [
-          "넷째",
-          4
-        ],
-        [
-          "임신",
-          4
-        ],
-        [
-          "문제로",
-          3
-        ],
-        [
-          "자랑",
-          2
-        ],
-        [
-          "신중해",
-          2
-        ],
-        [
           "친일파",
-          2
+          4
         ],
         [
-          "심용환",
-          2
+          "깜짝",
+          4
         ],
         [
-          "희망",
+          "스토킹",
           2
         ],
         [
@@ -869,7 +753,39 @@
           2
         ],
         [
+          "근황",
+          2
+        ],
+        [
+          "달라진",
+          2
+        ],
+        [
+          "사람",
+          2
+        ],
+        [
+          "맞아",
+          2
+        ],
+        [
+          "임신",
+          2
+        ],
+        [
+          "라스",
+          2
+        ],
+        [
           "준비",
+          2
+        ],
+        [
+          "증조부",
+          2
+        ],
+        [
+          "우승",
           2
         ]
       ],
@@ -880,11 +796,15 @@
         ],
         [
           "논란·사건",
-          3
+          6
         ],
         [
           "결혼·이혼",
-          5
+          3
+        ],
+        [
+          "복귀·근황",
+          3
         ],
         [
           "스포츠",
@@ -892,17 +812,17 @@
         ],
         [
           "가족·혈연",
-          4
+          2
         ]
       ]
     },
     "초구딱": {
-      "article_count": 12,
+      "article_count": 42,
       "topics": [
         {
           "title": "\"홈런, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 8,
+          "article_count": 9,
           "source_article": "\"한국서 14kg 쪘다\" 대체 뭘 먹었길래, KBO 역수출 최고 성공작…5년 만에 구속 5km 상승, 내년 연봉 '초대박' 예고",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -935,7 +855,7 @@
         {
           "title": "\"초대박, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
           "angle_type": "자산·몸값",
-          "article_count": 2,
+          "article_count": 4,
           "source_article": "\"한국서 14kg 쪘다\" 대체 뭘 먹었길래, KBO 역수출 최고 성공작…5년 만에 구속 5km 상승, 내년 연봉 '초대박' 예고",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -947,7 +867,7 @@
             "먹었길"
           ],
           "template": "자산 서열",
-          "score": 7.0,
+          "score": 7.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -993,6 +913,35 @@
             ]
           },
           "channel": "초구딱"
+        },
+        {
+          "title": "\"안내\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안내",
+          "article_count": 3,
+          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "안내"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
@@ -1005,15 +954,23 @@
           3
         ],
         [
+          "안내",
+          3
+        ],
+        [
           "대표팀",
           2
         ],
         [
-          "역수출",
+          "초대박",
           2
         ],
         [
-          "초대박",
+          "내년",
+          2
+        ],
+        [
+          "역수출",
           2
         ],
         [
@@ -1029,31 +986,35 @@
           2
         ],
         [
-          "마무리",
-          1
+          "업데이트",
+          2
         ],
         [
-          "오승환",
-          1
+          "이벤트",
+          2
         ],
         [
-          "김병현",
-          1
+          "엠팍",
+          2
         ],
         [
-          "기록까지",
-          1
+          "당첨자",
+          2
+        ],
+        [
+          "워터밤",
+          2
+        ],
+        [
+          "전주의",
+          2
+        ],
+        [
+          "풍경",
+          2
         ],
         [
           "뛰어",
-          1
-        ],
-        [
-          "넘었고",
-          1
-        ],
-        [
-          "이미",
           1
         ],
         [
@@ -1062,18 +1023,6 @@
         ],
         [
           "이러다",
-          1
-        ],
-        [
-          "걱정",
-          1
-        ],
-        [
-          "성공작",
-          1
-        ],
-        [
-          "연봉",
           1
         ]
       ],
@@ -1087,15 +1036,23 @@
           3
         ],
         [
+          "안내",
+          3
+        ],
+        [
           "대표팀",
           2
         ],
         [
-          "역수출",
+          "초대박",
           2
         ],
         [
-          "초대박",
+          "내년",
+          2
+        ],
+        [
+          "역수출",
           2
         ],
         [
@@ -1109,36 +1066,56 @@
         [
           "야구",
           2
+        ],
+        [
+          "업데이",
+          2
+        ],
+        [
+          "이벤트",
+          2
+        ],
+        [
+          "엠팍",
+          2
+        ],
+        [
+          "당첨자",
+          2
+        ],
+        [
+          "워터밤",
+          2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
-          2
+          4
         ],
         [
           "스포츠",
-          8
+          9
         ]
       ]
     }
   },
   "topics": [
     {
-      "title": "\"이강인, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 3,
-      "source_article": "이강인 효과 미쳤다! 아틀레티코, 벌써 이강인 이적료 다 벌었다...유니폼 완판에 이어 320억원에 한국 기업과 스폰서십 체결 임박!",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "title": "\"하영까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 6,
+      "source_article": "‘황정민 폭로녀’, 돌연 잠적…‘벌금 3배’ 구형받고 SNS 사라져",
+      "source_url": "https://m.entertain.naver.com/article/468/0001259615",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "이강인",
-        "살짜리",
-        "억뷰",
-        "인플루",
-        "언서"
+        "하영",
+        "친일파",
+        "황정민",
+        "폭로녀",
+        "돌연"
       ],
-      "template": "자산 서열",
+      "template": "논란 집합",
       "score": 7.4,
       "dup_check": {
         "is_duplicate": false,
@@ -1150,9 +1127,9 @@
       "table": {
         "headers": [
           "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
@@ -1166,10 +1143,10 @@
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "우승",
+        "친일파",
+        "증조부",
         "하영",
-        "사과문",
-        "좋아요",
-        "중증외"
+        "사과문"
       ],
       "template": "스포츠 기록",
       "score": 7.3,
@@ -1191,78 +1168,20 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"고백 결혼설?\" 고백 연애사 총정리",
-      "angle_type": "👤 고백",
-      "article_count": 6,
-      "source_article": "'성형 고백' 김정은 과거 사진에 깜짝…탁재훈 \"이분 누구야?\" (노빠꾸탁재훈)",
-      "source_url": "https://m.entertain.naver.com/article/311/0002044625",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "고백"
-      ],
-      "template": "결혼 화제",
-      "score": 7.2,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-      "angle_type": "논란·사건",
+      "title": "\"이강인, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
       "article_count": 3,
-      "source_article": "깜짝 폭로! '韓 에이스' 김민재, 21호 프리미어리거 거부...'유로파 우승' 빌라 관심 \"가능성 낮아, 노팅엄은 이미 거절\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "황정민",
-        "폭로녀",
-        "돌연",
-        "잠적",
-        "벌금"
-      ],
-      "template": "논란 집합",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"깜짝, 대체 무슨 일이?\" 깜짝 관련 이슈 총정리",
-      "angle_type": "👤 깜짝",
-      "article_count": 5,
-      "source_article": "'성형 고백' 김정은 과거 사진에 깜짝…탁재훈 \"이분 누구야?\" (노빠꾸탁재훈)",
-      "source_url": "https://m.entertain.naver.com/article/311/0002044625",
+      "source_article": "3살짜리 1억뷰 인플루언서, 자택 공개됐다…넓직한 내부 눈길 ('홈즈')",
+      "source_url": "https://m.entertain.naver.com/article/312/0000771743",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "깜짝"
+        "이강인",
+        "살짜리",
+        "억뷰",
+        "인플루",
+        "언서"
       ],
-      "template": "논란 집합",
+      "template": "자산 서열",
       "score": 6.9,
       "dup_check": {
         "is_duplicate": false,
@@ -1274,29 +1193,29 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"박주호 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "title": "\"임신 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
       "angle_type": "결혼·이혼",
-      "article_count": 5,
-      "source_article": "박주호♥안나, 넷째 임신 전격 발표…“희망 찾아왔다”",
-      "source_url": "https://m.entertain.naver.com/article/468/0001259810",
+      "article_count": 3,
+      "source_article": "황정음, 이혼한 전남편에 SOS…아들 문제 생기자 \"아빠한테 전화해\"",
+      "source_url": "https://m.entertain.naver.com/article/117/0004094187",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "박주호",
-        "안나",
-        "넷째",
         "임신",
-        "희망"
+        "황정음",
+        "이혼한",
+        "전남편",
+        "아들"
       ],
       "template": "결혼 화제",
-      "score": 6.8,
+      "score": 6.6,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1315,21 +1234,50 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"준비이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 4,
-      "source_article": "“아빠 잊어도 돼”…시한부 전경철 작가, 자폐 아들과 이별 준비(‘유퀴즈’)",
-      "source_url": "https://m.entertain.naver.com/article/009/0005720376",
+      "title": "\"고백\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 고백",
+      "article_count": 6,
+      "source_article": "함은정, 고졸 학력 고백 \"동국대 출신이라 할 때마다 민망, 학교 못 다녔다\"",
+      "source_url": "https://m.entertain.naver.com/article/076/0004435219",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "준비",
-        "아빠",
-        "잊어도",
-        "시한부",
-        "전경철"
+        "고백"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 2,
+      "source_article": "황정음, 이혼한 전남편에 SOS…아들 문제 생기자 \"아빠한테 전화해\"",
+      "source_url": "https://m.entertain.naver.com/article/117/0004094187",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "황정음",
+        "이혼한",
+        "전남편",
+        "아들",
+        "문제"
       ],
       "template": "동갑내기",
-      "score": 6.3,
+      "score": 6.4,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1348,16 +1296,49 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"문제로 결혼설?\" 문제로 연애사 총정리",
-      "angle_type": "👤 문제로",
-      "article_count": 3,
-      "source_article": "한채아, 결혼 초 갈등 고백 \"♥차세찌에 진절머리 나…돈 문제로 많이 부딪혀\" (광예원)",
-      "source_url": "https://m.entertain.naver.com/article/311/0002044882",
+      "title": "\"깜짝, 대체 무슨 일이?\" 깜짝 관련 이슈 총정리",
+      "angle_type": "👤 깜짝",
+      "article_count": 4,
+      "source_article": "'성형 고백' 김정은 과거 사진에 깜짝…탁재훈 \"이분 누구야?\" (노빠꾸탁재훈)",
+      "source_url": "https://m.entertain.naver.com/article/311/0002044625",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "문제로"
+        "깜짝"
       ],
-      "template": "결혼 화제",
+      "template": "논란 집합",
+      "score": 6.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 3,
+      "source_article": "'신사의 품격' 그 배우였네…몰라보게 달라진 근황 →한층 짙어진 중후한 매력",
+      "source_url": "https://m.entertain.naver.com/article/445/0000448988",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "근황",
+        "신사의",
+        "품격",
+        "배우였",
+        "몰라보"
+      ],
+      "template": "장기 공백 복귀",
       "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
@@ -1369,24 +1350,24 @@
       "table": {
         "headers": [
           "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"하영\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 하영",
+      "title": "\"친일파, 대체 무슨 일이?\" 친일파 관련 이슈 총정리",
+      "angle_type": "👤 친일파",
       "article_count": 4,
       "source_article": "고개 숙인 하영..역사학자 심용환 \"안상호, 친일파 단정은 신중해야\"",
       "source_url": "https://m.entertain.naver.com/article/108/0003461587",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "하영"
+        "친일파"
       ],
-      "template": "인맥",
+      "template": "논란 집합",
       "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
@@ -1398,95 +1379,8 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"안나\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안나",
-      "article_count": 4,
-      "source_article": "박주호♥안나, 넷째 임신 전격 발표…“희망 찾아왔다”",
-      "source_url": "https://m.entertain.naver.com/article/468/0001259810",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "안나"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"넷째\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 넷째",
-      "article_count": 4,
-      "source_article": "박주호♥안나, 넷째 임신 전격 발표…“희망 찾아왔다”",
-      "source_url": "https://m.entertain.naver.com/article/468/0001259810",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "넷째"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"임신\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 임신",
-      "article_count": 4,
-      "source_article": "박주호♥안나, 넷째 임신 전격 발표…“희망 찾아왔다”",
-      "source_url": "https://m.entertain.naver.com/article/468/0001259810",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "임신"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
+          "소속·직업",
+          "논란 내용",
           "현재 상황"
         ]
       },
@@ -1495,20 +1389,20 @@
   ],
   "all_topics": [
     {
-      "title": "\"이강인, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 3,
-      "source_article": "이강인 효과 미쳤다! 아틀레티코, 벌써 이강인 이적료 다 벌었다...유니폼 완판에 이어 320억원에 한국 기업과 스폰서십 체결 임박!",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "title": "\"하영까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 6,
+      "source_article": "‘황정민 폭로녀’, 돌연 잠적…‘벌금 3배’ 구형받고 SNS 사라져",
+      "source_url": "https://m.entertain.naver.com/article/468/0001259615",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "이강인",
-        "살짜리",
-        "억뷰",
-        "인플루",
-        "언서"
+        "하영",
+        "친일파",
+        "황정민",
+        "폭로녀",
+        "돌연"
       ],
-      "template": "자산 서열",
+      "template": "논란 집합",
       "score": 7.4,
       "dup_check": {
         "is_duplicate": false,
@@ -1520,9 +1414,9 @@
       "table": {
         "headers": [
           "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
@@ -1536,10 +1430,10 @@
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "우승",
+        "친일파",
+        "증조부",
         "하영",
-        "사과문",
-        "좋아요",
-        "중증외"
+        "사과문"
       ],
       "template": "스포츠 기록",
       "score": 7.3,
@@ -1561,78 +1455,20 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"고백 결혼설?\" 고백 연애사 총정리",
-      "angle_type": "👤 고백",
-      "article_count": 6,
-      "source_article": "'성형 고백' 김정은 과거 사진에 깜짝…탁재훈 \"이분 누구야?\" (노빠꾸탁재훈)",
-      "source_url": "https://m.entertain.naver.com/article/311/0002044625",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "고백"
-      ],
-      "template": "결혼 화제",
-      "score": 7.2,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-      "angle_type": "논란·사건",
+      "title": "\"이강인, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
       "article_count": 3,
-      "source_article": "깜짝 폭로! '韓 에이스' 김민재, 21호 프리미어리거 거부...'유로파 우승' 빌라 관심 \"가능성 낮아, 노팅엄은 이미 거절\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "황정민",
-        "폭로녀",
-        "돌연",
-        "잠적",
-        "벌금"
-      ],
-      "template": "논란 집합",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"깜짝, 대체 무슨 일이?\" 깜짝 관련 이슈 총정리",
-      "angle_type": "👤 깜짝",
-      "article_count": 5,
-      "source_article": "'성형 고백' 김정은 과거 사진에 깜짝…탁재훈 \"이분 누구야?\" (노빠꾸탁재훈)",
-      "source_url": "https://m.entertain.naver.com/article/311/0002044625",
+      "source_article": "3살짜리 1억뷰 인플루언서, 자택 공개됐다…넓직한 내부 눈길 ('홈즈')",
+      "source_url": "https://m.entertain.naver.com/article/312/0000771743",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "깜짝"
+        "이강인",
+        "살짜리",
+        "억뷰",
+        "인플루",
+        "언서"
       ],
-      "template": "논란 집합",
+      "template": "자산 서열",
       "score": 6.9,
       "dup_check": {
         "is_duplicate": false,
@@ -1644,29 +1480,29 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"박주호 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "title": "\"임신 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
       "angle_type": "결혼·이혼",
-      "article_count": 5,
-      "source_article": "박주호♥안나, 넷째 임신 전격 발표…“희망 찾아왔다”",
-      "source_url": "https://m.entertain.naver.com/article/468/0001259810",
+      "article_count": 3,
+      "source_article": "황정음, 이혼한 전남편에 SOS…아들 문제 생기자 \"아빠한테 전화해\"",
+      "source_url": "https://m.entertain.naver.com/article/117/0004094187",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "박주호",
-        "안나",
-        "넷째",
         "임신",
-        "희망"
+        "황정음",
+        "이혼한",
+        "전남편",
+        "아들"
       ],
       "template": "결혼 화제",
-      "score": 6.8,
+      "score": 6.6,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1685,21 +1521,50 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"준비이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 4,
-      "source_article": "“아빠 잊어도 돼”…시한부 전경철 작가, 자폐 아들과 이별 준비(‘유퀴즈’)",
-      "source_url": "https://m.entertain.naver.com/article/009/0005720376",
+      "title": "\"고백\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 고백",
+      "article_count": 6,
+      "source_article": "함은정, 고졸 학력 고백 \"동국대 출신이라 할 때마다 민망, 학교 못 다녔다\"",
+      "source_url": "https://m.entertain.naver.com/article/076/0004435219",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "준비",
-        "아빠",
-        "잊어도",
-        "시한부",
-        "전경철"
+        "고백"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 2,
+      "source_article": "황정음, 이혼한 전남편에 SOS…아들 문제 생기자 \"아빠한테 전화해\"",
+      "source_url": "https://m.entertain.naver.com/article/117/0004094187",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "황정음",
+        "이혼한",
+        "전남편",
+        "아들",
+        "문제"
       ],
       "template": "동갑내기",
-      "score": 6.3,
+      "score": 6.4,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1718,16 +1583,49 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"문제로 결혼설?\" 문제로 연애사 총정리",
-      "angle_type": "👤 문제로",
-      "article_count": 3,
-      "source_article": "한채아, 결혼 초 갈등 고백 \"♥차세찌에 진절머리 나…돈 문제로 많이 부딪혀\" (광예원)",
-      "source_url": "https://m.entertain.naver.com/article/311/0002044882",
+      "title": "\"깜짝, 대체 무슨 일이?\" 깜짝 관련 이슈 총정리",
+      "angle_type": "👤 깜짝",
+      "article_count": 4,
+      "source_article": "'성형 고백' 김정은 과거 사진에 깜짝…탁재훈 \"이분 누구야?\" (노빠꾸탁재훈)",
+      "source_url": "https://m.entertain.naver.com/article/311/0002044625",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "문제로"
+        "깜짝"
       ],
-      "template": "결혼 화제",
+      "template": "논란 집합",
+      "score": 6.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 3,
+      "source_article": "'신사의 품격' 그 배우였네…몰라보게 달라진 근황 →한층 짙어진 중후한 매력",
+      "source_url": "https://m.entertain.naver.com/article/445/0000448988",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "근황",
+        "신사의",
+        "품격",
+        "배우였",
+        "몰라보"
+      ],
+      "template": "장기 공백 복귀",
       "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
@@ -1739,24 +1637,24 @@
       "table": {
         "headers": [
           "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"하영\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 하영",
+      "title": "\"친일파, 대체 무슨 일이?\" 친일파 관련 이슈 총정리",
+      "angle_type": "👤 친일파",
       "article_count": 4,
       "source_article": "고개 숙인 하영..역사학자 심용환 \"안상호, 친일파 단정은 신중해야\"",
       "source_url": "https://m.entertain.naver.com/article/108/0003461587",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "하영"
+        "친일파"
       ],
-      "template": "인맥",
+      "template": "논란 집합",
       "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
@@ -1768,95 +1666,8 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"안나\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안나",
-      "article_count": 4,
-      "source_article": "박주호♥안나, 넷째 임신 전격 발표…“희망 찾아왔다”",
-      "source_url": "https://m.entertain.naver.com/article/468/0001259810",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "안나"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"넷째\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 넷째",
-      "article_count": 4,
-      "source_article": "박주호♥안나, 넷째 임신 전격 발표…“희망 찾아왔다”",
-      "source_url": "https://m.entertain.naver.com/article/468/0001259810",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "넷째"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"임신\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 임신",
-      "article_count": 4,
-      "source_article": "박주호♥안나, 넷째 임신 전격 발표…“희망 찾아왔다”",
-      "source_url": "https://m.entertain.naver.com/article/468/0001259810",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "임신"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
+          "소속·직업",
+          "논란 내용",
           "현재 상황"
         ]
       },
@@ -1865,7 +1676,7 @@
     {
       "title": "\"홈런, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 8,
+      "article_count": 9,
       "source_article": "\"한국서 14kg 쪘다\" 대체 뭘 먹었길래, KBO 역수출 최고 성공작…5년 만에 구속 5km 상승, 내년 연봉 '초대박' 예고",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -1898,7 +1709,7 @@
     {
       "title": "\"초대박, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
       "angle_type": "자산·몸값",
-      "article_count": 2,
+      "article_count": 4,
       "source_article": "\"한국서 14kg 쪘다\" 대체 뭘 먹었길래, KBO 역수출 최고 성공작…5년 만에 구속 5km 상승, 내년 연봉 '초대박' 예고",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -1910,7 +1721,7 @@
         "먹었길"
       ],
       "template": "자산 서열",
-      "score": 7.0,
+      "score": 7.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1956,6 +1767,35 @@
         ]
       },
       "channel": "초구딱"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
@@ -1964,51 +1804,19 @@
       6
     ],
     [
-      "깜짝",
-      5
-    ],
-    [
       "하영",
       4
     ],
     [
-      "박주호",
-      4
-    ],
-    [
-      "안나",
-      4
-    ],
-    [
-      "넷째",
-      4
-    ],
-    [
-      "임신",
-      4
-    ],
-    [
-      "문제로",
-      3
-    ],
-    [
-      "자랑",
-      2
-    ],
-    [
-      "심용환",
-      2
-    ],
-    [
-      "신중해야",
-      2
-    ],
-    [
       "친일파",
-      2
+      4
     ],
     [
-      "희망",
+      "깜짝",
+      4
+    ],
+    [
+      "스토킹",
       2
     ],
     [
@@ -2016,28 +1824,60 @@
       2
     ],
     [
+      "근황",
+      2
+    ],
+    [
+      "달라진",
+      2
+    ],
+    [
+      "사람",
+      2
+    ],
+    [
+      "맞아",
+      2
+    ],
+    [
+      "임신",
+      2
+    ],
+    [
+      "라스",
+      2
+    ],
+    [
       "준비",
       2
     ],
     [
-      "소중한",
+      "증조부",
       2
     ],
     [
-      "광예원",
+      "우승",
       2
     ],
     [
-      "많이",
+      "홍명보",
       2
     ],
     [
-      "한채아",
+      "협상",
       2
     ],
     [
-      "진절머리",
-      2
+      "드러냈다",
+      1
+    ],
+    [
+      "정체",
+      1
+    ],
+    [
+      "공개에",
+      1
     ]
   ],
   "name_freq": [
@@ -2046,51 +1886,19 @@
       6
     ],
     [
-      "깜짝",
-      5
-    ],
-    [
       "하영",
       4
     ],
     [
-      "박주호",
-      4
-    ],
-    [
-      "안나",
-      4
-    ],
-    [
-      "넷째",
-      4
-    ],
-    [
-      "임신",
-      4
-    ],
-    [
-      "문제로",
-      3
-    ],
-    [
-      "자랑",
-      2
-    ],
-    [
-      "신중해",
-      2
-    ],
-    [
       "친일파",
-      2
+      4
     ],
     [
-      "심용환",
-      2
+      "깜짝",
+      4
     ],
     [
-      "희망",
+      "스토킹",
       2
     ],
     [
@@ -2098,11 +1906,43 @@
       2
     ],
     [
+      "근황",
+      2
+    ],
+    [
+      "달라진",
+      2
+    ],
+    [
+      "사람",
+      2
+    ],
+    [
+      "맞아",
+      2
+    ],
+    [
+      "임신",
+      2
+    ],
+    [
+      "라스",
+      2
+    ],
+    [
       "준비",
+      2
+    ],
+    [
+      "증조부",
+      2
+    ],
+    [
+      "우승",
       2
     ]
   ],
-  "total_topics_generated": 15,
-  "valid_topics": 15,
+  "total_topics_generated": 13,
+  "valid_topics": 13,
   "excluded_duplicates": 0
 }
