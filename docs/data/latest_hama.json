@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-13 14:12:11",
+  "scan_time": "2026-08-13 17:55:44",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,9 +8,9 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 30
+    "MLB파크 불펜": 0
   },
-  "total_articles": 80,
+  "total_articles": 50,
   "articles": [
     {
       "title": "이아영, 또 명품 자랑…'66만 원' 곱창 밴드에 \"♥심규덕 마음 괜찮니\"",
@@ -284,124 +284,97 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "깜짝 폭로! '韓 에이스' 김민재, 21호 프리미어리거 거부...'유로파 우승' 빌라 관심 \"가능성 낮아, 노팅엄은 이미 거절\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 17890,
-      "rank": 4,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "대한민국 차기 사령탑 '초대박 매물' 사라졌다...'월드컵 준우승 명장' 다리치, UAE행",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 17443,
-      "rank": 5,
-      "channel": "정보주는하마"
-    },
-    {
       "title": "'법카로 10여 명 성 접대' 축구협회, 끝내 박지성까지 심경 고백...\"충격적 상황, 축구계 전체가 깊이 생각해봐야\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 15693,
+      "views": 502127,
+      "rank": 1,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "깜짝 폭로! '韓 에이스' 김민재, 21호 프리미어리거 거부...'유로파 우승' 빌라 관심 \"가능성 낮아, 노팅엄은 이미 거절\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 160316,
+      "rank": 5,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'조커 이강인을 팔아버린' 파리생제르맹, UCL 3연패로 레알 마드리드와 동급이 될까..'2연패 우승 주역 10명 그대로 보유, LEE와 하무스 둘만 떠났다'",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 150293,
       "rank": 6,
       "channel": "정보주는하마"
     },
     {
-      "title": "충격! MVP 폰세 맞아? 수염 '싹' 밀었다…본격 훈련 시작, 럭비공 대신 야구공 잡았다",
+      "title": "홍명보 감독에게 외면받았던 귀화선수 카스트로프, 이번엔 불의의 어깨부상…설마 아시안컵도 못 뛰나",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 11647,
+      "views": 138280,
       "rank": 7,
       "channel": "정보주는하마"
     },
     {
-      "title": "손흥민 작심 발언, \"겁주려는 것 아니야, 정말로 힘들 것\" 냉정한 진단 옳았다...양민혁, 벌써 네 번째 임대, 벨기에 베스테를로 합류",
+      "title": "'아뿔싸' 홍명보 후임으로 '한국 축구 차기 사령탑 후보' 거론됐던 로베르토 마르티네스, 네덜란드와 협상 진행",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 11476,
+      "views": 114973,
       "rank": 9,
       "channel": "정보주는하마"
     },
     {
-      "title": "‘세르비아 레전드’ 스토이코비치 “한국 축구 재건할 자신 충분…단, ‘장기직’만 관심”",
+      "title": "韓 최악의 공식발표 터졌다, 오현규 왜 영입했나...베식타시, '세르비아 폭격기' 블라호비치 영입 협상 발표",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 11373,
-      "rank": 10,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'누구 아이디어였나?' KIA 간 하주석, 연일 맹타...한화는 '아프다'",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 10309,
+      "views": 102221,
       "rank": 12,
       "channel": "정보주는하마"
     },
     {
-      "title": "스페인서 자란 이강인도 놀랄 정도라니…\"아틀레티코, 지금껏 내가 경험한 것과 정말 다르다\"",
+      "title": "경악! 60cm 맹독사가 헬멧 속에…고교 미식축구 선수, 1시간 쓰고 훈련 까지 했는데 몰랐다? '물리지 않은 게 천운!'",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 8520,
-      "rank": 13,
+      "views": 100376,
+      "rank": 15,
       "channel": "정보주는하마"
     },
     {
-      "title": "테니스 황제의 추락, 무려 737억 허공에…억만장자 타이틀 뺏겼다→스포츠 브랜드 주가 20% 폭락",
+      "title": "이강인 효과 미쳤다! 아틀레티코, 벌써 이강인 이적료 다 벌었다...유니폼 완판에 이어 320억원에 한국 기업과 스폰서십 체결 임박!",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 7565,
-      "rank": 14,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"삼성은 어디서 그런 투수들을...\" 3주 만에 '흔들'→팀도 2승 7패 대권 도전 '위기'",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 5318,
-      "rank": 19,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "KIA 또 다년계약 버튼 누르나, 왜 첫 시련에 각성했을까…\"3군 선수들의 마음, 다시 한번 배웠다\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 5224,
-      "rank": 20,
+      "views": 99345,
+      "rank": 16,
       "channel": "정보주는하마"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 41,
+      "article_count": 38,
       "topics": [
         {
-          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-          "angle_type": "논란·사건",
+          "title": "\"이강인, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
           "article_count": 3,
-          "source_article": "‘황정민 폭로녀’, 돌연 잠적…‘벌금 3배’ 구형받고 SNS 사라져",
-          "source_url": "https://m.entertain.naver.com/article/468/0001259615",
-          "source_name": "엔터 많이 본 뉴스",
+          "source_article": "이강인 효과 미쳤다! 아틀레티코, 벌써 이강인 이적료 다 벌었다...유니폼 완판에 이어 320억원에 한국 기업과 스폰서십 체결 임박!",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "황정민",
-            "폭로녀",
-            "돌연",
-            "잠적",
-            "벌금"
+            "이강인",
+            "살짜리",
+            "억뷰",
+            "인플루",
+            "언서"
           ],
-          "template": "논란 집합",
+          "template": "자산 서열",
           "score": 7.4,
           "dup_check": {
             "is_duplicate": false,
@@ -413,26 +386,26 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+          "title": "\"우승, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
           "article_count": 5,
           "source_article": "깜짝 폭로! '韓 에이스' 김민재, 21호 프리미어리거 거부...'유로파 우승' 빌라 관심 \"가능성 낮아, 노팅엄은 이미 거절\"",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
+            "우승",
             "하영",
             "사과문",
             "좋아요",
-            "중증외",
-            "상센터"
+            "중증외"
           ],
           "template": "스포츠 기록",
           "score": 7.3,
@@ -478,6 +451,39 @@
               "배우자",
               "결혼 시점",
               "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 3,
+          "source_article": "깜짝 폭로! '韓 에이스' 김민재, 21호 프리미어리거 거부...'유로파 우승' 빌라 관심 \"가능성 낮아, 노팅엄은 이미 거절\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "황정민",
+            "폭로녀",
+            "돌연",
+            "잠적",
+            "벌금"
+          ],
+          "template": "논란 집합",
+          "score": 7.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
@@ -540,39 +546,6 @@
               "배우자",
               "결혼 시점",
               "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 3,
-          "source_article": "3살짜리 1억뷰 인플루언서, 자택 공개됐다…넓직한 내부 눈길 ('홈즈')",
-          "source_url": "https://m.entertain.naver.com/article/312/0000771743",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "살짜리",
-            "억뷰",
-            "인플루",
-            "언서",
-            "자택"
-          ],
-          "template": "자산 서열",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
             ]
           },
           "channel": "정보주는하마"
@@ -698,35 +671,6 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"임신\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 임신",
-          "article_count": 4,
-          "source_article": "박주호♥안나, 넷째 임신 전격 발표…“희망 찾아왔다”",
-          "source_url": "https://m.entertain.naver.com/article/468/0001259810",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "임신"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
           "title": "\"넷째\" 관련 화제 스타 TOP10",
           "angle_type": "👤 넷째",
           "article_count": 4,
@@ -754,6 +698,35 @@
             ]
           },
           "channel": "정보주는하마"
+        },
+        {
+          "title": "\"임신\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 임신",
+          "article_count": 4,
+          "source_article": "박주호♥안나, 넷째 임신 전격 발표…“희망 찾아왔다”",
+          "source_url": "https://m.entertain.naver.com/article/468/0001259810",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "임신"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
         }
       ],
       "keyword_freq": [
@@ -778,11 +751,11 @@
           4
         ],
         [
-          "임신",
+          "넷째",
           4
         ],
         [
-          "넷째",
+          "임신",
           4
         ],
         [
@@ -794,15 +767,11 @@
           2
         ],
         [
-          "마음",
+          "심용환",
           2
         ],
         [
           "신중해야",
-          2
-        ],
-        [
-          "심용환",
           2
         ],
         [
@@ -826,15 +795,19 @@
           2
         ],
         [
+          "광예원",
+          2
+        ],
+        [
+          "많이",
+          2
+        ],
+        [
           "한채아",
           2
         ],
         [
           "진절머리",
-          2
-        ],
-        [
-          "광예원",
           2
         ]
       ],
@@ -860,11 +833,11 @@
           4
         ],
         [
-          "임신",
+          "넷째",
           4
         ],
         [
-          "넷째",
+          "임신",
           4
         ],
         [
@@ -876,19 +849,15 @@
           2
         ],
         [
-          "마음",
-          2
-        ],
-        [
           "신중해",
           2
         ],
         [
-          "심용환",
+          "친일파",
           2
         ],
         [
-          "친일파",
+          "심용환",
           2
         ],
         [
@@ -897,6 +866,10 @@
         ],
         [
           "황정민",
+          2
+        ],
+        [
+          "준비",
           2
         ]
       ],
@@ -924,24 +897,24 @@
       ]
     },
     "초구딱": {
-      "article_count": 39,
+      "article_count": 12,
       "topics": [
         {
-          "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "title": "\"홈런, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
           "article_count": 8,
-          "source_article": "린샤오쥔, 대한민국 국적 버렸는데 날벼락!…단거리 라이벌 우다징 '中 대표팀 감독 부임'→'현역 연장 결심' LIN 충격 변수 맞았다",
+          "source_article": "\"한국서 14kg 쪘다\" 대체 뭘 먹었길래, KBO 역수출 최고 성공작…5년 만에 구속 5km 상승, 내년 연봉 '초대박' 예고",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "감독",
-            "대한민",
-            "대표팀",
-            "부임",
-            "홈런"
+            "홈런",
+            "역수출",
+            "초대박",
+            "이적",
+            "한국서"
           ],
           "template": "스포츠 기록",
-          "score": 7.3,
+          "score": 7.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -960,18 +933,18 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+          "title": "\"초대박, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
           "angle_type": "자산·몸값",
           "article_count": 2,
           "source_article": "\"한국서 14kg 쪘다\" 대체 뭘 먹었길래, KBO 역수출 최고 성공작…5년 만에 구속 5km 상승, 내년 연봉 '초대박' 예고",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
+            "초대박",
             "한국서",
             "쪘다",
             "대체",
-            "먹었길",
-            "역수출"
+            "먹었길"
           ],
           "template": "자산 서열",
           "score": 7.0,
@@ -993,17 +966,17 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"안내\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 안내",
+          "title": "\"연장\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 연장",
           "article_count": 3,
-          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-          "source_name": "MLB파크 불펜",
+          "source_article": "린샤오쥔, 대한민국 국적 버렸는데 날벼락!…단거리 라이벌 우다징 '中 대표팀 감독 부임'→'현역 연장 결심' LIN 충격 변수 맞았다",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "안내"
+            "연장"
           ],
           "template": "인맥",
-          "score": 6.0,
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -1024,11 +997,11 @@
       ],
       "keyword_freq": [
         [
-          "감독",
-          4
+          "홈런",
+          3
         ],
         [
-          "안내",
+          "연장",
           3
         ],
         [
@@ -1036,125 +1009,105 @@
           2
         ],
         [
-          "대한민국",
+          "역수출",
           2
         ],
         [
-          "부임",
+          "초대박",
           2
         ],
         [
-          "연장",
+          "이적",
           2
         ],
         [
-          "홈런",
+          "현역",
           2
         ],
         [
-          "업데이트",
+          "야구",
           2
         ],
         [
-          "이벤트",
-          2
-        ],
-        [
-          "워터밤",
-          2
-        ],
-        [
-          "당첨자",
-          2
-        ],
-        [
-          "엠팍",
-          2
-        ],
-        [
-          "나스닥",
-          2
-        ],
-        [
-          "버렸는데",
+          "마무리",
           1
         ],
         [
-          "라이벌",
+          "오승환",
           1
         ],
         [
-          "결심",
+          "김병현",
           1
         ],
         [
-          "린샤오쥔",
+          "기록까지",
           1
         ],
         [
-          "날벼락",
+          "뛰어",
           1
         ],
         [
-          "변수",
+          "넘었고",
           1
         ],
         [
-          "국적",
+          "이미",
+          1
+        ],
+        [
+          "넘을까",
+          1
+        ],
+        [
+          "이러다",
+          1
+        ],
+        [
+          "걱정",
+          1
+        ],
+        [
+          "성공작",
+          1
+        ],
+        [
+          "연봉",
           1
         ]
       ],
       "name_freq": [
         [
-          "감독",
-          4
-        ],
-        [
-          "안내",
+          "홈런",
           3
         ],
         [
           "연장",
-          2
-        ],
-        [
-          "대한민",
-          2
+          3
         ],
         [
           "대표팀",
           2
         ],
         [
-          "부임",
+          "역수출",
           2
         ],
         [
-          "홈런",
+          "초대박",
           2
         ],
         [
-          "업데이",
+          "이적",
           2
         ],
         [
-          "이벤트",
+          "현역",
           2
         ],
         [
-          "워터밤",
-          2
-        ],
-        [
-          "당첨자",
-          2
-        ],
-        [
-          "엠팍",
-          2
-        ],
-        [
-          "나스닥",
+          "야구",
           2
         ]
       ],
@@ -1172,20 +1125,20 @@
   },
   "topics": [
     {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-      "angle_type": "논란·사건",
+      "title": "\"이강인, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
       "article_count": 3,
-      "source_article": "‘황정민 폭로녀’, 돌연 잠적…‘벌금 3배’ 구형받고 SNS 사라져",
-      "source_url": "https://m.entertain.naver.com/article/468/0001259615",
-      "source_name": "엔터 많이 본 뉴스",
+      "source_article": "이강인 효과 미쳤다! 아틀레티코, 벌써 이강인 이적료 다 벌었다...유니폼 완판에 이어 320억원에 한국 기업과 스폰서십 체결 임박!",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "황정민",
-        "폭로녀",
-        "돌연",
-        "잠적",
-        "벌금"
+        "이강인",
+        "살짜리",
+        "억뷰",
+        "인플루",
+        "언서"
       ],
-      "template": "논란 집합",
+      "template": "자산 서열",
       "score": 7.4,
       "dup_check": {
         "is_duplicate": false,
@@ -1197,26 +1150,26 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+      "title": "\"우승, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
       "article_count": 5,
       "source_article": "깜짝 폭로! '韓 에이스' 김민재, 21호 프리미어리거 거부...'유로파 우승' 빌라 관심 \"가능성 낮아, 노팅엄은 이미 거절\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
+        "우승",
         "하영",
         "사과문",
         "좋아요",
-        "중증외",
-        "상센터"
+        "중증외"
       ],
       "template": "스포츠 기록",
       "score": 7.3,
@@ -1262,6 +1215,39 @@
           "배우자",
           "결혼 시점",
           "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 3,
+      "source_article": "깜짝 폭로! '韓 에이스' 김민재, 21호 프리미어리거 거부...'유로파 우승' 빌라 관심 \"가능성 낮아, 노팅엄은 이미 거절\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "황정민",
+        "폭로녀",
+        "돌연",
+        "잠적",
+        "벌금"
+      ],
+      "template": "논란 집합",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
@@ -1324,39 +1310,6 @@
           "배우자",
           "결혼 시점",
           "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 3,
-      "source_article": "3살짜리 1억뷰 인플루언서, 자택 공개됐다…넓직한 내부 눈길 ('홈즈')",
-      "source_url": "https://m.entertain.naver.com/article/312/0000771743",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "살짜리",
-        "억뷰",
-        "인플루",
-        "언서",
-        "자택"
-      ],
-      "template": "자산 서열",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
         ]
       },
       "channel": "정보주는하마"
@@ -1482,14 +1435,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"임신\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 임신",
+      "title": "\"넷째\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 넷째",
       "article_count": 4,
       "source_article": "박주호♥안나, 넷째 임신 전격 발표…“희망 찾아왔다”",
       "source_url": "https://m.entertain.naver.com/article/468/0001259810",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "임신"
+        "넷째"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1511,14 +1464,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"넷째\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 넷째",
+      "title": "\"임신\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 임신",
       "article_count": 4,
       "source_article": "박주호♥안나, 넷째 임신 전격 발표…“희망 찾아왔다”",
       "source_url": "https://m.entertain.naver.com/article/468/0001259810",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "넷째"
+        "임신"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1542,20 +1495,20 @@
   ],
   "all_topics": [
     {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-      "angle_type": "논란·사건",
+      "title": "\"이강인, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
       "article_count": 3,
-      "source_article": "‘황정민 폭로녀’, 돌연 잠적…‘벌금 3배’ 구형받고 SNS 사라져",
-      "source_url": "https://m.entertain.naver.com/article/468/0001259615",
-      "source_name": "엔터 많이 본 뉴스",
+      "source_article": "이강인 효과 미쳤다! 아틀레티코, 벌써 이강인 이적료 다 벌었다...유니폼 완판에 이어 320억원에 한국 기업과 스폰서십 체결 임박!",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "황정민",
-        "폭로녀",
-        "돌연",
-        "잠적",
-        "벌금"
+        "이강인",
+        "살짜리",
+        "억뷰",
+        "인플루",
+        "언서"
       ],
-      "template": "논란 집합",
+      "template": "자산 서열",
       "score": 7.4,
       "dup_check": {
         "is_duplicate": false,
@@ -1567,26 +1520,26 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+      "title": "\"우승, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
       "article_count": 5,
       "source_article": "깜짝 폭로! '韓 에이스' 김민재, 21호 프리미어리거 거부...'유로파 우승' 빌라 관심 \"가능성 낮아, 노팅엄은 이미 거절\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
+        "우승",
         "하영",
         "사과문",
         "좋아요",
-        "중증외",
-        "상센터"
+        "중증외"
       ],
       "template": "스포츠 기록",
       "score": 7.3,
@@ -1632,6 +1585,39 @@
           "배우자",
           "결혼 시점",
           "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 3,
+      "source_article": "깜짝 폭로! '韓 에이스' 김민재, 21호 프리미어리거 거부...'유로파 우승' 빌라 관심 \"가능성 낮아, 노팅엄은 이미 거절\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "황정민",
+        "폭로녀",
+        "돌연",
+        "잠적",
+        "벌금"
+      ],
+      "template": "논란 집합",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
@@ -1694,39 +1680,6 @@
           "배우자",
           "결혼 시점",
           "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 3,
-      "source_article": "3살짜리 1억뷰 인플루언서, 자택 공개됐다…넓직한 내부 눈길 ('홈즈')",
-      "source_url": "https://m.entertain.naver.com/article/312/0000771743",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "살짜리",
-        "억뷰",
-        "인플루",
-        "언서",
-        "자택"
-      ],
-      "template": "자산 서열",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
         ]
       },
       "channel": "정보주는하마"
@@ -1852,35 +1805,6 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"임신\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 임신",
-      "article_count": 4,
-      "source_article": "박주호♥안나, 넷째 임신 전격 발표…“희망 찾아왔다”",
-      "source_url": "https://m.entertain.naver.com/article/468/0001259810",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "임신"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"넷째\" 관련 화제 스타 TOP10",
       "angle_type": "👤 넷째",
       "article_count": 4,
@@ -1910,21 +1834,50 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"임신\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 임신",
+      "article_count": 4,
+      "source_article": "박주호♥안나, 넷째 임신 전격 발표…“희망 찾아왔다”",
+      "source_url": "https://m.entertain.naver.com/article/468/0001259810",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "임신"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"홈런, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
       "article_count": 8,
-      "source_article": "린샤오쥔, 대한민국 국적 버렸는데 날벼락!…단거리 라이벌 우다징 '中 대표팀 감독 부임'→'현역 연장 결심' LIN 충격 변수 맞았다",
+      "source_article": "\"한국서 14kg 쪘다\" 대체 뭘 먹었길래, KBO 역수출 최고 성공작…5년 만에 구속 5km 상승, 내년 연봉 '초대박' 예고",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "감독",
-        "대한민",
-        "대표팀",
-        "부임",
-        "홈런"
+        "홈런",
+        "역수출",
+        "초대박",
+        "이적",
+        "한국서"
       ],
       "template": "스포츠 기록",
-      "score": 7.3,
+      "score": 7.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1943,18 +1896,18 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+      "title": "\"초대박, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
       "angle_type": "자산·몸값",
       "article_count": 2,
       "source_article": "\"한국서 14kg 쪘다\" 대체 뭘 먹었길래, KBO 역수출 최고 성공작…5년 만에 구속 5km 상승, 내년 연봉 '초대박' 예고",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
+        "초대박",
         "한국서",
         "쪘다",
         "대체",
-        "먹었길",
-        "역수출"
+        "먹었길"
       ],
       "template": "자산 서열",
       "score": 7.0,
@@ -1976,17 +1929,17 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
+      "title": "\"연장\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 연장",
       "article_count": 3,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
+      "source_article": "린샤오쥔, 대한민국 국적 버렸는데 날벼락!…단거리 라이벌 우다징 '中 대표팀 감독 부임'→'현역 연장 결심' LIN 충격 변수 맞았다",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "안내"
+        "연장"
       ],
       "template": "인맥",
-      "score": 6.0,
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2027,11 +1980,11 @@
       4
     ],
     [
-      "임신",
+      "넷째",
       4
     ],
     [
-      "넷째",
+      "임신",
       4
     ],
     [
@@ -2043,15 +1996,11 @@
       2
     ],
     [
-      "마음",
+      "심용환",
       2
     ],
     [
       "신중해야",
-      2
-    ],
-    [
-      "심용환",
       2
     ],
     [
@@ -2075,15 +2024,19 @@
       2
     ],
     [
+      "광예원",
+      2
+    ],
+    [
+      "많이",
+      2
+    ],
+    [
       "한채아",
       2
     ],
     [
       "진절머리",
-      2
-    ],
-    [
-      "광예원",
       2
     ]
   ],
@@ -2109,11 +2062,11 @@
       4
     ],
     [
-      "임신",
+      "넷째",
       4
     ],
     [
-      "넷째",
+      "임신",
       4
     ],
     [
@@ -2125,19 +2078,15 @@
       2
     ],
     [
-      "마음",
-      2
-    ],
-    [
       "신중해",
       2
     ],
     [
-      "심용환",
+      "친일파",
       2
     ],
     [
-      "친일파",
+      "심용환",
       2
     ],
     [
@@ -2146,6 +2095,10 @@
     ],
     [
       "황정민",
+      2
+    ],
+    [
+      "준비",
       2
     ]
   ],
