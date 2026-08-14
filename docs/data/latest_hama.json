@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-14 14:06:03",
+  "scan_time": "2026-08-14 17:50:07",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,16 +8,16 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 0
+    "MLB파크 불펜": 30
   },
-  "total_articles": 50,
+  "total_articles": 80,
   "articles": [
     {
-      "title": "유리, 남편 공개했다",
-      "url": "https://m.entertain.naver.com/article/003/0014126885",
+      "title": "전현무, 7시간 날아가 고작 29시간 여행…“왜 이러는 거야!” 혼비백산 (나혼산)",
+      "url": "https://m.entertain.naver.com/article/382/0001288203",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 49122,
+      "views": 56693,
       "rank": 1,
       "channel": "정보주는하마"
     },
@@ -26,8 +26,17 @@
       "url": "https://m.entertain.naver.com/article/108/0003462057",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 37993,
+      "views": 50055,
       "rank": 2,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "유리, 남편 공개했다",
+      "url": "https://m.entertain.naver.com/article/003/0014126885",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 45563,
+      "rank": 3,
       "channel": "정보주는하마"
     },
     {
@@ -35,8 +44,17 @@
       "url": "https://m.entertain.naver.com/article/445/0000450071",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 34471,
-      "rank": 3,
+      "views": 33544,
+      "rank": 4,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'김준호♥' 김지민, 볼록해진 D라인에 \"원래있던 똥배, 속옷·바지 다 안맞는다\"",
+      "url": "https://m.entertain.naver.com/article/076/0004435992",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 30362,
+      "rank": 5,
       "channel": "정보주는하마"
     },
     {
@@ -44,25 +62,7 @@
       "url": "https://m.entertain.naver.com/article/076/0004435839",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 31023,
-      "rank": 4,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"우리나라에서 거의 약간..\" 유병재, 하영 '의사 집안' 자랑에 '멈칫' 재조명",
-      "url": "https://m.entertain.naver.com/article/108/0003462162",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 29849,
-      "rank": 5,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "김민희, 출산 후 첫 공식석상…홍상수와 나란히 로카르노 등장",
-      "url": "https://m.entertain.naver.com/article/410/0001136276",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 27921,
+      "views": 29729,
       "rank": 6,
       "channel": "정보주는하마"
     },
@@ -71,44 +71,53 @@
       "url": "https://m.entertain.naver.com/article/108/0003461949",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 27805,
+      "views": 26218,
       "rank": 7,
       "channel": "정보주는하마"
     },
     {
-      "title": "하영, '증조부 친일' 사과문 돌연 삭제…인스타는 그대로, 중국 SNS만 지웠다",
-      "url": "https://m.entertain.naver.com/article/311/0002045274",
+      "title": "김민희, 출산 후 첫 공식석상…홍상수와 나란히 로카르노 등장",
+      "url": "https://m.entertain.naver.com/article/410/0001136276",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 27597,
+      "views": 25761,
       "rank": 8,
       "channel": "정보주는하마"
     },
     {
-      "title": "'김구 증손자' 김용만, 하영 증조부 친일 논란에 \"부모 못 고르지만..\"",
-      "url": "https://m.entertain.naver.com/article/108/0003462165",
+      "title": "유병재, 쎄함 감지했나…하영 ‘증조부 의사’ 발언에 보인 반응 재조명",
+      "url": "https://m.entertain.naver.com/article/016/0002684226",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 26765,
+      "views": 20801,
       "rank": 9,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"유튜브 나가서 해라\"…최민식, 류혜영에 버럭",
-      "url": "https://m.entertain.naver.com/article/003/0014128883",
+      "title": "\"우리나라에서 거의 약간..\" 유병재, 하영 '의사 집안' 자랑에 '멈칫' 재조명",
+      "url": "https://m.entertain.naver.com/article/108/0003462162",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 25920,
+      "views": 20080,
       "rank": 10,
       "channel": "정보주는하마"
     },
     {
-      "title": "전현무, 7시간 날아가 고작 29시간 여행…“왜 이러는 거야!” 혼비백산 (나혼산)",
-      "url": "https://m.entertain.naver.com/article/382/0001288203",
+      "title": "\"충격에 영상까지 멈췄다\"...이동건, '라면부부' 기막힌 육아 실태에 '경악' ('이혼숙려캠프')",
+      "url": "https://m.entertain.naver.com/article/109/0005588380",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 23153,
+      "views": 16966,
       "rank": 11,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "‘아들맘’ 김민희, 꾸밈 다 내려놨다…새치 헤어에 실밥 보이는 의상까지 ‘내추럴 스타일’",
+      "url": "https://m.entertain.naver.com/article/410/0001136347",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 14148,
+      "rank": 12,
       "channel": "정보주는하마"
     },
     {
@@ -116,16 +125,7 @@
       "url": "https://m.entertain.naver.com/article/312/0000771949",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 23127,
-      "rank": 12,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "‘동문 노윤서 소환’ 하영 미술 실력까지 화제더니, 대학 편입설은 “확인 불가”",
-      "url": "https://m.entertain.naver.com/article/609/0001157103",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 18696,
+      "views": 13507,
       "rank": 13,
       "channel": "정보주는하마"
     },
@@ -134,89 +134,26 @@
       "url": "https://m.entertain.naver.com/article/312/0000771938",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 16304,
+      "views": 12114,
       "rank": 14,
       "channel": "정보주는하마"
     },
     {
-      "title": "'주식 고수'라더니 깡통 차기 직전?… 최화정, -94.87% 폭망에 '상폐' 위기",
-      "url": "https://m.entertain.naver.com/article/117/0004094747",
+      "title": "하영, '증조부 친일' 사과문 돌연 삭제…인스타는 그대로, 중국 SNS만 지웠다",
+      "url": "https://m.entertain.naver.com/article/311/0002045274",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 16064,
+      "views": 9366,
       "rank": 15,
       "channel": "정보주는하마"
     },
     {
-      "title": "‘아들맘’ 김민희, 꾸밈 다 내려놨다…새치 헤어에 실밥 보이는 의상까지 ‘내추럴 스타일’",
-      "url": "https://m.entertain.naver.com/article/410/0001136347",
+      "title": "장윤주, 딸과 놀이터에 있어도 대시 받는다‥남편 질투 “롱패딩 입고 가야”",
+      "url": "https://m.entertain.naver.com/article/609/0001156965",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 14178,
+      "views": 8712,
       "rank": 16,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "친일파 증손녀 파장, 독립운동가 증손녀★ 곽민선 입 열었다 “전재산 바친 내 증조부, 비통해”",
-      "url": "https://m.entertain.naver.com/article/609/0001157105",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 11499,
-      "rank": 17,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'32기 광수♥' 옥순, '나솔' 출연 수년간 거부했었다…\"이혼 후 일만 하고 살아\"",
-      "url": "https://m.entertain.naver.com/article/311/0002045159",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 9951,
-      "rank": 18,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "황재균 맞아?…또 몰라보게 달라진 얼굴, 대체 관리를 어떻게 했길래",
-      "url": "https://m.entertain.naver.com/article/312/0000771920",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 8873,
-      "rank": 19,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'김준호♥' 김지민, D라인 공개 후..온가족 평온한 태교 일상",
-      "url": "https://m.entertain.naver.com/article/108/0003462003",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 8567,
-      "rank": 20,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "슈, 극단적 식단에 망가진 피부‥달라진 근황에 25년지기도 팩폭(터치미)",
-      "url": "https://m.entertain.naver.com/article/609/0001156860",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 8273,
-      "rank": 21,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'기성용♥' 한혜진, 7년간 영국에 살았는데…영어 공부 8개월째 \"배워도 배워도 어렵다\" (한혜진)",
-      "url": "https://m.entertain.naver.com/article/311/0002045316",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 7766,
-      "rank": 22,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "개그맨 이진호, 도박·음주운전 혐의 인정..검찰, 징역 2년 구형",
-      "url": "https://m.entertain.naver.com/article/108/0003462059",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 7674,
-      "rank": 23,
       "channel": "정보주는하마"
     },
     {
@@ -224,26 +161,8 @@
       "url": "https://m.entertain.naver.com/article/144/0001131923",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 7027,
-      "rank": 24,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "결혼식 비용도 남편이 다 부담… ♥김지영, 이번엔 도우미 찬스까지 플렉스",
-      "url": "https://m.entertain.naver.com/article/312/0000771928",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 6813,
-      "rank": 25,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "‘독립운동가 후손’ 이인철 변호사, 하영 가족에 “상해임시정부 직접 가보길” 눈물(더펀치)",
-      "url": "https://m.entertain.naver.com/article/609/0001157054",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 6478,
-      "rank": 26,
+      "views": 8132,
+      "rank": 17,
       "channel": "정보주는하마"
     },
     {
@@ -251,43 +170,124 @@
       "url": "https://m.entertain.naver.com/article/609/0001157001",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 6388,
+      "views": 7884,
+      "rank": 18,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'기성용♥' 한혜진, 7년간 영국에 살았는데…영어 공부 8개월째 \"배워도 배워도 어렵다\" (한혜진)",
+      "url": "https://m.entertain.naver.com/article/311/0002045316",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 7785,
+      "rank": 19,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'32기 광수♥' 옥순, '나솔' 출연 수년간 거부했었다…\"이혼 후 일만 하고 살아\"",
+      "url": "https://m.entertain.naver.com/article/311/0002045159",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 7675,
+      "rank": 20,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "독립운동가 자손 곽민선, 하영 논란 의식한 듯한 심경 고백 “누군가는 증조부가 자랑스러웠다던데, 비통하고 먹먹”",
+      "url": "https://m.entertain.naver.com/article/144/0001131904",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 7037,
+      "rank": 21,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'친일파 논란' 하영, 동문 노윤서와 '극과 극'→이번엔 미대 편입설…소속사 \"확인 어려워\"",
+      "url": "https://m.entertain.naver.com/article/213/0001397964",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 6928,
+      "rank": 22,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'주식 고수'라더니 깡통 차기 직전?… 최화정, -94.87% 폭망에 '상폐' 위기",
+      "url": "https://m.entertain.naver.com/article/117/0004094747",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 6618,
+      "rank": 23,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "황재균 맞아?…또 몰라보게 달라진 얼굴, 대체 관리를 어떻게 했길래",
+      "url": "https://m.entertain.naver.com/article/312/0000771920",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 6592,
+      "rank": 24,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "강부자 “아들=美 의과대학 연구원, 패혈증으로 생사 위기까지”(데이앤나잇)",
+      "url": "https://m.entertain.naver.com/article/609/0001156863",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 6197,
+      "rank": 25,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "결혼식 비용도 남편이 다 부담… ♥김지영, 이번엔 도우미 찬스까지 플렉스",
+      "url": "https://m.entertain.naver.com/article/312/0000771928",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 5946,
+      "rank": 26,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'김준호♥' 김지민, D라인 공개 후..온가족 평온한 태교 일상",
+      "url": "https://m.entertain.naver.com/article/108/0003462003",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 5935,
       "rank": 27,
       "channel": "정보주는하마"
     },
     {
-      "title": "맹승지, ♥의사 남자친구와 열애 발표 \"나랑 제일 많이 쫑알대는 사람\"",
-      "url": "https://m.entertain.naver.com/article/311/0002045146",
+      "title": "'CEO♥' 김지영, 도우미에 신생아 맡기고 외출 \"모든 것이 짜릿, 고자극 세상\"",
+      "url": "https://m.entertain.naver.com/article/076/0004435994",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 6245,
+      "views": 5766,
       "rank": 28,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"장례식장서 향 냄새 맡는데 미쳐버리겠더라\"…김혜준, 영정사진 보면서 오열 ('킬쇼2')",
-      "url": "https://m.entertain.naver.com/article/312/0000771889",
+      "title": "개그맨 이진호, 도박·음주운전 혐의 인정..검찰, 징역 2년 구형",
+      "url": "https://m.entertain.naver.com/article/108/0003462059",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 6244,
+      "views": 5552,
       "rank": 29,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"명성황후 시신에 석유 뿌린 매국노 중매로..\" 하영 증조부, 日 아내와 결혼 비화",
-      "url": "https://m.entertain.naver.com/article/108/0003462137",
+      "title": "'김구 증손자' 김용만, 하영 증조부 친일 논란에 \"부모 못 고르지만..\"",
+      "url": "https://m.entertain.naver.com/article/108/0003462165",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 6218,
+      "views": 5427,
       "rank": 30,
       "channel": "정보주는하마"
     },
     {
-      "title": "오타니가 다시 FA로 풀린다고?…다저스 9942억 초대형 계약 뒤흔들 '키맨 조항' 재조명",
+      "title": "테니스 황제의 추락, 무려 737억 허공에…억만장자 타이틀 뺏겼다→스포츠 브랜드 주가 20% 폭락",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 16375,
+      "views": 347872,
       "rank": 1,
       "channel": "정보주는하마"
     },
@@ -296,53 +296,35 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 12531,
-      "rank": 2,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"머리를 매일 감는다고?\"…日 19세 배구 스타 독일서 '문화충격'→팀 전체에 소문났다",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 10845,
+      "views": 257024,
       "rank": 3,
       "channel": "정보주는하마"
     },
     {
-      "title": "손흥민, 결국 리그스컵 탈락… '경우의 수' 또다시 손흥민 외면",
+      "title": "\"韓 축구 '인간승리' 아이콘\" 조규성, 미트윌란 떠나 日 J리그 둥지 트나…마치다 젤비아 영입 추진",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 9422,
-      "rank": 4,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'충격 비보' 후두부 공격→식물인간 상태→끝내 사망...'비운의 복싱 유망주' 콜론, 11년 투병 끝에 하늘의 별로",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 8264,
+      "views": 199194,
       "rank": 5,
       "channel": "정보주는하마"
     },
     {
-      "title": "'중견수 문현빈' 실험 결국 실패...\"감독님은 한화를 떠나실 때 무엇을 남기고 싶으신가요\"",
+      "title": "14살 연상 아내 얼마나 좋길래…\"여성이 세상 운영해야\" 이안 개리 '퐁퐁' 발언→UFC 女 챔피언 오히려 돌직구 \"남자의 보호·주도 원해\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 7069,
-      "rank": 7,
+      "views": 176616,
+      "rank": 6,
       "channel": "정보주는하마"
     },
     {
-      "title": "韓 축구 낭보! '8호 라리가 코리안 리거' 김민수, 안도라 임대 성공→지로나 1군 정식 등록…피케도 \"매우 큰 잠재력\" 극찬",
+      "title": "韓 축구 쾌거, 21호 프리미어리거 보인다! '뉴캐슬 유망주' 박승수, PL이 뽑은 2026-27시즌 주목할 재능…\"고든 떠나 기회 많아질 것\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 6562,
-      "rank": 8,
+      "views": 146832,
+      "rank": 10,
       "channel": "정보주는하마"
     },
     {
@@ -350,109 +332,58 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 5786,
+      "views": 122460,
+      "rank": 12,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "오타니가 다시 FA로 풀린다고?…다저스 9942억 초대형 계약 뒤흔들 '키맨 조항' 재조명",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 114961,
+      "rank": 13,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "대한민국 차기 사령탑 '초대박 매물' 사라졌다...'월드컵 준우승 명장' 다리치, UAE행",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 112200,
       "rank": 14,
       "channel": "정보주는하마"
     },
     {
-      "title": "미쳤다! 2007년생 韓 초신성, EPL 공식 선정! 26-27시즌 대형 유망주 등극...처참한 프리미어리거 현실, 박승수 '16호' 희망으로 우뚝",
+      "title": "\"정말 잘생겨, 시간 멈춘 것 같더라\" 은퇴 기자회견서 깜짝 결혼 발표 후일담...사카모토 남편? \"사랑에 빠질 법한 실물\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 5680,
-      "rank": 15,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "KIA, 日 25세 우완 '5이닝 77구' 조기 강판 이유 있었네!…\"손가락 물집 살짝 잡혀, 다음 등판 100구 기대\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 5596,
-      "rank": 16,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "감격! 단숨에 국민 영웅 등극 \"이렇게 큰 사랑 받다니\"...'필리핀 초대형 스타' 이알라, 새로운 시험대 앞서 \"나는 행운아\" 감동 메시지",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 5595,
-      "rank": 17,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "韓 축구 초대형 반전! '괴물 수비수' 김민재, 다시 인기 폭발…노팅엄 접근+아스톤 빌라 관심 재점화→본인은 '뮌헨 잔류' 원한다",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 5519,
-      "rank": 18,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'탈아시아' 이강인 플레이에 감탄한 국대 수비수…“한국에서 축구했으면 나오기 힘들다\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 5023,
-      "rank": 20,
+      "views": 101771,
+      "rank": 19,
       "channel": "정보주는하마"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 43,
+      "article_count": 39,
       "topics": [
-        {
-          "title": "\"하영이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 5,
-          "source_article": "'김구 증손자' 김용만, 하영 증조부 친일 논란에 \"부모 못 고르지만..\"",
-          "source_url": "https://m.entertain.naver.com/article/108/0003462165",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "하영",
-            "김구",
-            "증손자",
-            "김용만",
-            "증조부"
-          ],
-          "template": "동갑내기",
-          "score": 7.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
         {
           "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
           "angle_type": "결혼·이혼",
           "article_count": 10,
-          "source_article": "강유미, 이혼 4년 만 고백 \"결혼 생활 중에도 각방, 이혼은 나 하나로 족해\" ('홈즈')",
-          "source_url": "https://m.entertain.naver.com/article/076/0004435839",
-          "source_name": "엔터 많이 본 뉴스",
+          "source_article": "'막장' 국가대표팀 내 불륜→충격적 이혼에 '발칵' 뒤집혔는데... \"협회는 뭐 하는 건가\" 분노 폭발",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "결혼",
             "이혼",
             "임신",
-            "열애",
-            "강유미"
+            "강유미",
+            "고백"
           ],
           "template": "결혼 화제",
-          "score": 7.1,
+          "score": 7.6,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -471,17 +402,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"초대형 자산이 얼마?\" 초대형급 자산가 스타 TOP10",
-          "angle_type": "👤 초대형",
-          "article_count": 3,
-          "source_article": "오타니가 다시 FA로 풀린다고?…다저스 9942억 초대형 계약 뒤흔들 '키맨 조항' 재조명",
+          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 4,
+          "source_article": "\"한국 축구 다시 최고 수준으로\" '전설' 스토이코비치, 대표팀 감독직 공개 도전...단, '임시'는 싫다",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "초대형"
+            "임신",
+            "김민경",
+            "같은",
+            "병실",
+            "산모"
           ],
-          "template": "자산 서열",
-          "score": 7.0,
+          "template": "스포츠 기록",
+          "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -491,29 +426,29 @@
           },
           "table": {
             "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"증손녀, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 2,
-          "source_article": "오타니가 다시 FA로 풀린다고?…다저스 9942억 초대형 계약 뒤흔들 '키맨 조항' 재조명",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+          "angle_type": "가족·혈연",
+          "article_count": 6,
+          "source_article": "‘아들맘’ 김민희, 꾸밈 다 내려놨다…새치 헤어에 실밥 보이는 의상까지 ‘내추럴 스타일’",
+          "source_url": "https://m.entertain.naver.com/article/410/0001136347",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "증손녀",
-            "친일파",
-            "파장",
-            "독립운",
-            "동가"
+            "아들맘",
+            "김민희",
+            "꾸밈",
+            "내려놨",
+            "새치"
           ],
-          "template": "자산 서열",
+          "template": "동갑내기",
           "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
@@ -525,26 +460,26 @@
           "table": {
             "headers": [
               "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
+              "나이",
+              "대표작",
+              "현재 활동"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+          "title": "\"하영까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
           "angle_type": "논란·사건",
-          "article_count": 2,
-          "source_article": "'김구 증손자' 김용만, 하영 증조부 친일 논란에 \"부모 못 고르지만..\"",
-          "source_url": "https://m.entertain.naver.com/article/108/0003462165",
+          "article_count": 4,
+          "source_article": "독립운동가 자손 곽민선, 하영 논란 의식한 듯한 심경 고백 “누군가는 증조부가 자랑스러웠다던데, 비통하고 먹먹”",
+          "source_url": "https://m.entertain.naver.com/article/144/0001131904",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "김구",
-            "증손자",
-            "김용만",
             "하영",
-            "증조부"
+            "증조부",
+            "독립운",
+            "동가",
+            "자손"
           ],
           "template": "논란 집합",
           "score": 6.5,
@@ -595,10 +530,39 @@
           "channel": "정보주는하마"
         },
         {
+          "title": "\"재조명 자산이 얼마?\" 재조명급 자산가 스타 TOP10",
+          "angle_type": "👤 재조명",
+          "article_count": 3,
+          "source_article": "유병재, 쎄함 감지했나…하영 ‘증조부 의사’ 발언에 보인 반응 재조명",
+          "source_url": "https://m.entertain.naver.com/article/016/0002684226",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "재조명"
+          ],
+          "template": "자산 서열",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
           "title": "\"축구\" 관련 화제 스타 TOP10",
           "angle_type": "👤 축구",
           "article_count": 3,
-          "source_article": "韓 축구 낭보! '8호 라리가 코리안 리거' 김민수, 안도라 임대 성공→지로나 1군 정식 등록…피케도 \"매우 큰 잠재력\" 극찬",
+          "source_article": "\"韓 축구 '인간승리' 아이콘\" 조규성, 미트윌란 떠나 日 J리그 둥지 트나…마치다 젤비아 영입 추진",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
@@ -624,20 +588,16 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 4,
-          "source_article": "'46세 임신' 김민경, 같은 병실 산모 저격? \"코골이..고요하니 살 거 같아\"",
-          "source_url": "https://m.entertain.naver.com/article/108/0003461949",
+          "title": "\"남편 결혼설?\" 남편 연애사 총정리",
+          "angle_type": "👤 남편",
+          "article_count": 3,
+          "source_article": "유리, 남편 공개했다",
+          "source_url": "https://m.entertain.naver.com/article/003/0014126885",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "임신",
-            "김민경",
-            "같은",
-            "병실",
-            "산모"
+            "남편"
           ],
-          "template": "스포츠 기록",
+          "template": "결혼 화제",
           "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
@@ -648,25 +608,29 @@
           },
           "table": {
             "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"독립운\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 독립운",
-          "article_count": 3,
-          "source_article": "\"하영 증조부, 부자 중의 '큰 부자'\"..아파트 8000세대급 안양 땅 기부, 독립운동가 둔갑?",
-          "source_url": "https://m.entertain.naver.com/article/108/0003462057",
-          "source_name": "엔터 많이 본 뉴스",
+          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 2,
+          "source_article": "테니스 황제의 추락, 무려 737억 허공에…억만장자 타이틀 뺏겼다→스포츠 브랜드 주가 20% 폭락",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "독립운"
+            "테니스",
+            "황제의",
+            "추락",
+            "무려",
+            "허공에"
           ],
-          "template": "인맥",
+          "template": "자산 서열",
           "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
@@ -678,38 +642,9 @@
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"동가\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 동가",
-          "article_count": 3,
-          "source_article": "\"하영 증조부, 부자 중의 '큰 부자'\"..아파트 8000세대급 안양 땅 기부, 독립운동가 둔갑?",
-          "source_url": "https://m.entertain.naver.com/article/108/0003462057",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "동가"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
             ]
           },
           "channel": "정보주는하마"
@@ -742,6 +677,35 @@
             ]
           },
           "channel": "정보주는하마"
+        },
+        {
+          "title": "\"김지민\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 김지민",
+          "article_count": 3,
+          "source_article": "'김준호♥' 김지민, 볼록해진 D라인에 \"원래있던 똥배, 속옷·바지 다 안맞는다\"",
+          "source_url": "https://m.entertain.naver.com/article/076/0004435992",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "김지민"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
         }
       ],
       "keyword_freq": [
@@ -751,10 +715,10 @@
         ],
         [
           "증조부",
-          5
+          4
         ],
         [
-          "독립운동가",
+          "남편",
           3
         ],
         [
@@ -762,11 +726,15 @@
           3
         ],
         [
+          "김지민",
+          3
+        ],
+        [
           "결혼",
           3
         ],
         [
-          "초대형",
+          "재조명",
           3
         ],
         [
@@ -774,15 +742,23 @@
           3
         ],
         [
+          "시간",
+          2
+        ],
+        [
+          "독립운동가",
+          2
+        ],
+        [
+          "김준호",
+          2
+        ],
+        [
+          "고백",
+          2
+        ],
+        [
           "이혼",
-          2
-        ],
-        [
-          "의사",
-          2
-        ],
-        [
-          "재조명",
           2
         ],
         [
@@ -790,39 +766,27 @@
           2
         ],
         [
+          "의사",
+          2
+        ],
+        [
+          "유병재",
+          2
+        ],
+        [
           "친일",
           2
         ],
         [
-          "앞서",
+          "이번엔",
           2
         ],
         [
-          "김지민",
+          "차기",
           2
         ],
         [
-          "달라진",
-          2
-        ],
-        [
-          "열애",
-          2
-        ],
-        [
-          "폭발",
-          2
-        ],
-        [
-          "스타",
-          2
-        ],
-        [
-          "유망주",
-          2
-        ],
-        [
-          "등극",
+          "김지영",
           2
         ]
       ],
@@ -836,11 +800,7 @@
           5
         ],
         [
-          "독립운",
-          3
-        ],
-        [
-          "동가",
+          "남편",
           3
         ],
         [
@@ -848,11 +808,15 @@
           3
         ],
         [
+          "김지민",
+          3
+        ],
+        [
           "결혼",
           3
         ],
         [
-          "초대형",
+          "재조명",
           3
         ],
         [
@@ -860,31 +824,31 @@
           3
         ],
         [
+          "시간",
+          2
+        ],
+        [
+          "독립운",
+          2
+        ],
+        [
+          "동가",
+          2
+        ],
+        [
           "홍상수",
           2
         ],
         [
+          "김준호",
+          2
+        ],
+        [
+          "고백",
+          2
+        ],
+        [
           "이혼",
-          2
-        ],
-        [
-          "의사",
-          2
-        ],
-        [
-          "재조명",
-          2
-        ],
-        [
-          "임신",
-          2
-        ],
-        [
-          "친일",
-          2
-        ],
-        [
-          "앞서",
           2
         ]
       ],
@@ -895,7 +859,7 @@
         ],
         [
           "논란·사건",
-          2
+          4
         ],
         [
           "결혼·이혼",
@@ -907,26 +871,26 @@
         ],
         [
           "가족·혈연",
-          5
+          6
         ]
       ]
     },
     "초구딱": {
-      "article_count": 7,
+      "article_count": 41,
       "topics": [
         {
           "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 7,
-          "source_article": "홍명보 이어 '또' 한국인 감독 선임 가능성, 韓 축구 마주한 '딜레마'",
+          "article_count": 9,
+          "source_article": "이럴거면 울산 왜 창단했나…역사적인 첫 이적, KBO 착오로 끝났다 “좋은 케이스 될 수 있었는데…”",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "감독",
-            "홍명보",
-            "이어",
-            "한국인",
-            "선임"
+            "대한민",
+            "대표팀",
+            "부임",
+            "이정후"
           ],
           "template": "스포츠 기록",
           "score": 7.3,
@@ -946,158 +910,272 @@
             ]
           },
           "channel": "초구딱"
+        },
+        {
+          "title": "\"안내\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안내",
+          "article_count": 3,
+          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "안내"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"태어나\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 태어나",
+          "article_count": 3,
+          "source_article": "8.15에올리는 815번만에 나온 코리아....랜덤 다시 태어나기 힘드네요",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608150117981246&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "태어나"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+          "angle_type": "투병·건강",
+          "article_count": 2,
+          "source_article": "한화 대형 뉴스!…'3일 연속 중견수 교체 아픔' 사라지나→오재원 드디어 반깁스 풀었다→발목 재활 속도 UP \"러닝+캐치볼+티 배팅 훈련 시작\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "한화",
+            "대형",
+            "연속",
+            "중견수",
+            "교체"
+          ],
+          "template": "투병 극복",
+          "score": 5.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "투병 질환",
+              "공백기",
+              "복귀 작품"
+            ]
+          },
+          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
         [
           "감독",
-          4
+          5
         ],
         [
-          "홍명보",
+          "안내",
+          3
+        ],
+        [
+          "태어나기",
+          3
+        ],
+        [
+          "부임",
           2
         ],
         [
-          "이어",
-          1
-        ],
-        [
-          "마주한",
-          1
-        ],
-        [
-          "축구",
-          1
-        ],
-        [
-          "딜레마",
-          1
-        ],
-        [
-          "가능성",
-          1
-        ],
-        [
-          "한국인",
-          1
-        ],
-        [
-          "선임",
-          1
-        ],
-        [
-          "알제리",
-          1
-        ],
-        [
-          "무너트렸던",
-          1
-        ],
-        [
-          "급부상",
-          1
-        ],
-        [
-          "아프리카",
-          1
-        ],
-        [
-          "강력히",
-          1
-        ],
-        [
-          "벤투",
-          1
-        ],
-        [
-          "거론",
-          1
+          "대표팀",
+          2
         ],
         [
           "대한민국",
+          2
+        ],
+        [
+          "연장",
+          2
+        ],
+        [
+          "선수",
+          2
+        ],
+        [
+          "불펜",
+          2
+        ],
+        [
+          "업데이트",
+          2
+        ],
+        [
+          "엠팍",
+          2
+        ],
+        [
+          "당첨자",
+          2
+        ],
+        [
+          "이벤트",
+          2
+        ],
+        [
+          "워터밤",
+          2
+        ],
+        [
+          "랜덤",
+          2
+        ],
+        [
+          "착오로",
           1
         ],
         [
-          "포기하나",
+          "이럴거면",
           1
         ],
         [
-          "끝내",
+          "이적",
           1
         ],
         [
-          "노린다",
+          "역사적인",
+          1
+        ],
+        [
+          "있었는데",
           1
         ]
       ],
       "name_freq": [
         [
           "감독",
-          4
+          5
         ],
         [
-          "홍명보",
+          "안내",
+          3
+        ],
+        [
+          "태어나",
+          3
+        ],
+        [
+          "부임",
+          2
+        ],
+        [
+          "대표팀",
+          2
+        ],
+        [
+          "대한민",
+          2
+        ],
+        [
+          "연장",
+          2
+        ],
+        [
+          "는데",
+          2
+        ],
+        [
+          "선수",
+          2
+        ],
+        [
+          "불펜",
+          2
+        ],
+        [
+          "업데이",
+          2
+        ],
+        [
+          "엠팍",
+          2
+        ],
+        [
+          "당첨자",
+          2
+        ],
+        [
+          "이벤트",
+          2
+        ],
+        [
+          "워터밤",
           2
         ]
       ],
       "angle_scores": [
         [
+          "투병·건강",
+          2
+        ],
+        [
           "스포츠",
-          7
+          9
         ]
       ]
     }
   },
   "topics": [
     {
-      "title": "\"하영이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 5,
-      "source_article": "'김구 증손자' 김용만, 하영 증조부 친일 논란에 \"부모 못 고르지만..\"",
-      "source_url": "https://m.entertain.naver.com/article/108/0003462165",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "하영",
-        "김구",
-        "증손자",
-        "김용만",
-        "증조부"
-      ],
-      "template": "동갑내기",
-      "score": 7.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
       "angle_type": "결혼·이혼",
       "article_count": 10,
-      "source_article": "강유미, 이혼 4년 만 고백 \"결혼 생활 중에도 각방, 이혼은 나 하나로 족해\" ('홈즈')",
-      "source_url": "https://m.entertain.naver.com/article/076/0004435839",
-      "source_name": "엔터 많이 본 뉴스",
+      "source_article": "'막장' 국가대표팀 내 불륜→충격적 이혼에 '발칵' 뒤집혔는데... \"협회는 뭐 하는 건가\" 분노 폭발",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "결혼",
         "이혼",
         "임신",
-        "열애",
-        "강유미"
+        "강유미",
+        "고백"
       ],
       "template": "결혼 화제",
-      "score": 7.1,
+      "score": 7.6,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1116,17 +1194,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"초대형 자산이 얼마?\" 초대형급 자산가 스타 TOP10",
-      "angle_type": "👤 초대형",
-      "article_count": 3,
-      "source_article": "오타니가 다시 FA로 풀린다고?…다저스 9942억 초대형 계약 뒤흔들 '키맨 조항' 재조명",
+      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 4,
+      "source_article": "\"한국 축구 다시 최고 수준으로\" '전설' 스토이코비치, 대표팀 감독직 공개 도전...단, '임시'는 싫다",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "초대형"
+        "임신",
+        "김민경",
+        "같은",
+        "병실",
+        "산모"
       ],
-      "template": "자산 서열",
-      "score": 7.0,
+      "template": "스포츠 기록",
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1136,29 +1218,29 @@
       },
       "table": {
         "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"증손녀, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 2,
-      "source_article": "오타니가 다시 FA로 풀린다고?…다저스 9942억 초대형 계약 뒤흔들 '키맨 조항' 재조명",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 6,
+      "source_article": "‘아들맘’ 김민희, 꾸밈 다 내려놨다…새치 헤어에 실밥 보이는 의상까지 ‘내추럴 스타일’",
+      "source_url": "https://m.entertain.naver.com/article/410/0001136347",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "증손녀",
-        "친일파",
-        "파장",
-        "독립운",
-        "동가"
+        "아들맘",
+        "김민희",
+        "꾸밈",
+        "내려놨",
+        "새치"
       ],
-      "template": "자산 서열",
+      "template": "동갑내기",
       "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
@@ -1170,26 +1252,26 @@
       "table": {
         "headers": [
           "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
+          "나이",
+          "대표작",
+          "현재 활동"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "title": "\"하영까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
       "angle_type": "논란·사건",
-      "article_count": 2,
-      "source_article": "'김구 증손자' 김용만, 하영 증조부 친일 논란에 \"부모 못 고르지만..\"",
-      "source_url": "https://m.entertain.naver.com/article/108/0003462165",
+      "article_count": 4,
+      "source_article": "독립운동가 자손 곽민선, 하영 논란 의식한 듯한 심경 고백 “누군가는 증조부가 자랑스러웠다던데, 비통하고 먹먹”",
+      "source_url": "https://m.entertain.naver.com/article/144/0001131904",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "김구",
-        "증손자",
-        "김용만",
         "하영",
-        "증조부"
+        "증조부",
+        "독립운",
+        "동가",
+        "자손"
       ],
       "template": "논란 집합",
       "score": 6.5,
@@ -1240,10 +1322,39 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"재조명 자산이 얼마?\" 재조명급 자산가 스타 TOP10",
+      "angle_type": "👤 재조명",
+      "article_count": 3,
+      "source_article": "유병재, 쎄함 감지했나…하영 ‘증조부 의사’ 발언에 보인 반응 재조명",
+      "source_url": "https://m.entertain.naver.com/article/016/0002684226",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "재조명"
+      ],
+      "template": "자산 서열",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"축구\" 관련 화제 스타 TOP10",
       "angle_type": "👤 축구",
       "article_count": 3,
-      "source_article": "韓 축구 낭보! '8호 라리가 코리안 리거' 김민수, 안도라 임대 성공→지로나 1군 정식 등록…피케도 \"매우 큰 잠재력\" 극찬",
+      "source_article": "\"韓 축구 '인간승리' 아이콘\" 조규성, 미트윌란 떠나 日 J리그 둥지 트나…마치다 젤비아 영입 추진",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
@@ -1269,20 +1380,16 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 4,
-      "source_article": "'46세 임신' 김민경, 같은 병실 산모 저격? \"코골이..고요하니 살 거 같아\"",
-      "source_url": "https://m.entertain.naver.com/article/108/0003461949",
+      "title": "\"남편 결혼설?\" 남편 연애사 총정리",
+      "angle_type": "👤 남편",
+      "article_count": 3,
+      "source_article": "유리, 남편 공개했다",
+      "source_url": "https://m.entertain.naver.com/article/003/0014126885",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "임신",
-        "김민경",
-        "같은",
-        "병실",
-        "산모"
+        "남편"
       ],
-      "template": "스포츠 기록",
+      "template": "결혼 화제",
       "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
@@ -1293,25 +1400,29 @@
       },
       "table": {
         "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"독립운\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 독립운",
-      "article_count": 3,
-      "source_article": "\"하영 증조부, 부자 중의 '큰 부자'\"..아파트 8000세대급 안양 땅 기부, 독립운동가 둔갑?",
-      "source_url": "https://m.entertain.naver.com/article/108/0003462057",
-      "source_name": "엔터 많이 본 뉴스",
+      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 2,
+      "source_article": "테니스 황제의 추락, 무려 737억 허공에…억만장자 타이틀 뺏겼다→스포츠 브랜드 주가 20% 폭락",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "독립운"
+        "테니스",
+        "황제의",
+        "추락",
+        "무려",
+        "허공에"
       ],
-      "template": "인맥",
+      "template": "자산 서열",
       "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
@@ -1323,38 +1434,9 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"동가\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 동가",
-      "article_count": 3,
-      "source_article": "\"하영 증조부, 부자 중의 '큰 부자'\"..아파트 8000세대급 안양 땅 기부, 독립운동가 둔갑?",
-      "source_url": "https://m.entertain.naver.com/article/108/0003462057",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "동가"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
         ]
       },
       "channel": "정보주는하마"
@@ -1368,6 +1450,35 @@
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "김민희"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"김지민\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 김지민",
+      "article_count": 3,
+      "source_article": "'김준호♥' 김지민, 볼록해진 D라인에 \"원래있던 똥배, 속옷·바지 다 안맞는다\"",
+      "source_url": "https://m.entertain.naver.com/article/076/0004435992",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "김지민"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1391,54 +1502,21 @@
   ],
   "all_topics": [
     {
-      "title": "\"하영이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 5,
-      "source_article": "'김구 증손자' 김용만, 하영 증조부 친일 논란에 \"부모 못 고르지만..\"",
-      "source_url": "https://m.entertain.naver.com/article/108/0003462165",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "하영",
-        "김구",
-        "증손자",
-        "김용만",
-        "증조부"
-      ],
-      "template": "동갑내기",
-      "score": 7.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
       "angle_type": "결혼·이혼",
       "article_count": 10,
-      "source_article": "강유미, 이혼 4년 만 고백 \"결혼 생활 중에도 각방, 이혼은 나 하나로 족해\" ('홈즈')",
-      "source_url": "https://m.entertain.naver.com/article/076/0004435839",
-      "source_name": "엔터 많이 본 뉴스",
+      "source_article": "'막장' 국가대표팀 내 불륜→충격적 이혼에 '발칵' 뒤집혔는데... \"협회는 뭐 하는 건가\" 분노 폭발",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "결혼",
         "이혼",
         "임신",
-        "열애",
-        "강유미"
+        "강유미",
+        "고백"
       ],
       "template": "결혼 화제",
-      "score": 7.1,
+      "score": 7.6,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1457,17 +1535,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"초대형 자산이 얼마?\" 초대형급 자산가 스타 TOP10",
-      "angle_type": "👤 초대형",
-      "article_count": 3,
-      "source_article": "오타니가 다시 FA로 풀린다고?…다저스 9942억 초대형 계약 뒤흔들 '키맨 조항' 재조명",
+      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 4,
+      "source_article": "\"한국 축구 다시 최고 수준으로\" '전설' 스토이코비치, 대표팀 감독직 공개 도전...단, '임시'는 싫다",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "초대형"
+        "임신",
+        "김민경",
+        "같은",
+        "병실",
+        "산모"
       ],
-      "template": "자산 서열",
-      "score": 7.0,
+      "template": "스포츠 기록",
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1477,29 +1559,29 @@
       },
       "table": {
         "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"증손녀, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 2,
-      "source_article": "오타니가 다시 FA로 풀린다고?…다저스 9942억 초대형 계약 뒤흔들 '키맨 조항' 재조명",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 6,
+      "source_article": "‘아들맘’ 김민희, 꾸밈 다 내려놨다…새치 헤어에 실밥 보이는 의상까지 ‘내추럴 스타일’",
+      "source_url": "https://m.entertain.naver.com/article/410/0001136347",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "증손녀",
-        "친일파",
-        "파장",
-        "독립운",
-        "동가"
+        "아들맘",
+        "김민희",
+        "꾸밈",
+        "내려놨",
+        "새치"
       ],
-      "template": "자산 서열",
+      "template": "동갑내기",
       "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
@@ -1511,26 +1593,26 @@
       "table": {
         "headers": [
           "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
+          "나이",
+          "대표작",
+          "현재 활동"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "title": "\"하영까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
       "angle_type": "논란·사건",
-      "article_count": 2,
-      "source_article": "'김구 증손자' 김용만, 하영 증조부 친일 논란에 \"부모 못 고르지만..\"",
-      "source_url": "https://m.entertain.naver.com/article/108/0003462165",
+      "article_count": 4,
+      "source_article": "독립운동가 자손 곽민선, 하영 논란 의식한 듯한 심경 고백 “누군가는 증조부가 자랑스러웠다던데, 비통하고 먹먹”",
+      "source_url": "https://m.entertain.naver.com/article/144/0001131904",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "김구",
-        "증손자",
-        "김용만",
         "하영",
-        "증조부"
+        "증조부",
+        "독립운",
+        "동가",
+        "자손"
       ],
       "template": "논란 집합",
       "score": 6.5,
@@ -1581,10 +1663,39 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"재조명 자산이 얼마?\" 재조명급 자산가 스타 TOP10",
+      "angle_type": "👤 재조명",
+      "article_count": 3,
+      "source_article": "유병재, 쎄함 감지했나…하영 ‘증조부 의사’ 발언에 보인 반응 재조명",
+      "source_url": "https://m.entertain.naver.com/article/016/0002684226",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "재조명"
+      ],
+      "template": "자산 서열",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"축구\" 관련 화제 스타 TOP10",
       "angle_type": "👤 축구",
       "article_count": 3,
-      "source_article": "韓 축구 낭보! '8호 라리가 코리안 리거' 김민수, 안도라 임대 성공→지로나 1군 정식 등록…피케도 \"매우 큰 잠재력\" 극찬",
+      "source_article": "\"韓 축구 '인간승리' 아이콘\" 조규성, 미트윌란 떠나 日 J리그 둥지 트나…마치다 젤비아 영입 추진",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
@@ -1610,20 +1721,16 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 4,
-      "source_article": "'46세 임신' 김민경, 같은 병실 산모 저격? \"코골이..고요하니 살 거 같아\"",
-      "source_url": "https://m.entertain.naver.com/article/108/0003461949",
+      "title": "\"남편 결혼설?\" 남편 연애사 총정리",
+      "angle_type": "👤 남편",
+      "article_count": 3,
+      "source_article": "유리, 남편 공개했다",
+      "source_url": "https://m.entertain.naver.com/article/003/0014126885",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "임신",
-        "김민경",
-        "같은",
-        "병실",
-        "산모"
+        "남편"
       ],
-      "template": "스포츠 기록",
+      "template": "결혼 화제",
       "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
@@ -1634,25 +1741,29 @@
       },
       "table": {
         "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"독립운\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 독립운",
-      "article_count": 3,
-      "source_article": "\"하영 증조부, 부자 중의 '큰 부자'\"..아파트 8000세대급 안양 땅 기부, 독립운동가 둔갑?",
-      "source_url": "https://m.entertain.naver.com/article/108/0003462057",
-      "source_name": "엔터 많이 본 뉴스",
+      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 2,
+      "source_article": "테니스 황제의 추락, 무려 737억 허공에…억만장자 타이틀 뺏겼다→스포츠 브랜드 주가 20% 폭락",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "독립운"
+        "테니스",
+        "황제의",
+        "추락",
+        "무려",
+        "허공에"
       ],
-      "template": "인맥",
+      "template": "자산 서열",
       "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
@@ -1664,38 +1775,9 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"동가\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 동가",
-      "article_count": 3,
-      "source_article": "\"하영 증조부, 부자 중의 '큰 부자'\"..아파트 8000세대급 안양 땅 기부, 독립운동가 둔갑?",
-      "source_url": "https://m.entertain.naver.com/article/108/0003462057",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "동가"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
         ]
       },
       "channel": "정보주는하마"
@@ -1730,18 +1812,47 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"김지민\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 김지민",
+      "article_count": 3,
+      "source_article": "'김준호♥' 김지민, 볼록해진 D라인에 \"원래있던 똥배, 속옷·바지 다 안맞는다\"",
+      "source_url": "https://m.entertain.naver.com/article/076/0004435992",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "김지민"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 7,
-      "source_article": "홍명보 이어 '또' 한국인 감독 선임 가능성, 韓 축구 마주한 '딜레마'",
+      "article_count": 9,
+      "source_article": "이럴거면 울산 왜 창단했나…역사적인 첫 이적, KBO 착오로 끝났다 “좋은 케이스 될 수 있었는데…”",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "감독",
-        "홍명보",
-        "이어",
-        "한국인",
-        "선임"
+        "대한민",
+        "대표팀",
+        "부임",
+        "이정후"
       ],
       "template": "스포츠 기록",
       "score": 7.3,
@@ -1761,6 +1872,97 @@
         ]
       },
       "channel": "초구딱"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"태어나\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 태어나",
+      "article_count": 3,
+      "source_article": "8.15에올리는 815번만에 나온 코리아....랜덤 다시 태어나기 힘드네요",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608150117981246&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "태어나"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+      "angle_type": "투병·건강",
+      "article_count": 2,
+      "source_article": "한화 대형 뉴스!…'3일 연속 중견수 교체 아픔' 사라지나→오재원 드디어 반깁스 풀었다→발목 재활 속도 UP \"러닝+캐치볼+티 배팅 훈련 시작\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "한화",
+        "대형",
+        "연속",
+        "중견수",
+        "교체"
+      ],
+      "template": "투병 극복",
+      "score": 5.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "투병 질환",
+          "공백기",
+          "복귀 작품"
+        ]
+      },
+      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
@@ -1770,10 +1972,10 @@
     ],
     [
       "증조부",
-      5
+      4
     ],
     [
-      "독립운동가",
+      "남편",
       3
     ],
     [
@@ -1781,11 +1983,15 @@
       3
     ],
     [
+      "김지민",
+      3
+    ],
+    [
       "결혼",
       3
     ],
     [
-      "초대형",
+      "재조명",
       3
     ],
     [
@@ -1793,15 +1999,23 @@
       3
     ],
     [
+      "시간",
+      2
+    ],
+    [
+      "독립운동가",
+      2
+    ],
+    [
+      "김준호",
+      2
+    ],
+    [
+      "고백",
+      2
+    ],
+    [
       "이혼",
-      2
-    ],
-    [
-      "의사",
-      2
-    ],
-    [
-      "재조명",
       2
     ],
     [
@@ -1809,39 +2023,27 @@
       2
     ],
     [
+      "의사",
+      2
+    ],
+    [
+      "유병재",
+      2
+    ],
+    [
       "친일",
       2
     ],
     [
-      "앞서",
+      "이번엔",
       2
     ],
     [
-      "김지민",
+      "차기",
       2
     ],
     [
-      "달라진",
-      2
-    ],
-    [
-      "열애",
-      2
-    ],
-    [
-      "폭발",
-      2
-    ],
-    [
-      "스타",
-      2
-    ],
-    [
-      "유망주",
-      2
-    ],
-    [
-      "등극",
+      "김지영",
       2
     ]
   ],
@@ -1855,11 +2057,7 @@
       5
     ],
     [
-      "독립운",
-      3
-    ],
-    [
-      "동가",
+      "남편",
       3
     ],
     [
@@ -1867,11 +2065,15 @@
       3
     ],
     [
+      "김지민",
+      3
+    ],
+    [
       "결혼",
       3
     ],
     [
-      "초대형",
+      "재조명",
       3
     ],
     [
@@ -1879,35 +2081,35 @@
       3
     ],
     [
+      "시간",
+      2
+    ],
+    [
+      "독립운",
+      2
+    ],
+    [
+      "동가",
+      2
+    ],
+    [
       "홍상수",
+      2
+    ],
+    [
+      "김준호",
+      2
+    ],
+    [
+      "고백",
       2
     ],
     [
       "이혼",
       2
-    ],
-    [
-      "의사",
-      2
-    ],
-    [
-      "재조명",
-      2
-    ],
-    [
-      "임신",
-      2
-    ],
-    [
-      "친일",
-      2
-    ],
-    [
-      "앞서",
-      2
     ]
   ],
-  "total_topics_generated": 12,
-  "valid_topics": 12,
+  "total_topics_generated": 15,
+  "valid_topics": 15,
   "excluded_duplicates": 0
 }
