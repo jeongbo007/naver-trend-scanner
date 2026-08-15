@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-15 02:13:07",
+  "scan_time": "2026-08-15 05:22:48",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,44 +8,44 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 30
+    "MLB파크 불펜": 0
   },
-  "total_articles": 80,
+  "total_articles": 50,
   "articles": [
+    {
+      "title": "'헤드샷 충격' NC 임지민, 큰 부상 못 피했다...아래 턱뼈 분쇄골절, 다음주 수술 받는다",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 25161,
+      "rank": 1,
+      "channel": "초구딱"
+    },
+    {
+      "title": "쓰러진 투수, 안 열리는 출입문…사직구장, 긴박했던 140초",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 18321,
+      "rank": 4,
+      "channel": "초구딱"
+    },
     {
       "title": "韓 축구 차기 감독 '초호화 3파전' 떴다!…\"포옛에 카사스·펩 오른팔까지 공개 지원\" 3개월 임시직에 거물급 경쟁 후끈",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 23984,
-      "rank": 3,
+      "views": 16310,
+      "rank": 5,
       "channel": "초구딱"
     },
     {
-      "title": "\"한국 돌아가고 싶다\" 10승 좌완 인터뷰까지 했는데 어쩌나...2⅔이닝 4실점 와르르→ERA 5.74, KBO 복귀도 쉽지 않다",
+      "title": "'홍명보가 그랬듯' 이동국도 A대표팀 코치 직행? 감독 선임 과정부터 '또' 논란",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 17599,
-      "rank": 4,
-      "channel": "초구딱"
-    },
-    {
-      "title": "'韓 축구 에이스' 아틀레티코 7번 이강인 미쳤다, 곧바로 선발 출격 예고...마르세유전 베스트 일레븐 훈련",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 13465,
-      "rank": 8,
-      "channel": "초구딱"
-    },
-    {
-      "title": "NC 임지민, 타구에 얼굴 맞아 병원 이송…\"정밀 검진 예정\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 12875,
-      "rank": 9,
+      "views": 12912,
+      "rank": 7,
       "channel": "초구딱"
     },
     {
@@ -53,8 +53,17 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 10603,
-      "rank": 10,
+      "views": 8877,
+      "rank": 8,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'韓 축구 에이스' 아틀레티코 7번 이강인 미쳤다, 곧바로 선발 출격 예고...마르세유전 베스트 일레븐 훈련",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 8812,
+      "rank": 9,
       "channel": "초구딱"
     },
     {
@@ -62,325 +71,64 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 7433,
-      "rank": 12,
-      "channel": "초구딱"
-    },
-    {
-      "title": "'드디어' 삼성이 기다렸던 그 소식…KBO 41승 에이스 실전 마운드 컴백, 공 10개로 1이닝 삭제했다",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 6957,
-      "rank": 16,
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"김원중 마무리 박탈해야\" 롯데 팬들 인내심 폭발...후반기 ERA 11.12, WHIP 2.65",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 6923,
-      "rank": 17,
-      "channel": "초구딱"
-    },
-    {
-      "title": "7점 차 리드도 못 지키고 마무리 김재윤까지 나왔다…이기고도 웃지 못한 삼성, '2G 3피홈런' 사토시 고민 어쩌나",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 6888,
-      "rank": 18,
-      "channel": "초구딱"
-    },
-    {
-      "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 1,
-      "channel": "초구딱"
-    },
-    {
-      "title": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 2,
-      "channel": "초구딱"
-    },
-    {
-      "title": "🔔[업데이트] 외부 링크 미리보기(Embed/OG 태그) 기능 추가 안내🔔",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202607070000002111",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 3,
-      "channel": "초구딱"
-    },
-    {
-      "title": "🛠️[업데이트] 해외 접속 장애 조치 관련 안내_260814🛠️",
-      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202608130000002151",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 4,
-      "channel": "초구딱"
-    },
-    {
-      "title": "🌊[당첨자 발표] 엠팍 유저 대상 워터밤 속초 2026 티켓 증정 이벤트🌊",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202607290000002144",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 5,
-      "channel": "초구딱"
-    },
-    {
-      "title": "🌊[당첨자 발표] 엠팍 워터밤 + 호텔 숙박권 제공 이벤트🌊",
-      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202607270000002132",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 6,
-      "channel": "초구딱"
-    },
-    {
-      "title": "이런경우 축의금 10하시나요 15하시나요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984234&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 7,
-      "channel": "초구딱"
-    },
-    {
-      "title": "테슬라 FSD라이트 풀리면서 기존 현차 유저들 현타온거 맞나요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984231&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 8,
-      "channel": "초구딱"
-    },
-    {
-      "title": "혹시 오늘이나 내일 비 안오는 지역 있습니까",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984228&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 12,
-      "rank": 9,
-      "channel": "초구딱"
-    },
-    {
-      "title": "고가 아파트를 많이 짓는게 중요하지 않을까요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984222&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 11,
-      "rank": 10,
-      "channel": "초구딱"
-    },
-    {
-      "title": "짬뽕 보다 자장면을 추천하는 중국집.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984219&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 38,
+      "views": 7418,
       "rank": 11,
       "channel": "초구딱"
     },
     {
-      "title": "야인시대 합성물 같은거 왜 야인시대출연자들은 싫어하나요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984213&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 34,
-      "rank": 12,
-      "channel": "초구딱"
-    },
-    {
-      "title": "“이제 Y2K 질렸어요”…20년전 드라마 ‘한유주 코어’ 뜬다는데",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984210&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 99,
+      "title": "\"세 번째 투수, 다음엔 100구 6이닝 부탁해\" KIA 3선발로 올라선 亞쿼터 울보, 이범호는 왜 기대치 높였나",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 6928,
       "rank": 13,
       "channel": "초구딱"
     },
     {
-      "title": "금요일 저녁뉴스 시청률.txt",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984198&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 35,
+      "title": "‘포옛의 진심...대한민국 감독 부임 철저한 준비’ 이동국 이어 ‘최은성 GK 코치 합류’",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 6757,
       "rank": 14,
       "channel": "초구딱"
     },
     {
-      "title": "제 주위에 존잘 40대 미혼 형님 둘",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984192&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 200,
-      "rank": 15,
-      "channel": "초구딱"
-    },
-    {
-      "title": "[키키] 지유, 이솔 & 수이 '캔핑폰' 뮤뱅 직캠",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984183&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 37,
-      "rank": 16,
-      "channel": "초구딱"
-    },
-    {
-      "title": "금요일 저녁예능 및 드라마 시청률.txt",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984180&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 41,
-      "rank": 17,
-      "channel": "초구딱"
-    },
-    {
-      "title": "45kg이라는 송가인 근황",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984177&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 652,
-      "rank": 18,
-      "channel": "초구딱"
-    },
-    {
-      "title": "수도권 아파트 살려면 경기 북부 가야되는게 에바임",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984174&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 167,
+      "title": "'韓→中 국적 변경' 린샤오쥔, 터질 것이 터졌다!…32살 우다징 감독 대표팀 파격 부임→中 매체 \"20대 신예 적극 기용\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 6089,
       "rank": 19,
       "channel": "초구딱"
     },
     {
-      "title": "1차로 더위사냥, 2차로 폴라포에 중독되었어요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984168&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 39,
+      "title": "\"박해민+김지찬처럼 성장하길\"…KIA 초대형 트레이드 주인공, '80억 유격수' 대체할까→\"수비 툴 대한민극 톱 클래스\" 극찬",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 5458,
       "rank": 20,
-      "channel": "초구딱"
-    },
-    {
-      "title": "안원잘부 다음편도 뿌리 찾기 컨셉이고 주인공은 리브 아닐까요.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984165&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 69,
-      "rank": 21,
-      "channel": "초구딱"
-    },
-    {
-      "title": "‌260814 WWE 스맥다운 간략결과",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984159&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 39,
-      "rank": 22,
-      "channel": "초구딱"
-    },
-    {
-      "title": "어렵겠네요.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984156&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 173,
-      "rank": 23,
-      "channel": "초구딱"
-    },
-    {
-      "title": "U17 여자) 3세트 종료 한국 1대2 튀르키예",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984150&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 181,
-      "rank": 24,
-      "channel": "초구딱"
-    },
-    {
-      "title": "광복절 기념은 해야하지만, 자랑스러워하면 안된단 시각도 있더군요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984144&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 120,
-      "rank": 25,
-      "channel": "초구딱"
-    },
-    {
-      "title": "현역시절 유명했던 썰 직접말아주는 이윤열.swf",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984141&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 266,
-      "rank": 26,
-      "channel": "초구딱"
-    },
-    {
-      "title": "지금 북한사람들에게 광복은 어떤 시각일까요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984138&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 82,
-      "rank": 27,
-      "channel": "초구딱"
-    },
-    {
-      "title": "[트리플에스] 김유연.mp4",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984135&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 94,
-      "rank": 28,
-      "channel": "초구딱"
-    },
-    {
-      "title": "금요일 11시 프로그램 시청률.txt",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984123&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 63,
-      "rank": 29,
-      "channel": "초구딱"
-    },
-    {
-      "title": "일본 여행 왔습니다.JPG",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984120&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 564,
-      "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 41,
+      "article_count": 39,
       "topics": [
         {
           "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
           "angle_type": "결혼·이혼",
-          "article_count": 5,
+          "article_count": 9,
           "source_article": "김수현, 결혼 생활 최초 공개→'동상이몽2' 전격 합류…'10년 차' 부부 리얼 라이프",
           "source_url": "https://m.entertain.naver.com/article/213/0001397952",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "결혼",
-            "출산",
-            "김수현",
-            "동상이",
-            "전격"
+            "명성황",
+            "하영",
+            "증조부",
+            "출산"
           ],
           "template": "결혼 화제",
           "score": 6.8,
@@ -404,9 +152,9 @@
         {
           "title": "\"하영 결혼설?\" 하영 연애사 총정리",
           "angle_type": "👤 하영",
-          "article_count": 7,
-          "source_article": "\"하영 증조부, 부자 중의 '큰 부자'\"..아파트 8000세대급 안양 땅 기부, 독립운동가 둔갑?",
-          "source_url": "https://m.entertain.naver.com/article/108/0003462057",
+          "article_count": 5,
+          "source_article": "\"명성황후 시신에 석유 뿌린 매국노 중매로..\" 하영 증조부, 日 아내와 결혼 비화",
+          "source_url": "https://m.entertain.naver.com/article/108/0003462137",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "하영"
@@ -431,83 +179,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"증조부 결혼설?\" 증조부 연애사 총정리",
-          "angle_type": "👤 증조부",
-          "article_count": 5,
-          "source_article": "\"하영 증조부, 부자 중의 '큰 부자'\"..아파트 8000세대급 안양 땅 기부, 독립운동가 둔갑?",
-          "source_url": "https://m.entertain.naver.com/article/108/0003462057",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "증조부"
-          ],
-          "template": "결혼 화제",
-          "score": 6.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"찬사, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 3,
-          "source_article": "이강인 겨우 '9번' 공 만졌는데 스페인 홀렸다!…\"이 선수는 다르다\"→패스 성공률 100%+환상 킬패스 2회 찬사",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "찬사",
-            "골든",
-            "이재",
-            "샘김과",
-            "장기"
-          ],
-          "template": "스포츠 기록",
-          "score": 6.7,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+          "title": "\"폭풍이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
           "angle_type": "가족·혈연",
-          "article_count": 2,
+          "article_count": 4,
           "source_article": "아나운서♥미스코리아 커플 탄생했다…가족도 허락, \"늘 한발 앞서 있어\" ('합숙맞선2')",
           "source_url": "https://m.entertain.naver.com/article/312/0000771949",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
+            "폭풍",
             "아나운",
             "미스코",
             "리아",
-            "커플",
-            "탄생했"
+            "커플"
           ],
           "template": "동갑내기",
-          "score": 6.1,
+          "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -526,18 +212,76 @@
           "channel": "정보주는하마"
         },
         {
+          "title": "\"증조부 결혼설?\" 증조부 연애사 총정리",
+          "angle_type": "👤 증조부",
+          "article_count": 4,
+          "source_article": "\"명성황후 시신에 석유 뿌린 매국노 중매로..\" 하영 증조부, 日 아내와 결혼 비화",
+          "source_url": "https://m.entertain.naver.com/article/108/0003462137",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "증조부"
+          ],
+          "template": "결혼 화제",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"전격 결혼설?\" 전격 연애사 총정리",
+          "angle_type": "👤 전격",
+          "article_count": 3,
+          "source_article": "김수현, 결혼 생활 최초 공개→'동상이몽2' 전격 합류…'10년 차' 부부 리얼 라이프",
+          "source_url": "https://m.entertain.naver.com/article/213/0001397952",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "전격"
+          ],
+          "template": "결혼 화제",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
           "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
           "angle_type": "투병·건강",
-          "article_count": 3,
+          "article_count": 4,
           "source_article": "2년째 작품 끊겼다…양악 수술까지 했는데, \"할 수 없는 역할 있어\" 한계 고백 ('나혼산')",
           "source_url": "https://m.entertain.naver.com/article/312/0000771921",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "비극",
             "년째",
             "작품",
             "끊겼다",
-            "양악"
+            "양악",
+            "수술까"
           ],
           "template": "투병 극복",
           "score": 6.0,
@@ -559,14 +303,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"나혼산\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 나혼산",
-          "article_count": 4,
-          "source_article": "2년째 작품 끊겼다…양악 수술까지 했는데, \"할 수 없는 역할 있어\" 한계 고백 ('나혼산')",
-          "source_url": "https://m.entertain.naver.com/article/312/0000771921",
+          "title": "\"친일\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 친일",
+          "article_count": 3,
+          "source_article": "'친일 후손 확정' 하영, 바쁘다 바빠...독립기념관도 가야 하고 소록도도 가야 하고",
+          "source_url": "https://m.entertain.naver.com/article/108/0003462223",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "나혼산"
+            "친일"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -588,14 +332,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"발언\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 발언",
+          "title": "\"독립운\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 독립운",
           "article_count": 3,
-          "source_article": "“우리나라서 약간..” 유병재, 하영 증조부 자랑에 쎄함 감지 발언 재조명",
-          "source_url": "https://m.entertain.naver.com/article/112/0003804419",
+          "source_article": "독립운동가 후손 김용만, ‘증조부 친일’ 하영에 당부 “주눅 말고 행동하라”",
+          "source_url": "https://m.entertain.naver.com/article/117/0004095082",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "발언"
+            "독립운"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -615,27 +359,72 @@
             ]
           },
           "channel": "정보주는하마"
+        },
+        {
+          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 2,
+          "source_article": "'골든' 이재, ♥샘김과 9년 장기 연애였다…명품 웨딩링 가격에 '깜짝'",
+          "source_url": "https://m.entertain.naver.com/article/117/0004095030",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "골든",
+            "이재",
+            "샘김과",
+            "장기",
+            "연애였"
+          ],
+          "template": "스포츠 기록",
+          "score": 5.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
+            ]
+          },
+          "channel": "정보주는하마"
         }
       ],
       "keyword_freq": [
         [
           "하영",
-          7
-        ],
-        [
-          "증조부",
           5
         ],
         [
-          "나혼산",
+          "결혼",
           4
         ],
         [
-          "발언",
+          "증조부",
+          4
+        ],
+        [
+          "전격",
           3
         ],
         [
-          "있어",
+          "폭풍",
+          3
+        ],
+        [
+          "친일",
+          3
+        ],
+        [
+          "스타",
+          3
+        ],
+        [
+          "고백",
           2
         ],
         [
@@ -643,39 +432,11 @@
           2
         ],
         [
-          "고백",
+          "나혼산",
           2
         ],
         [
-          "독립운동가",
-          2
-        ],
-        [
-          "홍상수",
-          2
-        ],
-        [
-          "김민희",
-          2
-        ],
-        [
-          "친일",
-          2
-        ],
-        [
-          "김지민",
-          2
-        ],
-        [
-          "결혼",
-          2
-        ],
-        [
-          "비극",
-          2
-        ],
-        [
-          "김신영",
+          "있어",
           2
         ],
         [
@@ -683,11 +444,7 @@
           2
         ],
         [
-          "유병재",
-          2
-        ],
-        [
-          "쎄함",
+          "명성황후",
           2
         ],
         [
@@ -695,29 +452,69 @@
           2
         ],
         [
+          "후손",
+          2
+        ],
+        [
           "출산",
+          2
+        ],
+        [
+          "독립운동가",
+          2
+        ],
+        [
+          "시험관",
+          2
+        ],
+        [
+          "임신",
+          2
+        ],
+        [
+          "김지민",
           2
         ]
       ],
       "name_freq": [
         [
           "하영",
-          7
-        ],
-        [
-          "증조부",
           5
         ],
         [
-          "나혼산",
+          "결혼",
           4
         ],
         [
-          "발언",
+          "증조부",
+          4
+        ],
+        [
+          "전격",
           3
         ],
         [
-          "있어",
+          "폭풍",
+          3
+        ],
+        [
+          "친일",
+          3
+        ],
+        [
+          "독립운",
+          3
+        ],
+        [
+          "스타",
+          3
+        ],
+        [
+          "고백",
+          2
+        ],
+        [
+          "나혼산",
           2
         ],
         [
@@ -725,80 +522,60 @@
           2
         ],
         [
-          "고백",
+          "있어",
           2
         ],
         [
-          "독립운",
+          "전현무",
           2
         ],
         [
-          "동가",
+          "명성황",
           2
         ],
         [
-          "홍상수",
-          2
-        ],
-        [
-          "김민희",
-          2
-        ],
-        [
-          "친일",
-          2
-        ],
-        [
-          "김지민",
-          2
-        ],
-        [
-          "결혼",
-          2
-        ],
-        [
-          "비극",
+          "재조명",
           2
         ]
       ],
       "angle_scores": [
         [
           "결혼·이혼",
-          5
+          9
         ],
         [
           "투병·건강",
-          3
+          4
         ],
         [
           "스포츠",
-          3
+          2
         ],
         [
           "가족·혈연",
-          2
+          4
         ]
       ]
     },
     "초구딱": {
-      "article_count": 39,
+      "article_count": 11,
       "topics": [
         {
-          "title": "\"축구, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 6,
-          "source_article": "韓 축구 차기 감독 '초호화 3파전' 떴다!…\"포옛에 카사스·펩 오른팔까지 공개 지원\" 3개월 임시직에 거물급 경쟁 후끈",
+          "article_count": 9,
+          "source_article": "'헤드샷 충격' NC 임지민, 큰 부상 못 피했다...아래 턱뼈 분쇄골절, 다음주 수술 받는다",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "축구",
             "감독",
-            "어쩌나",
-            "이닝",
-            "에이스"
+            "축구",
+            "이동국",
+            "대표팀",
+            "코치"
           ],
           "template": "스포츠 기록",
-          "score": 7.3,
+          "score": 7.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -817,21 +594,21 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"이닝, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 3,
-          "source_article": "\"한국 돌아가고 싶다\" 10승 좌완 인터뷰까지 했는데 어쩌나...2⅔이닝 4실점 와르르→ERA 5.74, KBO 복귀도 쉽지 않다",
+          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 2,
+          "source_article": "'헤드샷 충격' NC 임지민, 큰 부상 못 피했다...아래 턱뼈 분쇄골절, 다음주 수술 받는다",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "이닝",
-            "돌아가",
-            "싶다",
-            "좌완",
-            "인터뷰"
+            "헤드샷",
+            "임지민",
+            "부상",
+            "피했다",
+            "아래"
           ],
-          "template": "장기 공백 복귀",
-          "score": 7.1,
+          "template": "논란 집합",
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -842,95 +619,8 @@
           "table": {
             "headers": [
               "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"안내\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 안내",
-          "article_count": 3,
-          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "안내"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"금요일\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 금요일",
-          "article_count": 3,
-          "source_article": "금요일 저녁뉴스 시청률.txt",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984198&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "금요일"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"시청률\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 시청률",
-          "article_count": 3,
-          "source_article": "금요일 저녁뉴스 시청률.txt",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984198&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "시청률"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
+              "소속·직업",
+              "논란 내용",
               "현재 상황"
             ]
           },
@@ -939,19 +629,11 @@
       ],
       "keyword_freq": [
         [
-          "안내",
-          3
-        ],
-        [
-          "금요일",
-          3
-        ],
-        [
-          "시청률",
-          3
-        ],
-        [
           "감독",
+          5
+        ],
+        [
+          "투수",
           2
         ],
         [
@@ -959,81 +641,81 @@
           2
         ],
         [
-          "이닝",
+          "코치",
           2
         ],
         [
-          "어쩌나",
+          "대표팀",
           2
         ],
         [
-          "에이스",
+          "유격수",
           2
         ],
         [
-          "마무리",
+          "부임",
           2
         ],
         [
-          "업데이트",
-          2
-        ],
-        [
-          "당첨자",
-          2
-        ],
-        [
-          "이벤트",
-          2
-        ],
-        [
-          "엠팍",
-          2
-        ],
-        [
-          "워터밤",
-          2
-        ],
-        [
-          "드라마",
-          2
-        ],
-        [
-          "지원",
+          "분쇄골절",
           1
         ],
         [
-          "초호화",
+          "임지민",
           1
         ],
         [
-          "떴다",
+          "수술",
           1
         ],
         [
-          "경쟁",
+          "받는다",
           1
         ],
         [
-          "포옛에",
+          "아래",
+          1
+        ],
+        [
+          "다음주",
+          1
+        ],
+        [
+          "피했다",
+          1
+        ],
+        [
+          "턱뼈",
+          1
+        ],
+        [
+          "부상",
+          1
+        ],
+        [
+          "헤드샷",
+          1
+        ],
+        [
+          "긴박했던",
+          1
+        ],
+        [
+          "쓰러진",
+          1
+        ],
+        [
+          "사직구장",
           1
         ]
       ],
       "name_freq": [
         [
-          "안내",
-          3
-        ],
-        [
-          "금요일",
-          3
-        ],
-        [
-          "시청률",
-          3
-        ],
-        [
           "감독",
+          5
+        ],
+        [
+          "투수",
           2
         ],
         [
@@ -1041,75 +723,59 @@
           2
         ],
         [
-          "이닝",
+          "이동국",
           2
         ],
         [
-          "어쩌나",
+          "코치",
           2
         ],
         [
-          "에이스",
+          "대표팀",
           2
         ],
         [
-          "마무리",
+          "유격수",
           2
         ],
         [
-          "업데이",
+          "부임",
           2
         ],
         [
-          "당첨자",
-          2
-        ],
-        [
-          "이벤트",
-          2
-        ],
-        [
-          "워터밤",
-          2
-        ],
-        [
-          "엠팍",
-          2
-        ],
-        [
-          "아파트",
+          "대한민",
           2
         ]
       ],
       "angle_scores": [
         [
-          "복귀·근황",
-          3
+          "논란·사건",
+          2
         ],
         [
           "스포츠",
-          6
+          9
         ]
       ]
     }
   },
   "topics": [
     {
-      "title": "\"축구, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 6,
-      "source_article": "韓 축구 차기 감독 '초호화 3파전' 떴다!…\"포옛에 카사스·펩 오른팔까지 공개 지원\" 3개월 임시직에 거물급 경쟁 후끈",
+      "article_count": 9,
+      "source_article": "'헤드샷 충격' NC 임지민, 큰 부상 못 피했다...아래 턱뼈 분쇄골절, 다음주 수술 받는다",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "축구",
         "감독",
-        "어쩌나",
-        "이닝",
-        "에이스"
+        "축구",
+        "이동국",
+        "대표팀",
+        "코치"
       ],
       "template": "스포츠 기록",
-      "score": 7.3,
+      "score": 7.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1128,21 +794,21 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"이닝, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 3,
-      "source_article": "\"한국 돌아가고 싶다\" 10승 좌완 인터뷰까지 했는데 어쩌나...2⅔이닝 4실점 와르르→ERA 5.74, KBO 복귀도 쉽지 않다",
+      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 2,
+      "source_article": "'헤드샷 충격' NC 임지민, 큰 부상 못 피했다...아래 턱뼈 분쇄골절, 다음주 수술 받는다",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "이닝",
-        "돌아가",
-        "싶다",
-        "좌완",
-        "인터뷰"
+        "헤드샷",
+        "임지민",
+        "부상",
+        "피했다",
+        "아래"
       ],
-      "template": "장기 공백 복귀",
-      "score": 7.1,
+      "template": "논란 집합",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1153,95 +819,8 @@
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
-      "article_count": 3,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "안내"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"금요일\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 금요일",
-      "article_count": 3,
-      "source_article": "금요일 저녁뉴스 시청률.txt",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984198&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "금요일"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"시청률\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 시청률",
-      "article_count": 3,
-      "source_article": "금요일 저녁뉴스 시청률.txt",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984198&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "시청률"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
+          "소속·직업",
+          "논란 내용",
           "현재 상황"
         ]
       },
@@ -1252,16 +831,16 @@
     {
       "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
       "angle_type": "결혼·이혼",
-      "article_count": 5,
+      "article_count": 9,
       "source_article": "김수현, 결혼 생활 최초 공개→'동상이몽2' 전격 합류…'10년 차' 부부 리얼 라이프",
       "source_url": "https://m.entertain.naver.com/article/213/0001397952",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "결혼",
-        "출산",
-        "김수현",
-        "동상이",
-        "전격"
+        "명성황",
+        "하영",
+        "증조부",
+        "출산"
       ],
       "template": "결혼 화제",
       "score": 6.8,
@@ -1285,9 +864,9 @@
     {
       "title": "\"하영 결혼설?\" 하영 연애사 총정리",
       "angle_type": "👤 하영",
-      "article_count": 7,
-      "source_article": "\"하영 증조부, 부자 중의 '큰 부자'\"..아파트 8000세대급 안양 땅 기부, 독립운동가 둔갑?",
-      "source_url": "https://m.entertain.naver.com/article/108/0003462057",
+      "article_count": 5,
+      "source_article": "\"명성황후 시신에 석유 뿌린 매국노 중매로..\" 하영 증조부, 日 아내와 결혼 비화",
+      "source_url": "https://m.entertain.naver.com/article/108/0003462137",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "하영"
@@ -1312,83 +891,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"증조부 결혼설?\" 증조부 연애사 총정리",
-      "angle_type": "👤 증조부",
-      "article_count": 5,
-      "source_article": "\"하영 증조부, 부자 중의 '큰 부자'\"..아파트 8000세대급 안양 땅 기부, 독립운동가 둔갑?",
-      "source_url": "https://m.entertain.naver.com/article/108/0003462057",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "증조부"
-      ],
-      "template": "결혼 화제",
-      "score": 6.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"찬사, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 3,
-      "source_article": "이강인 겨우 '9번' 공 만졌는데 스페인 홀렸다!…\"이 선수는 다르다\"→패스 성공률 100%+환상 킬패스 2회 찬사",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "찬사",
-        "골든",
-        "이재",
-        "샘김과",
-        "장기"
-      ],
-      "template": "스포츠 기록",
-      "score": 6.7,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+      "title": "\"폭풍이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
       "angle_type": "가족·혈연",
-      "article_count": 2,
+      "article_count": 4,
       "source_article": "아나운서♥미스코리아 커플 탄생했다…가족도 허락, \"늘 한발 앞서 있어\" ('합숙맞선2')",
       "source_url": "https://m.entertain.naver.com/article/312/0000771949",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
+        "폭풍",
         "아나운",
         "미스코",
         "리아",
-        "커플",
-        "탄생했"
+        "커플"
       ],
       "template": "동갑내기",
-      "score": 6.1,
+      "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1407,18 +924,76 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"증조부 결혼설?\" 증조부 연애사 총정리",
+      "angle_type": "👤 증조부",
+      "article_count": 4,
+      "source_article": "\"명성황후 시신에 석유 뿌린 매국노 중매로..\" 하영 증조부, 日 아내와 결혼 비화",
+      "source_url": "https://m.entertain.naver.com/article/108/0003462137",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "증조부"
+      ],
+      "template": "결혼 화제",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"전격 결혼설?\" 전격 연애사 총정리",
+      "angle_type": "👤 전격",
+      "article_count": 3,
+      "source_article": "김수현, 결혼 생활 최초 공개→'동상이몽2' 전격 합류…'10년 차' 부부 리얼 라이프",
+      "source_url": "https://m.entertain.naver.com/article/213/0001397952",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "전격"
+      ],
+      "template": "결혼 화제",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
       "angle_type": "투병·건강",
-      "article_count": 3,
+      "article_count": 4,
       "source_article": "2년째 작품 끊겼다…양악 수술까지 했는데, \"할 수 없는 역할 있어\" 한계 고백 ('나혼산')",
       "source_url": "https://m.entertain.naver.com/article/312/0000771921",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "비극",
         "년째",
         "작품",
         "끊겼다",
-        "양악"
+        "양악",
+        "수술까"
       ],
       "template": "투병 극복",
       "score": 6.0,
@@ -1440,43 +1015,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"나혼산\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 나혼산",
-      "article_count": 4,
-      "source_article": "2년째 작품 끊겼다…양악 수술까지 했는데, \"할 수 없는 역할 있어\" 한계 고백 ('나혼산')",
-      "source_url": "https://m.entertain.naver.com/article/312/0000771921",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "나혼산"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"발언\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 발언",
+      "title": "\"친일\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 친일",
       "article_count": 3,
-      "source_article": "“우리나라서 약간..” 유병재, 하영 증조부 자랑에 쎄함 감지 발언 재조명",
-      "source_url": "https://m.entertain.naver.com/article/112/0003804419",
+      "source_article": "'친일 후손 확정' 하영, 바쁘다 바빠...독립기념관도 가야 하고 소록도도 가야 하고",
+      "source_url": "https://m.entertain.naver.com/article/108/0003462223",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "발언"
+        "친일"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1498,21 +1044,83 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"축구, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"독립운\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 독립운",
+      "article_count": 3,
+      "source_article": "독립운동가 후손 김용만, ‘증조부 친일’ 하영에 당부 “주눅 말고 행동하라”",
+      "source_url": "https://m.entertain.naver.com/article/117/0004095082",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "독립운"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 6,
-      "source_article": "韓 축구 차기 감독 '초호화 3파전' 떴다!…\"포옛에 카사스·펩 오른팔까지 공개 지원\" 3개월 임시직에 거물급 경쟁 후끈",
+      "article_count": 2,
+      "source_article": "'골든' 이재, ♥샘김과 9년 장기 연애였다…명품 웨딩링 가격에 '깜짝'",
+      "source_url": "https://m.entertain.naver.com/article/117/0004095030",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "골든",
+        "이재",
+        "샘김과",
+        "장기",
+        "연애였"
+      ],
+      "template": "스포츠 기록",
+      "score": 5.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 9,
+      "source_article": "'헤드샷 충격' NC 임지민, 큰 부상 못 피했다...아래 턱뼈 분쇄골절, 다음주 수술 받는다",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "축구",
         "감독",
-        "어쩌나",
-        "이닝",
-        "에이스"
+        "축구",
+        "이동국",
+        "대표팀",
+        "코치"
       ],
       "template": "스포츠 기록",
-      "score": 7.3,
+      "score": 7.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1531,21 +1139,21 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"이닝, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 3,
-      "source_article": "\"한국 돌아가고 싶다\" 10승 좌완 인터뷰까지 했는데 어쩌나...2⅔이닝 4실점 와르르→ERA 5.74, KBO 복귀도 쉽지 않다",
+      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 2,
+      "source_article": "'헤드샷 충격' NC 임지민, 큰 부상 못 피했다...아래 턱뼈 분쇄골절, 다음주 수술 받는다",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "이닝",
-        "돌아가",
-        "싶다",
-        "좌완",
-        "인터뷰"
+        "헤드샷",
+        "임지민",
+        "부상",
+        "피했다",
+        "아래"
       ],
-      "template": "장기 공백 복귀",
-      "score": 7.1,
+      "template": "논란 집합",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1556,95 +1164,8 @@
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
-      "article_count": 3,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "안내"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"금요일\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 금요일",
-      "article_count": 3,
-      "source_article": "금요일 저녁뉴스 시청률.txt",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984198&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "금요일"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"시청률\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 시청률",
-      "article_count": 3,
-      "source_article": "금요일 저녁뉴스 시청률.txt",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608150117984198&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "시청률"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
+          "소속·직업",
+          "논란 내용",
           "현재 상황"
         ]
       },
@@ -1654,22 +1175,34 @@
   "keyword_freq": [
     [
       "하영",
-      7
-    ],
-    [
-      "증조부",
       5
     ],
     [
-      "나혼산",
+      "결혼",
       4
     ],
     [
-      "발언",
+      "증조부",
+      4
+    ],
+    [
+      "전격",
       3
     ],
     [
-      "있어",
+      "폭풍",
+      3
+    ],
+    [
+      "친일",
+      3
+    ],
+    [
+      "스타",
+      3
+    ],
+    [
+      "고백",
       2
     ],
     [
@@ -1677,39 +1210,11 @@
       2
     ],
     [
-      "고백",
+      "나혼산",
       2
     ],
     [
-      "독립운동가",
-      2
-    ],
-    [
-      "홍상수",
-      2
-    ],
-    [
-      "김민희",
-      2
-    ],
-    [
-      "친일",
-      2
-    ],
-    [
-      "김지민",
-      2
-    ],
-    [
-      "결혼",
-      2
-    ],
-    [
-      "비극",
-      2
-    ],
-    [
-      "김신영",
+      "있어",
       2
     ],
     [
@@ -1717,11 +1222,7 @@
       2
     ],
     [
-      "유병재",
-      2
-    ],
-    [
-      "쎄함",
+      "명성황후",
       2
     ],
     [
@@ -1729,29 +1230,69 @@
       2
     ],
     [
+      "후손",
+      2
+    ],
+    [
       "출산",
+      2
+    ],
+    [
+      "독립운동가",
+      2
+    ],
+    [
+      "시험관",
+      2
+    ],
+    [
+      "임신",
+      2
+    ],
+    [
+      "김지민",
       2
     ]
   ],
   "name_freq": [
     [
       "하영",
-      7
-    ],
-    [
-      "증조부",
       5
     ],
     [
-      "나혼산",
+      "결혼",
       4
     ],
     [
-      "발언",
+      "증조부",
+      4
+    ],
+    [
+      "전격",
       3
     ],
     [
-      "있어",
+      "폭풍",
+      3
+    ],
+    [
+      "친일",
+      3
+    ],
+    [
+      "독립운",
+      3
+    ],
+    [
+      "스타",
+      3
+    ],
+    [
+      "고백",
+      2
+    ],
+    [
+      "나혼산",
       2
     ],
     [
@@ -1759,43 +1300,23 @@
       2
     ],
     [
-      "고백",
+      "있어",
       2
     ],
     [
-      "독립운",
+      "전현무",
       2
     ],
     [
-      "동가",
+      "명성황",
       2
     ],
     [
-      "홍상수",
-      2
-    ],
-    [
-      "김민희",
-      2
-    ],
-    [
-      "친일",
-      2
-    ],
-    [
-      "김지민",
-      2
-    ],
-    [
-      "결혼",
-      2
-    ],
-    [
-      "비극",
+      "재조명",
       2
     ]
   ],
-  "total_topics_generated": 13,
-  "valid_topics": 13,
+  "total_topics_generated": 11,
+  "valid_topics": 11,
   "excluded_duplicates": 0
 }
