@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-16 05:26:37",
+  "scan_time": "2026-08-16 09:14:57",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,17 +8,35 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 30
+    "MLB파크 불펜": 0
   },
-  "total_articles": 80,
+  "total_articles": 50,
   "articles": [
+    {
+      "title": "강부자, 이미숙이 보낸 문자에 불쾌..\"어른한테 정중해야지, 놀리는 건가\" ('데이앤나잇')",
+      "url": "https://m.entertain.naver.com/article/076/0004436274",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 109598,
+      "rank": 1,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'나혼산' 하차 1년 만에 관찰 예능 출연했다…♥조혜원 친구 사촌형에 주선 ('살림남')",
+      "url": "https://m.entertain.naver.com/article/312/0000772100",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 57385,
+      "rank": 2,
+      "channel": "정보주는하마"
+    },
     {
       "title": "'친일 논란' 하영, 눈물 흘리며 촬영 중단… \"흔들린 멘탈\"",
       "url": "https://m.entertain.naver.com/article/117/0004095246",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 105187,
-      "rank": 1,
+      "views": 51612,
+      "rank": 3,
       "channel": "정보주는하마"
     },
     {
@@ -26,34 +44,16 @@
       "url": "https://m.entertain.naver.com/article/477/0000623533",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 52376,
-      "rank": 2,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "코요태 빽가, 20여 년 만에 최초 고백…“굉장히 조심스러운 이야기”",
-      "url": "https://m.entertain.naver.com/article/468/0001259992",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 51957,
-      "rank": 3,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "‘학대·내연녀 폭로’ 김주하 “남편 용서? 딴 여자랑 애 낳았어요”…강부자 앞 고백(데이앤나잇)",
-      "url": "https://m.entertain.naver.com/article/609/0001157443",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 44480,
+      "views": 38936,
       "rank": 4,
       "channel": "정보주는하마"
     },
     {
-      "title": "강부자, 이미숙이 보낸 문자에 불쾌..\"어른한테 정중해야지, 놀리는 건가\" ('데이앤나잇')",
-      "url": "https://m.entertain.naver.com/article/076/0004436274",
+      "title": "김민희, ♥︎홍상수 토닥토닥 받으며 수상…아들 언급에 울컥",
+      "url": "https://m.entertain.naver.com/article/468/0001260038",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 33859,
+      "views": 24131,
       "rank": 5,
       "channel": "정보주는하마"
     },
@@ -62,116 +62,8 @@
       "url": "https://m.entertain.naver.com/article/109/0005589441",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 27720,
+      "views": 20883,
       "rank": 6,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "김민희, ♥︎홍상수 토닥토닥 받으며 수상…아들 언급에 울컥",
-      "url": "https://m.entertain.naver.com/article/468/0001260038",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 24799,
-      "rank": 7,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'동성결혼' 크리스틴 스튜어트 \"전 남친 로버트 파틴슨과 허세 가득 루저였다\"",
-      "url": "https://m.entertain.naver.com/article/109/0005589652",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 19207,
-      "rank": 8,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "기안84 예능, 대본 있었다니…강미나 \"키 큰 남자 말고 태민이 이상형\" ('내일도')",
-      "url": "https://m.entertain.naver.com/article/312/0000772028",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 18826,
-      "rank": 9,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"'공개 열애 2번' 전현무, 내년 5월 결혼→케이윌 축가\"..비혼주의설 해명",
-      "url": "https://m.entertain.naver.com/article/108/0003462362",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 15659,
-      "rank": 10,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "환희, 이장우 '94년생' 소개팅 제안에 당황…\"욕 먹고 하차해야\"",
-      "url": "https://m.entertain.naver.com/article/003/0014130039",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 13599,
-      "rank": 11,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'홍상수의 뮤즈' 김민희, '눈 둘 데가 없네'로 두 번째 로카르노영화제 최우수 연기상 수상",
-      "url": "https://m.entertain.naver.com/article/465/0000019116",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 13347,
-      "rank": 12,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "하영 증조부, 명성황후 시신 소각 감독자 소개로 결혼? 매국노 중매 발칵",
-      "url": "https://m.entertain.naver.com/article/609/0001157476",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 11743,
-      "rank": 13,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "배우들도 전월세난...박경혜, “5000에 59만원 집 구하는데 매물 없어” ( ‘나혼산’)",
-      "url": "https://m.entertain.naver.com/article/312/0000772034",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 11640,
-      "rank": 14,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "이순실, 45㎏ 감량 후 공주님 패션 “탄수화물 아예 안 먹어” (동치미)",
-      "url": "https://m.entertain.naver.com/article/609/0001157392",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 11345,
-      "rank": 15,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "로제 \"멤버 활동 중단 원하면 존중\"…블랙핑크 10주년 잡음 속 발언 재조명",
-      "url": "https://m.entertain.naver.com/article/117/0004095249",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 9065,
-      "rank": 16,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "마운자로 맞고 12㎏ 뺀 곽범, 시술 중독 고백 “수천만원 써, 수염 제모만 17회”(아형)",
-      "url": "https://m.entertain.naver.com/article/609/0001157349",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 8295,
-      "rank": 17,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "송혜교, 광복절 새벽에 올린 사진…먹고난 수저 앞에서도 우아함 철철",
-      "url": "https://m.entertain.naver.com/article/109/0005589159",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 8062,
-      "rank": 18,
       "channel": "정보주는하마"
     },
     {
@@ -179,53 +71,125 @@
       "url": "https://m.entertain.naver.com/article/076/0004436321",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 7953,
+      "views": 16799,
+      "rank": 7,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "김민희, 하루 만에 확 달라진 얼굴…‘아가씨’ 히데코 떠오르네",
+      "url": "https://m.entertain.naver.com/article/410/0001136448",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 16557,
+      "rank": 8,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "‘학대·내연녀 폭로’ 김주하 “남편 용서? 딴 여자랑 애 낳았어요”…강부자 앞 고백(데이앤나잇)",
+      "url": "https://m.entertain.naver.com/article/609/0001157443",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 15004,
+      "rank": 9,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "유병재, 하영 조상 '친일파 레이더' 감지?…순간 '말잇못' 반응 재조명",
+      "url": "https://m.entertain.naver.com/article/311/0002045649",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 12568,
+      "rank": 10,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "하영, '민폐' 넘어 '갑질' 논란까지 붙을 판…지금 '눈물·멘탈' 부각은 악수",
+      "url": "https://m.entertain.naver.com/article/445/0000451198",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 12209,
+      "rank": 11,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "‘김부장’에 사비 1억 쓴 소지섭‥이동하 “선물받은 금 1돈 가보로 간직”(전참시)",
+      "url": "https://m.entertain.naver.com/article/609/0001157385",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 11329,
+      "rank": 12,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "이순실, 45㎏ 감량 후 공주님 패션 “탄수화물 아예 안 먹어” (동치미)",
+      "url": "https://m.entertain.naver.com/article/609/0001157392",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 11029,
+      "rank": 13,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "‘싸이 흠뻑쇼’ 불꽃놀이에 사직구장 19분 스톱...1년 만에 또 '논란'",
+      "url": "https://m.entertain.naver.com/article/076/0004436345",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 10601,
+      "rank": 14,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "‘전참시’ 이동하, 4일 공들인 ‘김부장’ 트럭신 비하인드…소진 “존경해”",
+      "url": "https://m.entertain.naver.com/article/144/0001132112",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 9540,
+      "rank": 15,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "‘태도 논란’ 정준원 챙긴 공효진…“데려왔어요” 팔짱 끼고 쫑파티 등장",
+      "url": "https://m.entertain.naver.com/article/410/0001136440",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 8436,
+      "rank": 16,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'동성결혼' 크리스틴 스튜어트 \"전 남친 로버트 파틴슨과 허세 가득 루저였다\"",
+      "url": "https://m.entertain.naver.com/article/109/0005589652",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 8164,
+      "rank": 17,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "오상진 아들, 생후 2개월 맞아? 6시간 장거리 이동에 통잠 \"여행이 체질인가?\"",
+      "url": "https://m.entertain.naver.com/article/076/0004436343",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 6968,
+      "rank": 18,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "유재석, 촬영 중 세금 내더니…“난 세금 많이 내는 사람” 또 사비로 플렉스",
+      "url": "https://m.entertain.naver.com/article/144/0001132118",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 6756,
       "rank": 19,
       "channel": "정보주는하마"
     },
     {
-      "title": "강부자 “오빠랑 이불에서 애 낳냐, 되바라지게 남편을” 호칭 저격(데이앤나잇)",
-      "url": "https://m.entertain.naver.com/article/609/0001157396",
+      "title": "‘치매 투병’ 브루스 윌리스, 막내딸 결혼식서 포착… 4년 만의 감동 근황",
+      "url": "https://m.entertain.naver.com/article/109/0005589746",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 7950,
+      "views": 6716,
       "rank": 20,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "김민희 로카르노 최우수 연기상 울컥‥홍상수 '눈둘데가 없네' 3관왕",
-      "url": "https://m.entertain.naver.com/article/437/0000506402",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 6449,
-      "rank": 21,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'결혼' 30기 옥순, 드레스 투어 중 구토 \"다 게워내고 누워\"",
-      "url": "https://m.entertain.naver.com/article/108/0003462411",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 5972,
-      "rank": 22,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "공효진의 큰 그림…‘무성의 논란’ 정준원 팔짱 끼고 등장시킨 특급 배려",
-      "url": "https://m.entertain.naver.com/article/468/0001260039",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 5950,
-      "rank": 23,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "강부자 가슴 쳤다, 여자 후배들 바친 ‘뚜쟁이’ 루머 분통 “故 이병철·정주영 5만원도 안 받아”(데이앤나잇)",
-      "url": "https://m.entertain.naver.com/article/609/0001157427",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 5898,
-      "rank": 24,
       "channel": "정보주는하마"
     },
     {
@@ -233,26 +197,26 @@
       "url": "https://m.entertain.naver.com/article/003/0014129871",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 5578,
-      "rank": 25,
+      "views": 6489,
+      "rank": 21,
       "channel": "정보주는하마"
     },
     {
-      "title": "'친일파 사과' 하영, 촬영 중 오열..생일파티 취소에 3·1절 방송 어쩌나",
-      "url": "https://m.entertain.naver.com/article/109/0005589677",
+      "title": "로제 \"멤버 활동 중단 원하면 존중\"…블랙핑크 10주년 잡음 속 발언 재조명",
+      "url": "https://m.entertain.naver.com/article/117/0004095249",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 5493,
-      "rank": 26,
+      "views": 6413,
+      "rank": 22,
       "channel": "정보주는하마"
     },
     {
-      "title": "유민상, '비만치료제' 효과에 놀랐다 \"식욕 억제 체감, 피자 한판도 못 먹어\"(동치미)",
-      "url": "https://m.entertain.naver.com/article/076/0004436291",
+      "title": "강부자 “오빠랑 이불에서 애 낳냐, 되바라지게 남편을” 호칭 저격(데이앤나잇)",
+      "url": "https://m.entertain.naver.com/article/609/0001157396",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 4998,
-      "rank": 27,
+      "views": 6257,
+      "rank": 23,
       "channel": "정보주는하마"
     },
     {
@@ -260,44 +224,80 @@
       "url": "https://m.entertain.naver.com/article/076/0004436281",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 4874,
+      "views": 6084,
+      "rank": 24,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"우리나라서 약간\"…유병재, 하영 '증조부 친일 논란' 예측했나→과거 발언 파묘",
+      "url": "https://m.entertain.naver.com/article/213/0001398100",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 5619,
+      "rank": 25,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "‘암 투병’ 이성미, 한층 건강해진 모습…“내년에는 저도”",
+      "url": "https://m.entertain.naver.com/article/468/0001260067",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 4906,
+      "rank": 26,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "하영 비판 소재원, 두 아들 데리고 서대문형무소로…“몇 대에 걸친 교육은 전쟁보다 큰 힘”",
+      "url": "https://m.entertain.naver.com/article/410/0001136430",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 4667,
+      "rank": 27,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'권상우♥' 손태영, 子룩희 깜짝 근황 \"야말 패션 따라하는 듯\"",
+      "url": "https://m.entertain.naver.com/article/108/0003462474",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 4606,
       "rank": 28,
       "channel": "정보주는하마"
     },
     {
-      "title": "'증조부 친일 사과' 하영, 광고 손절 못 막았다…라디오마저 선 긋기",
-      "url": "https://m.entertain.naver.com/article/109/0005589610",
+      "title": "'최진실 딸' 최준희, 세 번째 쌍꺼풀 수술 \"엄마와 달리 난 인조적\"",
+      "url": "https://m.entertain.naver.com/article/421/0009115905",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 4437,
+      "views": 4351,
       "rank": 29,
       "channel": "정보주는하마"
     },
     {
-      "title": "이혜정♥이희준 子, ‘문신남’ 변신한 아빠 보더니..“왜 깡패야?” 충격(워킹맘이현이)",
-      "url": "https://m.entertain.naver.com/article/109/0005589341",
+      "title": "출산 직후 울지 않는 아기…'60일 부부' 아내 \"아이 잘못되면 이혼할 것\" ('결혼지옥')",
+      "url": "https://m.entertain.naver.com/article/213/0001398077",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 4337,
+      "views": 4231,
       "rank": 30,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"진짜 미친 짓\" 처음보는 남자를 집으로 불렀다…女축구 스타, 男테니스 스타와 이렇게 만났다",
+      "title": "'그라운드 침수+선수 부상 위험' 부산 이어 대구도 취소, 페덱 vs 왕옌청 끝내 무산...경기 2시간 전 전격 결정",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 21659,
-      "rank": 2,
+      "views": 31953,
+      "rank": 1,
       "channel": "정보주는하마"
     },
     {
-      "title": "대선배 백인천 조문 못해 발동동…경기에 묶인 현직 감독들",
+      "title": "‘그럼 그렇지!’ 배지환, 또 방출…밀워키, 오클랜드서 유틸리티맨 영입",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 17873,
-      "rank": 4,
+      "views": 21353,
+      "rank": 3,
       "channel": "정보주는하마"
     },
     {
@@ -305,8 +305,26 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 15881,
-      "rank": 5,
+      "views": 14991,
+      "rank": 4,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'손서연 최다 19점' U-17 여자배구, 태국 꺾고 5-6위 결정전 진출",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 12263,
+      "rank": 8,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"진짜 미친 짓\" 처음보는 남자를 집으로 불렀다…女축구 스타, 男테니스 스타와 이렇게 만났다",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 11343,
+      "rank": 10,
       "channel": "정보주는하마"
     },
     {
@@ -314,26 +332,8 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 12742,
-      "rank": 6,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "염경엽 “내가 야구한 이후 처음” 자책… 결국 이 선수다, 100타점 해결사 돌아올까",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 10435,
-      "rank": 9,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "현역 은퇴 선언 \"저 때문에 슬퍼마세요\"...'득점왕' 임모빌레, 17년 프로 생활 마감 \"이젠 가족 곁에 머물고 싶다\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 9638,
-      "rank": 10,
+      "views": 9052,
+      "rank": 13,
       "channel": "정보주는하마"
     },
     {
@@ -341,46 +341,37 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 9013,
-      "rank": 11,
+      "views": 8398,
+      "rank": 15,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"韓 축구 환호!\" 국가대표 수비수 설영우 '빅 리그' 이적설 재점화…'즈베즈다 매우 흥미로운 상황→SEOL, 오랫동안 유럽 팀 관심'",
+      "title": "대선배 백인천 조문 못해 발동동…경기에 묶인 현직 감독들",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 6456,
+      "views": 8289,
       "rank": 16,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"야구가 하기 싫었다\"…부활 성공 좌승현, 우승반지 끼고 입대 엔딩 꿈꾼다",
+      "title": "안세영 얼마나 강하면…'세계선수권 최초 4회 우승' 노리는 日 여제도 도전자 자처…\"여전히 내가 챌린저, AN과 결승서 만나고 싶다\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 6106,
-      "rank": 19,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'월드컵 19분' 뛰고 홍명보에게 외면받았지만 소속팀에서는 완전히 자리 잡았다…셀틱 코치진 극찬 \"양현준은 정말 중요한 선수, 한 단계 더 올라섰다\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 5693,
+      "views": 7003,
       "rank": 20,
       "channel": "정보주는하마"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 40,
+      "article_count": 39,
       "topics": [
         {
           "title": "\"하영까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
           "angle_type": "논란·사건",
-          "article_count": 5,
+          "article_count": 8,
           "source_article": "'친일 논란' 하영, 눈물 흘리며 촬영 중단… \"흔들린 멘탈\"",
           "source_url": "https://m.entertain.naver.com/article/117/0004095246",
           "source_name": "엔터 많이 본 뉴스",
@@ -388,8 +379,8 @@
             "하영",
             "친일",
             "눈물",
-            "흘리며",
-            "중단"
+            "멘탈",
+            "흘리며"
           ],
           "template": "논란 집합",
           "score": 7.0,
@@ -411,18 +402,51 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"정말, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+          "angle_type": "가족·혈연",
+          "article_count": 6,
+          "source_article": "김민희, ♥︎홍상수 토닥토닥 받으며 수상…아들 언급에 울컥",
+          "source_url": "https://m.entertain.naver.com/article/468/0001260038",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "아들",
+            "김민희",
+            "홍상수",
+            "토닥토",
+            "받으며"
+          ],
+          "template": "동갑내기",
+          "score": 6.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "나이",
+              "대표작",
+              "현재 활동"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 7,
-          "source_article": "대선배 백인천 조문 못해 발동동…경기에 묶인 현직 감독들",
+          "article_count": 5,
+          "source_article": "'그라운드 침수+선수 부상 위험' 부산 이어 대구도 취소, 페덱 vs 왕옌청 끝내 무산...경기 2시간 전 전격 결정",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "정말",
-            "월드컵",
-            "하영",
-            "증조부",
-            "명성황"
+            "그라운",
+            "침수",
+            "선수",
+            "부상",
+            "위험"
           ],
           "template": "스포츠 기록",
           "score": 6.8,
@@ -444,21 +468,83 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+          "angle_type": "투병·건강",
+          "article_count": 3,
+          "source_article": "‘치매 투병’ 브루스 윌리스, 막내딸 결혼식서 포착… 4년 만의 감동 근황",
+          "source_url": "https://m.entertain.naver.com/article/109/0005589746",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "투병",
+            "치매",
+            "브루스",
+            "윌리스",
+            "막내딸"
+          ],
+          "template": "투병 극복",
+          "score": 6.6,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "투병 질환",
+              "공백기",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"눈물, 대체 무슨 일이?\" 눈물 관련 이슈 총정리",
+          "angle_type": "👤 눈물",
+          "article_count": 3,
+          "source_article": "'친일 논란' 하영, 눈물 흘리며 촬영 중단… \"흔들린 멘탈\"",
+          "source_url": "https://m.entertain.naver.com/article/117/0004095246",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "눈물"
+          ],
+          "template": "논란 집합",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"울지 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
           "angle_type": "결혼·이혼",
-          "article_count": 5,
+          "article_count": 4,
           "source_article": "'동성결혼' 크리스틴 스튜어트 \"전 남친 로버트 파틴슨과 허세 가득 루저였다\"",
           "source_url": "https://m.entertain.naver.com/article/109/0005589652",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "결혼",
+            "울지",
             "동성결",
             "크리스",
             "스튜어",
             "남친"
           ],
           "template": "결혼 화제",
-          "score": 6.8,
+          "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -477,21 +563,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-          "angle_type": "가족·혈연",
+          "title": "\"시간 결혼설?\" 시간 연애사 총정리",
+          "angle_type": "👤 시간",
           "article_count": 3,
-          "source_article": "김민희, ♥︎홍상수 토닥토닥 받으며 수상…아들 언급에 울컥",
-          "source_url": "https://m.entertain.naver.com/article/468/0001260038",
+          "source_article": "오상진 아들, 생후 2개월 맞아? 6시간 장거리 이동에 통잠 \"여행이 체질인가?\"",
+          "source_url": "https://m.entertain.naver.com/article/076/0004436343",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "김민희",
-            "홍상수",
-            "토닥토",
-            "받으며",
-            "수상"
+            "시간"
           ],
-          "template": "동갑내기",
-          "score": 6.6,
+          "template": "결혼 화제",
+          "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -502,9 +584,71 @@
           "table": {
             "headers": [
               "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 2,
+          "source_article": "‘치매 투병’ 브루스 윌리스, 막내딸 결혼식서 포착… 4년 만의 감동 근황",
+          "source_url": "https://m.entertain.naver.com/article/109/0005589746",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "근황",
+            "치매",
+            "투병",
+            "브루스",
+            "윌리스"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.1,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"데이앤, 대체 무슨 일이?\" 데이앤 관련 이슈 총정리",
+          "angle_type": "👤 데이앤",
+          "article_count": 3,
+          "source_article": "강부자, 이미숙이 보낸 문자에 불쾌..\"어른한테 정중해야지, 놀리는 건가\" ('데이앤나잇')",
+          "source_url": "https://m.entertain.naver.com/article/076/0004436274",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "데이앤"
+          ],
+          "template": "논란 집합",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
@@ -512,15 +656,15 @@
         {
           "title": "\"나잇, 대체 무슨 일이?\" 나잇 관련 이슈 총정리",
           "angle_type": "👤 나잇",
-          "article_count": 4,
-          "source_article": "‘학대·내연녀 폭로’ 김주하 “남편 용서? 딴 여자랑 애 낳았어요”…강부자 앞 고백(데이앤나잇)",
-          "source_url": "https://m.entertain.naver.com/article/609/0001157443",
+          "article_count": 3,
+          "source_article": "강부자, 이미숙이 보낸 문자에 불쾌..\"어른한테 정중해야지, 놀리는 건가\" ('데이앤나잇')",
+          "source_url": "https://m.entertain.naver.com/article/076/0004436274",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "나잇"
           ],
           "template": "논란 집합",
-          "score": 6.5,
+          "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -541,72 +685,14 @@
         {
           "title": "\"강부자, 대체 무슨 일이?\" 강부자 관련 이슈 총정리",
           "angle_type": "👤 강부자",
-          "article_count": 4,
-          "source_article": "‘학대·내연녀 폭로’ 김주하 “남편 용서? 딴 여자랑 애 낳았어요”…강부자 앞 고백(데이앤나잇)",
-          "source_url": "https://m.entertain.naver.com/article/609/0001157443",
+          "article_count": 3,
+          "source_article": "강부자, 이미숙이 보낸 문자에 불쾌..\"어른한테 정중해야지, 놀리는 건가\" ('데이앤나잇')",
+          "source_url": "https://m.entertain.naver.com/article/076/0004436274",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "강부자"
           ],
           "template": "논란 집합",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"데이앤, 대체 무슨 일이?\" 데이앤 관련 이슈 총정리",
-          "angle_type": "👤 데이앤",
-          "article_count": 4,
-          "source_article": "‘학대·내연녀 폭로’ 김주하 “남편 용서? 딴 여자랑 애 낳았어요”…강부자 앞 고백(데이앤나잇)",
-          "source_url": "https://m.entertain.naver.com/article/609/0001157443",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "데이앤"
-          ],
-          "template": "논란 집합",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"고백, 대체 무슨 일이?\" 고백 관련 이슈 총정리",
-          "angle_type": "👤 고백",
-          "article_count": 3,
-          "source_article": "코요태 빽가, 20여 년 만에 최초 고백…“굉장히 조심스러운 이야기”",
-          "source_url": "https://m.entertain.naver.com/article/468/0001259992",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "고백"
-          ],
-          "template": "논란 집합",
           "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
@@ -620,64 +706,6 @@
               "이름",
               "소속·직업",
               "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"홍상수\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 홍상수",
-          "article_count": 3,
-          "source_article": "김민희, ♥︎홍상수 토닥토닥 받으며 수상…아들 언급에 울컥",
-          "source_url": "https://m.entertain.naver.com/article/468/0001260038",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "홍상수"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"김민희\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 김민희",
-          "article_count": 3,
-          "source_article": "김민희, ♥︎홍상수 토닥토닥 받으며 수상…아들 언급에 울컥",
-          "source_url": "https://m.entertain.naver.com/article/468/0001260038",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "김민희"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
               "현재 상황"
             ]
           },
@@ -687,34 +715,30 @@
       "keyword_freq": [
         [
           "하영",
-          5
+          6
         ],
         [
           "데이앤나잇",
-          4
+          3
         ],
         [
           "강부자",
-          4
-        ],
-        [
-          "고백",
-          3
-        ],
-        [
-          "김민희",
-          3
-        ],
-        [
-          "결혼",
           3
         ],
         [
           "눈물",
-          2
+          3
         ],
         [
-          "친일",
+          "아들",
+          3
+        ],
+        [
+          "시간",
+          3
+        ],
+        [
+          "멘탈",
           2
         ],
         [
@@ -722,89 +746,85 @@
           2
         ],
         [
-          "울컥",
+          "친일",
           2
         ],
         [
-          "홍상수",
+          "김민희",
           2
         ],
         [
-          "수상",
+          "깜짝",
           2
         ],
         [
-          "연기상",
+          "얼굴",
           2
         ],
         [
-          "최우수",
+          "유병재",
           2
         ],
         [
-          "없네",
+          "재조명",
           2
         ],
         [
-          "증조부",
+          "전참시",
           2
         ],
         [
-          "동치미",
+          "이동하",
           2
         ],
         [
-          "먹어",
+          "김부장",
           2
         ],
         [
-          "끼고",
+          "패션",
           2
         ],
         [
-          "사과",
+          "근황",
+          2
+        ],
+        [
+          "투병",
           2
         ]
       ],
       "name_freq": [
         [
           "하영",
-          5
-        ],
-        [
-          "나잇",
-          4
-        ],
-        [
-          "강부자",
-          4
+          6
         ],
         [
           "데이앤",
-          4
-        ],
-        [
-          "고백",
           3
         ],
         [
-          "홍상수",
+          "나잇",
           3
         ],
         [
-          "김민희",
-          3
-        ],
-        [
-          "결혼",
+          "강부자",
           3
         ],
         [
           "눈물",
-          2
+          3
         ],
         [
-          "친일",
+          "아들",
+          3
+        ],
+        [
+          "시간",
+          3
+        ],
+        [
+          "멘탈",
           2
         ],
         [
@@ -812,90 +832,73 @@
           2
         ],
         [
-          "울컥",
+          "친일",
           2
         ],
         [
-          "수상",
+          "김민희",
           2
         ],
         [
-          "연기상",
+          "깜짝",
           2
         ],
         [
-          "최우수",
+          "얼굴",
+          2
+        ],
+        [
+          "유병재",
+          2
+        ],
+        [
+          "재조명",
           2
         ]
       ],
       "angle_scores": [
         [
           "논란·사건",
-          5
+          8
         ],
         [
           "결혼·이혼",
-          5
+          4
+        ],
+        [
+          "복귀·근황",
+          2
+        ],
+        [
+          "투병·건강",
+          3
         ],
         [
           "스포츠",
-          7
+          5
         ],
         [
           "가족·혈연",
-          3
+          6
         ]
       ]
     },
     "초구딱": {
-      "article_count": 40,
+      "article_count": 11,
       "topics": [
-        {
-          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 2,
-          "source_article": "두산 배 아파서 어쩌나… 한국 7월 퇴출→MLB 복귀라니, 역대급 반전 사건 터졌다",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "두산",
-            "아파서",
-            "어쩌나",
-            "퇴출",
-            "복귀라"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 7.2,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "초구딱"
-        },
         {
           "title": "\"다저스, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 9,
+          "article_count": 7,
           "source_article": "땡큐 김혜성! 다저스 땡 잡았네, 역대급 트레이드 예감…72G 연속 출루, 유망주 랭킹 60위→16위 '폭풍 성장'",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "다저스",
-            "출루",
+            "유망주",
             "전격",
-            "깜짝",
-            "선수"
+            "땡큐",
+            "김혜성"
           ],
           "template": "스포츠 기록",
           "score": 6.8,
@@ -915,52 +918,19 @@
             ]
           },
           "channel": "초구딱"
-        },
-        {
-          "title": "\"안내\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 안내",
-          "article_count": 3,
-          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "안내"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
         [
-          "안내",
-          3
+          "역대급",
+          2
         ],
         [
           "다저스",
           2
         ],
         [
-          "출루",
-          2
-        ],
-        [
-          "역대급",
+          "유망주",
           2
         ],
         [
@@ -968,48 +938,40 @@
           2
         ],
         [
-          "야구",
+          "롯데",
           2
         ],
         [
-          "던지는",
+          "한화",
           2
         ],
         [
-          "깜짝",
-          2
+          "예감",
+          1
         ],
         [
-          "김도영",
-          2
+          "출루",
+          1
         ],
         [
-          "업데이트",
-          2
+          "잡았네",
+          1
         ],
         [
-          "당첨자",
-          2
+          "연속",
+          1
         ],
         [
-          "이벤트",
-          2
+          "폭풍",
+          1
         ],
         [
-          "워터밤",
-          2
+          "성장",
+          1
         ],
         [
-          "엠팍",
-          2
-        ],
-        [
-          "진짜",
-          2
-        ],
-        [
-          "누가",
-          2
+          "김혜성",
+          1
         ],
         [
           "땡큐",
@@ -1024,25 +986,33 @@
           1
         ],
         [
-          "연속",
+          "무대",
+          1
+        ],
+        [
+          "날벼락",
+          1
+        ],
+        [
+          "배지환",
+          1
+        ],
+        [
+          "통보",
           1
         ]
       ],
       "name_freq": [
         [
-          "안내",
-          3
+          "역대급",
+          2
         ],
         [
           "다저스",
           2
         ],
         [
-          "출루",
-          2
-        ],
-        [
-          "역대급",
+          "유망주",
           2
         ],
         [
@@ -1050,54 +1020,18 @@
           2
         ],
         [
-          "야구",
+          "롯데",
           2
         ],
         [
-          "던지는",
-          2
-        ],
-        [
-          "깜짝",
-          2
-        ],
-        [
-          "김도영",
-          2
-        ],
-        [
-          "업데이",
-          2
-        ],
-        [
-          "당첨자",
-          2
-        ],
-        [
-          "이벤트",
-          2
-        ],
-        [
-          "워터밤",
-          2
-        ],
-        [
-          "엠팍",
-          2
-        ],
-        [
-          "진짜",
+          "한화",
           2
         ]
       ],
       "angle_scores": [
         [
-          "복귀·근황",
-          2
-        ],
-        [
           "스포츠",
-          9
+          7
         ]
       ]
     }
@@ -1106,7 +1040,7 @@
     {
       "title": "\"하영까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
       "angle_type": "논란·사건",
-      "article_count": 5,
+      "article_count": 8,
       "source_article": "'친일 논란' 하영, 눈물 흘리며 촬영 중단… \"흔들린 멘탈\"",
       "source_url": "https://m.entertain.naver.com/article/117/0004095246",
       "source_name": "엔터 많이 본 뉴스",
@@ -1114,8 +1048,8 @@
         "하영",
         "친일",
         "눈물",
-        "흘리며",
-        "중단"
+        "멘탈",
+        "흘리며"
       ],
       "template": "논란 집합",
       "score": 7.0,
@@ -1137,18 +1071,51 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"정말, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 6,
+      "source_article": "김민희, ♥︎홍상수 토닥토닥 받으며 수상…아들 언급에 울컥",
+      "source_url": "https://m.entertain.naver.com/article/468/0001260038",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "아들",
+        "김민희",
+        "홍상수",
+        "토닥토",
+        "받으며"
+      ],
+      "template": "동갑내기",
+      "score": 6.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "나이",
+          "대표작",
+          "현재 활동"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 7,
-      "source_article": "대선배 백인천 조문 못해 발동동…경기에 묶인 현직 감독들",
+      "article_count": 5,
+      "source_article": "'그라운드 침수+선수 부상 위험' 부산 이어 대구도 취소, 페덱 vs 왕옌청 끝내 무산...경기 2시간 전 전격 결정",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "정말",
-        "월드컵",
-        "하영",
-        "증조부",
-        "명성황"
+        "그라운",
+        "침수",
+        "선수",
+        "부상",
+        "위험"
       ],
       "template": "스포츠 기록",
       "score": 6.8,
@@ -1170,53 +1137,20 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 5,
-      "source_article": "'동성결혼' 크리스틴 스튜어트 \"전 남친 로버트 파틴슨과 허세 가득 루저였다\"",
-      "source_url": "https://m.entertain.naver.com/article/109/0005589652",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "결혼",
-        "동성결",
-        "크리스",
-        "스튜어",
-        "남친"
-      ],
-      "template": "결혼 화제",
-      "score": 6.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-      "angle_type": "가족·혈연",
+      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+      "angle_type": "투병·건강",
       "article_count": 3,
-      "source_article": "김민희, ♥︎홍상수 토닥토닥 받으며 수상…아들 언급에 울컥",
-      "source_url": "https://m.entertain.naver.com/article/468/0001260038",
+      "source_article": "‘치매 투병’ 브루스 윌리스, 막내딸 결혼식서 포착… 4년 만의 감동 근황",
+      "source_url": "https://m.entertain.naver.com/article/109/0005589746",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "김민희",
-        "홍상수",
-        "토닥토",
-        "받으며",
-        "수상"
+        "투병",
+        "치매",
+        "브루스",
+        "윌리스",
+        "막내딸"
       ],
-      "template": "동갑내기",
+      "template": "투병 극복",
       "score": 6.6,
       "dup_check": {
         "is_duplicate": false,
@@ -1228,205 +1162,25 @@
       "table": {
         "headers": [
           "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
+          "투병 질환",
+          "공백기",
+          "복귀 작품"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"나잇, 대체 무슨 일이?\" 나잇 관련 이슈 총정리",
-      "angle_type": "👤 나잇",
-      "article_count": 4,
-      "source_article": "‘학대·내연녀 폭로’ 김주하 “남편 용서? 딴 여자랑 애 낳았어요”…강부자 앞 고백(데이앤나잇)",
-      "source_url": "https://m.entertain.naver.com/article/609/0001157443",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "나잇"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"강부자, 대체 무슨 일이?\" 강부자 관련 이슈 총정리",
-      "angle_type": "👤 강부자",
-      "article_count": 4,
-      "source_article": "‘학대·내연녀 폭로’ 김주하 “남편 용서? 딴 여자랑 애 낳았어요”…강부자 앞 고백(데이앤나잇)",
-      "source_url": "https://m.entertain.naver.com/article/609/0001157443",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "강부자"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"데이앤, 대체 무슨 일이?\" 데이앤 관련 이슈 총정리",
-      "angle_type": "👤 데이앤",
-      "article_count": 4,
-      "source_article": "‘학대·내연녀 폭로’ 김주하 “남편 용서? 딴 여자랑 애 낳았어요”…강부자 앞 고백(데이앤나잇)",
-      "source_url": "https://m.entertain.naver.com/article/609/0001157443",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "데이앤"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"고백, 대체 무슨 일이?\" 고백 관련 이슈 총정리",
-      "angle_type": "👤 고백",
+      "title": "\"눈물, 대체 무슨 일이?\" 눈물 관련 이슈 총정리",
+      "angle_type": "👤 눈물",
       "article_count": 3,
-      "source_article": "코요태 빽가, 20여 년 만에 최초 고백…“굉장히 조심스러운 이야기”",
-      "source_url": "https://m.entertain.naver.com/article/468/0001259992",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "고백"
-      ],
-      "template": "논란 집합",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"홍상수\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 홍상수",
-      "article_count": 3,
-      "source_article": "김민희, ♥︎홍상수 토닥토닥 받으며 수상…아들 언급에 울컥",
-      "source_url": "https://m.entertain.naver.com/article/468/0001260038",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "홍상수"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"김민희\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 김민희",
-      "article_count": 3,
-      "source_article": "김민희, ♥︎홍상수 토닥토닥 받으며 수상…아들 언급에 울컥",
-      "source_url": "https://m.entertain.naver.com/article/468/0001260038",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "김민희"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    }
-  ],
-  "all_topics": [
-    {
-      "title": "\"하영까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 5,
       "source_article": "'친일 논란' 하영, 눈물 흘리며 촬영 중단… \"흔들린 멘탈\"",
       "source_url": "https://m.entertain.naver.com/article/117/0004095246",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "하영",
-        "친일",
-        "눈물",
-        "흘리며",
-        "중단"
+        "눈물"
       ],
       "template": "논란 집합",
-      "score": 7.0,
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1445,54 +1199,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"정말, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 7,
-      "source_article": "대선배 백인천 조문 못해 발동동…경기에 묶인 현직 감독들",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "정말",
-        "월드컵",
-        "하영",
-        "증조부",
-        "명성황"
-      ],
-      "template": "스포츠 기록",
-      "score": 6.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "title": "\"울지 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
       "angle_type": "결혼·이혼",
-      "article_count": 5,
+      "article_count": 4,
       "source_article": "'동성결혼' 크리스틴 스튜어트 \"전 남친 로버트 파틴슨과 허세 가득 루저였다\"",
       "source_url": "https://m.entertain.naver.com/article/109/0005589652",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "결혼",
+        "울지",
         "동성결",
         "크리스",
         "스튜어",
         "남친"
       ],
       "template": "결혼 화제",
-      "score": 6.8,
+      "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1511,21 +1232,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-      "angle_type": "가족·혈연",
+      "title": "\"시간 결혼설?\" 시간 연애사 총정리",
+      "angle_type": "👤 시간",
       "article_count": 3,
-      "source_article": "김민희, ♥︎홍상수 토닥토닥 받으며 수상…아들 언급에 울컥",
-      "source_url": "https://m.entertain.naver.com/article/468/0001260038",
+      "source_article": "오상진 아들, 생후 2개월 맞아? 6시간 장거리 이동에 통잠 \"여행이 체질인가?\"",
+      "source_url": "https://m.entertain.naver.com/article/076/0004436343",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "김민희",
-        "홍상수",
-        "토닥토",
-        "받으며",
-        "수상"
+        "시간"
       ],
-      "template": "동갑내기",
-      "score": 6.6,
+      "template": "결혼 화제",
+      "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1536,203 +1253,29 @@
       "table": {
         "headers": [
           "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"나잇, 대체 무슨 일이?\" 나잇 관련 이슈 총정리",
-      "angle_type": "👤 나잇",
-      "article_count": 4,
-      "source_article": "‘학대·내연녀 폭로’ 김주하 “남편 용서? 딴 여자랑 애 낳았어요”…강부자 앞 고백(데이앤나잇)",
-      "source_url": "https://m.entertain.naver.com/article/609/0001157443",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "나잇"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"강부자, 대체 무슨 일이?\" 강부자 관련 이슈 총정리",
-      "angle_type": "👤 강부자",
-      "article_count": 4,
-      "source_article": "‘학대·내연녀 폭로’ 김주하 “남편 용서? 딴 여자랑 애 낳았어요”…강부자 앞 고백(데이앤나잇)",
-      "source_url": "https://m.entertain.naver.com/article/609/0001157443",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "강부자"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"데이앤, 대체 무슨 일이?\" 데이앤 관련 이슈 총정리",
-      "angle_type": "👤 데이앤",
-      "article_count": 4,
-      "source_article": "‘학대·내연녀 폭로’ 김주하 “남편 용서? 딴 여자랑 애 낳았어요”…강부자 앞 고백(데이앤나잇)",
-      "source_url": "https://m.entertain.naver.com/article/609/0001157443",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "데이앤"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"고백, 대체 무슨 일이?\" 고백 관련 이슈 총정리",
-      "angle_type": "👤 고백",
-      "article_count": 3,
-      "source_article": "코요태 빽가, 20여 년 만에 최초 고백…“굉장히 조심스러운 이야기”",
-      "source_url": "https://m.entertain.naver.com/article/468/0001259992",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "고백"
-      ],
-      "template": "논란 집합",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"홍상수\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 홍상수",
-      "article_count": 3,
-      "source_article": "김민희, ♥︎홍상수 토닥토닥 받으며 수상…아들 언급에 울컥",
-      "source_url": "https://m.entertain.naver.com/article/468/0001260038",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "홍상수"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"김민희\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 김민희",
-      "article_count": 3,
-      "source_article": "김민희, ♥︎홍상수 토닥토닥 받으며 수상…아들 언급에 울컥",
-      "source_url": "https://m.entertain.naver.com/article/468/0001260038",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "김민희"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
       "angle_type": "복귀·근황",
       "article_count": 2,
-      "source_article": "두산 배 아파서 어쩌나… 한국 7월 퇴출→MLB 복귀라니, 역대급 반전 사건 터졌다",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "source_article": "‘치매 투병’ 브루스 윌리스, 막내딸 결혼식서 포착… 4년 만의 감동 근황",
+      "source_url": "https://m.entertain.naver.com/article/109/0005589746",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "두산",
-        "아파서",
-        "어쩌나",
-        "퇴출",
-        "복귀라"
+        "근황",
+        "치매",
+        "투병",
+        "브루스",
+        "윌리스"
       ],
       "template": "장기 공백 복귀",
-      "score": 7.2,
+      "score": 6.1,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1748,21 +1291,453 @@
           "복귀 작품"
         ]
       },
-      "channel": "초구딱"
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"데이앤, 대체 무슨 일이?\" 데이앤 관련 이슈 총정리",
+      "angle_type": "👤 데이앤",
+      "article_count": 3,
+      "source_article": "강부자, 이미숙이 보낸 문자에 불쾌..\"어른한테 정중해야지, 놀리는 건가\" ('데이앤나잇')",
+      "source_url": "https://m.entertain.naver.com/article/076/0004436274",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "데이앤"
+      ],
+      "template": "논란 집합",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"나잇, 대체 무슨 일이?\" 나잇 관련 이슈 총정리",
+      "angle_type": "👤 나잇",
+      "article_count": 3,
+      "source_article": "강부자, 이미숙이 보낸 문자에 불쾌..\"어른한테 정중해야지, 놀리는 건가\" ('데이앤나잇')",
+      "source_url": "https://m.entertain.naver.com/article/076/0004436274",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "나잇"
+      ],
+      "template": "논란 집합",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"강부자, 대체 무슨 일이?\" 강부자 관련 이슈 총정리",
+      "angle_type": "👤 강부자",
+      "article_count": 3,
+      "source_article": "강부자, 이미숙이 보낸 문자에 불쾌..\"어른한테 정중해야지, 놀리는 건가\" ('데이앤나잇')",
+      "source_url": "https://m.entertain.naver.com/article/076/0004436274",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "강부자"
+      ],
+      "template": "논란 집합",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    }
+  ],
+  "all_topics": [
+    {
+      "title": "\"하영까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 8,
+      "source_article": "'친일 논란' 하영, 눈물 흘리며 촬영 중단… \"흔들린 멘탈\"",
+      "source_url": "https://m.entertain.naver.com/article/117/0004095246",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "하영",
+        "친일",
+        "눈물",
+        "멘탈",
+        "흘리며"
+      ],
+      "template": "논란 집합",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 6,
+      "source_article": "김민희, ♥︎홍상수 토닥토닥 받으며 수상…아들 언급에 울컥",
+      "source_url": "https://m.entertain.naver.com/article/468/0001260038",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "아들",
+        "김민희",
+        "홍상수",
+        "토닥토",
+        "받으며"
+      ],
+      "template": "동갑내기",
+      "score": 6.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "나이",
+          "대표작",
+          "현재 활동"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 5,
+      "source_article": "'그라운드 침수+선수 부상 위험' 부산 이어 대구도 취소, 페덱 vs 왕옌청 끝내 무산...경기 2시간 전 전격 결정",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "그라운",
+        "침수",
+        "선수",
+        "부상",
+        "위험"
+      ],
+      "template": "스포츠 기록",
+      "score": 6.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+      "angle_type": "투병·건강",
+      "article_count": 3,
+      "source_article": "‘치매 투병’ 브루스 윌리스, 막내딸 결혼식서 포착… 4년 만의 감동 근황",
+      "source_url": "https://m.entertain.naver.com/article/109/0005589746",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "투병",
+        "치매",
+        "브루스",
+        "윌리스",
+        "막내딸"
+      ],
+      "template": "투병 극복",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "투병 질환",
+          "공백기",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"눈물, 대체 무슨 일이?\" 눈물 관련 이슈 총정리",
+      "angle_type": "👤 눈물",
+      "article_count": 3,
+      "source_article": "'친일 논란' 하영, 눈물 흘리며 촬영 중단… \"흔들린 멘탈\"",
+      "source_url": "https://m.entertain.naver.com/article/117/0004095246",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "눈물"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"울지 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 4,
+      "source_article": "'동성결혼' 크리스틴 스튜어트 \"전 남친 로버트 파틴슨과 허세 가득 루저였다\"",
+      "source_url": "https://m.entertain.naver.com/article/109/0005589652",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "울지",
+        "동성결",
+        "크리스",
+        "스튜어",
+        "남친"
+      ],
+      "template": "결혼 화제",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"시간 결혼설?\" 시간 연애사 총정리",
+      "angle_type": "👤 시간",
+      "article_count": 3,
+      "source_article": "오상진 아들, 생후 2개월 맞아? 6시간 장거리 이동에 통잠 \"여행이 체질인가?\"",
+      "source_url": "https://m.entertain.naver.com/article/076/0004436343",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "시간"
+      ],
+      "template": "결혼 화제",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "‘치매 투병’ 브루스 윌리스, 막내딸 결혼식서 포착… 4년 만의 감동 근황",
+      "source_url": "https://m.entertain.naver.com/article/109/0005589746",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "근황",
+        "치매",
+        "투병",
+        "브루스",
+        "윌리스"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"데이앤, 대체 무슨 일이?\" 데이앤 관련 이슈 총정리",
+      "angle_type": "👤 데이앤",
+      "article_count": 3,
+      "source_article": "강부자, 이미숙이 보낸 문자에 불쾌..\"어른한테 정중해야지, 놀리는 건가\" ('데이앤나잇')",
+      "source_url": "https://m.entertain.naver.com/article/076/0004436274",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "데이앤"
+      ],
+      "template": "논란 집합",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"나잇, 대체 무슨 일이?\" 나잇 관련 이슈 총정리",
+      "angle_type": "👤 나잇",
+      "article_count": 3,
+      "source_article": "강부자, 이미숙이 보낸 문자에 불쾌..\"어른한테 정중해야지, 놀리는 건가\" ('데이앤나잇')",
+      "source_url": "https://m.entertain.naver.com/article/076/0004436274",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "나잇"
+      ],
+      "template": "논란 집합",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"강부자, 대체 무슨 일이?\" 강부자 관련 이슈 총정리",
+      "angle_type": "👤 강부자",
+      "article_count": 3,
+      "source_article": "강부자, 이미숙이 보낸 문자에 불쾌..\"어른한테 정중해야지, 놀리는 건가\" ('데이앤나잇')",
+      "source_url": "https://m.entertain.naver.com/article/076/0004436274",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "강부자"
+      ],
+      "template": "논란 집합",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
     },
     {
       "title": "\"다저스, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 9,
+      "article_count": 7,
       "source_article": "땡큐 김혜성! 다저스 땡 잡았네, 역대급 트레이드 예감…72G 연속 출루, 유망주 랭킹 60위→16위 '폭풍 성장'",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "다저스",
-        "출루",
+        "유망주",
         "전격",
-        "깜짝",
-        "선수"
+        "땡큐",
+        "김혜성"
       ],
       "template": "스포츠 기록",
       "score": 6.8,
@@ -1782,68 +1757,35 @@
         ]
       },
       "channel": "초구딱"
-    },
-    {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
-      "article_count": 3,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "안내"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
     [
       "하영",
-      5
+      6
     ],
     [
       "데이앤나잇",
-      4
+      3
     ],
     [
       "강부자",
-      4
-    ],
-    [
-      "고백",
-      3
-    ],
-    [
-      "김민희",
-      3
-    ],
-    [
-      "결혼",
       3
     ],
     [
       "눈물",
-      2
+      3
     ],
     [
-      "친일",
+      "아들",
+      3
+    ],
+    [
+      "시간",
+      3
+    ],
+    [
+      "멘탈",
       2
     ],
     [
@@ -1851,89 +1793,85 @@
       2
     ],
     [
-      "울컥",
+      "친일",
       2
     ],
     [
-      "홍상수",
+      "김민희",
       2
     ],
     [
-      "수상",
+      "깜짝",
       2
     ],
     [
-      "연기상",
+      "얼굴",
       2
     ],
     [
-      "최우수",
+      "유병재",
       2
     ],
     [
-      "없네",
+      "재조명",
       2
     ],
     [
-      "증조부",
+      "전참시",
       2
     ],
     [
-      "동치미",
+      "이동하",
       2
     ],
     [
-      "먹어",
+      "김부장",
       2
     ],
     [
-      "끼고",
+      "패션",
       2
     ],
     [
-      "사과",
+      "근황",
+      2
+    ],
+    [
+      "투병",
       2
     ]
   ],
   "name_freq": [
     [
       "하영",
-      5
-    ],
-    [
-      "나잇",
-      4
-    ],
-    [
-      "강부자",
-      4
+      6
     ],
     [
       "데이앤",
-      4
-    ],
-    [
-      "고백",
       3
     ],
     [
-      "홍상수",
+      "나잇",
       3
     ],
     [
-      "김민희",
-      3
-    ],
-    [
-      "결혼",
+      "강부자",
       3
     ],
     [
       "눈물",
-      2
+      3
     ],
     [
-      "친일",
+      "아들",
+      3
+    ],
+    [
+      "시간",
+      3
+    ],
+    [
+      "멘탈",
       2
     ],
     [
@@ -1941,23 +1879,31 @@
       2
     ],
     [
-      "울컥",
+      "친일",
       2
     ],
     [
-      "수상",
+      "김민희",
       2
     ],
     [
-      "연기상",
+      "깜짝",
       2
     ],
     [
-      "최우수",
+      "얼굴",
+      2
+    ],
+    [
+      "유병재",
+      2
+    ],
+    [
+      "재조명",
       2
     ]
   ],
-  "total_topics_generated": 13,
-  "valid_topics": 13,
+  "total_topics_generated": 12,
+  "valid_topics": 12,
   "excluded_duplicates": 0
 }
