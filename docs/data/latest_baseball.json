@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-17 02:19:06",
+  "scan_time": "2026-08-17 05:33:48",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,17 +8,17 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 0
+    "MLB파크 불펜": 30
   },
-  "total_articles": 50,
+  "total_articles": 80,
   "articles": [
     {
       "title": "\"태극마크 달고 싶다\" 韓 야구 이게 무슨 횡재인가, 토론토 3할 중견수가 한국계였다니…다음 WBC 지원군 되나",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 33289,
-      "rank": 2,
+      "views": 34149,
+      "rank": 1,
       "channel": "초구딱"
     },
     {
@@ -26,25 +26,16 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 30561,
-      "rank": 3,
+      "views": 15747,
+      "rank": 6,
       "channel": "초구딱"
     },
     {
-      "title": "'끝내 시한폭탄 터졌다' 두산 계약 파기한 이유 이거였나, 초대형 악재",
+      "title": "KIA는 이렇게 웃고 싶지 않다… FA 대박 코앞이었는데, 마지막 의구심 지워내라",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 21588,
-      "rank": 7,
-      "channel": "초구딱"
-    },
-    {
-      "title": "KIA 한숨짓게 했던 그 선수, ‘제2의 강정호’로 크나… 21억 계약금 괜히 줬겠나, 거포 유격수 호평 일색",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 16965,
+      "views": 14812,
       "rank": 8,
       "channel": "초구딱"
     },
@@ -53,78 +44,315 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 11323,
+      "views": 13389,
+      "rank": 9,
+      "channel": "초구딱"
+    },
+    {
+      "title": "KIA 한숨짓게 했던 그 선수, ‘제2의 강정호’로 크나… 21억 계약금 괜히 줬겠나, 거포 유격수 호평 일색",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 7195,
+      "rank": 17,
+      "channel": "초구딱"
+    },
+    {
+      "title": "충격 비보 '복귀 확률 1%' 기적 쓴 ML 288승 레전드 투수, 향년 83세로 별세…\"전 세계 수많은 선수의 운명과 진로를 바꿨다\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 5677,
+      "rank": 20,
+      "channel": "초구딱"
+    },
+    {
+      "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 1,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 2,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🔔[업데이트] 외부 링크 미리보기(Embed/OG 태그) 기능 추가 안내🔔",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202607070000002111",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 3,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🛠️[업데이트] 해외 접속 장애 조치 관련 안내_260814🛠️",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202608130000002151",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 4,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🌊[당첨자 발표] 엠팍 유저 대상 워터밤 속초 2026 티켓 증정 이벤트🌊",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202607290000002144",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 5,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🌊[당첨자 발표] 엠팍 워터밤 + 호텔 숙박권 제공 이벤트🌊",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202607270000002132",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 6,
+      "channel": "초구딱"
+    },
+    {
+      "title": "근데 일산이 강북으로는 접근성이 좋지 않나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032972&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 7,
+      "channel": "초구딱"
+    },
+    {
+      "title": "근데 현기가 왜 망한다는거임?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032957&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 18,
+      "rank": 8,
+      "channel": "초구딱"
+    },
+    {
+      "title": "오랜만에 3대3 그룹ㅅㅅ 하고 왔습니다.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032954&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 143,
+      "rank": 9,
+      "channel": "초구딱"
+    },
+    {
+      "title": "어릴 때 포터 타는 아재들이 부러웠던 이유.JPG",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032951&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 27,
+      "rank": 10,
+      "channel": "초구딱"
+    },
+    {
+      "title": "오디세이 불펜 논란.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032945&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 42,
+      "rank": 11,
+      "channel": "초구딱"
+    },
+    {
+      "title": "요즘 결정사 평점 논란.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032939&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 64,
       "rank": 12,
       "channel": "초구딱"
     },
     {
-      "title": "KIA는 이렇게 웃고 싶지 않다… FA 대박 코앞이었는데, 마지막 의구심 지워내라",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 10817,
+      "title": "중국처럼 인간들 관리하면 범죄율 줄어들까요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032930&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 22,
+      "rank": 13,
+      "channel": "초구딱"
+    },
+    {
+      "title": "일산 집값 충격.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032921&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 235,
       "rank": 14,
       "channel": "초구딱"
     },
     {
-      "title": "KT·삼성·LG·두산·KIA 가을야구 주인공 확정? 5위 KIA·6위 한화 6G차…그런데 다음주 운명의 3연전",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 10427,
+      "title": "이 노래 정도면 메가 히트곡이다 vs 아니다.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032918&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 41,
       "rank": 15,
+      "channel": "초구딱"
+    },
+    {
+      "title": "스파이더맨은 계속 재탕 삼탕 되겠네요..",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032906&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 115,
+      "rank": 16,
+      "channel": "초구딱"
+    },
+    {
+      "title": "백종원 잘나갈때도 별로였던게 말투가 참..",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032903&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 46,
+      "rank": 17,
+      "channel": "초구딱"
+    },
+    {
+      "title": "현재 세계 1등 투수는 이친구 인가요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032900&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 148,
+      "rank": 18,
+      "channel": "초구딱"
+    },
+    {
+      "title": "김무열 인생 최대작",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032894&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 168,
+      "rank": 19,
+      "channel": "초구딱"
+    },
+    {
+      "title": "2000년대 최고 히트곡은.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032888&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 88,
+      "rank": 20,
+      "channel": "초구딱"
+    },
+    {
+      "title": "젊은 여자들은 삼겹살이나 한우는 그닥 이여도",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032876&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 96,
+      "rank": 21,
+      "channel": "초구딱"
+    },
+    {
+      "title": "키작고,못생기고 남들이 생각하는것보다",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032873&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 37,
+      "rank": 22,
+      "channel": "초구딱"
+    },
+    {
+      "title": "어벤저스 90년대 가상 캐스팅 놀이 보면 몇명은 고정이네요.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032870&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 70,
+      "rank": 23,
+      "channel": "초구딱"
+    },
+    {
+      "title": "4호선하면 무슨 역이 젤 먼저 생각나..?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032861&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 110,
+      "rank": 24,
+      "channel": "초구딱"
+    },
+    {
+      "title": "(성경) 아담은 어차피 에덴에서 쫒겨날 운명",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032855&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 41,
+      "rank": 25,
+      "channel": "초구딱"
+    },
+    {
+      "title": "근데 백종원이 나락간게 햄을 비싸게 팔아서 시작된거 같은데",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032852&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 61,
+      "rank": 26,
+      "channel": "초구딱"
+    },
+    {
+      "title": "눈치 겁나 빠른 댕댕이.mp4",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032843&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 128,
+      "rank": 27,
+      "channel": "초구딱"
+    },
+    {
+      "title": "백종원 솔루션이 이기적이긴 해요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032837&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 258,
+      "rank": 28,
+      "channel": "초구딱"
+    },
+    {
+      "title": "원희가 생각보다 엄청 검소하네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032831&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 333,
+      "rank": 29,
+      "channel": "초구딱"
+    },
+    {
+      "title": "오디세이 영화 잘못된 캐스팅.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032828&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 373,
+      "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 43,
+      "article_count": 44,
       "topics": [
         {
-          "title": "\"포착이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 4,
-          "source_article": "\"임신 중 외도, 딸 방에서 코카인 흔적\" 올림픽 메달만 12개, 美 수영 영웅의 민낯!…전처의 충격적 폭로 \"우리 결혼은 시한폭탄\"",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "포착",
-            "진선규",
-            "붕어빵",
-            "남보라",
-            "치매"
-          ],
-          "template": "동갑내기",
-          "score": 7.6,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"이혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "title": "\"근황 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
           "angle_type": "결혼·이혼",
-          "article_count": 7,
+          "article_count": 5,
           "source_article": "고지용, 이혼 후 몰라보게 달라진 근황..볼살 오른 얼굴 눈길",
           "source_url": "https://m.entertain.naver.com/article/108/0003462503",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "이혼",
             "근황",
             "임신",
             "고지용",
+            "이혼",
             "몰라보"
           ],
           "template": "결혼 화제",
@@ -147,21 +375,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
+          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+          "angle_type": "가족·혈연",
           "article_count": 3,
-          "source_article": "“막내 이찬원도 쏘는데” 전현무, 60억 대 아파트 살면서 4년째 회식비 ‘0원’ 폭로(사당귀)",
-          "source_url": "https://m.entertain.naver.com/article/144/0001132156",
+          "source_article": "‘치매 투병’ 브루스 윌리스, 막내딸 결혼식서 포착… 4년 만의 감동 근황",
+          "source_url": "https://m.entertain.naver.com/article/109/0005589746",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "막내",
-            "이찬원",
-            "쏘는데",
-            "전현무",
-            "아파트"
+            "치매",
+            "투병",
+            "브루스",
+            "윌리스",
+            "막내딸"
           ],
-          "template": "자산 서열",
-          "score": 7.4,
+          "template": "동갑내기",
+          "score": 7.2,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -172,42 +400,9 @@
           "table": {
             "headers": [
               "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"선수, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 6,
-          "source_article": "'충격! 20m 튕겨 나갔다' 유명 무에타이 선수, 경기 6일 앞두고 러닝 중 승합차에 '쾅'…머리 부상→출전 불투명",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "선수",
-            "경기",
-            "건가",
-            "같은",
-            "이강인"
-          ],
-          "template": "스포츠 기록",
-          "score": 7.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
+              "나이",
+              "대표작",
+              "현재 활동"
             ]
           },
           "channel": "정보주는하마"
@@ -215,16 +410,16 @@
         {
           "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
           "angle_type": "복귀·근황",
-          "article_count": 5,
+          "article_count": 7,
           "source_article": "고지용, 이혼 후 몰라보게 달라진 근황..볼살 오른 얼굴 눈길",
           "source_url": "https://m.entertain.naver.com/article/108/0003462503",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "근황",
-            "고지용",
-            "이혼",
-            "몰라보",
-            "달라진"
+            "이하늘",
+            "컴백",
+            "예고",
+            "고지용"
           ],
           "template": "장기 공백 복귀",
           "score": 7.1,
@@ -248,16 +443,16 @@
         {
           "title": "\"하영까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
           "angle_type": "논란·사건",
-          "article_count": 6,
-          "source_article": "하영 연좌제 논란에 '좋아요' 1만개 달린 댓글 \"자신이 안한 일 자랑했으면 비판도 각오해야\"",
-          "source_url": "https://m.entertain.naver.com/article/076/0004436321",
+          "article_count": 8,
+          "source_article": "\"폭염인데 반려견을 마당에만…\" 황정음, 한 달만 일상 공개했다가 뜻밖의 논란",
+          "source_url": "https://m.entertain.naver.com/article/076/0004436466",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "하영",
-            "연좌제",
-            "논란에",
-            "폭로",
-            "무식"
+            "반려견",
+            "황정음",
+            "폭염인",
+            "마당에"
           ],
           "template": "논란 집합",
           "score": 7.0,
@@ -281,7 +476,7 @@
         {
           "title": "\"얼굴 결혼설?\" 얼굴 연애사 총정리",
           "angle_type": "👤 얼굴",
-          "article_count": 4,
+          "article_count": 3,
           "source_article": "고지용, 이혼 후 몰라보게 달라진 근황..볼살 오른 얼굴 눈길",
           "source_url": "https://m.entertain.naver.com/article/108/0003462503",
           "source_name": "엔터 많이 본 뉴스",
@@ -308,21 +503,54 @@
           "channel": "정보주는하마"
         },
         {
+          "title": "\"선수, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 6,
+          "source_article": "'안 치는 건가, 못치는 건가?' 189cm 덩치에 111경기 무홈런이라니… '출루 괴물' 홍창기의 기막힌 아이러니...163cm 김성윤도 3개 쳤는데",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "선수",
+            "근황",
+            "건가",
+            "경기",
+            "서인국"
+          ],
+          "template": "스포츠 기록",
+          "score": 6.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
           "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
           "angle_type": "투병·건강",
-          "article_count": 3,
+          "article_count": 2,
           "source_article": "‘치매 투병’ 브루스 윌리스, 막내딸 결혼식서 포착… 4년 만의 감동 근황",
           "source_url": "https://m.entertain.naver.com/article/109/0005589746",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "투병",
             "치매",
+            "투병",
             "브루스",
             "윌리스",
             "막내딸"
           ],
           "template": "투병 극복",
-          "score": 6.6,
+          "score": 6.1,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -339,23 +567,122 @@
             ]
           },
           "channel": "정보주는하마"
+        },
+        {
+          "title": "\"발언, 대체 무슨 일이?\" 발언 관련 이슈 총정리",
+          "angle_type": "👤 발언",
+          "article_count": 3,
+          "source_article": "“영원한 건 없다” 김민희, 홍상수 앞 의미심장 발언…끝내 눈물",
+          "source_url": "https://m.entertain.naver.com/article/410/0001136464",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "발언"
+          ],
+          "template": "논란 집합",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"눈물, 대체 무슨 일이?\" 눈물 관련 이슈 총정리",
+          "angle_type": "👤 눈물",
+          "article_count": 3,
+          "source_article": "“영원한 건 없다” 김민희, 홍상수 앞 의미심장 발언…끝내 눈물",
+          "source_url": "https://m.entertain.naver.com/article/410/0001136464",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "눈물"
+          ],
+          "template": "논란 집합",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"제니, 대체 무슨 일이?\" 제니 관련 이슈 총정리",
+          "angle_type": "👤 제니",
+          "article_count": 3,
+          "source_article": "“제니가 입으면 속옷도 패션이 된다” 제니, 썸머소닉서 선보인 파격 언더웨어 룩",
+          "source_url": "https://m.entertain.naver.com/article/144/0001132126",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "제니"
+          ],
+          "template": "논란 집합",
+          "score": 5.4,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
         }
       ],
       "keyword_freq": [
         [
-          "얼굴",
-          4
+          "근황",
+          5
         ],
         [
-          "근황",
-          4
+          "얼굴",
+          3
         ],
         [
           "하영",
-          4
+          3
         ],
         [
-          "이혼",
+          "발언",
+          3
+        ],
+        [
+          "눈물",
+          3
+        ],
+        [
+          "제니",
+          3
+        ],
+        [
+          "황정음",
           2
         ],
         [
@@ -363,81 +690,85 @@
           2
         ],
         [
-          "연좌제",
-          2
-        ],
-        [
-          "논란에",
-          2
-        ],
-        [
           "김민희",
           2
         ],
         [
-          "미우새",
+          "유명",
           2
         ],
         [
-          "투병",
+          "이하늘",
           2
         ],
         [
-          "포착",
+          "예고",
           2
         ],
         [
-          "붕어빵",
+          "드디어",
           2
         ],
         [
-          "눈물",
+          "컴백",
           2
         ],
         [
-          "위기",
+          "년만",
           2
         ],
         [
-          "사당귀",
+          "빠졌다",
           2
         ],
         [
-          "폭로",
+          "황재균",
           2
         ],
         [
-          "아파트",
+          "의상",
           2
         ],
         [
-          "발언",
+          "임신",
           2
         ],
         [
-          "무식",
-          2
-        ],
-        [
-          "현직",
+          "있었다",
           2
         ]
       ],
       "name_freq": [
         [
-          "얼굴",
-          4
+          "근황",
+          5
         ],
         [
-          "근황",
-          4
+          "얼굴",
+          3
         ],
         [
           "하영",
-          4
+          3
         ],
         [
-          "이혼",
+          "발언",
+          3
+        ],
+        [
+          "눈물",
+          3
+        ],
+        [
+          "제니",
+          3
+        ],
+        [
+          "반려견",
+          2
+        ],
+        [
+          "황정음",
           2
         ],
         [
@@ -445,66 +776,46 @@
           2
         ],
         [
-          "연좌제",
-          2
-        ],
-        [
-          "으면",
-          2
-        ],
-        [
-          "논란에",
-          2
-        ],
-        [
           "김민희",
           2
         ],
         [
-          "미우새",
+          "유명",
           2
         ],
         [
-          "투병",
+          "강부자",
           2
         ],
         [
-          "포착",
+          "이하늘",
           2
         ],
         [
-          "붕어빵",
+          "예고",
           2
         ],
         [
-          "눈물",
-          2
-        ],
-        [
-          "위기",
+          "드디어",
           2
         ]
       ],
       "angle_scores": [
         [
-          "자산·몸값",
-          3
-        ],
-        [
           "논란·사건",
-          6
+          8
         ],
         [
           "결혼·이혼",
-          7
-        ],
-        [
-          "복귀·근황",
           5
         ],
         [
+          "복귀·근황",
+          7
+        ],
+        [
           "투병·건강",
-          3
+          2
         ],
         [
           "스포츠",
@@ -512,17 +823,17 @@
         ],
         [
           "가족·혈연",
-          4
+          3
         ]
       ]
     },
     "초구딱": {
-      "article_count": 7,
+      "article_count": 36,
       "topics": [
         {
           "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 4,
+          "article_count": 5,
           "source_article": "'와' 이정후, SF 최초 초대형 역사!…기록 생긴 1974년 이후 자이언츠 '1호'→1이닝 2안타 폭발 '시즌 3번째라니', 美 매체도 특별 조명",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -534,7 +845,7 @@
             "생긴"
           ],
           "template": "스포츠 기록",
-          "score": 6.7,
+          "score": 7.2,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -551,19 +862,187 @@
             ]
           },
           "channel": "초구딱"
+        },
+        {
+          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 2,
+          "source_article": "요즘 결정사 평점 논란.jpg",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032939&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "오디세",
+            "불펜",
+            "요즘",
+            "결정사",
+            "평점"
+          ],
+          "template": "논란 집합",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"백종원\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 백종원",
+          "article_count": 3,
+          "source_article": "백종원 잘나갈때도 별로였던게 말투가 참..",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032903&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "백종원"
+          ],
+          "template": "인맥",
+          "score": 6.4,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"안내\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안내",
+          "article_count": 3,
+          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "안내"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"근데\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 근데",
+          "article_count": 3,
+          "source_article": "근데 일산이 강북으로는 접근성이 좋지 않나요?",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032972&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "근데"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
         [
-          "초대형",
+          "안내",
+          3
+        ],
+        [
+          "근데",
+          3
+        ],
+        [
+          "무슨",
           2
         ],
         [
-          "두산",
+          "하고",
           2
         ],
         [
-          "한국계였다니",
+          "업데이트",
+          2
+        ],
+        [
+          "이벤트",
+          2
+        ],
+        [
+          "워터밤",
+          2
+        ],
+        [
+          "엠팍",
+          2
+        ],
+        [
+          "당첨자",
+          2
+        ],
+        [
+          "오디세이",
+          2
+        ],
+        [
+          "백종원",
+          2
+        ],
+        [
+          "년대",
+          2
+        ],
+        [
+          "캐스팅",
+          2
+        ],
+        [
+          "다음",
+          1
+        ],
+        [
+          "이게",
           1
         ],
         [
@@ -571,7 +1050,11 @@
           1
         ],
         [
-          "이게",
+          "태극마크",
+          1
+        ],
+        [
+          "중견수가",
           1
         ],
         [
@@ -581,74 +1064,78 @@
         [
           "달고",
           1
-        ],
-        [
-          "야구",
-          1
-        ],
-        [
-          "태극마크",
-          1
-        ],
-        [
-          "되나",
-          1
-        ],
-        [
-          "중견수가",
-          1
-        ],
-        [
-          "다음",
-          1
-        ],
-        [
-          "토론토",
-          1
-        ],
-        [
-          "무슨",
-          1
-        ],
-        [
-          "횡재인가",
-          1
-        ],
-        [
-          "번째라니",
-          1
-        ],
-        [
-          "역사",
-          1
-        ],
-        [
-          "기록",
-          1
-        ],
-        [
-          "자이언츠",
-          1
-        ],
-        [
-          "폭발",
-          1
         ]
       ],
       "name_freq": [
         [
-          "초대형",
+          "안내",
+          3
+        ],
+        [
+          "근데",
+          3
+        ],
+        [
+          "백종원",
+          3
+        ],
+        [
+          "무슨",
           2
         ],
         [
-          "두산",
+          "하고",
+          2
+        ],
+        [
+          "업데이",
+          2
+        ],
+        [
+          "이벤트",
+          2
+        ],
+        [
+          "워터밤",
+          2
+        ],
+        [
+          "엠팍",
+          2
+        ],
+        [
+          "당첨자",
+          2
+        ],
+        [
+          "오디세",
+          2
+        ],
+        [
+          "히트곡",
+          2
+        ],
+        [
+          "년대",
+          2
+        ],
+        [
+          "캐스팅",
+          2
+        ],
+        [
+          "네요",
           2
         ]
       ],
       "angle_scores": [
         [
+          "논란·사건",
+          2
+        ],
+        [
           "스포츠",
-          4
+          5
         ]
       ]
     }
@@ -657,7 +1144,7 @@
     {
       "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 4,
+      "article_count": 5,
       "source_article": "'와' 이정후, SF 최초 초대형 역사!…기록 생긴 1974년 이후 자이언츠 '1호'→1이닝 2안타 폭발 '시즌 3번째라니', 美 매체도 특별 조명",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -669,7 +1156,7 @@
         "생긴"
       ],
       "template": "스포츠 기록",
-      "score": 6.7,
+      "score": 7.2,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -686,25 +1173,23 @@
         ]
       },
       "channel": "초구딱"
-    }
-  ],
-  "all_topics": [
+    },
     {
-      "title": "\"포착이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 4,
-      "source_article": "\"임신 중 외도, 딸 방에서 코카인 흔적\" 올림픽 메달만 12개, 美 수영 영웅의 민낯!…전처의 충격적 폭로 \"우리 결혼은 시한폭탄\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 2,
+      "source_article": "요즘 결정사 평점 논란.jpg",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032939&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
       "related_names": [
-        "포착",
-        "진선규",
-        "붕어빵",
-        "남보라",
-        "치매"
+        "오디세",
+        "불펜",
+        "요즘",
+        "결정사",
+        "평점"
       ],
-      "template": "동갑내기",
-      "score": 7.6,
+      "template": "논란 집합",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -715,25 +1200,114 @@
       "table": {
         "headers": [
           "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
-      "channel": "정보주는하마"
+      "channel": "초구딱"
     },
     {
-      "title": "\"이혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "title": "\"백종원\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 백종원",
+      "article_count": 3,
+      "source_article": "백종원 잘나갈때도 별로였던게 말투가 참..",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032903&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "백종원"
+      ],
+      "template": "인맥",
+      "score": 6.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"근데\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 근데",
+      "article_count": 3,
+      "source_article": "근데 일산이 강북으로는 접근성이 좋지 않나요?",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032972&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "근데"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    }
+  ],
+  "all_topics": [
+    {
+      "title": "\"근황 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
       "angle_type": "결혼·이혼",
-      "article_count": 7,
+      "article_count": 5,
       "source_article": "고지용, 이혼 후 몰라보게 달라진 근황..볼살 오른 얼굴 눈길",
       "source_url": "https://m.entertain.naver.com/article/108/0003462503",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "이혼",
         "근황",
         "임신",
         "고지용",
+        "이혼",
         "몰라보"
       ],
       "template": "결혼 화제",
@@ -756,21 +1330,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
+      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+      "angle_type": "가족·혈연",
       "article_count": 3,
-      "source_article": "“막내 이찬원도 쏘는데” 전현무, 60억 대 아파트 살면서 4년째 회식비 ‘0원’ 폭로(사당귀)",
-      "source_url": "https://m.entertain.naver.com/article/144/0001132156",
+      "source_article": "‘치매 투병’ 브루스 윌리스, 막내딸 결혼식서 포착… 4년 만의 감동 근황",
+      "source_url": "https://m.entertain.naver.com/article/109/0005589746",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "막내",
-        "이찬원",
-        "쏘는데",
-        "전현무",
-        "아파트"
+        "치매",
+        "투병",
+        "브루스",
+        "윌리스",
+        "막내딸"
       ],
-      "template": "자산 서열",
-      "score": 7.4,
+      "template": "동갑내기",
+      "score": 7.2,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -781,42 +1355,9 @@
       "table": {
         "headers": [
           "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"선수, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 6,
-      "source_article": "'충격! 20m 튕겨 나갔다' 유명 무에타이 선수, 경기 6일 앞두고 러닝 중 승합차에 '쾅'…머리 부상→출전 불투명",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "선수",
-        "경기",
-        "건가",
-        "같은",
-        "이강인"
-      ],
-      "template": "스포츠 기록",
-      "score": 7.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
+          "나이",
+          "대표작",
+          "현재 활동"
         ]
       },
       "channel": "정보주는하마"
@@ -824,16 +1365,16 @@
     {
       "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
       "angle_type": "복귀·근황",
-      "article_count": 5,
+      "article_count": 7,
       "source_article": "고지용, 이혼 후 몰라보게 달라진 근황..볼살 오른 얼굴 눈길",
       "source_url": "https://m.entertain.naver.com/article/108/0003462503",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "근황",
-        "고지용",
-        "이혼",
-        "몰라보",
-        "달라진"
+        "이하늘",
+        "컴백",
+        "예고",
+        "고지용"
       ],
       "template": "장기 공백 복귀",
       "score": 7.1,
@@ -857,16 +1398,16 @@
     {
       "title": "\"하영까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
       "angle_type": "논란·사건",
-      "article_count": 6,
-      "source_article": "하영 연좌제 논란에 '좋아요' 1만개 달린 댓글 \"자신이 안한 일 자랑했으면 비판도 각오해야\"",
-      "source_url": "https://m.entertain.naver.com/article/076/0004436321",
+      "article_count": 8,
+      "source_article": "\"폭염인데 반려견을 마당에만…\" 황정음, 한 달만 일상 공개했다가 뜻밖의 논란",
+      "source_url": "https://m.entertain.naver.com/article/076/0004436466",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "하영",
-        "연좌제",
-        "논란에",
-        "폭로",
-        "무식"
+        "반려견",
+        "황정음",
+        "폭염인",
+        "마당에"
       ],
       "template": "논란 집합",
       "score": 7.0,
@@ -890,7 +1431,7 @@
     {
       "title": "\"얼굴 결혼설?\" 얼굴 연애사 총정리",
       "angle_type": "👤 얼굴",
-      "article_count": 4,
+      "article_count": 3,
       "source_article": "고지용, 이혼 후 몰라보게 달라진 근황..볼살 오른 얼굴 눈길",
       "source_url": "https://m.entertain.naver.com/article/108/0003462503",
       "source_name": "엔터 많이 본 뉴스",
@@ -917,21 +1458,54 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"선수, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 6,
+      "source_article": "'안 치는 건가, 못치는 건가?' 189cm 덩치에 111경기 무홈런이라니… '출루 괴물' 홍창기의 기막힌 아이러니...163cm 김성윤도 3개 쳤는데",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "선수",
+        "근황",
+        "건가",
+        "경기",
+        "서인국"
+      ],
+      "template": "스포츠 기록",
+      "score": 6.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
       "angle_type": "투병·건강",
-      "article_count": 3,
+      "article_count": 2,
       "source_article": "‘치매 투병’ 브루스 윌리스, 막내딸 결혼식서 포착… 4년 만의 감동 근황",
       "source_url": "https://m.entertain.naver.com/article/109/0005589746",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "투병",
         "치매",
+        "투병",
         "브루스",
         "윌리스",
         "막내딸"
       ],
       "template": "투병 극복",
-      "score": 6.6,
+      "score": 6.1,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -950,9 +1524,96 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"발언, 대체 무슨 일이?\" 발언 관련 이슈 총정리",
+      "angle_type": "👤 발언",
+      "article_count": 3,
+      "source_article": "“영원한 건 없다” 김민희, 홍상수 앞 의미심장 발언…끝내 눈물",
+      "source_url": "https://m.entertain.naver.com/article/410/0001136464",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "발언"
+      ],
+      "template": "논란 집합",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"눈물, 대체 무슨 일이?\" 눈물 관련 이슈 총정리",
+      "angle_type": "👤 눈물",
+      "article_count": 3,
+      "source_article": "“영원한 건 없다” 김민희, 홍상수 앞 의미심장 발언…끝내 눈물",
+      "source_url": "https://m.entertain.naver.com/article/410/0001136464",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "눈물"
+      ],
+      "template": "논란 집합",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"제니, 대체 무슨 일이?\" 제니 관련 이슈 총정리",
+      "angle_type": "👤 제니",
+      "article_count": 3,
+      "source_article": "“제니가 입으면 속옷도 패션이 된다” 제니, 썸머소닉서 선보인 파격 언더웨어 룩",
+      "source_url": "https://m.entertain.naver.com/article/144/0001132126",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "제니"
+      ],
+      "template": "논란 집합",
+      "score": 5.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 4,
+      "article_count": 5,
       "source_article": "'와' 이정후, SF 최초 초대형 역사!…기록 생긴 1974년 이후 자이언츠 '1호'→1이닝 2안타 폭발 '시즌 3번째라니', 美 매체도 특별 조명",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -964,7 +1625,7 @@
         "생긴"
       ],
       "template": "스포츠 기록",
-      "score": 6.7,
+      "score": 7.2,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -981,23 +1642,155 @@
         ]
       },
       "channel": "초구딱"
+    },
+    {
+      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 2,
+      "source_article": "요즘 결정사 평점 논란.jpg",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032939&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "오디세",
+        "불펜",
+        "요즘",
+        "결정사",
+        "평점"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"백종원\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 백종원",
+      "article_count": 3,
+      "source_article": "백종원 잘나갈때도 별로였던게 말투가 참..",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032903&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "백종원"
+      ],
+      "template": "인맥",
+      "score": 6.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"근데\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 근데",
+      "article_count": 3,
+      "source_article": "근데 일산이 강북으로는 접근성이 좋지 않나요?",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608170118032972&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "근데"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
     [
-      "얼굴",
-      4
+      "근황",
+      5
     ],
     [
-      "근황",
-      4
+      "얼굴",
+      3
     ],
     [
       "하영",
-      4
+      3
     ],
     [
-      "이혼",
+      "발언",
+      3
+    ],
+    [
+      "눈물",
+      3
+    ],
+    [
+      "제니",
+      3
+    ],
+    [
+      "황정음",
       2
     ],
     [
@@ -1005,81 +1798,85 @@
       2
     ],
     [
-      "연좌제",
-      2
-    ],
-    [
-      "논란에",
-      2
-    ],
-    [
       "김민희",
       2
     ],
     [
-      "미우새",
+      "유명",
       2
     ],
     [
-      "투병",
+      "이하늘",
       2
     ],
     [
-      "포착",
+      "예고",
       2
     ],
     [
-      "붕어빵",
+      "드디어",
       2
     ],
     [
-      "눈물",
+      "컴백",
       2
     ],
     [
-      "위기",
+      "년만",
       2
     ],
     [
-      "사당귀",
+      "빠졌다",
       2
     ],
     [
-      "폭로",
+      "황재균",
       2
     ],
     [
-      "아파트",
+      "의상",
       2
     ],
     [
-      "발언",
+      "임신",
       2
     ],
     [
-      "무식",
-      2
-    ],
-    [
-      "현직",
+      "있었다",
       2
     ]
   ],
   "name_freq": [
     [
-      "얼굴",
-      4
+      "근황",
+      5
     ],
     [
-      "근황",
-      4
+      "얼굴",
+      3
     ],
     [
       "하영",
-      4
+      3
     ],
     [
-      "이혼",
+      "발언",
+      3
+    ],
+    [
+      "눈물",
+      3
+    ],
+    [
+      "제니",
+      3
+    ],
+    [
+      "반려견",
+      2
+    ],
+    [
+      "황정음",
       2
     ],
     [
@@ -1087,47 +1884,31 @@
       2
     ],
     [
-      "연좌제",
-      2
-    ],
-    [
-      "으면",
-      2
-    ],
-    [
-      "논란에",
-      2
-    ],
-    [
       "김민희",
       2
     ],
     [
-      "미우새",
+      "유명",
       2
     ],
     [
-      "투병",
+      "강부자",
       2
     ],
     [
-      "포착",
+      "이하늘",
       2
     ],
     [
-      "붕어빵",
+      "예고",
       2
     ],
     [
-      "눈물",
-      2
-    ],
-    [
-      "위기",
+      "드디어",
       2
     ]
   ],
-  "total_topics_generated": 9,
-  "valid_topics": 9,
+  "total_topics_generated": 15,
+  "valid_topics": 15,
   "excluded_duplicates": 0
 }
