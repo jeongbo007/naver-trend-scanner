@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-20 13:36:43",
+  "scan_time": "2026-08-20 17:25:17",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,26 +8,17 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 30
+    "MLB파크 불펜": 0
   },
-  "total_articles": 80,
+  "total_articles": 50,
   "articles": [
     {
       "title": "백발 된 이휘향, 염색 안 한 모습 공개…\"기저귀 차고 촬영해\"",
       "url": "https://m.entertain.naver.com/article/415/0000051149",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 71935,
+      "views": 71986,
       "rank": 1,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "유산 딛고 '사별남'과 재혼했던 16기 옥순, 5개월 만에 끝났다…\"맞지 않아\"",
-      "url": "https://m.entertain.naver.com/article/312/0000772667",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 59658,
-      "rank": 2,
       "channel": "정보주는하마"
     },
     {
@@ -35,7 +26,16 @@
       "url": "https://m.entertain.naver.com/article/312/0000772679",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 44951,
+      "views": 68406,
+      "rank": 2,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "유산 딛고 '사별남'과 재혼했던 16기 옥순, 5개월 만에 끝났다…\"맞지 않아\"",
+      "url": "https://m.entertain.naver.com/article/312/0000772667",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 55375,
       "rank": 3,
       "channel": "정보주는하마"
     },
@@ -44,7 +44,7 @@
       "url": "https://m.entertain.naver.com/article/609/0001158770",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 40131,
+      "views": 54403,
       "rank": 4,
       "channel": "정보주는하마"
     },
@@ -53,26 +53,8 @@
       "url": "https://m.entertain.naver.com/article/117/0004096528",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 28987,
+      "views": 49092,
       "rank": 5,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"촌스러운 메이크업\" 비난받더니…황정음, '42살 김혜진' 깜짝 변신",
-      "url": "https://m.entertain.naver.com/article/117/0004096623",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 28657,
-      "rank": 6,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "기욤 패트리, 비트코인 100만원↓ 샀다더니…\"은퇴해도 될 정도\"",
-      "url": "https://m.entertain.naver.com/article/117/0004096329",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 28265,
-      "rank": 7,
       "channel": "정보주는하마"
     },
     {
@@ -80,8 +62,8 @@
       "url": "https://m.entertain.naver.com/article/144/0001132936",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 26931,
-      "rank": 8,
+      "views": 27681,
+      "rank": 6,
       "channel": "정보주는하마"
     },
     {
@@ -89,8 +71,44 @@
       "url": "https://m.entertain.naver.com/article/477/0000624157",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 24137,
+      "views": 25734,
+      "rank": 7,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"촌스러운 메이크업\" 비난받더니…황정음, '42살 김혜진' 깜짝 변신",
+      "url": "https://m.entertain.naver.com/article/117/0004096623",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 24134,
+      "rank": 8,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'임요환♥' 김가연, '600억 부자' 소문 사실이었다 \"父 개인 재산은 아냐..동안母 첩 소문 나기도\"",
+      "url": "https://m.entertain.naver.com/article/076/0004437824",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 15625,
       "rank": 9,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'모친 구속' 장윤정, 3년 만에 꺼낸 심경 \"외로움 느낄 때 힘들어..신곡에 마음 담아\"",
+      "url": "https://m.entertain.naver.com/article/076/0004437823",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 15210,
+      "rank": 10,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "아유미, 황정음 '배우병' 폭로…\"명품 가방에 대본→바쁜 척하더라\" 폭소",
+      "url": "https://m.entertain.naver.com/article/445/0000452602",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 14880,
+      "rank": 11,
       "channel": "정보주는하마"
     },
     {
@@ -98,52 +116,34 @@
       "url": "https://m.entertain.naver.com/article/109/0005591711",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 20435,
-      "rank": 10,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "대성 가고, 지코 왔다…추성훈·김종국 ‘상남자의 여행법’ 합류",
-      "url": "https://m.entertain.naver.com/article/241/0003526097",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 17763,
-      "rank": 11,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"요즘 누가 저렇게 하나\"…황정음, 아이돌 메이크업 도전에→누리꾼 '혹평' 세례",
-      "url": "https://m.entertain.naver.com/article/213/0001398557",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 16757,
+      "views": 14533,
       "rank": 12,
       "channel": "정보주는하마"
     },
     {
-      "title": "'박열' 배우들, 동료 조롱 논란에 사과 \"무례하고 배려 없는 발언\"",
-      "url": "https://m.entertain.naver.com/article/108/0003463523",
+      "title": "김정화, 이혼 기사 후 솔직 입장…'뇌종양 투병' 남편 \"현실 부부라니까\"",
+      "url": "https://m.entertain.naver.com/article/117/0004096496",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 14886,
+      "views": 12710,
       "rank": 13,
       "channel": "정보주는하마"
     },
     {
-      "title": "16기 옥순, 재혼 상대와 결별했지만…\"'두 번째 이혼' 표현 사실과 달라\" 정정",
-      "url": "https://m.entertain.naver.com/article/311/0002047446",
+      "title": "임라라, ♥손민수와 달라진 부부관계 고백 \"밥 먹을 때도 대화 안 해, 촬영 때 근황 물어\" ('홍쓴TV')",
+      "url": "https://m.entertain.naver.com/article/076/0004437579",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 13889,
+      "views": 12182,
       "rank": 14,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"전과·학폭·빚투·미투 4無\"...'여에스더♥' 홍혜걸, 예능 한번 나오는데 이 정도까지",
-      "url": "https://m.entertain.naver.com/article/076/0004437634",
+      "title": "이수근 아내, 친오빠에 신장 재이식 받은 지 1년 “다가올 날들 멋있게 살기로”",
+      "url": "https://m.entertain.naver.com/article/609/0001158955",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 13617,
+      "views": 11831,
       "rank": 15,
       "channel": "정보주는하마"
     },
@@ -152,26 +152,17 @@
       "url": "https://m.entertain.naver.com/article/609/0001158854",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 13002,
+      "views": 11397,
       "rank": 16,
       "channel": "정보주는하마"
     },
     {
-      "title": "'190억 빚' 임채무, 또 사고쳤다…발달장애인에 '두리랜드' 문 활짝 \"웃음 선물하고파\"",
-      "url": "https://m.entertain.naver.com/article/477/0000624152",
+      "title": "'故안재환 사별' 정선희 \"남편 잃고 칩거할 때 홍진경이 지켜줬다\" 울컥(옥문아)",
+      "url": "https://m.entertain.naver.com/article/109/0005591693",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 12405,
+      "views": 9582,
       "rank": 17,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "송일국, 뼈아픈 일침 \"친일파 오히려 가정적, 독립유공자 후손은 먹고살기도 힘들어\"",
-      "url": "https://m.entertain.naver.com/article/076/0004437479",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 12296,
-      "rank": 18,
       "channel": "정보주는하마"
     },
     {
@@ -179,16 +170,25 @@
       "url": "https://m.entertain.naver.com/article/312/0000772691",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 12123,
+      "views": 9359,
+      "rank": 18,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "16기 옥순, 재혼 상대와 결별했지만…\"'두 번째 이혼' 표현 사실과 달라\" 정정",
+      "url": "https://m.entertain.naver.com/article/311/0002047446",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 8634,
       "rank": 19,
       "channel": "정보주는하마"
     },
     {
-      "title": "임라라, ♥손민수와 달라진 부부관계 고백 \"밥 먹을 때도 대화 안 해, 촬영 때 근황 물어\" ('홍쓴TV')",
-      "url": "https://m.entertain.naver.com/article/076/0004437579",
+      "title": "황정음, 살 쏙 빠지고 까맣게 탔다..확 달라진 비주얼 \"황제니 변신\"",
+      "url": "https://m.entertain.naver.com/article/076/0004437531",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 11473,
+      "views": 8432,
       "rank": 20,
       "channel": "정보주는하마"
     },
@@ -197,34 +197,34 @@
       "url": "https://m.entertain.naver.com/article/109/0005592001",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 10306,
+      "views": 7569,
       "rank": 21,
       "channel": "정보주는하마"
     },
     {
-      "title": "'故안재환 사별' 정선희 \"남편 잃고 칩거할 때 홍진경이 지켜줬다\" 울컥(옥문아)",
-      "url": "https://m.entertain.naver.com/article/109/0005591693",
+      "title": "‘수백억 자산가’ 소문에 입 연 기욤 패트리…추천 종목 ‘삐-’ 처리에 김종민 ‘뒷목’(슈퍼맨이 돌아왔다)",
+      "url": "https://m.entertain.naver.com/article/144/0001132755",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 8413,
+      "views": 7542,
       "rank": 22,
       "channel": "정보주는하마"
     },
     {
-      "title": "'임요환♥' 김가연, '600억 부자' 소문 사실이었다 \"父 개인 재산은 아냐..동안母 첩 소문 나기도\"",
-      "url": "https://m.entertain.naver.com/article/076/0004437824",
+      "title": "‘45일만에 파경, 4달만에 또 파경’ 16기 옥순 “2번째 이혼은 아니다” 해명…무슨 말?",
+      "url": "https://m.entertain.naver.com/article/016/0002686393",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 8311,
+      "views": 7332,
       "rank": 23,
       "channel": "정보주는하마"
     },
     {
-      "title": "김정화, 이혼 기사 후 솔직 입장…'뇌종양 투병' 남편 \"현실 부부라니까\"",
-      "url": "https://m.entertain.naver.com/article/117/0004096496",
+      "title": "3천억 CEO 여에스더, 우울증 10년 돌봐준 가사 도우미에 강남 집 선물(라스)",
+      "url": "https://m.entertain.naver.com/article/609/0001158720",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 8288,
+      "views": 6923,
       "rank": 24,
       "channel": "정보주는하마"
     },
@@ -233,61 +233,79 @@
       "url": "https://m.entertain.naver.com/article/312/0000772602",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 7801,
+      "views": 6713,
       "rank": 25,
       "channel": "정보주는하마"
     },
     {
-      "title": "검찰, '병역법 위반 송민호' 관리자에 징역 1년 구형",
-      "url": "https://m.entertain.naver.com/article/108/0003463792",
+      "title": "고소영 \"장동건과 혼전임신 철저히 계획…39세라 빨리 낳고 싶었다\"",
+      "url": "https://m.entertain.naver.com/article/421/0009122412",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 7132,
+      "views": 6059,
       "rank": 26,
       "channel": "정보주는하마"
     },
     {
-      "title": "‘45일만에 파경, 4달만에 또 파경’ 16기 옥순 “2번째 이혼은 아니다” 해명…무슨 말?",
-      "url": "https://m.entertain.naver.com/article/016/0002686393",
+      "title": "\"왜 이렇게 됐어\" 이규형, 위고비→마운자로까지 손댔다…급격한 체중 감량에 '핼쓱' ('들쥐')",
+      "url": "https://m.entertain.naver.com/article/312/0000772638",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 7029,
+      "views": 5766,
       "rank": 27,
       "channel": "정보주는하마"
     },
     {
-      "title": "'음주운전' 한동근 맞아? 몰라보게 달라진 비주얼…'환한 미소' 포착",
-      "url": "https://m.entertain.naver.com/article/117/0004096637",
+      "title": "'박열' 배우들, 동료 조롱 논란에 사과 \"무례하고 배려 없는 발언\"",
+      "url": "https://m.entertain.naver.com/article/108/0003463523",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 5727,
+      "views": 5749,
       "rank": 28,
       "channel": "정보주는하마"
     },
     {
-      "title": "전현무, 밤새워 5시간 운전→폭싹 늙어버린 얼굴…험난한 '카자흐스탄' 여행",
-      "url": "https://m.entertain.naver.com/article/117/0004096410",
+      "title": "대성 가고, 지코 왔다…추성훈·김종국 ‘상남자의 여행법’ 합류",
+      "url": "https://m.entertain.naver.com/article/241/0003526097",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 5310,
+      "views": 5458,
       "rank": 29,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"생명력 있게 살고자 했는데\" 이솔이, 반려견 이별 예감하며 슬픔 토로",
-      "url": "https://m.entertain.naver.com/article/312/0000772600",
+      "title": "김영옥, 아들 부부 사고로 잃고 손자 지킨다‥‘엄마가 미쳤어요’ 합류",
+      "url": "https://m.entertain.naver.com/article/609/0001158818",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 4706,
+      "views": 4664,
       "rank": 30,
       "channel": "정보주는하마"
     },
     {
-      "title": "'안세영 끝내 못 만난다' 김가은 통한의 패배…中 세계 5위와 58분 혈투, 1-2 고개 숙였다→세계선수권 8강행 좌절",
+      "title": "'난리났다' 야구장 맥주판매원 추행 → 영구 출입 금지 블랙리스트 \"끔찍한 일\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 13756,
+      "views": 375598,
+      "rank": 1,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'韓 수비 에이스' 김민재 미쳤다, 독일 생활 마침표 찍고 EPL 입성할까...빅클럽 관심 끈질기다, \"맨유 관심 커, 캐릭이 원하는 유형\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 265005,
+      "rank": 2,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"맥주인가? 경기 중 저걸 마시다니…\" 해설가도 깜짝 놀란 '음주 테니스' 의혹→필리핀 스타 이긴 美 세계 10위, 알고보니",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 188988,
       "rank": 5,
       "channel": "정보주는하마"
     },
@@ -296,35 +314,8 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 12844,
-      "rank": 6,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'영화 아닙니다.' 아들의 프로 첫 홈런을 아버지가 잡다니... 핸드폰 던지고 \"내 아들이야\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 11714,
-      "rank": 7,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "이의리를 복사할 수는 없잖아… KIA에 또 희망 떴다? 악몽 지우고 살아났다",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 9109,
-      "rank": 10,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "김연경 \"한국 여자배구의 미래 기대된다\"...'세계선수권 6위 손서연·장수인·문티아라 등' 김연경 재단 장학생들, 태극마크 달고 맹활약",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 8876,
-      "rank": 11,
+      "views": 139216,
+      "rank": 9,
       "channel": "정보주는하마"
     },
     {
@@ -332,44 +323,53 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 8823,
+      "views": 121002,
+      "rank": 11,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "다저스가 공포에 떨고 있다…ML 1위 밀워키 22-0 초토화, 6580억 슈퍼스타 착각에 아연실색",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 99948,
       "rank": 12,
       "channel": "정보주는하마"
     },
     {
-      "title": "中 배드민턴 대참사! \"안세영 무적 아냐\" 큰소리 치더니…간판 천위페이 세계선수권 16강 충격 탈락→10위 초추웡에 1-2 역전패",
+      "title": "\"페트병도 못 딸 정도\"…日 인기 여성 프로레슬러, 희귀 난치병으로 수술대→\"2만4000명 중 1명 걸린다고\" 쾌유 기원",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 7029,
-      "rank": 15,
+      "views": 91499,
+      "rank": 13,
       "channel": "정보주는하마"
     },
     {
-      "title": "'韓 초대형 호재' 이강인-김민재-황인범-양현준 레츠고...별들의 전쟁 4인방 터진다, 셀틱 최종예선 1차전 3-0 대승",
+      "title": "하주석이 KIA 가서 잘 쳐서가 아니다...한화가 트레이드의 '기본' 안 지킨 것이 아플 뿐이다",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 6731,
+      "views": 82555,
+      "rank": 14,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이강인 골 최고였다! 팀 위해 헌신하는 선수\"...냉혈한 시메오네마저 푹 빠졌다! 아틀레티코 마드리드 주전 경쟁 청신호→\"그리즈만 역할 이어받아\" 호평 이어져",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 79547,
       "rank": 16,
       "channel": "정보주는하마"
     },
     {
-      "title": "대박, 슈퍼팀 다저스 더 강력해진다! 163km 파이어볼러 5⅓이닝 9K 압도→마지막 재활 등판 마쳤다...26일 ATL전 복귀 예정",
+      "title": "'도대체' 삼성의 어떤 존재인가, 오자마자 1위 탈환 임박…왜 역대 3위 대기록에도 \"아쉬움\" 말했나",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 6394,
-      "rank": 17,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"비극적인 사망 소식\" 36세에 세상 떠난 전 약혼자...헤비급 챔피언의 가슴 아픈 고백 \"11세 딸이 엄마를 기억하도록 하겠다\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 6281,
-      "rank": 18,
+      "views": 76357,
+      "rank": 19,
       "channel": "정보주는하마"
     }
   ],
@@ -386,8 +386,8 @@
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "옥순",
-            "번째",
             "이혼",
+            "번째",
             "파경",
             "유산"
           ],
@@ -411,21 +411,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"세계선, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 5,
-          "source_article": "'안세영 끝내 못 만난다' 김가은 통한의 패배…中 세계 5위와 58분 혈투, 1-2 고개 숙였다→세계선수권 8강행 좌절",
+          "title": "\"황정음까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 6,
+          "source_article": "\"맥주인가? 경기 중 저걸 마시다니…\" 해설가도 깜짝 놀란 '음주 테니스' 의혹→필리핀 스타 이긴 美 세계 10위, 알고보니",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "세계선",
-            "수권",
-            "안세영",
-            "김연경",
-            "끝내"
+            "황정음",
+            "깜짝",
+            "폭행",
+            "낙태",
+            "종용"
           ],
-          "template": "스포츠 기록",
-          "score": 6.8,
+          "template": "논란 집합",
+          "score": 7.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -435,27 +435,27 @@
           },
           "table": {
             "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"선우용이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+          "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
           "angle_type": "가족·혈연",
           "article_count": 5,
-          "source_article": "'3차례 성형' 故최진실 딸, 민낯에 스스로도 화들짝…\"갭 차이 어이없어\"",
-          "source_url": "https://m.entertain.naver.com/article/312/0000772679",
-          "source_name": "엔터 많이 본 뉴스",
+          "source_article": "\"페트병도 못 딸 정도\"…日 인기 여성 프로레슬러, 희귀 난치병으로 수술대→\"2만4000명 중 1명 걸린다고\" 쾌유 기원",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
+            "아들",
             "선우용",
             "차례",
             "성형",
-            "최진실",
-            "민낯에"
+            "최진실"
           ],
           "template": "동갑내기",
           "score": 6.8,
@@ -477,51 +477,18 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 4,
-          "source_article": "\"눈물 쏟고 복귀\" 하영, 日 원작  '승산' 강행… \"동정표 작전\" vs \"억울한 마녀사냥\"",
-          "source_url": "https://m.entertain.naver.com/article/117/0004096528",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "눈물",
-            "쏟고",
-            "하영",
-            "원작",
-            "승산"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 6.6,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
           "title": "\"소문, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
           "angle_type": "자산·몸값",
-          "article_count": 2,
-          "source_article": "'190억 빚' 임채무, 또 사고쳤다…발달장애인에 '두리랜드' 문 활짝 \"웃음 선물하고파\"",
-          "source_url": "https://m.entertain.naver.com/article/477/0000624152",
-          "source_name": "엔터 많이 본 뉴스",
+          "article_count": 3,
+          "source_article": "다저스가 공포에 떨고 있다…ML 1위 밀워키 22-0 초토화, 6580억 슈퍼스타 착각에 아연실색",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "소문",
-            "임채무",
-            "사고쳤",
-            "발달장",
-            "애인에"
+            "임요환",
+            "김가연",
+            "부자",
+            "사실이"
           ],
           "template": "자산 서열",
           "score": 6.5,
@@ -543,20 +510,20 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-          "angle_type": "투병·건강",
+          "title": "\"트레이, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "angle_type": "스포츠",
           "article_count": 3,
-          "source_article": "김정화, 이혼 기사 후 솔직 입장…'뇌종양 투병' 남편 \"현실 부부라니까\"",
-          "source_url": "https://m.entertain.naver.com/article/117/0004096496",
-          "source_name": "엔터 많이 본 뉴스",
+          "source_article": "KIA가 초대형 트레이드로 품은 이유 있었다…\"칭찬하고 싶어\" 꽃감독도 웃게 만든 이 선수의 수비",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "김정화",
-            "이혼",
-            "기사",
-            "솔직",
-            "입장"
+            "트레이",
+            "초대형",
+            "드로",
+            "품은",
+            "있었다"
           ],
-          "template": "투병 극복",
+          "template": "스포츠 기록",
           "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
@@ -567,10 +534,10 @@
           },
           "table": {
             "headers": [
-              "이름",
-              "투병 질환",
-              "공백기",
-              "복귀 작품"
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
             ]
           },
           "channel": "정보주는하마"
@@ -605,17 +572,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"수권\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 수권",
-          "article_count": 3,
-          "source_article": "'안세영 끝내 못 만난다' 김가은 통한의 패배…中 세계 5위와 58분 혈투, 1-2 고개 숙였다→세계선수권 8강행 좌절",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 2,
+          "source_article": "\"눈물 쏟고 복귀\" 하영, 日 원작  '승산' 강행… \"동정표 작전\" vs \"억울한 마녀사냥\"",
+          "source_url": "https://m.entertain.naver.com/article/117/0004096528",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "수권"
+            "눈물",
+            "쏟고",
+            "하영",
+            "원작",
+            "승산"
           ],
-          "template": "인맥",
-          "score": 6.0,
+          "template": "장기 공백 복귀",
+          "score": 6.1,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -626,29 +597,29 @@
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 4,
-          "source_article": "\"촌스러운 메이크업\" 비난받더니…황정음, '42살 김혜진' 깜짝 변신",
-          "source_url": "https://m.entertain.naver.com/article/117/0004096623",
-          "source_name": "엔터 많이 본 뉴스",
+          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+          "angle_type": "투병·건강",
+          "article_count": 2,
+          "source_article": "\"페트병도 못 딸 정도\"…日 인기 여성 프로레슬러, 희귀 난치병으로 수술대→\"2만4000명 중 1명 걸린다고\" 쾌유 기원",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "촌스러",
-            "메이크",
-            "비난받",
-            "더니",
-            "황정음"
+            "김정화",
+            "이혼",
+            "기사",
+            "솔직",
+            "입장"
           ],
-          "template": "논란 집합",
-          "score": 5.9,
+          "template": "투병 극복",
+          "score": 5.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -659,9 +630,9 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
+              "투병 질환",
+              "공백기",
+              "복귀 작품"
             ]
           },
           "channel": "정보주는하마"
@@ -677,7 +648,7 @@
           3
         ],
         [
-          "세계선수권",
+          "황정음",
           3
         ],
         [
@@ -689,15 +660,11 @@
           2
         ],
         [
-          "강행",
+          "깜짝",
           2
         ],
         [
-          "황정음",
-          2
-        ],
-        [
-          "메이크업",
+          "변신",
           2
         ],
         [
@@ -705,11 +672,11 @@
           2
         ],
         [
-          "이혼",
+          "부부",
           2
         ],
         [
-          "번째",
+          "이혼",
           2
         ],
         [
@@ -717,35 +684,39 @@
           2
         ],
         [
-          "고백",
+          "아내",
           2
         ],
         [
-          "아냐",
+          "아들",
           2
         ],
         [
-          "맞아",
+          "잃고",
           2
         ],
         [
-          "안세영",
+          "번째",
           2
         ],
         [
-          "초대형",
+          "아니다",
           2
         ],
         [
-          "차고",
-          1
+          "수비",
+          2
         ],
         [
-          "백발",
+          "모습",
           1
         ],
         [
           "염색",
+          1
+        ],
+        [
+          "차고",
           1
         ]
       ],
@@ -759,11 +730,7 @@
           3
         ],
         [
-          "세계선",
-          3
-        ],
-        [
-          "수권",
+          "황정음",
           3
         ],
         [
@@ -775,19 +742,19 @@
           2
         ],
         [
-          "강행",
-          2
-        ],
-        [
-          "황정음",
-          2
-        ],
-        [
-          "메이크",
-          2
-        ],
-        [
           "사실이",
+          2
+        ],
+        [
+          "변신",
+          2
+        ],
+        [
+          "깜짝",
+          2
+        ],
+        [
+          "부부",
           2
         ],
         [
@@ -799,26 +766,30 @@
           2
         ],
         [
-          "번째",
-          2
-        ],
-        [
           "달라진",
           2
         ],
         [
-          "고백",
+          "아내",
+          2
+        ],
+        [
+          "아들",
+          2
+        ],
+        [
+          "잃고",
           2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
-          2
+          3
         ],
         [
           "논란·사건",
-          4
+          6
         ],
         [
           "결혼·이혼",
@@ -826,15 +797,15 @@
         ],
         [
           "복귀·근황",
-          4
+          2
         ],
         [
           "투병·건강",
-          3
+          2
         ],
         [
           "스포츠",
-          5
+          3
         ],
         [
           "가족·혈연",
@@ -843,21 +814,21 @@
       ]
     },
     "초구딱": {
-      "article_count": 40,
+      "article_count": 10,
       "topics": [
         {
           "title": "\"구단, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
           "article_count": 7,
-          "source_article": "‘구도’ 부산 시민들 혈압오른다, 김태형 감독에 24억원 쓴 롯데…현실은 9년 연속 ‘가을야구’ 실패",
+          "source_article": "‘폰세 상위 호환’ KBO 단체로 이불킥… 한국 구단 러브콜 뿌리치고, ‘대전 예수’를 울렸다",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "구단",
-            "감독",
-            "한화",
-            "구도",
-            "시민들"
+            "폰세",
+            "상위",
+            "호환",
+            "단체로"
           ],
           "template": "스포츠 기록",
           "score": 7.3,
@@ -877,195 +848,55 @@
             ]
           },
           "channel": "초구딱"
-        },
-        {
-          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 3,
-          "source_article": "‘구도’ 부산 시민들 혈압오른다, 김태형 감독에 24억원 쓴 롯데…현실은 9년 연속 ‘가을야구’ 실패",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "구도",
-            "시민들",
-            "혈압오",
-            "른다",
-            "김태형"
-          ],
-          "template": "자산 서열",
-          "score": 7.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"실패 자산이 얼마?\" 실패급 자산가 스타 TOP10",
-          "angle_type": "👤 실패",
-          "article_count": 3,
-          "source_article": "‘구도’ 부산 시민들 혈압오른다, 김태형 감독에 24억원 쓴 롯데…현실은 9년 연속 ‘가을야구’ 실패",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "실패"
-          ],
-          "template": "자산 서열",
-          "score": 7.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"한화\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 한화",
-          "article_count": 3,
-          "source_article": "이대형 '작두 해설' 화제, 한화 벤치 \"지금 손가락 4개\" 반복 또 반복, 김도영과 승부서 끝내 스리런포 허용하자 반응이...",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "한화"
-          ],
-          "template": "인맥",
-          "score": 6.4,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"안내\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 안내",
-          "article_count": 3,
-          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "안내"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
-        [
-          "실패",
-          3
-        ],
-        [
-          "한화",
-          3
-        ],
-        [
-          "안내",
-          3
-        ],
-        [
-          "롯데",
-          2
-        ],
         [
           "구단",
           2
         ],
         [
-          "감독",
+          "옳았다",
           2
         ],
         [
-          "이닝",
+          "실패",
           2
         ],
         [
-          "업데이트",
-          2
-        ],
-        [
-          "감독에",
+          "이불킥",
           1
         ],
         [
-          "혈압오른다",
+          "폰세",
           1
         ],
         [
-          "억원",
+          "울렸다",
           1
         ],
         [
-          "가을야구",
+          "호환",
           1
         ],
         [
-          "구도",
+          "예수",
           1
         ],
         [
-          "현실은",
+          "단체로",
           1
         ],
         [
-          "연속",
+          "러브콜",
           1
         ],
         [
-          "시민들",
+          "상위",
           1
         ],
         [
-          "김태형",
+          "뿌리치고",
           1
         ],
         [
@@ -1073,61 +904,53 @@
           1
         ],
         [
-          "확실히",
+          "용타",
+          1
+        ],
+        [
+          "강정호도",
+          1
+        ],
+        [
+          "틀렸고",
           1
         ],
         [
           "아니라는데",
           1
+        ],
+        [
+          "하락세",
+          1
+        ],
+        [
+          "확실히",
+          1
+        ],
+        [
+          "키움",
+          1
         ]
       ],
       "name_freq": [
-        [
-          "실패",
-          3
-        ],
-        [
-          "한화",
-          3
-        ],
-        [
-          "안내",
-          3
-        ],
-        [
-          "롯데",
-          2
-        ],
         [
           "구단",
           2
         ],
         [
-          "감독",
+          "옳았다",
           2
         ],
         [
-          "이닝",
+          "실패",
           2
         ],
         [
-          "업데이",
-          2
-        ],
-        [
-          "아파트",
-          2
-        ],
-        [
-          "네요",
+          "세이브",
           2
         ]
       ],
       "angle_scores": [
-        [
-          "자산·몸값",
-          3
-        ],
         [
           "스포츠",
           7
@@ -1145,8 +968,8 @@
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "옥순",
-        "번째",
         "이혼",
+        "번째",
         "파경",
         "유산"
       ],
@@ -1170,21 +993,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"세계선, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 5,
-      "source_article": "'안세영 끝내 못 만난다' 김가은 통한의 패배…中 세계 5위와 58분 혈투, 1-2 고개 숙였다→세계선수권 8강행 좌절",
+      "title": "\"황정음까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 6,
+      "source_article": "\"맥주인가? 경기 중 저걸 마시다니…\" 해설가도 깜짝 놀란 '음주 테니스' 의혹→필리핀 스타 이긴 美 세계 10위, 알고보니",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "세계선",
-        "수권",
-        "안세영",
-        "김연경",
-        "끝내"
+        "황정음",
+        "깜짝",
+        "폭행",
+        "낙태",
+        "종용"
       ],
-      "template": "스포츠 기록",
-      "score": 6.8,
+      "template": "논란 집합",
+      "score": 7.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1194,27 +1017,27 @@
       },
       "table": {
         "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"선우용이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
       "angle_type": "가족·혈연",
       "article_count": 5,
-      "source_article": "'3차례 성형' 故최진실 딸, 민낯에 스스로도 화들짝…\"갭 차이 어이없어\"",
-      "source_url": "https://m.entertain.naver.com/article/312/0000772679",
-      "source_name": "엔터 많이 본 뉴스",
+      "source_article": "\"페트병도 못 딸 정도\"…日 인기 여성 프로레슬러, 희귀 난치병으로 수술대→\"2만4000명 중 1명 걸린다고\" 쾌유 기원",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
+        "아들",
         "선우용",
         "차례",
         "성형",
-        "최진실",
-        "민낯에"
+        "최진실"
       ],
       "template": "동갑내기",
       "score": 6.8,
@@ -1236,51 +1059,18 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 4,
-      "source_article": "\"눈물 쏟고 복귀\" 하영, 日 원작  '승산' 강행… \"동정표 작전\" vs \"억울한 마녀사냥\"",
-      "source_url": "https://m.entertain.naver.com/article/117/0004096528",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "눈물",
-        "쏟고",
-        "하영",
-        "원작",
-        "승산"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 6.6,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"소문, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
       "angle_type": "자산·몸값",
-      "article_count": 2,
-      "source_article": "'190억 빚' 임채무, 또 사고쳤다…발달장애인에 '두리랜드' 문 활짝 \"웃음 선물하고파\"",
-      "source_url": "https://m.entertain.naver.com/article/477/0000624152",
-      "source_name": "엔터 많이 본 뉴스",
+      "article_count": 3,
+      "source_article": "다저스가 공포에 떨고 있다…ML 1위 밀워키 22-0 초토화, 6580억 슈퍼스타 착각에 아연실색",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "소문",
-        "임채무",
-        "사고쳤",
-        "발달장",
-        "애인에"
+        "임요환",
+        "김가연",
+        "부자",
+        "사실이"
       ],
       "template": "자산 서열",
       "score": 6.5,
@@ -1302,20 +1092,20 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-      "angle_type": "투병·건강",
+      "title": "\"트레이, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
       "article_count": 3,
-      "source_article": "김정화, 이혼 기사 후 솔직 입장…'뇌종양 투병' 남편 \"현실 부부라니까\"",
-      "source_url": "https://m.entertain.naver.com/article/117/0004096496",
-      "source_name": "엔터 많이 본 뉴스",
+      "source_article": "KIA가 초대형 트레이드로 품은 이유 있었다…\"칭찬하고 싶어\" 꽃감독도 웃게 만든 이 선수의 수비",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "김정화",
-        "이혼",
-        "기사",
-        "솔직",
-        "입장"
+        "트레이",
+        "초대형",
+        "드로",
+        "품은",
+        "있었다"
       ],
-      "template": "투병 극복",
+      "template": "스포츠 기록",
       "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
@@ -1326,10 +1116,10 @@
       },
       "table": {
         "headers": [
-          "이름",
-          "투병 질환",
-          "공백기",
-          "복귀 작품"
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
         ]
       },
       "channel": "정보주는하마"
@@ -1364,17 +1154,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"수권\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 수권",
-      "article_count": 3,
-      "source_article": "'안세영 끝내 못 만난다' 김가은 통한의 패배…中 세계 5위와 58분 혈투, 1-2 고개 숙였다→세계선수권 8강행 좌절",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "\"눈물 쏟고 복귀\" 하영, 日 원작  '승산' 강행… \"동정표 작전\" vs \"억울한 마녀사냥\"",
+      "source_url": "https://m.entertain.naver.com/article/117/0004096528",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "수권"
+        "눈물",
+        "쏟고",
+        "하영",
+        "원작",
+        "승산"
       ],
-      "template": "인맥",
-      "score": 6.0,
+      "template": "장기 공백 복귀",
+      "score": 6.1,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1385,29 +1179,29 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 4,
-      "source_article": "\"촌스러운 메이크업\" 비난받더니…황정음, '42살 김혜진' 깜짝 변신",
-      "source_url": "https://m.entertain.naver.com/article/117/0004096623",
-      "source_name": "엔터 많이 본 뉴스",
+      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+      "angle_type": "투병·건강",
+      "article_count": 2,
+      "source_article": "\"페트병도 못 딸 정도\"…日 인기 여성 프로레슬러, 희귀 난치병으로 수술대→\"2만4000명 중 1명 걸린다고\" 쾌유 기원",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "촌스러",
-        "메이크",
-        "비난받",
-        "더니",
-        "황정음"
+        "김정화",
+        "이혼",
+        "기사",
+        "솔직",
+        "입장"
       ],
-      "template": "논란 집합",
-      "score": 5.9,
+      "template": "투병 극복",
+      "score": 5.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1418,9 +1212,9 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
+          "투병 질환",
+          "공백기",
+          "복귀 작품"
         ]
       },
       "channel": "정보주는하마"
@@ -1436,8 +1230,8 @@
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "옥순",
-        "번째",
         "이혼",
+        "번째",
         "파경",
         "유산"
       ],
@@ -1461,21 +1255,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"세계선, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 5,
-      "source_article": "'안세영 끝내 못 만난다' 김가은 통한의 패배…中 세계 5위와 58분 혈투, 1-2 고개 숙였다→세계선수권 8강행 좌절",
+      "title": "\"황정음까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 6,
+      "source_article": "\"맥주인가? 경기 중 저걸 마시다니…\" 해설가도 깜짝 놀란 '음주 테니스' 의혹→필리핀 스타 이긴 美 세계 10위, 알고보니",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "세계선",
-        "수권",
-        "안세영",
-        "김연경",
-        "끝내"
+        "황정음",
+        "깜짝",
+        "폭행",
+        "낙태",
+        "종용"
       ],
-      "template": "스포츠 기록",
-      "score": 6.8,
+      "template": "논란 집합",
+      "score": 7.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1485,27 +1279,27 @@
       },
       "table": {
         "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"선우용이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
       "angle_type": "가족·혈연",
       "article_count": 5,
-      "source_article": "'3차례 성형' 故최진실 딸, 민낯에 스스로도 화들짝…\"갭 차이 어이없어\"",
-      "source_url": "https://m.entertain.naver.com/article/312/0000772679",
-      "source_name": "엔터 많이 본 뉴스",
+      "source_article": "\"페트병도 못 딸 정도\"…日 인기 여성 프로레슬러, 희귀 난치병으로 수술대→\"2만4000명 중 1명 걸린다고\" 쾌유 기원",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
+        "아들",
         "선우용",
         "차례",
         "성형",
-        "최진실",
-        "민낯에"
+        "최진실"
       ],
       "template": "동갑내기",
       "score": 6.8,
@@ -1527,51 +1321,18 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 4,
-      "source_article": "\"눈물 쏟고 복귀\" 하영, 日 원작  '승산' 강행… \"동정표 작전\" vs \"억울한 마녀사냥\"",
-      "source_url": "https://m.entertain.naver.com/article/117/0004096528",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "눈물",
-        "쏟고",
-        "하영",
-        "원작",
-        "승산"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 6.6,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"소문, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
       "angle_type": "자산·몸값",
-      "article_count": 2,
-      "source_article": "'190억 빚' 임채무, 또 사고쳤다…발달장애인에 '두리랜드' 문 활짝 \"웃음 선물하고파\"",
-      "source_url": "https://m.entertain.naver.com/article/477/0000624152",
-      "source_name": "엔터 많이 본 뉴스",
+      "article_count": 3,
+      "source_article": "다저스가 공포에 떨고 있다…ML 1위 밀워키 22-0 초토화, 6580억 슈퍼스타 착각에 아연실색",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "소문",
-        "임채무",
-        "사고쳤",
-        "발달장",
-        "애인에"
+        "임요환",
+        "김가연",
+        "부자",
+        "사실이"
       ],
       "template": "자산 서열",
       "score": 6.5,
@@ -1593,20 +1354,20 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-      "angle_type": "투병·건강",
+      "title": "\"트레이, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
       "article_count": 3,
-      "source_article": "김정화, 이혼 기사 후 솔직 입장…'뇌종양 투병' 남편 \"현실 부부라니까\"",
-      "source_url": "https://m.entertain.naver.com/article/117/0004096496",
-      "source_name": "엔터 많이 본 뉴스",
+      "source_article": "KIA가 초대형 트레이드로 품은 이유 있었다…\"칭찬하고 싶어\" 꽃감독도 웃게 만든 이 선수의 수비",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "김정화",
-        "이혼",
-        "기사",
-        "솔직",
-        "입장"
+        "트레이",
+        "초대형",
+        "드로",
+        "품은",
+        "있었다"
       ],
-      "template": "투병 극복",
+      "template": "스포츠 기록",
       "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
@@ -1617,10 +1378,10 @@
       },
       "table": {
         "headers": [
-          "이름",
-          "투병 질환",
-          "공백기",
-          "복귀 작품"
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
         ]
       },
       "channel": "정보주는하마"
@@ -1655,17 +1416,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"수권\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 수권",
-      "article_count": 3,
-      "source_article": "'안세영 끝내 못 만난다' 김가은 통한의 패배…中 세계 5위와 58분 혈투, 1-2 고개 숙였다→세계선수권 8강행 좌절",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "\"눈물 쏟고 복귀\" 하영, 日 원작  '승산' 강행… \"동정표 작전\" vs \"억울한 마녀사냥\"",
+      "source_url": "https://m.entertain.naver.com/article/117/0004096528",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "수권"
+        "눈물",
+        "쏟고",
+        "하영",
+        "원작",
+        "승산"
       ],
-      "template": "인맥",
-      "score": 6.0,
+      "template": "장기 공백 복귀",
+      "score": 6.1,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1676,29 +1441,29 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 4,
-      "source_article": "\"촌스러운 메이크업\" 비난받더니…황정음, '42살 김혜진' 깜짝 변신",
-      "source_url": "https://m.entertain.naver.com/article/117/0004096623",
-      "source_name": "엔터 많이 본 뉴스",
+      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+      "angle_type": "투병·건강",
+      "article_count": 2,
+      "source_article": "\"페트병도 못 딸 정도\"…日 인기 여성 프로레슬러, 희귀 난치병으로 수술대→\"2만4000명 중 1명 걸린다고\" 쾌유 기원",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "촌스러",
-        "메이크",
-        "비난받",
-        "더니",
-        "황정음"
+        "김정화",
+        "이혼",
+        "기사",
+        "솔직",
+        "입장"
       ],
-      "template": "논란 집합",
-      "score": 5.9,
+      "template": "투병 극복",
+      "score": 5.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1709,9 +1474,9 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
+          "투병 질환",
+          "공백기",
+          "복귀 작품"
         ]
       },
       "channel": "정보주는하마"
@@ -1720,15 +1485,15 @@
       "title": "\"구단, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
       "article_count": 7,
-      "source_article": "‘구도’ 부산 시민들 혈압오른다, 김태형 감독에 24억원 쓴 롯데…현실은 9년 연속 ‘가을야구’ 실패",
+      "source_article": "‘폰세 상위 호환’ KBO 단체로 이불킥… 한국 구단 러브콜 뿌리치고, ‘대전 예수’를 울렸다",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "구단",
-        "감독",
-        "한화",
-        "구도",
-        "시민들"
+        "폰세",
+        "상위",
+        "호환",
+        "단체로"
       ],
       "template": "스포츠 기록",
       "score": 7.3,
@@ -1748,126 +1513,6 @@
         ]
       },
       "channel": "초구딱"
-    },
-    {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 3,
-      "source_article": "‘구도’ 부산 시민들 혈압오른다, 김태형 감독에 24억원 쓴 롯데…현실은 9년 연속 ‘가을야구’ 실패",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "구도",
-        "시민들",
-        "혈압오",
-        "른다",
-        "김태형"
-      ],
-      "template": "자산 서열",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"실패 자산이 얼마?\" 실패급 자산가 스타 TOP10",
-      "angle_type": "👤 실패",
-      "article_count": 3,
-      "source_article": "‘구도’ 부산 시민들 혈압오른다, 김태형 감독에 24억원 쓴 롯데…현실은 9년 연속 ‘가을야구’ 실패",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "실패"
-      ],
-      "template": "자산 서열",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"한화\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 한화",
-      "article_count": 3,
-      "source_article": "이대형 '작두 해설' 화제, 한화 벤치 \"지금 손가락 4개\" 반복 또 반복, 김도영과 승부서 끝내 스리런포 허용하자 반응이...",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "한화"
-      ],
-      "template": "인맥",
-      "score": 6.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
-      "article_count": 3,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "안내"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
@@ -1880,7 +1525,7 @@
       3
     ],
     [
-      "세계선수권",
+      "황정음",
       3
     ],
     [
@@ -1892,15 +1537,11 @@
       2
     ],
     [
-      "강행",
+      "깜짝",
       2
     ],
     [
-      "황정음",
-      2
-    ],
-    [
-      "메이크업",
+      "변신",
       2
     ],
     [
@@ -1908,11 +1549,11 @@
       2
     ],
     [
-      "이혼",
+      "부부",
       2
     ],
     [
-      "번째",
+      "이혼",
       2
     ],
     [
@@ -1920,35 +1561,39 @@
       2
     ],
     [
-      "고백",
+      "아내",
       2
     ],
     [
-      "아냐",
+      "아들",
       2
     ],
     [
-      "맞아",
+      "잃고",
       2
     ],
     [
-      "안세영",
+      "번째",
       2
     ],
     [
-      "초대형",
+      "아니다",
       2
     ],
     [
-      "차고",
-      1
+      "수비",
+      2
     ],
     [
-      "백발",
+      "모습",
       1
     ],
     [
       "염색",
+      1
+    ],
+    [
+      "차고",
       1
     ]
   ],
@@ -1962,11 +1607,7 @@
       3
     ],
     [
-      "세계선",
-      3
-    ],
-    [
-      "수권",
+      "황정음",
       3
     ],
     [
@@ -1978,19 +1619,19 @@
       2
     ],
     [
-      "강행",
-      2
-    ],
-    [
-      "황정음",
-      2
-    ],
-    [
-      "메이크",
-      2
-    ],
-    [
       "사실이",
+      2
+    ],
+    [
+      "변신",
+      2
+    ],
+    [
+      "깜짝",
+      2
+    ],
+    [
+      "부부",
       2
     ],
     [
@@ -2002,19 +1643,23 @@
       2
     ],
     [
-      "번째",
-      2
-    ],
-    [
       "달라진",
       2
     ],
     [
-      "고백",
+      "아내",
+      2
+    ],
+    [
+      "아들",
+      2
+    ],
+    [
+      "잃고",
       2
     ]
   ],
-  "total_topics_generated": 14,
-  "valid_topics": 14,
+  "total_topics_generated": 9,
+  "valid_topics": 9,
   "excluded_duplicates": 0
 }
