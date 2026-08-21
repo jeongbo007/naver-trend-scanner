@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-21 05:30:48",
+  "scan_time": "2026-08-21 09:22:45",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -13,39 +13,21 @@
   "total_articles": 80,
   "articles": [
     {
-      "title": "'KS→충격 8위' 김경문 감독 계약 마지막해, 한화 구단은 어떤 평가를 내릴까",
+      "title": "KIA, LG 추격하기 바쁜데 하필...두산 날벼락, 'ERA 2.53' 좌완특급 벤자민, 어깨 미세 손상 말소, 루키 서준오 콜업",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 11461,
-      "rank": 6,
+      "views": 20077,
+      "rank": 3,
       "channel": "초구딱"
     },
     {
-      "title": "\"지고 있는데 상대 응원곡 따라부르다니\" 팬들, 한화 주장 채은성 태도 '융단폭격'...사실인가?",
+      "title": "두산 날벼락! '어깨 부상' 외인 대체자→6.2억 주고 붙잡았는데…갑자기 어깨 불편 호소, 1군 말소→\"일주일 휴식 후 재검진\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 10996,
-      "rank": 9,
-      "channel": "초구딱"
-    },
-    {
-      "title": "“(이)의리 실제로 많이 좋아졌는데…” KIA 김태군 이래서 멋진 포수, 전부 158km 클로저에게 열광할 때 다른 투수들을 살폈다",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 10492,
-      "rank": 11,
-      "channel": "초구딱"
-    },
-    {
-      "title": "다저스 '역대급 헐값' 계약인데…초대박 옵션 있었다, 1타석마다 2000만원 보너스 '내년 연봉도 자동 인상'",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 6967,
-      "rank": 18,
+      "views": 14127,
+      "rank": 7,
       "channel": "초구딱"
     },
     {
@@ -53,8 +35,80 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 6474,
-      "rank": 19,
+      "views": 12048,
+      "rank": 8,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'한화 비상' 왕옌청 폐렴 증세 입원, 10승 효자 아·쿼, '왜' 1군 말소됐나 했더니... \"한 차례 거른 뒤 복귀 예상\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 8759,
+      "rank": 10,
+      "channel": "초구딱"
+    },
+    {
+      "title": "KBO 역대급 방출 사례 되나…두산 웨이버→ML 계약→홈런 폭발 'OPS 1.091'이라니, 7070억 게레로 완벽 대체",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 8037,
+      "rank": 11,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'은퇴 11년 차' 호나우지뉴, 46세 현역 복귀…'등번호 10번' 이탈리아 3부 구단 공식 입단→통산 300호골 도전",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 7418,
+      "rank": 13,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'아뿔싸' 8위 한화 초대형 악재 발생! 10승 대만 특급 좌완 폐렴 입원, '하주석과 트레이드' 이적생 투수 긴급 콜업",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 7122,
+      "rank": 15,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'귀족야구'에 취한 LG, 팬들이 등을 돌린 진짜 이유는 '오만'과 '간절함'이 안 보이기 때문이다",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 6960,
+      "rank": 16,
+      "channel": "초구딱"
+    },
+    {
+      "title": "지독히 안 풀리는 '한국의 로드리' 권혁규, 반년만에 방출각, 손흥민의 LA FC-日 세레소-폴란드 클럽과 '링크'→\"선수·구단 모두 이적에 긍정적\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 6836,
+      "rank": 17,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'16실점 대패→4위 추락' LG 라인업, 오지환 박동원 제외-5실점 백승현 2군행…송승기 83일 만에 4승 도전, 이상영 콜업",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 6662,
+      "rank": 18,
+      "channel": "초구딱"
+    },
+    {
+      "title": "45년 역사상 딱 한 번 있던 대기록, 양현종 눈앞으로 왔다…13시즌 연속 100이닝 '초읽기'",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 6271,
+      "rank": 20,
       "channel": "초구딱"
     },
     {
@@ -103,8 +157,8 @@
       "channel": "초구딱"
     },
     {
-      "title": "구글 제미나이한테 부탁해보니",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137216&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "이 화장실 몇 번이나 써보셨나요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118140849&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
       "views": 0,
@@ -112,8 +166,8 @@
       "channel": "초구딱"
     },
     {
-      "title": "연합뉴스TV에 조해린 아나운서는 엄청 동안이네요.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137210&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "양안전쟁이 중일전쟁으로 확전되면",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118140843&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
       "views": 0,
@@ -121,230 +175,230 @@
       "channel": "초구딱"
     },
     {
-      "title": "삼전 하닉 들고 물려서 벌벌 떠는 사람들 한심 그자체인게",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137204&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "경각심 없는 지디에 일침 날린 타블로 ㅋㅋㅋ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118140834&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 29,
+      "views": 12,
       "rank": 8,
       "channel": "초구딱"
     },
     {
-      "title": "장기전세민 대표의 정책제안",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137198&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "오늘 무대인사 할 예정인 영화 죽은 시인의 사회 원작자 톰 슐먼",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118140828&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 34,
+      "views": 20,
       "rank": 9,
       "channel": "초구딱"
     },
     {
-      "title": "종잣돈 1억으로 서울 신축 아파트 장만하는 방법....청년 필독~",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137192&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "독일 국가 1절은 어떤부분에서 문제되서 현대에는 부르지 못하게 되었나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118140825&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 42,
+      "views": 14,
       "rank": 10,
       "channel": "초구딱"
     },
     {
-      "title": "현대차 GV90 현장 실사 직찍. jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137183&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=kakao.com",
+      "title": "삼전 넥장 거래량 700만주 돌파 ㅎㄷㄷ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118140819&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 230,
+      "views": 154,
       "rank": 11,
       "channel": "초구딱"
     },
     {
-      "title": "그래도 일본 경제는 아주 튼튼하네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137177&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "사실 한국 가계부채 높은건 정부정책 때문이죠",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118140816&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 63,
+      "views": 0,
       "rank": 12,
       "channel": "초구딱"
     },
     {
-      "title": "개인적으로 생각하는 동남아 국가별 유전자 구성",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137174&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "자사주 14조 공시",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118140807&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 22,
+      "views": 165,
       "rank": 13,
       "channel": "초구딱"
     },
     {
-      "title": "공기압넣으러갔다가 타이어 교체했는데",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137159&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "이재용 진짜 쪼잔한 놈이네...에혀 ㅎㅎ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118140804&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 80,
+      "views": 90,
       "rank": 14,
       "channel": "초구딱"
     },
     {
-      "title": "삼성전자가 24년째 시총1위 유지하고 있는거죠?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137153&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+      "title": "아들 이름 추천 좀 해주세요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118140795&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 88,
+      "views": 37,
       "rank": 15,
       "channel": "초구딱"
     },
     {
-      "title": "보통  모솔은 전부 아다인가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137144&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "100 만유튜버의 비키니.avi",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118140786&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 46,
+      "views": 133,
       "rank": 16,
       "channel": "초구딱"
     },
     {
-      "title": "보통 주주환원이나 자사주 소각같은 발표는 몇시쯤해요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137138&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "bhc 선착순쿠콘 8천원짜리 한다고 해도 70분이 말이됨?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118140783&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 212,
+      "views": 83,
       "rank": 17,
       "channel": "초구딱"
     },
     {
-      "title": "재밌는건 아직 일본은 돈을 안 풀었습니다",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137135&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "불펜 2대악 흡연, 불법주차 맞나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118140774&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 85,
+      "views": 67,
       "rank": 18,
       "channel": "초구딱"
     },
     {
-      "title": "38살 청춘 지낫나요. 아직청춘인가요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137129&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "술 담배 안하는 남자가 이상형이면 눈 높은 것 . jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118140771&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 81,
+      "views": 82,
       "rank": 19,
       "channel": "초구딱"
     },
     {
-      "title": "앤 해서웨이 리즈 시절 가슴은 갓벽하네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137117&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "파울볼 사이트 아직도 있네요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118140768&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 618,
+      "views": 55,
       "rank": 20,
       "channel": "초구딱"
     },
     {
-      "title": "중국 개 로봇 근황...mp4",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137114&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "닌자 베이스볼 리메이크 되는군요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118140765&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 164,
+      "views": 55,
       "rank": 21,
       "channel": "초구딱"
     },
     {
-      "title": "현대차 미국 조지아 공장 증설",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137108&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "신디 크로포드 잘 알면 할재인가요???",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118140762&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 216,
+      "views": 60,
       "rank": 22,
       "channel": "초구딱"
     },
     {
-      "title": "벽걸이 티비 질문드립니다.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137105&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "헬리녹스 유명한 브랜드인가요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118140759&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 55,
+      "views": 77,
       "rank": 23,
       "channel": "초구딱"
     },
     {
-      "title": "오디세이 배우들 내한 인터뷰 영상중 젤 좋았던 것",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137102&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "정부 \"임대주택이 자가보다 결혼할 확률 높다\"",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118140756&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 142,
+      "views": 116,
       "rank": 24,
       "channel": "초구딱"
     },
     {
-      "title": "삼성생명 8% 상승 중",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137096&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "오늘부로 실질적 반도체 대장주는 하닉",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118140750&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 268,
+      "views": 116,
       "rank": 25,
       "channel": "초구딱"
     },
     {
-      "title": "대입에서 서논술형 평가 도입 (의견수렴)",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137093&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "살려줘 헉헉",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118140738&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 51,
+      "views": 215,
       "rank": 26,
       "channel": "초구딱"
     },
     {
-      "title": "미국 주식하다 망한 느낌입니다.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137090&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "12만명이 동의한 문장",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118140720&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 457,
+      "views": 289,
       "rank": 27,
       "channel": "초구딱"
     },
     {
-      "title": "삼전 다음주 월요일도 쭉 오르려나요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137084&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "한국은 이제 삼전닉스에 의지 해야죠",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118140711&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 176,
+      "views": 96,
       "rank": 28,
       "channel": "초구딱"
     },
     {
-      "title": "삼전 본전와서 던지려던 사람들 고민좀 될것 같습니다",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137081&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "회사 업무 배우는거도 공부라고 생각하는데 엠팍님들 생각은?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118140702&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 334,
+      "views": 73,
       "rank": 29,
       "channel": "초구딱"
     },
     {
-      "title": "이 와중에 코스맥스 52신고가",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137078&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "성욕이 강해야 결혼도 하죠",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608210118140690&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 109,
+      "views": 169,
       "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 45,
+      "article_count": 39,
       "topics": [
         {
-          "title": "\"리그, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 6,
+          "article_count": 5,
           "source_article": "'北 국가대표 출신' 정대세, 은퇴 4년 만에 '현장 복귀'...'日 4부 리그' 요코하마 코치직 부임 \"뜨거운 성원 부탁\"",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "리그",
-            "강인",
-            "인종차",
-            "국가대",
-            "출신"
+            "수술",
+            "불가",
+            "전이돼",
+            "조권",
+            "안타까"
           ],
           "template": "스포츠 기록",
           "score": 7.4,
@@ -366,51 +420,18 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"근황 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-          "angle_type": "결혼·이혼",
-          "article_count": 5,
-          "source_article": "홍민기 측 2차 입장문 “A씨 임신 중절 수술 주장 당일, 자전거 타는 영상 보내와”",
-          "source_url": "https://m.entertain.naver.com/article/144/0001133020",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "근황",
-            "홍민기",
-            "입장문",
-            "임신",
-            "중절"
-          ],
-          "template": "결혼 화제",
-          "score": 7.1,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"홍민기까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "title": "\"사람까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
           "angle_type": "논란·사건",
           "article_count": 5,
-          "source_article": "“폭행·낙태 종용” 홍민기 전 여친, 영상 공개 초강수…폭로는 멈춘다",
-          "source_url": "https://m.entertain.naver.com/article/144/0001132936",
+          "source_article": "JYP, 인성 논란에 발빠른 계약해지… 박진영이 강조한 '좋은 사람'은",
+          "source_url": "https://m.entertain.naver.com/article/469/0000949243",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "홍민기",
-            "여친",
-            "폭행",
-            "낙태",
-            "종용"
+            "사람",
+            "심경",
+            "인성",
+            "논란에",
+            "발빠른"
           ],
           "template": "논란 집합",
           "score": 7.0,
@@ -432,18 +453,18 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
           "angle_type": "복귀·근황",
-          "article_count": 4,
+          "article_count": 3,
           "source_article": "'北 국가대표 출신' 정대세, 은퇴 4년 만에 '현장 복귀'...'日 4부 리그' 요코하마 코치직 부임 \"뜨거운 성원 부탁\"",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "근황",
-            "나혼산",
-            "애기라",
-            "유명스",
-            "조카"
+            "마약",
+            "자숙",
+            "유아인",
+            "빌리언",
+            "스와"
           ],
           "template": "장기 공백 복귀",
           "score": 6.9,
@@ -465,21 +486,54 @@
           "channel": "정보주는하마"
         },
         {
+          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "angle_type": "결혼·이혼",
+          "article_count": 6,
+          "source_article": "홍민기 측 2차 입장문 “A씨 임신 중절 수술 주장 당일, 자전거 타는 영상 보내와”",
+          "source_url": "https://m.entertain.naver.com/article/144/0001133020",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "결혼",
+            "홍민기",
+            "입장문",
+            "임신",
+            "중절"
+          ],
+          "template": "결혼 화제",
+          "score": 6.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
           "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
           "angle_type": "자산·몸값",
           "article_count": 2,
-          "source_article": "‘韓 축구 초대박’ 세계서 가장 오래된 올드 펌 더비서 ‘코리안 맞대결’ 성사된다!…“‘역대급 재능’ 김민수, 이적료 161억에 레인저스행 사실상 확정적”",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "source_article": "자산 2조설 유재석, 집에 TV 모니터만 12개? 홈쇼핑까지 다 본다(놀면 뭐하니)",
+          "source_url": "https://m.entertain.naver.com/article/609/0001159291",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "한복판",
-            "억대",
-            "계곡집",
-            "김대호",
-            "미쳤다"
+            "자산",
+            "조설",
+            "유재석",
+            "집에",
+            "모니터"
           ],
           "template": "자산 서열",
-          "score": 6.8,
+          "score": 6.4,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -500,7 +554,7 @@
         {
           "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
           "angle_type": "가족·혈연",
-          "article_count": 4,
+          "article_count": 2,
           "source_article": "선우용여, 딸 시댁 재력 이 정도였나…\"시할아버지 레이서, 포드 주식 많아\"",
           "source_url": "https://m.entertain.naver.com/article/076/0004437902",
           "source_name": "엔터 많이 본 뉴스",
@@ -512,7 +566,7 @@
             "시할아"
           ],
           "template": "동갑내기",
-          "score": 6.6,
+          "score": 6.1,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -534,15 +588,15 @@
           "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
           "angle_type": "투병·건강",
           "article_count": 3,
-          "source_article": "이재용, 30대 우울증 8년 투병…\"미치광이로 살았다\"",
-          "source_url": "https://m.entertain.naver.com/article/003/0014139947",
+          "source_article": "홍민기 측 2차 입장문 “A씨 임신 중절 수술 주장 당일, 자전거 타는 영상 보내와”",
+          "source_url": "https://m.entertain.naver.com/article/144/0001133020",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
+            "수술",
             "투병",
-            "이재용",
-            "우울증",
-            "미치광",
-            "이로"
+            "홍민기",
+            "입장문",
+            "임신"
           ],
           "template": "투병 극복",
           "score": 6.0,
@@ -566,23 +620,67 @@
       ],
       "keyword_freq": [
         [
-          "홍민기",
-          3
-        ],
-        [
-          "근황",
-          3
-        ],
-        [
-          "여친",
+          "수술",
           2
         ],
         [
-          "살았다",
+          "입장문",
           2
         ],
         [
-          "이재용",
+          "좋은",
+          2
+        ],
+        [
+          "사람",
+          2
+        ],
+        [
+          "유아인",
+          2
+        ],
+        [
+          "조유경",
+          2
+        ],
+        [
+          "친동생",
+          2
+        ],
+        [
+          "조보아",
+          2
+        ],
+        [
+          "비비",
+          2
+        ],
+        [
+          "비서진",
+          2
+        ],
+        [
+          "워터밤",
+          2
+        ],
+        [
+          "심경",
+          2
+        ],
+        [
+          "인도",
+          2
+        ],
+        [
+          "출신",
+          2
+        ],
+        [
+          "결혼",
+          2
+        ],
+        [
+          "이어",
           2
         ],
         [
@@ -590,121 +688,77 @@
           2
         ],
         [
-          "우울증",
-          2
+          "년째",
+          1
         ],
         [
           "단절",
-          2
-        ],
-        [
-          "쪼잔",
-          2
-        ],
-        [
-          "부부",
-          2
+          1
         ],
         [
           "아내",
-          2
-        ],
-        [
-          "이숙캠",
-          2
-        ],
-        [
-          "김대호",
-          2
-        ],
-        [
-          "홈즈",
-          2
-        ],
-        [
-          "악재",
-          2
-        ],
-        [
-          "나혼산",
-          2
-        ],
-        [
-          "년간",
-          2
-        ],
-        [
-          "백수",
-          2
-        ],
-        [
-          "인종차별",
-          2
-        ],
-        [
-          "발언",
-          2
+          1
         ]
       ],
       "name_freq": [
         [
-          "홍민기",
-          3
-        ],
-        [
-          "근황",
-          3
-        ],
-        [
-          "여친",
+          "수술",
           2
         ],
         [
-          "살았다",
+          "입장문",
           2
         ],
         [
-          "이재용",
+          "좋은",
           2
         ],
         [
-          "투병",
+          "사람",
           2
         ],
         [
-          "우울증",
+          "유아인",
           2
         ],
         [
-          "단절",
+          "빌리언",
           2
         ],
         [
-          "쪼잔",
+          "조유경",
           2
         ],
         [
-          "부부",
+          "친동생",
           2
         ],
         [
-          "이숙캠",
+          "조보아",
           2
         ],
         [
-          "아내",
+          "비비",
           2
         ],
         [
-          "김대호",
+          "비서진",
           2
         ],
         [
-          "홈즈",
+          "워터밤",
           2
         ],
         [
-          "악재",
+          "심경",
+          2
+        ],
+        [
+          "인도",
+          2
+        ],
+        [
+          "출신",
           2
         ]
       ],
@@ -719,11 +773,11 @@
         ],
         [
           "결혼·이혼",
-          5
+          6
         ],
         [
           "복귀·근황",
-          4
+          3
         ],
         [
           "투병·건강",
@@ -731,33 +785,66 @@
         ],
         [
           "스포츠",
-          6
+          5
         ],
         [
           "가족·혈연",
-          4
+          2
         ]
       ]
     },
     "초구딱": {
-      "article_count": 35,
+      "article_count": 41,
       "topics": [
         {
-          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 2,
-          "source_article": "다저스 '역대급 헐값' 계약인데…초대박 옵션 있었다, 1타석마다 2000만원 보너스 '내년 연봉도 자동 인상'",
+          "title": "\"구단, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 4,
+          "source_article": "KBO 역대급 방출 사례 되나…두산 웨이버→ML 계약→홈런 폭발 'OPS 1.091'이라니, 7070억 게레로 완벽 대체",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "다저스",
+            "구단",
             "역대급",
-            "헐값",
-            "계약인",
-            "초대박"
+            "방출",
+            "사례",
+            "되나"
+          ],
+          "template": "스포츠 기록",
+          "score": 6.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"두산, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 3,
+          "source_article": "두산 날벼락! '어깨 부상' 외인 대체자→6.2억 주고 붙잡았는데…갑자기 어깨 불편 호소, 1군 말소→\"일주일 휴식 후 재검진\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "두산",
+            "어깨",
+            "날벼락",
+            "부상",
+            "외인"
           ],
           "template": "자산 서열",
-          "score": 6.8,
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -771,6 +858,68 @@
               "주요 수입원",
               "추정 자산",
               "자산 특이점"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 2,
+          "source_article": "'한화 비상' 왕옌청 폐렴 증세 입원, 10승 효자 아·쿼, '왜' 1군 말소됐나 했더니... \"한 차례 거른 뒤 복귀 예상\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "한화",
+            "비상",
+            "왕옌청",
+            "폐렴",
+            "증세"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.1,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"콜업\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 콜업",
+          "article_count": 3,
+          "source_article": "KIA, LG 추격하기 바쁜데 하필...두산 날벼락, 'ERA 2.53' 좌완특급 벤자민, 어깨 미세 손상 말소, 루키 서준오 콜업",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "콜업"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
             ]
           },
           "channel": "초구딱"
@@ -805,46 +954,54 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"네요\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 네요",
-          "article_count": 3,
-          "source_article": "연합뉴스TV에 조해린 아나운서는 엄청 동안이네요.",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137210&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
+          "angle_type": "결혼·이혼",
+          "article_count": 2,
+          "source_article": "성욕이 강해야 결혼도 하죠",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608210118140690&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
           "source_name": "MLB파크 불펜",
           "related_names": [
-            "네요"
+            "임대주",
+            "택이",
+            "자가보",
+            "결혼할",
+            "확률"
           ],
-          "template": "인맥",
-          "score": 6.0,
+          "template": "결혼 화제",
+          "score": 5.8,
           "dup_check": {
             "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
+            "status": "재활용 가능",
+            "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
+            "matched_views": 720727,
+            "reason": "검증됨 720,727회 · 132일 경과"
           },
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
             ]
           },
           "channel": "초구딱"
         },
         {
-          "title": "\"삼전\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 삼전",
-          "article_count": 3,
-          "source_article": "삼전 하닉 들고 물려서 벌벌 떠는 사람들 한심 그자체인게",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137204&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
+          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+          "angle_type": "투병·건강",
+          "article_count": 2,
+          "source_article": "'한화 비상' 왕옌청 폐렴 증세 입원, 10승 효자 아·쿼, '왜' 1군 말소됐나 했더니... \"한 차례 거른 뒤 복귀 예상\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "삼전"
+            "한화",
+            "폐렴",
+            "입원",
+            "비상",
+            "왕옌청"
           ],
-          "template": "인맥",
-          "score": 6.0,
+          "template": "투병 극복",
+          "score": 5.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -855,9 +1012,9 @@
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
+              "투병 질환",
+              "공백기",
+              "복귀 작품"
             ]
           },
           "channel": "초구딱"
@@ -865,23 +1022,55 @@
       ],
       "keyword_freq": [
         [
+          "두산",
+          3
+        ],
+        [
+          "콜업",
+          3
+        ],
+        [
           "안내",
           3
         ],
         [
-          "삼전",
-          3
+          "어깨",
+          2
+        ],
+        [
+          "말소",
+          2
+        ],
+        [
+          "날벼락",
+          2
         ],
         [
           "한화",
           2
         ],
         [
-          "전부",
+          "입원",
           2
         ],
         [
-          "필독",
+          "폐렴",
+          2
+        ],
+        [
+          "도전",
+          2
+        ],
+        [
+          "구단",
+          2
+        ],
+        [
+          "진짜",
+          2
+        ],
+        [
+          "링크",
           2
         ],
         [
@@ -889,77 +1078,53 @@
           2
         ],
         [
-          "사람들",
-          2
-        ],
-        [
-          "현대차",
-          2
-        ],
-        [
-          "보통",
-          2
-        ],
-        [
-          "미국",
-          2
-        ],
-        [
-          "내릴까",
+          "추격하기",
           1
         ],
         [
-          "마지막해",
+          "벤자민",
           1
         ],
         [
-          "감독",
+          "루키",
           1
         ],
         [
-          "구단은",
+          "미세",
           1
         ],
         [
-          "어떤",
+          "하필",
           1
         ],
         [
-          "계약",
-          1
-        ],
-        [
-          "평가를",
-          1
-        ],
-        [
-          "김경문",
-          1
-        ],
-        [
-          "사실인가",
-          1
-        ],
-        [
-          "응원곡",
+          "서준오",
           1
         ]
       ],
       "name_freq": [
         [
+          "두산",
+          3
+        ],
+        [
+          "콜업",
+          3
+        ],
+        [
           "안내",
           3
         ],
         [
-          "네요",
-          3
+          "어깨",
+          2
         ],
         [
-          "삼전",
-          3
+          "말소",
+          2
         ],
         [
-          "한화",
+          "날벼락",
           2
         ],
         [
@@ -967,63 +1132,112 @@
           2
         ],
         [
-          "전부",
+          "한화",
           2
         ],
         [
-          "필독",
+          "입원",
           2
         ],
         [
-          "업데이",
+          "폐렴",
           2
         ],
         [
-          "사람들",
+          "도전",
           2
         ],
         [
-          "현대차",
+          "구단",
           2
         ],
         [
-          "보통",
+          "진짜",
           2
         ],
         [
-          "니다",
+          "때문이",
           2
         ],
         [
-          "미국",
+          "링크",
           2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
+          3
+        ],
+        [
+          "결혼·이혼",
           2
+        ],
+        [
+          "복귀·근황",
+          2
+        ],
+        [
+          "투병·건강",
+          2
+        ],
+        [
+          "스포츠",
+          4
         ]
       ]
     }
   },
   "topics": [
     {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 2,
-      "source_article": "다저스 '역대급 헐값' 계약인데…초대박 옵션 있었다, 1타석마다 2000만원 보너스 '내년 연봉도 자동 인상'",
+      "title": "\"구단, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 4,
+      "source_article": "KBO 역대급 방출 사례 되나…두산 웨이버→ML 계약→홈런 폭발 'OPS 1.091'이라니, 7070억 게레로 완벽 대체",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "다저스",
+        "구단",
         "역대급",
-        "헐값",
-        "계약인",
-        "초대박"
+        "방출",
+        "사례",
+        "되나"
+      ],
+      "template": "스포츠 기록",
+      "score": 6.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"두산, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 3,
+      "source_article": "두산 날벼락! '어깨 부상' 외인 대체자→6.2억 주고 붙잡았는데…갑자기 어깨 불편 호소, 1군 말소→\"일주일 휴식 후 재검진\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "두산",
+        "어깨",
+        "날벼락",
+        "부상",
+        "외인"
       ],
       "template": "자산 서열",
-      "score": 6.8,
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1037,6 +1251,68 @@
           "주요 수입원",
           "추정 자산",
           "자산 특이점"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "'한화 비상' 왕옌청 폐렴 증세 입원, 10승 효자 아·쿼, '왜' 1군 말소됐나 했더니... \"한 차례 거른 뒤 복귀 예상\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "한화",
+        "비상",
+        "왕옌청",
+        "폐렴",
+        "증세"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"콜업\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 콜업",
+      "article_count": 3,
+      "source_article": "KIA, LG 추격하기 바쁜데 하필...두산 날벼락, 'ERA 2.53' 좌완특급 벤자민, 어깨 미세 손상 말소, 루키 서준오 콜업",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "콜업"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "초구딱"
@@ -1071,46 +1347,54 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"네요\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 네요",
-      "article_count": 3,
-      "source_article": "연합뉴스TV에 조해린 아나운서는 엄청 동안이네요.",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137210&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 2,
+      "source_article": "성욕이 강해야 결혼도 하죠",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608210118140690&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "네요"
+        "임대주",
+        "택이",
+        "자가보",
+        "결혼할",
+        "확률"
       ],
-      "template": "인맥",
-      "score": 6.0,
+      "template": "결혼 화제",
+      "score": 5.8,
       "dup_check": {
         "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
+        "status": "재활용 가능",
+        "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
+        "matched_views": 720727,
+        "reason": "검증됨 720,727회 · 132일 경과"
       },
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
         ]
       },
       "channel": "초구딱"
     },
     {
-      "title": "\"삼전\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 삼전",
-      "article_count": 3,
-      "source_article": "삼전 하닉 들고 물려서 벌벌 떠는 사람들 한심 그자체인게",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137204&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
+      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+      "angle_type": "투병·건강",
+      "article_count": 2,
+      "source_article": "'한화 비상' 왕옌청 폐렴 증세 입원, 10승 효자 아·쿼, '왜' 1군 말소됐나 했더니... \"한 차례 거른 뒤 복귀 예상\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "삼전"
+        "한화",
+        "폐렴",
+        "입원",
+        "비상",
+        "왕옌청"
       ],
-      "template": "인맥",
-      "score": 6.0,
+      "template": "투병 극복",
+      "score": 5.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1121,9 +1405,9 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "투병 질환",
+          "공백기",
+          "복귀 작품"
         ]
       },
       "channel": "초구딱"
@@ -1131,18 +1415,18 @@
   ],
   "all_topics": [
     {
-      "title": "\"리그, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 6,
+      "article_count": 5,
       "source_article": "'北 국가대표 출신' 정대세, 은퇴 4년 만에 '현장 복귀'...'日 4부 리그' 요코하마 코치직 부임 \"뜨거운 성원 부탁\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "리그",
-        "강인",
-        "인종차",
-        "국가대",
-        "출신"
+        "수술",
+        "불가",
+        "전이돼",
+        "조권",
+        "안타까"
       ],
       "template": "스포츠 기록",
       "score": 7.4,
@@ -1164,51 +1448,18 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"근황 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 5,
-      "source_article": "홍민기 측 2차 입장문 “A씨 임신 중절 수술 주장 당일, 자전거 타는 영상 보내와”",
-      "source_url": "https://m.entertain.naver.com/article/144/0001133020",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "근황",
-        "홍민기",
-        "입장문",
-        "임신",
-        "중절"
-      ],
-      "template": "결혼 화제",
-      "score": 7.1,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"홍민기까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "title": "\"사람까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
       "angle_type": "논란·사건",
       "article_count": 5,
-      "source_article": "“폭행·낙태 종용” 홍민기 전 여친, 영상 공개 초강수…폭로는 멈춘다",
-      "source_url": "https://m.entertain.naver.com/article/144/0001132936",
+      "source_article": "JYP, 인성 논란에 발빠른 계약해지… 박진영이 강조한 '좋은 사람'은",
+      "source_url": "https://m.entertain.naver.com/article/469/0000949243",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "홍민기",
-        "여친",
-        "폭행",
-        "낙태",
-        "종용"
+        "사람",
+        "심경",
+        "인성",
+        "논란에",
+        "발빠른"
       ],
       "template": "논란 집합",
       "score": 7.0,
@@ -1230,18 +1481,18 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
       "angle_type": "복귀·근황",
-      "article_count": 4,
+      "article_count": 3,
       "source_article": "'北 국가대표 출신' 정대세, 은퇴 4년 만에 '현장 복귀'...'日 4부 리그' 요코하마 코치직 부임 \"뜨거운 성원 부탁\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "근황",
-        "나혼산",
-        "애기라",
-        "유명스",
-        "조카"
+        "마약",
+        "자숙",
+        "유아인",
+        "빌리언",
+        "스와"
       ],
       "template": "장기 공백 복귀",
       "score": 6.9,
@@ -1263,21 +1514,54 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 6,
+      "source_article": "홍민기 측 2차 입장문 “A씨 임신 중절 수술 주장 당일, 자전거 타는 영상 보내와”",
+      "source_url": "https://m.entertain.naver.com/article/144/0001133020",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "결혼",
+        "홍민기",
+        "입장문",
+        "임신",
+        "중절"
+      ],
+      "template": "결혼 화제",
+      "score": 6.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
       "angle_type": "자산·몸값",
       "article_count": 2,
-      "source_article": "‘韓 축구 초대박’ 세계서 가장 오래된 올드 펌 더비서 ‘코리안 맞대결’ 성사된다!…“‘역대급 재능’ 김민수, 이적료 161억에 레인저스행 사실상 확정적”",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "source_article": "자산 2조설 유재석, 집에 TV 모니터만 12개? 홈쇼핑까지 다 본다(놀면 뭐하니)",
+      "source_url": "https://m.entertain.naver.com/article/609/0001159291",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "한복판",
-        "억대",
-        "계곡집",
-        "김대호",
-        "미쳤다"
+        "자산",
+        "조설",
+        "유재석",
+        "집에",
+        "모니터"
       ],
       "template": "자산 서열",
-      "score": 6.8,
+      "score": 6.4,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1298,7 +1582,7 @@
     {
       "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
       "angle_type": "가족·혈연",
-      "article_count": 4,
+      "article_count": 2,
       "source_article": "선우용여, 딸 시댁 재력 이 정도였나…\"시할아버지 레이서, 포드 주식 많아\"",
       "source_url": "https://m.entertain.naver.com/article/076/0004437902",
       "source_name": "엔터 많이 본 뉴스",
@@ -1310,7 +1594,7 @@
         "시할아"
       ],
       "template": "동갑내기",
-      "score": 6.6,
+      "score": 6.1,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1332,15 +1616,15 @@
       "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
       "angle_type": "투병·건강",
       "article_count": 3,
-      "source_article": "이재용, 30대 우울증 8년 투병…\"미치광이로 살았다\"",
-      "source_url": "https://m.entertain.naver.com/article/003/0014139947",
+      "source_article": "홍민기 측 2차 입장문 “A씨 임신 중절 수술 주장 당일, 자전거 타는 영상 보내와”",
+      "source_url": "https://m.entertain.naver.com/article/144/0001133020",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
+        "수술",
         "투병",
-        "이재용",
-        "우울증",
-        "미치광",
-        "이로"
+        "홍민기",
+        "입장문",
+        "임신"
       ],
       "template": "투병 극복",
       "score": 6.0,
@@ -1362,21 +1646,54 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 2,
-      "source_article": "다저스 '역대급 헐값' 계약인데…초대박 옵션 있었다, 1타석마다 2000만원 보너스 '내년 연봉도 자동 인상'",
+      "title": "\"구단, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 4,
+      "source_article": "KBO 역대급 방출 사례 되나…두산 웨이버→ML 계약→홈런 폭발 'OPS 1.091'이라니, 7070억 게레로 완벽 대체",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "다저스",
+        "구단",
         "역대급",
-        "헐값",
-        "계약인",
-        "초대박"
+        "방출",
+        "사례",
+        "되나"
+      ],
+      "template": "스포츠 기록",
+      "score": 6.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"두산, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 3,
+      "source_article": "두산 날벼락! '어깨 부상' 외인 대체자→6.2억 주고 붙잡았는데…갑자기 어깨 불편 호소, 1군 말소→\"일주일 휴식 후 재검진\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "두산",
+        "어깨",
+        "날벼락",
+        "부상",
+        "외인"
       ],
       "template": "자산 서열",
-      "score": 6.8,
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1390,6 +1707,68 @@
           "주요 수입원",
           "추정 자산",
           "자산 특이점"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "'한화 비상' 왕옌청 폐렴 증세 입원, 10승 효자 아·쿼, '왜' 1군 말소됐나 했더니... \"한 차례 거른 뒤 복귀 예상\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "한화",
+        "비상",
+        "왕옌청",
+        "폐렴",
+        "증세"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"콜업\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 콜업",
+      "article_count": 3,
+      "source_article": "KIA, LG 추격하기 바쁜데 하필...두산 날벼락, 'ERA 2.53' 좌완특급 벤자민, 어깨 미세 손상 말소, 루키 서준오 콜업",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "콜업"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "초구딱"
@@ -1424,46 +1803,54 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"네요\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 네요",
-      "article_count": 3,
-      "source_article": "연합뉴스TV에 조해린 아나운서는 엄청 동안이네요.",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137210&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 2,
+      "source_article": "성욕이 강해야 결혼도 하죠",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608210118140690&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "네요"
+        "임대주",
+        "택이",
+        "자가보",
+        "결혼할",
+        "확률"
       ],
-      "template": "인맥",
-      "score": 6.0,
+      "template": "결혼 화제",
+      "score": 5.8,
       "dup_check": {
         "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
+        "status": "재활용 가능",
+        "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
+        "matched_views": 720727,
+        "reason": "검증됨 720,727회 · 132일 경과"
       },
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
         ]
       },
       "channel": "초구딱"
     },
     {
-      "title": "\"삼전\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 삼전",
-      "article_count": 3,
-      "source_article": "삼전 하닉 들고 물려서 벌벌 떠는 사람들 한심 그자체인게",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608210118137204&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
+      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+      "angle_type": "투병·건강",
+      "article_count": 2,
+      "source_article": "'한화 비상' 왕옌청 폐렴 증세 입원, 10승 효자 아·쿼, '왜' 1군 말소됐나 했더니... \"한 차례 거른 뒤 복귀 예상\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "삼전"
+        "한화",
+        "폐렴",
+        "입원",
+        "비상",
+        "왕옌청"
       ],
-      "template": "인맥",
-      "score": 6.0,
+      "template": "투병 극복",
+      "score": 5.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1474,9 +1861,9 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "투병 질환",
+          "공백기",
+          "복귀 작품"
         ]
       },
       "channel": "초구딱"
@@ -1484,23 +1871,67 @@
   ],
   "keyword_freq": [
     [
-      "홍민기",
-      3
-    ],
-    [
-      "근황",
-      3
-    ],
-    [
-      "여친",
+      "수술",
       2
     ],
     [
-      "살았다",
+      "입장문",
       2
     ],
     [
-      "이재용",
+      "좋은",
+      2
+    ],
+    [
+      "사람",
+      2
+    ],
+    [
+      "유아인",
+      2
+    ],
+    [
+      "조유경",
+      2
+    ],
+    [
+      "친동생",
+      2
+    ],
+    [
+      "조보아",
+      2
+    ],
+    [
+      "비비",
+      2
+    ],
+    [
+      "비서진",
+      2
+    ],
+    [
+      "워터밤",
+      2
+    ],
+    [
+      "심경",
+      2
+    ],
+    [
+      "인도",
+      2
+    ],
+    [
+      "출신",
+      2
+    ],
+    [
+      "결혼",
+      2
+    ],
+    [
+      "이어",
       2
     ],
     [
@@ -1508,125 +1939,81 @@
       2
     ],
     [
-      "우울증",
-      2
+      "년째",
+      1
     ],
     [
       "단절",
-      2
-    ],
-    [
-      "쪼잔",
-      2
-    ],
-    [
-      "부부",
-      2
+      1
     ],
     [
       "아내",
-      2
-    ],
-    [
-      "이숙캠",
-      2
-    ],
-    [
-      "김대호",
-      2
-    ],
-    [
-      "홈즈",
-      2
-    ],
-    [
-      "악재",
-      2
-    ],
-    [
-      "나혼산",
-      2
-    ],
-    [
-      "년간",
-      2
-    ],
-    [
-      "백수",
-      2
-    ],
-    [
-      "인종차별",
-      2
-    ],
-    [
-      "발언",
-      2
+      1
     ]
   ],
   "name_freq": [
     [
-      "홍민기",
-      3
-    ],
-    [
-      "근황",
-      3
-    ],
-    [
-      "여친",
+      "수술",
       2
     ],
     [
-      "살았다",
+      "입장문",
       2
     ],
     [
-      "이재용",
+      "좋은",
       2
     ],
     [
-      "투병",
+      "사람",
       2
     ],
     [
-      "우울증",
+      "유아인",
       2
     ],
     [
-      "단절",
+      "빌리언",
       2
     ],
     [
-      "쪼잔",
+      "조유경",
       2
     ],
     [
-      "부부",
+      "친동생",
       2
     ],
     [
-      "이숙캠",
+      "조보아",
       2
     ],
     [
-      "아내",
+      "비비",
       2
     ],
     [
-      "김대호",
+      "비서진",
       2
     ],
     [
-      "홈즈",
+      "워터밤",
       2
     ],
     [
-      "악재",
+      "심경",
+      2
+    ],
+    [
+      "인도",
+      2
+    ],
+    [
+      "출신",
       2
     ]
   ],
-  "total_topics_generated": 11,
-  "valid_topics": 11,
+  "total_topics_generated": 14,
+  "valid_topics": 14,
   "excluded_duplicates": 0
 }
