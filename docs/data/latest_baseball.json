@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-25 17:28:44",
+  "scan_time": "2026-08-25 21:21:58",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,9 +8,9 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 0
+    "MLB파크 불펜": 30
   },
-  "total_articles": 50,
+  "total_articles": 80,
   "articles": [
     {
       "title": "두산 포수 양의지 '폭탄 선언'? 2년 옵션 42억원 포기하고 FA 시장 나오나...3년 계약 가능성 대두",
@@ -65,12 +65,315 @@
       "views": 109872,
       "rank": 17,
       "channel": "초구딱"
+    },
+    {
+      "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 1,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 2,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🔔[업데이트] 외부 링크 미리보기(Embed/OG 태그) 기능 추가 안내🔔",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202607070000002111",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 3,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🛠️[업데이트] 해외 접속 장애 조치 관련 안내_260814🛠️",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202608130000002151",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 4,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🎞️[당첨자 발표] [연옥 : 살인마들의 자치구역] 개봉 이벤트🎞️",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202608180000002157",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 5,
+      "channel": "초구딱"
+    },
+    {
+      "title": "마참내 위쳐3 리마스터",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608260118252011&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 6,
+      "channel": "초구딱"
+    },
+    {
+      "title": "거북이가  여자 궁덩이를  ㅋㅋㅋ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608260118251999&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 274,
+      "rank": 7,
+      "channel": "초구딱"
+    },
+    {
+      "title": "맘스터치 싸이버거 4개 먹으면 어느정도라고 보시나요???",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608260118251993&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 44,
+      "rank": 8,
+      "channel": "초구딱"
+    },
+    {
+      "title": "어느 집안의 장례식",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608260118251990&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 180,
+      "rank": 9,
+      "channel": "초구딱"
+    },
+    {
+      "title": "압구정·대치 비명 지를 때 잠실 신고가… 세제개편에 집값 지각변동.gisa",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608260118251987&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 122,
+      "rank": 10,
+      "channel": "초구딱"
+    },
+    {
+      "title": "펩시티 근황",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608260118251981&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 176,
+      "rank": 11,
+      "channel": "초구딱"
+    },
+    {
+      "title": "일본 훗카이도 국도 근황",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608260118251978&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 436,
+      "rank": 12,
+      "channel": "초구딱"
+    },
+    {
+      "title": "타짜에서 가장 중요한 장면 중 하나 해석",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608260118251972&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 308,
+      "rank": 13,
+      "channel": "초구딱"
+    },
+    {
+      "title": "LA 노숙인들 클라스",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608260118251969&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 421,
+      "rank": 14,
+      "channel": "초구딱"
+    },
+    {
+      "title": "전국의 야구팬들이 환호했던 오스틴의 사이클링 히트 영상",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608260118251966&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 184,
+      "rank": 15,
+      "channel": "초구딱"
+    },
+    {
+      "title": "일일연속극 이승연",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608260118251963&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 268,
+      "rank": 16,
+      "channel": "초구딱"
+    },
+    {
+      "title": "이중에서 AI가 아닌 진짜 라면 사진은?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608260118251960&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 315,
+      "rank": 17,
+      "channel": "초구딱"
+    },
+    {
+      "title": "존존스 vs 최두호 (조건걸고)",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608260118251954&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 133,
+      "rank": 18,
+      "channel": "초구딱"
+    },
+    {
+      "title": "자연사다 vs 자살이다",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608260118251951&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 444,
+      "rank": 19,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[섹시퀸] 안녕하세요 .. 3465번째 듣모닝입니다 ㄷㄷ .. jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608260118251945&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 142,
+      "rank": 20,
+      "channel": "초구딱"
+    },
+    {
+      "title": "자연사다 VS 그래도 살인이다",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608260118251942&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 463,
+      "rank": 21,
+      "channel": "초구딱"
+    },
+    {
+      "title": "베센트타코의 위력. 미이란 휴전한다고 봐야겟네요.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608260118251939&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 590,
+      "rank": 22,
+      "channel": "초구딱"
+    },
+    {
+      "title": "2026년 8월 30일 이후 데뷔 및 컴백 여가수 리스트",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608260118251933&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 165,
+      "rank": 23,
+      "channel": "초구딱"
+    },
+    {
+      "title": "복직이 쉽지 않군요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608260118251930&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 538,
+      "rank": 24,
+      "channel": "초구딱"
+    },
+    {
+      "title": "숏다리 드시는분들은 상어나 악어인가요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608260118251921&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 753,
+      "rank": 25,
+      "channel": "초구딱"
+    },
+    {
+      "title": "<어벤져스: 엔드게임 앙코르> 예고편",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608260118251915&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 510,
+      "rank": 26,
+      "channel": "초구딱"
+    },
+    {
+      "title": "제주도가 주변국에서도 이슈네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608260118251903&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 1046,
+      "rank": 27,
+      "channel": "초구딱"
+    },
+    {
+      "title": "트리플에스 지연",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608260118251900&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 294,
+      "rank": 28,
+      "channel": "초구딱"
+    },
+    {
+      "title": "리센스) 유영우 - 헐트어택",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608260118251885&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 333,
+      "rank": 29,
+      "channel": "초구딱"
+    },
+    {
+      "title": "대만 신인 걸그룹 러브씨 - 愛不愛 DRIVE ME CRAZY",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202608260118251867&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 353,
+      "rank": 30,
+      "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
       "article_count": 44,
       "topics": [
+        {
+          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "angle_type": "결혼·이혼",
+          "article_count": 14,
+          "source_article": "“아이 동의는 있었나” ‘이혼 발표→훌쩍 큰 子 공개’…고지용X허양임 닮은 듯 다른 근황",
+          "source_url": "https://m.entertain.naver.com/article/112/0003805154",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "결혼",
+            "장동윤",
+            "김승윤",
+            "이혼",
+            "깜짝"
+          ],
+          "template": "결혼 화제",
+          "score": 7.4,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
         {
           "title": "\"이런, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
@@ -105,191 +408,9 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 3,
-          "source_article": "'장동윤과 결혼' 김승윤 누구…5세 연하·'독수리 5형제를 부탁해!' 안재욱 딸 역",
-          "source_url": "https://m.entertain.naver.com/article/421/0009130566",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "장동윤",
-            "결혼",
-            "김승윤",
-            "누구",
-            "연하"
-          ],
-          "template": "동갑내기",
-          "score": 6.9,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"지원, 대체 무슨 일이?\" 지원 관련 이슈 총정리",
-          "angle_type": "👤 지원",
-          "article_count": 5,
-          "source_article": "‘나혼산’ 제작진, 전현무 조작 방송 의혹 해명 “촬영 지원+협찬 NO”",
-          "source_url": "https://m.entertain.naver.com/article/609/0001160729",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "지원"
-          ],
-          "template": "논란 집합",
-          "score": 6.9,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"전현무, 대체 무슨 일이?\" 전현무 관련 이슈 총정리",
-          "angle_type": "👤 전현무",
-          "article_count": 5,
-          "source_article": "‘나혼산’ 제작진, 전현무 조작 방송 의혹 해명 “촬영 지원+협찬 NO”",
-          "source_url": "https://m.entertain.naver.com/article/609/0001160729",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "전현무"
-          ],
-          "template": "논란 집합",
-          "score": 6.9,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"즉흥여, 대체 무슨 일이?\" 즉흥여 관련 이슈 총정리",
-          "angle_type": "👤 즉흥여",
-          "article_count": 3,
-          "source_article": "'나혼산' 전현무 즉흥여행 논란…알마티시 \"관광국 지원\" vs 제작진 \"협찬·지원 無\"",
-          "source_url": "https://m.entertain.naver.com/article/477/0000625011",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "즉흥여"
-          ],
-          "template": "논란 집합",
-          "score": 6.9,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-          "angle_type": "결혼·이혼",
-          "article_count": 8,
-          "source_article": "\"무슨 사이냐고요? 상상에 맡길게요\"... 9살 차이 日 피겨 금메달 커플, 깜짝 약혼 발표 \"없어서는 안 될 존재\"",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "결혼",
-            "장동윤",
-            "김승윤",
-            "예비신",
-            "송하예"
-          ],
-          "template": "결혼 화제",
-          "score": 6.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"장동윤 결혼설?\" 장동윤 연애사 총정리",
-          "angle_type": "👤 장동윤",
-          "article_count": 4,
-          "source_article": "장동윤 결혼발표에 일부 팬 뿔났다..\"2635만원 팬 투자받고 ♥김승윤과 작품, 기만\"",
-          "source_url": "https://m.entertain.naver.com/article/076/0004439010",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "장동윤"
-          ],
-          "template": "결혼 화제",
-          "score": 6.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
           "title": "\"김승윤 결혼설?\" 김승윤 연애사 총정리",
           "angle_type": "👤 김승윤",
-          "article_count": 3,
+          "article_count": 6,
           "source_article": "장동윤 결혼발표에 일부 팬 뿔났다..\"2635만원 팬 투자받고 ♥김승윤과 작품, 기만\"",
           "source_url": "https://m.entertain.naver.com/article/076/0004439010",
           "source_name": "엔터 많이 본 뉴스",
@@ -297,7 +418,7 @@
             "김승윤"
           ],
           "template": "결혼 화제",
-          "score": 6.8,
+          "score": 7.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -316,21 +437,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"박위까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 8,
-          "source_article": "'日 결국 터질 게 터졌다!' 파격 폭로! 아이돌급 외모→22살에 따돌림으로 은퇴...\"참는 것도 슬슬 한계\"",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "title": "\"이혼 결혼설?\" 이혼 연애사 총정리",
+          "angle_type": "👤 이혼",
+          "article_count": 4,
+          "source_article": "“아이 동의는 있었나” ‘이혼 발표→훌쩍 큰 子 공개’…고지용X허양임 닮은 듯 다른 근황",
+          "source_url": "https://m.entertain.naver.com/article/112/0003805154",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "박위",
-            "지원",
-            "구독자",
-            "외모",
-            "나혼산"
+            "이혼"
           ],
-          "template": "논란 집합",
-          "score": 6.7,
+          "template": "결혼 화제",
+          "score": 6.9,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -341,9 +458,9 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
             ]
           },
           "channel": "정보주는하마"
@@ -351,19 +468,19 @@
         {
           "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
           "angle_type": "복귀·근황",
-          "article_count": 3,
-          "source_article": "'日 결국 터질 게 터졌다!' 파격 폭로! 아이돌급 외모→22살에 따돌림으로 은퇴...\"참는 것도 슬슬 한계\"",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "article_count": 4,
+          "source_article": "“아이 동의는 있었나” ‘이혼 발표→훌쩍 큰 子 공개’…고지용X허양임 닮은 듯 다른 근황",
+          "source_url": "https://m.entertain.naver.com/article/112/0003805154",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "터질",
-            "터졌다",
-            "파격",
-            "폭로",
-            "아이돌"
+            "아이",
+            "동의는",
+            "있었나",
+            "이혼",
+            "훌쩍"
           ],
           "template": "장기 공백 복귀",
-          "score": 6.5,
+          "score": 6.6,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -382,17 +499,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"아내 자산이 얼마?\" 아내급 자산가 스타 TOP10",
-          "angle_type": "👤 아내",
+          "title": "\"양지원 결혼설?\" 양지원 연애사 총정리",
+          "angle_type": "👤 양지원",
           "article_count": 3,
-          "source_article": "\"아내 송지은도 놀라\"..박위, 공익 벌서듯 사과에도→\"엑스레이 30번 찍어\" 공포감 조성",
-          "source_url": "https://m.entertain.naver.com/article/108/0003465093",
+          "source_article": "양지원, 결혼·혼전임신 깜짝 발표…상대는 '3년 전 이혼' 양준모였다",
+          "source_url": "https://m.entertain.naver.com/article/440/0000042171",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "아내"
+            "양지원"
           ],
-          "template": "자산 서열",
-          "score": 6.5,
+          "template": "결혼 화제",
+          "score": 6.6,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -403,54 +520,29 @@
           "table": {
             "headers": [
               "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"알고보 자산이 얼마?\" 알고보급 자산가 스타 TOP10",
-          "angle_type": "👤 알고보",
-          "article_count": 3,
-          "source_article": "전원주 유튜브 손 뗀 제작진, 알고보니 스타PD 엄진석 사단 “아들 같았는데”",
-          "source_url": "https://m.entertain.naver.com/article/609/0001160574",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "알고보"
-          ],
-          "template": "자산 서열",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"제작진, 대체 무슨 일이?\" 제작진 관련 이슈 총정리",
-          "angle_type": "👤 제작진",
+          "title": "\"하영까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "angle_type": "논란·사건",
           "article_count": 4,
-          "source_article": "‘나혼산’ 제작진, 전현무 조작 방송 의혹 해명 “촬영 지원+협찬 NO”",
-          "source_url": "https://m.entertain.naver.com/article/609/0001160729",
+          "source_article": "하영 ‘증조부 친일’ 논란 속…이낙준 “‘중증외상센터2’, 10월 촬영 시작”(‘말자쇼’)",
+          "source_url": "https://m.entertain.naver.com/article/009/0005725298",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "제작진"
+            "하영",
+            "중증외",
+            "상센터",
+            "증조부",
+            "친일"
           ],
           "template": "논란 집합",
-          "score": 6.4,
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -469,16 +561,45 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"나혼산, 대체 무슨 일이?\" 나혼산 관련 이슈 총정리",
-          "angle_type": "👤 나혼산",
+          "title": "\"박위\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 박위",
+          "article_count": 7,
+          "source_article": "박위, 자리 텅텅 비었던 강연 취소→예약자들에 발송된 문자 보니",
+          "source_url": "https://m.entertain.naver.com/article/312/0000773107",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "박위"
+          ],
+          "template": "인맥",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"의혹\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 의혹",
           "article_count": 3,
           "source_article": "‘나혼산’ 제작진, 전현무 조작 방송 의혹 해명 “촬영 지원+협찬 NO”",
           "source_url": "https://m.entertain.naver.com/article/609/0001160729",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "나혼산"
+            "의혹"
           ],
-          "template": "논란 집합",
+          "template": "인맥",
           "score": 6.4,
           "dup_check": {
             "is_duplicate": false,
@@ -490,51 +611,22 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
+              "분류",
+              "이슈 내용",
               "현재 상황"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"협찬, 대체 무슨 일이?\" 협찬 관련 이슈 총정리",
-          "angle_type": "👤 협찬",
-          "article_count": 3,
-          "source_article": "‘나혼산’ 제작진, 전현무 조작 방송 의혹 해명 “촬영 지원+협찬 NO”",
-          "source_url": "https://m.entertain.naver.com/article/609/0001160729",
+          "title": "\"깜짝 결혼설?\" 깜짝 연애사 총정리",
+          "angle_type": "👤 깜짝",
+          "article_count": 4,
+          "source_article": "장동윤 결혼한다..'5살 연하 여배우' ♥김승윤과 10월 깜짝 웨딩마치",
+          "source_url": "https://m.entertain.naver.com/article/109/0005594329",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "협찬"
-          ],
-          "template": "논란 집합",
-          "score": 6.4,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"예비신 결혼설?\" 예비신 연애사 총정리",
-          "angle_type": "👤 예비신",
-          "article_count": 3,
-          "source_article": "송하예, 깜짝 결혼 발표…예비신랑은 '100만 유튜버' 조매력",
-          "source_url": "https://m.entertain.naver.com/article/117/0004098120",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "예비신"
+            "깜짝"
           ],
           "template": "결혼 화제",
           "score": 6.3,
@@ -556,17 +648,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"송지은, 대체 무슨 일이?\" 송지은 관련 이슈 총정리",
-          "angle_type": "👤 송지은",
+          "title": "\"고백 결혼설?\" 고백 연애사 총정리",
+          "angle_type": "👤 고백",
           "article_count": 3,
-          "source_article": "\"아내 송지은도 놀라\"..박위, 공익 벌서듯 사과에도→\"엑스레이 30번 찍어\" 공포감 조성",
-          "source_url": "https://m.entertain.naver.com/article/108/0003465093",
+          "source_article": "\"성형 안 한 곳 찾는 게 더 빨라\"…우지원 前아내, 얼굴 고친 후 솔직 고백",
+          "source_url": "https://m.entertain.naver.com/article/312/0000773132",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "송지은"
+            "고백"
           ],
-          "template": "논란 집합",
-          "score": 6.0,
+          "template": "결혼 화제",
+          "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -577,9 +669,71 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"유튜버 결혼설?\" 유튜버 연애사 총정리",
+          "angle_type": "👤 유튜버",
+          "article_count": 3,
+          "source_article": "송하예, 깜짝 결혼 발표…예비신랑은 '100만 유튜버' 조매력",
+          "source_url": "https://m.entertain.naver.com/article/117/0004098120",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "유튜버"
+          ],
+          "template": "결혼 화제",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"장동윤이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+          "angle_type": "가족·혈연",
+          "article_count": 2,
+          "source_article": "'장동윤과 결혼' 김승윤 누구…5세 연하·'독수리 5형제를 부탁해!' 안재욱 딸 역",
+          "source_url": "https://m.entertain.naver.com/article/421/0009130566",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "장동윤",
+            "결혼",
+            "김승윤",
+            "누구",
+            "연하"
+          ],
+          "template": "동갑내기",
+          "score": 6.1,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "나이",
+              "대표작",
+              "현재 활동"
             ]
           },
           "channel": "정보주는하마"
@@ -587,51 +741,71 @@
       ],
       "keyword_freq": [
         [
-          "박위",
-          8
-        ],
-        [
-          "지원",
-          5
-        ],
-        [
-          "전현무",
-          5
-        ],
-        [
           "결혼",
-          5
+          9
         ],
         [
-          "제작진",
+          "박위",
+          7
+        ],
+        [
+          "이혼",
           4
         ],
         [
-          "나혼산",
+          "장동윤",
+          4
+        ],
+        [
+          "깜짝",
+          4
+        ],
+        [
+          "김승윤",
+          4
+        ],
+        [
+          "고백",
           3
         ],
         [
-          "협찬",
+          "의혹",
           3
         ],
         [
-          "아내",
+          "양지원",
           3
         ],
         [
-          "즉흥여행",
-          3
-        ],
-        [
-          "알고보니",
-          3
-        ],
-        [
-          "해명",
+          "강연",
           2
         ],
         [
-          "조작",
+          "아내",
+          2
+        ],
+        [
+          "엑스레이",
+          2
+        ],
+        [
+          "아이",
+          2
+        ],
+        [
+          "너무",
+          2
+        ],
+        [
+          "비주얼",
+          2
+        ],
+        [
+          "문제",
+          2
+        ],
+        [
+          "제작진",
           2
         ],
         [
@@ -639,108 +813,88 @@
           2
         ],
         [
-          "장동윤",
+          "연하",
           2
         ],
         [
-          "기만",
-          2
-        ],
-        [
-          "송하예",
-          2
-        ],
-        [
-          "깜짝",
-          2
-        ],
-        [
-          "예비신랑은",
-          2
-        ],
-        [
-          "유튜버",
-          2
-        ],
-        [
-          "조매력",
+          "웨딩마치",
           2
         ]
       ],
       "name_freq": [
         [
-          "박위",
-          8
-        ],
-        [
-          "지원",
-          5
-        ],
-        [
-          "전현무",
-          5
-        ],
-        [
           "결혼",
-          5
+          9
         ],
         [
-          "제작진",
-          4
+          "박위",
+          7
         ],
         [
           "장동윤",
-          4
-        ],
-        [
-          "나혼산",
-          3
-        ],
-        [
-          "협찬",
-          3
+          6
         ],
         [
           "김승윤",
+          6
+        ],
+        [
+          "이혼",
+          4
+        ],
+        [
+          "깜짝",
+          4
+        ],
+        [
+          "고백",
           3
         ],
         [
-          "예비신",
+          "의혹",
           3
+        ],
+        [
+          "양지원",
+          3
+        ],
+        [
+          "유튜버",
+          3
+        ],
+        [
+          "강연",
+          2
         ],
         [
           "아내",
-          3
+          2
         ],
         [
-          "송지은",
-          3
+          "엑스레",
+          2
         ],
         [
-          "즉흥여",
-          3
+          "아이",
+          2
         ],
         [
-          "알고보",
-          3
-        ],
-        [
-          "해명",
+          "너무",
           2
         ]
       ],
       "angle_scores": [
         [
           "논란·사건",
-          8
+          4
         ],
         [
           "결혼·이혼",
-          8
+          14
         ],
         [
           "복귀·근황",
-          3
+          4
         ],
         [
           "스포츠",
@@ -748,12 +902,12 @@
         ],
         [
           "가족·혈연",
-          3
+          2
         ]
       ]
     },
     "초구딱": {
-      "article_count": 6,
+      "article_count": 36,
       "topics": [
         {
           "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
@@ -820,12 +974,130 @@
             ]
           },
           "channel": "초구딱"
+        },
+        {
+          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 3,
+          "source_article": "일본 훗카이도 국도 근황",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608260118251978&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "근황",
+            "펩시티",
+            "일본",
+            "훗카이",
+            "국도"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"안내\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안내",
+          "article_count": 3,
+          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "안내"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
         [
+          "안내",
+          3
+        ],
+        [
           "감독",
           2
+        ],
+        [
+          "업데이트",
+          2
+        ],
+        [
+          "근황",
+          2
+        ],
+        [
+          "자연사다",
+          2
+        ],
+        [
+          "억원",
+          1
+        ],
+        [
+          "대두",
+          1
+        ],
+        [
+          "가능성",
+          1
+        ],
+        [
+          "포수",
+          1
+        ],
+        [
+          "포기하고",
+          1
+        ],
+        [
+          "계약",
+          1
+        ],
+        [
+          "옵션",
+          1
+        ],
+        [
+          "폭탄",
+          1
+        ],
+        [
+          "두산",
+          1
+        ],
+        [
+          "시장",
+          1
         ],
         [
           "선언",
@@ -836,63 +1108,7 @@
           1
         ],
         [
-          "대두",
-          1
-        ],
-        [
-          "억원",
-          1
-        ],
-        [
-          "두산",
-          1
-        ],
-        [
-          "옵션",
-          1
-        ],
-        [
-          "시장",
-          1
-        ],
-        [
-          "포수",
-          1
-        ],
-        [
-          "가능성",
-          1
-        ],
-        [
-          "계약",
-          1
-        ],
-        [
-          "폭탄",
-          1
-        ],
-        [
           "양의지",
-          1
-        ],
-        [
-          "포기하고",
-          1
-        ],
-        [
-          "유니폼",
-          1
-        ],
-        [
-          "응원",
-          1
-        ],
-        [
-          "배재고",
-          1
-        ],
-        [
-          "벗었다",
           1
         ],
         [
@@ -900,19 +1116,39 @@
           1
         ],
         [
-          "가야지",
+          "배재고",
           1
         ]
       ],
       "name_freq": [
         [
+          "안내",
+          3
+        ],
+        [
           "감독",
+          2
+        ],
+        [
+          "업데이",
+          2
+        ],
+        [
+          "근황",
+          2
+        ],
+        [
+          "자연사",
           2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
+          3
+        ],
+        [
+          "복귀·근황",
           3
         ],
         [
@@ -988,9 +1224,104 @@
         ]
       },
       "channel": "초구딱"
+    },
+    {
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 3,
+      "source_article": "일본 훗카이도 국도 근황",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608260118251978&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "근황",
+        "펩시티",
+        "일본",
+        "훗카이",
+        "국도"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
     }
   ],
   "all_topics": [
+    {
+      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 14,
+      "source_article": "“아이 동의는 있었나” ‘이혼 발표→훌쩍 큰 子 공개’…고지용X허양임 닮은 듯 다른 근황",
+      "source_url": "https://m.entertain.naver.com/article/112/0003805154",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "결혼",
+        "장동윤",
+        "김승윤",
+        "이혼",
+        "깜짝"
+      ],
+      "template": "결혼 화제",
+      "score": 7.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
     {
       "title": "\"이런, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
@@ -1025,191 +1356,9 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 3,
-      "source_article": "'장동윤과 결혼' 김승윤 누구…5세 연하·'독수리 5형제를 부탁해!' 안재욱 딸 역",
-      "source_url": "https://m.entertain.naver.com/article/421/0009130566",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "장동윤",
-        "결혼",
-        "김승윤",
-        "누구",
-        "연하"
-      ],
-      "template": "동갑내기",
-      "score": 6.9,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"지원, 대체 무슨 일이?\" 지원 관련 이슈 총정리",
-      "angle_type": "👤 지원",
-      "article_count": 5,
-      "source_article": "‘나혼산’ 제작진, 전현무 조작 방송 의혹 해명 “촬영 지원+협찬 NO”",
-      "source_url": "https://m.entertain.naver.com/article/609/0001160729",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "지원"
-      ],
-      "template": "논란 집합",
-      "score": 6.9,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"전현무, 대체 무슨 일이?\" 전현무 관련 이슈 총정리",
-      "angle_type": "👤 전현무",
-      "article_count": 5,
-      "source_article": "‘나혼산’ 제작진, 전현무 조작 방송 의혹 해명 “촬영 지원+협찬 NO”",
-      "source_url": "https://m.entertain.naver.com/article/609/0001160729",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "전현무"
-      ],
-      "template": "논란 집합",
-      "score": 6.9,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"즉흥여, 대체 무슨 일이?\" 즉흥여 관련 이슈 총정리",
-      "angle_type": "👤 즉흥여",
-      "article_count": 3,
-      "source_article": "'나혼산' 전현무 즉흥여행 논란…알마티시 \"관광국 지원\" vs 제작진 \"협찬·지원 無\"",
-      "source_url": "https://m.entertain.naver.com/article/477/0000625011",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "즉흥여"
-      ],
-      "template": "논란 집합",
-      "score": 6.9,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 8,
-      "source_article": "\"무슨 사이냐고요? 상상에 맡길게요\"... 9살 차이 日 피겨 금메달 커플, 깜짝 약혼 발표 \"없어서는 안 될 존재\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "결혼",
-        "장동윤",
-        "김승윤",
-        "예비신",
-        "송하예"
-      ],
-      "template": "결혼 화제",
-      "score": 6.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"장동윤 결혼설?\" 장동윤 연애사 총정리",
-      "angle_type": "👤 장동윤",
-      "article_count": 4,
-      "source_article": "장동윤 결혼발표에 일부 팬 뿔났다..\"2635만원 팬 투자받고 ♥김승윤과 작품, 기만\"",
-      "source_url": "https://m.entertain.naver.com/article/076/0004439010",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "장동윤"
-      ],
-      "template": "결혼 화제",
-      "score": 6.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"김승윤 결혼설?\" 김승윤 연애사 총정리",
       "angle_type": "👤 김승윤",
-      "article_count": 3,
+      "article_count": 6,
       "source_article": "장동윤 결혼발표에 일부 팬 뿔났다..\"2635만원 팬 투자받고 ♥김승윤과 작품, 기만\"",
       "source_url": "https://m.entertain.naver.com/article/076/0004439010",
       "source_name": "엔터 많이 본 뉴스",
@@ -1217,7 +1366,7 @@
         "김승윤"
       ],
       "template": "결혼 화제",
-      "score": 6.8,
+      "score": 7.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1236,21 +1385,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"박위까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 8,
-      "source_article": "'日 결국 터질 게 터졌다!' 파격 폭로! 아이돌급 외모→22살에 따돌림으로 은퇴...\"참는 것도 슬슬 한계\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "title": "\"이혼 결혼설?\" 이혼 연애사 총정리",
+      "angle_type": "👤 이혼",
+      "article_count": 4,
+      "source_article": "“아이 동의는 있었나” ‘이혼 발표→훌쩍 큰 子 공개’…고지용X허양임 닮은 듯 다른 근황",
+      "source_url": "https://m.entertain.naver.com/article/112/0003805154",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "박위",
-        "지원",
-        "구독자",
-        "외모",
-        "나혼산"
+        "이혼"
       ],
-      "template": "논란 집합",
-      "score": 6.7,
+      "template": "결혼 화제",
+      "score": 6.9,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1261,9 +1406,9 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
         ]
       },
       "channel": "정보주는하마"
@@ -1271,19 +1416,19 @@
     {
       "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
       "angle_type": "복귀·근황",
-      "article_count": 3,
-      "source_article": "'日 결국 터질 게 터졌다!' 파격 폭로! 아이돌급 외모→22살에 따돌림으로 은퇴...\"참는 것도 슬슬 한계\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "article_count": 4,
+      "source_article": "“아이 동의는 있었나” ‘이혼 발표→훌쩍 큰 子 공개’…고지용X허양임 닮은 듯 다른 근황",
+      "source_url": "https://m.entertain.naver.com/article/112/0003805154",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "터질",
-        "터졌다",
-        "파격",
-        "폭로",
-        "아이돌"
+        "아이",
+        "동의는",
+        "있었나",
+        "이혼",
+        "훌쩍"
       ],
       "template": "장기 공백 복귀",
-      "score": 6.5,
+      "score": 6.6,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1302,17 +1447,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"아내 자산이 얼마?\" 아내급 자산가 스타 TOP10",
-      "angle_type": "👤 아내",
+      "title": "\"양지원 결혼설?\" 양지원 연애사 총정리",
+      "angle_type": "👤 양지원",
       "article_count": 3,
-      "source_article": "\"아내 송지은도 놀라\"..박위, 공익 벌서듯 사과에도→\"엑스레이 30번 찍어\" 공포감 조성",
-      "source_url": "https://m.entertain.naver.com/article/108/0003465093",
+      "source_article": "양지원, 결혼·혼전임신 깜짝 발표…상대는 '3년 전 이혼' 양준모였다",
+      "source_url": "https://m.entertain.naver.com/article/440/0000042171",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "아내"
+        "양지원"
       ],
-      "template": "자산 서열",
-      "score": 6.5,
+      "template": "결혼 화제",
+      "score": 6.6,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1323,54 +1468,29 @@
       "table": {
         "headers": [
           "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"알고보 자산이 얼마?\" 알고보급 자산가 스타 TOP10",
-      "angle_type": "👤 알고보",
-      "article_count": 3,
-      "source_article": "전원주 유튜브 손 뗀 제작진, 알고보니 스타PD 엄진석 사단 “아들 같았는데”",
-      "source_url": "https://m.entertain.naver.com/article/609/0001160574",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "알고보"
-      ],
-      "template": "자산 서열",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"제작진, 대체 무슨 일이?\" 제작진 관련 이슈 총정리",
-      "angle_type": "👤 제작진",
+      "title": "\"하영까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
       "article_count": 4,
-      "source_article": "‘나혼산’ 제작진, 전현무 조작 방송 의혹 해명 “촬영 지원+협찬 NO”",
-      "source_url": "https://m.entertain.naver.com/article/609/0001160729",
+      "source_article": "하영 ‘증조부 친일’ 논란 속…이낙준 “‘중증외상센터2’, 10월 촬영 시작”(‘말자쇼’)",
+      "source_url": "https://m.entertain.naver.com/article/009/0005725298",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "제작진"
+        "하영",
+        "중증외",
+        "상센터",
+        "증조부",
+        "친일"
       ],
       "template": "논란 집합",
-      "score": 6.4,
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1389,16 +1509,45 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"나혼산, 대체 무슨 일이?\" 나혼산 관련 이슈 총정리",
-      "angle_type": "👤 나혼산",
+      "title": "\"박위\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 박위",
+      "article_count": 7,
+      "source_article": "박위, 자리 텅텅 비었던 강연 취소→예약자들에 발송된 문자 보니",
+      "source_url": "https://m.entertain.naver.com/article/312/0000773107",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "박위"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"의혹\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 의혹",
       "article_count": 3,
       "source_article": "‘나혼산’ 제작진, 전현무 조작 방송 의혹 해명 “촬영 지원+협찬 NO”",
       "source_url": "https://m.entertain.naver.com/article/609/0001160729",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "나혼산"
+        "의혹"
       ],
-      "template": "논란 집합",
+      "template": "인맥",
       "score": 6.4,
       "dup_check": {
         "is_duplicate": false,
@@ -1410,51 +1559,22 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
+          "분류",
+          "이슈 내용",
           "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"협찬, 대체 무슨 일이?\" 협찬 관련 이슈 총정리",
-      "angle_type": "👤 협찬",
-      "article_count": 3,
-      "source_article": "‘나혼산’ 제작진, 전현무 조작 방송 의혹 해명 “촬영 지원+협찬 NO”",
-      "source_url": "https://m.entertain.naver.com/article/609/0001160729",
+      "title": "\"깜짝 결혼설?\" 깜짝 연애사 총정리",
+      "angle_type": "👤 깜짝",
+      "article_count": 4,
+      "source_article": "장동윤 결혼한다..'5살 연하 여배우' ♥김승윤과 10월 깜짝 웨딩마치",
+      "source_url": "https://m.entertain.naver.com/article/109/0005594329",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "협찬"
-      ],
-      "template": "논란 집합",
-      "score": 6.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"예비신 결혼설?\" 예비신 연애사 총정리",
-      "angle_type": "👤 예비신",
-      "article_count": 3,
-      "source_article": "송하예, 깜짝 결혼 발표…예비신랑은 '100만 유튜버' 조매력",
-      "source_url": "https://m.entertain.naver.com/article/117/0004098120",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "예비신"
+        "깜짝"
       ],
       "template": "결혼 화제",
       "score": 6.3,
@@ -1476,17 +1596,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"송지은, 대체 무슨 일이?\" 송지은 관련 이슈 총정리",
-      "angle_type": "👤 송지은",
+      "title": "\"고백 결혼설?\" 고백 연애사 총정리",
+      "angle_type": "👤 고백",
       "article_count": 3,
-      "source_article": "\"아내 송지은도 놀라\"..박위, 공익 벌서듯 사과에도→\"엑스레이 30번 찍어\" 공포감 조성",
-      "source_url": "https://m.entertain.naver.com/article/108/0003465093",
+      "source_article": "\"성형 안 한 곳 찾는 게 더 빨라\"…우지원 前아내, 얼굴 고친 후 솔직 고백",
+      "source_url": "https://m.entertain.naver.com/article/312/0000773132",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "송지은"
+        "고백"
       ],
-      "template": "논란 집합",
-      "score": 6.0,
+      "template": "결혼 화제",
+      "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1497,9 +1617,71 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"유튜버 결혼설?\" 유튜버 연애사 총정리",
+      "angle_type": "👤 유튜버",
+      "article_count": 3,
+      "source_article": "송하예, 깜짝 결혼 발표…예비신랑은 '100만 유튜버' 조매력",
+      "source_url": "https://m.entertain.naver.com/article/117/0004098120",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "유튜버"
+      ],
+      "template": "결혼 화제",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"장동윤이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 2,
+      "source_article": "'장동윤과 결혼' 김승윤 누구…5세 연하·'독수리 5형제를 부탁해!' 안재욱 딸 역",
+      "source_url": "https://m.entertain.naver.com/article/421/0009130566",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "장동윤",
+        "결혼",
+        "김승윤",
+        "누구",
+        "연하"
+      ],
+      "template": "동갑내기",
+      "score": 6.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "나이",
+          "대표작",
+          "현재 활동"
         ]
       },
       "channel": "정보주는하마"
@@ -1569,55 +1751,137 @@
         ]
       },
       "channel": "초구딱"
+    },
+    {
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 3,
+      "source_article": "일본 훗카이도 국도 근황",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608260118251978&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "근황",
+        "펩시티",
+        "일본",
+        "훗카이",
+        "국도"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
     [
-      "박위",
-      8
-    ],
-    [
-      "지원",
-      5
-    ],
-    [
-      "전현무",
-      5
-    ],
-    [
       "결혼",
-      5
+      9
     ],
     [
-      "제작진",
+      "박위",
+      7
+    ],
+    [
+      "이혼",
       4
     ],
     [
-      "나혼산",
+      "장동윤",
+      4
+    ],
+    [
+      "깜짝",
+      4
+    ],
+    [
+      "김승윤",
+      4
+    ],
+    [
+      "고백",
       3
     ],
     [
-      "협찬",
+      "의혹",
       3
     ],
     [
-      "아내",
+      "양지원",
       3
     ],
     [
-      "즉흥여행",
-      3
-    ],
-    [
-      "알고보니",
-      3
-    ],
-    [
-      "해명",
+      "강연",
       2
     ],
     [
-      "조작",
+      "아내",
+      2
+    ],
+    [
+      "엑스레이",
+      2
+    ],
+    [
+      "아이",
+      2
+    ],
+    [
+      "너무",
+      2
+    ],
+    [
+      "비주얼",
+      2
+    ],
+    [
+      "문제",
+      2
+    ],
+    [
+      "제작진",
       2
     ],
     [
@@ -1625,97 +1889,77 @@
       2
     ],
     [
-      "장동윤",
+      "연하",
       2
     ],
     [
-      "기만",
-      2
-    ],
-    [
-      "송하예",
-      2
-    ],
-    [
-      "깜짝",
-      2
-    ],
-    [
-      "예비신랑은",
-      2
-    ],
-    [
-      "유튜버",
-      2
-    ],
-    [
-      "조매력",
+      "웨딩마치",
       2
     ]
   ],
   "name_freq": [
     [
-      "박위",
-      8
-    ],
-    [
-      "지원",
-      5
-    ],
-    [
-      "전현무",
-      5
-    ],
-    [
       "결혼",
-      5
+      9
     ],
     [
-      "제작진",
-      4
+      "박위",
+      7
     ],
     [
       "장동윤",
-      4
-    ],
-    [
-      "나혼산",
-      3
-    ],
-    [
-      "협찬",
-      3
+      6
     ],
     [
       "김승윤",
+      6
+    ],
+    [
+      "이혼",
+      4
+    ],
+    [
+      "깜짝",
+      4
+    ],
+    [
+      "고백",
       3
     ],
     [
-      "예비신",
+      "의혹",
       3
+    ],
+    [
+      "양지원",
+      3
+    ],
+    [
+      "유튜버",
+      3
+    ],
+    [
+      "강연",
+      2
     ],
     [
       "아내",
-      3
+      2
     ],
     [
-      "송지은",
-      3
+      "엑스레",
+      2
     ],
     [
-      "즉흥여",
-      3
+      "아이",
+      2
     ],
     [
-      "알고보",
-      3
-    ],
-    [
-      "해명",
+      "너무",
       2
     ]
   ],
-  "total_topics_generated": 19,
-  "valid_topics": 19,
+  "total_topics_generated": 17,
+  "valid_topics": 17,
   "excluded_duplicates": 0
 }
