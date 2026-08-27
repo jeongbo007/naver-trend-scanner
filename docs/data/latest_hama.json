@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-26 18:56:31",
+  "scan_time": "2026-08-27 00:23:36",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -13,57 +13,21 @@
   "total_articles": 80,
   "articles": [
     {
-      "title": "소재원 작가, 박위 ‘고액 강연료’ 논란에 “교회에 돈 받고 가느냐…장사치 되지 마라”",
-      "url": "https://m.entertain.naver.com/article/241/0003527426",
+      "title": "박수홍, '비행기 지연 논란' 속 반전 드러났다…대한항공 측 \"문밖 안 나갔다면 가능\"",
+      "url": "https://m.entertain.naver.com/article/213/0001399136",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 81058,
+      "views": 115885,
       "rank": 1,
       "channel": "정보주는하마"
     },
     {
-      "title": "박수홍, 딸 울어서 내렸다가 재탑승..대한항공 규정 \"심각한 항공 보안 위협\"",
-      "url": "https://m.entertain.naver.com/article/108/0003465426",
+      "title": "소재원 작가, 박위 ‘고액 강연료’ 논란에 “교회에 돈 받고 가느냐…장사치 되지 마라”",
+      "url": "https://m.entertain.naver.com/article/241/0003527426",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 71214,
+      "views": 69237,
       "rank": 2,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "박위 강연료 “1500 이상 불러”···최근까지 935만원",
-      "url": "https://m.entertain.naver.com/article/144/0001134076",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 60426,
-      "rank": 3,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "고현정, 프리미엄관서 담요 덮고 딥슬립…\"오디세이 중반부터 기억 無\"",
-      "url": "https://m.entertain.naver.com/article/076/0004439452",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 57797,
-      "rank": 4,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "“며느리 인사드려요” ‘남성진♥’ 김지영, 배우 DNA 물려받은 아들 비주얼에 반응 터졌다",
-      "url": "https://m.entertain.naver.com/article/112/0003805575",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 49449,
-      "rank": 5,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "권정열♥김윤주, 결혼 12년 차인데 ‘공개 연애설’ 돌자…“저는 결혼한 줄 알았..”",
-      "url": "https://m.entertain.naver.com/article/076/0004439458",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 49363,
-      "rank": 6,
       "channel": "정보주는하마"
     },
     {
@@ -71,35 +35,135 @@
       "url": "https://m.entertain.naver.com/article/609/0001160997",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 42462,
+      "views": 51241,
+      "rank": 3,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "전현무, 카자흐 조작 논란에..심형준 감독 \"낯선 상황 즐기는 사람\"",
+      "url": "https://m.entertain.naver.com/article/108/0003465586",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 45926,
+      "rank": 4,
+      "cross_baseball": true,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "권정열♥김윤주, 결혼 12년 차인데 ‘공개 연애설’ 돌자…“저는 결혼한 줄 알았..”",
+      "url": "https://m.entertain.naver.com/article/076/0004439458",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 36457,
+      "rank": 5,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "“며느리 인사드려요” ‘남성진♥’ 김지영, 배우 DNA 물려받은 아들 비주얼에 반응 터졌다",
+      "url": "https://m.entertain.naver.com/article/112/0003805575",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 34184,
+      "rank": 6,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "양수경, 62세에도 멈출 생각 없다…\"남진 83세, 건강 허락할 때까지\" (종합)",
+      "url": "https://m.entertain.naver.com/article/117/0004098479",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 33546,
       "rank": 7,
       "channel": "정보주는하마"
     },
     {
-      "title": "KTX 직원들 \"박위, 300번 넘게 도움 받았는데…서운\" 후폭풍 계속",
-      "url": "https://m.entertain.naver.com/article/311/0002049577",
+      "title": "강재준♥이은형, 언어발달 느린 '24개월' 아들 상태 \"말하려고 노력해\"",
+      "url": "https://m.entertain.naver.com/article/415/0000051369",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 27611,
+      "views": 24883,
       "rank": 8,
       "channel": "정보주는하마"
     },
     {
-      "title": "전현무 즉흥여행 조작설에…'전현무계획1' PD 입 열었다 \"낯선 모습 아냐\"",
-      "url": "https://m.entertain.naver.com/article/311/0002049807",
+      "title": "박수홍, 비행기 재탑승 민폐 논란 사과 \"딸 울음에 당황해 미숙한 판단..불편함 드려 죄송\"",
+      "url": "https://m.entertain.naver.com/article/076/0004439386",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 20948,
+      "views": 24637,
       "rank": 9,
       "channel": "정보주는하마"
     },
     {
-      "title": "전현무 카자흐스탄 운전 후폭풍...대사관 \"러시아어 공증 번역본 필수\"",
-      "url": "https://m.entertain.naver.com/article/311/0002049689",
+      "title": "고현정, 프리미엄관서 담요 덮고 딥슬립…\"오디세이 중반부터 기억 無\"",
+      "url": "https://m.entertain.naver.com/article/076/0004439452",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 17796,
+      "views": 22055,
       "rank": 10,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "“기괴하다” 악플 쏟아진 웬디…마른 체형·의상 실루엣 두고 갑론을박",
+      "url": "https://m.entertain.naver.com/article/468/0001262319",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 16593,
+      "rank": 11,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "송강, 186㎝ 키 씨름선수 조부 닮았다 “외모는 母 어깨는 父 붕어빵”(유퀴즈)",
+      "url": "https://m.entertain.naver.com/article/609/0001161231",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 16275,
+      "rank": 12,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "MC몽X신정환 쌍방 저격→틱톡서 벌인 신경전 “왜 그렇게 의리가 없나”",
+      "url": "https://m.entertain.naver.com/article/112/0003805473",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 15333,
+      "rank": 13,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "‘투병 중 사망설’ 이연걸, 백발 노인 모습 사라졌다…몰라보게 젊어진 63세",
+      "url": "https://m.entertain.naver.com/article/468/0001262280",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 13519,
+      "rank": 14,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "MC몽, 손목에 '아파트한 채' 감고 등장 '역시 연예인 걱정은 하는 게 아냐'",
+      "url": "https://m.entertain.naver.com/article/117/0004098738",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 10953,
+      "rank": 15,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "시청자 기만으로 번지나…'나혼산' 전현무 즉흥 여행, 조작 의혹이 던진 질문",
+      "url": "https://m.entertain.naver.com/article/312/0000773479",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 10920,
+      "rank": 16,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "‘나홀로 집에2’ 지배인, 팀 커리 별세…“모든 것 경험했다”",
+      "url": "https://m.entertain.naver.com/article/468/0001262322",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 10728,
+      "rank": 17,
       "channel": "정보주는하마"
     },
     {
@@ -107,438 +171,239 @@
       "url": "https://m.entertain.naver.com/article/076/0004439387",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 13952,
-      "rank": 11,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'누명 벗은' 김수현, 마침내 카메라 앞에 섰다…\"새로운 모습 기대해 달라\"",
-      "url": "https://m.entertain.naver.com/article/213/0001399084",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 13146,
-      "rank": 12,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"사실 유부남\"...유명 아나운서, 깜짝 '결혼' 발표…아내 향한 애정 '소중한 사람'",
-      "url": "https://m.entertain.naver.com/article/445/0000455205",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 13033,
-      "rank": 13,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "“선택장애로 힘들다” 박수홍, 비행기 하차 번복 ‘민폐’...진짜 성격 ‘재소환’",
-      "url": "https://m.entertain.naver.com/article/468/0001262286",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 12780,
-      "rank": 14,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "이게 정말 맞나…'재혼 황후' 의상→배경→대사까지 '서양 왕실' 완벽 재현, 맛보기 공개",
-      "url": "https://m.entertain.naver.com/article/213/0001399152",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 11409,
-      "rank": 15,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"갑작스러운 사망, 비밀리에 암투병 했다\"…전 세계 울린 '보디가드' 女가수 타계(종합)",
-      "url": "https://m.entertain.naver.com/article/117/0004098405",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 8844,
-      "rank": 16,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "‘딸 800만원 신발 공개’ 박수홍♥김다예, 비행기 민폐 논란 “무지했다” 사과",
-      "url": "https://m.entertain.naver.com/article/609/0001160900",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 8570,
-      "rank": 17,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "“10만원도 없어” 서인영, 결국 父 몰래 ‘명품백 2개→금’까지 처분 결심 (‘개과천선’)",
-      "url": "https://m.entertain.naver.com/article/109/0005595316",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 8417,
+      "views": 10506,
       "rank": 18,
       "channel": "정보주는하마"
     },
     {
-      "title": "'쌍둥이 유도선수' 조준호, 어마어마한 재산 자랑 \"자가·부동산 보유..망해도 연금 나와\"(신랑수업2)",
-      "url": "https://m.entertain.naver.com/article/109/0005595089",
+      "title": "“못 도와줘서 미안하다며…” 샘킴, 눈시울 붉히게 만든 어머니의 한마디",
+      "url": "https://m.entertain.naver.com/article/468/0001262326",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 7553,
+      "views": 10493,
       "rank": 19,
       "channel": "정보주는하마"
     },
     {
-      "title": "성폭행 법정서 이게 뭔 짓?..판사 \"뮤지컬해도 돼\" 발언, 남경주 변호인은 폭소, 검사는 헛웃음",
-      "url": "https://m.entertain.naver.com/article/108/0003465601",
+      "title": "'김강우♥' 한무영, 한혜진보다 예뻐서 화제인데..살쪄서 고민 \"막걸리 먹고 배 나와\"",
+      "url": "https://m.entertain.naver.com/article/109/0005595513",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 7340,
+      "views": 10346,
       "rank": 20,
       "channel": "정보주는하마"
     },
     {
-      "title": "황정음 \"13년 전 남자친구 만난다\"더니…'마왕' 배수빈에 \"힘들때 챙겨준 사람\"",
-      "url": "https://m.entertain.naver.com/article/477/0000625149",
+      "title": "샘킴, 결국 오열 \"母, 내 유학비 대출 탓 신용불량자…죄인 같았다\" ('유퀴즈')",
+      "url": "https://m.entertain.naver.com/article/213/0001399186",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 7271,
+      "views": 10108,
       "rank": 21,
       "channel": "정보주는하마"
     },
     {
-      "title": "전현무 지인, 방패막이 자처하나…하루 만에 또 등장해 \"난관 극복 과정\"",
-      "url": "https://m.entertain.naver.com/article/312/0000773455",
+      "title": "“순둥이 1%”…‘슈돌’ 곽튜브 아들 태산이, 믹서기 속 ‘통잠’",
+      "url": "https://m.entertain.naver.com/article/440/0000042436",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 7065,
+      "views": 10012,
       "rank": 22,
       "channel": "정보주는하마"
     },
     {
-      "title": "'최우성♥' 김윤지, 2년 만에 둘째 생긴 줄 알았더니…일주일 만에 4kg 뺐다",
-      "url": "https://m.entertain.naver.com/article/117/0004098353",
+      "title": "박수홍, 비행기 지연 '민폐 논란' 사과 \"아이 울음에 당황해 미숙한 판단, 무지했다\"",
+      "url": "https://m.entertain.naver.com/article/311/0002049610",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 6936,
+      "views": 9778,
       "rank": 23,
       "channel": "정보주는하마"
     },
     {
-      "title": "육중완밴드 강준우, 690g 초미숙아 子 퇴원에 \"진료비만 2억, 국민이 살렸다\" 뭉클 소회",
-      "url": "https://m.entertain.naver.com/article/477/0000625137",
+      "title": "박위 강연료 “1500 이상 불러”···최근까지 935만원",
+      "url": "https://m.entertain.naver.com/article/144/0001134076",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 6087,
+      "views": 9652,
       "rank": 24,
       "channel": "정보주는하마"
     },
     {
-      "title": "“터키 아이스크림이냐”…넷플릭스, ‘중증외상센터2’ 하영 캐스팅 ‘간보기’",
-      "url": "https://m.entertain.naver.com/article/241/0003527433",
+      "title": "박보검♥김유정, 10년이 지나도 여전히 온통 당신이야···특집 화보 예고",
+      "url": "https://m.entertain.naver.com/article/109/0005595621",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 5507,
+      "views": 9577,
       "rank": 25,
       "channel": "정보주는하마"
     },
     {
-      "title": "현직 변호사에 자폐 자녀 둔 부모까지 나섰다…박위 '공익 저격' 후폭풍 닷새째",
-      "url": "https://m.entertain.naver.com/article/311/0002049509",
+      "title": "전현무 최측근 증언 나왔다..“원래 즉흥적, '나혼산' 여행 낯설지 않아”",
+      "url": "https://m.entertain.naver.com/article/076/0004439599",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 5432,
+      "views": 9414,
       "rank": 26,
       "channel": "정보주는하마"
     },
     {
-      "title": "77세 김형자, 손녀 시집 보내려니 난감…\"결혼할 때 집-차 해주세요\"",
-      "url": "https://m.entertain.naver.com/article/415/0000051333",
+      "title": "“한소희 얼굴도 안 되네”…‘금발 호불호’ 논쟁, 또 연기보다 비주얼이 먼저",
+      "url": "https://m.entertain.naver.com/article/445/0000455207",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 5392,
+      "views": 9321,
       "rank": 27,
       "channel": "정보주는하마"
     },
     {
-      "title": "승객들에 연신 \"죄송합니다\"…박수홍, 출발 지연 논란 때 비행기 내부 영상 보니",
-      "url": "https://m.entertain.naver.com/article/421/0009132954",
+      "title": "“휠체어도 안 보이게 해” 김혁건, 박위 논란에 작심 발언…응원 쇄도",
+      "url": "https://m.entertain.naver.com/article/468/0001262074",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 5385,
+      "views": 9286,
       "rank": 28,
+      "cross_baseball": true,
       "channel": "정보주는하마"
     },
     {
-      "title": "'미운털' 박위, '강연료 935만원' 의혹 파문..유명작가 \"장사치\" 작심 비판",
-      "url": "https://m.entertain.naver.com/article/109/0005595248",
+      "title": "송가인 \"신내림 받은 母, 말 안 들었다가 죽을 뻔…119 출동해\"",
+      "url": "https://m.entertain.naver.com/article/003/0014149755",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 4993,
+      "views": 9154,
       "rank": 29,
       "channel": "정보주는하마"
     },
     {
-      "title": "'♥이효리' 이상순, 평창동 단독주택 사는 아쉬움…\"시골에 사니까 되게 외로워\"",
-      "url": "https://m.entertain.naver.com/article/415/0000051370",
+      "title": "MC몽 “왜 그렇게 의리가 없냐”…콘서트 초대 거절한 신정환에 서운함 토로",
+      "url": "https://m.entertain.naver.com/article/016/0002688580",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 4781,
+      "views": 8672,
       "rank": 30,
       "channel": "정보주는하마"
     },
     {
-      "title": "“박문성 씨, 따님은 어쩌다 캐나다 유학을?” 축구와 무관한 의혹 제기한 김병지 대표 사생활 폭로전…여론은 싸늘한 반응 ‘자기 아들이나 똑바로 키워라’",
+      "title": "'역대 최초 역사' KIA의 결단, 데뷔 첫 기회까지 줬다…\"24시간 지나기 전에 기가 있으니까\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 467794,
-      "rank": 1,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"185㎝에 배우 같은 외모\"…日 팬들에 제대로 눈도장 찍은 한국 배구선수",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 368091,
+      "views": 19547,
       "rank": 2,
       "channel": "정보주는하마"
     },
     {
-      "title": "“폰세 능가! 여기서 야구하면 안 돼” 고작 5억에 한국행. 구위 어느 정도길래, 152승 레전드가 입 마르도록 감탄했나",
+      "title": "韓 배드민턴 날벼락! 김혜정·공희용 조, 세계선수권 이어 中 마스터즈도 기권 확정…KONG 무릎 부상 재발 심각? AG 어쩌나",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 312688,
+      "views": 17608,
       "rank": 3,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"브라+핫팬츠 위에 망사라니\" 세계 1위 사발렌카 파격 의상 '시끌'…팬들 \"대체 무슨 옷이야?\"→혼복 1회전에선 조코비치와 충격 탈락",
+      "title": "\"저속한 망사 시스루, 매춘부 같다\" 女 테니스 1위 사발렌카, 충격 혹평 쏟아졌다...파격 의상 또 구설수 \"제 정신 아니야\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 293013,
-      "rank": 4,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"모델 아냐?\" 日 여자배구 신데렐라 \"세계 최고 OH 되겠다\" 강한 다짐!…AG서 한국 위협할까",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 210891,
+      "views": 15571,
       "rank": 7,
       "channel": "정보주는하마"
     },
     {
-      "title": "아틀레티코 제정신 맞나? 'NEW 에이스' 이강인 죽어난다, '세모발' 스트라이커 영입 몰두 \"이미 이적 동의\"",
+      "title": "'세계랭킹 27위' 한국 여자배구, 123위 홍콩에 1세트 내주고 3-1 역전승...전체 6위로 8강 진출",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 189777,
+      "views": 15396,
       "rank": 8,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"너무 예쁘다, 배우 같아\" 일본 열도가 한국 미녀 선수에게 반했다...24살 신예, 일본전 맹활약→현지 인기 한 몸에",
+      "title": "김재원 의원, 김병지에 사실상 공개 경고…박문성과 '진흙탕 폭로전' 놓고 \"가족 건드리지 마라\" 발언→\"이러면 누가 국회 나올까\" 지적",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 170806,
+      "views": 14267,
       "rank": 9,
       "channel": "정보주는하마"
     },
     {
-      "title": "깜짝 발표! \"정말 엄청난 소식\" 다저스 레전드 커쇼, 은퇴 후 1년 만에 돌아온다! 지역 방송 해설위원으로 데뷔",
+      "title": "이강인 진짜 대단하다, 성공하고 싶어 미쳐있다...휴식도 반납하고, 훈련 돌입 \"120% 바치겠다\" 의지 활활",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 149447,
-      "rank": 11,
+      "views": 12968,
+      "rank": 12,
       "channel": "정보주는하마"
     },
     {
-      "title": "한화는 결별을 알렸다→\"경쟁력 있어야 한다\" 사령탑 기준 통과…이의리 김진욱의 그곳! 다시 한 번 효과 증명할까",
+      "title": "이게 바로 대한민국 에이스 품격이다...'아틀레티코 7번' 이강인, 휴가도 반납하고 훈련장 직행",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 122551,
+      "views": 12737,
+      "rank": 13,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'또' 다저스 사고 치나, '최대어 0순위' 4498억 최고액 무조건 깨진다…\"이만큼 구위 올라온 선수 없다\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 9197,
       "rank": 16,
       "channel": "정보주는하마"
     },
     {
-      "title": "'2인자' 왕즈이가 안세영 붙잡고 캐물었다…\"나와 경기할 때 심박수 얼마였나? 식단은?\"…마지막 비법에 결국 끄덕!",
+      "title": "지는 법 잊어버린 ‘김상식호’…‘숙적’ 꺾고 현대컵 사상 최초 2연패 ‘금자탑’",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 108896,
+      "views": 8922,
       "rank": 17,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"엄청난 미인, 한국의 가장 큰 벽\"...日도 경악 금지 못 한 이다현의 존재감, \"배우 같은 비주얼에 정말 좋은 실력의 선수\"",
+      "title": "음바페 해트트릭→'2연승'무리뉴의 극찬 \"음바페는 역사적 선수...레알서 역사 쓰고자 하는 열망 엄청나\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 91807,
-      "rank": 19,
+      "views": 8564,
+      "rank": 18,
       "channel": "정보주는하마"
     },
     {
-      "title": "일본이 홀딱 반했다!…\"여배우 같은 외모, 큰 벽이 되고 있어\"→\"한국에 이런 선수 있다니\" 열도 관심 폭발",
+      "title": "바르셀로나 ‘오피셜’ 공식발표 “알바레스 영입 원한다, 포기하지 않겠다”…활활 불 지피는 바르사↔아틀레티코 또 전면전 예고",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 89765,
+      "views": 7816,
       "rank": 20,
       "channel": "정보주는하마"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 42,
+      "article_count": 41,
       "topics": [
         {
-          "title": "\"박수홍이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-          "angle_type": "가족·혈연",
+          "title": "\"선수, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "angle_type": "스포츠",
           "article_count": 5,
-          "source_article": "“박문성 씨, 따님은 어쩌다 캐나다 유학을?” 축구와 무관한 의혹 제기한 김병지 대표 사생활 폭로전…여론은 싸늘한 반응 ‘자기 아들이나 똑바로 키워라’",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "박수홍",
-            "반응",
-            "울어서",
-            "내렸다",
-            "재탑승"
-          ],
-          "template": "동갑내기",
-          "score": 7.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"박수홍까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 5,
-          "source_article": "“박문성 씨, 따님은 어쩌다 캐나다 유학을?” 축구와 무관한 의혹 제기한 김병지 대표 사생활 폭로전…여론은 싸늘한 반응 ‘자기 아들이나 똑바로 키워라’",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "박수홍",
-            "비행기",
-            "소재원",
-            "작가",
-            "박위"
-          ],
-          "template": "논란 집합",
-          "score": 7.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 3,
-          "source_article": "“폰세 능가! 여기서 야구하면 안 돼” 고작 5억에 한국행. 구위 어느 정도길래, 152승 레전드가 입 마르도록 감탄했나",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "쌍둥이",
-            "유도선",
-            "조준호",
-            "어마어",
-            "마한"
-          ],
-          "template": "자산 서열",
-          "score": 7.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"박위, 대체 무슨 일이?\" 박위 관련 이슈 총정리",
-          "angle_type": "👤 박위",
-          "article_count": 5,
-          "source_article": "소재원 작가, 박위 ‘고액 강연료’ 논란에 “교회에 돈 받고 가느냐…장사치 되지 마라”",
-          "source_url": "https://m.entertain.naver.com/article/241/0003527426",
+          "source_article": "전현무, 카자흐 조작 논란에..심형준 감독 \"낯선 상황 즐기는 사람\"",
+          "source_url": "https://m.entertain.naver.com/article/108/0003465586",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "박위"
-          ],
-          "template": "논란 집합",
-          "score": 7.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"배우, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 6,
-          "source_article": "\"185㎝에 배우 같은 외모\"…日 팬들에 제대로 눈도장 찍은 한국 배구선수",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "배우",
-            "같은",
-            "외모",
-            "반했다",
-            "선수"
+            "선수",
+            "음바페",
+            "전현무",
+            "카자흐",
+            "조작"
           ],
           "template": "스포츠 기록",
-          "score": 6.8,
+          "score": 7.7,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -557,20 +422,82 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-          "angle_type": "결혼·이혼",
-          "article_count": 5,
-          "source_article": "권정열♥김윤주, 결혼 12년 차인데 ‘공개 연애설’ 돌자…“저는 결혼한 줄 알았..”",
-          "source_url": "https://m.entertain.naver.com/article/076/0004439458",
+          "title": "\"박수홍까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 8,
+          "source_article": "박수홍, '비행기 지연 논란' 속 반전 드러났다…대한항공 측 \"문밖 안 나갔다면 가능\"",
+          "source_url": "https://m.entertain.naver.com/article/213/0001399136",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "결혼",
-            "권정열",
-            "김윤주",
-            "차인데",
-            "연애설"
+            "박수홍",
+            "비행기",
+            "논란에",
+            "지연",
+            "박위"
           ],
-          "template": "결혼 화제",
+          "template": "논란 집합",
+          "score": 7.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"전현무, 대체 무슨 일이?\" 전현무 관련 이슈 총정리",
+          "angle_type": "👤 전현무",
+          "article_count": 3,
+          "source_article": "전현무, 카자흐 조작 논란에..심형준 감독 \"낯선 상황 즐기는 사람\"",
+          "source_url": "https://m.entertain.naver.com/article/108/0003465586",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "전현무"
+          ],
+          "template": "논란 집합",
+          "score": 6.9,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+          "angle_type": "가족·혈연",
+          "article_count": 6,
+          "source_article": "“며느리 인사드려요” ‘남성진♥’ 김지영, 배우 DNA 물려받은 아들 비주얼에 반응 터졌다",
+          "source_url": "https://m.entertain.naver.com/article/112/0003805575",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "아들",
+            "며느리",
+            "인사드",
+            "려요",
+            "남성진"
+          ],
+          "template": "동갑내기",
           "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
@@ -582,22 +509,51 @@
           "table": {
             "headers": [
               "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
+              "나이",
+              "대표작",
+              "현재 활동"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"강연료, 대체 무슨 일이?\" 강연료 관련 이슈 총정리",
-          "angle_type": "👤 강연료",
+          "title": "\"비행기, 대체 무슨 일이?\" 비행기 관련 이슈 총정리",
+          "angle_type": "👤 비행기",
+          "article_count": 3,
+          "source_article": "박수홍, '비행기 지연 논란' 속 반전 드러났다…대한항공 측 \"문밖 안 나갔다면 가능\"",
+          "source_url": "https://m.entertain.naver.com/article/213/0001399136",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "비행기"
+          ],
+          "template": "논란 집합",
+          "score": 6.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"박위, 대체 무슨 일이?\" 박위 관련 이슈 총정리",
+          "angle_type": "👤 박위",
           "article_count": 3,
           "source_article": "소재원 작가, 박위 ‘고액 강연료’ 논란에 “교회에 돈 받고 가느냐…장사치 되지 마라”",
           "source_url": "https://m.entertain.naver.com/article/241/0003527426",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "강연료"
+            "박위"
           ],
           "template": "논란 집합",
           "score": 6.5,
@@ -619,75 +575,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"전현무\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 전현무",
+          "title": "\"논란에, 대체 무슨 일이?\" 논란에 관련 이슈 총정리",
+          "angle_type": "👤 논란에",
           "article_count": 3,
-          "source_article": "전현무 즉흥여행 조작설에…'전현무계획1' PD 입 열었다 \"낯선 모습 아냐\"",
-          "source_url": "https://m.entertain.naver.com/article/311/0002049807",
+          "source_article": "소재원 작가, 박위 ‘고액 강연료’ 논란에 “교회에 돈 받고 가느냐…장사치 되지 마라”",
+          "source_url": "https://m.entertain.naver.com/article/241/0003527426",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "전현무"
-          ],
-          "template": "인맥",
-          "score": 6.4,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"정말\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 정말",
-          "article_count": 3,
-          "source_article": "이게 정말 맞나…'재혼 황후' 의상→배경→대사까지 '서양 왕실' 완벽 재현, 맛보기 공개",
-          "source_url": "https://m.entertain.naver.com/article/213/0001399152",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "정말"
-          ],
-          "template": "인맥",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"만원, 대체 무슨 일이?\" 만원 관련 이슈 총정리",
-          "angle_type": "👤 만원",
-          "article_count": 3,
-          "source_article": "박위 강연료 “1500 이상 불러”···최근까지 935만원",
-          "source_url": "https://m.entertain.naver.com/article/144/0001134076",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "만원"
+            "논란에"
           ],
           "template": "논란 집합",
-          "score": 6.0,
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -706,17 +604,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"후폭풍\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 후폭풍",
-          "article_count": 3,
-          "source_article": "KTX 직원들 \"박위, 300번 넘게 도움 받았는데…서운\" 후폭풍 계속",
-          "source_url": "https://m.entertain.naver.com/article/311/0002049577",
+          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "angle_type": "결혼·이혼",
+          "article_count": 2,
+          "source_article": "권정열♥김윤주, 결혼 12년 차인데 ‘공개 연애설’ 돌자…“저는 결혼한 줄 알았..”",
+          "source_url": "https://m.entertain.naver.com/article/076/0004439458",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "후폭풍"
+            "결혼",
+            "권정열",
+            "김윤주",
+            "차인데",
+            "연애설"
           ],
-          "template": "인맥",
-          "score": 6.0,
+          "template": "결혼 화제",
+          "score": 5.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -727,25 +629,29 @@
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"비행기, 대체 무슨 일이?\" 비행기 관련 이슈 총정리",
-          "angle_type": "👤 비행기",
-          "article_count": 3,
-          "source_article": "“선택장애로 힘들다” 박수홍, 비행기 하차 번복 ‘민폐’...진짜 성격 ‘재소환’",
-          "source_url": "https://m.entertain.naver.com/article/468/0001262286",
+          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+          "angle_type": "투병·건강",
+          "article_count": 2,
+          "source_article": "‘투병 중 사망설’ 이연걸, 백발 노인 모습 사라졌다…몰라보게 젊어진 63세",
+          "source_url": "https://m.entertain.naver.com/article/468/0001262280",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "비행기"
+            "투병",
+            "사망설",
+            "이연걸",
+            "백발",
+            "노인"
           ],
-          "template": "논란 집합",
-          "score": 6.0,
+          "template": "투병 극복",
+          "score": 5.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -756,38 +662,9 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"같은\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 같은",
-          "article_count": 3,
-          "source_article": "\"185㎝에 배우 같은 외모\"…日 팬들에 제대로 눈도장 찍은 한국 배구선수",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "같은"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
+              "투병 질환",
+              "공백기",
+              "복귀 작품"
             ]
           },
           "channel": "정보주는하마"
@@ -795,31 +672,19 @@
       ],
       "keyword_freq": [
         [
-          "박위",
-          5
+          "비행기",
+          3
         ],
         [
           "박수홍",
-          4
-        ],
-        [
-          "배우",
-          4
-        ],
-        [
-          "강연료",
           3
         ],
         [
-          "만원",
+          "박위",
           3
         ],
         [
-          "결혼",
-          3
-        ],
-        [
-          "후폭풍",
+          "논란에",
           3
         ],
         [
@@ -827,81 +692,81 @@
           3
         ],
         [
-          "비행기",
+          "아들",
           3
         ],
         [
-          "정말",
-          3
-        ],
-        [
-          "같은",
-          3
-        ],
-        [
-          "장사치",
+          "지연",
           2
         ],
         [
-          "반응",
+          "강연료",
           2
         ],
         [
-          "비주얼에",
+          "마라",
           2
         ],
         [
-          "모습",
+          "조작",
           2
         ],
         [
-          "아냐",
+          "결혼",
           2
         ],
         [
-          "자가",
+          "미숙한",
           2
         ],
         [
-          "사람",
+          "판단",
           2
         ],
         [
-          "깜짝",
+          "당황해",
+          2
+        ],
+        [
+          "울음에",
+          2
+        ],
+        [
+          "사과",
           2
         ],
         [
           "민폐",
           2
+        ],
+        [
+          "의상",
+          2
+        ],
+        [
+          "유퀴즈",
+          2
+        ],
+        [
+          "의리가",
+          2
         ]
       ],
       "name_freq": [
         [
-          "박위",
-          5
+          "비행기",
+          3
         ],
         [
           "박수홍",
-          4
-        ],
-        [
-          "배우",
-          4
-        ],
-        [
-          "강연료",
           3
         ],
         [
-          "만원",
+          "박위",
           3
         ],
         [
-          "결혼",
-          3
-        ],
-        [
-          "후폭풍",
+          "논란에",
           3
         ],
         [
@@ -909,23 +774,27 @@
           3
         ],
         [
-          "비행기",
+          "아들",
           3
         ],
         [
-          "정말",
-          3
-        ],
-        [
-          "같은",
-          3
-        ],
-        [
-          "장사치",
+          "지연",
           2
         ],
         [
-          "반응",
+          "강연료",
+          2
+        ],
+        [
+          "마라",
+          2
+        ],
+        [
+          "조작",
+          2
+        ],
+        [
+          "결혼",
           2
         ],
         [
@@ -933,52 +802,60 @@
           2
         ],
         [
-          "모습",
+          "미숙한",
+          2
+        ],
+        [
+          "판단",
+          2
+        ],
+        [
+          "당황해",
           2
         ]
       ],
       "angle_scores": [
         [
-          "자산·몸값",
-          3
-        ],
-        [
           "논란·사건",
-          5
+          8
         ],
         [
           "결혼·이혼",
-          5
+          2
+        ],
+        [
+          "투병·건강",
+          2
         ],
         [
           "스포츠",
-          6
+          5
         ],
         [
           "가족·혈연",
-          5
+          6
         ]
       ]
     },
     "초구딱": {
-      "article_count": 38,
+      "article_count": 39,
       "topics": [
         {
-          "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "title": "\"롯데, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 6,
-          "source_article": "'대한민국 국적 버리고 中 갔는데'…린샤오쥔 날벼락! \"30살 LIN 9번 수술한 거 알잖아? 우다징 새 감독 결단 내려야\"→中 매체 돌발 주장",
+          "article_count": 8,
+          "source_article": "“성공한 선수 몇 명이나 되느냐”…이대호, 고교 유망주 MLB 직행에 소신 밝혀",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
+            "롯데",
             "감독",
-            "너무",
-            "대한민",
-            "국적",
-            "버리고"
+            "성공한",
+            "선수",
+            "명이나"
           ],
           "template": "스포츠 기록",
-          "score": 6.8,
+          "score": 7.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -992,6 +869,68 @@
               "소속팀",
               "기록 내용",
               "기록 가치"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"네요, 대체 무슨 일이?\" 네요 관련 이슈 총정리",
+          "angle_type": "👤 네요",
+          "article_count": 5,
+          "source_article": "미국은 집사면 나가는돈이 엄청나네요.jpg",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608270118279350&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "네요"
+          ],
+          "template": "논란 집합",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 2,
+          "source_article": "'이럴수가' 665억 장기계약 거절한 김하성 이젠 후회하나? \"선발로 쓸 이유 없어\" 美 혹평...타율 0.066→9G 연속 결장, 출전 기회마저 사라졌다",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "이럴수",
+            "장기계",
+            "거절한",
+            "김하성",
+            "이젠"
+          ],
+          "template": "자산 서열",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
             ]
           },
           "channel": "초구딱"
@@ -1032,15 +971,11 @@
           3
         ],
         [
-          "감독",
+          "타율",
           2
         ],
         [
-          "초대박",
-          2
-        ],
-        [
-          "야구",
+          "이럴수가",
           2
         ],
         [
@@ -1048,7 +983,7 @@
           2
         ],
         [
-          "김원중",
+          "감독",
           2
         ],
         [
@@ -1056,73 +991,77 @@
           2
         ],
         [
-          "돌발",
+          "만원",
+          2
+        ],
+        [
+          "넷플",
+          2
+        ],
+        [
+          "앞두고",
           1
         ],
         [
-          "우다징",
+          "로스터",
           1
         ],
         [
-          "갔는데",
+          "진짜",
           1
         ],
         [
-          "날벼락",
+          "대체",
           1
         ],
         [
-          "린샤오쥔",
+          "돌아와야",
           1
         ],
         [
-          "내려야",
+          "외야수",
           1
         ],
         [
-          "대한민국",
+          "하나",
           1
         ],
         [
-          "알잖아",
+          "부진",
           1
         ],
         [
-          "버리고",
+          "빠진",
           1
         ],
         [
-          "결단",
+          "후보로도",
           1
         ],
         [
-          "수술한",
+          "제외",
           1
         ],
         [
-          "주장",
-          1
-        ],
-        [
-          "국적",
+          "빨간불",
           1
         ]
       ],
       "name_freq": [
         [
+          "네요",
+          5
+        ],
+        [
           "안내",
           3
         ],
         [
-          "감독",
+          "타율",
           2
         ],
         [
-          "야구",
-          2
-        ],
-        [
-          "초대박",
+          "이럴수",
           2
         ],
         [
@@ -1130,7 +1069,7 @@
           2
         ],
         [
-          "김원중",
+          "감독",
           2
         ],
         [
@@ -1138,171 +1077,47 @@
           2
         ],
         [
-          "려금",
+          "장미란",
           2
         ],
         [
-          "민주당",
+          "만원",
           2
         ],
         [
-          "네요",
+          "넷플",
           2
         ]
       ],
       "angle_scores": [
         [
+          "자산·몸값",
+          2
+        ],
+        [
           "스포츠",
-          6
+          8
         ]
       ]
     }
   },
   "topics": [
     {
-      "title": "\"박수홍이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-      "angle_type": "가족·혈연",
+      "title": "\"선수, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
       "article_count": 5,
-      "source_article": "“박문성 씨, 따님은 어쩌다 캐나다 유학을?” 축구와 무관한 의혹 제기한 김병지 대표 사생활 폭로전…여론은 싸늘한 반응 ‘자기 아들이나 똑바로 키워라’",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "박수홍",
-        "반응",
-        "울어서",
-        "내렸다",
-        "재탑승"
-      ],
-      "template": "동갑내기",
-      "score": 7.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"박수홍까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 5,
-      "source_article": "“박문성 씨, 따님은 어쩌다 캐나다 유학을?” 축구와 무관한 의혹 제기한 김병지 대표 사생활 폭로전…여론은 싸늘한 반응 ‘자기 아들이나 똑바로 키워라’",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "박수홍",
-        "비행기",
-        "소재원",
-        "작가",
-        "박위"
-      ],
-      "template": "논란 집합",
-      "score": 7.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 3,
-      "source_article": "“폰세 능가! 여기서 야구하면 안 돼” 고작 5억에 한국행. 구위 어느 정도길래, 152승 레전드가 입 마르도록 감탄했나",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "쌍둥이",
-        "유도선",
-        "조준호",
-        "어마어",
-        "마한"
-      ],
-      "template": "자산 서열",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"박위, 대체 무슨 일이?\" 박위 관련 이슈 총정리",
-      "angle_type": "👤 박위",
-      "article_count": 5,
-      "source_article": "소재원 작가, 박위 ‘고액 강연료’ 논란에 “교회에 돈 받고 가느냐…장사치 되지 마라”",
-      "source_url": "https://m.entertain.naver.com/article/241/0003527426",
+      "source_article": "전현무, 카자흐 조작 논란에..심형준 감독 \"낯선 상황 즐기는 사람\"",
+      "source_url": "https://m.entertain.naver.com/article/108/0003465586",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "박위"
-      ],
-      "template": "논란 집합",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"배우, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 6,
-      "source_article": "\"185㎝에 배우 같은 외모\"…日 팬들에 제대로 눈도장 찍은 한국 배구선수",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "배우",
-        "같은",
-        "외모",
-        "반했다",
-        "선수"
+        "선수",
+        "음바페",
+        "전현무",
+        "카자흐",
+        "조작"
       ],
       "template": "스포츠 기록",
-      "score": 6.8,
+      "score": 7.7,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1321,20 +1136,82 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 5,
-      "source_article": "권정열♥김윤주, 결혼 12년 차인데 ‘공개 연애설’ 돌자…“저는 결혼한 줄 알았..”",
-      "source_url": "https://m.entertain.naver.com/article/076/0004439458",
+      "title": "\"박수홍까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 8,
+      "source_article": "박수홍, '비행기 지연 논란' 속 반전 드러났다…대한항공 측 \"문밖 안 나갔다면 가능\"",
+      "source_url": "https://m.entertain.naver.com/article/213/0001399136",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "결혼",
-        "권정열",
-        "김윤주",
-        "차인데",
-        "연애설"
+        "박수홍",
+        "비행기",
+        "논란에",
+        "지연",
+        "박위"
       ],
-      "template": "결혼 화제",
+      "template": "논란 집합",
+      "score": 7.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"전현무, 대체 무슨 일이?\" 전현무 관련 이슈 총정리",
+      "angle_type": "👤 전현무",
+      "article_count": 3,
+      "source_article": "전현무, 카자흐 조작 논란에..심형준 감독 \"낯선 상황 즐기는 사람\"",
+      "source_url": "https://m.entertain.naver.com/article/108/0003465586",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "전현무"
+      ],
+      "template": "논란 집합",
+      "score": 6.9,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 6,
+      "source_article": "“며느리 인사드려요” ‘남성진♥’ 김지영, 배우 DNA 물려받은 아들 비주얼에 반응 터졌다",
+      "source_url": "https://m.entertain.naver.com/article/112/0003805575",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "아들",
+        "며느리",
+        "인사드",
+        "려요",
+        "남성진"
+      ],
+      "template": "동갑내기",
       "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
@@ -1346,22 +1223,51 @@
       "table": {
         "headers": [
           "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
+          "나이",
+          "대표작",
+          "현재 활동"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"강연료, 대체 무슨 일이?\" 강연료 관련 이슈 총정리",
-      "angle_type": "👤 강연료",
+      "title": "\"비행기, 대체 무슨 일이?\" 비행기 관련 이슈 총정리",
+      "angle_type": "👤 비행기",
+      "article_count": 3,
+      "source_article": "박수홍, '비행기 지연 논란' 속 반전 드러났다…대한항공 측 \"문밖 안 나갔다면 가능\"",
+      "source_url": "https://m.entertain.naver.com/article/213/0001399136",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "비행기"
+      ],
+      "template": "논란 집합",
+      "score": 6.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"박위, 대체 무슨 일이?\" 박위 관련 이슈 총정리",
+      "angle_type": "👤 박위",
       "article_count": 3,
       "source_article": "소재원 작가, 박위 ‘고액 강연료’ 논란에 “교회에 돈 받고 가느냐…장사치 되지 마라”",
       "source_url": "https://m.entertain.naver.com/article/241/0003527426",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "강연료"
+        "박위"
       ],
       "template": "논란 집합",
       "score": 6.5,
@@ -1383,75 +1289,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"전현무\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 전현무",
+      "title": "\"논란에, 대체 무슨 일이?\" 논란에 관련 이슈 총정리",
+      "angle_type": "👤 논란에",
       "article_count": 3,
-      "source_article": "전현무 즉흥여행 조작설에…'전현무계획1' PD 입 열었다 \"낯선 모습 아냐\"",
-      "source_url": "https://m.entertain.naver.com/article/311/0002049807",
+      "source_article": "소재원 작가, 박위 ‘고액 강연료’ 논란에 “교회에 돈 받고 가느냐…장사치 되지 마라”",
+      "source_url": "https://m.entertain.naver.com/article/241/0003527426",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "전현무"
-      ],
-      "template": "인맥",
-      "score": 6.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"정말\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 정말",
-      "article_count": 3,
-      "source_article": "이게 정말 맞나…'재혼 황후' 의상→배경→대사까지 '서양 왕실' 완벽 재현, 맛보기 공개",
-      "source_url": "https://m.entertain.naver.com/article/213/0001399152",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "정말"
-      ],
-      "template": "인맥",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"만원, 대체 무슨 일이?\" 만원 관련 이슈 총정리",
-      "angle_type": "👤 만원",
-      "article_count": 3,
-      "source_article": "박위 강연료 “1500 이상 불러”···최근까지 935만원",
-      "source_url": "https://m.entertain.naver.com/article/144/0001134076",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "만원"
+        "논란에"
       ],
       "template": "논란 집합",
-      "score": 6.0,
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1470,17 +1318,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"후폭풍\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 후폭풍",
-      "article_count": 3,
-      "source_article": "KTX 직원들 \"박위, 300번 넘게 도움 받았는데…서운\" 후폭풍 계속",
-      "source_url": "https://m.entertain.naver.com/article/311/0002049577",
+      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 2,
+      "source_article": "권정열♥김윤주, 결혼 12년 차인데 ‘공개 연애설’ 돌자…“저는 결혼한 줄 알았..”",
+      "source_url": "https://m.entertain.naver.com/article/076/0004439458",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "후폭풍"
+        "결혼",
+        "권정열",
+        "김윤주",
+        "차인데",
+        "연애설"
       ],
-      "template": "인맥",
-      "score": 6.0,
+      "template": "결혼 화제",
+      "score": 5.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1491,25 +1343,29 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"비행기, 대체 무슨 일이?\" 비행기 관련 이슈 총정리",
-      "angle_type": "👤 비행기",
-      "article_count": 3,
-      "source_article": "“선택장애로 힘들다” 박수홍, 비행기 하차 번복 ‘민폐’...진짜 성격 ‘재소환’",
-      "source_url": "https://m.entertain.naver.com/article/468/0001262286",
+      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+      "angle_type": "투병·건강",
+      "article_count": 2,
+      "source_article": "‘투병 중 사망설’ 이연걸, 백발 노인 모습 사라졌다…몰라보게 젊어진 63세",
+      "source_url": "https://m.entertain.naver.com/article/468/0001262280",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "비행기"
+        "투병",
+        "사망설",
+        "이연걸",
+        "백발",
+        "노인"
       ],
-      "template": "논란 집합",
-      "score": 6.0,
+      "template": "투병 극복",
+      "score": 5.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1520,38 +1376,9 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"같은\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 같은",
-      "article_count": 3,
-      "source_article": "\"185㎝에 배우 같은 외모\"…日 팬들에 제대로 눈도장 찍은 한국 배구선수",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "같은"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "투병 질환",
+          "공백기",
+          "복귀 작품"
         ]
       },
       "channel": "정보주는하마"
@@ -1559,149 +1386,21 @@
   ],
   "all_topics": [
     {
-      "title": "\"박수홍이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-      "angle_type": "가족·혈연",
+      "title": "\"선수, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
       "article_count": 5,
-      "source_article": "“박문성 씨, 따님은 어쩌다 캐나다 유학을?” 축구와 무관한 의혹 제기한 김병지 대표 사생활 폭로전…여론은 싸늘한 반응 ‘자기 아들이나 똑바로 키워라’",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "박수홍",
-        "반응",
-        "울어서",
-        "내렸다",
-        "재탑승"
-      ],
-      "template": "동갑내기",
-      "score": 7.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"박수홍까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 5,
-      "source_article": "“박문성 씨, 따님은 어쩌다 캐나다 유학을?” 축구와 무관한 의혹 제기한 김병지 대표 사생활 폭로전…여론은 싸늘한 반응 ‘자기 아들이나 똑바로 키워라’",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "박수홍",
-        "비행기",
-        "소재원",
-        "작가",
-        "박위"
-      ],
-      "template": "논란 집합",
-      "score": 7.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 3,
-      "source_article": "“폰세 능가! 여기서 야구하면 안 돼” 고작 5억에 한국행. 구위 어느 정도길래, 152승 레전드가 입 마르도록 감탄했나",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "쌍둥이",
-        "유도선",
-        "조준호",
-        "어마어",
-        "마한"
-      ],
-      "template": "자산 서열",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"박위, 대체 무슨 일이?\" 박위 관련 이슈 총정리",
-      "angle_type": "👤 박위",
-      "article_count": 5,
-      "source_article": "소재원 작가, 박위 ‘고액 강연료’ 논란에 “교회에 돈 받고 가느냐…장사치 되지 마라”",
-      "source_url": "https://m.entertain.naver.com/article/241/0003527426",
+      "source_article": "전현무, 카자흐 조작 논란에..심형준 감독 \"낯선 상황 즐기는 사람\"",
+      "source_url": "https://m.entertain.naver.com/article/108/0003465586",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "박위"
-      ],
-      "template": "논란 집합",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"배우, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 6,
-      "source_article": "\"185㎝에 배우 같은 외모\"…日 팬들에 제대로 눈도장 찍은 한국 배구선수",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "배우",
-        "같은",
-        "외모",
-        "반했다",
-        "선수"
+        "선수",
+        "음바페",
+        "전현무",
+        "카자흐",
+        "조작"
       ],
       "template": "스포츠 기록",
-      "score": 6.8,
+      "score": 7.7,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1720,20 +1419,82 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 5,
-      "source_article": "권정열♥김윤주, 결혼 12년 차인데 ‘공개 연애설’ 돌자…“저는 결혼한 줄 알았..”",
-      "source_url": "https://m.entertain.naver.com/article/076/0004439458",
+      "title": "\"박수홍까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 8,
+      "source_article": "박수홍, '비행기 지연 논란' 속 반전 드러났다…대한항공 측 \"문밖 안 나갔다면 가능\"",
+      "source_url": "https://m.entertain.naver.com/article/213/0001399136",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "결혼",
-        "권정열",
-        "김윤주",
-        "차인데",
-        "연애설"
+        "박수홍",
+        "비행기",
+        "논란에",
+        "지연",
+        "박위"
       ],
-      "template": "결혼 화제",
+      "template": "논란 집합",
+      "score": 7.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"전현무, 대체 무슨 일이?\" 전현무 관련 이슈 총정리",
+      "angle_type": "👤 전현무",
+      "article_count": 3,
+      "source_article": "전현무, 카자흐 조작 논란에..심형준 감독 \"낯선 상황 즐기는 사람\"",
+      "source_url": "https://m.entertain.naver.com/article/108/0003465586",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "전현무"
+      ],
+      "template": "논란 집합",
+      "score": 6.9,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 6,
+      "source_article": "“며느리 인사드려요” ‘남성진♥’ 김지영, 배우 DNA 물려받은 아들 비주얼에 반응 터졌다",
+      "source_url": "https://m.entertain.naver.com/article/112/0003805575",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "아들",
+        "며느리",
+        "인사드",
+        "려요",
+        "남성진"
+      ],
+      "template": "동갑내기",
       "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
@@ -1745,22 +1506,51 @@
       "table": {
         "headers": [
           "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
+          "나이",
+          "대표작",
+          "현재 활동"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"강연료, 대체 무슨 일이?\" 강연료 관련 이슈 총정리",
-      "angle_type": "👤 강연료",
+      "title": "\"비행기, 대체 무슨 일이?\" 비행기 관련 이슈 총정리",
+      "angle_type": "👤 비행기",
+      "article_count": 3,
+      "source_article": "박수홍, '비행기 지연 논란' 속 반전 드러났다…대한항공 측 \"문밖 안 나갔다면 가능\"",
+      "source_url": "https://m.entertain.naver.com/article/213/0001399136",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "비행기"
+      ],
+      "template": "논란 집합",
+      "score": 6.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"박위, 대체 무슨 일이?\" 박위 관련 이슈 총정리",
+      "angle_type": "👤 박위",
       "article_count": 3,
       "source_article": "소재원 작가, 박위 ‘고액 강연료’ 논란에 “교회에 돈 받고 가느냐…장사치 되지 마라”",
       "source_url": "https://m.entertain.naver.com/article/241/0003527426",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "강연료"
+        "박위"
       ],
       "template": "논란 집합",
       "score": 6.5,
@@ -1782,75 +1572,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"전현무\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 전현무",
+      "title": "\"논란에, 대체 무슨 일이?\" 논란에 관련 이슈 총정리",
+      "angle_type": "👤 논란에",
       "article_count": 3,
-      "source_article": "전현무 즉흥여행 조작설에…'전현무계획1' PD 입 열었다 \"낯선 모습 아냐\"",
-      "source_url": "https://m.entertain.naver.com/article/311/0002049807",
+      "source_article": "소재원 작가, 박위 ‘고액 강연료’ 논란에 “교회에 돈 받고 가느냐…장사치 되지 마라”",
+      "source_url": "https://m.entertain.naver.com/article/241/0003527426",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "전현무"
-      ],
-      "template": "인맥",
-      "score": 6.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"정말\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 정말",
-      "article_count": 3,
-      "source_article": "이게 정말 맞나…'재혼 황후' 의상→배경→대사까지 '서양 왕실' 완벽 재현, 맛보기 공개",
-      "source_url": "https://m.entertain.naver.com/article/213/0001399152",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "정말"
-      ],
-      "template": "인맥",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"만원, 대체 무슨 일이?\" 만원 관련 이슈 총정리",
-      "angle_type": "👤 만원",
-      "article_count": 3,
-      "source_article": "박위 강연료 “1500 이상 불러”···최근까지 935만원",
-      "source_url": "https://m.entertain.naver.com/article/144/0001134076",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "만원"
+        "논란에"
       ],
       "template": "논란 집합",
-      "score": 6.0,
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1869,17 +1601,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"후폭풍\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 후폭풍",
-      "article_count": 3,
-      "source_article": "KTX 직원들 \"박위, 300번 넘게 도움 받았는데…서운\" 후폭풍 계속",
-      "source_url": "https://m.entertain.naver.com/article/311/0002049577",
+      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 2,
+      "source_article": "권정열♥김윤주, 결혼 12년 차인데 ‘공개 연애설’ 돌자…“저는 결혼한 줄 알았..”",
+      "source_url": "https://m.entertain.naver.com/article/076/0004439458",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "후폭풍"
+        "결혼",
+        "권정열",
+        "김윤주",
+        "차인데",
+        "연애설"
       ],
-      "template": "인맥",
-      "score": 6.0,
+      "template": "결혼 화제",
+      "score": 5.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1890,25 +1626,29 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"비행기, 대체 무슨 일이?\" 비행기 관련 이슈 총정리",
-      "angle_type": "👤 비행기",
-      "article_count": 3,
-      "source_article": "“선택장애로 힘들다” 박수홍, 비행기 하차 번복 ‘민폐’...진짜 성격 ‘재소환’",
-      "source_url": "https://m.entertain.naver.com/article/468/0001262286",
+      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+      "angle_type": "투병·건강",
+      "article_count": 2,
+      "source_article": "‘투병 중 사망설’ 이연걸, 백발 노인 모습 사라졌다…몰라보게 젊어진 63세",
+      "source_url": "https://m.entertain.naver.com/article/468/0001262280",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "비행기"
+        "투병",
+        "사망설",
+        "이연걸",
+        "백발",
+        "노인"
       ],
-      "template": "논란 집합",
-      "score": 6.0,
+      "template": "투병 극복",
+      "score": 5.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1919,58 +1659,29 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
+          "투병 질환",
+          "공백기",
+          "복귀 작품"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"같은\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 같은",
-      "article_count": 3,
-      "source_article": "\"185㎝에 배우 같은 외모\"…日 팬들에 제대로 눈도장 찍은 한국 배구선수",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "같은"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"롯데, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 6,
-      "source_article": "'대한민국 국적 버리고 中 갔는데'…린샤오쥔 날벼락! \"30살 LIN 9번 수술한 거 알잖아? 우다징 새 감독 결단 내려야\"→中 매체 돌발 주장",
+      "article_count": 8,
+      "source_article": "“성공한 선수 몇 명이나 되느냐”…이대호, 고교 유망주 MLB 직행에 소신 밝혀",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
+        "롯데",
         "감독",
-        "너무",
-        "대한민",
-        "국적",
-        "버리고"
+        "성공한",
+        "선수",
+        "명이나"
       ],
       "template": "스포츠 기록",
-      "score": 6.8,
+      "score": 7.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1984,6 +1695,68 @@
           "소속팀",
           "기록 내용",
           "기록 가치"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"네요, 대체 무슨 일이?\" 네요 관련 이슈 총정리",
+      "angle_type": "👤 네요",
+      "article_count": 5,
+      "source_article": "미국은 집사면 나가는돈이 엄청나네요.jpg",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608270118279350&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "네요"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 2,
+      "source_article": "'이럴수가' 665억 장기계약 거절한 김하성 이젠 후회하나? \"선발로 쓸 이유 없어\" 美 혹평...타율 0.066→9G 연속 결장, 출전 기회마저 사라졌다",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "이럴수",
+        "장기계",
+        "거절한",
+        "김하성",
+        "이젠"
+      ],
+      "template": "자산 서열",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
         ]
       },
       "channel": "초구딱"
@@ -2020,31 +1793,19 @@
   ],
   "keyword_freq": [
     [
-      "박위",
-      5
+      "비행기",
+      3
     ],
     [
       "박수홍",
-      4
-    ],
-    [
-      "배우",
-      4
-    ],
-    [
-      "강연료",
       3
     ],
     [
-      "만원",
+      "박위",
       3
     ],
     [
-      "결혼",
-      3
-    ],
-    [
-      "후폭풍",
+      "논란에",
       3
     ],
     [
@@ -2052,81 +1813,81 @@
       3
     ],
     [
-      "비행기",
+      "아들",
       3
     ],
     [
-      "정말",
-      3
-    ],
-    [
-      "같은",
-      3
-    ],
-    [
-      "장사치",
+      "지연",
       2
     ],
     [
-      "반응",
+      "강연료",
       2
     ],
     [
-      "비주얼에",
+      "마라",
       2
     ],
     [
-      "모습",
+      "조작",
       2
     ],
     [
-      "아냐",
+      "결혼",
       2
     ],
     [
-      "자가",
+      "미숙한",
       2
     ],
     [
-      "사람",
+      "판단",
       2
     ],
     [
-      "깜짝",
+      "당황해",
+      2
+    ],
+    [
+      "울음에",
+      2
+    ],
+    [
+      "사과",
       2
     ],
     [
       "민폐",
       2
+    ],
+    [
+      "의상",
+      2
+    ],
+    [
+      "유퀴즈",
+      2
+    ],
+    [
+      "의리가",
+      2
     ]
   ],
   "name_freq": [
     [
-      "박위",
-      5
+      "비행기",
+      3
     ],
     [
       "박수홍",
-      4
-    ],
-    [
-      "배우",
-      4
-    ],
-    [
-      "강연료",
       3
     ],
     [
-      "만원",
+      "박위",
       3
     ],
     [
-      "결혼",
-      3
-    ],
-    [
-      "후폭풍",
+      "논란에",
       3
     ],
     [
@@ -2134,23 +1895,27 @@
       3
     ],
     [
-      "비행기",
+      "아들",
       3
     ],
     [
-      "정말",
-      3
-    ],
-    [
-      "같은",
-      3
-    ],
-    [
-      "장사치",
+      "지연",
       2
     ],
     [
-      "반응",
+      "강연료",
+      2
+    ],
+    [
+      "마라",
+      2
+    ],
+    [
+      "조작",
+      2
+    ],
+    [
+      "결혼",
       2
     ],
     [
@@ -2158,11 +1923,19 @@
       2
     ],
     [
-      "모습",
+      "미숙한",
+      2
+    ],
+    [
+      "판단",
+      2
+    ],
+    [
+      "당황해",
       2
     ]
   ],
-  "total_topics_generated": 15,
-  "valid_topics": 15,
+  "total_topics_generated": 13,
+  "valid_topics": 13,
   "excluded_duplicates": 0
 }
