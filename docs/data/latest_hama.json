@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-29 16:53:57",
+  "scan_time": "2026-08-29 19:36:11",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -692,35 +692,6 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"푸른거\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 푸른거",
-          "article_count": 4,
-          "source_article": "'푸른거탑' 배우 이용주, 갑작스러운 사망 비보…향년 44세",
-          "source_url": "https://m.entertain.naver.com/article/440/0000043103",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "푸른거"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
           "title": "\"배우\" 관련 화제 스타 TOP10",
           "angle_type": "👤 배우",
           "article_count": 4,
@@ -750,14 +721,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"갑작스\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 갑작스",
-          "article_count": 3,
+          "title": "\"푸른거\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 푸른거",
+          "article_count": 4,
           "source_article": "'푸른거탑' 배우 이용주, 갑작스러운 사망 비보…향년 44세",
           "source_url": "https://m.entertain.naver.com/article/440/0000043103",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "갑작스"
+            "푸른거"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -779,14 +750,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"비로\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 비로",
+          "title": "\"갑작스\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 갑작스",
           "article_count": 3,
-          "source_article": "이용주, 심장마비로 사망…향년 44세",
-          "source_url": "https://m.entertain.naver.com/article/117/0004099701",
+          "source_article": "'푸른거탑' 배우 이용주, 갑작스러운 사망 비보…향년 44세",
+          "source_url": "https://m.entertain.naver.com/article/440/0000043103",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "비로"
+            "갑작스"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -835,6 +806,35 @@
             ]
           },
           "channel": "정보주는하마"
+        },
+        {
+          "title": "\"비로\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 비로",
+          "article_count": 3,
+          "source_article": "이용주, 심장마비로 사망…향년 44세",
+          "source_url": "https://m.entertain.naver.com/article/117/0004099701",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "비로"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
         }
       ],
       "keyword_freq": [
@@ -859,11 +859,11 @@
           4
         ],
         [
-          "근황",
+          "돌연",
           3
         ],
         [
-          "돌연",
+          "근황",
           3
         ],
         [
@@ -933,11 +933,11 @@
           5
         ],
         [
-          "푸른거",
+          "배우",
           4
         ],
         [
-          "배우",
+          "푸른거",
           4
         ],
         [
@@ -949,15 +949,11 @@
           3
         ],
         [
-          "근황",
-          3
-        ],
-        [
           "돌연",
           3
         ],
         [
-          "비로",
+          "근황",
           3
         ],
         [
@@ -965,19 +961,23 @@
           3
         ],
         [
-          "비보",
-          2
+          "비로",
+          3
         ],
         [
           "러운",
           2
         ],
         [
-          "전현무",
+          "비보",
           2
         ],
         [
           "보고",
+          2
+        ],
+        [
+          "전현무",
           2
         ]
       ],
@@ -1012,18 +1012,18 @@
       "article_count": 40,
       "topics": [
         {
-          "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "title": "\"홈런, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 8,
+          "article_count": 10,
           "source_article": "“출전하지 못할 것” 시메오네 감독 공식발표…이강인과 호흡 맞추는 모습 또 못 본다, ‘3일 연속 훈련 불참’ 알바레즈 결장 확정",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
+            "홈런",
             "감독",
             "코치",
-            "홈런",
-            "는데",
-            "키움"
+            "이강인",
+            "는데"
           ],
           "template": "스포츠 기록",
           "score": 7.2,
@@ -1078,17 +1078,79 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"홈런\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 홈런",
-          "article_count": 3,
-          "source_article": "'충격 파산' 5000만 달러 이상 벌었는데…돈 다 날린 푸이그, 한국 방출 이후 '캐나다 홈런 신기록' 세웠다",
+          "title": "\"토트넘 자산이 얼마?\" 토트넘급 자산가 스타 TOP10",
+          "angle_type": "👤 토트넘",
+          "article_count": 7,
+          "source_article": "오늘 토트넘 경기리뷰",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608300118336761&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=kakao.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "토트넘"
+          ],
+          "template": "자산 서열",
+          "score": 7.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 2,
+          "source_article": "KIA, 또 KT 벤치마킹? 김도영 2027 연봉 얼마 줄까...강백호 7억보다 많이 주나, 아겜 금메달로 병역 혜택이면 '금상첨화'",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "홈런"
+            "벤치마",
+            "김도영",
+            "연봉",
+            "얼마",
+            "줄까"
+          ],
+          "template": "자산 서열",
+          "score": 6.9,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"코치\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 코치",
+          "article_count": 3,
+          "source_article": "\"우리 애 5툴이라는데 왜 안 써요? 선수 부모에 전화 받아→프로에서 이럴 줄은...\" 前 키움 코치 충격 고백",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "코치"
           ],
           "template": "인맥",
-          "score": 7.0,
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -1107,17 +1169,17 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"코치\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 코치",
+          "title": "\"감독\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 감독",
           "article_count": 3,
-          "source_article": "\"우리 애 5툴이라는데 왜 안 써요? 선수 부모에 전화 받아→프로에서 이럴 줄은...\" 前 키움 코치 충격 고백",
+          "source_article": "“출전하지 못할 것” 시메오네 감독 공식발표…이강인과 호흡 맞추는 모습 또 못 본다, ‘3일 연속 훈련 불참’ 알바레즈 결장 확정",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "코치"
+            "감독"
           ],
           "template": "인맥",
-          "score": 6.5,
+          "score": 6.4,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -1163,38 +1225,17 @@
             ]
           },
           "channel": "초구딱"
-        },
-        {
-          "title": "\"오디세\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 오디세",
-          "article_count": 3,
-          "source_article": "오디세이 용아맥 못본다면 2순위는 어딘가요?",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608300118336359&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "오디세"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
+        [
+          "토트넘",
+          5
+        ],
+        [
+          "홈런",
+          4
+        ],
         [
           "감독",
           3
@@ -1204,15 +1245,7 @@
           3
         ],
         [
-          "홈런",
-          3
-        ],
-        [
           "안내",
-          3
-        ],
-        [
-          "오디세이",
           3
         ],
         [
@@ -1224,6 +1257,14 @@
           2
         ],
         [
+          "방출",
+          2
+        ],
+        [
+          "푸이그",
+          2
+        ],
+        [
           "신기록",
           2
         ],
@@ -1232,15 +1273,11 @@
           2
         ],
         [
-          "푸이그",
-          2
-        ],
-        [
-          "방출",
-          2
-        ],
-        [
           "고희진",
+          2
+        ],
+        [
+          "향후",
           2
         ],
         [
@@ -1248,7 +1285,15 @@
           2
         ],
         [
-          "야신도",
+          "오디세이",
+          2
+        ],
+        [
+          "토트넘은",
+          2
+        ],
+        [
+          "하겠는데",
           1
         ],
         [
@@ -1256,27 +1301,23 @@
           1
         ],
         [
-          "승도",
-          1
-        ],
-        [
-          "하겠는데",
-          1
-        ],
-        [
-          "투수",
+          "탐냈던",
           1
         ],
         [
           "괴력이라니",
           1
-        ],
-        [
-          "오면",
-          1
         ]
       ],
       "name_freq": [
+        [
+          "토트넘",
+          7
+        ],
+        [
+          "홈런",
+          4
+        ],
         [
           "감독",
           3
@@ -1286,16 +1327,12 @@
           3
         ],
         [
-          "홈런",
-          3
-        ],
-        [
           "안내",
           3
         ],
         [
-          "오디세",
-          3
+          "이강인",
+          2
         ],
         [
           "는데",
@@ -1310,14 +1347,6 @@
           2
         ],
         [
-          "캐나다",
-          2
-        ],
-        [
-          "신기록",
-          2
-        ],
-        [
           "방출",
           2
         ],
@@ -1326,26 +1355,34 @@
           2
         ],
         [
+          "신기록",
+          2
+        ],
+        [
+          "캐나다",
+          2
+        ],
+        [
           "고희진",
           2
         ],
         [
-          "업데이",
-          2
-        ],
-        [
-          "만들어",
+          "향후",
           2
         ]
       ],
       "angle_scores": [
+        [
+          "자산·몸값",
+          2
+        ],
         [
           "복귀·근황",
           2
         ],
         [
           "스포츠",
-          8
+          10
         ]
       ]
     }
@@ -1666,35 +1703,6 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"푸른거\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 푸른거",
-      "article_count": 4,
-      "source_article": "'푸른거탑' 배우 이용주, 갑작스러운 사망 비보…향년 44세",
-      "source_url": "https://m.entertain.naver.com/article/440/0000043103",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "푸른거"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"배우\" 관련 화제 스타 TOP10",
       "angle_type": "👤 배우",
       "article_count": 4,
@@ -1712,6 +1720,35 @@
         "matched_title": "복싱 금메달 리스트가 배우? 운동선수 출신 스타 TOP 10 #연예인 #연예계소식",
         "matched_views": 57405,
         "reason": "기간 경과 221일"
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"푸른거\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 푸른거",
+      "article_count": 4,
+      "source_article": "'푸른거탑' 배우 이용주, 갑작스러운 사망 비보…향년 44세",
+      "source_url": "https://m.entertain.naver.com/article/440/0000043103",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "푸른거"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
       },
       "table": {
         "headers": [
@@ -1753,14 +1790,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"비로\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 비로",
+      "title": "\"심장마\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 심장마",
       "article_count": 3,
       "source_article": "이용주, 심장마비로 사망…향년 44세",
       "source_url": "https://m.entertain.naver.com/article/117/0004099701",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "비로"
+        "심장마"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1782,14 +1819,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"심장마\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 심장마",
+      "title": "\"비로\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 비로",
       "article_count": 3,
       "source_article": "이용주, 심장마비로 사망…향년 44세",
       "source_url": "https://m.entertain.naver.com/article/117/0004099701",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "심장마"
+        "비로"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -2127,35 +2164,6 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"푸른거\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 푸른거",
-      "article_count": 4,
-      "source_article": "'푸른거탑' 배우 이용주, 갑작스러운 사망 비보…향년 44세",
-      "source_url": "https://m.entertain.naver.com/article/440/0000043103",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "푸른거"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"배우\" 관련 화제 스타 TOP10",
       "angle_type": "👤 배우",
       "article_count": 4,
@@ -2185,14 +2193,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"갑작스\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 갑작스",
-      "article_count": 3,
+      "title": "\"푸른거\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 푸른거",
+      "article_count": 4,
       "source_article": "'푸른거탑' 배우 이용주, 갑작스러운 사망 비보…향년 44세",
       "source_url": "https://m.entertain.naver.com/article/440/0000043103",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "갑작스"
+        "푸른거"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -2214,14 +2222,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"비로\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 비로",
+      "title": "\"갑작스\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 갑작스",
       "article_count": 3,
-      "source_article": "이용주, 심장마비로 사망…향년 44세",
-      "source_url": "https://m.entertain.naver.com/article/117/0004099701",
+      "source_article": "'푸른거탑' 배우 이용주, 갑작스러운 사망 비보…향년 44세",
+      "source_url": "https://m.entertain.naver.com/article/440/0000043103",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "비로"
+        "갑작스"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -2272,18 +2280,47 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"비로\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 비로",
+      "article_count": 3,
+      "source_article": "이용주, 심장마비로 사망…향년 44세",
+      "source_url": "https://m.entertain.naver.com/article/117/0004099701",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "비로"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"홈런, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 8,
+      "article_count": 10,
       "source_article": "“출전하지 못할 것” 시메오네 감독 공식발표…이강인과 호흡 맞추는 모습 또 못 본다, ‘3일 연속 훈련 불참’ 알바레즈 결장 확정",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
+        "홈런",
         "감독",
         "코치",
-        "홈런",
-        "는데",
-        "키움"
+        "이강인",
+        "는데"
       ],
       "template": "스포츠 기록",
       "score": 7.2,
@@ -2338,17 +2375,79 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"홈런\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 홈런",
-      "article_count": 3,
-      "source_article": "'충격 파산' 5000만 달러 이상 벌었는데…돈 다 날린 푸이그, 한국 방출 이후 '캐나다 홈런 신기록' 세웠다",
+      "title": "\"토트넘 자산이 얼마?\" 토트넘급 자산가 스타 TOP10",
+      "angle_type": "👤 토트넘",
+      "article_count": 7,
+      "source_article": "오늘 토트넘 경기리뷰",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608300118336761&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=kakao.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "토트넘"
+      ],
+      "template": "자산 서열",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 2,
+      "source_article": "KIA, 또 KT 벤치마킹? 김도영 2027 연봉 얼마 줄까...강백호 7억보다 많이 주나, 아겜 금메달로 병역 혜택이면 '금상첨화'",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "홈런"
+        "벤치마",
+        "김도영",
+        "연봉",
+        "얼마",
+        "줄까"
+      ],
+      "template": "자산 서열",
+      "score": 6.9,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"코치\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 코치",
+      "article_count": 3,
+      "source_article": "\"우리 애 5툴이라는데 왜 안 써요? 선수 부모에 전화 받아→프로에서 이럴 줄은...\" 前 키움 코치 충격 고백",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "코치"
       ],
       "template": "인맥",
-      "score": 7.0,
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2367,17 +2466,17 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"코치\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 코치",
+      "title": "\"감독\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 감독",
       "article_count": 3,
-      "source_article": "\"우리 애 5툴이라는데 왜 안 써요? 선수 부모에 전화 받아→프로에서 이럴 줄은...\" 前 키움 코치 충격 고백",
+      "source_article": "“출전하지 못할 것” 시메오네 감독 공식발표…이강인과 호흡 맞추는 모습 또 못 본다, ‘3일 연속 훈련 불참’ 알바레즈 결장 확정",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "코치"
+        "감독"
       ],
       "template": "인맥",
-      "score": 6.5,
+      "score": 6.4,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2423,35 +2522,6 @@
         ]
       },
       "channel": "초구딱"
-    },
-    {
-      "title": "\"오디세\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 오디세",
-      "article_count": 3,
-      "source_article": "오디세이 용아맥 못본다면 2순위는 어딘가요?",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608300118336359&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "오디세"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
@@ -2476,11 +2546,11 @@
       4
     ],
     [
-      "근황",
+      "돌연",
       3
     ],
     [
-      "돌연",
+      "근황",
       3
     ],
     [
@@ -2550,11 +2620,11 @@
       5
     ],
     [
-      "푸른거",
+      "배우",
       4
     ],
     [
-      "배우",
+      "푸른거",
       4
     ],
     [
@@ -2566,15 +2636,11 @@
       3
     ],
     [
-      "근황",
-      3
-    ],
-    [
       "돌연",
       3
     ],
     [
-      "비로",
+      "근황",
       3
     ],
     [
@@ -2582,23 +2648,27 @@
       3
     ],
     [
-      "비보",
-      2
+      "비로",
+      3
     ],
     [
       "러운",
       2
     ],
     [
-      "전현무",
+      "비보",
       2
     ],
     [
       "보고",
       2
+    ],
+    [
+      "전현무",
+      2
     ]
   ],
-  "total_topics_generated": 21,
-  "valid_topics": 21,
+  "total_topics_generated": 22,
+  "valid_topics": 22,
   "excluded_duplicates": 0
 }
