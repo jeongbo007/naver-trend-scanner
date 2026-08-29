@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-28 22:45:32",
+  "scan_time": "2026-08-29 00:51:03",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,427 +8,112 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 30
+    "MLB파크 불펜": 0
   },
-  "total_articles": 80,
+  "total_articles": 50,
   "articles": [
     {
-      "title": "FA 1억 계약→전격 트레이드, 통산 최다안타 1위였는데, 이제 3위로 밀려나다…퓨처스에서 2타수 2안타",
+      "title": "\"한국 오면 30승도 하겠는데\" 야신도 탐냈던 그 투수, 37세에도 '161km' 괴력이라니…오타니라서 승부욕 불탔다",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 370972,
-      "rank": 1,
-      "channel": "초구딱"
-    },
-    {
-      "title": "KIA 1:1 깜짝 트레이드 '왜' 팬들이 이토록 열광하나→사령탑까지 극찬 폭발 \"체력 안배를 좀 시켜줘야 할 것 같다\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 353575,
+      "views": 38513,
       "rank": 2,
       "channel": "초구딱"
     },
     {
-      "title": "'살다살다 이런 7-7-7은 처음' 롯데 김태형 감독, '우승 대박' 대신 퇴장인가?",
+      "title": "김하성 또 터졌다! 4488억 야마모토 상대 169km 레이저 안타→2G 연속 안타, 드디어 부활하나",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 190397,
-      "rank": 7,
-      "channel": "초구딱"
-    },
-    {
-      "title": "삼성 박진만 감독, 홍준표 전 대구시장 \"멍청하다\" 반박하려면 1위 KT에 위닝 시리즈 해야",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 186273,
-      "rank": 8,
-      "channel": "초구딱"
-    },
-    {
-      "title": "미쳤다! 세계 1위 홈런왕 102년 묵은 MLB 기록깨나...'48홈런 페이스' 슈와버, '전설' 베이브 루스까지 '-9개'",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 182599,
-      "rank": 9,
-      "channel": "초구딱"
-    },
-    {
-      "title": "이강인 떠나자마자 살벌하다…엔리케 감독 \"PSG에 꿔다 놓은 철밥통 주전 절대 없다\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 179296,
-      "rank": 10,
-      "channel": "초구딱"
-    },
-    {
-      "title": "김도영은 죄가 없다…40홈런 쳐도 곤란? 난감해진 최연소에 “타당한 기준 세울 것”",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 158438,
-      "rank": 11,
-      "channel": "초구딱"
-    },
-    {
-      "title": "'놀랍다' KIA 이 무슨 운명의 장난이 다 있나, KBO 최초 역사 사나이 '무려 4출루' 또 맹활약!→이러면 AG 때 KIA만 더욱 강해지나",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 150877,
-      "rank": 12,
-      "channel": "초구딱"
-    },
-    {
-      "title": "8회 11점 차 'KBO 불문율 지키려다 대참사 나겠네' 김태형-이범호 감독이 직접 말한 그 순간 '수건까지 던졌는데...'",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 137544,
-      "rank": 13,
-      "channel": "초구딱"
-    },
-    {
-      "title": "한국 축구 임시 감독 '최종 후보 순번' 정해졌다... 1순위와 협상 중, 결렬 땐 2순위로",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 117591,
-      "rank": 14,
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"이래서 도박 안 한다니까\" 이정후 빠진 날, 차마 눈뜨고 보기 힘든 대참사…충격에 모자 거꾸로 쓴 감독 '2208승 무패' 깨졌다",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 105940,
-      "rank": 16,
-      "channel": "초구딱"
-    },
-    {
-      "title": "'45타수 1안타' 충격 부진 김하성, 감독은 대체 뭘 보고 믿었나…\"야구장 갈 때마다 타격 케이지에 있더라\", \"매일 수없이 스윙\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 98504,
-      "rank": 17,
-      "channel": "초구딱"
-    },
-    {
-      "title": "'이럴 수가' 한화 안 그래도 힘든데, 이런 날벼락 떨어지다니!…채은성, 배팅 훈련 중 옆구리 불편감→27일 선발 제외 \"MRI 찍어봐야\" (인천 현장)",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 95201,
-      "rank": 19,
-      "channel": "초구딱"
-    },
-    {
-      "title": "“한국 그리워요!” 와이스 아내 바람 이뤄지나…대전 예수 0이닝 4실점 참사→ERA 6.59↑, 진짜 한화로 돌아오는 건가",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 90877,
-      "rank": 20,
-      "channel": "초구딱"
-    },
-    {
-      "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 1,
-      "channel": "초구딱"
-    },
-    {
-      "title": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 2,
-      "channel": "초구딱"
-    },
-    {
-      "title": "🔔[업데이트] 외부 링크 미리보기(Embed/OG 태그) 기능 추가 안내🔔",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202607070000002111",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
+      "views": 30703,
       "rank": 3,
       "channel": "초구딱"
     },
     {
-      "title": "🛠️[업데이트] 해외 접속 장애 조치 관련 안내_260814🛠️",
-      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202608130000002151",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
+      "title": "“출전하지 못할 것” 시메오네 감독 공식발표…이강인과 호흡 맞추는 모습 또 못 본다, ‘3일 연속 훈련 불참’ 알바레즈 결장 확정",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 28832,
       "rank": 4,
       "channel": "초구딱"
     },
     {
-      "title": "안원잘부 피디니무가 확실히 능력치가 높네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315230&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 36,
-      "rank": 5,
-      "channel": "초구딱"
-    },
-    {
-      "title": "작년 후반기에 박건우가 한화소속이였다면 한화가 우승했을까요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315224&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 30,
-      "rank": 6,
-      "channel": "초구딱"
-    },
-    {
-      "title": "스쿠발 오늘 디트 원정이네요 ㅎㅎ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315212&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 57,
-      "rank": 7,
-      "channel": "초구딱"
-    },
-    {
-      "title": "너무 이쁜거보다 이런스타일이 더좋지안나요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315206&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 171,
+      "title": "1월 회식에서 대체 무슨 일이…코치 ‘부적절 행위’→감독 업무 배제→고희진 결국 자진 사퇴",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 16881,
       "rank": 8,
       "channel": "초구딱"
     },
     {
-      "title": "나이도 거래되면 엄청 사고 팔까요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315200&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 134,
+      "title": "‘키움 방출' 푸이그, 캐나다 리그 폭격! 43경기 만에 역대 최다 홈런 신기록",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 14998,
       "rank": 9,
       "channel": "초구딱"
     },
     {
-      "title": "정관장 11연패 다 이유가 있었네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315197&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 116,
+      "title": "'ML 67홈런' 최지만 KBO 트라이아웃 참가 확정! \"새로운 도전·성공 기대\" 장원진 감독도 응원",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 11178,
       "rank": 10,
       "channel": "초구딱"
     },
     {
-      "title": "혐주의)교차로 사고 장면",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315194&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 313,
+      "title": "'왜 욕 먹었나' KIA 158㎞ 역대급 마무리 탄생시켰는데…\"네가 날 잡아놨다고\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 10898,
       "rank": 11,
       "channel": "초구딱"
     },
     {
-      "title": "기교없는 신라면 레드",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315191&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 128,
-      "rank": 12,
-      "channel": "초구딱"
-    },
-    {
-      "title": "‘Woke1(깨시민)’에게 묻습니다…그때는 왜 그렇게 확신했나요 [특파원 리포트]",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315179&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 88,
+      "title": "'충격' 고우석 결국 또 퇴출 날벼락 '양도 지명(DFA)' 처리, LG 복귀도 거절했는데 어떻게 되나",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 8993,
       "rank": 13,
       "channel": "초구딱"
     },
     {
-      "title": "카드 유효기간 지났는데",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315176&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 265,
-      "rank": 14,
-      "channel": "초구딱"
-    },
-    {
-      "title": "김지원은 왜 영화를 안 찍을까요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315170&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 360,
-      "rank": 15,
-      "channel": "초구딱"
-    },
-    {
-      "title": "오늘의 조리원",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315167&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 169,
-      "rank": 16,
-      "channel": "초구딱"
-    },
-    {
-      "title": "배우 임현식 근황.jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315164&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=kakao.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 1775,
-      "rank": 17,
-      "channel": "초구딱"
-    },
-    {
-      "title": "리센느...안원잘부 원이 슈퍼스타편 하루만에 조회수 600만 가능할듯....",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315161&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 468,
-      "rank": 18,
-      "channel": "초구딱"
-    },
-    {
-      "title": "20km 달리기",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315158&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 105,
+      "title": "'코치 성추행 파문 책임' 고희진 정관장 감독 자진사퇴...4년 만에 '불명예 퇴진'",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 7832,
       "rank": 19,
-      "channel": "초구딱"
-    },
-    {
-      "title": "토욜 아침 세탁기 쌉매너타임 언젤까요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315155&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 282,
-      "rank": 20,
-      "channel": "초구딱"
-    },
-    {
-      "title": "[소녀시대]소녀시대 태연 겨울왕국2 ost into the unknown",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315152&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 79,
-      "rank": 21,
-      "channel": "초구딱"
-    },
-    {
-      "title": "[아이즈원] 김민주",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315149&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 117,
-      "rank": 22,
-      "channel": "초구딱"
-    },
-    {
-      "title": "‌[스팀] 중국에서 전두환 비주얼 노블 게임 출시 예정.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315137&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 402,
-      "rank": 23,
-      "channel": "초구딱"
-    },
-    {
-      "title": "캐롤라인 레빗 백악관 대변인 근황",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315134&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 564,
-      "rank": 24,
-      "channel": "초구딱"
-    },
-    {
-      "title": "러닝하고부터 피부가 좋아졌네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315131&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 639,
-      "rank": 25,
-      "channel": "초구딱"
-    },
-    {
-      "title": "한문철TV 또전드",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315128&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 631,
-      "rank": 26,
-      "channel": "초구딱"
-    },
-    {
-      "title": "소수자 혐오 막겠다더니, 14개 교육청이 \"'성소수자' 빼 달라\".jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315125&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=facebook.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 426,
-      "rank": 27,
-      "channel": "초구딱"
-    },
-    {
-      "title": "토요일 아침 10k 달리기",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315122&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 117,
-      "rank": 28,
-      "channel": "초구딱"
-    },
-    {
-      "title": "현기차가 가격을 참 기가막히게 설정하긴 해요 ㅋㅋㅋㅋ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315119&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 768,
-      "rank": 29,
-      "channel": "초구딱"
-    },
-    {
-      "title": "30대 중반이 받을만한 피부과 시술 뭐가 있을까요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315116&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 256,
-      "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 36,
+      "article_count": 41,
       "topics": [
         {
-          "title": "\"장애인이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
           "angle_type": "가족·혈연",
-          "article_count": 6,
-          "source_article": "\"박수홍 댓글 차단\"…딸 사진에 악플 폭주 \"유난 떨며 키우더니 결국\"",
-          "source_url": "https://m.entertain.naver.com/article/117/0004098903",
+          "article_count": 4,
+          "source_article": "결혼 7년만에 낳은 아들인데..강재준 \"현조, 제발 엄마 닮길\" 무슨 일?",
+          "source_url": "https://m.entertain.naver.com/article/076/0004440220",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "장애인",
-            "황신혜",
-            "박위",
-            "마음",
-            "편치"
+            "결혼",
+            "년만에",
+            "낳은",
+            "아들인",
+            "강재준"
           ],
           "template": "동갑내기",
-          "score": 6.8,
+          "score": 6.9,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -447,112 +132,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"장애인까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 4,
-          "source_article": "'성형 논란' 우서윤, 가혹한 왕관의 무게..'탈락' 전수완은 웃었다",
-          "source_url": "https://m.entertain.naver.com/article/109/0005596062",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "장애인",
-            "황신혜",
-            "박위",
-            "마음",
-            "편치"
-          ],
-          "template": "논란 집합",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"박위, 대체 무슨 일이?\" 박위 관련 이슈 총정리",
-          "angle_type": "👤 박위",
-          "article_count": 6,
-          "source_article": "박위, 끝내 스스로 결단 내렸다…오늘(27일) 서울시 홍보대사 자진 사임",
-          "source_url": "https://m.entertain.naver.com/article/213/0001399267",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "박위"
-          ],
-          "template": "논란 집합",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"우서윤, 대체 무슨 일이?\" 우서윤 관련 이슈 총정리",
-          "angle_type": "👤 우서윤",
-          "article_count": 3,
-          "source_article": "'성형 논란' 우서윤, 가혹한 왕관의 무게..'탈락' 전수완은 웃었다",
-          "source_url": "https://m.entertain.naver.com/article/109/0005596062",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "우서윤"
-          ],
-          "template": "논란 집합",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"박정수 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
           "angle_type": "결혼·이혼",
-          "article_count": 4,
-          "source_article": "박정수, '수영과 결별' 정경호 결혼 언급에 발끈…\"어딜 감히?\" 신발까지 벗었다",
-          "source_url": "https://m.entertain.naver.com/article/445/0000456065",
+          "article_count": 5,
+          "source_article": "암투병 중 넷째 임신 아니었다…'박주호♥' 안나 \"완전관해 3년 넘어\"",
+          "source_url": "https://m.entertain.naver.com/article/477/0000625478",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "박정수",
-            "수영과",
-            "정경호",
             "결혼",
-            "어딜"
+            "암투병",
+            "넷째",
+            "임신",
+            "아니었"
           ],
           "template": "결혼 화제",
-          "score": 6.3,
+          "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -571,18 +165,84 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 2,
-          "source_article": "'주사이모' 논란 후…샤이니 키, 간호과장 출신 모친 근황 전했다",
-          "source_url": "https://m.entertain.naver.com/article/311/0002050505",
+          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+          "angle_type": "투병·건강",
+          "article_count": 6,
+          "source_article": "암투병 중 넷째 임신 아니었다…'박주호♥' 안나 \"완전관해 3년 넘어\"",
+          "source_url": "https://m.entertain.naver.com/article/477/0000625478",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "근황",
+            "수술",
+            "암투병",
+            "넷째",
+            "임신",
+            "아니었"
+          ],
+          "template": "투병 극복",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "투병 질환",
+              "공백기",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 2,
+          "source_article": "‘주사이모 논란’ 샤이니 키, 셀프 나혼산? KTX 타고 본가行…간호과장 출신 母도 등장",
+          "source_url": "https://m.entertain.naver.com/article/112/0003805845",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
             "주사이",
             "샤이니",
-            "간호과",
-            "출신"
+            "셀프",
+            "나혼산",
+            "타고"
+          ],
+          "template": "논란 집합",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 4,
+          "source_article": "\"침실은 6개, 욕실은 7개, 차량은 무려 8대\" 한국 압도한 日 최고 스타 '호화 생활' 근황 공개",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "근황",
+            "품에",
+            "박수홍",
+            "이용식",
+            "논란의"
           ],
           "template": "장기 공백 복귀",
           "score": 6.3,
@@ -606,19 +266,19 @@
         {
           "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 2,
-          "source_article": "'8번 이혼' 유퉁, 구안와사 후 몽골行→한국 떠난 딸 만났다..\"얼굴 많이 돌아왔으니 걱정마\"",
-          "source_url": "https://m.entertain.naver.com/article/076/0004440114",
-          "source_name": "엔터 많이 본 뉴스",
+          "article_count": 4,
+          "source_article": "\"한국 선수 정말 미인, 여배우 같은데…득점은 8점\" 日 열도 또 반했지만 '경기력 혹평'→이다현, 韓 여자배구 8강 탈락에도 집중 조명",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "이혼",
-            "유퉁",
-            "구안와",
-            "몽골",
-            "떠난"
+            "선수",
+            "정말",
+            "미인",
+            "여배우",
+            "같은데"
           ],
           "template": "스포츠 기록",
-          "score": 6.1,
+          "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -637,20 +297,45 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-          "angle_type": "투병·건강",
+          "title": "\"개월 결혼설?\" 개월 연애사 총정리",
+          "angle_type": "👤 개월",
           "article_count": 3,
-          "source_article": "'비정상회담 네팔 대표' 수잔 샤키야, 사망·실종자 속출한 대홍수에 호소...\"기도해 달라\"",
-          "source_url": "https://m.entertain.naver.com/article/117/0004098829",
+          "source_article": "지연, 쿨하게 가짜 코 인정..“‘환연4’ 출연 때 이미 수술 4개월 차”(‘지연이라면’)",
+          "source_url": "https://m.entertain.naver.com/article/112/0003805856",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "비정상",
-            "회담",
-            "네팔",
-            "대표",
-            "수잔"
+            "개월"
           ],
-          "template": "투병 극복",
+          "template": "결혼 화제",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"박위, 대체 무슨 일이?\" 박위 관련 이슈 총정리",
+          "angle_type": "👤 박위",
+          "article_count": 3,
+          "source_article": "“양보한 할머니 박제” 박위, KTX→버스→지하철 영상 썸네일도 ‘시끌’",
+          "source_url": "https://m.entertain.naver.com/article/609/0001162058",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "박위"
+          ],
+          "template": "논란 집합",
           "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
@@ -662,9 +347,9 @@
           "table": {
             "headers": [
               "이름",
-              "투병 질환",
-              "공백기",
-              "복귀 작품"
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
@@ -672,47 +357,39 @@
       ],
       "keyword_freq": [
         [
-          "박위",
-          6
+          "근황",
+          4
         ],
         [
-          "우서윤",
+          "박위",
           3
         ],
         [
-          "박정수",
+          "개월",
+          3
+        ],
+        [
+          "아니었다",
           2
         ],
         [
-          "정경호",
+          "수술",
           2
         ],
         [
-          "어딜",
+          "댓글",
+          2
+        ],
+        [
+          "출신",
+          2
+        ],
+        [
+          "그만",
           2
         ],
         [
           "결혼",
-          2
-        ],
-        [
-          "감히",
-          2
-        ],
-        [
-          "수영과",
-          2
-        ],
-        [
-          "열애",
-          2
-        ],
-        [
-          "얼굴",
-          2
-        ],
-        [
-          "많이",
           2
         ],
         [
@@ -720,81 +397,15 @@
           2
         ],
         [
-          "근황",
+          "기안",
           2
         ],
         [
-          "편치",
+          "타망",
           2
         ],
         [
-          "황신혜",
-          2
-        ],
-        [
-          "장애인",
-          2
-        ],
-        [
-          "않아",
-          2
-        ],
-        [
-          "마음",
-          2
-        ],
-        [
-          "너무",
-          2
-        ],
-        [
-          "경기",
-          2
-        ]
-      ],
-      "name_freq": [
-        [
-          "박위",
-          6
-        ],
-        [
-          "우서윤",
-          3
-        ],
-        [
-          "결혼",
-          2
-        ],
-        [
-          "박정수",
-          2
-        ],
-        [
-          "어딜",
-          2
-        ],
-        [
-          "정경호",
-          2
-        ],
-        [
-          "감히",
-          2
-        ],
-        [
-          "수영과",
-          2
-        ],
-        [
-          "열애",
-          2
-        ],
-        [
-          "얼굴",
-          2
-        ],
-        [
-          "많이",
+          "라이",
           2
         ],
         [
@@ -802,64 +413,138 @@
           2
         ],
         [
+          "품에",
+          2
+        ],
+        [
+          "김연아",
+          2
+        ],
+        [
+          "사실",
+          2
+        ],
+        [
+          "무려",
+          2
+        ],
+        [
+          "이강인",
+          2
+        ],
+        [
+          "연속",
+          2
+        ]
+      ],
+      "name_freq": [
+        [
+          "근황",
+          4
+        ],
+        [
+          "박위",
+          3
+        ],
+        [
+          "개월",
+          3
+        ],
+        [
+          "아니었",
+          2
+        ],
+        [
+          "수술",
+          2
+        ],
+        [
+          "댓글",
+          2
+        ],
+        [
+          "출신",
+          2
+        ],
+        [
+          "그만",
+          2
+        ],
+        [
+          "결혼",
+          2
+        ],
+        [
           "네팔",
           2
         ],
         [
-          "근황",
+          "타망",
           2
         ],
         [
-          "편치",
+          "라이",
+          2
+        ],
+        [
+          "대홍수",
+          2
+        ],
+        [
+          "기안",
+          2
+        ],
+        [
+          "품에",
           2
         ]
       ],
       "angle_scores": [
         [
           "논란·사건",
-          4
+          2
         ],
         [
           "결혼·이혼",
-          4
+          5
         ],
         [
           "복귀·근황",
-          2
+          4
         ],
         [
           "투병·건강",
-          3
+          6
         ],
         [
           "스포츠",
-          2
+          4
         ],
         [
           "가족·혈연",
-          6
+          4
         ]
       ]
     },
     "초구딱": {
-      "article_count": 44,
+      "article_count": 9,
       "topics": [
         {
           "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 14,
-          "source_article": "FA 1억 계약→전격 트레이드, 통산 최다안타 1위였는데, 이제 3위로 밀려나다…퓨처스에서 2타수 2안타",
+          "article_count": 7,
+          "source_article": "김하성 또 터졌다! 4488억 야마모토 상대 169km 레이저 안타→2G 연속 안타, 드디어 부활하나",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "감독",
-            "트레이",
-            "타수",
             "안타",
-            "이런"
+            "연속",
+            "확정",
+            "코치"
           ],
           "template": "스포츠 기록",
-          "score": 7.3,
+          "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -876,97 +561,27 @@
             ]
           },
           "channel": "초구딱"
-        },
-        {
-          "title": "\"안내\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 안내",
-          "article_count": 3,
-          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "안내"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 2,
-          "source_article": "배우 임현식 근황.jpg",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315164&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=kakao.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "근황",
-            "배우",
-            "임현식",
-            "캐롤라",
-            "레빗"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 5.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
         [
           "감독",
-          5
-        ],
-        [
-          "안내",
           3
         ],
         [
-          "타수",
+          "연속",
           2
         ],
         [
-          "안타",
+          "확정",
           2
         ],
         [
-          "트레이드",
+          "코치",
           2
         ],
         [
-          "이런",
-          2
-        ],
-        [
-          "김태형",
+          "고희진",
           2
         ],
         [
@@ -974,124 +589,92 @@
           2
         ],
         [
-          "대참사",
-          2
-        ],
-        [
-          "업데이트",
-          2
-        ],
-        [
-          "안원잘부",
-          2
-        ],
-        [
-          "사고",
-          2
-        ],
-        [
-          "근황",
-          2
-        ],
-        [
-          "달리기",
-          2
-        ],
-        [
-          "아침",
-          2
-        ],
-        [
-          "이제",
+          "괴력이라니",
           1
         ],
         [
-          "위로",
+          "승부욕",
           1
         ],
         [
-          "전격",
+          "오타니라서",
           1
         ],
         [
-          "위였는데",
+          "하겠는데",
           1
         ],
         [
-          "통산",
+          "오면",
+          1
+        ],
+        [
+          "세에도",
+          1
+        ],
+        [
+          "승도",
+          1
+        ],
+        [
+          "투수",
+          1
+        ],
+        [
+          "탐냈던",
+          1
+        ],
+        [
+          "야신도",
+          1
+        ],
+        [
+          "불탔다",
+          1
+        ],
+        [
+          "레이저",
+          1
+        ],
+        [
+          "터졌다",
+          1
+        ],
+        [
+          "야마모토",
           1
         ]
       ],
       "name_freq": [
         [
           "감독",
-          5
-        ],
-        [
-          "안내",
           3
         ],
         [
-          "타수",
+          "연속",
           2
         ],
         [
-          "트레이",
+          "확정",
           2
         ],
         [
-          "안타",
+          "코치",
           2
         ],
         [
-          "이런",
-          2
-        ],
-        [
-          "김태형",
+          "고희진",
           2
         ],
         [
           "홈런",
           2
-        ],
-        [
-          "대참사",
-          2
-        ],
-        [
-          "업데이",
-          2
-        ],
-        [
-          "안원잘",
-          2
-        ],
-        [
-          "네요",
-          2
-        ],
-        [
-          "사고",
-          2
-        ],
-        [
-          "근황",
-          2
-        ],
-        [
-          "달리기",
-          2
         ]
       ],
       "angle_scores": [
         [
-          "복귀·근황",
-          2
-        ],
-        [
           "스포츠",
-          14
+          7
         ]
       ]
     }
@@ -1100,19 +683,19 @@
     {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 14,
-      "source_article": "FA 1억 계약→전격 트레이드, 통산 최다안타 1위였는데, 이제 3위로 밀려나다…퓨처스에서 2타수 2안타",
+      "article_count": 7,
+      "source_article": "김하성 또 터졌다! 4488억 야마모토 상대 169km 레이저 안타→2G 연속 안타, 드디어 부활하나",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "감독",
-        "트레이",
-        "타수",
         "안타",
-        "이런"
+        "연속",
+        "확정",
+        "코치"
       ],
       "template": "스포츠 기록",
-      "score": 7.3,
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1129,87 +712,25 @@
         ]
       },
       "channel": "초구딱"
-    },
-    {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
-      "article_count": 3,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "안내"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 2,
-      "source_article": "배우 임현식 근황.jpg",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315164&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=kakao.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "근황",
-        "배우",
-        "임현식",
-        "캐롤라",
-        "레빗"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 5.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "초구딱"
     }
   ],
   "all_topics": [
     {
-      "title": "\"장애인이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
       "angle_type": "가족·혈연",
-      "article_count": 6,
-      "source_article": "\"박수홍 댓글 차단\"…딸 사진에 악플 폭주 \"유난 떨며 키우더니 결국\"",
-      "source_url": "https://m.entertain.naver.com/article/117/0004098903",
+      "article_count": 4,
+      "source_article": "결혼 7년만에 낳은 아들인데..강재준 \"현조, 제발 엄마 닮길\" 무슨 일?",
+      "source_url": "https://m.entertain.naver.com/article/076/0004440220",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "장애인",
-        "황신혜",
-        "박위",
-        "마음",
-        "편치"
+        "결혼",
+        "년만에",
+        "낳은",
+        "아들인",
+        "강재준"
       ],
       "template": "동갑내기",
-      "score": 6.8,
+      "score": 6.9,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1228,112 +749,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"장애인까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 4,
-      "source_article": "'성형 논란' 우서윤, 가혹한 왕관의 무게..'탈락' 전수완은 웃었다",
-      "source_url": "https://m.entertain.naver.com/article/109/0005596062",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "장애인",
-        "황신혜",
-        "박위",
-        "마음",
-        "편치"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"박위, 대체 무슨 일이?\" 박위 관련 이슈 총정리",
-      "angle_type": "👤 박위",
-      "article_count": 6,
-      "source_article": "박위, 끝내 스스로 결단 내렸다…오늘(27일) 서울시 홍보대사 자진 사임",
-      "source_url": "https://m.entertain.naver.com/article/213/0001399267",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "박위"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"우서윤, 대체 무슨 일이?\" 우서윤 관련 이슈 총정리",
-      "angle_type": "👤 우서윤",
-      "article_count": 3,
-      "source_article": "'성형 논란' 우서윤, 가혹한 왕관의 무게..'탈락' 전수완은 웃었다",
-      "source_url": "https://m.entertain.naver.com/article/109/0005596062",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "우서윤"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"박정수 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
       "angle_type": "결혼·이혼",
-      "article_count": 4,
-      "source_article": "박정수, '수영과 결별' 정경호 결혼 언급에 발끈…\"어딜 감히?\" 신발까지 벗었다",
-      "source_url": "https://m.entertain.naver.com/article/445/0000456065",
+      "article_count": 5,
+      "source_article": "암투병 중 넷째 임신 아니었다…'박주호♥' 안나 \"완전관해 3년 넘어\"",
+      "source_url": "https://m.entertain.naver.com/article/477/0000625478",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "박정수",
-        "수영과",
-        "정경호",
         "결혼",
-        "어딜"
+        "암투병",
+        "넷째",
+        "임신",
+        "아니었"
       ],
       "template": "결혼 화제",
-      "score": 6.3,
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1352,18 +782,84 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 2,
-      "source_article": "'주사이모' 논란 후…샤이니 키, 간호과장 출신 모친 근황 전했다",
-      "source_url": "https://m.entertain.naver.com/article/311/0002050505",
+      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+      "angle_type": "투병·건강",
+      "article_count": 6,
+      "source_article": "암투병 중 넷째 임신 아니었다…'박주호♥' 안나 \"완전관해 3년 넘어\"",
+      "source_url": "https://m.entertain.naver.com/article/477/0000625478",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "근황",
+        "수술",
+        "암투병",
+        "넷째",
+        "임신",
+        "아니었"
+      ],
+      "template": "투병 극복",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "투병 질환",
+          "공백기",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 2,
+      "source_article": "‘주사이모 논란’ 샤이니 키, 셀프 나혼산? KTX 타고 본가行…간호과장 출신 母도 등장",
+      "source_url": "https://m.entertain.naver.com/article/112/0003805845",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
         "주사이",
         "샤이니",
-        "간호과",
-        "출신"
+        "셀프",
+        "나혼산",
+        "타고"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 4,
+      "source_article": "\"침실은 6개, 욕실은 7개, 차량은 무려 8대\" 한국 압도한 日 최고 스타 '호화 생활' 근황 공개",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "근황",
+        "품에",
+        "박수홍",
+        "이용식",
+        "논란의"
       ],
       "template": "장기 공백 복귀",
       "score": 6.3,
@@ -1387,19 +883,19 @@
     {
       "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 2,
-      "source_article": "'8번 이혼' 유퉁, 구안와사 후 몽골行→한국 떠난 딸 만났다..\"얼굴 많이 돌아왔으니 걱정마\"",
-      "source_url": "https://m.entertain.naver.com/article/076/0004440114",
-      "source_name": "엔터 많이 본 뉴스",
+      "article_count": 4,
+      "source_article": "\"한국 선수 정말 미인, 여배우 같은데…득점은 8점\" 日 열도 또 반했지만 '경기력 혹평'→이다현, 韓 여자배구 8강 탈락에도 집중 조명",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "이혼",
-        "유퉁",
-        "구안와",
-        "몽골",
-        "떠난"
+        "선수",
+        "정말",
+        "미인",
+        "여배우",
+        "같은데"
       ],
       "template": "스포츠 기록",
-      "score": 6.1,
+      "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1418,20 +914,45 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-      "angle_type": "투병·건강",
+      "title": "\"개월 결혼설?\" 개월 연애사 총정리",
+      "angle_type": "👤 개월",
       "article_count": 3,
-      "source_article": "'비정상회담 네팔 대표' 수잔 샤키야, 사망·실종자 속출한 대홍수에 호소...\"기도해 달라\"",
-      "source_url": "https://m.entertain.naver.com/article/117/0004098829",
+      "source_article": "지연, 쿨하게 가짜 코 인정..“‘환연4’ 출연 때 이미 수술 4개월 차”(‘지연이라면’)",
+      "source_url": "https://m.entertain.naver.com/article/112/0003805856",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "비정상",
-        "회담",
-        "네팔",
-        "대표",
-        "수잔"
+        "개월"
       ],
-      "template": "투병 극복",
+      "template": "결혼 화제",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"박위, 대체 무슨 일이?\" 박위 관련 이슈 총정리",
+      "angle_type": "👤 박위",
+      "article_count": 3,
+      "source_article": "“양보한 할머니 박제” 박위, KTX→버스→지하철 영상 썸네일도 ‘시끌’",
+      "source_url": "https://m.entertain.naver.com/article/609/0001162058",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "박위"
+      ],
+      "template": "논란 집합",
       "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
@@ -1443,9 +964,9 @@
       "table": {
         "headers": [
           "이름",
-          "투병 질환",
-          "공백기",
-          "복귀 작품"
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
@@ -1453,19 +974,19 @@
     {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 14,
-      "source_article": "FA 1억 계약→전격 트레이드, 통산 최다안타 1위였는데, 이제 3위로 밀려나다…퓨처스에서 2타수 2안타",
+      "article_count": 7,
+      "source_article": "김하성 또 터졌다! 4488억 야마모토 상대 169km 레이저 안타→2G 연속 안타, 드디어 부활하나",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "감독",
-        "트레이",
-        "타수",
         "안타",
-        "이런"
+        "연속",
+        "확정",
+        "코치"
       ],
       "template": "스포츠 기록",
-      "score": 7.3,
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1482,113 +1003,43 @@
         ]
       },
       "channel": "초구딱"
-    },
-    {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
-      "article_count": 3,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "안내"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 2,
-      "source_article": "배우 임현식 근황.jpg",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608290118315164&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=kakao.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "근황",
-        "배우",
-        "임현식",
-        "캐롤라",
-        "레빗"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 5.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
     [
-      "박위",
-      6
+      "근황",
+      4
     ],
     [
-      "우서윤",
+      "박위",
       3
     ],
     [
-      "박정수",
+      "개월",
+      3
+    ],
+    [
+      "아니었다",
       2
     ],
     [
-      "정경호",
+      "수술",
       2
     ],
     [
-      "어딜",
+      "댓글",
+      2
+    ],
+    [
+      "출신",
+      2
+    ],
+    [
+      "그만",
       2
     ],
     [
       "결혼",
-      2
-    ],
-    [
-      "감히",
-      2
-    ],
-    [
-      "수영과",
-      2
-    ],
-    [
-      "열애",
-      2
-    ],
-    [
-      "얼굴",
-      2
-    ],
-    [
-      "많이",
       2
     ],
     [
@@ -1596,81 +1047,15 @@
       2
     ],
     [
-      "근황",
+      "기안",
       2
     ],
     [
-      "편치",
+      "타망",
       2
     ],
     [
-      "황신혜",
-      2
-    ],
-    [
-      "장애인",
-      2
-    ],
-    [
-      "않아",
-      2
-    ],
-    [
-      "마음",
-      2
-    ],
-    [
-      "너무",
-      2
-    ],
-    [
-      "경기",
-      2
-    ]
-  ],
-  "name_freq": [
-    [
-      "박위",
-      6
-    ],
-    [
-      "우서윤",
-      3
-    ],
-    [
-      "결혼",
-      2
-    ],
-    [
-      "박정수",
-      2
-    ],
-    [
-      "어딜",
-      2
-    ],
-    [
-      "정경호",
-      2
-    ],
-    [
-      "감히",
-      2
-    ],
-    [
-      "수영과",
-      2
-    ],
-    [
-      "열애",
-      2
-    ],
-    [
-      "얼굴",
-      2
-    ],
-    [
-      "많이",
+      "라이",
       2
     ],
     [
@@ -1678,19 +1063,93 @@
       2
     ],
     [
+      "품에",
+      2
+    ],
+    [
+      "김연아",
+      2
+    ],
+    [
+      "사실",
+      2
+    ],
+    [
+      "무려",
+      2
+    ],
+    [
+      "이강인",
+      2
+    ],
+    [
+      "연속",
+      2
+    ]
+  ],
+  "name_freq": [
+    [
+      "근황",
+      4
+    ],
+    [
+      "박위",
+      3
+    ],
+    [
+      "개월",
+      3
+    ],
+    [
+      "아니었",
+      2
+    ],
+    [
+      "수술",
+      2
+    ],
+    [
+      "댓글",
+      2
+    ],
+    [
+      "출신",
+      2
+    ],
+    [
+      "그만",
+      2
+    ],
+    [
+      "결혼",
+      2
+    ],
+    [
       "네팔",
       2
     ],
     [
-      "근황",
+      "타망",
       2
     ],
     [
-      "편치",
+      "라이",
+      2
+    ],
+    [
+      "대홍수",
+      2
+    ],
+    [
+      "기안",
+      2
+    ],
+    [
+      "품에",
       2
     ]
   ],
-  "total_topics_generated": 11,
-  "valid_topics": 11,
+  "total_topics_generated": 9,
+  "valid_topics": 9,
   "excluded_duplicates": 0
 }
