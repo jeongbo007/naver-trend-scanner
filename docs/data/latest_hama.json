@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-30 17:00:47",
+  "scan_time": "2026-08-30 19:38:10",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -775,14 +775,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"비비\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 비비",
+          "title": "\"김나경\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 김나경",
           "article_count": 3,
           "source_article": "비비, 동생 김나경에 볼 뽀뽀 당했다 “바이럴에 이용당해”(냉부)",
           "source_url": "https://m.entertain.naver.com/article/609/0001162586",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "비비"
+            "김나경"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -804,14 +804,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"김나경\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 김나경",
+          "title": "\"비비\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 비비",
           "article_count": 3,
           "source_article": "비비, 동생 김나경에 볼 뽀뽀 당했다 “바이럴에 이용당해”(냉부)",
           "source_url": "https://m.entertain.naver.com/article/609/0001162586",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "김나경"
+            "비비"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -843,11 +843,11 @@
           3
         ],
         [
-          "만취",
+          "말릴",
           3
         ],
         [
-          "말릴",
+          "만취",
           3
         ],
         [
@@ -875,7 +875,7 @@
           2
         ],
         [
-          "김준호",
+          "눈물",
           2
         ],
         [
@@ -883,15 +883,15 @@
           2
         ],
         [
-          "눈물",
-          2
-        ],
-        [
-          "시청률",
+          "김준호",
           2
         ],
         [
           "포핸즈",
+          2
+        ],
+        [
+          "시청률",
           2
         ],
         [
@@ -925,11 +925,11 @@
           3
         ],
         [
-          "만취",
+          "말릴",
           3
         ],
         [
-          "말릴",
+          "만취",
           3
         ],
         [
@@ -945,11 +945,11 @@
           3
         ],
         [
-          "비비",
+          "김나경",
           3
         ],
         [
-          "김나경",
+          "비비",
           3
         ],
         [
@@ -969,7 +969,7 @@
           2
         ],
         [
-          "김준호",
+          "눈물",
           2
         ],
         [
@@ -1010,7 +1010,7 @@
         {
           "title": "\"롯데, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 5,
+          "article_count": 4,
           "source_article": "KIA, '제2의 김도영' 품을까→김지우? 박근서? 이호민?…\"역대급 1R 난제, 대만 아시아청소년선수권까지 봐야 윤곽\"",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -1022,7 +1022,7 @@
             "박근서"
           ],
           "template": "스포츠 기록",
-          "score": 7.2,
+          "score": 6.7,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -1036,35 +1036,6 @@
               "소속팀",
               "기록 내용",
               "기록 가치"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"맨유\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 맨유",
-          "article_count": 4,
-          "source_article": "오늘 맨유 마이누 좋네요",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608310118354245&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "맨유"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
             ]
           },
           "channel": "초구딱"
@@ -1101,31 +1072,67 @@
       ],
       "keyword_freq": [
         [
-          "맨유",
-          4
-        ],
-        [
           "안내",
           3
+        ],
+        [
+          "축구",
+          2
         ],
         [
           "업데이트",
           2
         ],
         [
-          "해트트릭",
+          "지금",
           2
         ],
         [
-          "브페",
+          "많이",
           2
         ],
         [
-          "핸드볼",
+          "유튜브",
           2
         ],
         [
-          "아시아청소년선수권까지",
+          "설영우",
+          2
+        ],
+        [
+          "아욱국",
+          2
+        ],
+        [
+          "이호민",
+          1
+        ],
+        [
+          "대만",
+          1
+        ],
+        [
+          "봐야",
+          1
+        ],
+        [
+          "난제",
+          1
+        ],
+        [
+          "김지우",
+          1
+        ],
+        [
+          "역대급",
+          1
+        ],
+        [
+          "윤곽",
+          1
+        ],
+        [
+          "품을까",
           1
         ],
         [
@@ -1137,80 +1144,56 @@
           1
         ],
         [
-          "난제",
+          "아시아청소년선수권까지",
           1
         ],
         [
-          "윤곽",
-          1
-        ],
-        [
-          "봐야",
-          1
-        ],
-        [
-          "품을까",
-          1
-        ],
-        [
-          "대만",
-          1
-        ],
-        [
-          "역대급",
-          1
-        ],
-        [
-          "김지우",
-          1
-        ],
-        [
-          "이호민",
-          1
-        ],
-        [
-          "이러면",
-          1
-        ],
-        [
-          "곽빈",
-          1
-        ],
-        [
-          "두산",
+          "메이저리그밖에",
           1
         ]
       ],
       "name_freq": [
         [
-          "맨유",
-          4
-        ],
-        [
           "안내",
           3
+        ],
+        [
+          "축구",
+          2
         ],
         [
           "업데이",
           2
         ],
         [
-          "브페",
+          "지금",
           2
         ],
         [
-          "해트트",
+          "많이",
           2
         ],
         [
-          "핸드볼",
+          "보면",
+          2
+        ],
+        [
+          "유튜브",
+          2
+        ],
+        [
+          "아욱국",
+          2
+        ],
+        [
+          "설영우",
           2
         ]
       ],
       "angle_scores": [
         [
           "스포츠",
-          5
+          4
         ]
       ]
     }
@@ -1560,14 +1543,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"비비\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 비비",
+      "title": "\"김나경\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 김나경",
       "article_count": 3,
       "source_article": "비비, 동생 김나경에 볼 뽀뽀 당했다 “바이럴에 이용당해”(냉부)",
       "source_url": "https://m.entertain.naver.com/article/609/0001162586",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "비비"
+        "김나경"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1589,14 +1572,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"김나경\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 김나경",
+      "title": "\"비비\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 비비",
       "article_count": 3,
       "source_article": "비비, 동생 김나경에 볼 뽀뽀 당했다 “바이럴에 이용당해”(냉부)",
       "source_url": "https://m.entertain.naver.com/article/609/0001162586",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "김나경"
+        "비비"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1963,35 +1946,6 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"비비\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 비비",
-      "article_count": 3,
-      "source_article": "비비, 동생 김나경에 볼 뽀뽀 당했다 “바이럴에 이용당해”(냉부)",
-      "source_url": "https://m.entertain.naver.com/article/609/0001162586",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "비비"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"김나경\" 관련 화제 스타 TOP10",
       "angle_type": "👤 김나경",
       "article_count": 3,
@@ -2021,47 +1975,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"롯데, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 5,
-      "source_article": "KIA, '제2의 김도영' 품을까→김지우? 박근서? 이호민?…\"역대급 1R 난제, 대만 아시아청소년선수권까지 봐야 윤곽\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "title": "\"비비\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 비비",
+      "article_count": 3,
+      "source_article": "비비, 동생 김나경에 볼 뽀뽀 당했다 “바이럴에 이용당해”(냉부)",
+      "source_url": "https://m.entertain.naver.com/article/609/0001162586",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "롯데",
-        "김도영",
-        "품을까",
-        "김지우",
-        "박근서"
-      ],
-      "template": "스포츠 기록",
-      "score": 7.2,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"맨유\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 맨유",
-      "article_count": 4,
-      "source_article": "오늘 맨유 마이누 좋네요",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202608310118354245&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "맨유"
+        "비비"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -2078,6 +1999,39 @@
           "분류",
           "이슈 내용",
           "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"롯데, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 4,
+      "source_article": "KIA, '제2의 김도영' 품을까→김지우? 박근서? 이호민?…\"역대급 1R 난제, 대만 아시아청소년선수권까지 봐야 윤곽\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "롯데",
+        "김도영",
+        "품을까",
+        "김지우",
+        "박근서"
+      ],
+      "template": "스포츠 기록",
+      "score": 6.7,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
         ]
       },
       "channel": "초구딱"
@@ -2122,11 +2076,11 @@
       3
     ],
     [
-      "만취",
+      "말릴",
       3
     ],
     [
-      "말릴",
+      "만취",
       3
     ],
     [
@@ -2154,7 +2108,7 @@
       2
     ],
     [
-      "김준호",
+      "눈물",
       2
     ],
     [
@@ -2162,15 +2116,15 @@
       2
     ],
     [
-      "눈물",
-      2
-    ],
-    [
-      "시청률",
+      "김준호",
       2
     ],
     [
       "포핸즈",
+      2
+    ],
+    [
+      "시청률",
       2
     ],
     [
@@ -2204,11 +2158,11 @@
       3
     ],
     [
-      "만취",
+      "말릴",
       3
     ],
     [
-      "말릴",
+      "만취",
       3
     ],
     [
@@ -2224,11 +2178,11 @@
       3
     ],
     [
-      "비비",
+      "김나경",
       3
     ],
     [
-      "김나경",
+      "비비",
       3
     ],
     [
@@ -2248,7 +2202,7 @@
       2
     ],
     [
-      "김준호",
+      "눈물",
       2
     ],
     [
@@ -2256,7 +2210,7 @@
       2
     ]
   ],
-  "total_topics_generated": 16,
-  "valid_topics": 16,
+  "total_topics_generated": 15,
+  "valid_topics": 15,
   "excluded_duplicates": 0
 }
