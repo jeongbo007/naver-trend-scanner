@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-09-06 09:09:28",
+  "scan_time": "2026-09-06 12:24:40",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -13,30 +13,66 @@
   "total_articles": 80,
   "articles": [
     {
-      "title": "\"끔찍한 결정\" 1할도 못 치던 김하성 남긴 애틀랜타, 대반전! 한 달 만에 美 평가 뒤집혔다…최근 7G 타율 0.333 맹활약→\"이제 충분히 옹호할 선택\"",
+      "title": "'4안타쇼' 김도영, 끝내 이승엽 넘지 못했다...카스트로 6타점+네일 10승, KIA 사흘연속 KT 울렸다, LG 반게임차 추격",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 10798,
+      "views": 33559,
+      "rank": 3,
+      "channel": "초구딱"
+    },
+    {
+      "title": "LG, 4-0에서 또 뒤집혔다, 4위에 0.5경기 쫓긴다...'후라도 복귀전 호투+구자욱 3안타+디아즈 3타점' 삼성, LG 꺾고 1위 지키다",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 17949,
       "rank": 6,
       "channel": "초구딱"
     },
     {
-      "title": "'KIA와 1.5G 차' LG 갈 길 바쁜데…국대 타자 왜 사라졌나 \"잘 칠만 하니까 아프다고\"",
+      "title": "'LG 날벼락' 문보경이 사라졌다...오지환 유격수-천성호 1루수, 손주영 마무리 대기, 임찬규 100승 도전",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 10207,
-      "rank": 9,
+      "views": 11125,
+      "rank": 11,
       "channel": "초구딱"
     },
     {
-      "title": "“(김)도영이한테 홈런 맞았어야지” 이강철은 차라리 대기록 희생양이 되길 바랐다…도대체 어젯밤에 무슨 일이",
+      "title": "한국 축구 살릴 '임시 감독' 모레노…자국에서는 의아한 모양 \"선임 과정 다 통과했는데 아직도 평가 대상\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 9313,
-      "rank": 13,
+      "views": 11036,
+      "rank": 12,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'1회 4실점→10득점 쾅쾅' 삼성 타선 미쳤다, 후라도 복귀전서 10-4 대승 '2연승'",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 9511,
+      "rank": 16,
+      "channel": "초구딱"
+    },
+    {
+      "title": "“1회 맞은 피안타 5개가 예방 주사가 됐나?” 2달 만의 복귀전 나선 삼성 후라도, 2회부터 6회 2사까지 1피안타 ‘완벽투’",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 9231,
+      "rank": 17,
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"끔찍한 결정\" 1할도 못 치던 김하성 남긴 애틀랜타, 대반전! 한 달 만에 美 평가 뒤집혔다…최근 7G 타율 0.333 맹활약→\"이제 충분히 옹호할 선택\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 8464,
+      "rank": 19,
       "channel": "초구딱"
     },
     {
@@ -85,8 +121,8 @@
       "channel": "초구딱"
     },
     {
-      "title": "시우 제이스 각입니다",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118514166&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "근데 가리온에서 왜 MC메타만 대접받고 나찰은 별로 대접 못 받나요???",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118526775&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
       "views": 0,
@@ -94,242 +130,341 @@
       "channel": "초구딱"
     },
     {
-      "title": "22사단출신인데 근무가 빡세긴합니다",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118514127&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "대한민국 출산율 하락원인 일본여행 바이럴과 일본으로의 인구유출 때문입니다",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118526772&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 14,
+      "views": 0,
       "rank": 7,
       "channel": "초구딱"
     },
     {
-      "title": "리센느 메이저광고 또하나 추가  메리츠증권 광고모델 ㄷㄷㄷ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118514106&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=kakao.com",
+      "title": "아파트월세 1000/45  비싼가요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118526769&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 40,
+      "views": 11,
       "rank": 8,
       "channel": "초구딱"
     },
     {
-      "title": "마지막 한타 나르0딜이네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118514091&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "베토벤 마지막 소나타  극단의 해석 -소콜로프",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118526751&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 41,
+      "views": 0,
       "rank": 9,
       "channel": "초구딱"
     },
     {
-      "title": "프라이버시 코인이 초강세를 보이고 있습니다",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118514067&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "[키스오브라이프] 쥴리",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118526745&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 34,
+      "views": 0,
       "rank": 10,
       "channel": "초구딱"
     },
     {
-      "title": "페이커 vs 임요환 누가 더 Goat 인가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118514061&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "이화여대 인풋 수준이 어느정도 될까요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118526742&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 56,
+      "views": 15,
       "rank": 11,
       "channel": "초구딱"
     },
     {
-      "title": "배드민턴 안세영선수 초등학생시절",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118514052&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "광역시 중학교도 전교생 90%가 줄었네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118526736&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=kakao.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 60,
+      "views": 77,
       "rank": 12,
       "channel": "초구딱"
     },
     {
-      "title": "이 노래 히트곡이다 아니다",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118514022&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "드라마 사랑이 온다가 독특한게",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118526730&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 64,
+      "views": 50,
       "rank": 13,
       "channel": "초구딱"
     },
     {
-      "title": "멤버들 보는 눈에서 꿀떨어지는 안유진 mp4",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118513980&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "일본 올해는 쌀값 폭락이 문제라네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118526727&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 100,
+      "views": 61,
       "rank": 14,
       "channel": "초구딱"
     },
     {
-      "title": "메리츠 증권 새로운 모델로 리센느 발탁",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118513977&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "가끔 이스라엘이 부럽네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118526724&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 147,
+      "views": 46,
       "rank": 15,
       "channel": "초구딱"
     },
     {
-      "title": "비트코인 하시는 분들 보세요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118513938&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "장교출신  형님들  계심?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118526718&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 174,
+      "views": 26,
       "rank": 16,
       "channel": "초구딱"
     },
     {
-      "title": "노브랜드에서도 양장피를 파네요..",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118513932&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "한강에서 오리배 타보니까 오디세이,이순신이 정말 대단하게 느꺄지네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118526715&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 144,
+      "views": 43,
       "rank": 17,
       "channel": "초구딱"
     },
     {
-      "title": "크리스토퍼 놀란감독하고 한국관객들이 상성이 좋네요.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118513890&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "광어 가격이 꽤 올랐네요 이유가 있나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118526712&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 62,
+      "views": 35,
       "rank": 18,
       "channel": "초구딱"
     },
     {
-      "title": "마지막 한타때 티원 미드가 아무것도 못하고 죽었는데",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118513884&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "세일 연봉 의외로 안많네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118526703&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 134,
+      "views": 37,
       "rank": 19,
       "channel": "초구딱"
     },
     {
-      "title": "누가 이기던 한화한테 대떡각인데요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118513869&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "타율 순위 근황. JPG",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118526700&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 112,
+      "views": 264,
       "rank": 20,
       "channel": "초구딱"
     },
     {
-      "title": "단독) 리센느 증권사 진출 ㄷㄷㄷ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118513857&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "2000년에 발매된 노래중에 메가히트급 몇곡인가요??",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118526697&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 452,
+      "views": 28,
       "rank": 21,
       "channel": "초구딱"
     },
     {
-      "title": "천우희하면 생각나는 영화는 뭔가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118513794&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "\"좀 해줘라\" 압박하는 트럼프..'한국 파병' 세계가 예의주시",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118526685&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=facebook.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 159,
+      "views": 137,
       "rank": 22,
       "channel": "초구딱"
     },
     {
-      "title": "일본가서 실망한게 에키벤임",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118513788&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "ACL2 서울-페르십 반둥(인도네시아) 관중",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118526682&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 138,
+      "views": 51,
       "rank": 23,
       "channel": "초구딱"
     },
     {
-      "title": "2026년 부일영화상 사회자 : 2년 연속 김남길 천우희 MC",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118513731&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "잠실돔을 공연 콘서트 가치로 보면..",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118526667&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 67,
+      "views": 36,
       "rank": 24,
       "channel": "초구딱"
     },
     {
-      "title": "대한민국 위인중에서 가장 신비한 인물",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118513713&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "9급공시생에서 장관후보까지 '용혜인 위인전'",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118526658&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 302,
+      "views": 284,
       "rank": 25,
       "channel": "초구딱"
     },
     {
-      "title": "근데 딮기 조합이 더 어려웠던거 같음",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118513701&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "지금 MBC에서 수지 주연 안나 마지막회 해주네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118526655&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 123,
+      "views": 75,
       "rank": 26,
       "channel": "초구딱"
     },
     {
-      "title": "경주기행 망했나요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118513659&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "[르세라핌] 채채즈 What made your night?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118526643&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 178,
+      "views": 34,
       "rank": 27,
       "channel": "초구딱"
     },
     {
-      "title": "정우성은 괜찮게 연기 하는거 같다가도",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118513653&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "스트리트파이터 테마곡 중에 어떤게 제일 좋으신가요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118526640&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 81,
+      "views": 39,
       "rank": 28,
       "channel": "초구딱"
     },
     {
-      "title": "이번판 케리아 아쉬웟죠?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118513602&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "어제 캐니언 오늘 오너 방관템트리 재밌었네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118526631&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 212,
+      "views": 90,
       "rank": 29,
       "channel": "초구딱"
     },
     {
-      "title": "삼성 바로 추격 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118513593&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "펌)전혀 토종새같이 보이지않는 한국새.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609060118526628&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 191,
+      "views": 312,
       "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 47,
+      "article_count": 43,
       "topics": [
         {
-          "title": "\"너무이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-          "angle_type": "가족·혈연",
+          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
           "article_count": 5,
+          "source_article": "충격 근황! '마약 중독' 노숙자로 전락...'박지성 전 동료→K리그 활동' 헤지스, 쓰레기 더미서 생활 \"아무도 내 존재 몰랐으면\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "근황",
+            "지연",
+            "전남편",
+            "황재균",
+            "자존심"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 7.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 3,
+          "source_article": "충격 근황! '마약 중독' 노숙자로 전락...'박지성 전 동료→K리그 활동' 헤지스, 쓰레기 더미서 생활 \"아무도 내 존재 몰랐으면\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "오디세",
+            "개봉",
+            "천만",
+            "돌파",
+            "놀란"
+          ],
+          "template": "스포츠 기록",
+          "score": 7.1,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "angle_type": "결혼·이혼",
+          "article_count": 4,
           "source_article": "친딸이 아니라니...'재혼' 이혜영, 의붓딸과 투샷에 \"너무 예쁜 모녀\" 팬들 감탄",
           "source_url": "https://m.entertain.naver.com/article/076/0004443142",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "너무",
+            "결혼",
+            "친딸이",
+            "아니라",
+            "재혼",
+            "이혜영"
+          ],
+          "template": "결혼 화제",
+          "score": 6.6,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"황정음이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+          "angle_type": "가족·혈연",
+          "article_count": 4,
+          "source_article": "친딸이 아니라니...'재혼' 이혜영, 의붓딸과 투샷에 \"너무 예쁜 모녀\" 팬들 감탄",
+          "source_url": "https://m.entertain.naver.com/article/076/0004443142",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
             "황정음",
-            "한강뷰",
-            "불꽃축",
-            "친딸이"
+            "친딸이",
+            "아니라",
+            "재혼",
+            "이혜영"
           ],
           "template": "동갑내기",
-          "score": 7.1,
+          "score": 6.6,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -348,141 +483,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"이상순, 지금 어디서 뭐 하나?\" 이상순 근황 총정리",
-          "angle_type": "👤 이상순",
-          "article_count": 8,
-          "source_article": "이상순 “설명 없이 쉬어 죄송” 입 열었다‥정밀 검사서 “미주신경 기능 저하 확인”",
-          "source_url": "https://m.entertain.naver.com/article/609/0001165649",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "이상순"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 6.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"라디오, 지금 어디서 뭐 하나?\" 라디오 근황 총정리",
-          "angle_type": "👤 라디오",
-          "article_count": 4,
-          "source_article": "이상순, 계속되는 라디오 부재 '무슨 일?'…♥이효리는 요가원서 평온한 근황 '벌써 1주년'",
-          "source_url": "https://m.entertain.naver.com/article/311/0002053916",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "라디오"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 6.7,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 4,
-          "source_article": "'대통령 축전도 받았었는데…' 42세 최고령 홀드왕, 우측 무릎 변연절제 수술 결정→시즌 아웃 \"내년 캠프 복귀 가능\"",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "이상순",
-            "계속되",
-            "라디오",
-            "부재",
-            "무슨"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 6.6,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-          "angle_type": "투병·건강",
-          "article_count": 6,
-          "source_article": "‘6개월 시한부’ 피터팬 아빠 전경철 작가, 5일 별세…‘유퀴즈’ 출연 24일 만 비보",
-          "source_url": "https://m.entertain.naver.com/article/076/0004443184",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "피터팬",
-            "아빠",
-            "전경철",
-            "작가",
-            "별세"
-          ],
-          "template": "투병 극복",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "투병 질환",
-              "공백기",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"조현까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
           "angle_type": "논란·사건",
-          "article_count": 4,
+          "article_count": 2,
           "source_article": "“거울은 봤을 텐데” 조현 ‘툭튀 원피스’ 논란…온라인 발칵, 본인은 다음날 “ㅋㅋ”",
           "source_url": "https://m.entertain.naver.com/article/468/0001264285",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "조현",
             "거울은",
             "봤을",
             "텐데",
+            "조현",
             "툭튀"
           ],
           "template": "논란 집합",
@@ -505,127 +516,7 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"미주신\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 미주신",
-          "article_count": 7,
-          "source_article": "이상순 “설명 없이 쉬어 죄송” 입 열었다‥정밀 검사서 “미주신경 기능 저하 확인”",
-          "source_url": "https://m.entertain.naver.com/article/609/0001165649",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "미주신"
-          ],
-          "template": "인맥",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"기능\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 기능",
-          "article_count": 6,
-          "source_article": "이상순 “설명 없이 쉬어 죄송” 입 열었다‥정밀 검사서 “미주신경 기능 저하 확인”",
-          "source_url": "https://m.entertain.naver.com/article/609/0001165649",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "기능"
-          ],
-          "template": "인맥",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"안세영, 대체 무슨 일이?\" 안세영 관련 이슈 총정리",
-          "angle_type": "👤 안세영",
-          "article_count": 6,
-          "source_article": "'세계 최강' 안세영 미쳤다, 밥먹듯이 우승한다...중국 마스터스 결승 1세트서 미야자키 21-17 제압",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "안세영"
-          ],
-          "template": "논란 집합",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"우승, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 3,
-          "source_article": "'세계 최강' 안세영 미쳤다, 밥먹듯이 우승한다...중국 마스터스 결승 1세트서 미야자키 21-17 제압",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "우승",
-            "안세영",
-            "미야자",
-            "최강",
-            "미쳤다"
-          ],
-          "template": "스포츠 기록",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"전경철\" 관련 화제 스타 TOP10",
+          "title": "\"전경철 자산이 얼마?\" 전경철급 자산가 스타 TOP10",
           "angle_type": "👤 전경철",
           "article_count": 4,
           "source_article": "‘6개월 시한부’ 피터팬 아빠 전경철 작가, 5일 별세…‘유퀴즈’ 출연 24일 만 비보",
@@ -634,8 +525,8 @@
           "related_names": [
             "전경철"
           ],
-          "template": "인맥",
-          "score": 6.0,
+          "template": "자산 서열",
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -646,44 +537,15 @@
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"별세\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 별세",
-          "article_count": 4,
-          "source_article": "‘6개월 시한부’ 피터팬 아빠 전경철 작가, 5일 별세…‘유퀴즈’ 출연 24일 만 비보",
-          "source_url": "https://m.entertain.naver.com/article/076/0004443184",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "별세"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"작가\" 관련 화제 스타 TOP10",
+          "title": "\"작가 자산이 얼마?\" 작가급 자산가 스타 TOP10",
           "angle_type": "👤 작가",
           "article_count": 4,
           "source_article": "‘6개월 시한부’ 피터팬 아빠 전경철 작가, 5일 별세…‘유퀴즈’ 출연 24일 만 비보",
@@ -692,8 +554,8 @@
           "related_names": [
             "작가"
           ],
-          "template": "인맥",
-          "score": 6.0,
+          "template": "자산 서열",
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -704,140 +566,86 @@
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"아빠\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 아빠",
-          "article_count": 4,
-          "source_article": "‘6개월 시한부’ 피터팬 아빠 전경철 작가, 5일 별세…‘유퀴즈’ 출연 24일 만 비보",
-          "source_url": "https://m.entertain.naver.com/article/076/0004443184",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "아빠"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"피터팬\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 피터팬",
-          "article_count": 4,
-          "source_article": "‘6개월 시한부’ 피터팬 아빠 전경철 작가, 5일 별세…‘유퀴즈’ 출연 24일 만 비보",
-          "source_url": "https://m.entertain.naver.com/article/076/0004443184",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "피터팬"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"저하\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 저하",
-          "article_count": 4,
-          "source_article": "이상순 “설명 없이 쉬어 죄송” 입 열었다‥정밀 검사서 “미주신경 기능 저하 확인”",
-          "source_url": "https://m.entertain.naver.com/article/609/0001165649",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "저하"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"미야자\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 미야자",
-          "article_count": 4,
-          "source_article": "'세계 최강' 안세영 미쳤다, 밥먹듯이 우승한다...중국 마스터스 결승 1세트서 미야자키 21-17 제압",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "미야자"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"유퀴즈\" 관련 화제 스타 TOP10",
+          "title": "\"유퀴즈 자산이 얼마?\" 유퀴즈급 자산가 스타 TOP10",
           "angle_type": "👤 유퀴즈",
-          "article_count": 3,
+          "article_count": 4,
           "source_article": "‘6개월 시한부’ 피터팬 아빠 전경철 작가, 5일 별세…‘유퀴즈’ 출연 24일 만 비보",
           "source_url": "https://m.entertain.naver.com/article/076/0004443184",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "유퀴즈"
           ],
-          "template": "인맥",
+          "template": "자산 서열",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"벌써, 지금 어디서 뭐 하나?\" 벌써 근황 총정리",
+          "angle_type": "👤 벌써",
+          "article_count": 3,
+          "source_article": "“잘자요”가 진짜 마지막이 될 줄은…5시간 방송 이틀 뒤 떠난 대도서관, 벌써 1년",
+          "source_url": "https://m.entertain.naver.com/article/468/0001264277",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "벌써"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 2,
+          "source_article": "또 연예인 집 자랑이네…김준호♥김지민, 26억 신혼집서 불꽃놀이 직관 \"스케일\"",
+          "source_url": "https://m.entertain.naver.com/article/312/0000774853",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "연예인",
+            "자랑이",
+            "김준호",
+            "김지민",
+            "신혼집"
+          ],
+          "template": "자산 서열",
           "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
@@ -849,22 +657,22 @@
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"건강\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 건강",
+          "title": "\"고영욱\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 고영욱",
           "article_count": 3,
-          "source_article": "이상순, 건강 이상 맞았다… \"미주신경 기능 저하\"",
-          "source_url": "https://m.entertain.naver.com/article/117/0004102409",
+          "source_article": "“스쳐도 불쾌” 고영욱, 전자발찌 벗고 문신 드러낸 채 거리 활보…네티즌 ‘공포’",
+          "source_url": "https://m.entertain.naver.com/article/468/0001264330",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "건강"
+            "고영욱"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -886,17 +694,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"중단\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 중단",
-          "article_count": 3,
-          "source_article": "손담비 ‘절친 손절설’ 지우기 나섰나…공효진·정려원 글 잇단 게시 중단",
-          "source_url": "https://m.entertain.naver.com/article/076/0004443124",
+          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+          "angle_type": "투병·건강",
+          "article_count": 2,
+          "source_article": "‘6개월 시한부’ 피터팬 아빠 전경철 작가, 5일 별세…‘유퀴즈’ 출연 24일 만 비보",
+          "source_url": "https://m.entertain.naver.com/article/076/0004443184",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "중단"
+            "피터팬",
+            "아빠",
+            "전경철",
+            "작가",
+            "별세"
           ],
-          "template": "인맥",
-          "score": 6.0,
+          "template": "투병 극복",
+          "score": 5.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -907,9 +719,9 @@
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
+              "투병 질환",
+              "공백기",
+              "복귀 작품"
             ]
           },
           "channel": "정보주는하마"
@@ -917,23 +729,7 @@
       ],
       "keyword_freq": [
         [
-          "이상순",
-          8
-        ],
-        [
-          "미주신경",
-          7
-        ],
-        [
-          "기능",
-          6
-        ],
-        [
           "전경철",
-          4
-        ],
-        [
-          "별세",
           4
         ],
         [
@@ -941,51 +737,51 @@
           4
         ],
         [
-          "아빠",
-          4
-        ],
-        [
-          "피터팬",
-          4
-        ],
-        [
-          "저하",
-          4
-        ],
-        [
-          "라디오",
-          4
-        ],
-        [
-          "안세영",
-          4
-        ],
-        [
           "유퀴즈",
+          4
+        ],
+        [
+          "고영욱",
           3
         ],
         [
-          "너무",
+          "벌써",
           3
         ],
         [
-          "건강",
-          3
-        ],
-        [
-          "중단",
-          3
-        ],
-        [
-          "불참",
-          3
-        ],
-        [
-          "비보",
+          "팬들",
           2
         ],
         [
-          "시한부",
+          "효연",
+          2
+        ],
+        [
+          "전참시",
+          2
+        ],
+        [
+          "피터팬",
+          2
+        ],
+        [
+          "별세",
+          2
+        ],
+        [
+          "아빠",
+          2
+        ],
+        [
+          "진짜",
+          2
+        ],
+        [
+          "시간",
+          2
+        ],
+        [
+          "황정음",
           2
         ],
         [
@@ -993,33 +789,29 @@
           2
         ],
         [
-          "직접",
+          "이상순",
+          2
+        ],
+        [
+          "장영란",
+          2
+        ],
+        [
+          "근황",
+          2
+        ],
+        [
+          "주년",
+          2
+        ],
+        [
+          "결혼",
           2
         ]
       ],
       "name_freq": [
         [
-          "이상순",
-          8
-        ],
-        [
-          "미주신",
-          7
-        ],
-        [
-          "기능",
-          6
-        ],
-        [
-          "안세영",
-          6
-        ],
-        [
           "전경철",
-          4
-        ],
-        [
-          "별세",
           4
         ],
         [
@@ -1027,42 +819,66 @@
           4
         ],
         [
-          "아빠",
+          "유퀴즈",
           4
+        ],
+        [
+          "고영욱",
+          3
+        ],
+        [
+          "벌써",
+          3
+        ],
+        [
+          "팬들",
+          2
+        ],
+        [
+          "전참시",
+          2
+        ],
+        [
+          "효연",
+          2
         ],
         [
           "피터팬",
-          4
+          2
         ],
         [
-          "저하",
-          4
+          "별세",
+          2
         ],
         [
-          "라디오",
-          4
+          "아빠",
+          2
         ],
         [
-          "미야자",
-          4
+          "진짜",
+          2
         ],
         [
-          "유퀴즈",
-          3
+          "시간",
+          2
         ],
         [
-          "아이돌",
-          3
+          "황정음",
+          2
         ],
         [
-          "너무",
-          3
+          "죄송",
+          2
         ]
       ],
       "angle_scores": [
         [
+          "자산·몸값",
+          2
+        ],
+        [
           "논란·사건",
-          4
+          2
         ],
         [
           "결혼·이혼",
@@ -1070,11 +886,11 @@
         ],
         [
           "복귀·근황",
-          4
+          5
         ],
         [
           "투병·건강",
-          6
+          2
         ],
         [
           "스포츠",
@@ -1082,29 +898,29 @@
         ],
         [
           "가족·혈연",
-          5
+          4
         ]
       ]
     },
     "초구딱": {
-      "article_count": 33,
+      "article_count": 37,
       "topics": [
         {
-          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+          "title": "\"타점, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 3,
-          "source_article": "“(김)도영이한테 홈런 맞았어야지” 이강철은 차라리 대기록 희생양이 되길 바랐다…도대체 어젯밤에 무슨 일이",
+          "article_count": 4,
+          "source_article": "'4안타쇼' 김도영, 끝내 이승엽 넘지 못했다...카스트로 6타점+네일 10승, KIA 사흘연속 KT 울렸다, LG 반게임차 추격",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "도영이",
-            "홈런",
-            "맞았어",
-            "야지",
-            "이강철"
+            "타점",
+            "후라도",
+            "복귀전",
+            "피안타",
+            "안타쇼"
           ],
           "template": "스포츠 기록",
-          "score": 6.3,
+          "score": 6.7,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -1118,6 +934,68 @@
               "소속팀",
               "기록 내용",
               "기록 가치"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"후라도, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 4,
+          "source_article": "LG, 4-0에서 또 뒤집혔다, 4위에 0.5경기 쫓긴다...'후라도 복귀전 호투+구자욱 3안타+디아즈 3타점' 삼성, LG 꺾고 1위 지키다",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "후라도",
+            "복귀전",
+            "피안타",
+            "뒤집혔",
+            "위에"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.6,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"복귀전, 지금 어디서 뭐 하나?\" 복귀전 근황 총정리",
+          "angle_type": "👤 복귀전",
+          "article_count": 3,
+          "source_article": "LG, 4-0에서 또 뒤집혔다, 4위에 0.5경기 쫓긴다...'후라도 복귀전 호투+구자욱 3안타+디아즈 3타점' 삼성, LG 꺾고 1위 지키다",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "복귀전"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.6,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
             ]
           },
           "channel": "초구딱"
@@ -1152,14 +1030,14 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"리센느\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 리센느",
+          "title": "\"네요\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 네요",
           "article_count": 3,
-          "source_article": "리센느 메이저광고 또하나 추가  메리츠증권 광고모델 ㄷㄷㄷ",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609060118514106&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=kakao.com",
+          "source_article": "일본 올해는 쌀값 폭락이 문제라네요",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609060118526727&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
           "source_name": "MLB파크 불펜",
           "related_names": [
-            "리센느"
+            "네요"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -1187,11 +1065,23 @@
           4
         ],
         [
-          "리센느",
+          "후라도",
           3
         ],
         [
-          "추가",
+          "타점",
+          2
+        ],
+        [
+          "복귀전",
+          2
+        ],
+        [
+          "뒤집혔다",
+          2
+        ],
+        [
+          "타율",
           2
         ],
         [
@@ -1203,63 +1093,51 @@
           2
         ],
         [
-          "마지막",
-          2
-        ],
-        [
-          "누가",
-          2
-        ],
-        [
-          "김하성",
+          "넘지",
           1
         ],
         [
-          "치던",
+          "네일",
           1
         ],
         [
-          "남긴",
+          "추격",
           1
         ],
         [
-          "뒤집혔다",
+          "김도영",
           1
         ],
         [
-          "끔찍한",
+          "이승엽",
           1
         ],
         [
-          "할도",
+          "반게임차",
           1
         ],
         [
-          "옹호할",
+          "끝내",
           1
         ],
         [
-          "타율",
+          "카스트로",
           1
         ],
         [
-          "대반전",
+          "못했다",
           1
         ],
         [
-          "이제",
+          "안타쇼",
           1
         ],
         [
-          "선택",
+          "울렸다",
           1
         ],
         [
-          "애틀랜타",
-          1
-        ],
-        [
-          "맹활약",
+          "사흘연속",
           1
         ]
       ],
@@ -1269,11 +1147,27 @@
           4
         ],
         [
-          "리센느",
+          "복귀전",
           3
         ],
         [
-          "추가",
+          "후라도",
+          3
+        ],
+        [
+          "네요",
+          3
+        ],
+        [
+          "타점",
+          2
+        ],
+        [
+          "뒤집혔",
+          2
+        ],
+        [
+          "타율",
           2
         ],
         [
@@ -1285,51 +1179,39 @@
           2
         ],
         [
-          "증권",
-          2
-        ],
-        [
-          "메리츠",
-          2
-        ],
-        [
           "마지막",
-          2
-        ],
-        [
-          "누가",
-          2
-        ],
-        [
-          "천우희",
           2
         ]
       ],
       "angle_scores": [
         [
+          "복귀·근황",
+          4
+        ],
+        [
           "스포츠",
-          3
+          4
         ]
       ]
     }
   },
   "topics": [
     {
-      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+      "title": "\"타점, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 3,
-      "source_article": "“(김)도영이한테 홈런 맞았어야지” 이강철은 차라리 대기록 희생양이 되길 바랐다…도대체 어젯밤에 무슨 일이",
+      "article_count": 4,
+      "source_article": "'4안타쇼' 김도영, 끝내 이승엽 넘지 못했다...카스트로 6타점+네일 10승, KIA 사흘연속 KT 울렸다, LG 반게임차 추격",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "도영이",
-        "홈런",
-        "맞았어",
-        "야지",
-        "이강철"
+        "타점",
+        "후라도",
+        "복귀전",
+        "피안타",
+        "안타쇼"
       ],
       "template": "스포츠 기록",
-      "score": 6.3,
+      "score": 6.7,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1343,6 +1225,68 @@
           "소속팀",
           "기록 내용",
           "기록 가치"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"후라도, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 4,
+      "source_article": "LG, 4-0에서 또 뒤집혔다, 4위에 0.5경기 쫓긴다...'후라도 복귀전 호투+구자욱 3안타+디아즈 3타점' 삼성, LG 꺾고 1위 지키다",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "후라도",
+        "복귀전",
+        "피안타",
+        "뒤집혔",
+        "위에"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"복귀전, 지금 어디서 뭐 하나?\" 복귀전 근황 총정리",
+      "angle_type": "👤 복귀전",
+      "article_count": 3,
+      "source_article": "LG, 4-0에서 또 뒤집혔다, 4위에 0.5경기 쫓긴다...'후라도 복귀전 호투+구자욱 3안타+디아즈 3타점' 삼성, LG 꺾고 1위 지키다",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "복귀전"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "초구딱"
@@ -1377,14 +1321,14 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"리센느\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 리센느",
+      "title": "\"네요\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 네요",
       "article_count": 3,
-      "source_article": "리센느 메이저광고 또하나 추가  메리츠증권 광고모델 ㄷㄷㄷ",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609060118514106&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=kakao.com",
+      "source_article": "일본 올해는 쌀값 폭락이 문제라네요",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609060118526727&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "리센느"
+        "네요"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1408,21 +1352,120 @@
   ],
   "all_topics": [
     {
-      "title": "\"너무이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-      "angle_type": "가족·혈연",
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
       "article_count": 5,
+      "source_article": "충격 근황! '마약 중독' 노숙자로 전락...'박지성 전 동료→K리그 활동' 헤지스, 쓰레기 더미서 생활 \"아무도 내 존재 몰랐으면\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "근황",
+        "지연",
+        "전남편",
+        "황재균",
+        "자존심"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 7.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 3,
+      "source_article": "충격 근황! '마약 중독' 노숙자로 전락...'박지성 전 동료→K리그 활동' 헤지스, 쓰레기 더미서 생활 \"아무도 내 존재 몰랐으면\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "오디세",
+        "개봉",
+        "천만",
+        "돌파",
+        "놀란"
+      ],
+      "template": "스포츠 기록",
+      "score": 7.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 4,
       "source_article": "친딸이 아니라니...'재혼' 이혜영, 의붓딸과 투샷에 \"너무 예쁜 모녀\" 팬들 감탄",
       "source_url": "https://m.entertain.naver.com/article/076/0004443142",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "너무",
+        "결혼",
+        "친딸이",
+        "아니라",
+        "재혼",
+        "이혜영"
+      ],
+      "template": "결혼 화제",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"황정음이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 4,
+      "source_article": "친딸이 아니라니...'재혼' 이혜영, 의붓딸과 투샷에 \"너무 예쁜 모녀\" 팬들 감탄",
+      "source_url": "https://m.entertain.naver.com/article/076/0004443142",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
         "황정음",
-        "한강뷰",
-        "불꽃축",
-        "친딸이"
+        "친딸이",
+        "아니라",
+        "재혼",
+        "이혜영"
       ],
       "template": "동갑내기",
-      "score": 7.1,
+      "score": 6.6,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1441,141 +1484,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이상순, 지금 어디서 뭐 하나?\" 이상순 근황 총정리",
-      "angle_type": "👤 이상순",
-      "article_count": 8,
-      "source_article": "이상순 “설명 없이 쉬어 죄송” 입 열었다‥정밀 검사서 “미주신경 기능 저하 확인”",
-      "source_url": "https://m.entertain.naver.com/article/609/0001165649",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "이상순"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 6.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"라디오, 지금 어디서 뭐 하나?\" 라디오 근황 총정리",
-      "angle_type": "👤 라디오",
-      "article_count": 4,
-      "source_article": "이상순, 계속되는 라디오 부재 '무슨 일?'…♥이효리는 요가원서 평온한 근황 '벌써 1주년'",
-      "source_url": "https://m.entertain.naver.com/article/311/0002053916",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "라디오"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 6.7,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 4,
-      "source_article": "'대통령 축전도 받았었는데…' 42세 최고령 홀드왕, 우측 무릎 변연절제 수술 결정→시즌 아웃 \"내년 캠프 복귀 가능\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "이상순",
-        "계속되",
-        "라디오",
-        "부재",
-        "무슨"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 6.6,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-      "angle_type": "투병·건강",
-      "article_count": 6,
-      "source_article": "‘6개월 시한부’ 피터팬 아빠 전경철 작가, 5일 별세…‘유퀴즈’ 출연 24일 만 비보",
-      "source_url": "https://m.entertain.naver.com/article/076/0004443184",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "피터팬",
-        "아빠",
-        "전경철",
-        "작가",
-        "별세"
-      ],
-      "template": "투병 극복",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "투병 질환",
-          "공백기",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"조현까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
       "angle_type": "논란·사건",
-      "article_count": 4,
+      "article_count": 2,
       "source_article": "“거울은 봤을 텐데” 조현 ‘툭튀 원피스’ 논란…온라인 발칵, 본인은 다음날 “ㅋㅋ”",
       "source_url": "https://m.entertain.naver.com/article/468/0001264285",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "조현",
         "거울은",
         "봤을",
         "텐데",
+        "조현",
         "툭튀"
       ],
       "template": "논란 집합",
@@ -1598,127 +1517,7 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"미주신\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 미주신",
-      "article_count": 7,
-      "source_article": "이상순 “설명 없이 쉬어 죄송” 입 열었다‥정밀 검사서 “미주신경 기능 저하 확인”",
-      "source_url": "https://m.entertain.naver.com/article/609/0001165649",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "미주신"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"기능\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 기능",
-      "article_count": 6,
-      "source_article": "이상순 “설명 없이 쉬어 죄송” 입 열었다‥정밀 검사서 “미주신경 기능 저하 확인”",
-      "source_url": "https://m.entertain.naver.com/article/609/0001165649",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "기능"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"안세영, 대체 무슨 일이?\" 안세영 관련 이슈 총정리",
-      "angle_type": "👤 안세영",
-      "article_count": 6,
-      "source_article": "'세계 최강' 안세영 미쳤다, 밥먹듯이 우승한다...중국 마스터스 결승 1세트서 미야자키 21-17 제압",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "안세영"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"우승, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 3,
-      "source_article": "'세계 최강' 안세영 미쳤다, 밥먹듯이 우승한다...중국 마스터스 결승 1세트서 미야자키 21-17 제압",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "우승",
-        "안세영",
-        "미야자",
-        "최강",
-        "미쳤다"
-      ],
-      "template": "스포츠 기록",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"전경철\" 관련 화제 스타 TOP10",
+      "title": "\"전경철 자산이 얼마?\" 전경철급 자산가 스타 TOP10",
       "angle_type": "👤 전경철",
       "article_count": 4,
       "source_article": "‘6개월 시한부’ 피터팬 아빠 전경철 작가, 5일 별세…‘유퀴즈’ 출연 24일 만 비보",
@@ -1727,8 +1526,8 @@
       "related_names": [
         "전경철"
       ],
-      "template": "인맥",
-      "score": 6.0,
+      "template": "자산 서열",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1739,44 +1538,15 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"별세\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 별세",
-      "article_count": 4,
-      "source_article": "‘6개월 시한부’ 피터팬 아빠 전경철 작가, 5일 별세…‘유퀴즈’ 출연 24일 만 비보",
-      "source_url": "https://m.entertain.naver.com/article/076/0004443184",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "별세"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"작가\" 관련 화제 스타 TOP10",
+      "title": "\"작가 자산이 얼마?\" 작가급 자산가 스타 TOP10",
       "angle_type": "👤 작가",
       "article_count": 4,
       "source_article": "‘6개월 시한부’ 피터팬 아빠 전경철 작가, 5일 별세…‘유퀴즈’ 출연 24일 만 비보",
@@ -1785,8 +1555,8 @@
       "related_names": [
         "작가"
       ],
-      "template": "인맥",
-      "score": 6.0,
+      "template": "자산 서열",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1797,140 +1567,86 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"아빠\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 아빠",
-      "article_count": 4,
-      "source_article": "‘6개월 시한부’ 피터팬 아빠 전경철 작가, 5일 별세…‘유퀴즈’ 출연 24일 만 비보",
-      "source_url": "https://m.entertain.naver.com/article/076/0004443184",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "아빠"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"피터팬\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 피터팬",
-      "article_count": 4,
-      "source_article": "‘6개월 시한부’ 피터팬 아빠 전경철 작가, 5일 별세…‘유퀴즈’ 출연 24일 만 비보",
-      "source_url": "https://m.entertain.naver.com/article/076/0004443184",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "피터팬"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"저하\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 저하",
-      "article_count": 4,
-      "source_article": "이상순 “설명 없이 쉬어 죄송” 입 열었다‥정밀 검사서 “미주신경 기능 저하 확인”",
-      "source_url": "https://m.entertain.naver.com/article/609/0001165649",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "저하"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"미야자\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 미야자",
-      "article_count": 4,
-      "source_article": "'세계 최강' 안세영 미쳤다, 밥먹듯이 우승한다...중국 마스터스 결승 1세트서 미야자키 21-17 제압",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "미야자"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"유퀴즈\" 관련 화제 스타 TOP10",
+      "title": "\"유퀴즈 자산이 얼마?\" 유퀴즈급 자산가 스타 TOP10",
       "angle_type": "👤 유퀴즈",
-      "article_count": 3,
+      "article_count": 4,
       "source_article": "‘6개월 시한부’ 피터팬 아빠 전경철 작가, 5일 별세…‘유퀴즈’ 출연 24일 만 비보",
       "source_url": "https://m.entertain.naver.com/article/076/0004443184",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "유퀴즈"
       ],
-      "template": "인맥",
+      "template": "자산 서열",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"벌써, 지금 어디서 뭐 하나?\" 벌써 근황 총정리",
+      "angle_type": "👤 벌써",
+      "article_count": 3,
+      "source_article": "“잘자요”가 진짜 마지막이 될 줄은…5시간 방송 이틀 뒤 떠난 대도서관, 벌써 1년",
+      "source_url": "https://m.entertain.naver.com/article/468/0001264277",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "벌써"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 2,
+      "source_article": "또 연예인 집 자랑이네…김준호♥김지민, 26억 신혼집서 불꽃놀이 직관 \"스케일\"",
+      "source_url": "https://m.entertain.naver.com/article/312/0000774853",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "연예인",
+        "자랑이",
+        "김준호",
+        "김지민",
+        "신혼집"
+      ],
+      "template": "자산 서열",
       "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
@@ -1942,22 +1658,22 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"건강\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 건강",
+      "title": "\"고영욱\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 고영욱",
       "article_count": 3,
-      "source_article": "이상순, 건강 이상 맞았다… \"미주신경 기능 저하\"",
-      "source_url": "https://m.entertain.naver.com/article/117/0004102409",
+      "source_article": "“스쳐도 불쾌” 고영욱, 전자발찌 벗고 문신 드러낸 채 거리 활보…네티즌 ‘공포’",
+      "source_url": "https://m.entertain.naver.com/article/468/0001264330",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "건강"
+        "고영욱"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1979,17 +1695,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"중단\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 중단",
-      "article_count": 3,
-      "source_article": "손담비 ‘절친 손절설’ 지우기 나섰나…공효진·정려원 글 잇단 게시 중단",
-      "source_url": "https://m.entertain.naver.com/article/076/0004443124",
+      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+      "angle_type": "투병·건강",
+      "article_count": 2,
+      "source_article": "‘6개월 시한부’ 피터팬 아빠 전경철 작가, 5일 별세…‘유퀴즈’ 출연 24일 만 비보",
+      "source_url": "https://m.entertain.naver.com/article/076/0004443184",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "중단"
+        "피터팬",
+        "아빠",
+        "전경철",
+        "작가",
+        "별세"
       ],
-      "template": "인맥",
-      "score": 6.0,
+      "template": "투병 극복",
+      "score": 5.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2000,29 +1720,29 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "투병 질환",
+          "공백기",
+          "복귀 작품"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+      "title": "\"타점, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 3,
-      "source_article": "“(김)도영이한테 홈런 맞았어야지” 이강철은 차라리 대기록 희생양이 되길 바랐다…도대체 어젯밤에 무슨 일이",
+      "article_count": 4,
+      "source_article": "'4안타쇼' 김도영, 끝내 이승엽 넘지 못했다...카스트로 6타점+네일 10승, KIA 사흘연속 KT 울렸다, LG 반게임차 추격",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "도영이",
-        "홈런",
-        "맞았어",
-        "야지",
-        "이강철"
+        "타점",
+        "후라도",
+        "복귀전",
+        "피안타",
+        "안타쇼"
       ],
       "template": "스포츠 기록",
-      "score": 6.3,
+      "score": 6.7,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2036,6 +1756,68 @@
           "소속팀",
           "기록 내용",
           "기록 가치"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"후라도, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 4,
+      "source_article": "LG, 4-0에서 또 뒤집혔다, 4위에 0.5경기 쫓긴다...'후라도 복귀전 호투+구자욱 3안타+디아즈 3타점' 삼성, LG 꺾고 1위 지키다",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "후라도",
+        "복귀전",
+        "피안타",
+        "뒤집혔",
+        "위에"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"복귀전, 지금 어디서 뭐 하나?\" 복귀전 근황 총정리",
+      "angle_type": "👤 복귀전",
+      "article_count": 3,
+      "source_article": "LG, 4-0에서 또 뒤집혔다, 4위에 0.5경기 쫓긴다...'후라도 복귀전 호투+구자욱 3안타+디아즈 3타점' 삼성, LG 꺾고 1위 지키다",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "복귀전"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "초구딱"
@@ -2070,14 +1852,14 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"리센느\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 리센느",
+      "title": "\"네요\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 네요",
       "article_count": 3,
-      "source_article": "리센느 메이저광고 또하나 추가  메리츠증권 광고모델 ㄷㄷㄷ",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609060118514106&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=kakao.com",
+      "source_article": "일본 올해는 쌀값 폭락이 문제라네요",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609060118526727&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "리센느"
+        "네요"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -2101,23 +1883,7 @@
   ],
   "keyword_freq": [
     [
-      "이상순",
-      8
-    ],
-    [
-      "미주신경",
-      7
-    ],
-    [
-      "기능",
-      6
-    ],
-    [
       "전경철",
-      4
-    ],
-    [
-      "별세",
       4
     ],
     [
@@ -2125,51 +1891,51 @@
       4
     ],
     [
-      "아빠",
-      4
-    ],
-    [
-      "피터팬",
-      4
-    ],
-    [
-      "저하",
-      4
-    ],
-    [
-      "라디오",
-      4
-    ],
-    [
-      "안세영",
-      4
-    ],
-    [
       "유퀴즈",
+      4
+    ],
+    [
+      "고영욱",
       3
     ],
     [
-      "너무",
+      "벌써",
       3
     ],
     [
-      "건강",
-      3
-    ],
-    [
-      "중단",
-      3
-    ],
-    [
-      "불참",
-      3
-    ],
-    [
-      "비보",
+      "팬들",
       2
     ],
     [
-      "시한부",
+      "효연",
+      2
+    ],
+    [
+      "전참시",
+      2
+    ],
+    [
+      "피터팬",
+      2
+    ],
+    [
+      "별세",
+      2
+    ],
+    [
+      "아빠",
+      2
+    ],
+    [
+      "진짜",
+      2
+    ],
+    [
+      "시간",
+      2
+    ],
+    [
+      "황정음",
       2
     ],
     [
@@ -2177,33 +1943,29 @@
       2
     ],
     [
-      "직접",
+      "이상순",
+      2
+    ],
+    [
+      "장영란",
+      2
+    ],
+    [
+      "근황",
+      2
+    ],
+    [
+      "주년",
+      2
+    ],
+    [
+      "결혼",
       2
     ]
   ],
   "name_freq": [
     [
-      "이상순",
-      8
-    ],
-    [
-      "미주신",
-      7
-    ],
-    [
-      "기능",
-      6
-    ],
-    [
-      "안세영",
-      6
-    ],
-    [
       "전경철",
-      4
-    ],
-    [
-      "별세",
       4
     ],
     [
@@ -2211,39 +1973,59 @@
       4
     ],
     [
-      "아빠",
+      "유퀴즈",
       4
+    ],
+    [
+      "고영욱",
+      3
+    ],
+    [
+      "벌써",
+      3
+    ],
+    [
+      "팬들",
+      2
+    ],
+    [
+      "전참시",
+      2
+    ],
+    [
+      "효연",
+      2
     ],
     [
       "피터팬",
-      4
+      2
     ],
     [
-      "저하",
-      4
+      "별세",
+      2
     ],
     [
-      "라디오",
-      4
+      "아빠",
+      2
     ],
     [
-      "미야자",
-      4
+      "진짜",
+      2
     ],
     [
-      "유퀴즈",
-      3
+      "시간",
+      2
     ],
     [
-      "아이돌",
-      3
+      "황정음",
+      2
     ],
     [
-      "너무",
-      3
+      "죄송",
+      2
     ]
   ],
-  "total_topics_generated": 23,
-  "valid_topics": 23,
+  "total_topics_generated": 17,
+  "valid_topics": 17,
   "excluded_duplicates": 0
 }
