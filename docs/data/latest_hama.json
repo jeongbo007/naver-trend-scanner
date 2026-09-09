@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-09-09 16:55:37",
+  "scan_time": "2026-09-09 19:35:32",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -712,11 +712,11 @@
           3
         ],
         [
-          "바가지",
+          "군인",
           2
         ],
         [
-          "군인",
+          "바가지",
           2
         ],
         [
@@ -736,6 +736,10 @@
           2
         ],
         [
+          "목격담",
+          2
+        ],
+        [
           "바타",
           2
         ],
@@ -744,15 +748,11 @@
           2
         ],
         [
-          "지예은",
-          2
-        ],
-        [
           "나왔다",
           2
         ],
         [
-          "목격담",
+          "지예은",
           2
         ],
         [
@@ -794,11 +794,11 @@
           3
         ],
         [
-          "바가지",
+          "군인",
           2
         ],
         [
-          "군인",
+          "바가지",
           2
         ],
         [
@@ -818,19 +818,19 @@
           2
         ],
         [
+          "배드민",
+          2
+        ],
+        [
+          "목격담",
+          2
+        ],
+        [
           "바타",
           2
         ],
         [
           "데이트",
-          2
-        ],
-        [
-          "배드민",
-          2
-        ],
-        [
-          "지예은",
           2
         ]
       ],
@@ -867,7 +867,7 @@
         {
           "title": "\"안타, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 6,
+          "article_count": 7,
           "source_article": "'이럴수가' 한국 야구 자존심 상할 만하네! 日 사상 최초 'ML 30홈런 트리오' 눈앞, 韓은 이정후가 겨우 9홈런...충격의 한일 격차",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -893,6 +893,35 @@
               "소속팀",
               "기록 내용",
               "기록 가치"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"아이폰\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 아이폰",
+          "article_count": 9,
+          "source_article": "아이폰 발표 나자마자 트위터로 도발하는군요",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609100118598571&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "아이폰"
+          ],
+          "template": "인맥",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
             ]
           },
           "channel": "초구딱"
@@ -927,21 +956,17 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 2,
-          "source_article": "콘서트에 진심인 청라돔 근황 ㄷㄷㄷ.jpg",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609100118598229&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+          "title": "\"듀오\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 듀오",
+          "article_count": 4,
+          "source_article": "주름하나 없는 아이폰 듀오 jpg",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609100118598559&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
           "source_name": "MLB파크 불펜",
           "related_names": [
-            "근황",
-            "콘서트",
-            "진심인",
-            "청라돔",
-            "미국"
+            "듀오"
           ],
-          "template": "장기 공백 복귀",
-          "score": 5.8,
+          "template": "인맥",
+          "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -952,9 +977,9 @@
           "table": {
             "headers": [
               "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
+              "분류",
+              "이슈 내용",
+              "현재 상황"
             ]
           },
           "channel": "초구딱"
@@ -962,7 +987,15 @@
       ],
       "keyword_freq": [
         [
+          "아이폰",
+          9
+        ],
+        [
           "안내",
+          4
+        ],
+        [
+          "듀오",
           4
         ],
         [
@@ -970,11 +1003,19 @@
           2
         ],
         [
-          "이런",
+          "안타",
           2
         ],
         [
-          "안타",
+          "이강인",
+          2
+        ],
+        [
+          "가능성",
+          2
+        ],
+        [
+          "외부",
           2
         ],
         [
@@ -986,65 +1027,57 @@
           2
         ],
         [
-          "전용",
+          "있나요",
           2
         ],
         [
-          "근황",
+          "지금",
           2
         ],
         [
-          "홈런",
-          1
+          "펜싱선수",
+          2
         ],
         [
-          "야구",
-          1
+          "미모",
+          2
+        ],
+        [
+          "아시안",
+          2
+        ],
+        [
+          "게임에",
+          2
+        ],
+        [
+          "남자",
+          2
+        ],
+        [
+          "챔스",
+          2
+        ],
+        [
+          "폴드",
+          2
         ],
         [
           "트리오",
-          1
-        ],
-        [
-          "자존심",
-          1
-        ],
-        [
-          "눈앞",
-          1
-        ],
-        [
-          "겨우",
-          1
-        ],
-        [
-          "이정후가",
-          1
-        ],
-        [
-          "상할",
-          1
-        ],
-        [
-          "만하네",
-          1
-        ],
-        [
-          "격차",
-          1
-        ],
-        [
-          "사상",
-          1
-        ],
-        [
-          "한일",
           1
         ]
       ],
       "name_freq": [
         [
+          "아이폰",
+          9
+        ],
+        [
           "안내",
+          4
+        ],
+        [
+          "듀오",
           4
         ],
         [
@@ -1060,7 +1093,15 @@
           2
         ],
         [
-          "이런",
+          "이강인",
+          2
+        ],
+        [
+          "리버풀",
+          2
+        ],
+        [
+          "가능성",
           2
         ],
         [
@@ -1068,26 +1109,30 @@
           2
         ],
         [
+          "외부",
+          2
+        ],
+        [
           "조치",
           2
         ],
         [
-          "전용",
+          "있나요",
           2
         ],
         [
-          "근황",
+          "지금",
+          2
+        ],
+        [
+          "미모",
           2
         ]
       ],
       "angle_scores": [
         [
-          "복귀·근황",
-          2
-        ],
-        [
           "스포츠",
-          6
+          7
         ]
       ]
     }
@@ -1668,7 +1713,7 @@
     {
       "title": "\"안타, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 6,
+      "article_count": 7,
       "source_article": "'이럴수가' 한국 야구 자존심 상할 만하네! 日 사상 최초 'ML 30홈런 트리오' 눈앞, 韓은 이정후가 겨우 9홈런...충격의 한일 격차",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -1694,6 +1739,35 @@
           "소속팀",
           "기록 내용",
           "기록 가치"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"아이폰\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 아이폰",
+      "article_count": 9,
+      "source_article": "아이폰 발표 나자마자 트위터로 도발하는군요",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609100118598571&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "아이폰"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "초구딱"
@@ -1728,21 +1802,17 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 2,
-      "source_article": "콘서트에 진심인 청라돔 근황 ㄷㄷㄷ.jpg",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609100118598229&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+      "title": "\"듀오\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 듀오",
+      "article_count": 4,
+      "source_article": "주름하나 없는 아이폰 듀오 jpg",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609100118598559&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "근황",
-        "콘서트",
-        "진심인",
-        "청라돔",
-        "미국"
+        "듀오"
       ],
-      "template": "장기 공백 복귀",
-      "score": 5.8,
+      "template": "인맥",
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1753,9 +1823,9 @@
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "초구딱"
@@ -1783,11 +1853,11 @@
       3
     ],
     [
-      "바가지",
+      "군인",
       2
     ],
     [
-      "군인",
+      "바가지",
       2
     ],
     [
@@ -1807,6 +1877,10 @@
       2
     ],
     [
+      "목격담",
+      2
+    ],
+    [
       "바타",
       2
     ],
@@ -1815,15 +1889,11 @@
       2
     ],
     [
-      "지예은",
-      2
-    ],
-    [
       "나왔다",
       2
     ],
     [
-      "목격담",
+      "지예은",
       2
     ],
     [
@@ -1865,11 +1935,11 @@
       3
     ],
     [
-      "바가지",
+      "군인",
       2
     ],
     [
-      "군인",
+      "바가지",
       2
     ],
     [
@@ -1889,23 +1959,23 @@
       2
     ],
     [
+      "배드민",
+      2
+    ],
+    [
+      "목격담",
+      2
+    ],
+    [
       "바타",
       2
     ],
     [
       "데이트",
       2
-    ],
-    [
-      "배드민",
-      2
-    ],
-    [
-      "지예은",
-      2
     ]
   ],
-  "total_topics_generated": 12,
-  "valid_topics": 12,
+  "total_topics_generated": 13,
+  "valid_topics": 13,
   "excluded_duplicates": 0
 }
