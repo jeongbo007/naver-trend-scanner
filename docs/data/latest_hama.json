@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-09-12 15:54:33",
+  "scan_time": "2026-09-12 18:56:24",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -579,14 +579,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"케냐, 대체 무슨 일이?\" 케냐 관련 이슈 총정리",
-          "angle_type": "👤 케냐",
+          "title": "\"봉사활, 대체 무슨 일이?\" 봉사활 관련 이슈 총정리",
+          "angle_type": "👤 봉사활",
           "article_count": 3,
           "source_article": "“봉사 받으러 갔냐”…논란 중심 선 박위, 이번엔 케냐 봉사활동 현장 재조명",
           "source_url": "https://m.entertain.naver.com/article/241/0003530314",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "케냐"
+            "봉사활"
           ],
           "template": "논란 집합",
           "score": 6.5,
@@ -608,14 +608,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"봉사활, 대체 무슨 일이?\" 봉사활 관련 이슈 총정리",
-          "angle_type": "👤 봉사활",
+          "title": "\"케냐, 대체 무슨 일이?\" 케냐 관련 이슈 총정리",
+          "angle_type": "👤 케냐",
           "article_count": 3,
           "source_article": "“봉사 받으러 갔냐”…논란 중심 선 박위, 이번엔 케냐 봉사활동 현장 재조명",
           "source_url": "https://m.entertain.naver.com/article/241/0003530314",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "봉사활"
+            "케냐"
           ],
           "template": "논란 집합",
           "score": 6.5,
@@ -754,10 +754,6 @@
           3
         ],
         [
-          "달라진",
-          2
-        ],
-        [
           "근황",
           2
         ],
@@ -766,15 +762,19 @@
           2
         ],
         [
+          "달라진",
+          2
+        ],
+        [
           "전원주",
           2
         ],
         [
-          "안정환",
+          "뉴욕대",
           2
         ],
         [
-          "뉴욕대",
+          "안정환",
           2
         ],
         [
@@ -828,20 +828,16 @@
           3
         ],
         [
-          "케냐",
+          "봉사활",
           3
         ],
         [
-          "봉사활",
+          "케냐",
           3
         ],
         [
           "스타",
           3
-        ],
-        [
-          "달라진",
-          2
         ],
         [
           "근황",
@@ -852,15 +848,19 @@
           2
         ],
         [
+          "달라진",
+          2
+        ],
+        [
           "전원주",
           2
         ],
         [
-          "안정환",
+          "뉴욕대",
           2
         ],
         [
-          "뉴욕대",
+          "안정환",
           2
         ],
         [
@@ -911,38 +911,9 @@
       "article_count": 36,
       "topics": [
         {
-          "title": "\"가능성 자산이 얼마?\" 가능성급 자산가 스타 TOP10",
-          "angle_type": "👤 가능성",
-          "article_count": 3,
-          "source_article": "\"LA 다저스, 현역 최고 투수 타릭 스쿠발과 10년 6726억 원에 계약할 수 있어\" 美 매체 충격 전망! 현실 가능성은 대단히 낮아",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "가능성"
-          ],
-          "template": "자산 서열",
-          "score": 7.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
           "title": "\"김도영, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 4,
+          "article_count": 3,
           "source_article": "KIA 김도영 대박 희소식! 13일 한화전 출전 가능성 → 벌써 퇴원하고 선수단 합류",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -968,6 +939,64 @@
               "소속팀",
               "기록 내용",
               "기록 가치"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"와우\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 와우",
+          "article_count": 5,
+          "source_article": "와우 오리지날에 언데드성기사 추가 ㅋㅋ",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609130118667322&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "와우"
+          ],
+          "template": "인맥",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"확장팩\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 확장팩",
+          "article_count": 5,
+          "source_article": "브루드워 이후 스타1 두번째 확장팩 나오면 진짜 난리날거같은데",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609130118667307&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "확장팩"
+          ],
+          "template": "인맥",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
             ]
           },
           "channel": "초구딱"
@@ -1000,16 +1029,152 @@
             ]
           },
           "channel": "초구딱"
+        },
+        {
+          "title": "\"클래식\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 클래식",
+          "article_count": 3,
+          "source_article": "와우 클래식 플러스ㄷㄷㄷㄷ",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609130118667316&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "클래식"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"플러스\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 플러스",
+          "article_count": 3,
+          "source_article": "와우 클래식 플러스ㄷㄷㄷㄷ",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609130118667316&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "플러스"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"출시\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 출시",
+          "article_count": 3,
+          "source_article": "와우 클래식 플러스 출시ㄷㄷ",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609130118667313&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "출시"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"이창동\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 이창동",
+          "article_count": 3,
+          "source_article": "이창동 황금사자상은 실패네요",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609130118667301&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "이창동"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
+        [
+          "와우",
+          5
+        ],
+        [
+          "확장팩",
+          4
+        ],
         [
           "안내",
           3
         ],
         [
-          "가능성은",
-          2
+          "클래식",
+          3
+        ],
+        [
+          "플러스",
+          3
+        ],
+        [
+          "출시",
+          3
+        ],
+        [
+          "이창동",
+          3
         ],
         [
           "김도영",
@@ -1032,15 +1197,19 @@
           2
         ],
         [
-          "너무",
+          "워크래프트",
           2
         ],
         [
-          "다저스",
+          "심사위원대상",
+          2
+        ],
+        [
+          "원에",
           1
         ],
         [
-          "매체",
+          "다저스",
           1
         ],
         [
@@ -1048,27 +1217,7 @@
           1
         ],
         [
-          "현실",
-          1
-        ],
-        [
-          "계약할",
-          1
-        ],
-        [
-          "투수",
-          1
-        ],
-        [
-          "대단히",
-          1
-        ],
-        [
           "타릭",
-          1
-        ],
-        [
-          "스쿠발과",
           1
         ],
         [
@@ -1076,22 +1225,42 @@
           1
         ],
         [
-          "낮아",
-          1
-        ],
-        [
-          "원에",
+          "투수",
           1
         ]
       ],
       "name_freq": [
         [
-          "가능성",
-          3
+          "와우",
+          5
+        ],
+        [
+          "확장팩",
+          5
         ],
         [
           "안내",
           3
+        ],
+        [
+          "클래식",
+          3
+        ],
+        [
+          "플러스",
+          3
+        ],
+        [
+          "출시",
+          3
+        ],
+        [
+          "이창동",
+          3
+        ],
+        [
+          "가능성",
+          2
         ],
         [
           "김도영",
@@ -1114,18 +1283,18 @@
           2
         ],
         [
-          "소년만",
+          "프트",
           2
         ],
         [
-          "너무",
+          "워크래",
           2
         ]
       ],
       "angle_scores": [
         [
           "스포츠",
-          4
+          3
         ]
       ]
     }
@@ -1297,14 +1466,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"케냐, 대체 무슨 일이?\" 케냐 관련 이슈 총정리",
-      "angle_type": "👤 케냐",
+      "title": "\"봉사활, 대체 무슨 일이?\" 봉사활 관련 이슈 총정리",
+      "angle_type": "👤 봉사활",
       "article_count": 3,
       "source_article": "“봉사 받으러 갔냐”…논란 중심 선 박위, 이번엔 케냐 봉사활동 현장 재조명",
       "source_url": "https://m.entertain.naver.com/article/241/0003530314",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "케냐"
+        "봉사활"
       ],
       "template": "논란 집합",
       "score": 6.5,
@@ -1326,14 +1495,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"봉사활, 대체 무슨 일이?\" 봉사활 관련 이슈 총정리",
-      "angle_type": "👤 봉사활",
+      "title": "\"케냐, 대체 무슨 일이?\" 케냐 관련 이슈 총정리",
+      "angle_type": "👤 케냐",
       "article_count": 3,
       "source_article": "“봉사 받으러 갔냐”…논란 중심 선 박위, 이번엔 케냐 봉사활동 현장 재조명",
       "source_url": "https://m.entertain.naver.com/article/241/0003530314",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "봉사활"
+        "케냐"
       ],
       "template": "논란 집합",
       "score": 6.5,
@@ -1617,14 +1786,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"케냐, 대체 무슨 일이?\" 케냐 관련 이슈 총정리",
-      "angle_type": "👤 케냐",
+      "title": "\"봉사활, 대체 무슨 일이?\" 봉사활 관련 이슈 총정리",
+      "angle_type": "👤 봉사활",
       "article_count": 3,
       "source_article": "“봉사 받으러 갔냐”…논란 중심 선 박위, 이번엔 케냐 봉사활동 현장 재조명",
       "source_url": "https://m.entertain.naver.com/article/241/0003530314",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "케냐"
+        "봉사활"
       ],
       "template": "논란 집합",
       "score": 6.5,
@@ -1646,14 +1815,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"봉사활, 대체 무슨 일이?\" 봉사활 관련 이슈 총정리",
-      "angle_type": "👤 봉사활",
+      "title": "\"케냐, 대체 무슨 일이?\" 케냐 관련 이슈 총정리",
+      "angle_type": "👤 케냐",
       "article_count": 3,
       "source_article": "“봉사 받으러 갔냐”…논란 중심 선 박위, 이번엔 케냐 봉사활동 현장 재조명",
       "source_url": "https://m.entertain.naver.com/article/241/0003530314",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "봉사활"
+        "케냐"
       ],
       "template": "논란 집합",
       "score": 6.5,
@@ -1770,38 +1939,9 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"가능성 자산이 얼마?\" 가능성급 자산가 스타 TOP10",
-      "angle_type": "👤 가능성",
-      "article_count": 3,
-      "source_article": "\"LA 다저스, 현역 최고 투수 타릭 스쿠발과 10년 6726억 원에 계약할 수 있어\" 美 매체 충격 전망! 현실 가능성은 대단히 낮아",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "가능성"
-      ],
-      "template": "자산 서열",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
       "title": "\"김도영, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 4,
+      "article_count": 3,
       "source_article": "KIA 김도영 대박 희소식! 13일 한화전 출전 가능성 → 벌써 퇴원하고 선수단 합류",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -1832,6 +1972,64 @@
       "channel": "초구딱"
     },
     {
+      "title": "\"와우\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 와우",
+      "article_count": 5,
+      "source_article": "와우 오리지날에 언데드성기사 추가 ㅋㅋ",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609130118667322&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "와우"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"확장팩\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 확장팩",
+      "article_count": 5,
+      "source_article": "브루드워 이후 스타1 두번째 확장팩 나오면 진짜 난리날거같은데",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609130118667307&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "확장팩"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
       "title": "\"안내\" 관련 화제 스타 TOP10",
       "angle_type": "👤 안내",
       "article_count": 3,
@@ -1840,6 +2038,122 @@
       "source_name": "MLB파크 불펜",
       "related_names": [
         "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"클래식\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 클래식",
+      "article_count": 3,
+      "source_article": "와우 클래식 플러스ㄷㄷㄷㄷ",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609130118667316&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "클래식"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"플러스\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 플러스",
+      "article_count": 3,
+      "source_article": "와우 클래식 플러스ㄷㄷㄷㄷ",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609130118667316&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "플러스"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"출시\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 출시",
+      "article_count": 3,
+      "source_article": "와우 클래식 플러스 출시ㄷㄷ",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609130118667313&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "출시"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"이창동\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 이창동",
+      "article_count": 3,
+      "source_article": "이창동 황금사자상은 실패네요",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609130118667301&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "이창동"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1883,10 +2197,6 @@
       3
     ],
     [
-      "달라진",
-      2
-    ],
-    [
       "근황",
       2
     ],
@@ -1895,15 +2205,19 @@
       2
     ],
     [
+      "달라진",
+      2
+    ],
+    [
       "전원주",
       2
     ],
     [
-      "안정환",
+      "뉴욕대",
       2
     ],
     [
-      "뉴욕대",
+      "안정환",
       2
     ],
     [
@@ -1957,20 +2271,16 @@
       3
     ],
     [
-      "케냐",
+      "봉사활",
       3
     ],
     [
-      "봉사활",
+      "케냐",
       3
     ],
     [
       "스타",
       3
-    ],
-    [
-      "달라진",
-      2
     ],
     [
       "근황",
@@ -1981,15 +2291,19 @@
       2
     ],
     [
+      "달라진",
+      2
+    ],
+    [
       "전원주",
       2
     ],
     [
-      "안정환",
+      "뉴욕대",
       2
     ],
     [
-      "뉴욕대",
+      "안정환",
       2
     ],
     [
@@ -2005,7 +2319,7 @@
       2
     ]
   ],
-  "total_topics_generated": 13,
-  "valid_topics": 13,
+  "total_topics_generated": 18,
+  "valid_topics": 18,
   "excluded_duplicates": 0
 }
