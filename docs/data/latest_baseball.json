@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-09-12 05:25:48",
+  "scan_time": "2026-09-12 09:01:42",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -13,39 +13,30 @@
   "total_articles": 80,
   "articles": [
     {
-      "title": "김도영 없는데 카스트로까지 절뚝절뚝…박재현도 곧 나가는데, KIA 타선 AG 기간 위기? 김태군 말이 맞네",
+      "title": "'사구 충격' KIA 카스트로, 큰 부상 피했다…하루 만에 3번 타자·1루수 선발 출전→이범호 감독 \"DH보다 수비 뛰겠다 직접 요청하더라\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 12716,
-      "rank": 2,
-      "channel": "초구딱"
-    },
-    {
-      "title": "'이럴수가' KBO 출신 다저스 좌완, 오타니 IL행 유탄 맞았다→시즌 아웃 확정 \"PS 희망도 사라졌다\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 12576,
+      "views": 13038,
       "rank": 3,
       "channel": "초구딱"
     },
     {
-      "title": "“유일한 의문은 김하성” 애틀랜타 가을야구 로스터 포함 전망…위기에 강하다? 마지막 대반전 기회",
+      "title": "한국 야구 金 전선 초비상… 대만의 ‘한국 킬러’ 마지막 점검서 역투, 미국 타자들도 눌렀다",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 8043,
-      "rank": 7,
+      "views": 7996,
+      "rank": 5,
       "channel": "초구딱"
     },
     {
-      "title": "NC, ML 60승 클레빈저 영입...그런데 \"선발 확정 아니다?\" 무슨 뜻이지?",
+      "title": "\"LA 다저스, 현역 최고 투수 타릭 스쿠발과 10년 6726억 원에 계약할 수 있어\" 美 매체 충격 전망! 현실 가능성은 대단히 낮아",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 7132,
-      "rank": 11,
+      "views": 7419,
+      "rank": 7,
       "channel": "초구딱"
     },
     {
@@ -53,8 +44,80 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 6521,
-      "rank": 12,
+      "views": 6993,
+      "rank": 8,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'죄송합니다, 정말 죄송합니다' 김하성 욕하던 美 팬들이 돌연 사과했다…대체 무슨 일이? \"이제 ATL 전설\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 6931,
+      "rank": 9,
+      "channel": "초구딱"
+    },
+    {
+      "title": "김도영 12일 타격 훈련 정상 소화 했다, 13일 출장 99% 확정...1%를 남겨 놓은 이유는...",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 5633,
+      "rank": 10,
+      "channel": "초구딱"
+    },
+    {
+      "title": "삼성 12년 만에 우승 보인다! '초특급 외인' 페덱 또 막았다...퀄리티스타트, 시즌 5승째",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 4807,
+      "rank": 11,
+      "channel": "초구딱"
+    },
+    {
+      "title": "선두 싸움 중인 삼성, LG 톨허스트에 강했던 ‘타율 1위’가 빠졌다…“훈련하다 등 쪽에 담”",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 4424,
+      "rank": 13,
+      "channel": "초구딱"
+    },
+    {
+      "title": "8G 차→2주 만에 3G까지 쫓겼다…위기의 두산, NC와 '5위 쟁탈전' 5경기 스타트→김원형 감독 \"오늘 꼭 승리해야\" 다짐",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 4153,
+      "rank": 14,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'임대료 0원' 황희찬, 벌써 1도움! 샬케 데뷔 10분 만에 쐐기골 AS…\"타고난 피니셔\" 감독 극찬에 화답",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 4030,
+      "rank": 16,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'드디어 불펜 지원군 왔다' 김강률-이종준, 1군 등록...오지환 유격수-천성호 우익수, LG 라인업 떴다",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 3657,
+      "rank": 19,
+      "channel": "초구딱"
+    },
+    {
+      "title": "獨도 주목했다 \"한국인 스트라이커, 선발 데뷔 180초 만에 골\"…192cm 장신 골게터 '발밑'도 증명→모레노호 명단 발표 D-2 '무력시위'",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 3478,
+      "rank": 20,
       "channel": "초구딱"
     },
     {
@@ -112,8 +175,8 @@
       "channel": "초구딱"
     },
     {
-      "title": "티원 바텀이 생각보다 리드를 못하네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648605&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "호두 20알 vs 크림빵 . 당뇨인에게.  뭐가더 혈당 안좋나요??",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654332&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
       "views": 0,
@@ -121,419 +184,233 @@
       "channel": "초구딱"
     },
     {
-      "title": "로또같은 거액에 당첨된 사람은",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648599&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "헌터x헌터 그린드아일랜드 더빙까지있는거 다봤네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654308&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 0,
+      "views": 11,
       "rank": 8,
       "channel": "초구딱"
     },
     {
-      "title": "실시간 OCN 드립력.jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648596&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "티원은 결국 페이즈 영입이 독이된거죠",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654299&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 39,
+      "views": 32,
       "rank": 9,
       "channel": "초구딱"
     },
     {
-      "title": "한화 티원 ㄱㄱㄱㄱ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648593&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "티원다전제가 강팀상대로힘듬",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654257&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 0,
+      "views": 43,
       "rank": 10,
       "channel": "초구딱"
     },
     {
-      "title": "한국을 빈곤에서 벗어나게 해 준 음식.JPG",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648590&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "오너는 올해 1-2라운드 까지만 해도 리그 최고 정글 소리 들었는데...",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654251&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 57,
+      "views": 61,
       "rank": 11,
       "channel": "초구딱"
     },
     {
-      "title": "사람들과 군복무 이야기를 나눌때 이야기입니다.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648584&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "\"간호사 크록스 나만 보기 싫음?\" 의료진이 크록스 신는 이유",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654230&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 16,
+      "views": 133,
       "rank": 12,
       "channel": "초구딱"
     },
     {
-      "title": "애플 폴더블 점유율 24.8% 돌풍 예상",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648581&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "실미도vs태극기휘날리며",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654227&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 73,
+      "views": 38,
       "rank": 13,
       "channel": "초구딱"
     },
     {
-      "title": "택견 이크에크 이야기.mov",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648578&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "내일 블리즈컨 떡밥 엄청 크던데",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654218&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 13,
+      "views": 64,
       "rank": 14,
       "channel": "초구딱"
     },
     {
-      "title": "햇빛 아래 다현.jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648575&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "젠한전 개꿀잼이겠네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654215&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 74,
+      "views": 27,
       "rank": 15,
       "channel": "초구딱"
     },
     {
-      "title": "바이크 갤러의 흔한 민원응답\n.jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648572&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "이제 월즈 중반까지 초가스한테 쳐맞을거임 티원은",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654209&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 96,
+      "views": 87,
       "rank": 16,
       "channel": "초구딱"
     },
     {
-      "title": "같이 걷는 남친 기 살려준다는 패션",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648569&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "걍 아지르 템부터 게임 건실하게 할 생각 1도 없음.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654176&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 188,
+      "views": 144,
       "rank": 17,
       "channel": "초구딱"
     },
     {
-      "title": "오늘 지상파 중계안하나요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648566&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "롤드컵 패치 안맞으면 올해 티원은 힘들긴 할 듯",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654173&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 28,
+      "views": 77,
       "rank": 18,
       "channel": "초구딱"
     },
     {
-      "title": "썬킴이나 설민석이나 거기서 거기져?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648563&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "페이커 그냥 무색무취에 제발 덜싸길 팬들이 기도하는 수준",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654167&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 32,
+      "views": 21,
       "rank": 19,
       "channel": "초구딱"
     },
     {
-      "title": "장카설급 여자가 전쟁포로가 되면?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648560&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "PSAT ㅈㄴ어렵네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654161&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 87,
+      "views": 57,
       "rank": 20,
       "channel": "초구딱"
     },
     {
-      "title": "전원주 유튜브 돌연 제작 중단됐던 이유ㄷㄷ.jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648557&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "이번 뮤직뱅크 바르셀로나 라인업은 많이 아쉽네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654152&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 243,
+      "views": 77,
       "rank": 21,
       "channel": "초구딱"
     },
     {
-      "title": "같은 남자지만 남자들 이해 안감",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648554&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "POM 제카",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654143&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 48,
+      "views": 43,
       "rank": 22,
       "channel": "초구딱"
     },
     {
-      "title": "한화 티원 1세트 밴픽",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648551&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "제카가 페이커 담당일진이네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654140&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 72,
+      "views": 90,
       "rank": 23,
       "channel": "초구딱"
     },
     {
-      "title": "사람 상대하는 일이 쉬우면서도 어렵네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648539&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "상대입장이소 케리아한테 수동적인 챔프만 주면 되네",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654134&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 43,
+      "views": 25,
       "rank": 24,
       "channel": "초구딱"
     },
     {
-      "title": "한국 상속세가 이중과세 논란 이야기가 나오는 부분",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648536&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+      "title": "진심 롤 고트는 구마 확실한 듯",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654131&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 64,
+      "views": 40,
       "rank": 25,
       "channel": "초구딱"
     },
     {
-      "title": "[아이브] 오늘 가을 인스타.JPG",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648530&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "케리아를 페이즈 셔틀로만 쓰니까",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654116&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 71,
+      "views": 106,
       "rank": 26,
       "channel": "초구딱"
     },
     {
-      "title": "부산 해운대·수영·남구 아파트 최근 매매, 대신맨션·테넌바움294·대연푸르지오클라센트 거래 정리 (9.12 기준)",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648527&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "[튜이드] 음중 '썬 키스' 음방 & 직캠",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654107&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 50,
+      "views": 13,
       "rank": 27,
       "channel": "초구딱"
     },
     {
-      "title": "성매매 합법화되면 마르지않는 세금 아닌가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648524&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "페이커는 진짜 힘 언제 드러내나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654101&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 71,
+      "views": 116,
       "rank": 28,
       "channel": "초구딱"
     },
     {
-      "title": "제 휴대폰 사용 용도에서 아이폰 괜찮을까요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648521&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "그냥 이번 시리즈는 구마유시 때문에 진듯",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654098&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 52,
+      "views": 85,
       "rank": 29,
       "channel": "초구딱"
     },
     {
-      "title": "대다수 국민들은 갈수록 사는게 힘들어졌죠?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648518&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "그렇게 욕하던 구마유시한테 발린 기분이 어떨까",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654095&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 42,
+      "views": 27,
       "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 45,
+      "article_count": 38,
       "topics": [
         {
-          "title": "\"전원주, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 6,
-          "source_article": "전원주, 유튜브 중단 이유 밝혔다…\"출연료 올리겠다 하니 그만두자고\"",
-          "source_url": "https://m.entertain.naver.com/article/421/0009166115",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "전원주",
-            "유튜브",
-            "중단",
-            "출연료",
-            "밝혔다"
-          ],
-          "template": "자산 서열",
-          "score": 7.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"이강인, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 4,
-          "source_article": "“살려주세요” 화장실 물바다 된 AG 선수촌…‘친환경 컨테이너’ 충격 현실→폭우에 400명 대피까지",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "이강인",
-            "살려주",
-            "세요",
-            "화장실",
-            "물바다"
-          ],
-          "template": "스포츠 기록",
-          "score": 7.2,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"이혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-          "angle_type": "결혼·이혼",
-          "article_count": 5,
-          "source_article": "'슈퍼스타K' 신지수, '롱디' 연애 끝에 19일 결혼",
-          "source_url": "https://m.entertain.naver.com/article/117/0004104506",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "이혼",
-            "슈퍼스",
-            "신지수",
-            "롱디",
-            "연애"
-          ],
-          "template": "결혼 화제",
-          "score": 7.1,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"폭발, 지금 어디서 뭐 하나?\" 폭발 근황 총정리",
-          "angle_type": "👤 폭발",
-          "article_count": 5,
-          "source_article": "정형돈, 母 장례식 못 온 황제성에 뒤끝 폭발…\"코로나였는지도 의심\" (오늘부터 황제성)",
-          "source_url": "https://m.entertain.naver.com/article/311/0002056222",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "폭발"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 6.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"황희찬, 지금 어디서 뭐 하나?\" 황희찬 근황 총정리",
-          "angle_type": "👤 황희찬",
-          "article_count": 3,
-          "source_article": "'韓 축구' 초대형 쾌거! 황희찬 데뷔전서 '첫 도움' 작렬, 샬케 우니온에 3-1 완승...정우영 90분 소화→'코리안더비' 성사",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "황희찬"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 6.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"샬케, 지금 어디서 뭐 하나?\" 샬케 근황 총정리",
-          "angle_type": "👤 샬케",
-          "article_count": 3,
-          "source_article": "'韓 축구' 초대형 쾌거! 황희찬 데뷔전서 '첫 도움' 작렬, 샬케 우니온에 3-1 완승...정우영 90분 소화→'코리안더비' 성사",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "샬케"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 6.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+          "title": "\"안정환이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
           "angle_type": "가족·혈연",
-          "article_count": 3,
-          "source_article": "“애들 학교 보내지 마세요”…정형돈, ‘극성’ 학부모 민원에 일침",
-          "source_url": "https://m.entertain.naver.com/article/468/0001265739",
-          "source_name": "엔터 많이 본 뉴스",
+          "article_count": 9,
+          "source_article": "20세 女 러너 하프마라톤 중 '심정지 3번'→끝내 사망…알고 보니 부통령 아들의 애인 \"세 번이나 소생했는데\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "애들",
-            "학교",
-            "보내지",
-            "마세요",
-            "정형돈"
+            "안정환",
+            "뉴욕대",
+            "졸업",
+            "아들",
+            "일차"
           ],
           "template": "동갑내기",
-          "score": 6.6,
+          "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -552,18 +429,51 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"봉사까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "title": "\"축구, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 2,
+          "source_article": "韓 축구 사상 첫 ‘오피셜’ 공식발표, 이강인 발롱도르 수상급 쾌거 해냈다…한국 선수 최초 ‘라리가 이달의 골’ 대기록",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "축구",
+            "이강인",
+            "선수",
+            "사상",
+            "오피셜"
+          ],
+          "template": "스포츠 기록",
+          "score": 6.7,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
           "angle_type": "논란·사건",
-          "article_count": 3,
+          "article_count": 2,
           "source_article": "“봉사 받으러 갔냐”…논란 중심 선 박위, 이번엔 케냐 봉사활동 현장 재조명",
           "source_url": "https://m.entertain.naver.com/article/241/0003530314",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "봉사",
             "받으러",
-            "박위",
-            "케냐",
-            "재조명"
+            "갔냐",
+            "중심",
+            "박위"
           ],
           "template": "논란 집합",
           "score": 6.5,
@@ -585,16 +495,82 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"출연료\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 출연료",
+          "title": "\"자식\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 자식",
           "article_count": 3,
+          "source_article": "\"자식 6명 모두 절연\"…충격의 브래드 피트, 확 늙은 모습 '씁쓸'",
+          "source_url": "https://m.entertain.naver.com/article/117/0004104452",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "자식"
+          ],
+          "template": "인맥",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 3,
+          "source_article": "'백발' 배용준, 달라진 근황 포착…'14세 장타자'와 라운딩",
+          "source_url": "https://m.entertain.naver.com/article/117/0004104564",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "근황",
+            "백발",
+            "배용준",
+            "달라진",
+            "포착"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 2,
           "source_article": "전원주, 유튜브 중단 이유 밝혔다…\"출연료 올리겠다 하니 그만두자고\"",
           "source_url": "https://m.entertain.naver.com/article/421/0009166115",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
+            "전원주",
+            "유튜브",
+            "중단",
+            "밝혔다",
             "출연료"
           ],
-          "template": "인맥",
+          "template": "자산 서열",
           "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
@@ -606,24 +582,24 @@
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"유튜브\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 유튜브",
+          "title": "\"아들, 지금 어디서 뭐 하나?\" 아들 근황 총정리",
+          "angle_type": "👤 아들",
           "article_count": 3,
-          "source_article": "전원주, 유튜브 중단 이유 밝혔다…\"출연료 올리겠다 하니 그만두자고\"",
-          "source_url": "https://m.entertain.naver.com/article/421/0009166115",
+          "source_article": "윤민수 아들 윤후, 美 유학중 돌연 귀국→가수 컴백 “카투사 떨어져 고민”",
+          "source_url": "https://m.entertain.naver.com/article/609/0001168156",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "유튜브"
+            "아들"
           ],
-          "template": "인맥",
+          "template": "장기 공백 복귀",
           "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
@@ -635,96 +611,9 @@
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"중단\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 중단",
-          "article_count": 3,
-          "source_article": "전원주, 유튜브 중단 이유 밝혔다…\"출연료 올리겠다 하니 그만두자고\"",
-          "source_url": "https://m.entertain.naver.com/article/421/0009166115",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "중단"
-          ],
-          "template": "인맥",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"는데 결혼설?\" 는데 연애사 총정리",
-          "angle_type": "👤 는데",
-          "article_count": 3,
-          "source_article": "김대호, 600만원으로 캠핑카 개조했는데…기안84 “세상에서 제일 불쌍한 차” (‘나혼산’)",
-          "source_url": "https://m.entertain.naver.com/article/312/0000775745",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "는데"
-          ],
-          "template": "결혼 화제",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"개월 결혼설?\" 개월 연애사 총정리",
-          "angle_type": "👤 개월",
-          "article_count": 3,
-          "source_article": "한지민, ♥최정훈 결별설엔 침묵하더니…4개월 만에 '생존 신고'",
-          "source_url": "https://m.entertain.naver.com/article/117/0004104509",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "개월"
-          ],
-          "template": "결혼 화제",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
             ]
           },
           "channel": "정보주는하마"
@@ -733,9 +622,9 @@
           "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
           "angle_type": "투병·건강",
           "article_count": 4,
-          "source_article": "\"집 갔더니 의식 없어\" 故전경철 작가, 자택서 별세→먹먹했던 마지막 여정 ('실화탐사대')",
-          "source_url": "https://m.entertain.naver.com/article/076/0004445126",
-          "source_name": "엔터 많이 본 뉴스",
+          "source_article": "20세 女 러너 하프마라톤 중 '심정지 3번'→끝내 사망…알고 보니 부통령 아들의 애인 \"세 번이나 소생했는데\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "갔더니",
             "의식",
@@ -761,43 +650,89 @@
             ]
           },
           "channel": "정보주는하마"
+        },
+        {
+          "title": "\"뉴욕대\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 뉴욕대",
+          "article_count": 4,
+          "source_article": "안정환 뉴욕대 졸업한 딸, 취직했다 \"2일차\"…안정환에 쏟아진 축하 \"자식 농사 잘 돼\" ('놀뭐')",
+          "source_url": "https://m.entertain.naver.com/article/312/0000775798",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "뉴욕대"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"졸업\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 졸업",
+          "article_count": 3,
+          "source_article": "안정환 딸 리원, 뉴욕대 졸업→귀국→취직 “출근 2일 차”",
+          "source_url": "https://m.entertain.naver.com/article/382/0001293594",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "졸업"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
         }
       ],
       "keyword_freq": [
         [
-          "폭발",
-          5
+          "뉴욕대",
+          4
         ],
         [
-          "전원주",
+          "안정환",
+          4
+        ],
+        [
+          "자식",
           3
         ],
         [
-          "출연료",
+          "졸업",
           3
         ],
         [
-          "유튜브",
+          "아들",
           3
         ],
         [
-          "중단",
-          3
-        ],
-        [
-          "개월",
-          3
-        ],
-        [
-          "황희찬",
-          3
-        ],
-        [
-          "샬케",
-          3
-        ],
-        [
-          "밝혔다",
+          "나혼산",
           2
         ],
         [
@@ -805,23 +740,81 @@
           2
         ],
         [
-          "받으러",
+          "일차",
           2
         ],
         [
-          "케냐",
+          "놀뭐",
           2
         ],
         [
-          "봉사",
+          "여정",
           2
         ],
         [
-          "재조명",
+          "마지막",
           2
         ],
         [
-          "김대호",
+          "전경철",
+          2
+        ],
+        [
+          "취직",
+          2
+        ],
+        [
+          "귀국",
+          2
+        ],
+        [
+          "리원",
+          2
+        ],
+        [
+          "출근",
+          2
+        ],
+        [
+          "근황",
+          2
+        ],
+        [
+          "깜짝",
+          2
+        ],
+        [
+          "있었다",
+          2
+        ],
+        [
+          "축구",
+          2
+        ]
+      ],
+      "name_freq": [
+        [
+          "뉴욕대",
+          4
+        ],
+        [
+          "안정환",
+          4
+        ],
+        [
+          "자식",
+          3
+        ],
+        [
+          "졸업",
+          3
+        ],
+        [
+          "아들",
+          3
+        ],
+        [
+          "는데",
           2
         ],
         [
@@ -829,96 +822,50 @@
           2
         ],
         [
-          "카페",
-          2
-        ],
-        [
-          "연애",
-          2
-        ],
-        [
-          "정형돈",
-          2
-        ],
-        [
-          "이혼",
-          2
-        ]
-      ],
-      "name_freq": [
-        [
-          "폭발",
-          5
-        ],
-        [
-          "전원주",
-          3
-        ],
-        [
-          "출연료",
-          3
-        ],
-        [
-          "유튜브",
-          3
-        ],
-        [
-          "중단",
-          3
-        ],
-        [
-          "는데",
-          3
-        ],
-        [
-          "개월",
-          3
-        ],
-        [
-          "이강인",
-          3
-        ],
-        [
-          "황희찬",
-          3
-        ],
-        [
-          "샬케",
-          3
-        ],
-        [
-          "밝혔다",
-          2
-        ],
-        [
           "박위",
           2
         ],
         [
-          "케냐",
+          "일차",
           2
         ],
         [
-          "받으러",
+          "놀뭐",
           2
         ],
         [
-          "봉사",
+          "여정",
+          2
+        ],
+        [
+          "마지막",
+          2
+        ],
+        [
+          "전경철",
+          2
+        ],
+        [
+          "취직",
+          2
+        ],
+        [
+          "귀국",
           2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
-          6
+          2
         ],
         [
           "논란·사건",
-          3
+          2
         ],
         [
-          "결혼·이혼",
-          5
+          "복귀·근황",
+          3
         ],
         [
           "투병·건강",
@@ -926,33 +873,33 @@
         ],
         [
           "스포츠",
-          4
+          2
         ],
         [
           "가족·혈연",
-          3
+          9
         ]
       ]
     },
     "초구딱": {
-      "article_count": 35,
+      "article_count": 42,
       "topics": [
         {
-          "title": "\"확정, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 3,
-          "source_article": "'이럴수가' KBO 출신 다저스 좌완, 오타니 IL행 유탄 맞았다→시즌 아웃 확정 \"PS 희망도 사라졌다\"",
+          "article_count": 6,
+          "source_article": "'사구 충격' KIA 카스트로, 큰 부상 피했다…하루 만에 3번 타자·1루수 선발 출전→이범호 감독 \"DH보다 수비 뛰겠다 직접 요청하더라\"",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "확정",
-            "이럴수",
-            "출신",
-            "다저스",
-            "좌완"
+            "감독",
+            "선발",
+            "출전",
+            "벌써",
+            "스타트"
           ],
           "template": "스포츠 기록",
-          "score": 6.8,
+          "score": 7.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -1000,14 +947,14 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"티원\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 티원",
+          "title": "\"티원은\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 티원은",
           "article_count": 3,
-          "source_article": "티원 바텀이 생각보다 리드를 못하네요",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648605&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_article": "티원은 결국 페이즈 영입이 독이된거죠",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654299&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
           "source_name": "MLB파크 불펜",
           "related_names": [
-            "티원"
+            "티원은"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -1029,16 +976,16 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"이야기, 대체 무슨 일이?\" 이야기 관련 이슈 총정리",
-          "angle_type": "👤 이야기",
+          "title": "\"페이커\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 페이커",
           "article_count": 3,
-          "source_article": "사람들과 군복무 이야기를 나눌때 이야기입니다.",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648584&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_article": "페이커 그냥 무색무취에 제발 덜싸길 팬들이 기도하는 수준",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654167&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
           "source_name": "MLB파크 불펜",
           "related_names": [
-            "이야기"
+            "페이커"
           ],
-          "template": "논란 집합",
+          "template": "인맥",
           "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
@@ -1050,8 +997,8 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
+              "분류",
+              "이슈 내용",
               "현재 상황"
             ]
           },
@@ -1060,19 +1007,47 @@
       ],
       "keyword_freq": [
         [
+          "감독",
+          3
+        ],
+        [
           "안내",
           3
         ],
         [
-          "티원",
+          "티원은",
           3
+        ],
+        [
+          "출전",
+          2
+        ],
+        [
+          "선발",
+          2
         ],
         [
           "김도영",
           2
         ],
         [
-          "확정",
+          "벌써",
+          2
+        ],
+        [
+          "이제",
+          2
+        ],
+        [
+          "욕하던",
+          2
+        ],
+        [
+          "팬들이",
+          2
+        ],
+        [
+          "데뷔",
           2
         ],
         [
@@ -1084,125 +1059,121 @@
           2
         ],
         [
-          "한화",
+          "페이즈",
           2
         ],
         [
-          "맞네",
+          "그냥",
+          2
+        ],
+        [
+          "페이커",
+          2
+        ],
+        [
+          "루수",
           1
         ],
         [
-          "타선",
+          "직접",
           1
         ],
         [
-          "없는데",
+          "카스트로",
           1
         ],
         [
-          "나가는데",
-          1
-        ],
-        [
-          "기간",
-          1
-        ],
-        [
-          "위기",
-          1
-        ],
-        [
-          "말이",
-          1
-        ],
-        [
-          "박재현도",
-          1
-        ],
-        [
-          "절뚝절뚝",
-          1
-        ],
-        [
-          "카스트로까지",
-          1
-        ],
-        [
-          "김태군",
-          1
-        ],
-        [
-          "사라졌다",
-          1
-        ],
-        [
-          "이럴수가",
+          "하루",
           1
         ]
       ],
       "name_freq": [
         [
+          "감독",
+          3
+        ],
+        [
           "안내",
           3
         ],
         [
-          "티원",
+          "티원은",
           3
         ],
         [
-          "이야기",
+          "페이커",
           3
+        ],
+        [
+          "선발",
+          2
+        ],
+        [
+          "출전",
+          2
+        ],
+        [
+          "가능성",
+          2
         ],
         [
           "김도영",
           2
         ],
         [
-          "확정",
+          "벌써",
           2
         ],
         [
-          "조치",
+          "이제",
           2
         ],
         [
-          "이벤트",
+          "욕하던",
           2
         ],
         [
-          "한화",
+          "팬들이",
           2
         ],
         [
-          "되면",
+          "스타트",
+          2
+        ],
+        [
+          "데뷔",
+          2
+        ],
+        [
+          "라인업",
           2
         ]
       ],
       "angle_scores": [
         [
           "스포츠",
-          3
+          6
         ]
       ]
     }
   },
   "topics": [
     {
-      "title": "\"확정, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 3,
-      "source_article": "'이럴수가' KBO 출신 다저스 좌완, 오타니 IL행 유탄 맞았다→시즌 아웃 확정 \"PS 희망도 사라졌다\"",
+      "article_count": 6,
+      "source_article": "'사구 충격' KIA 카스트로, 큰 부상 피했다…하루 만에 3번 타자·1루수 선발 출전→이범호 감독 \"DH보다 수비 뛰겠다 직접 요청하더라\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "확정",
-        "이럴수",
-        "출신",
-        "다저스",
-        "좌완"
+        "감독",
+        "선발",
+        "출전",
+        "벌써",
+        "스타트"
       ],
       "template": "스포츠 기록",
-      "score": 6.8,
+      "score": 7.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1250,14 +1221,14 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"티원\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 티원",
+      "title": "\"티원은\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 티원은",
       "article_count": 3,
-      "source_article": "티원 바텀이 생각보다 리드를 못하네요",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648605&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_article": "티원은 결국 페이즈 영입이 독이된거죠",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654299&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "티원"
+        "티원은"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1279,16 +1250,16 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"이야기, 대체 무슨 일이?\" 이야기 관련 이슈 총정리",
-      "angle_type": "👤 이야기",
+      "title": "\"페이커\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 페이커",
       "article_count": 3,
-      "source_article": "사람들과 군복무 이야기를 나눌때 이야기입니다.",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648584&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_article": "페이커 그냥 무색무취에 제발 덜싸길 팬들이 기도하는 수준",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654167&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "이야기"
+        "페이커"
       ],
-      "template": "논란 집합",
+      "template": "인맥",
       "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
@@ -1300,8 +1271,8 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
+          "분류",
+          "이슈 내용",
           "현재 상황"
         ]
       },
@@ -1310,207 +1281,21 @@
   ],
   "all_topics": [
     {
-      "title": "\"전원주, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 6,
-      "source_article": "전원주, 유튜브 중단 이유 밝혔다…\"출연료 올리겠다 하니 그만두자고\"",
-      "source_url": "https://m.entertain.naver.com/article/421/0009166115",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "전원주",
-        "유튜브",
-        "중단",
-        "출연료",
-        "밝혔다"
-      ],
-      "template": "자산 서열",
-      "score": 7.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이강인, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 4,
-      "source_article": "“살려주세요” 화장실 물바다 된 AG 선수촌…‘친환경 컨테이너’ 충격 현실→폭우에 400명 대피까지",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "이강인",
-        "살려주",
-        "세요",
-        "화장실",
-        "물바다"
-      ],
-      "template": "스포츠 기록",
-      "score": 7.2,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 5,
-      "source_article": "'슈퍼스타K' 신지수, '롱디' 연애 끝에 19일 결혼",
-      "source_url": "https://m.entertain.naver.com/article/117/0004104506",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "이혼",
-        "슈퍼스",
-        "신지수",
-        "롱디",
-        "연애"
-      ],
-      "template": "결혼 화제",
-      "score": 7.1,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"폭발, 지금 어디서 뭐 하나?\" 폭발 근황 총정리",
-      "angle_type": "👤 폭발",
-      "article_count": 5,
-      "source_article": "정형돈, 母 장례식 못 온 황제성에 뒤끝 폭발…\"코로나였는지도 의심\" (오늘부터 황제성)",
-      "source_url": "https://m.entertain.naver.com/article/311/0002056222",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "폭발"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 6.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"황희찬, 지금 어디서 뭐 하나?\" 황희찬 근황 총정리",
-      "angle_type": "👤 황희찬",
-      "article_count": 3,
-      "source_article": "'韓 축구' 초대형 쾌거! 황희찬 데뷔전서 '첫 도움' 작렬, 샬케 우니온에 3-1 완승...정우영 90분 소화→'코리안더비' 성사",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "황희찬"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 6.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"샬케, 지금 어디서 뭐 하나?\" 샬케 근황 총정리",
-      "angle_type": "👤 샬케",
-      "article_count": 3,
-      "source_article": "'韓 축구' 초대형 쾌거! 황희찬 데뷔전서 '첫 도움' 작렬, 샬케 우니온에 3-1 완승...정우영 90분 소화→'코리안더비' 성사",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "샬케"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 6.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+      "title": "\"안정환이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
       "angle_type": "가족·혈연",
-      "article_count": 3,
-      "source_article": "“애들 학교 보내지 마세요”…정형돈, ‘극성’ 학부모 민원에 일침",
-      "source_url": "https://m.entertain.naver.com/article/468/0001265739",
-      "source_name": "엔터 많이 본 뉴스",
+      "article_count": 9,
+      "source_article": "20세 女 러너 하프마라톤 중 '심정지 3번'→끝내 사망…알고 보니 부통령 아들의 애인 \"세 번이나 소생했는데\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "애들",
-        "학교",
-        "보내지",
-        "마세요",
-        "정형돈"
+        "안정환",
+        "뉴욕대",
+        "졸업",
+        "아들",
+        "일차"
       ],
       "template": "동갑내기",
-      "score": 6.6,
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1529,18 +1314,51 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"봉사까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "title": "\"축구, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 2,
+      "source_article": "韓 축구 사상 첫 ‘오피셜’ 공식발표, 이강인 발롱도르 수상급 쾌거 해냈다…한국 선수 최초 ‘라리가 이달의 골’ 대기록",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "축구",
+        "이강인",
+        "선수",
+        "사상",
+        "오피셜"
+      ],
+      "template": "스포츠 기록",
+      "score": 6.7,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
       "angle_type": "논란·사건",
-      "article_count": 3,
+      "article_count": 2,
       "source_article": "“봉사 받으러 갔냐”…논란 중심 선 박위, 이번엔 케냐 봉사활동 현장 재조명",
       "source_url": "https://m.entertain.naver.com/article/241/0003530314",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "봉사",
         "받으러",
-        "박위",
-        "케냐",
-        "재조명"
+        "갔냐",
+        "중심",
+        "박위"
       ],
       "template": "논란 집합",
       "score": 6.5,
@@ -1562,16 +1380,82 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"출연료\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 출연료",
+      "title": "\"자식\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 자식",
       "article_count": 3,
+      "source_article": "\"자식 6명 모두 절연\"…충격의 브래드 피트, 확 늙은 모습 '씁쓸'",
+      "source_url": "https://m.entertain.naver.com/article/117/0004104452",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "자식"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 3,
+      "source_article": "'백발' 배용준, 달라진 근황 포착…'14세 장타자'와 라운딩",
+      "source_url": "https://m.entertain.naver.com/article/117/0004104564",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "근황",
+        "백발",
+        "배용준",
+        "달라진",
+        "포착"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 2,
       "source_article": "전원주, 유튜브 중단 이유 밝혔다…\"출연료 올리겠다 하니 그만두자고\"",
       "source_url": "https://m.entertain.naver.com/article/421/0009166115",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
+        "전원주",
+        "유튜브",
+        "중단",
+        "밝혔다",
         "출연료"
       ],
-      "template": "인맥",
+      "template": "자산 서열",
       "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
@@ -1583,24 +1467,24 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"유튜브\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 유튜브",
+      "title": "\"아들, 지금 어디서 뭐 하나?\" 아들 근황 총정리",
+      "angle_type": "👤 아들",
       "article_count": 3,
-      "source_article": "전원주, 유튜브 중단 이유 밝혔다…\"출연료 올리겠다 하니 그만두자고\"",
-      "source_url": "https://m.entertain.naver.com/article/421/0009166115",
+      "source_article": "윤민수 아들 윤후, 美 유학중 돌연 귀국→가수 컴백 “카투사 떨어져 고민”",
+      "source_url": "https://m.entertain.naver.com/article/609/0001168156",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "유튜브"
+        "아들"
       ],
-      "template": "인맥",
+      "template": "장기 공백 복귀",
       "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
@@ -1612,96 +1496,9 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"중단\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 중단",
-      "article_count": 3,
-      "source_article": "전원주, 유튜브 중단 이유 밝혔다…\"출연료 올리겠다 하니 그만두자고\"",
-      "source_url": "https://m.entertain.naver.com/article/421/0009166115",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "중단"
-      ],
-      "template": "인맥",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"는데 결혼설?\" 는데 연애사 총정리",
-      "angle_type": "👤 는데",
-      "article_count": 3,
-      "source_article": "김대호, 600만원으로 캠핑카 개조했는데…기안84 “세상에서 제일 불쌍한 차” (‘나혼산’)",
-      "source_url": "https://m.entertain.naver.com/article/312/0000775745",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "는데"
-      ],
-      "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"개월 결혼설?\" 개월 연애사 총정리",
-      "angle_type": "👤 개월",
-      "article_count": 3,
-      "source_article": "한지민, ♥최정훈 결별설엔 침묵하더니…4개월 만에 '생존 신고'",
-      "source_url": "https://m.entertain.naver.com/article/117/0004104509",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "개월"
-      ],
-      "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "정보주는하마"
@@ -1710,9 +1507,9 @@
       "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
       "angle_type": "투병·건강",
       "article_count": 4,
-      "source_article": "\"집 갔더니 의식 없어\" 故전경철 작가, 자택서 별세→먹먹했던 마지막 여정 ('실화탐사대')",
-      "source_url": "https://m.entertain.naver.com/article/076/0004445126",
-      "source_name": "엔터 많이 본 뉴스",
+      "source_article": "20세 女 러너 하프마라톤 중 '심정지 3번'→끝내 사망…알고 보니 부통령 아들의 애인 \"세 번이나 소생했는데\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "갔더니",
         "의식",
@@ -1740,21 +1537,79 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"확정, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
+      "title": "\"뉴욕대\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 뉴욕대",
+      "article_count": 4,
+      "source_article": "안정환 뉴욕대 졸업한 딸, 취직했다 \"2일차\"…안정환에 쏟아진 축하 \"자식 농사 잘 돼\" ('놀뭐')",
+      "source_url": "https://m.entertain.naver.com/article/312/0000775798",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "뉴욕대"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"졸업\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 졸업",
       "article_count": 3,
-      "source_article": "'이럴수가' KBO 출신 다저스 좌완, 오타니 IL행 유탄 맞았다→시즌 아웃 확정 \"PS 희망도 사라졌다\"",
+      "source_article": "안정환 딸 리원, 뉴욕대 졸업→귀국→취직 “출근 2일 차”",
+      "source_url": "https://m.entertain.naver.com/article/382/0001293594",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "졸업"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 6,
+      "source_article": "'사구 충격' KIA 카스트로, 큰 부상 피했다…하루 만에 3번 타자·1루수 선발 출전→이범호 감독 \"DH보다 수비 뛰겠다 직접 요청하더라\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "확정",
-        "이럴수",
-        "출신",
-        "다저스",
-        "좌완"
+        "감독",
+        "선발",
+        "출전",
+        "벌써",
+        "스타트"
       ],
       "template": "스포츠 기록",
-      "score": 6.8,
+      "score": 7.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1802,14 +1657,14 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"티원\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 티원",
+      "title": "\"티원은\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 티원은",
       "article_count": 3,
-      "source_article": "티원 바텀이 생각보다 리드를 못하네요",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648605&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_article": "티원은 결국 페이즈 영입이 독이된거죠",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654299&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "티원"
+        "티원은"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1831,16 +1686,16 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"이야기, 대체 무슨 일이?\" 이야기 관련 이슈 총정리",
-      "angle_type": "👤 이야기",
+      "title": "\"페이커\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 페이커",
       "article_count": 3,
-      "source_article": "사람들과 군복무 이야기를 나눌때 이야기입니다.",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609120118648584&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_article": "페이커 그냥 무색무취에 제발 덜싸길 팬들이 기도하는 수준",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609120118654167&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "이야기"
+        "페이커"
       ],
-      "template": "논란 집합",
+      "template": "인맥",
       "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
@@ -1852,8 +1707,8 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
+          "분류",
+          "이슈 내용",
           "현재 상황"
         ]
       },
@@ -1862,39 +1717,27 @@
   ],
   "keyword_freq": [
     [
-      "폭발",
-      5
+      "뉴욕대",
+      4
     ],
     [
-      "전원주",
+      "안정환",
+      4
+    ],
+    [
+      "자식",
       3
     ],
     [
-      "출연료",
+      "졸업",
       3
     ],
     [
-      "유튜브",
+      "아들",
       3
     ],
     [
-      "중단",
-      3
-    ],
-    [
-      "개월",
-      3
-    ],
-    [
-      "황희찬",
-      3
-    ],
-    [
-      "샬케",
-      3
-    ],
-    [
-      "밝혔다",
+      "나혼산",
       2
     ],
     [
@@ -1902,23 +1745,81 @@
       2
     ],
     [
-      "받으러",
+      "일차",
       2
     ],
     [
-      "케냐",
+      "놀뭐",
       2
     ],
     [
-      "봉사",
+      "여정",
       2
     ],
     [
-      "재조명",
+      "마지막",
       2
     ],
     [
-      "김대호",
+      "전경철",
+      2
+    ],
+    [
+      "취직",
+      2
+    ],
+    [
+      "귀국",
+      2
+    ],
+    [
+      "리원",
+      2
+    ],
+    [
+      "출근",
+      2
+    ],
+    [
+      "근황",
+      2
+    ],
+    [
+      "깜짝",
+      2
+    ],
+    [
+      "있었다",
+      2
+    ],
+    [
+      "축구",
+      2
+    ]
+  ],
+  "name_freq": [
+    [
+      "뉴욕대",
+      4
+    ],
+    [
+      "안정환",
+      4
+    ],
+    [
+      "자식",
+      3
+    ],
+    [
+      "졸업",
+      3
+    ],
+    [
+      "아들",
+      3
+    ],
+    [
+      "는데",
       2
     ],
     [
@@ -1926,85 +1827,39 @@
       2
     ],
     [
-      "카페",
-      2
-    ],
-    [
-      "연애",
-      2
-    ],
-    [
-      "정형돈",
-      2
-    ],
-    [
-      "이혼",
-      2
-    ]
-  ],
-  "name_freq": [
-    [
-      "폭발",
-      5
-    ],
-    [
-      "전원주",
-      3
-    ],
-    [
-      "출연료",
-      3
-    ],
-    [
-      "유튜브",
-      3
-    ],
-    [
-      "중단",
-      3
-    ],
-    [
-      "는데",
-      3
-    ],
-    [
-      "개월",
-      3
-    ],
-    [
-      "이강인",
-      3
-    ],
-    [
-      "황희찬",
-      3
-    ],
-    [
-      "샬케",
-      3
-    ],
-    [
-      "밝혔다",
-      2
-    ],
-    [
       "박위",
       2
     ],
     [
-      "케냐",
+      "일차",
       2
     ],
     [
-      "받으러",
+      "놀뭐",
       2
     ],
     [
-      "봉사",
+      "여정",
+      2
+    ],
+    [
+      "마지막",
+      2
+    ],
+    [
+      "전경철",
+      2
+    ],
+    [
+      "취직",
+      2
+    ],
+    [
+      "귀국",
       2
     ]
   ],
-  "total_topics_generated": 18,
-  "valid_topics": 18,
+  "total_topics_generated": 14,
+  "valid_topics": 14,
   "excluded_duplicates": 0
 }
