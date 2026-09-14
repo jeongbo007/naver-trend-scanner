@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-09-14 18:14:08",
+  "scan_time": "2026-09-14 20:43:58",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,9 +8,9 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 0
+    "MLB파크 불펜": 30
   },
-  "total_articles": 50,
+  "total_articles": 80,
   "articles": [
     {
       "title": "한국에서 밥먹듯 했던 3할, ML에선 '허상', 이정후 최근 11G 타율 0.140...결국 선택(discipline) 문제",
@@ -82,6 +82,276 @@
       "category": "스포츠",
       "views": 89254,
       "rank": 20,
+      "channel": "초구딱"
+    },
+    {
+      "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 1,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 2,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🛠️[업데이트] 해외 접속 장애 조치 관련 안내_260814🛠️",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202608130000002151",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 3,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[공지] 이미지 업로드 시 불법촬영물등 비교·식별 조치 적용 안내",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202609040000002163",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 4,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🍗[이벤트]엠팍 유저 전용! 플레이공 가입 혜택 + 교촌치킨 증정🍗",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609080000002169",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 5,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🎞️영화 '어벤져스:엔드게임 앙코르' 개봉 기념 기대평 작성 이벤트🎞️",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609100000002172",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 6,
+      "channel": "초구딱"
+    },
+    {
+      "title": "리즈유나이티드 왜 저래?? ㄷㄷㄷ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609150118706436&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 7,
+      "channel": "초구딱"
+    },
+    {
+      "title": "도시락 고트 JPG",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609150118706433&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 61,
+      "rank": 8,
+      "channel": "초구딱"
+    },
+    {
+      "title": "생각해보니깐 저보다 군생활 잘한분 없을거 같네요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609150118706430&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 45,
+      "rank": 9,
+      "channel": "초구딱"
+    },
+    {
+      "title": "용혜인 푸바오닮은거 같에요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609150118706424&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 83,
+      "rank": 10,
+      "channel": "초구딱"
+    },
+    {
+      "title": "칼퇴에 목숨건 미국 현장에 컬쳐쇼크온 아이유.mp4",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609150118706418&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=kakao.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 199,
+      "rank": 11,
+      "channel": "초구딱"
+    },
+    {
+      "title": "LG 의인상을 만들어진 계기.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609150118706415&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 288,
+      "rank": 12,
+      "channel": "초구딱"
+    },
+    {
+      "title": "사준다는데 테슬라 Y 안 받은 이유",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609150118706412&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 414,
+      "rank": 13,
+      "channel": "초구딱"
+    },
+    {
+      "title": "법원에 제출할 소송장을 챗지피티로 작성해도 되나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609150118706406&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 181,
+      "rank": 14,
+      "channel": "초구딱"
+    },
+    {
+      "title": "아시안게임에 출전하는 사격 선수 외모",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609150118706403&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 515,
+      "rank": 15,
+      "channel": "초구딱"
+    },
+    {
+      "title": "오늘도 코스피랑 삼하닉스 폭락일까요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609150118706397&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 554,
+      "rank": 16,
+      "channel": "초구딱"
+    },
+    {
+      "title": "지하철 경의.중앙선 천원남 빌런 등장",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609150118706394&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 434,
+      "rank": 17,
+      "channel": "초구딱"
+    },
+    {
+      "title": "제가 학교다닐 때 촌지는 없었는데 비슷한 건 있었네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609150118706391&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 134,
+      "rank": 18,
+      "channel": "초구딱"
+    },
+    {
+      "title": "페미들은 외모도 다 비슷하게 생겼네요.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609150118706388&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 367,
+      "rank": 19,
+      "channel": "초구딱"
+    },
+    {
+      "title": "트로트 가수 김수진 사형 구형",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609150118706355&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 2467,
+      "rank": 20,
+      "channel": "초구딱"
+    },
+    {
+      "title": "동나이대 추신수 김하성 이정후 mlb 성적.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609150118706352&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 436,
+      "rank": 21,
+      "channel": "초구딱"
+    },
+    {
+      "title": "한국 체질개선한게 두 가지 꼽자면 이거 아닐까요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609150118706346&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 200,
+      "rank": 22,
+      "channel": "초구딱"
+    },
+    {
+      "title": "태국 여자배구 국대 초미녀 선수 ㅗㅜㅑ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609150118706340&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 3121,
+      "rank": 23,
+      "channel": "초구딱"
+    },
+    {
+      "title": "박문성이 모레노는 겁나 칭찬하던데 언제 태세전환할지 ㅋㅋ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609150118706334&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 423,
+      "rank": 24,
+      "channel": "초구딱"
+    },
+    {
+      "title": "시장표 치킨",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609150118706328&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 539,
+      "rank": 25,
+      "channel": "초구딱"
+    },
+    {
+      "title": "텔레바디스트레이션은 뭐야?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609150118706325&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 170,
+      "rank": 26,
+      "channel": "초구딱"
+    },
+    {
+      "title": "석민어린이가 생각보다 커요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609150118706319&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 533,
+      "rank": 27,
+      "channel": "초구딱"
+    },
+    {
+      "title": "이정후 샌프 현지팬 민심 근황.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609150118706316&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 1963,
+      "rank": 28,
+      "channel": "초구딱"
+    },
+    {
+      "title": "배우자가 직장 그만둔다고 하면 허락하실건가요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609150118706313&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 349,
+      "rank": 29,
+      "channel": "초구딱"
+    },
+    {
+      "title": "실시간 햄버거.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609150118706310&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 558,
+      "rank": 30,
       "channel": "초구딱"
     }
   ],
@@ -342,35 +612,6 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"발언\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 발언",
-          "article_count": 3,
-          "source_article": "전원주, 유튜브 중단→'돈 문제'였다…끝내 며느리 발언 도마 위 \"셋이 음료 한 잔\"",
-          "source_url": "https://m.entertain.naver.com/article/213/0001401107",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "발언"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
           "title": "\"유튜브\" 관련 화제 스타 TOP10",
           "angle_type": "👤 유튜브",
           "article_count": 3,
@@ -398,6 +639,35 @@
             ]
           },
           "channel": "정보주는하마"
+        },
+        {
+          "title": "\"발언\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 발언",
+          "article_count": 3,
+          "source_article": "전원주, 유튜브 중단→'돈 문제'였다…끝내 며느리 발언 도마 위 \"셋이 음료 한 잔\"",
+          "source_url": "https://m.entertain.naver.com/article/213/0001401107",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "발언"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
         }
       ],
       "keyword_freq": [
@@ -406,11 +676,11 @@
           6
         ],
         [
-          "발언",
+          "유튜브",
           3
         ],
         [
-          "유튜브",
+          "발언",
           3
         ],
         [
@@ -430,6 +700,10 @@
           2
         ],
         [
+          "런닝맨",
+          2
+        ],
+        [
           "결혼",
           2
         ],
@@ -438,19 +712,15 @@
           2
         ],
         [
-          "런닝맨",
-          2
-        ],
-        [
           "박위",
           2
         ],
         [
-          "진짜",
+          "태도",
           2
         ],
         [
-          "태도",
+          "진짜",
           2
         ],
         [
@@ -466,19 +736,19 @@
           2
         ],
         [
-          "김부장",
-          2
-        ],
-        [
-          "연하",
-          2
-        ],
-        [
           "원현준",
           2
         ],
         [
           "이수진과",
+          2
+        ],
+        [
+          "김부장",
+          2
+        ],
+        [
+          "연하",
           2
         ]
       ],
@@ -488,11 +758,11 @@
           6
         ],
         [
-          "발언",
+          "유튜브",
           3
         ],
         [
-          "유튜브",
+          "발언",
           3
         ],
         [
@@ -516,6 +786,10 @@
           2
         ],
         [
+          "런닝맨",
+          2
+        ],
+        [
           "결혼",
           2
         ],
@@ -524,11 +798,7 @@
           2
         ],
         [
-          "런닝맨",
-          2
-        ],
-        [
-          "박위",
+          "진짜",
           2
         ],
         [
@@ -536,11 +806,11 @@
           2
         ],
         [
-          "진짜",
+          "태도",
           2
         ],
         [
-          "태도",
+          "박위",
           2
         ]
       ],
@@ -568,21 +838,21 @@
       ]
     },
     "초구딱": {
-      "article_count": 8,
+      "article_count": 38,
       "topics": [
         {
-          "title": "\"고작, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "title": "\"선수, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 5,
+          "article_count": 7,
           "source_article": "'12년 500억' 김도영, KIA가 통 큰 베팅할까…MLB 포스팅까지 열어놓고 초대형 비FA 계약?",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
+            "선수",
             "고작",
             "안타",
             "연속",
-            "김도영",
-            "베팅할"
+            "김도영"
           ],
           "template": "스포츠 기록",
           "score": 8.2,
@@ -599,6 +869,35 @@
               "소속팀",
               "기록 내용",
               "기록 가치"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"이정후, 지금 어디서 뭐 하나?\" 이정후 근황 총정리",
+          "angle_type": "👤 이정후",
+          "article_count": 3,
+          "source_article": "한국에서 밥먹듯 했던 3할, ML에선 '허상', 이정후 최근 11G 타율 0.140...결국 선택(discipline) 문제",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "이정후"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.7,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
             ]
           },
           "channel": "초구딱"
@@ -631,11 +930,52 @@
             ]
           },
           "channel": "초구딱"
+        },
+        {
+          "title": "\"안내\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안내",
+          "article_count": 3,
+          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "안내"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
         [
+          "이정후",
+          3
+        ],
+        [
           "타율",
+          3
+        ],
+        [
+          "선수",
+          3
+        ],
+        [
+          "안내",
           3
         ],
         [
@@ -643,11 +983,11 @@
           2
         ],
         [
-          "고작",
+          "안타",
           2
         ],
         [
-          "안타",
+          "고작",
           2
         ],
         [
@@ -655,19 +995,19 @@
           2
         ],
         [
-          "선택",
-          1
+          "김하성",
+          2
         ],
         [
-          "문제",
-          1
+          "조치",
+          2
         ],
         [
-          "에선",
-          1
+          "이벤트",
+          2
         ],
         [
-          "허상",
+          "했던",
           1
         ],
         [
@@ -675,7 +1015,7 @@
           1
         ],
         [
-          "했던",
+          "허상",
           1
         ],
         [
@@ -683,11 +1023,15 @@
           1
         ],
         [
-          "이정후",
+          "선택",
           1
         ],
         [
-          "대흥분",
+          "에선",
+          1
+        ],
+        [
+          "문제",
           1
         ],
         [
@@ -695,29 +1039,25 @@
           1
         ],
         [
-          "같다",
-          1
-        ],
-        [
-          "등장에",
-          1
-        ],
-        [
-          "장타력까지",
-          1
-        ],
-        [
-          "캐릭터",
-          1
-        ],
-        [
-          "한국야구",
+          "슈퍼",
           1
         ]
       ],
       "name_freq": [
         [
+          "이정후",
+          3
+        ],
+        [
           "타율",
+          3
+        ],
+        [
+          "선수",
+          3
+        ],
+        [
+          "안내",
           3
         ],
         [
@@ -725,40 +1065,52 @@
           2
         ],
         [
-          "고작",
-          2
-        ],
-        [
           "안타",
           2
         ],
         [
+          "고작",
+          2
+        ],
+        [
           "연속",
+          2
+        ],
+        [
+          "김하성",
+          2
+        ],
+        [
+          "조치",
+          2
+        ],
+        [
+          "이벤트",
           2
         ]
       ],
       "angle_scores": [
         [
           "스포츠",
-          5
+          7
         ]
       ]
     }
   },
   "topics": [
     {
-      "title": "\"고작, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"선수, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 5,
+      "article_count": 7,
       "source_article": "'12년 500억' 김도영, KIA가 통 큰 베팅할까…MLB 포스팅까지 열어놓고 초대형 비FA 계약?",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
+        "선수",
         "고작",
         "안타",
         "연속",
-        "김도영",
-        "베팅할"
+        "김도영"
       ],
       "template": "스포츠 기록",
       "score": 8.2,
@@ -780,6 +1132,35 @@
       "channel": "초구딱"
     },
     {
+      "title": "\"이정후, 지금 어디서 뭐 하나?\" 이정후 근황 총정리",
+      "angle_type": "👤 이정후",
+      "article_count": 3,
+      "source_article": "한국에서 밥먹듯 했던 3할, ML에선 '허상', 이정후 최근 11G 타율 0.140...결국 선택(discipline) 문제",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "이정후"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.7,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
       "title": "\"타율\" 관련 화제 스타 TOP10",
       "angle_type": "👤 타율",
       "article_count": 3,
@@ -791,6 +1172,35 @@
       ],
       "template": "인맥",
       "score": 6.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1063,35 +1473,6 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"발언\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 발언",
-      "article_count": 3,
-      "source_article": "전원주, 유튜브 중단→'돈 문제'였다…끝내 며느리 발언 도마 위 \"셋이 음료 한 잔\"",
-      "source_url": "https://m.entertain.naver.com/article/213/0001401107",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "발언"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"유튜브\" 관련 화제 스타 TOP10",
       "angle_type": "👤 유튜브",
       "article_count": 3,
@@ -1121,18 +1502,47 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"고작, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"발언\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 발언",
+      "article_count": 3,
+      "source_article": "전원주, 유튜브 중단→'돈 문제'였다…끝내 며느리 발언 도마 위 \"셋이 음료 한 잔\"",
+      "source_url": "https://m.entertain.naver.com/article/213/0001401107",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "발언"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"선수, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 5,
+      "article_count": 7,
       "source_article": "'12년 500억' 김도영, KIA가 통 큰 베팅할까…MLB 포스팅까지 열어놓고 초대형 비FA 계약?",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
+        "선수",
         "고작",
         "안타",
         "연속",
-        "김도영",
-        "베팅할"
+        "김도영"
       ],
       "template": "스포츠 기록",
       "score": 8.2,
@@ -1149,6 +1559,35 @@
           "소속팀",
           "기록 내용",
           "기록 가치"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"이정후, 지금 어디서 뭐 하나?\" 이정후 근황 총정리",
+      "angle_type": "👤 이정후",
+      "article_count": 3,
+      "source_article": "한국에서 밥먹듯 했던 3할, ML에선 '허상', 이정후 최근 11G 타율 0.140...결국 선택(discipline) 문제",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "이정후"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.7,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "초구딱"
@@ -1181,6 +1620,35 @@
         ]
       },
       "channel": "초구딱"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
@@ -1189,11 +1657,11 @@
       6
     ],
     [
-      "발언",
+      "유튜브",
       3
     ],
     [
-      "유튜브",
+      "발언",
       3
     ],
     [
@@ -1213,6 +1681,10 @@
       2
     ],
     [
+      "런닝맨",
+      2
+    ],
+    [
       "결혼",
       2
     ],
@@ -1221,19 +1693,15 @@
       2
     ],
     [
-      "런닝맨",
-      2
-    ],
-    [
       "박위",
       2
     ],
     [
-      "진짜",
+      "태도",
       2
     ],
     [
-      "태도",
+      "진짜",
       2
     ],
     [
@@ -1249,19 +1717,19 @@
       2
     ],
     [
-      "김부장",
-      2
-    ],
-    [
-      "연하",
-      2
-    ],
-    [
       "원현준",
       2
     ],
     [
       "이수진과",
+      2
+    ],
+    [
+      "김부장",
+      2
+    ],
+    [
+      "연하",
       2
     ]
   ],
@@ -1271,11 +1739,11 @@
       6
     ],
     [
-      "발언",
+      "유튜브",
       3
     ],
     [
-      "유튜브",
+      "발언",
       3
     ],
     [
@@ -1299,6 +1767,10 @@
       2
     ],
     [
+      "런닝맨",
+      2
+    ],
+    [
       "결혼",
       2
     ],
@@ -1307,11 +1779,7 @@
       2
     ],
     [
-      "런닝맨",
-      2
-    ],
-    [
-      "박위",
+      "진짜",
       2
     ],
     [
@@ -1319,15 +1787,15 @@
       2
     ],
     [
-      "진짜",
+      "태도",
       2
     ],
     [
-      "태도",
+      "박위",
       2
     ]
   ],
-  "total_topics_generated": 12,
-  "valid_topics": 12,
+  "total_topics_generated": 14,
+  "valid_topics": 14,
   "excluded_duplicates": 0
 }
