@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-09-16 17:20:49",
+  "scan_time": "2026-09-16 19:50:22",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -879,11 +879,11 @@
           2
         ],
         [
-          "넘게",
+          "너무",
           2
         ],
         [
-          "너무",
+          "넘게",
           2
         ],
         [
@@ -961,11 +961,11 @@
           2
         ],
         [
-          "넘게",
+          "너무",
           2
         ],
         [
-          "너무",
+          "넘게",
           2
         ]
       ],
@@ -1002,7 +1002,7 @@
         {
           "title": "\"무안타, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 5,
+          "article_count": 6,
           "source_article": "야구계 충격 \"프로 선수로서 실격\"…심판 판정에 불만, 34세 타자 타석 포기→\"어린 아이 떼 쓰는 것 같아\" 맹비난",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -1033,17 +1033,17 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"네요\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 네요",
+          "title": "\"이강인, 지금 어디서 뭐 하나?\" 이강인 근황 총정리",
+          "angle_type": "👤 이강인",
           "article_count": 5,
-          "source_article": "처음으로 5킬로 5분대 페이스로 들어왔네요",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609170118751130&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_article": "이강인 잘했네요 mom 등극",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609170118751400&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
           "source_name": "MLB파크 불펜",
           "related_names": [
-            "네요"
+            "이강인"
           ],
-          "template": "인맥",
-          "score": 6.5,
+          "template": "장기 공백 복귀",
+          "score": 7.2,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -1054,9 +1054,9 @@
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
             ]
           },
           "channel": "초구딱"
@@ -1089,15 +1089,56 @@
             ]
           },
           "channel": "초구딱"
+        },
+        {
+          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 2,
+          "source_article": "코스피 야선 근황",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609170118751370&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "야선",
+            "근황",
+            "이강인",
+            "오른발",
+            "충격근"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 5.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
+        [
+          "이강인",
+          5
+        ],
         [
           "안내",
           3
         ],
         [
           "김하성",
+          2
+        ],
+        [
+          "새벽",
           2
         ],
         [
@@ -1109,23 +1150,31 @@
           2
         ],
         [
-          "이강인",
+          "진짜",
           2
         ],
         [
-          "했네요",
+          "메이드인코리아",
           2
         ],
         [
-          "많이",
-          2
-        ],
-        [
-          "맹비난",
+          "실격",
           1
         ],
         [
           "선수로서",
+          1
+        ],
+        [
+          "포기",
+          1
+        ],
+        [
+          "야구계",
+          1
+        ],
+        [
+          "판정에",
           1
         ],
         [
@@ -1137,23 +1186,7 @@
           1
         ],
         [
-          "실격",
-          1
-        ],
-        [
-          "판정에",
-          1
-        ],
-        [
-          "불만",
-          1
-        ],
-        [
-          "같아",
-          1
-        ],
-        [
-          "야구계",
+          "심판",
           1
         ],
         [
@@ -1161,21 +1194,21 @@
           1
         ],
         [
-          "심판",
+          "맹비난",
+          1
+        ],
+        [
+          "쓰는",
           1
         ],
         [
           "아이",
           1
-        ],
-        [
-          "포기",
-          1
         ]
       ],
       "name_freq": [
         [
-          "네요",
+          "이강인",
           5
         ],
         [
@@ -1187,6 +1220,10 @@
           2
         ],
         [
+          "새벽",
+          2
+        ],
+        [
           "조치",
           2
         ],
@@ -1195,26 +1232,30 @@
           2
         ],
         [
-          "이강인",
+          "진짜",
           2
         ],
         [
-          "했네요",
+          "메이드",
           2
         ],
         [
-          "많이",
+          "인코리",
           2
         ],
         [
-          "오징어",
+          "네요",
           2
         ]
       ],
       "angle_scores": [
         [
+          "복귀·근황",
+          2
+        ],
+        [
           "스포츠",
-          5
+          6
         ]
       ]
     }
@@ -2027,7 +2068,7 @@
     {
       "title": "\"무안타, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 5,
+      "article_count": 6,
       "source_article": "야구계 충격 \"프로 선수로서 실격\"…심판 판정에 불만, 34세 타자 타석 포기→\"어린 아이 떼 쓰는 것 같아\" 맹비난",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -2058,17 +2099,17 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"네요\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 네요",
+      "title": "\"이강인, 지금 어디서 뭐 하나?\" 이강인 근황 총정리",
+      "angle_type": "👤 이강인",
       "article_count": 5,
-      "source_article": "처음으로 5킬로 5분대 페이스로 들어왔네요",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609170118751130&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_article": "이강인 잘했네요 mom 등극",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609170118751400&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "네요"
+        "이강인"
       ],
-      "template": "인맥",
-      "score": 6.5,
+      "template": "장기 공백 복귀",
+      "score": 7.2,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2079,9 +2120,9 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "초구딱"
@@ -2111,6 +2152,39 @@
           "분류",
           "이슈 내용",
           "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "코스피 야선 근황",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609170118751370&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "야선",
+        "근황",
+        "이강인",
+        "오른발",
+        "충격근"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 5.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "초구딱"
@@ -2170,11 +2244,11 @@
       2
     ],
     [
-      "넘게",
+      "너무",
       2
     ],
     [
-      "너무",
+      "넘게",
       2
     ],
     [
@@ -2252,15 +2326,15 @@
       2
     ],
     [
-      "넘게",
+      "너무",
       2
     ],
     [
-      "너무",
+      "넘게",
       2
     ]
   ],
-  "total_topics_generated": 16,
-  "valid_topics": 16,
+  "total_topics_generated": 17,
+  "valid_topics": 17,
   "excluded_duplicates": 0
 }
