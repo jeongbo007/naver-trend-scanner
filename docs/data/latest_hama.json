@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-09-19 09:11:35",
+  "scan_time": "2026-09-19 12:43:48",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,143 +8,26 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 0
+    "MLB파크 불펜": 30
   },
-  "total_articles": 50,
+  "total_articles": 80,
   "articles": [
-    {
-      "title": "신화 이민우에 24억 넘게 뜯어간 방송작가 “전액 배상하라” 판결",
-      "url": "https://m.entertain.naver.com/article/144/0001139190",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 90453,
-      "rank": 1,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'불안장애 약 복용' 정형돈, 일 없다고 토로하더니…토크쇼 '결이 다른 전쟁사' MC 발탁",
-      "url": "https://m.entertain.naver.com/article/312/0000776717",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 37027,
-      "rank": 2,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "이미숙 “며느리 올까 봐 무서워…명절에도 안 부르고 여행 가라고”",
-      "url": "https://m.entertain.naver.com/article/382/0001294828",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 34967,
-      "rank": 3,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'스캔들' 손예진·지창욱 열연에도 설득력 잃은 리메이크의 덫",
-      "url": "https://m.entertain.naver.com/article/440/0000046033",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 34898,
-      "rank": 4,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "유현철, ♥김슬기와 불화 3개월만 보낸 카톡이 \"화장실 물 내려라\"…현실 부부 대화",
-      "url": "https://m.entertain.naver.com/article/076/0004447581",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 32478,
-      "rank": 5,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "혜리, 16년 연예계 생활 어땠기에…\"인류애 박살난 타이밍 몇 번\" (혜리)",
-      "url": "https://m.entertain.naver.com/article/311/0002058723",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 27349,
-      "rank": 6,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "야노 시호, ♥추성훈과 자동차 구분 확실…\"내 쿠루마다\" (야노시호)",
-      "url": "https://m.entertain.naver.com/article/311/0002058719",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 25215,
-      "rank": 7,
-      "channel": "정보주는하마"
-    },
     {
       "title": "“말 조심해” 한소희, 또 ‘입’이 화근…대선배들 당황, 팬들도 ‘절레절레’",
       "url": "https://m.entertain.naver.com/article/468/0001267520",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 21272,
-      "rank": 8,
+      "views": 103942,
+      "rank": 1,
       "channel": "정보주는하마"
     },
     {
-      "title": "강소라 \"연예인은 한 방에 간다…전성기 때 평생 먹거리 준비해야\"",
-      "url": "https://m.entertain.naver.com/article/445/0000466698",
+      "title": "신화 이민우에 24억 넘게 뜯어간 방송작가 “전액 배상하라” 판결",
+      "url": "https://m.entertain.naver.com/article/144/0001139190",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 20740,
-      "rank": 9,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "윤미라 \"연예계 스폰서로 인생 망친 애들 많아\" 충격 고백 (미라클)",
-      "url": "https://m.entertain.naver.com/article/311/0002058754",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 17431,
-      "rank": 10,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "곽범, 13살 딸 'AI 같은 미모'…\"홍대서 길거리 캐스팅\" ('전현무계획4')",
-      "url": "https://m.entertain.naver.com/article/312/0000776720",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 16395,
-      "rank": 11,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'나솔' 31기 순자, '17만 팔로워' 넘더니 모델 됐다...'♥경수' 사로잡은 우월한 비율",
-      "url": "https://m.entertain.naver.com/article/312/0000776736",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 16070,
-      "rank": 12,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "“이효리♥이상순이 왜 여기서 나와?” 임영웅도…임신 6개월 고규필 아내는 공짜",
-      "url": "https://m.entertain.naver.com/article/410/0001140562",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 15337,
-      "rank": 13,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "‘학폭’ 벗어난 김히어라, 몰라보게 달라졌다…안 보이더니 연극 ‘접수’",
-      "url": "https://m.entertain.naver.com/article/468/0001267511",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 9816,
-      "rank": 14,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "녹취 파문에 결별설까지 불거졌는데…16기 광수♥22기 현숙, 2세 문제로 또 갈등 ('연애전쟁')",
-      "url": "https://m.entertain.naver.com/article/312/0000776749",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 9790,
-      "rank": 15,
+      "views": 55815,
+      "rank": 2,
       "channel": "정보주는하마"
     },
     {
@@ -152,35 +35,44 @@
       "url": "https://m.entertain.naver.com/article/076/0004447610",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 8486,
-      "rank": 16,
+      "views": 31749,
+      "rank": 3,
       "channel": "정보주는하마"
     },
     {
-      "title": "'나는 솔로' 31기 또 시끌…출연자, 심리섭 고소 \"굳이 불씨 살린 지능 대단해\"",
-      "url": "https://m.entertain.naver.com/article/117/0004107013",
+      "title": "강소라 \"연예인은 한 방에 간다…전성기 때 평생 먹거리 준비해야\"",
+      "url": "https://m.entertain.naver.com/article/445/0000466698",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 8218,
-      "rank": 17,
+      "views": 31098,
+      "rank": 4,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"故 김새론 무혐의지만…\" 김수현, 국내 첫 복귀 한계점",
-      "url": "https://m.entertain.naver.com/article/440/0000046038",
+      "title": "‘학폭’ 벗어난 김히어라, 몰라보게 달라졌다…안 보이더니 연극 ‘접수’",
+      "url": "https://m.entertain.naver.com/article/468/0001267511",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 7634,
-      "rank": 18,
+      "views": 23524,
+      "rank": 5,
       "channel": "정보주는하마"
     },
     {
-      "title": "'사랑이 온다', 큰누나 안희연 사라지자 동생들은 '남매전쟁'",
-      "url": "https://m.entertain.naver.com/article/465/0000019813",
+      "title": "'스캔들' 손예진·지창욱 열연에도 설득력 잃은 리메이크의 덫",
+      "url": "https://m.entertain.naver.com/article/440/0000046033",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 7109,
-      "rank": 19,
+      "views": 22154,
+      "rank": 6,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "이미숙 “며느리 올까 봐 무서워…명절에도 안 부르고 여행 가라고”",
+      "url": "https://m.entertain.naver.com/article/382/0001294828",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 21161,
+      "rank": 7,
       "channel": "정보주는하마"
     },
     {
@@ -188,43 +80,151 @@
       "url": "https://m.entertain.naver.com/article/312/0000776751",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 6949,
+      "views": 18494,
+      "rank": 8,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'나는 솔로' 31기 또 시끌…출연자, 심리섭 고소 \"굳이 불씨 살린 지능 대단해\"",
+      "url": "https://m.entertain.naver.com/article/117/0004107013",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 13022,
+      "rank": 9,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "“이효리♥이상순이 왜 여기서 나와?” 임영웅도…임신 6개월 고규필 아내는 공짜",
+      "url": "https://m.entertain.naver.com/article/410/0001140562",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 12995,
+      "rank": 10,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'불안장애 약 복용' 정형돈, 일 없다고 토로하더니…토크쇼 '결이 다른 전쟁사' MC 발탁",
+      "url": "https://m.entertain.naver.com/article/312/0000776717",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 12824,
+      "rank": 11,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"故 김새론 무혐의지만…\" 김수현, 국내 첫 복귀 한계점",
+      "url": "https://m.entertain.naver.com/article/440/0000046038",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 10908,
+      "rank": 12,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "곽범, 13살 딸 'AI 같은 미모'…\"홍대서 길거리 캐스팅\" ('전현무계획4')",
+      "url": "https://m.entertain.naver.com/article/312/0000776720",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 9358,
+      "rank": 13,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "야노 시호, ♥추성훈과 자동차 구분 확실…\"내 쿠루마다\" (야노시호)",
+      "url": "https://m.entertain.naver.com/article/311/0002058719",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 9345,
+      "rank": 14,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "고우림 “손태진은 쳐다볼 수 없던 선배, 학교의 자랑” (불후의 명곡)",
+      "url": "https://m.entertain.naver.com/article/144/0001139224",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 8909,
+      "rank": 15,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'즉흥여행 논란' 전현무, 제작진 사과 2주 만에 대놓고 지적했다…구성환 영어에 훈수 ('나혼산')",
+      "url": "https://m.entertain.naver.com/article/312/0000776734",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 8640,
+      "rank": 16,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "혜리, 16년 연예계 생활 어땠기에…\"인류애 박살난 타이밍 몇 번\" (혜리)",
+      "url": "https://m.entertain.naver.com/article/311/0002058723",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 7962,
+      "rank": 17,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'사랑이 온다', 큰누나 안희연 사라지자 동생들은 '남매전쟁'",
+      "url": "https://m.entertain.naver.com/article/465/0000019813",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 7609,
+      "rank": 18,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "고지용, 허양임과 진흙탕 싸움 제대로 붙었다…법정행 앞두고 의미심장 저격 \"법으로 망한다\"",
+      "url": "https://m.entertain.naver.com/article/312/0000776759",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 7586,
+      "rank": 19,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'나솔' 31기 순자, '17만 팔로워' 넘더니 모델 됐다...'♥경수' 사로잡은 우월한 비율",
+      "url": "https://m.entertain.naver.com/article/312/0000776736",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 6044,
       "rank": 20,
       "channel": "정보주는하마"
     },
     {
-      "title": "22년차 이승기, 24년 노래방 혼자 갔다…“부부싸움 하고 온 건 아니죠?”",
-      "url": "https://m.entertain.naver.com/article/410/0001140523",
+      "title": "\"부부싸움 한 건 아니죠?\"…결혼 3년 차 이승기, 홀로 찾은 노래방서 뜻밖 질문",
+      "url": "https://m.entertain.naver.com/article/117/0004107025",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 5907,
+      "views": 5979,
       "rank": 21,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"농장에 갇혀 아이만 봤다’ 남편 폭로…'맘마미아' 女배우 9년만에 파경 전말",
-      "url": "https://m.entertain.naver.com/article/117/0004106968",
+      "title": "'응급실 이송' 청하, 컨디션 회복…오늘(19일) 행사 정상 참가",
+      "url": "https://m.entertain.naver.com/article/109/0005609132",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 4736,
+      "views": 5971,
       "rank": 22,
       "channel": "정보주는하마"
     },
     {
-      "title": "김민하, 시한부役 위해 17kg 감량…“끝나면 체중계 갖다 버릴 거예요”",
-      "url": "https://m.entertain.naver.com/article/410/0001140524",
+      "title": "윤미라 \"연예계 스폰서로 인생 망친 애들 많아\" 충격 고백 (미라클)",
+      "url": "https://m.entertain.naver.com/article/311/0002058754",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 4353,
+      "views": 5249,
       "rank": 23,
       "channel": "정보주는하마"
     },
     {
-      "title": "기안84, 집 놀러온 김대호에 지드래곤·BTS 진 선물+대상 트로피 자랑 “넌 없지?”(나혼산)",
-      "url": "https://m.entertain.naver.com/article/609/0001170399",
+      "title": "'26세' 노윤서, 하와이 사로잡은 압도적 미모…홀터넥 입고 미모 제대로 뽐내네",
+      "url": "https://m.entertain.naver.com/article/312/0000776758",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 3582,
+      "views": 4591,
       "rank": 24,
       "channel": "정보주는하마"
     },
@@ -233,52 +233,52 @@
       "url": "https://m.entertain.naver.com/article/311/0002058717",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 3349,
+      "views": 4378,
       "rank": 25,
       "channel": "정보주는하마"
     },
     {
-      "title": "'응급실 이송' 청하, 컨디션 회복…오늘(19일) 행사 정상 참가",
-      "url": "https://m.entertain.naver.com/article/109/0005609132",
+      "title": "고지용·허양임, 이혼할 때 '이것' 안 정했다…2년 뒤 아들 두고 법정행",
+      "url": "https://m.entertain.naver.com/article/312/0000776739",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 3308,
+      "views": 4184,
       "rank": 26,
       "channel": "정보주는하마"
     },
     {
-      "title": "'재벌X형사2' 안보현, 불길 속 의식 잃고 절체절명 위기...최고 시청률 11.3%",
-      "url": "https://m.entertain.naver.com/article/465/0000019809",
+      "title": "문희준♥소율, 4세 子 눈 시커먼데 \"혼내지 마요\"…오해받을 만했네",
+      "url": "https://m.entertain.naver.com/article/117/0004107017",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 3035,
+      "views": 4001,
       "rank": 27,
       "channel": "정보주는하마"
     },
     {
-      "title": "이정진·천명훈·김상혁, 3대 3 단체 미팅...천명훈 '0표남'에 '씁쓸'('신랑수업2')",
-      "url": "https://m.entertain.naver.com/article/477/0000628788",
+      "title": "故 김수미 ‘김치 사업’ 이은 서효림 “어머니 팔아 장사한다는 말 무서웠다”",
+      "url": "https://m.entertain.naver.com/article/144/0001139245",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 2971,
+      "views": 3970,
       "rank": 28,
       "channel": "정보주는하마"
     },
     {
-      "title": "'나솔' 22기 옥순, 이미 '뼈말라' 몸매인데…다이어트 고민 고백",
-      "url": "https://m.entertain.naver.com/article/312/0000776760",
+      "title": "녹취 파문에 결별설까지 불거졌는데…16기 광수♥22기 현숙, 2세 문제로 또 갈등 ('연애전쟁')",
+      "url": "https://m.entertain.naver.com/article/312/0000776749",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 2909,
+      "views": 3820,
       "rank": 29,
       "channel": "정보주는하마"
     },
     {
-      "title": "'난소암' 극복했는데..양희은, 두번째 암 찾아와→라디오 쉰 이유",
-      "url": "https://m.entertain.naver.com/article/109/0005609045",
+      "title": "\"장윤정♥이 사줬냐고? 알고 말하라\"..도경완, 명품 시계 수집 오해에 발끈",
+      "url": "https://m.entertain.naver.com/article/076/0004447623",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 2658,
+      "views": 3643,
       "rank": 30,
       "channel": "정보주는하마"
     },
@@ -287,25 +287,25 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 40322,
-      "rank": 1,
+      "views": 39171,
+      "rank": 2,
       "channel": "정보주는하마"
     },
     {
-      "title": "여중생이 100m 11초…언니들 넘어 한국 신기록 썼다",
+      "title": "\"죄송합니다, 죄송합니다\" 끝내 고개 숙였다…\"있을 수 없는 일\" 애국가 대신 북한 국가! 대한체육회 항의→조직위가 공식 사과했다",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 16805,
+      "views": 24266,
       "rank": 3,
       "channel": "정보주는하마"
     },
     {
-      "title": "대한축구협회 '249억 초대박' 터지나?…FIFA에 \"1000만 달러 더 풀어라\" 요구→211개 협회 '돈벼락' 가능성",
+      "title": "대변 흘리고 우승→\"다른 선수가 네 X 만졌잖아\" 맹비난에 트로피 반납…알고 보니 흔한 일? 英 유력지 \"드문 현상 아냐, 90%가 경험\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 14167,
+      "views": 16832,
       "rank": 4,
       "channel": "정보주는하마"
     },
@@ -314,35 +314,35 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 12674,
+      "views": 15587,
       "rank": 5,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"롤모델은 안세영\" '아이돌급 외모' 태국 배드민턴 공주 대반전 주인공 되나...韓 어떻게 이기려고? \"단체전 금메달 획득 노릴 것\"",
+      "title": "대한축구협회 '249억 초대박' 터지나?…FIFA에 \"1000만 달러 더 풀어라\" 요구→211개 협회 '돈벼락' 가능성",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 8040,
-      "rank": 6,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'충격! 또 3실점, 이런 자동문을 봤나' 개막 5경기서 총 12골 헌납! 첼시, 브렌트포드 원정 0-3 대패..'레알 마드리드에서 망했던 사비 알론소, EPL도 쉽지 않다'",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 7747,
+      "views": 11638,
       "rank": 7,
       "channel": "정보주는하마"
     },
     {
-      "title": "'드디어 찾았다' 누가 이 선수를 백업으로 보나, 韓에 없어서는 안 된다…\"아직 인생 경기 안 왔습니다, 더 보여드릴게요\"",
+      "title": "스페인 라리가 '오피셜' 공식 인정, 이강인은 아틀레티코 마드리드 에이스 맞다...마드리드 더비 앞두고 벨링엄과 나란히",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 6049,
-      "rank": 10,
+      "views": 11191,
+      "rank": 8,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'이건 고의다, 실수일리가 없다...' 韓 대표팀에 北 국가 틀어버린 日 '역대급 분노 세례'",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 7811,
+      "rank": 12,
       "channel": "정보주는하마"
     },
     {
@@ -350,79 +350,55 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 5770,
-      "rank": 12,
+      "views": 7409,
+      "rank": 14,
       "channel": "정보주는하마"
     },
     {
-      "title": "중국 탁구 초비상! 세계 1위 왕추친 \"배에서 자는 건 난생 처음\"…日 숙소는 2km 거리 호텔, 中 30km 떨어진 크루즈",
+      "title": "\"12시간 동안 밥도 못 먹었다\" 中 세계 챔피언 폭발! 일본 현실 고발 나섰다...\"AG, 첫날부터 형편없었어\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 5725,
-      "rank": 13,
+      "views": 7393,
+      "rank": 15,
       "channel": "정보주는하마"
     },
     {
-      "title": "'퇴출 위기라며' 또 140m 초대형 홈런포 '괴력' 대반전! 사령탑 \"타석에 들어서면 기대가 된다\" 가을야구 기대감 폭발",
+      "title": "\"대한민국 약하지 않습니다!\" 에이스 권순우가 끝냈다... 韓 테니스, 사상 첫 데이비스컵 '파이널스 8' 진출",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 4975,
+      "views": 6783,
+      "rank": 16,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "이강인 아틀레티코 입단 환영한 '절친' 바에나, 뜻밖의 팬심 고백 \"야말 있어 바르셀로나 경기 항상 챙겨봐\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 6074,
       "rank": 17,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"터치 너무 많아\" 마르카도 이강인 2호 골 보고 \"공격 중심, 월간 베스트 골 예상\" 태세 전환...\"그리즈만 대체자 드디어 찾았다, 아틀레티코 단점 지워\" 극찬도",
+      "title": "'이호연→변우혁→윤도현' 나고야로 떠난 슈퍼스타 대체자 또 바뀌었다!...'NC전 8연패' KIA 라인업 공개",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 4502,
+      "views": 5648,
       "rank": 20,
       "channel": "정보주는하마"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 41,
+      "article_count": 42,
       "topics": [
-        {
-          "title": "\"드디어, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 6,
-          "source_article": "여중생이 100m 11초…언니들 넘어 한국 신기록 썼다",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "드디어",
-            "찾았다",
-            "여중생",
-            "언니들",
-            "넘어"
-          ],
-          "template": "스포츠 기록",
-          "score": 6.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
         {
           "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
           "angle_type": "가족·혈연",
-          "article_count": 2,
+          "article_count": 3,
           "source_article": "곽범, 13살 딸 'AI 같은 미모'…\"홍대서 길거리 캐스팅\" ('전현무계획4')",
           "source_url": "https://m.entertain.naver.com/article/312/0000776720",
           "source_name": "엔터 많이 본 뉴스",
@@ -434,7 +410,7 @@
             "길거리"
           ],
           "template": "동갑내기",
-          "score": 6.5,
+          "score": 7.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -453,21 +429,54 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 2,
-          "source_article": "\"故 김새론 무혐의지만…\" 김수현, 국내 첫 복귀 한계점",
-          "source_url": "https://m.entertain.naver.com/article/440/0000046038",
+          "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
+          "angle_type": "결혼·이혼",
+          "article_count": 3,
+          "source_article": "“이효리♥이상순이 왜 여기서 나와?” 임영웅도…임신 6개월 고규필 아내는 공짜",
+          "source_url": "https://m.entertain.naver.com/article/410/0001140562",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "김새론",
-            "무혐의",
-            "지만",
-            "김수현",
-            "국내"
+            "이효리",
+            "이상순",
+            "여기서",
+            "나와",
+            "임영웅"
           ],
-          "template": "장기 공백 복귀",
-          "score": 6.1,
+          "template": "결혼 화제",
+          "score": 6.7,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "재활용 가능",
+            "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
+            "matched_views": 720727,
+            "reason": "검증됨 720,727회 · 161일 경과"
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 3,
+          "source_article": "대변 흘리고 우승→\"다른 선수가 네 X 만졌잖아\" 맹비난에 트로피 반납…알고 보니 흔한 일? 英 유력지 \"드문 현상 아냐, 90%가 경험\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "즉흥여",
+            "전현무",
+            "제작진",
+            "사과",
+            "대놓고"
+          ],
+          "template": "논란 집합",
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -478,9 +487,9 @@
           "table": {
             "headers": [
               "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
@@ -517,27 +526,105 @@
             ]
           },
           "channel": "정보주는하마"
+        },
+        {
+          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 2,
+          "source_article": "공효진, 10살 연하 ♥케빈오 전역하니 붙어 다니네…뉴욕서 달달한 근황",
+          "source_url": "https://m.entertain.naver.com/article/312/0000776751",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "공효진",
+            "연하",
+            "케빈오",
+            "전역하",
+            "붙어"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 5.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 2,
+          "source_article": "대변 흘리고 우승→\"다른 선수가 네 X 만졌잖아\" 맹비난에 트로피 반납…알고 보니 흔한 일? 英 유력지 \"드문 현상 아냐, 90%가 경험\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "대변",
+            "흘리고",
+            "우승",
+            "다른",
+            "선수가"
+          ],
+          "template": "스포츠 기록",
+          "score": 5.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
+            ]
+          },
+          "channel": "정보주는하마"
         }
       ],
       "keyword_freq": [
+        [
+          "다른",
+          2
+        ],
+        [
+          "미모",
+          2
+        ],
         [
           "연예계",
           2
         ],
         [
-          "많아",
+          "법정행",
           2
         ],
         [
-          "인생",
+          "고지용",
           2
         ],
         [
-          "고백",
+          "제대로",
           2
         ],
         [
-          "나솔",
+          "앞두고",
+          2
+        ],
+        [
+          "사로잡은",
           2
         ],
         [
@@ -545,85 +632,93 @@
           2
         ],
         [
-          "신랑수업",
+          "고백",
           2
         ],
         [
-          "이런",
+          "알고",
           2
         ],
         [
-          "대반전",
+          "공식",
           2
         ],
         [
-          "드디어",
+          "국가",
           2
         ],
         [
-          "찾았다",
+          "아틀레티코",
           2
         ],
         [
-          "판결",
+          "에이스",
+          2
+        ],
+        [
+          "당황",
           1
         ],
         [
-          "뜯어간",
+          "조심해",
           1
         ],
         [
-          "방송작가",
+          "한소희",
           1
         ],
         [
-          "전액",
+          "팬들도",
           1
         ],
         [
-          "배상하라",
-          1
-        ],
-        [
-          "넘게",
-          1
-        ],
-        [
-          "이민우에",
-          1
-        ],
-        [
-          "신화",
-          1
-        ],
-        [
-          "토로하더니",
+          "대선배들",
           1
         ]
       ],
       "name_freq": [
         [
-          "연예계",
-          2
-        ],
-        [
           "연예인",
           2
         ],
         [
-          "많아",
+          "다른",
           2
         ],
         [
-          "인생",
+          "미모",
           2
         ],
         [
-          "고백",
+          "전현무",
           2
         ],
         [
-          "나솔",
+          "연예계",
+          2
+        ],
+        [
+          "허양임",
+          2
+        ],
+        [
+          "법정행",
+          2
+        ],
+        [
+          "고지용",
+          2
+        ],
+        [
+          "제대로",
+          2
+        ],
+        [
+          "앞두고",
+          2
+        ],
+        [
+          "사로잡",
           2
         ],
         [
@@ -631,27 +726,15 @@
           2
         ],
         [
-          "는데",
+          "고백",
           2
         ],
         [
-          "신랑수",
+          "알고",
           2
         ],
         [
-          "이런",
-          2
-        ],
-        [
-          "대반전",
-          2
-        ],
-        [
-          "드디어",
-          2
-        ],
-        [
-          "찾았다",
+          "대표팀",
           2
         ]
       ],
@@ -661,35 +744,43 @@
           2
         ],
         [
+          "논란·사건",
+          3
+        ],
+        [
+          "결혼·이혼",
+          3
+        ],
+        [
           "복귀·근황",
           2
         ],
         [
           "스포츠",
-          6
+          2
         ],
         [
           "가족·혈연",
-          2
+          3
         ]
       ]
     },
     "초구딱": {
-      "article_count": 9,
+      "article_count": 38,
       "topics": [
         {
-          "title": "\"담배, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "title": "\"홈런, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 7,
-          "source_article": "담배 포착된 대표팀 포수 김건희…팬들 “운동선수가 담배?” vs “금메달만 따와라”",
+          "article_count": 6,
+          "source_article": "'김혜성한테 왜 이러나' 가뜩이나 입지 좁은데 ‘24홈런 괴물’까지 2루로…美 매체, “1~2년 뒤 출전시간 위협”",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "담배",
-            "다저스",
-            "선발",
-            "포착된",
-            "대표팀"
+            "홈런",
+            "김혜성",
+            "이러나",
+            "가뜩이",
+            "입지"
           ],
           "template": "스포츠 기록",
           "score": 6.8,
@@ -709,150 +800,285 @@
             ]
           },
           "channel": "초구딱"
+        },
+        {
+          "title": "\"한화, 지금 어디서 뭐 하나?\" 한화 근황 총정리",
+          "angle_type": "👤 한화",
+          "article_count": 3,
+          "source_article": "'대전 예수' 내년 한화 복귀 확정? 그런데 8.1이닝 7K 무실점. ML 희망 되살리나",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "한화"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.6,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 2,
+          "source_article": "'대전 예수' 내년 한화 복귀 확정? 그런데 8.1이닝 7K 무실점. ML 희망 되살리나",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "예수",
+            "내년",
+            "한화",
+            "확정",
+            "그런데"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.1,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"안내\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안내",
+          "article_count": 3,
+          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "안내"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"보면\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 보면",
+          "article_count": 3,
+          "source_article": "너 말고 다른 연애) 안은진은 보면 볼수록 매력있네요",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609190118806993&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "보면"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
         [
-          "선발",
+          "한화",
+          3
+        ],
+        [
+          "안내",
+          3
+        ],
+        [
+          "보면",
+          3
+        ],
+        [
+          "이닝",
           2
         ],
         [
-          "대표팀",
+          "홈런",
+          2
+        ],
+        [
+          "연승",
+          2
+        ],
+        [
+          "연패",
+          2
+        ],
+        [
+          "조치",
+          2
+        ],
+        [
+          "해외",
+          2
+        ],
+        [
+          "이벤트",
+          2
+        ],
+        [
+          "그런데",
           1
         ],
         [
-          "포수",
+          "내년",
           1
         ],
         [
-          "운동선수가",
+          "확정",
           1
         ],
         [
-          "금메달만",
+          "예수",
           1
         ],
         [
-          "포착된",
+          "무실점",
           1
         ],
         [
-          "김건희",
+          "되살리나",
           1
         ],
         [
-          "따와라",
+          "희망",
           1
         ],
         [
-          "담배",
+          "거예요",
           1
         ],
         [
-          "팬들",
+          "쉽게",
           1
         ],
         [
-          "일처리는",
-          1
-        ],
-        [
-          "너무하네",
-          1
-        ],
-        [
-          "아닌",
-          1
-        ],
-        [
-          "훈련",
-          1
-        ],
-        [
-          "대형",
-          1
-        ],
-        [
-          "빛났다",
-          1
-        ],
-        [
-          "야구대표팀",
-          1
-        ],
-        [
-          "해도해도",
-          1
-        ],
-        [
-          "실내구장",
-          1
-        ],
-        [
-          "야외",
+          "안정권",
           1
         ]
       ],
       "name_freq": [
         [
-          "휴스턴",
+          "한화",
+          3
+        ],
+        [
+          "안내",
+          3
+        ],
+        [
+          "보면",
+          3
+        ],
+        [
+          "이닝",
           2
         ],
         [
-          "선발",
+          "홈런",
           2
         ],
         [
-          "다저스",
+          "연승",
+          2
+        ],
+        [
+          "연패",
+          2
+        ],
+        [
+          "하고",
+          2
+        ],
+        [
+          "조치",
+          2
+        ],
+        [
+          "해외",
+          2
+        ],
+        [
+          "이벤트",
+          2
+        ],
+        [
+          "네요",
+          2
+        ],
+        [
+          "아시안",
+          2
+        ],
+        [
+          "들은",
           2
         ]
       ],
       "angle_scores": [
         [
+          "복귀·근황",
+          2
+        ],
+        [
           "스포츠",
-          7
+          6
         ]
       ]
     }
   },
   "topics": [
     {
-      "title": "\"드디어, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 6,
-      "source_article": "여중생이 100m 11초…언니들 넘어 한국 신기록 썼다",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "드디어",
-        "찾았다",
-        "여중생",
-        "언니들",
-        "넘어"
-      ],
-      "template": "스포츠 기록",
-      "score": 6.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
       "angle_type": "가족·혈연",
-      "article_count": 2,
+      "article_count": 3,
       "source_article": "곽범, 13살 딸 'AI 같은 미모'…\"홍대서 길거리 캐스팅\" ('전현무계획4')",
       "source_url": "https://m.entertain.naver.com/article/312/0000776720",
       "source_name": "엔터 많이 본 뉴스",
@@ -864,7 +1090,7 @@
         "길거리"
       ],
       "template": "동갑내기",
-      "score": 6.5,
+      "score": 7.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -883,21 +1109,54 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 2,
-      "source_article": "\"故 김새론 무혐의지만…\" 김수현, 국내 첫 복귀 한계점",
-      "source_url": "https://m.entertain.naver.com/article/440/0000046038",
+      "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 3,
+      "source_article": "“이효리♥이상순이 왜 여기서 나와?” 임영웅도…임신 6개월 고규필 아내는 공짜",
+      "source_url": "https://m.entertain.naver.com/article/410/0001140562",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "김새론",
-        "무혐의",
-        "지만",
-        "김수현",
-        "국내"
+        "이효리",
+        "이상순",
+        "여기서",
+        "나와",
+        "임영웅"
       ],
-      "template": "장기 공백 복귀",
-      "score": 6.1,
+      "template": "결혼 화제",
+      "score": 6.7,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "재활용 가능",
+        "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
+        "matched_views": 720727,
+        "reason": "검증됨 720,727회 · 161일 경과"
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 3,
+      "source_article": "대변 흘리고 우승→\"다른 선수가 네 X 만졌잖아\" 맹비난에 트로피 반납…알고 보니 흔한 일? 英 유력지 \"드문 현상 아냐, 90%가 경험\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "즉흥여",
+        "전현무",
+        "제작진",
+        "사과",
+        "대놓고"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -908,9 +1167,9 @@
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
@@ -944,6 +1203,72 @@
           "주요 수입원",
           "추정 자산",
           "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "공효진, 10살 연하 ♥케빈오 전역하니 붙어 다니네…뉴욕서 달달한 근황",
+      "source_url": "https://m.entertain.naver.com/article/312/0000776751",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "공효진",
+        "연하",
+        "케빈오",
+        "전역하",
+        "붙어"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 5.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 2,
+      "source_article": "대변 흘리고 우승→\"다른 선수가 네 X 만졌잖아\" 맹비난에 트로피 반납…알고 보니 흔한 일? 英 유력지 \"드문 현상 아냐, 90%가 경험\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "대변",
+        "흘리고",
+        "우승",
+        "다른",
+        "선수가"
+      ],
+      "template": "스포츠 기록",
+      "score": 5.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
         ]
       },
       "channel": "정보주는하마"
@@ -951,42 +1276,9 @@
   ],
   "all_topics": [
     {
-      "title": "\"드디어, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 6,
-      "source_article": "여중생이 100m 11초…언니들 넘어 한국 신기록 썼다",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "드디어",
-        "찾았다",
-        "여중생",
-        "언니들",
-        "넘어"
-      ],
-      "template": "스포츠 기록",
-      "score": 6.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
       "angle_type": "가족·혈연",
-      "article_count": 2,
+      "article_count": 3,
       "source_article": "곽범, 13살 딸 'AI 같은 미모'…\"홍대서 길거리 캐스팅\" ('전현무계획4')",
       "source_url": "https://m.entertain.naver.com/article/312/0000776720",
       "source_name": "엔터 많이 본 뉴스",
@@ -998,7 +1290,7 @@
         "길거리"
       ],
       "template": "동갑내기",
-      "score": 6.5,
+      "score": 7.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1017,21 +1309,54 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 2,
-      "source_article": "\"故 김새론 무혐의지만…\" 김수현, 국내 첫 복귀 한계점",
-      "source_url": "https://m.entertain.naver.com/article/440/0000046038",
+      "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 3,
+      "source_article": "“이효리♥이상순이 왜 여기서 나와?” 임영웅도…임신 6개월 고규필 아내는 공짜",
+      "source_url": "https://m.entertain.naver.com/article/410/0001140562",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "김새론",
-        "무혐의",
-        "지만",
-        "김수현",
-        "국내"
+        "이효리",
+        "이상순",
+        "여기서",
+        "나와",
+        "임영웅"
       ],
-      "template": "장기 공백 복귀",
-      "score": 6.1,
+      "template": "결혼 화제",
+      "score": 6.7,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "재활용 가능",
+        "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
+        "matched_views": 720727,
+        "reason": "검증됨 720,727회 · 161일 경과"
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 3,
+      "source_article": "대변 흘리고 우승→\"다른 선수가 네 X 만졌잖아\" 맹비난에 트로피 반납…알고 보니 흔한 일? 英 유력지 \"드문 현상 아냐, 90%가 경험\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "즉흥여",
+        "전현무",
+        "제작진",
+        "사과",
+        "대놓고"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1042,9 +1367,9 @@
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
@@ -1083,18 +1408,84 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"담배, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "공효진, 10살 연하 ♥케빈오 전역하니 붙어 다니네…뉴욕서 달달한 근황",
+      "source_url": "https://m.entertain.naver.com/article/312/0000776751",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "공효진",
+        "연하",
+        "케빈오",
+        "전역하",
+        "붙어"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 5.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 7,
-      "source_article": "담배 포착된 대표팀 포수 김건희…팬들 “운동선수가 담배?” vs “금메달만 따와라”",
+      "article_count": 2,
+      "source_article": "대변 흘리고 우승→\"다른 선수가 네 X 만졌잖아\" 맹비난에 트로피 반납…알고 보니 흔한 일? 英 유력지 \"드문 현상 아냐, 90%가 경험\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "담배",
-        "다저스",
-        "선발",
-        "포착된",
-        "대표팀"
+        "대변",
+        "흘리고",
+        "우승",
+        "다른",
+        "선수가"
+      ],
+      "template": "스포츠 기록",
+      "score": 5.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"홈런, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 6,
+      "source_article": "'김혜성한테 왜 이러나' 가뜩이나 입지 좁은데 ‘24홈런 괴물’까지 2루로…美 매체, “1~2년 뒤 출전시간 위협”",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "홈런",
+        "김혜성",
+        "이러나",
+        "가뜩이",
+        "입지"
       ],
       "template": "스포츠 기록",
       "score": 6.8,
@@ -1114,27 +1505,159 @@
         ]
       },
       "channel": "초구딱"
+    },
+    {
+      "title": "\"한화, 지금 어디서 뭐 하나?\" 한화 근황 총정리",
+      "angle_type": "👤 한화",
+      "article_count": 3,
+      "source_article": "'대전 예수' 내년 한화 복귀 확정? 그런데 8.1이닝 7K 무실점. ML 희망 되살리나",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "한화"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "'대전 예수' 내년 한화 복귀 확정? 그런데 8.1이닝 7K 무실점. ML 희망 되살리나",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "예수",
+        "내년",
+        "한화",
+        "확정",
+        "그런데"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"보면\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 보면",
+      "article_count": 3,
+      "source_article": "너 말고 다른 연애) 안은진은 보면 볼수록 매력있네요",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609190118806993&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "보면"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
+    [
+      "다른",
+      2
+    ],
+    [
+      "미모",
+      2
+    ],
     [
       "연예계",
       2
     ],
     [
-      "많아",
+      "법정행",
       2
     ],
     [
-      "인생",
+      "고지용",
       2
     ],
     [
-      "고백",
+      "제대로",
       2
     ],
     [
-      "나솔",
+      "앞두고",
+      2
+    ],
+    [
+      "사로잡은",
       2
     ],
     [
@@ -1142,85 +1665,93 @@
       2
     ],
     [
-      "신랑수업",
+      "고백",
       2
     ],
     [
-      "이런",
+      "알고",
       2
     ],
     [
-      "대반전",
+      "공식",
       2
     ],
     [
-      "드디어",
+      "국가",
       2
     ],
     [
-      "찾았다",
+      "아틀레티코",
       2
     ],
     [
-      "판결",
+      "에이스",
+      2
+    ],
+    [
+      "당황",
       1
     ],
     [
-      "뜯어간",
+      "조심해",
       1
     ],
     [
-      "방송작가",
+      "한소희",
       1
     ],
     [
-      "전액",
+      "팬들도",
       1
     ],
     [
-      "배상하라",
-      1
-    ],
-    [
-      "넘게",
-      1
-    ],
-    [
-      "이민우에",
-      1
-    ],
-    [
-      "신화",
-      1
-    ],
-    [
-      "토로하더니",
+      "대선배들",
       1
     ]
   ],
   "name_freq": [
     [
-      "연예계",
-      2
-    ],
-    [
       "연예인",
       2
     ],
     [
-      "많아",
+      "다른",
       2
     ],
     [
-      "인생",
+      "미모",
       2
     ],
     [
-      "고백",
+      "전현무",
       2
     ],
     [
-      "나솔",
+      "연예계",
+      2
+    ],
+    [
+      "허양임",
+      2
+    ],
+    [
+      "법정행",
+      2
+    ],
+    [
+      "고지용",
+      2
+    ],
+    [
+      "제대로",
+      2
+    ],
+    [
+      "앞두고",
+      2
+    ],
+    [
+      "사로잡",
       2
     ],
     [
@@ -1228,31 +1759,19 @@
       2
     ],
     [
-      "는데",
+      "고백",
       2
     ],
     [
-      "신랑수",
+      "알고",
       2
     ],
     [
-      "이런",
-      2
-    ],
-    [
-      "대반전",
-      2
-    ],
-    [
-      "드디어",
-      2
-    ],
-    [
-      "찾았다",
+      "대표팀",
       2
     ]
   ],
-  "total_topics_generated": 5,
-  "valid_topics": 5,
+  "total_topics_generated": 11,
+  "valid_topics": 11,
   "excluded_duplicates": 0
 }

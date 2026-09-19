@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-09-19 09:11:35",
+  "scan_time": "2026-09-19 12:43:48",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,17 +8,35 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 0
+    "MLB파크 불펜": 30
   },
-  "total_articles": 50,
+  "total_articles": 80,
   "articles": [
     {
-      "title": "담배 포착된 대표팀 포수 김건희…팬들 “운동선수가 담배?” vs “금메달만 따와라”",
+      "title": "'대전 예수' 내년 한화 복귀 확정? 그런데 8.1이닝 7K 무실점. ML 희망 되살리나",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 36034,
-      "rank": 2,
+      "views": 41188,
+      "rank": 1,
+      "channel": "초구딱"
+    },
+    {
+      "title": "“KT·삼성, 쉽게 안 떨어질 거예요” 염갈량의 LG 그러면 3위는 안정권? NO…4위 KIA와 운명의 5경기",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 13265,
+      "rank": 6,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'김혜성한테 왜 이러나' 가뜩이나 입지 좁은데 ‘24홈런 괴물’까지 2루로…美 매체, “1~2년 뒤 출전시간 위협”",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 11043,
+      "rank": 9,
       "channel": "초구딱"
     },
     {
@@ -26,17 +44,17 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 6837,
-      "rank": 8,
+      "views": 10086,
+      "rank": 10,
       "channel": "초구딱"
     },
     {
-      "title": "\"다저스 쓰러뜨리겠다\" 852억 선발 어쩌다 '패전 처리' 강등 됐나…日 특급 이마이 충격 추락, \"휴스턴은 훨씬 큰 기대했다\"",
+      "title": "'140m 초대형 홈런' 잠실 빅보이 8회 결승 홈런, 잠실구장 함성 가득...LG 6연승 신바람, 한화 6연패 추락",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 6510,
-      "rank": 9,
+      "views": 9406,
+      "rank": 11,
       "channel": "초구딱"
     },
     {
@@ -44,8 +62,17 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 5775,
-      "rank": 11,
+      "views": 7796,
+      "rank": 13,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'가을냄새 맡았다' LG 6연승 질주, 이재원 180㎞ 총알 결승포+임찬규 7이닝 1실점... 한화 6연패 수렁",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 5980,
+      "rank": 18,
       "channel": "초구딱"
     },
     {
@@ -53,88 +80,289 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 5710,
+      "views": 5682,
+      "rank": 19,
+      "channel": "초구딱"
+    },
+    {
+      "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 1,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 2,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🛠️[업데이트] 해외 접속 장애 조치 관련 안내_260814🛠️",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202608130000002151",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 3,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[공지] 이미지 업로드 시 불법촬영물등 비교·식별 조치 적용 안내",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202609040000002163",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 4,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🍗[이벤트]엠팍 유저 전용! 플레이공 가입 혜택 + 교촌치킨 증정🍗",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609080000002169",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 5,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🎞️[당첨자발표] '어벤져스:엔드게임 앙코르' 개봉 기념 이벤트🎞️",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609100000002172",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 6,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[르세라핌] 내한하는 칼리드가 콜라보하고 싶은 아이돌.swf",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609190118807059&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 7,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[리센느] 2026 TMA Runaway + LOVE ATTACK (오케스트라 Ver).MP4",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609190118807053&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 8,
+      "channel": "초구딱"
+    },
+    {
+      "title": "의외로 한국 학생들이 전세계에서 1위라는 것.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609190118807050&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 45,
+      "rank": 9,
+      "channel": "초구딱"
+    },
+    {
+      "title": "사일런트힐, 레지던트이블 0번째밤",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609190118807047&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 10,
+      "channel": "초구딱"
+    },
+    {
+      "title": "사회현상 일본을 안따라간다면서 결국 다 따라가네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609190118807044&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 11,
+      "channel": "초구딱"
+    },
+    {
+      "title": "이거 옛날 군입대 신검인데 어떤거 검사하는거죠?.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609190118807026&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 48,
+      "rank": 12,
+      "channel": "초구딱"
+    },
+    {
+      "title": "롤 아시안게임이요 왜 재카가 주전이고 페이커가 벤치인가요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609190118807023&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 40,
+      "rank": 13,
+      "channel": "초구딱"
+    },
+    {
+      "title": "kbs드라마) 한 회라도 키스 안하면 안되나봐요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609190118807020&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 17,
       "rank": 14,
       "channel": "초구딱"
     },
     {
-      "title": "KBO 비공인 퍼펙트게임 아무나 하나…오죽하면 사령탑이 \"대만을 쉽게 보는 것 같다\" 걱정, 메시지까지 전달한 사연",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 5377,
+      "title": "와이프 오빠의 니네엄마 소리 무례한건가요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609190118807017&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 55,
       "rank": 15,
       "channel": "초구딱"
     },
     {
-      "title": "국가대표 수비수, 조유민, \"역사와 전통이 있는 구단에 합류하게 돼 기뻐\"...일본 J리그 구단 도쿄 베르디로 이적해 새출발",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 5046,
+      "title": "해축도 예전만한 재미는 안느껴지죠?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609190118807011&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 31,
       "rank": 16,
       "channel": "초구딱"
     },
     {
-      "title": "'5연패 탈출 절실' 한화, 2007년생 신인 좌완 하동준 전격 1군 등록…김경문 감독 \"잘 던져달라는 바람 없어, 달라진 모습 보고 싶다\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 4775,
+      "title": "레이디 가가, 대리모 통해 첫 딸 얻었다",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609190118807008&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 36,
+      "rank": 17,
+      "channel": "초구딱"
+    },
+    {
+      "title": "뚜레주르 최애빵 치즈 방앗간",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609190118807002&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 142,
       "rank": 18,
       "channel": "초구딱"
     },
     {
-      "title": "MLB 애틀랜타, 휴스턴 꺾고 2년 만에 가을야구 진출 확정…김하성은 결장",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 4636,
+      "title": "진짜 남농도 여농 박지수 처럼 제대로 된 빅맨 한명만 나오면",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609190118806996&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 22,
       "rank": 19,
+      "channel": "초구딱"
+    },
+    {
+      "title": "너 말고 다른 연애) 안은진은 보면 볼수록 매력있네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609190118806993&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 19,
+      "rank": 20,
+      "channel": "초구딱"
+    },
+    {
+      "title": "우리나라 AI 규제 이야기하는거 보면 신기하지 않나요 ㅋㅋ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609190118806987&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 64,
+      "rank": 21,
+      "channel": "초구딱"
+    },
+    {
+      "title": "토트넘 근황.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609190118806984&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 227,
+      "rank": 22,
+      "channel": "초구딱"
+    },
+    {
+      "title": "지방직 공무원들은 뭔가 중앙부처 고시 공무원들보다 수준이 떨어져 보이던데",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609190118806978&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 109,
+      "rank": 23,
+      "channel": "초구딱"
+    },
+    {
+      "title": "골든리트리버 같은 대왕견들 똥 엄청 싸나여?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609190118806972&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 147,
+      "rank": 24,
+      "channel": "초구딱"
+    },
+    {
+      "title": "남자들이 약속 정하는 방식.swf",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609190118806969&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 104,
+      "rank": 25,
+      "channel": "초구딱"
+    },
+    {
+      "title": "jtbc) 경복궁 둘레길 러닝 유헹, 민폐 논쟁",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609190118806966&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 226,
+      "rank": 26,
+      "channel": "초구딱"
+    },
+    {
+      "title": "나고야에서 개최해도 일본인들은 아시안게임 관심없다고함",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609190118806957&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 67,
+      "rank": 27,
+      "channel": "초구딱"
+    },
+    {
+      "title": "일본 보면 해외 여행에서 가장 중요한건",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609190118806954&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 49,
+      "rank": 28,
+      "channel": "초구딱"
+    },
+    {
+      "title": "상어에게 식사대접을 하고싶었던 부산 아재",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609190118806951&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 455,
+      "rank": 29,
+      "channel": "초구딱"
+    },
+    {
+      "title": "2025년 기준 연예기회사 매출 순위표.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609190118806948&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 161,
+      "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 41,
+      "article_count": 42,
       "topics": [
-        {
-          "title": "\"드디어, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 6,
-          "source_article": "여중생이 100m 11초…언니들 넘어 한국 신기록 썼다",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "드디어",
-            "찾았다",
-            "여중생",
-            "언니들",
-            "넘어"
-          ],
-          "template": "스포츠 기록",
-          "score": 6.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
         {
           "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
           "angle_type": "가족·혈연",
-          "article_count": 2,
+          "article_count": 3,
           "source_article": "곽범, 13살 딸 'AI 같은 미모'…\"홍대서 길거리 캐스팅\" ('전현무계획4')",
           "source_url": "https://m.entertain.naver.com/article/312/0000776720",
           "source_name": "엔터 많이 본 뉴스",
@@ -146,7 +374,7 @@
             "길거리"
           ],
           "template": "동갑내기",
-          "score": 6.5,
+          "score": 7.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -165,21 +393,54 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 2,
-          "source_article": "\"故 김새론 무혐의지만…\" 김수현, 국내 첫 복귀 한계점",
-          "source_url": "https://m.entertain.naver.com/article/440/0000046038",
+          "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
+          "angle_type": "결혼·이혼",
+          "article_count": 3,
+          "source_article": "“이효리♥이상순이 왜 여기서 나와?” 임영웅도…임신 6개월 고규필 아내는 공짜",
+          "source_url": "https://m.entertain.naver.com/article/410/0001140562",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "김새론",
-            "무혐의",
-            "지만",
-            "김수현",
-            "국내"
+            "이효리",
+            "이상순",
+            "여기서",
+            "나와",
+            "임영웅"
           ],
-          "template": "장기 공백 복귀",
-          "score": 6.1,
+          "template": "결혼 화제",
+          "score": 6.7,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "재활용 가능",
+            "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
+            "matched_views": 720727,
+            "reason": "검증됨 720,727회 · 161일 경과"
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 3,
+          "source_article": "대변 흘리고 우승→\"다른 선수가 네 X 만졌잖아\" 맹비난에 트로피 반납…알고 보니 흔한 일? 英 유력지 \"드문 현상 아냐, 90%가 경험\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "즉흥여",
+            "전현무",
+            "제작진",
+            "사과",
+            "대놓고"
+          ],
+          "template": "논란 집합",
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -190,9 +451,9 @@
           "table": {
             "headers": [
               "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
@@ -229,27 +490,105 @@
             ]
           },
           "channel": "정보주는하마"
+        },
+        {
+          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 2,
+          "source_article": "공효진, 10살 연하 ♥케빈오 전역하니 붙어 다니네…뉴욕서 달달한 근황",
+          "source_url": "https://m.entertain.naver.com/article/312/0000776751",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "공효진",
+            "연하",
+            "케빈오",
+            "전역하",
+            "붙어"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 5.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 2,
+          "source_article": "대변 흘리고 우승→\"다른 선수가 네 X 만졌잖아\" 맹비난에 트로피 반납…알고 보니 흔한 일? 英 유력지 \"드문 현상 아냐, 90%가 경험\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "대변",
+            "흘리고",
+            "우승",
+            "다른",
+            "선수가"
+          ],
+          "template": "스포츠 기록",
+          "score": 5.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
+            ]
+          },
+          "channel": "정보주는하마"
         }
       ],
       "keyword_freq": [
+        [
+          "다른",
+          2
+        ],
+        [
+          "미모",
+          2
+        ],
         [
           "연예계",
           2
         ],
         [
-          "많아",
+          "법정행",
           2
         ],
         [
-          "인생",
+          "고지용",
           2
         ],
         [
-          "고백",
+          "제대로",
           2
         ],
         [
-          "나솔",
+          "앞두고",
+          2
+        ],
+        [
+          "사로잡은",
           2
         ],
         [
@@ -257,85 +596,93 @@
           2
         ],
         [
-          "신랑수업",
+          "고백",
           2
         ],
         [
-          "이런",
+          "알고",
           2
         ],
         [
-          "대반전",
+          "공식",
           2
         ],
         [
-          "드디어",
+          "국가",
           2
         ],
         [
-          "찾았다",
+          "아틀레티코",
           2
         ],
         [
-          "판결",
+          "에이스",
+          2
+        ],
+        [
+          "당황",
           1
         ],
         [
-          "뜯어간",
+          "조심해",
           1
         ],
         [
-          "방송작가",
+          "한소희",
           1
         ],
         [
-          "전액",
+          "팬들도",
           1
         ],
         [
-          "배상하라",
-          1
-        ],
-        [
-          "넘게",
-          1
-        ],
-        [
-          "이민우에",
-          1
-        ],
-        [
-          "신화",
-          1
-        ],
-        [
-          "토로하더니",
+          "대선배들",
           1
         ]
       ],
       "name_freq": [
         [
-          "연예계",
-          2
-        ],
-        [
           "연예인",
           2
         ],
         [
-          "많아",
+          "다른",
           2
         ],
         [
-          "인생",
+          "미모",
           2
         ],
         [
-          "고백",
+          "전현무",
           2
         ],
         [
-          "나솔",
+          "연예계",
+          2
+        ],
+        [
+          "허양임",
+          2
+        ],
+        [
+          "법정행",
+          2
+        ],
+        [
+          "고지용",
+          2
+        ],
+        [
+          "제대로",
+          2
+        ],
+        [
+          "앞두고",
+          2
+        ],
+        [
+          "사로잡",
           2
         ],
         [
@@ -343,27 +690,15 @@
           2
         ],
         [
-          "는데",
+          "고백",
           2
         ],
         [
-          "신랑수",
+          "알고",
           2
         ],
         [
-          "이런",
-          2
-        ],
-        [
-          "대반전",
-          2
-        ],
-        [
-          "드디어",
-          2
-        ],
-        [
-          "찾았다",
+          "대표팀",
           2
         ]
       ],
@@ -373,35 +708,43 @@
           2
         ],
         [
+          "논란·사건",
+          3
+        ],
+        [
+          "결혼·이혼",
+          3
+        ],
+        [
           "복귀·근황",
           2
         ],
         [
           "스포츠",
-          6
+          2
         ],
         [
           "가족·혈연",
-          2
+          3
         ]
       ]
     },
     "초구딱": {
-      "article_count": 9,
+      "article_count": 38,
       "topics": [
         {
-          "title": "\"담배, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "title": "\"홈런, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 7,
-          "source_article": "담배 포착된 대표팀 포수 김건희…팬들 “운동선수가 담배?” vs “금메달만 따와라”",
+          "article_count": 6,
+          "source_article": "'김혜성한테 왜 이러나' 가뜩이나 입지 좁은데 ‘24홈런 괴물’까지 2루로…美 매체, “1~2년 뒤 출전시간 위협”",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "담배",
-            "다저스",
-            "선발",
-            "포착된",
-            "대표팀"
+            "홈런",
+            "김혜성",
+            "이러나",
+            "가뜩이",
+            "입지"
           ],
           "template": "스포츠 기록",
           "score": 6.8,
@@ -421,126 +764,294 @@
             ]
           },
           "channel": "초구딱"
+        },
+        {
+          "title": "\"한화, 지금 어디서 뭐 하나?\" 한화 근황 총정리",
+          "angle_type": "👤 한화",
+          "article_count": 3,
+          "source_article": "'대전 예수' 내년 한화 복귀 확정? 그런데 8.1이닝 7K 무실점. ML 희망 되살리나",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "한화"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.6,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 2,
+          "source_article": "'대전 예수' 내년 한화 복귀 확정? 그런데 8.1이닝 7K 무실점. ML 희망 되살리나",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "예수",
+            "내년",
+            "한화",
+            "확정",
+            "그런데"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.1,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"안내\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안내",
+          "article_count": 3,
+          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "안내"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"보면\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 보면",
+          "article_count": 3,
+          "source_article": "너 말고 다른 연애) 안은진은 보면 볼수록 매력있네요",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609190118806993&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "보면"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
         [
-          "선발",
+          "한화",
+          3
+        ],
+        [
+          "안내",
+          3
+        ],
+        [
+          "보면",
+          3
+        ],
+        [
+          "이닝",
           2
         ],
         [
-          "대표팀",
+          "홈런",
+          2
+        ],
+        [
+          "연승",
+          2
+        ],
+        [
+          "연패",
+          2
+        ],
+        [
+          "조치",
+          2
+        ],
+        [
+          "해외",
+          2
+        ],
+        [
+          "이벤트",
+          2
+        ],
+        [
+          "그런데",
           1
         ],
         [
-          "포수",
+          "내년",
           1
         ],
         [
-          "운동선수가",
+          "확정",
           1
         ],
         [
-          "금메달만",
+          "예수",
           1
         ],
         [
-          "포착된",
+          "무실점",
           1
         ],
         [
-          "김건희",
+          "되살리나",
           1
         ],
         [
-          "따와라",
+          "희망",
           1
         ],
         [
-          "담배",
+          "거예요",
           1
         ],
         [
-          "팬들",
+          "쉽게",
           1
         ],
         [
-          "일처리는",
-          1
-        ],
-        [
-          "너무하네",
-          1
-        ],
-        [
-          "아닌",
-          1
-        ],
-        [
-          "훈련",
-          1
-        ],
-        [
-          "대형",
-          1
-        ],
-        [
-          "빛났다",
-          1
-        ],
-        [
-          "야구대표팀",
-          1
-        ],
-        [
-          "해도해도",
-          1
-        ],
-        [
-          "실내구장",
-          1
-        ],
-        [
-          "야외",
+          "안정권",
           1
         ]
       ],
       "name_freq": [
         [
-          "휴스턴",
+          "한화",
+          3
+        ],
+        [
+          "안내",
+          3
+        ],
+        [
+          "보면",
+          3
+        ],
+        [
+          "이닝",
           2
         ],
         [
-          "선발",
+          "홈런",
           2
         ],
         [
-          "다저스",
+          "연승",
+          2
+        ],
+        [
+          "연패",
+          2
+        ],
+        [
+          "하고",
+          2
+        ],
+        [
+          "조치",
+          2
+        ],
+        [
+          "해외",
+          2
+        ],
+        [
+          "이벤트",
+          2
+        ],
+        [
+          "네요",
+          2
+        ],
+        [
+          "아시안",
+          2
+        ],
+        [
+          "들은",
           2
         ]
       ],
       "angle_scores": [
         [
+          "복귀·근황",
+          2
+        ],
+        [
           "스포츠",
-          7
+          6
         ]
       ]
     }
   },
   "topics": [
     {
-      "title": "\"담배, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"홈런, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 7,
-      "source_article": "담배 포착된 대표팀 포수 김건희…팬들 “운동선수가 담배?” vs “금메달만 따와라”",
+      "article_count": 6,
+      "source_article": "'김혜성한테 왜 이러나' 가뜩이나 입지 좁은데 ‘24홈런 괴물’까지 2루로…美 매체, “1~2년 뒤 출전시간 위협”",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "담배",
-        "다저스",
-        "선발",
-        "포착된",
-        "대표팀"
+        "홈런",
+        "김혜성",
+        "이러나",
+        "가뜩이",
+        "입지"
       ],
       "template": "스포츠 기록",
       "score": 6.8,
@@ -560,25 +1071,19 @@
         ]
       },
       "channel": "초구딱"
-    }
-  ],
-  "all_topics": [
+    },
     {
-      "title": "\"드디어, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 6,
-      "source_article": "여중생이 100m 11초…언니들 넘어 한국 신기록 썼다",
+      "title": "\"한화, 지금 어디서 뭐 하나?\" 한화 근황 총정리",
+      "angle_type": "👤 한화",
+      "article_count": 3,
+      "source_article": "'대전 예수' 내년 한화 복귀 확정? 그런데 8.1이닝 7K 무실점. ML 희망 되살리나",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "드디어",
-        "찾았다",
-        "여중생",
-        "언니들",
-        "넘어"
+        "한화"
       ],
-      "template": "스포츠 기록",
-      "score": 6.8,
+      "template": "장기 공백 복귀",
+      "score": 6.6,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -588,18 +1093,111 @@
       },
       "table": {
         "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
-      "channel": "정보주는하마"
+      "channel": "초구딱"
     },
+    {
+      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "'대전 예수' 내년 한화 복귀 확정? 그런데 8.1이닝 7K 무실점. ML 희망 되살리나",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "예수",
+        "내년",
+        "한화",
+        "확정",
+        "그런데"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"보면\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 보면",
+      "article_count": 3,
+      "source_article": "너 말고 다른 연애) 안은진은 보면 볼수록 매력있네요",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609190118806993&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "보면"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    }
+  ],
+  "all_topics": [
     {
       "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
       "angle_type": "가족·혈연",
-      "article_count": 2,
+      "article_count": 3,
       "source_article": "곽범, 13살 딸 'AI 같은 미모'…\"홍대서 길거리 캐스팅\" ('전현무계획4')",
       "source_url": "https://m.entertain.naver.com/article/312/0000776720",
       "source_name": "엔터 많이 본 뉴스",
@@ -611,7 +1209,7 @@
         "길거리"
       ],
       "template": "동갑내기",
-      "score": 6.5,
+      "score": 7.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -630,21 +1228,54 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 2,
-      "source_article": "\"故 김새론 무혐의지만…\" 김수현, 국내 첫 복귀 한계점",
-      "source_url": "https://m.entertain.naver.com/article/440/0000046038",
+      "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 3,
+      "source_article": "“이효리♥이상순이 왜 여기서 나와?” 임영웅도…임신 6개월 고규필 아내는 공짜",
+      "source_url": "https://m.entertain.naver.com/article/410/0001140562",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "김새론",
-        "무혐의",
-        "지만",
-        "김수현",
-        "국내"
+        "이효리",
+        "이상순",
+        "여기서",
+        "나와",
+        "임영웅"
       ],
-      "template": "장기 공백 복귀",
-      "score": 6.1,
+      "template": "결혼 화제",
+      "score": 6.7,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "재활용 가능",
+        "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
+        "matched_views": 720727,
+        "reason": "검증됨 720,727회 · 161일 경과"
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 3,
+      "source_article": "대변 흘리고 우승→\"다른 선수가 네 X 만졌잖아\" 맹비난에 트로피 반납…알고 보니 흔한 일? 英 유력지 \"드문 현상 아냐, 90%가 경험\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "즉흥여",
+        "전현무",
+        "제작진",
+        "사과",
+        "대놓고"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -655,9 +1286,9 @@
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
@@ -696,18 +1327,84 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"담배, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "공효진, 10살 연하 ♥케빈오 전역하니 붙어 다니네…뉴욕서 달달한 근황",
+      "source_url": "https://m.entertain.naver.com/article/312/0000776751",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "공효진",
+        "연하",
+        "케빈오",
+        "전역하",
+        "붙어"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 5.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 7,
-      "source_article": "담배 포착된 대표팀 포수 김건희…팬들 “운동선수가 담배?” vs “금메달만 따와라”",
+      "article_count": 2,
+      "source_article": "대변 흘리고 우승→\"다른 선수가 네 X 만졌잖아\" 맹비난에 트로피 반납…알고 보니 흔한 일? 英 유력지 \"드문 현상 아냐, 90%가 경험\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "담배",
-        "다저스",
-        "선발",
-        "포착된",
-        "대표팀"
+        "대변",
+        "흘리고",
+        "우승",
+        "다른",
+        "선수가"
+      ],
+      "template": "스포츠 기록",
+      "score": 5.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"홈런, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 6,
+      "source_article": "'김혜성한테 왜 이러나' 가뜩이나 입지 좁은데 ‘24홈런 괴물’까지 2루로…美 매체, “1~2년 뒤 출전시간 위협”",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "홈런",
+        "김혜성",
+        "이러나",
+        "가뜩이",
+        "입지"
       ],
       "template": "스포츠 기록",
       "score": 6.8,
@@ -727,27 +1424,159 @@
         ]
       },
       "channel": "초구딱"
+    },
+    {
+      "title": "\"한화, 지금 어디서 뭐 하나?\" 한화 근황 총정리",
+      "angle_type": "👤 한화",
+      "article_count": 3,
+      "source_article": "'대전 예수' 내년 한화 복귀 확정? 그런데 8.1이닝 7K 무실점. ML 희망 되살리나",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "한화"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "'대전 예수' 내년 한화 복귀 확정? 그런데 8.1이닝 7K 무실점. ML 희망 되살리나",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "예수",
+        "내년",
+        "한화",
+        "확정",
+        "그런데"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"보면\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 보면",
+      "article_count": 3,
+      "source_article": "너 말고 다른 연애) 안은진은 보면 볼수록 매력있네요",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609190118806993&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "보면"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
+    [
+      "다른",
+      2
+    ],
+    [
+      "미모",
+      2
+    ],
     [
       "연예계",
       2
     ],
     [
-      "많아",
+      "법정행",
       2
     ],
     [
-      "인생",
+      "고지용",
       2
     ],
     [
-      "고백",
+      "제대로",
       2
     ],
     [
-      "나솔",
+      "앞두고",
+      2
+    ],
+    [
+      "사로잡은",
       2
     ],
     [
@@ -755,85 +1584,93 @@
       2
     ],
     [
-      "신랑수업",
+      "고백",
       2
     ],
     [
-      "이런",
+      "알고",
       2
     ],
     [
-      "대반전",
+      "공식",
       2
     ],
     [
-      "드디어",
+      "국가",
       2
     ],
     [
-      "찾았다",
+      "아틀레티코",
       2
     ],
     [
-      "판결",
+      "에이스",
+      2
+    ],
+    [
+      "당황",
       1
     ],
     [
-      "뜯어간",
+      "조심해",
       1
     ],
     [
-      "방송작가",
+      "한소희",
       1
     ],
     [
-      "전액",
+      "팬들도",
       1
     ],
     [
-      "배상하라",
-      1
-    ],
-    [
-      "넘게",
-      1
-    ],
-    [
-      "이민우에",
-      1
-    ],
-    [
-      "신화",
-      1
-    ],
-    [
-      "토로하더니",
+      "대선배들",
       1
     ]
   ],
   "name_freq": [
     [
-      "연예계",
-      2
-    ],
-    [
       "연예인",
       2
     ],
     [
-      "많아",
+      "다른",
       2
     ],
     [
-      "인생",
+      "미모",
       2
     ],
     [
-      "고백",
+      "전현무",
       2
     ],
     [
-      "나솔",
+      "연예계",
+      2
+    ],
+    [
+      "허양임",
+      2
+    ],
+    [
+      "법정행",
+      2
+    ],
+    [
+      "고지용",
+      2
+    ],
+    [
+      "제대로",
+      2
+    ],
+    [
+      "앞두고",
+      2
+    ],
+    [
+      "사로잡",
       2
     ],
     [
@@ -841,31 +1678,19 @@
       2
     ],
     [
-      "는데",
+      "고백",
       2
     ],
     [
-      "신랑수",
+      "알고",
       2
     ],
     [
-      "이런",
-      2
-    ],
-    [
-      "대반전",
-      2
-    ],
-    [
-      "드디어",
-      2
-    ],
-    [
-      "찾았다",
+      "대표팀",
       2
     ]
   ],
-  "total_topics_generated": 5,
-  "valid_topics": 5,
+  "total_topics_generated": 11,
+  "valid_topics": 11,
   "excluded_duplicates": 0
 }
