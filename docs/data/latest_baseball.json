@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-09-21 05:56:04",
+  "scan_time": "2026-09-21 10:24:39",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,394 +8,112 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 30
+    "MLB파크 불펜": 0
   },
-  "total_articles": 80,
+  "total_articles": 50,
   "articles": [
     {
-      "title": "'충격' KBO 공식경기 선발투수가 149구를 던졌다…두산 2군 미스터리, 누의공과에 승리도 날아갔다",
+      "title": "'전체 3순위' KIA 이호민 지명, 왜 리틀 이대호 뽑았나…김도영 유격수 전향 대비하나",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 30653,
+      "views": 13779,
       "rank": 3,
       "channel": "초구딱"
     },
     {
-      "title": "'ATM에 패배' 무리뉴 감독, 이강인 사진까지 들고 기자회견...\"명백한 퇴장인데 VAR 뭐했나\"",
+      "title": "'1R 이변 없었다' 키움 하현승, 두산 김지우, KIA 이호민, 롯데 박근서…최지만은 2R 전체 15순위로 KT행",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 22505,
-      "rank": 5,
-      "channel": "초구딱"
-    },
-    {
-      "title": "이러니 롯데팬들이 사랑할 수밖에…‘3년 연속 최다 안타 1위 눈앞’ 레이예스, 개인 성적 관심 1도 없다",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 6741,
-      "rank": 20,
-      "channel": "초구딱"
-    },
-    {
-      "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 1,
-      "channel": "초구딱"
-    },
-    {
-      "title": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 2,
-      "channel": "초구딱"
-    },
-    {
-      "title": "🛠️[업데이트] 해외 접속 장애 조치 관련 안내_260814🛠️",
-      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202608130000002151",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 3,
-      "channel": "초구딱"
-    },
-    {
-      "title": "[공지] 이미지 업로드 시 불법촬영물등 비교·식별 조치 적용 안내",
-      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202609040000002163",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
+      "views": 12339,
       "rank": 4,
       "channel": "초구딱"
     },
     {
-      "title": "🍗[이벤트]엠팍 유저 전용! 플레이공 가입 혜택 + 교촌치킨 증정🍗",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609080000002169",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 5,
-      "channel": "초구딱"
-    },
-    {
-      "title": "미성년자 한테 담배 끄라고하자 생기는일.mp4",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609210118846650&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
+      "title": "'대충격' KBO 매치 불발이라니…곽빈, 대만전 20세 신예와 전격 대격돌 공식발표",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 11705,
       "rank": 6,
       "channel": "초구딱"
     },
     {
-      "title": "모닝의 위엄",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609210118846644&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 7,
-      "channel": "초구딱"
-    },
-    {
-      "title": "상어 저러다가 죽으면 어떻게 되나요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609210118846641&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
+      "title": "'최지만 지명 없었다' 롯데, 1라운드서 좌완특급 박근서 지명 \"김도영 삼진 잡고 싶다\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 10713,
       "rank": 8,
       "channel": "초구딱"
     },
     {
-      "title": "출시 3년만에 단종된 비운의 차.JPG",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609210118846620&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 71,
-      "rank": 9,
-      "channel": "초구딱"
-    },
-    {
-      "title": "서태지가 역대급 대인배인 이유",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609210118846596&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 59,
+      "title": "10개 구단 모두 'ML 67홈런' 최지만 1R 패싱…한화, 설악고 투수 민주홍→LG는 인창고 투수 윤예성 지명",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 8939,
       "rank": 10,
       "channel": "초구딱"
     },
     {
-      "title": "[속보] ‘2027 KBO 신인드래프트’ 3순위 이호민, KIA 타이거즈 지명",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609210118846566&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 94,
+      "title": "'NYY 40억 거절' 하현승, 예상대로 전체 1순위 키움 입단 \"빨리 1군서 활약할 것\"...'빅리거' 최지만은 KT 품으로",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 7751,
       "rank": 11,
       "channel": "초구딱"
     },
     {
-      "title": "로카티 입은 여자에게 물을 뿌렸더니...mp4",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609210118846560&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 119,
-      "rank": 12,
-      "channel": "초구딱"
-    },
-    {
-      "title": "샘 리처드 교수 ㅎㄷㄷㄷ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609210118846557&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 35,
+      "title": "'2위 삼성과 2G 차' 7연승 LG 날벼락! 홍창기 허리 통증으로 1군 말소... 1위 추격 한창인데 '1번 타자' 또 빠졌다",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 7181,
       "rank": 13,
       "channel": "초구딱"
     },
     {
-      "title": "아이 있으니까 어른되는 면이 있네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609210118846548&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 15,
-      "rank": 14,
-      "channel": "초구딱"
-    },
-    {
-      "title": "갤럭시 폴드4 이제는 펴치면 화면도 안나오네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609210118846545&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 24,
-      "rank": 15,
-      "channel": "초구딱"
-    },
-    {
-      "title": "성정아-이현중 모자.jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609210118846527&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 185,
-      "rank": 16,
-      "channel": "초구딱"
-    },
-    {
-      "title": "어제 쉬리 ocn에서 해줬는데 다시봐도 개존잼이더군요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609210118846485&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 14,
-      "rank": 17,
-      "channel": "초구딱"
-    },
-    {
-      "title": "야 아버지가 별명까지 지어주는건 반칙 아니냐?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609210118846458&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 194,
+      "title": "'양키스 40억 거절' 하현승, 전체 1순위 키움행→'고척 오타니' 탄생하나…\"김도영+곽빈 맞대결 기대, 거짓말하면 안 되니까\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 4893,
       "rank": 18,
       "channel": "초구딱"
     },
     {
-      "title": "키움은 얼마나 하현승을 가지고 싶으면 ㅋㅋㅋ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609210118846440&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 296,
-      "rank": 19,
-      "channel": "초구딱"
-    },
-    {
-      "title": "일제 때 재조일본인들 한반도 북부 혹은 오늘날 이북",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609210118846434&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 29,
+      "title": "KIA, 지명 하루 전 '1R 픽' 만장일치 결정했다!…심재학 단장 \"김도영 유격수 전환 계획, 이호민 3루수 자리 잡길\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 4614,
       "rank": 20,
-      "channel": "초구딱"
-    },
-    {
-      "title": "임선남은 최지만 안뽑을 것 같긴 했음",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609210118846347&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 44,
-      "rank": 21,
-      "channel": "초구딱"
-    },
-    {
-      "title": "나도 부산 상어 보러 가고 싶다",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609210118846275&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 40,
-      "rank": 22,
-      "channel": "초구딱"
-    },
-    {
-      "title": "역대급 세입자",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609210118846236&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 178,
-      "rank": 23,
-      "channel": "초구딱"
-    },
-    {
-      "title": "오 박보승 순리대로 갔네요 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609210118846221&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 222,
-      "rank": 24,
-      "channel": "초구딱"
-    },
-    {
-      "title": "롯데 박근서 등장곡 확정.mp4",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609210118846218&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 165,
-      "rank": 25,
-      "channel": "초구딱"
-    },
-    {
-      "title": "14살 연상 남편 배성재 내조하는 김다영 아나를 본 더쿠 반응",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609210118846212&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 190,
-      "rank": 26,
-      "channel": "초구딱"
-    },
-    {
-      "title": "세계 최초 인간대 로봇의 싸움 ㄷㄷ...mp4",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609210118846125&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 355,
-      "rank": 27,
-      "channel": "초구딱"
-    },
-    {
-      "title": "박석민이 진짜 결혼 일찍한거네요.ㄷㄷ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609210118846119&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 296,
-      "rank": 28,
-      "channel": "초구딱"
-    },
-    {
-      "title": "여수가 700억으로 조롱받는중인데 부산 북항개발은 1차만 8.5조짜리입니다.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609210118846092&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 160,
-      "rank": 29,
-      "channel": "초구딱"
-    },
-    {
-      "title": "느바 연습생이 와도 저렇게 압살하는데",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202609210118846074&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 84,
-      "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 47,
+      "article_count": 41,
       "topics": [
         {
-          "title": "\"선수, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 9,
-          "source_article": "中 탁구 '첫 날부터' 충격패! 발칵 뒤집혔다…세계 1위 왕만위, 마카오 8위 선수와 단체전 1단식 '1-3 패배'→\"과거 중국 대표였다고 하지만 그걸 지다니\"",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "선수",
-            "귀화",
-            "위로",
-            "이런",
-            "장성규"
-          ],
-          "template": "스포츠 기록",
-          "score": 7.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"귀화이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 5,
-          "source_article": "“발 올리면 민폐라더니?” 올데프는 KTX서 다리 쭉…‘찐가족 케미’로 호감",
-          "source_url": "https://m.entertain.naver.com/article/468/0001267772",
+          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 6,
+          "source_article": "장동주, 배우 은퇴→기업인 새출발..\"우선그룹 IPO 준비 본격화\"",
+          "source_url": "https://m.entertain.naver.com/article/108/0003472048",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "귀화",
-            "올리면",
-            "민폐라",
-            "더니",
-            "올데프"
-          ],
-          "template": "동갑내기",
-          "score": 6.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 3,
-          "source_article": "'대망신!' 성기 노출 혐의로 기소 \"바지 내렸지만...\" 총격 사고로 은퇴한 '비운의 NFL 스타' 황당 스캔들로 법적 위기",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "장동주",
-            "배우",
-            "기업인",
-            "새출발",
-            "우선그"
+            "근황",
+            "이렇게",
+            "성동일",
+            "성빈",
+            "장동주"
           ],
           "template": "장기 공백 복귀",
-          "score": 6.6,
+          "score": 7.6,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -414,21 +132,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "title": "\"이혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
           "angle_type": "결혼·이혼",
-          "article_count": 4,
-          "source_article": "신지수, '홍콩대 출신' 금융맨과 결혼… \"존중하며 살겠다\"",
-          "source_url": "https://m.entertain.naver.com/article/117/0004107288",
+          "article_count": 3,
+          "source_article": "'이혼 후 진흙탕' 허양임 \"고지용, 로맨틱한 사람 아냐…문자 짧아\" 과거 발언 재조명",
+          "source_url": "https://m.entertain.naver.com/article/311/0002059113",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
+            "이혼",
             "결혼",
-            "신지수",
-            "홍콩대",
-            "출신",
-            "금융맨"
+            "진흙탕",
+            "허양임",
+            "고지용"
           ],
           "template": "결혼 화제",
-          "score": 6.3,
+          "score": 6.6,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -447,21 +165,108 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"발베르까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "title": "\"심수봉까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
           "angle_type": "논란·사건",
+          "article_count": 8,
+          "source_article": "‘55년생’ 심수봉, 김다현 저격 눈물의 사과 “누군지 몰랐다”",
+          "source_url": "https://m.entertain.naver.com/article/468/0001267974",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "심수봉",
+            "김다현",
+            "저격",
+            "사과",
+            "비난"
+          ],
+          "template": "논란 집합",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"김다현, 대체 무슨 일이?\" 김다현 관련 이슈 총정리",
+          "angle_type": "👤 김다현",
+          "article_count": 8,
+          "source_article": "심수봉, 김다현 저격 사과…“실언했다, 입 열 개라도 할 말 없어”",
+          "source_url": "https://m.entertain.naver.com/article/009/0005738404",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "김다현"
+          ],
+          "template": "논란 집합",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"사과, 대체 무슨 일이?\" 사과 관련 이슈 총정리",
+          "angle_type": "👤 사과",
+          "article_count": 5,
+          "source_article": "심수봉, 김다현 저격 사과…“실언했다, 입 열 개라도 할 말 없어”",
+          "source_url": "https://m.entertain.naver.com/article/009/0005738404",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "사과"
+          ],
+          "template": "논란 집합",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"이강인, 대체 무슨 일이?\" 이강인 관련 이슈 총정리",
+          "angle_type": "👤 이강인",
           "article_count": 3,
-          "source_article": "'대망신!' 성기 노출 혐의로 기소 \"바지 내렸지만...\" 총격 사고로 은퇴한 '비운의 NFL 스타' 황당 스캔들로 법적 위기",
+          "source_article": "스페인 현지 뉴스가 온통 이강인으로 뒤덮였다...\"그런 태클? 퇴장당해 마땅해\" 무리뉴까지 '사진 자료' 들고 기자회견",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "발베르",
-            "대망신",
-            "성기",
-            "노출",
-            "혐의로"
+            "이강인"
           ],
           "template": "논란 집합",
-          "score": 6.3,
+          "score": 6.4,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -480,16 +285,20 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"재조명, 대체 무슨 일이?\" 재조명 관련 이슈 총정리",
-          "angle_type": "👤 재조명",
+          "title": "\"성동일이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+          "angle_type": "가족·혈연",
           "article_count": 4,
-          "source_article": "'이혼 후 진흙탕' 허양임 \"고지용, 로맨틱한 사람 아냐…문자 짧아\" 과거 발언 재조명",
-          "source_url": "https://m.entertain.naver.com/article/311/0002059113",
+          "source_article": "‘성동일 딸’ 성빈, 예쁘게 잘 컸네…‘47kg’ 무용 전공생",
+          "source_url": "https://m.entertain.naver.com/article/241/0003531731",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "재조명"
+            "성동일",
+            "성빈",
+            "컸네",
+            "무용",
+            "이렇게"
           ],
-          "template": "논란 집합",
+          "template": "동갑내기",
           "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
@@ -501,124 +310,161 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
+              "나이",
+              "대표작",
+              "현재 활동"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"이서진\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 이서진",
-          "article_count": 4,
-          "source_article": "이서진은 홍콩서 2달 칩거, 김정은은 방송서 눈물…18년 만에 꺼낸 ‘결별의 속사정’",
-          "source_url": "https://m.entertain.naver.com/article/468/0001267656",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "이서진"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"김정은\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 김정은",
-          "article_count": 4,
-          "source_article": "이서진은 홍콩서 2달 칩거, 김정은은 방송서 눈물…18년 만에 꺼낸 ‘결별의 속사정’",
-          "source_url": "https://m.entertain.naver.com/article/468/0001267656",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "김정은"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"이현중\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 이현중",
-          "article_count": 4,
-          "source_article": "장성규, 남자농구 금메달에 감격…\"이현중 선수 미쳤다\"",
-          "source_url": "https://m.entertain.naver.com/article/117/0004107544",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "이현중"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"금메달\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 금메달",
+          "title": "\"모레노, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "angle_type": "스포츠",
           "article_count": 3,
-          "source_article": "장성규, 남자농구 금메달에 감격…\"이현중 선수 미쳤다\"",
-          "source_url": "https://m.entertain.naver.com/article/117/0004107544",
-          "source_name": "엔터 많이 본 뉴스",
+          "source_article": "\"군대 가는 것도 실감 안 나는데\" 19세 에디 다니엘, 신체검사도 안 받고 병역 특례…\"대학 진학했다면 정기전 뛰었을 것, 감독님께 감사하다\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "금메달"
+            "모레노",
+            "선수",
+            "군대",
+            "가는",
+            "것도"
           ],
-          "template": "인맥",
-          "score": 6.0,
+          "template": "스포츠 기록",
+          "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
-            "status": "재활용 가능",
-            "matched_title": "복싱 금메달 리스트가 배우? 운동선수 출신 스타 TOP 10 #연예인 #연예계소식",
-            "matched_views": 57405,
-            "reason": "기간 경과 244일"
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"성빈, 지금 어디서 뭐 하나?\" 성빈 근황 총정리",
+          "angle_type": "👤 성빈",
+          "article_count": 3,
+          "source_article": "‘성동일 딸’ 성빈, 예쁘게 잘 컸네…‘47kg’ 무용 전공생",
+          "source_url": "https://m.entertain.naver.com/article/241/0003531731",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "성빈"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
           },
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 2,
+          "source_article": "쯔양·히밥 어쩌나 \"유튜브, 폭식 영상에 규제…수익 창출 중단\"",
+          "source_url": "https://m.entertain.naver.com/article/003/0014204564",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "쯔양",
+            "히밥",
+            "어쩌나",
+            "유튜브",
+            "폭식"
+          ],
+          "template": "자산 서열",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"저격, 대체 무슨 일이?\" 저격 관련 이슈 총정리",
+          "angle_type": "👤 저격",
+          "article_count": 4,
+          "source_article": "심수봉, 김다현 저격 사과…“실언했다, 입 열 개라도 할 말 없어”",
+          "source_url": "https://m.entertain.naver.com/article/009/0005738404",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "저격"
+          ],
+          "template": "논란 집합",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"없어, 대체 무슨 일이?\" 없어 관련 이슈 총정리",
+          "angle_type": "👤 없어",
+          "article_count": 3,
+          "source_article": "심수봉, 김다현 저격 사과…“실언했다, 입 열 개라도 할 말 없어”",
+          "source_url": "https://m.entertain.naver.com/article/009/0005738404",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "없어"
+          ],
+          "template": "논란 집합",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
               "현재 상황"
             ]
           },
@@ -627,190 +473,252 @@
       ],
       "keyword_freq": [
         [
-          "재조명",
+          "심수봉",
+          7
+        ],
+        [
+          "김다현",
+          6
+        ],
+        [
+          "사과",
+          5
+        ],
+        [
+          "저격",
           4
         ],
         [
-          "이현중",
+          "근황",
           4
         ],
         [
-          "이서진",
+          "성빈",
           3
         ],
         [
-          "결혼",
+          "성동일",
+          3
+        ],
+        [
+          "없어",
+          3
+        ],
+        [
+          "컸네",
           2
         ],
         [
-          "성유리",
+          "무용",
           2
         ],
         [
-          "고백",
+          "이현중",
           2
         ],
         [
-          "발언",
+          "품에",
           2
         ],
         [
-          "칩거",
+          "깜짝",
           2
         ],
         [
-          "속사정",
+          "중단",
           2
         ],
         [
-          "눈물",
+          "이혼",
           2
         ],
         [
-          "선수",
+          "배우",
           2
         ],
         [
-          "결별",
+          "개라도",
           2
         ],
         [
-          "김정은과",
+          "누군지",
           2
         ],
         [
-          "생각",
+          "보니",
           2
         ],
         [
-          "태클",
-          2
-        ],
-        [
-          "농구",
-          2
-        ],
-        [
-          "금메달",
-          2
-        ],
-        [
-          "메달",
-          2
-        ],
-        [
-          "버스",
-          2
-        ],
-        [
-          "노쇼",
+          "비판",
           2
         ]
       ],
       "name_freq": [
         [
-          "재조명",
+          "김다현",
+          8
+        ],
+        [
+          "심수봉",
+          8
+        ],
+        [
+          "사과",
+          5
+        ],
+        [
+          "저격",
           4
         ],
         [
-          "이서진",
+          "근황",
           4
         ],
         [
-          "김정은",
-          4
-        ],
-        [
-          "이현중",
-          4
-        ],
-        [
-          "금메달",
+          "성빈",
           3
         ],
         [
-          "결혼",
+          "성동일",
+          3
+        ],
+        [
+          "없어",
+          3
+        ],
+        [
+          "이강인",
+          3
+        ],
+        [
+          "컸네",
           2
         ],
         [
-          "성유리",
+          "무용",
           2
         ],
         [
-          "고백",
+          "이현중",
           2
         ],
         [
-          "발언",
+          "품에",
           2
         ],
         [
-          "칩거",
+          "깜짝",
           2
         ],
         [
-          "속사정",
-          2
-        ],
-        [
-          "눈물",
-          2
-        ],
-        [
-          "선수",
-          2
-        ],
-        [
-          "냉장고",
-          2
-        ],
-        [
-          "스캔들",
+          "중단",
           2
         ]
       ],
       "angle_scores": [
         [
+          "자산·몸값",
+          2
+        ],
+        [
           "논란·사건",
-          3
+          8
         ],
         [
           "결혼·이혼",
-          4
-        ],
-        [
-          "복귀·근황",
           3
         ],
         [
+          "복귀·근황",
+          6
+        ],
+        [
           "스포츠",
-          9
+          3
         ],
         [
           "가족·혈연",
-          5
+          4
         ]
       ]
     },
     "초구딱": {
-      "article_count": 33,
+      "article_count": 9,
       "topics": [
         {
-          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
-          "angle_type": "스포츠",
+          "title": "\"김도영 자산이 얼마?\" 김도영급 자산가 스타 TOP10",
+          "angle_type": "👤 김도영",
           "article_count": 4,
-          "source_article": "'충격' KBO 공식경기 선발투수가 149구를 던졌다…두산 2군 미스터리, 누의공과에 승리도 날아갔다",
+          "source_article": "'전체 3순위' KIA 이호민 지명, 왜 리틀 이대호 뽑았나…김도영 유격수 전향 대비하나",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "공식경",
-            "선발투",
-            "수가",
-            "구를",
-            "던졌다"
+            "김도영"
+          ],
+          "template": "자산 서열",
+          "score": 6.9,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"전체 자산이 얼마?\" 전체급 자산가 스타 TOP10",
+          "angle_type": "👤 전체",
+          "article_count": 4,
+          "source_article": "'전체 3순위' KIA 이호민 지명, 왜 리틀 이대호 뽑았나…김도영 유격수 전향 대비하나",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "전체"
+          ],
+          "template": "자산 서열",
+          "score": 6.9,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"투수, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 2,
+          "source_article": "'대충격' KBO 매치 불발이라니…곽빈, 대만전 20세 신예와 전격 대격돌 공식발표",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "투수",
+            "대충격",
+            "매치",
+            "불발이",
+            "라니"
           ],
           "template": "스포츠 기록",
-          "score": 7.3,
+          "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -829,17 +737,75 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"안내\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 안내",
-          "article_count": 3,
-          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-          "source_name": "MLB파크 불펜",
+          "title": "\"최지만 자산이 얼마?\" 최지만급 자산가 스타 TOP10",
+          "angle_type": "👤 최지만",
+          "article_count": 4,
+          "source_article": "'1R 이변 없었다' 키움 하현승, 두산 김지우, KIA 이호민, 롯데 박근서…최지만은 2R 전체 15순위로 KT행",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "안내"
+            "최지만"
+          ],
+          "template": "자산 서열",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"하현승 자산이 얼마?\" 하현승급 자산가 스타 TOP10",
+          "angle_type": "👤 하현승",
+          "article_count": 3,
+          "source_article": "'1R 이변 없었다' 키움 하현승, 두산 김지우, KIA 이호민, 롯데 박근서…최지만은 2R 전체 15순위로 KT행",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "하현승"
+          ],
+          "template": "자산 서열",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"지명\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 지명",
+          "article_count": 4,
+          "source_article": "'전체 3순위' KIA 이호민 지명, 왜 리틀 이대호 뽑았나…김도영 유격수 전향 대비하나",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "지명"
           ],
           "template": "인맥",
-          "score": 6.0,
+          "score": 6.4,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -856,133 +822,293 @@
             ]
           },
           "channel": "초구딱"
+        },
+        {
+          "title": "\"이호민\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 이호민",
+          "article_count": 3,
+          "source_article": "'전체 3순위' KIA 이호민 지명, 왜 리틀 이대호 뽑았나…김도영 유격수 전향 대비하나",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "이호민"
+          ],
+          "template": "인맥",
+          "score": 6.4,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"거절, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 2,
+          "source_article": "'NYY 40억 거절' 하현승, 예상대로 전체 1순위 키움 입단 \"빨리 1군서 활약할 것\"...'빅리거' 최지만은 KT 품으로",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "거절",
+            "하현승",
+            "전체",
+            "예상대",
+            "키움"
+          ],
+          "template": "자산 서열",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
         [
-          "안내",
+          "지명",
+          4
+        ],
+        [
+          "김도영",
+          4
+        ],
+        [
+          "전체",
+          4
+        ],
+        [
+          "이호민",
           3
         ],
         [
-          "조치",
+          "하현승",
+          3
+        ],
+        [
+          "유격수",
           2
         ],
         [
-          "상어",
+          "롯데",
           2
         ],
         [
-          "역대급",
+          "키움",
           2
         ],
         [
-          "누의공과에",
+          "최지만은",
+          2
+        ],
+        [
+          "박근서",
+          2
+        ],
+        [
+          "없었다",
+          2
+        ],
+        [
+          "곽빈",
+          2
+        ],
+        [
+          "최지만",
+          2
+        ],
+        [
+          "거절",
+          2
+        ],
+        [
+          "전향",
           1
         ],
         [
-          "공식경기",
+          "뽑았나",
           1
         ],
         [
-          "날아갔다",
+          "리틀",
+          1
+        ],
+        [
+          "이대호",
+          1
+        ],
+        [
+          "대비하나",
           1
         ],
         [
           "두산",
           1
-        ],
-        [
-          "승리도",
-          1
-        ],
-        [
-          "구를",
-          1
-        ],
-        [
-          "미스터리",
-          1
-        ],
-        [
-          "던졌다",
-          1
-        ],
-        [
-          "선발투수가",
-          1
-        ],
-        [
-          "사진까지",
-          1
-        ],
-        [
-          "퇴장인데",
-          1
-        ],
-        [
-          "들고",
-          1
-        ],
-        [
-          "감독",
-          1
-        ],
-        [
-          "무리뉴",
-          1
-        ],
-        [
-          "기자회견",
-          1
-        ],
-        [
-          "명백한",
-          1
         ]
       ],
       "name_freq": [
         [
-          "안내",
+          "지명",
+          4
+        ],
+        [
+          "김도영",
+          4
+        ],
+        [
+          "전체",
+          4
+        ],
+        [
+          "최지만",
+          4
+        ],
+        [
+          "이호민",
           3
         ],
         [
-          "조치",
+          "하현승",
+          3
+        ],
+        [
+          "유격수",
           2
         ],
         [
-          "상어",
+          "롯데",
           2
         ],
         [
-          "역대급",
+          "키움",
+          2
+        ],
+        [
+          "박근서",
+          2
+        ],
+        [
+          "없었다",
+          2
+        ],
+        [
+          "곽빈",
+          2
+        ],
+        [
+          "거절",
           2
         ]
       ],
       "angle_scores": [
         [
+          "자산·몸값",
+          2
+        ],
+        [
           "스포츠",
-          4
+          2
         ]
       ]
     }
   },
   "topics": [
     {
-      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
-      "angle_type": "스포츠",
+      "title": "\"김도영 자산이 얼마?\" 김도영급 자산가 스타 TOP10",
+      "angle_type": "👤 김도영",
       "article_count": 4,
-      "source_article": "'충격' KBO 공식경기 선발투수가 149구를 던졌다…두산 2군 미스터리, 누의공과에 승리도 날아갔다",
+      "source_article": "'전체 3순위' KIA 이호민 지명, 왜 리틀 이대호 뽑았나…김도영 유격수 전향 대비하나",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "공식경",
-        "선발투",
-        "수가",
-        "구를",
-        "던졌다"
+        "김도영"
+      ],
+      "template": "자산 서열",
+      "score": 6.9,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"전체 자산이 얼마?\" 전체급 자산가 스타 TOP10",
+      "angle_type": "👤 전체",
+      "article_count": 4,
+      "source_article": "'전체 3순위' KIA 이호민 지명, 왜 리틀 이대호 뽑았나…김도영 유격수 전향 대비하나",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "전체"
+      ],
+      "template": "자산 서열",
+      "score": 6.9,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"투수, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 2,
+      "source_article": "'대충격' KBO 매치 불발이라니…곽빈, 대만전 20세 신예와 전격 대격돌 공식발표",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "투수",
+        "대충격",
+        "매치",
+        "불발이",
+        "라니"
       ],
       "template": "스포츠 기록",
-      "score": 7.3,
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1001,17 +1127,75 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
-      "article_count": 3,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
+      "title": "\"최지만 자산이 얼마?\" 최지만급 자산가 스타 TOP10",
+      "angle_type": "👤 최지만",
+      "article_count": 4,
+      "source_article": "'1R 이변 없었다' 키움 하현승, 두산 김지우, KIA 이호민, 롯데 박근서…최지만은 2R 전체 15순위로 KT행",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "안내"
+        "최지만"
+      ],
+      "template": "자산 서열",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"하현승 자산이 얼마?\" 하현승급 자산가 스타 TOP10",
+      "angle_type": "👤 하현승",
+      "article_count": 3,
+      "source_article": "'1R 이변 없었다' 키움 하현승, 두산 김지우, KIA 이호민, 롯데 박근서…최지만은 2R 전체 15순위로 KT행",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "하현승"
+      ],
+      "template": "자산 서열",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"지명\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 지명",
+      "article_count": 4,
+      "source_article": "'전체 3순위' KIA 이호민 지명, 왜 리틀 이대호 뽑았나…김도영 유격수 전향 대비하나",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "지명"
       ],
       "template": "인맥",
-      "score": 6.0,
+      "score": 6.4,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1028,58 +1212,19 @@
         ]
       },
       "channel": "초구딱"
-    }
-  ],
-  "all_topics": [
+    },
     {
-      "title": "\"선수, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 9,
-      "source_article": "中 탁구 '첫 날부터' 충격패! 발칵 뒤집혔다…세계 1위 왕만위, 마카오 8위 선수와 단체전 1단식 '1-3 패배'→\"과거 중국 대표였다고 하지만 그걸 지다니\"",
+      "title": "\"이호민\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 이호민",
+      "article_count": 3,
+      "source_article": "'전체 3순위' KIA 이호민 지명, 왜 리틀 이대호 뽑았나…김도영 유격수 전향 대비하나",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "선수",
-        "귀화",
-        "위로",
-        "이런",
-        "장성규"
+        "이호민"
       ],
-      "template": "스포츠 기록",
-      "score": 7.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"귀화이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 5,
-      "source_article": "“발 올리면 민폐라더니?” 올데프는 KTX서 다리 쭉…‘찐가족 케미’로 호감",
-      "source_url": "https://m.entertain.naver.com/article/468/0001267772",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "귀화",
-        "올리면",
-        "민폐라",
-        "더니",
-        "올데프"
-      ],
-      "template": "동갑내기",
-      "score": 6.8,
+      "template": "인맥",
+      "score": 6.4,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1090,29 +1235,64 @@
       "table": {
         "headers": [
           "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
-      "channel": "정보주는하마"
+      "channel": "초구딱"
     },
     {
-      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 3,
-      "source_article": "'대망신!' 성기 노출 혐의로 기소 \"바지 내렸지만...\" 총격 사고로 은퇴한 '비운의 NFL 스타' 황당 스캔들로 법적 위기",
+      "title": "\"거절, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 2,
+      "source_article": "'NYY 40억 거절' 하현승, 예상대로 전체 1순위 키움 입단 \"빨리 1군서 활약할 것\"...'빅리거' 최지만은 KT 품으로",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "장동주",
-        "배우",
-        "기업인",
-        "새출발",
-        "우선그"
+        "거절",
+        "하현승",
+        "전체",
+        "예상대",
+        "키움"
+      ],
+      "template": "자산 서열",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "초구딱"
+    }
+  ],
+  "all_topics": [
+    {
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 6,
+      "source_article": "장동주, 배우 은퇴→기업인 새출발..\"우선그룹 IPO 준비 본격화\"",
+      "source_url": "https://m.entertain.naver.com/article/108/0003472048",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "근황",
+        "이렇게",
+        "성동일",
+        "성빈",
+        "장동주"
       ],
       "template": "장기 공백 복귀",
-      "score": 6.6,
+      "score": 7.6,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1131,21 +1311,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "title": "\"이혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
       "angle_type": "결혼·이혼",
-      "article_count": 4,
-      "source_article": "신지수, '홍콩대 출신' 금융맨과 결혼… \"존중하며 살겠다\"",
-      "source_url": "https://m.entertain.naver.com/article/117/0004107288",
+      "article_count": 3,
+      "source_article": "'이혼 후 진흙탕' 허양임 \"고지용, 로맨틱한 사람 아냐…문자 짧아\" 과거 발언 재조명",
+      "source_url": "https://m.entertain.naver.com/article/311/0002059113",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
+        "이혼",
         "결혼",
-        "신지수",
-        "홍콩대",
-        "출신",
-        "금융맨"
+        "진흙탕",
+        "허양임",
+        "고지용"
       ],
       "template": "결혼 화제",
-      "score": 6.3,
+      "score": 6.6,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1164,21 +1344,108 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"발베르까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "title": "\"심수봉까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
       "angle_type": "논란·사건",
+      "article_count": 8,
+      "source_article": "‘55년생’ 심수봉, 김다현 저격 눈물의 사과 “누군지 몰랐다”",
+      "source_url": "https://m.entertain.naver.com/article/468/0001267974",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "심수봉",
+        "김다현",
+        "저격",
+        "사과",
+        "비난"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"김다현, 대체 무슨 일이?\" 김다현 관련 이슈 총정리",
+      "angle_type": "👤 김다현",
+      "article_count": 8,
+      "source_article": "심수봉, 김다현 저격 사과…“실언했다, 입 열 개라도 할 말 없어”",
+      "source_url": "https://m.entertain.naver.com/article/009/0005738404",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "김다현"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"사과, 대체 무슨 일이?\" 사과 관련 이슈 총정리",
+      "angle_type": "👤 사과",
+      "article_count": 5,
+      "source_article": "심수봉, 김다현 저격 사과…“실언했다, 입 열 개라도 할 말 없어”",
+      "source_url": "https://m.entertain.naver.com/article/009/0005738404",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "사과"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이강인, 대체 무슨 일이?\" 이강인 관련 이슈 총정리",
+      "angle_type": "👤 이강인",
       "article_count": 3,
-      "source_article": "'대망신!' 성기 노출 혐의로 기소 \"바지 내렸지만...\" 총격 사고로 은퇴한 '비운의 NFL 스타' 황당 스캔들로 법적 위기",
+      "source_article": "스페인 현지 뉴스가 온통 이강인으로 뒤덮였다...\"그런 태클? 퇴장당해 마땅해\" 무리뉴까지 '사진 자료' 들고 기자회견",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "발베르",
-        "대망신",
-        "성기",
-        "노출",
-        "혐의로"
+        "이강인"
       ],
       "template": "논란 집합",
-      "score": 6.3,
+      "score": 6.4,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1197,16 +1464,20 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"재조명, 대체 무슨 일이?\" 재조명 관련 이슈 총정리",
-      "angle_type": "👤 재조명",
+      "title": "\"성동일이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "angle_type": "가족·혈연",
       "article_count": 4,
-      "source_article": "'이혼 후 진흙탕' 허양임 \"고지용, 로맨틱한 사람 아냐…문자 짧아\" 과거 발언 재조명",
-      "source_url": "https://m.entertain.naver.com/article/311/0002059113",
+      "source_article": "‘성동일 딸’ 성빈, 예쁘게 잘 컸네…‘47kg’ 무용 전공생",
+      "source_url": "https://m.entertain.naver.com/article/241/0003531731",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "재조명"
+        "성동일",
+        "성빈",
+        "컸네",
+        "무용",
+        "이렇게"
       ],
-      "template": "논란 집합",
+      "template": "동갑내기",
       "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
@@ -1218,145 +1489,240 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
+          "나이",
+          "대표작",
+          "현재 활동"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이서진\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 이서진",
-      "article_count": 4,
-      "source_article": "이서진은 홍콩서 2달 칩거, 김정은은 방송서 눈물…18년 만에 꺼낸 ‘결별의 속사정’",
-      "source_url": "https://m.entertain.naver.com/article/468/0001267656",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "이서진"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"김정은\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 김정은",
-      "article_count": 4,
-      "source_article": "이서진은 홍콩서 2달 칩거, 김정은은 방송서 눈물…18년 만에 꺼낸 ‘결별의 속사정’",
-      "source_url": "https://m.entertain.naver.com/article/468/0001267656",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "김정은"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이현중\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 이현중",
-      "article_count": 4,
-      "source_article": "장성규, 남자농구 금메달에 감격…\"이현중 선수 미쳤다\"",
-      "source_url": "https://m.entertain.naver.com/article/117/0004107544",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "이현중"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"금메달\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 금메달",
-      "article_count": 3,
-      "source_article": "장성규, 남자농구 금메달에 감격…\"이현중 선수 미쳤다\"",
-      "source_url": "https://m.entertain.naver.com/article/117/0004107544",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "금메달"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "재활용 가능",
-        "matched_title": "복싱 금메달 리스트가 배우? 운동선수 출신 스타 TOP 10 #연예인 #연예계소식",
-        "matched_views": 57405,
-        "reason": "기간 경과 244일"
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+      "title": "\"모레노, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 4,
-      "source_article": "'충격' KBO 공식경기 선발투수가 149구를 던졌다…두산 2군 미스터리, 누의공과에 승리도 날아갔다",
+      "article_count": 3,
+      "source_article": "\"군대 가는 것도 실감 안 나는데\" 19세 에디 다니엘, 신체검사도 안 받고 병역 특례…\"대학 진학했다면 정기전 뛰었을 것, 감독님께 감사하다\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "공식경",
-        "선발투",
-        "수가",
-        "구를",
-        "던졌다"
+        "모레노",
+        "선수",
+        "군대",
+        "가는",
+        "것도"
       ],
       "template": "스포츠 기록",
-      "score": 7.3,
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"성빈, 지금 어디서 뭐 하나?\" 성빈 근황 총정리",
+      "angle_type": "👤 성빈",
+      "article_count": 3,
+      "source_article": "‘성동일 딸’ 성빈, 예쁘게 잘 컸네…‘47kg’ 무용 전공생",
+      "source_url": "https://m.entertain.naver.com/article/241/0003531731",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "성빈"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 2,
+      "source_article": "쯔양·히밥 어쩌나 \"유튜브, 폭식 영상에 규제…수익 창출 중단\"",
+      "source_url": "https://m.entertain.naver.com/article/003/0014204564",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "쯔양",
+        "히밥",
+        "어쩌나",
+        "유튜브",
+        "폭식"
+      ],
+      "template": "자산 서열",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"저격, 대체 무슨 일이?\" 저격 관련 이슈 총정리",
+      "angle_type": "👤 저격",
+      "article_count": 4,
+      "source_article": "심수봉, 김다현 저격 사과…“실언했다, 입 열 개라도 할 말 없어”",
+      "source_url": "https://m.entertain.naver.com/article/009/0005738404",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "저격"
+      ],
+      "template": "논란 집합",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"없어, 대체 무슨 일이?\" 없어 관련 이슈 총정리",
+      "angle_type": "👤 없어",
+      "article_count": 3,
+      "source_article": "심수봉, 김다현 저격 사과…“실언했다, 입 열 개라도 할 말 없어”",
+      "source_url": "https://m.entertain.naver.com/article/009/0005738404",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "없어"
+      ],
+      "template": "논란 집합",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"김도영 자산이 얼마?\" 김도영급 자산가 스타 TOP10",
+      "angle_type": "👤 김도영",
+      "article_count": 4,
+      "source_article": "'전체 3순위' KIA 이호민 지명, 왜 리틀 이대호 뽑았나…김도영 유격수 전향 대비하나",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "김도영"
+      ],
+      "template": "자산 서열",
+      "score": 6.9,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"전체 자산이 얼마?\" 전체급 자산가 스타 TOP10",
+      "angle_type": "👤 전체",
+      "article_count": 4,
+      "source_article": "'전체 3순위' KIA 이호민 지명, 왜 리틀 이대호 뽑았나…김도영 유격수 전향 대비하나",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "전체"
+      ],
+      "template": "자산 서열",
+      "score": 6.9,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"투수, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 2,
+      "source_article": "'대충격' KBO 매치 불발이라니…곽빈, 대만전 20세 신예와 전격 대격돌 공식발표",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "투수",
+        "대충격",
+        "매치",
+        "불발이",
+        "라니"
+      ],
+      "template": "스포츠 기록",
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1375,17 +1741,75 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
-      "article_count": 3,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
+      "title": "\"최지만 자산이 얼마?\" 최지만급 자산가 스타 TOP10",
+      "angle_type": "👤 최지만",
+      "article_count": 4,
+      "source_article": "'1R 이변 없었다' 키움 하현승, 두산 김지우, KIA 이호민, 롯데 박근서…최지만은 2R 전체 15순위로 KT행",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "안내"
+        "최지만"
+      ],
+      "template": "자산 서열",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"하현승 자산이 얼마?\" 하현승급 자산가 스타 TOP10",
+      "angle_type": "👤 하현승",
+      "article_count": 3,
+      "source_article": "'1R 이변 없었다' 키움 하현승, 두산 김지우, KIA 이호민, 롯데 박근서…최지만은 2R 전체 15순위로 KT행",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "하현승"
+      ],
+      "template": "자산 서열",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"지명\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 지명",
+      "article_count": 4,
+      "source_article": "'전체 3순위' KIA 이호민 지명, 왜 리틀 이대호 뽑았나…김도영 유격수 전향 대비하나",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "지명"
       ],
       "template": "인맥",
-      "score": 6.0,
+      "score": 6.4,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1402,153 +1826,215 @@
         ]
       },
       "channel": "초구딱"
+    },
+    {
+      "title": "\"이호민\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 이호민",
+      "article_count": 3,
+      "source_article": "'전체 3순위' KIA 이호민 지명, 왜 리틀 이대호 뽑았나…김도영 유격수 전향 대비하나",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "이호민"
+      ],
+      "template": "인맥",
+      "score": 6.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"거절, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 2,
+      "source_article": "'NYY 40억 거절' 하현승, 예상대로 전체 1순위 키움 입단 \"빨리 1군서 활약할 것\"...'빅리거' 최지만은 KT 품으로",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "거절",
+        "하현승",
+        "전체",
+        "예상대",
+        "키움"
+      ],
+      "template": "자산 서열",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
     [
-      "재조명",
+      "심수봉",
+      7
+    ],
+    [
+      "김다현",
+      6
+    ],
+    [
+      "사과",
+      5
+    ],
+    [
+      "저격",
       4
     ],
     [
-      "이현중",
+      "근황",
       4
     ],
     [
-      "이서진",
+      "성빈",
       3
     ],
     [
-      "결혼",
+      "성동일",
+      3
+    ],
+    [
+      "없어",
+      3
+    ],
+    [
+      "컸네",
       2
     ],
     [
-      "성유리",
+      "무용",
       2
     ],
     [
-      "고백",
+      "이현중",
       2
     ],
     [
-      "발언",
+      "품에",
       2
     ],
     [
-      "칩거",
+      "깜짝",
       2
     ],
     [
-      "속사정",
+      "중단",
       2
     ],
     [
-      "눈물",
+      "이혼",
       2
     ],
     [
-      "선수",
+      "배우",
       2
     ],
     [
-      "결별",
+      "개라도",
       2
     ],
     [
-      "김정은과",
+      "누군지",
       2
     ],
     [
-      "생각",
+      "보니",
       2
     ],
     [
-      "태클",
-      2
-    ],
-    [
-      "농구",
-      2
-    ],
-    [
-      "금메달",
-      2
-    ],
-    [
-      "메달",
-      2
-    ],
-    [
-      "버스",
-      2
-    ],
-    [
-      "노쇼",
+      "비판",
       2
     ]
   ],
   "name_freq": [
     [
-      "재조명",
+      "김다현",
+      8
+    ],
+    [
+      "심수봉",
+      8
+    ],
+    [
+      "사과",
+      5
+    ],
+    [
+      "저격",
       4
     ],
     [
-      "이서진",
+      "근황",
       4
     ],
     [
-      "김정은",
-      4
-    ],
-    [
-      "이현중",
-      4
-    ],
-    [
-      "금메달",
+      "성빈",
       3
     ],
     [
-      "결혼",
+      "성동일",
+      3
+    ],
+    [
+      "없어",
+      3
+    ],
+    [
+      "이강인",
+      3
+    ],
+    [
+      "컸네",
       2
     ],
     [
-      "성유리",
+      "무용",
       2
     ],
     [
-      "고백",
+      "이현중",
       2
     ],
     [
-      "발언",
+      "품에",
       2
     ],
     [
-      "칩거",
+      "깜짝",
       2
     ],
     [
-      "속사정",
-      2
-    ],
-    [
-      "눈물",
-      2
-    ],
-    [
-      "선수",
-      2
-    ],
-    [
-      "냉장고",
-      2
-    ],
-    [
-      "스캔들",
+      "중단",
       2
     ]
   ],
-  "total_topics_generated": 12,
-  "valid_topics": 12,
+  "total_topics_generated": 20,
+  "valid_topics": 20,
   "excluded_duplicates": 0
 }
