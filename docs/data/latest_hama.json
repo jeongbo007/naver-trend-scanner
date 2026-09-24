@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-09-24 17:36:34",
+  "scan_time": "2026-09-24 20:16:20",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -499,14 +499,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"같다, 대체 무슨 일이?\" 같다 관련 이슈 총정리",
-          "angle_type": "👤 같다",
+          "title": "\"여자, 대체 무슨 일이?\" 여자 관련 이슈 총정리",
+          "angle_type": "👤 여자",
           "article_count": 3,
           "source_article": "“노출병이냐, 술집 여자 같다” 악플 극복→日도 댓글창 폭발, “한국 비판 이상해”… 특별한 AG 승리로 논란 잠재웠다",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "같다"
+            "여자"
           ],
           "template": "논란 집합",
           "score": 6.5,
@@ -586,14 +586,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"여자, 대체 무슨 일이?\" 여자 관련 이슈 총정리",
-          "angle_type": "👤 여자",
+          "title": "\"같다, 대체 무슨 일이?\" 같다 관련 이슈 총정리",
+          "angle_type": "👤 같다",
           "article_count": 3,
           "source_article": "“노출병이냐, 술집 여자 같다” 악플 극복→日도 댓글창 폭발, “한국 비판 이상해”… 특별한 AG 승리로 논란 잠재웠다",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "여자"
+            "같다"
           ],
           "template": "논란 집합",
           "score": 6.5,
@@ -609,35 +609,6 @@
               "이름",
               "소속·직업",
               "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"일본\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 일본",
-          "article_count": 3,
-          "source_article": "'대충격' 중국 4일 만에 金메달 48개! 아시안게임, 中 전국체전이었나?…15개 일본·8개 한국 압도→韓 3위도 아슬아슬",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "일본"
-          ],
-          "template": "인맥",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
               "현재 상황"
             ]
           },
@@ -681,6 +652,35 @@
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "중국"
+          ],
+          "template": "인맥",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"일본\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 일본",
+          "article_count": 3,
+          "source_article": "'대충격' 중국 4일 만에 金메달 48개! 아시안게임, 中 전국체전이었나?…15개 일본·8개 한국 압도→韓 3위도 아슬아슬",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "일본"
           ],
           "template": "인맥",
           "score": 6.5,
@@ -764,14 +764,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"각자의\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 각자의",
+          "title": "\"현숙\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 현숙",
           "article_count": 3,
           "source_article": "22기 현숙, 16기 광수와 결별 인정…\"각자의 길 가기로\"",
           "source_url": "https://m.entertain.naver.com/article/445/0000468371",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "각자의"
+            "현숙"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -793,14 +793,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"현숙\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 현숙",
+          "title": "\"각자의\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 각자의",
           "article_count": 3,
           "source_article": "22기 현숙, 16기 광수와 결별 인정…\"각자의 길 가기로\"",
           "source_url": "https://m.entertain.naver.com/article/445/0000468371",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "현숙"
+            "각자의"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -948,11 +948,11 @@
           3
         ],
         [
-          "각자의",
+          "현숙",
           3
         ],
         [
-          "현숙",
+          "각자의",
           3
         ],
         [
@@ -968,7 +968,7 @@
           3
         ],
         [
-          "같다",
+          "여자",
           3
         ],
         [
@@ -980,15 +980,15 @@
           3
         ],
         [
-          "여자",
-          3
-        ],
-        [
-          "일본",
+          "같다",
           3
         ],
         [
           "중국",
+          3
+        ],
+        [
+          "일본",
           3
         ],
         [
@@ -1020,7 +1020,7 @@
           2
         ],
         [
-          "입고",
+          "깜짝",
           2
         ]
       ],
@@ -1030,11 +1030,11 @@
           3
         ],
         [
-          "각자의",
+          "현숙",
           3
         ],
         [
-          "현숙",
+          "각자의",
           3
         ],
         [
@@ -1050,7 +1050,7 @@
           3
         ],
         [
-          "같다",
+          "여자",
           3
         ],
         [
@@ -1062,11 +1062,7 @@
           3
         ],
         [
-          "여자",
-          3
-        ],
-        [
-          "일본",
+          "같다",
           3
         ],
         [
@@ -1075,6 +1071,10 @@
         ],
         [
           "중국",
+          3
+        ],
+        [
+          "일본",
           3
         ],
         [
@@ -1109,18 +1109,18 @@
       "article_count": 34,
       "topics": [
         {
-          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+          "title": "\"되든, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 3,
+          "article_count": 4,
           "source_article": "KBO 구단들이 망설이다 패싱, 그런데 156㎞ 찍다니… 시장에 나온다? 쟁탈전 벌어질까",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
+            "되든",
             "구단들",
             "망설이",
             "패싱",
-            "그런데",
-            "찍다니"
+            "그런데"
           ],
           "template": "스포츠 기록",
           "score": 6.8,
@@ -1181,7 +1181,11 @@
           2
         ],
         [
-          "스타",
+          "알고",
+          2
+        ],
+        [
+          "보니",
           2
         ],
         [
@@ -1189,23 +1193,19 @@
           2
         ],
         [
-          "해외",
+          "중국",
           2
         ],
         [
-          "진짜",
+          "외국인",
           2
         ],
         [
-          "등극",
-          1
+          "지금",
+          2
         ],
         [
           "실업팀",
-          1
-        ],
-        [
-          "여친도",
           1
         ],
         [
@@ -1217,11 +1217,7 @@
           1
         ],
         [
-          "이닝",
-          1
-        ],
-        [
-          "삼진",
+          "있었다",
           1
         ],
         [
@@ -1229,7 +1225,15 @@
           1
         ],
         [
-          "있었다",
+          "삼진",
+          1
+        ],
+        [
+          "이닝",
+          1
+        ],
+        [
+          "등극",
           1
         ],
         [
@@ -1237,7 +1241,7 @@
           1
         ],
         [
-          "우완",
+          "여친도",
           1
         ],
         [
@@ -1245,11 +1249,7 @@
           1
         ],
         [
-          "망설이다",
-          1
-        ],
-        [
-          "벌어질까",
+          "스타",
           1
         ]
       ],
@@ -1263,7 +1263,11 @@
           2
         ],
         [
-          "스타",
+          "알고",
+          2
+        ],
+        [
+          "보니",
           2
         ],
         [
@@ -1271,26 +1275,30 @@
           2
         ],
         [
-          "해외",
-          2
-        ],
-        [
-          "진짜",
-          2
-        ],
-        [
           "네요",
           2
         ],
         [
-          "니다",
+          "홍명보",
+          2
+        ],
+        [
+          "중국",
+          2
+        ],
+        [
+          "외국인",
+          2
+        ],
+        [
+          "지금",
           2
         ]
       ],
       "angle_scores": [
         [
           "스포츠",
-          3
+          4
         ]
       ]
     }
@@ -1363,14 +1371,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"같다, 대체 무슨 일이?\" 같다 관련 이슈 총정리",
-      "angle_type": "👤 같다",
+      "title": "\"여자, 대체 무슨 일이?\" 여자 관련 이슈 총정리",
+      "angle_type": "👤 여자",
       "article_count": 3,
       "source_article": "“노출병이냐, 술집 여자 같다” 악플 극복→日도 댓글창 폭발, “한국 비판 이상해”… 특별한 AG 승리로 논란 잠재웠다",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "같다"
+        "여자"
       ],
       "template": "논란 집합",
       "score": 6.5,
@@ -1450,14 +1458,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"여자, 대체 무슨 일이?\" 여자 관련 이슈 총정리",
-      "angle_type": "👤 여자",
+      "title": "\"같다, 대체 무슨 일이?\" 같다 관련 이슈 총정리",
+      "angle_type": "👤 같다",
       "article_count": 3,
       "source_article": "“노출병이냐, 술집 여자 같다” 악플 극복→日도 댓글창 폭발, “한국 비판 이상해”… 특별한 AG 승리로 논란 잠재웠다",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "여자"
+        "같다"
       ],
       "template": "논란 집합",
       "score": 6.5,
@@ -1473,35 +1481,6 @@
           "이름",
           "소속·직업",
           "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"일본\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 일본",
-      "article_count": 3,
-      "source_article": "'대충격' 중국 4일 만에 金메달 48개! 아시안게임, 中 전국체전이었나?…15개 일본·8개 한국 압도→韓 3위도 아슬아슬",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "일본"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
           "현재 상황"
         ]
       },
@@ -1545,6 +1524,35 @@
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "중국"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"일본\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 일본",
+      "article_count": 3,
+      "source_article": "'대충격' 중국 4일 만에 金메달 48개! 아시안게임, 中 전국체전이었나?…15개 일본·8개 한국 압도→韓 3위도 아슬아슬",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "일본"
       ],
       "template": "인맥",
       "score": 6.5,
@@ -1628,14 +1636,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"각자의\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 각자의",
+      "title": "\"현숙\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 현숙",
       "article_count": 3,
       "source_article": "22기 현숙, 16기 광수와 결별 인정…\"각자의 길 가기로\"",
       "source_url": "https://m.entertain.naver.com/article/445/0000468371",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "각자의"
+        "현숙"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1657,14 +1665,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"현숙\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 현숙",
+      "title": "\"각자의\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 각자의",
       "article_count": 3,
       "source_article": "22기 현숙, 16기 광수와 결별 인정…\"각자의 길 가기로\"",
       "source_url": "https://m.entertain.naver.com/article/445/0000468371",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "현숙"
+        "각자의"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1874,14 +1882,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"같다, 대체 무슨 일이?\" 같다 관련 이슈 총정리",
-      "angle_type": "👤 같다",
+      "title": "\"여자, 대체 무슨 일이?\" 여자 관련 이슈 총정리",
+      "angle_type": "👤 여자",
       "article_count": 3,
       "source_article": "“노출병이냐, 술집 여자 같다” 악플 극복→日도 댓글창 폭발, “한국 비판 이상해”… 특별한 AG 승리로 논란 잠재웠다",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "같다"
+        "여자"
       ],
       "template": "논란 집합",
       "score": 6.5,
@@ -1961,14 +1969,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"여자, 대체 무슨 일이?\" 여자 관련 이슈 총정리",
-      "angle_type": "👤 여자",
+      "title": "\"같다, 대체 무슨 일이?\" 같다 관련 이슈 총정리",
+      "angle_type": "👤 같다",
       "article_count": 3,
       "source_article": "“노출병이냐, 술집 여자 같다” 악플 극복→日도 댓글창 폭발, “한국 비판 이상해”… 특별한 AG 승리로 논란 잠재웠다",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "여자"
+        "같다"
       ],
       "template": "논란 집합",
       "score": 6.5,
@@ -1984,35 +1992,6 @@
           "이름",
           "소속·직업",
           "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"일본\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 일본",
-      "article_count": 3,
-      "source_article": "'대충격' 중국 4일 만에 金메달 48개! 아시안게임, 中 전국체전이었나?…15개 일본·8개 한국 압도→韓 3위도 아슬아슬",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "일본"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
           "현재 상황"
         ]
       },
@@ -2056,6 +2035,35 @@
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "중국"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"일본\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 일본",
+      "article_count": 3,
+      "source_article": "'대충격' 중국 4일 만에 金메달 48개! 아시안게임, 中 전국체전이었나?…15개 일본·8개 한국 압도→韓 3위도 아슬아슬",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "일본"
       ],
       "template": "인맥",
       "score": 6.5,
@@ -2139,14 +2147,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"각자의\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 각자의",
+      "title": "\"현숙\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 현숙",
       "article_count": 3,
       "source_article": "22기 현숙, 16기 광수와 결별 인정…\"각자의 길 가기로\"",
       "source_url": "https://m.entertain.naver.com/article/445/0000468371",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "각자의"
+        "현숙"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -2168,14 +2176,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"현숙\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 현숙",
+      "title": "\"각자의\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 각자의",
       "article_count": 3,
       "source_article": "22기 현숙, 16기 광수와 결별 인정…\"각자의 길 가기로\"",
       "source_url": "https://m.entertain.naver.com/article/445/0000468371",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "현숙"
+        "각자의"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -2317,18 +2325,18 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+      "title": "\"되든, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 3,
+      "article_count": 4,
       "source_article": "KBO 구단들이 망설이다 패싱, 그런데 156㎞ 찍다니… 시장에 나온다? 쟁탈전 벌어질까",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
+        "되든",
         "구단들",
         "망설이",
         "패싱",
-        "그런데",
-        "찍다니"
+        "그런데"
       ],
       "template": "스포츠 기록",
       "score": 6.8,
@@ -2385,11 +2393,11 @@
       3
     ],
     [
-      "각자의",
+      "현숙",
       3
     ],
     [
-      "현숙",
+      "각자의",
       3
     ],
     [
@@ -2405,7 +2413,7 @@
       3
     ],
     [
-      "같다",
+      "여자",
       3
     ],
     [
@@ -2417,15 +2425,15 @@
       3
     ],
     [
-      "여자",
-      3
-    ],
-    [
-      "일본",
+      "같다",
       3
     ],
     [
       "중국",
+      3
+    ],
+    [
+      "일본",
       3
     ],
     [
@@ -2457,7 +2465,7 @@
       2
     ],
     [
-      "입고",
+      "깜짝",
       2
     ]
   ],
@@ -2467,11 +2475,11 @@
       3
     ],
     [
-      "각자의",
+      "현숙",
       3
     ],
     [
-      "현숙",
+      "각자의",
       3
     ],
     [
@@ -2487,7 +2495,7 @@
       3
     ],
     [
-      "같다",
+      "여자",
       3
     ],
     [
@@ -2499,11 +2507,7 @@
       3
     ],
     [
-      "여자",
-      3
-    ],
-    [
-      "일본",
+      "같다",
       3
     ],
     [
@@ -2512,6 +2516,10 @@
     ],
     [
       "중국",
+      3
+    ],
+    [
+      "일본",
       3
     ],
     [
