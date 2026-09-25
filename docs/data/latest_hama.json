@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-09-25 17:36:18",
+  "scan_time": "2026-09-25 20:14:18",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -818,7 +818,7 @@
           2
         ],
         [
-          "리아",
+          "야마다",
           2
         ],
         [
@@ -826,15 +826,7 @@
           2
         ],
         [
-          "야마다",
-          2
-        ],
-        [
-          "웨딩화보",
-          2
-        ],
-        [
-          "깜짝",
+          "리아",
           2
         ],
         [
@@ -842,11 +834,19 @@
           2
         ],
         [
-          "남편과",
+          "깜짝",
+          2
+        ],
+        [
+          "웨딩화보",
           2
         ],
         [
           "찍을",
+          2
+        ],
+        [
+          "남편과",
           2
         ],
         [
@@ -896,19 +896,11 @@
           2
         ],
         [
-          "손예진",
-          2
-        ],
-        [
           "따로",
           2
         ],
         [
-          "리아",
-          2
-        ],
-        [
-          "스걸파",
+          "손예진",
           2
         ],
         [
@@ -916,7 +908,15 @@
           2
         ],
         [
-          "찍을",
+          "스걸파",
+          2
+        ],
+        [
+          "리아",
+          2
+        ],
+        [
+          "재혼",
           2
         ],
         [
@@ -951,6 +951,68 @@
       "article_count": 33,
       "topics": [
         {
+          "title": "\"사회인\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 사회인",
+          "article_count": 3,
+          "source_article": "일본 사회인야구 출신 npb 1라 목록",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609260118951701&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "사회인"
+          ],
+          "template": "인맥",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 3,
+          "source_article": "'SON에 얻어맞고 0-3'→에콰도르 감독 \"한국이 훨씬 체력적으로 좋았다\" 완패 인정",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "감독",
+            "얻어맞",
+            "에콰도",
+            "한국이",
+            "훨씬"
+          ],
+          "template": "스포츠 기록",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
           "title": "\"안내\" 관련 화제 스타 TOP10",
           "angle_type": "👤 안내",
           "article_count": 3,
@@ -978,68 +1040,6 @@
             ]
           },
           "channel": "초구딱"
-        },
-        {
-          "title": "\"여자\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 여자",
-          "article_count": 3,
-          "source_article": "남자 상위권이 여자 여러명 만나는경우 흔하더군요",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609260118951410&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "여자"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 2,
-          "source_article": "'SON에 얻어맞고 0-3'→에콰도르 감독 \"한국이 훨씬 체력적으로 좋았다\" 완패 인정",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "감독",
-            "얻어맞",
-            "에콰도",
-            "한국이",
-            "훨씬"
-          ],
-          "template": "스포츠 기록",
-          "score": 5.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
-            ]
-          },
-          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
@@ -1048,19 +1048,11 @@
           3
         ],
         [
-          "여자",
-          3
-        ],
-        [
           "감독",
           2
         ],
         [
-          "손흥민",
-          2
-        ],
-        [
-          "생각하는",
+          "모레노",
           2
         ],
         [
@@ -1072,23 +1064,15 @@
           2
         ],
         [
-          "에콰도르",
-          1
+          "중국",
+          2
         ],
         [
-          "좋았다",
-          1
-        ],
-        [
-          "훨씬",
-          1
+          "리센느",
+          2
         ],
         [
           "한국이",
-          1
-        ],
-        [
-          "완패",
           1
         ],
         [
@@ -1096,7 +1080,15 @@
           1
         ],
         [
+          "훨씬",
+          1
+        ],
+        [
           "인정",
+          1
+        ],
+        [
+          "에콰도르",
           1
         ],
         [
@@ -1104,23 +1096,31 @@
           1
         ],
         [
+          "좋았다",
+          1
+        ],
+        [
+          "완패",
+          1
+        ],
+        [
+          "오는데",
+          1
+        ],
+        [
+          "줄일까",
+          1
+        ],
+        [
           "일만",
           1
         ],
         [
-          "울상",
-          1
-        ],
-        [
-          "예보",
-          1
-        ],
-        [
-          "김도영",
-          1
-        ],
-        [
           "주말",
+          1
+        ],
+        [
+          "울상",
           1
         ]
       ],
@@ -1130,7 +1130,7 @@
           3
         ],
         [
-          "여자",
+          "사회인",
           3
         ],
         [
@@ -1138,15 +1138,7 @@
           2
         ],
         [
-          "김도영",
-          2
-        ],
-        [
-          "손흥민",
-          2
-        ],
-        [
-          "생각하",
+          "모레노",
           2
         ],
         [
@@ -1154,14 +1146,30 @@
           2
         ],
         [
+          "야구",
+          2
+        ],
+        [
           "일본",
+          2
+        ],
+        [
+          "금메달",
+          2
+        ],
+        [
+          "중국",
+          2
+        ],
+        [
+          "리센느",
           2
         ]
       ],
       "angle_scores": [
         [
           "스포츠",
-          2
+          3
         ]
       ]
     }
@@ -1848,6 +1856,68 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"사회인\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 사회인",
+      "article_count": 3,
+      "source_article": "일본 사회인야구 출신 npb 1라 목록",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609260118951701&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "사회인"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 3,
+      "source_article": "'SON에 얻어맞고 0-3'→에콰도르 감독 \"한국이 훨씬 체력적으로 좋았다\" 완패 인정",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "감독",
+        "얻어맞",
+        "에콰도",
+        "한국이",
+        "훨씬"
+      ],
+      "template": "스포츠 기록",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
       "title": "\"안내\" 관련 화제 스타 TOP10",
       "angle_type": "👤 안내",
       "article_count": 3,
@@ -1872,68 +1942,6 @@
           "분류",
           "이슈 내용",
           "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"여자\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 여자",
-      "article_count": 3,
-      "source_article": "남자 상위권이 여자 여러명 만나는경우 흔하더군요",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609260118951410&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "여자"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 2,
-      "source_article": "'SON에 얻어맞고 0-3'→에콰도르 감독 \"한국이 훨씬 체력적으로 좋았다\" 완패 인정",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "감독",
-        "얻어맞",
-        "에콰도",
-        "한국이",
-        "훨씬"
-      ],
-      "template": "스포츠 기록",
-      "score": 5.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
         ]
       },
       "channel": "초구딱"
@@ -1977,7 +1985,7 @@
       2
     ],
     [
-      "리아",
+      "야마다",
       2
     ],
     [
@@ -1985,15 +1993,7 @@
       2
     ],
     [
-      "야마다",
-      2
-    ],
-    [
-      "웨딩화보",
-      2
-    ],
-    [
-      "깜짝",
+      "리아",
       2
     ],
     [
@@ -2001,11 +2001,19 @@
       2
     ],
     [
-      "남편과",
+      "깜짝",
+      2
+    ],
+    [
+      "웨딩화보",
       2
     ],
     [
       "찍을",
+      2
+    ],
+    [
+      "남편과",
       2
     ],
     [
@@ -2055,19 +2063,11 @@
       2
     ],
     [
-      "손예진",
-      2
-    ],
-    [
       "따로",
       2
     ],
     [
-      "리아",
-      2
-    ],
-    [
-      "스걸파",
+      "손예진",
       2
     ],
     [
@@ -2075,7 +2075,15 @@
       2
     ],
     [
-      "찍을",
+      "스걸파",
+      2
+    ],
+    [
+      "리아",
+      2
+    ],
+    [
+      "재혼",
       2
     ],
     [
