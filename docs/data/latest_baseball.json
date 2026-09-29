@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-09-29 15:10:06",
+  "scan_time": "2026-09-29 18:21:00",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,35 +8,305 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 0
+    "MLB파크 불펜": 30
   },
-  "total_articles": 50,
+  "total_articles": 80,
   "articles": [
     {
       "title": "금메달이 ‘조롱거리’된 한국 야구…축하받고 싶으면 ‘아마추어’ 내보내라",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 37079,
+      "views": 169960,
+      "rank": 12,
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"술집여자 같다, 노출증 걸렸냐\" 악플 극복한 신지은, 16강서 '최강' 중국에 0-2 완패 '아름다운 도전 마무리'...\"이런 관심 처음, 비치발리볼은 내 운명\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 168235,
+      "rank": 13,
+      "channel": "초구딱"
+    },
+    {
+      "title": "불 끄랬더니 불 지른 '소방수' 모레노 감독…韓 '역대급 안방 대참사', 우루과이에 1-4 대패 '충격'",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 168051,
+      "rank": 15,
+      "channel": "초구딱"
+    },
+    {
+      "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 1,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
       "rank": 2,
       "channel": "초구딱"
     },
     {
-      "title": "대체 외인 투수로 16년 만에 김광현 다시 소환 …한 달 안에 완투승 두 번 SSG 아빌라“내 한계에 도달할 때까지 던지고 싶었다”",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 10966,
+      "title": "🛠️[업데이트] 해외 접속 장애 조치 관련 안내_260814🛠️",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202608130000002151",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 3,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[공지] 이미지 업로드 시 불법촬영물등 비교·식별 조치 적용 안내",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202609040000002163",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 4,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🎞️[이벤트] '스트리트 파이터' 개봉 기념 기대평 작성 이벤트🎞️",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002175",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 5,
+      "channel": "초구딱"
+    },
+    {
+      "title": "⚾ 2026 메이저리그 포스트시즌 대진표 ⚾",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 6,
+      "channel": "초구딱"
+    },
+    {
+      "title": "유해진만 까이는 다른 이유가있나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609300119064357&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 7,
+      "channel": "초구딱"
+    },
+    {
+      "title": "개진상 카니발 차주를 목격했습니다",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609300119064354&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 8,
+      "channel": "초구딱"
+    },
+    {
+      "title": "서울 금천구하면 떠오르는게 무엇일까요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609300119064351&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 14,
+      "rank": 9,
+      "channel": "초구딱"
+    },
+    {
+      "title": "아일릿 'BREAK EVEN' 컨셉필름 BURNING - 민주",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609300119064327&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 49,
       "rank": 10,
       "channel": "초구딱"
     },
     {
-      "title": "김도영 41호 ‘새 역사’+나성범 5년 만에 30홈런, 그런데 졌다…‘불펜 붕괴’ KIA, KT에 5-8 재역전패",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 6435,
+      "title": "맨시티가 샐러리캡위반한건가요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609300119064318&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 214,
+      "rank": 11,
+      "channel": "초구딱"
+    },
+    {
+      "title": "확실히 연예인들이 무식하기는 하네요 ㅋㅋ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609300119064315&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 448,
+      "rank": 12,
+      "channel": "초구딱"
+    },
+    {
+      "title": "뭘해도 재밌지않고 행복하지 않습니다",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609300119064312&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 122,
+      "rank": 13,
+      "channel": "초구딱"
+    },
+    {
+      "title": "스포츠 구단중에 명문 구단이었는데 엄청난 징계 먹고 아예 재기 못한 구단이 있었나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609300119064306&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 74,
+      "rank": 14,
+      "channel": "초구딱"
+    },
+    {
+      "title": "육영수 여사 돌아가신게 8.15 인거는 이번계기로 알게됐는데",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609300119064297&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 210,
+      "rank": 15,
+      "channel": "초구딱"
+    },
+    {
+      "title": "우리나라 마천루 계획 중에 가장 패기 넘치고 가슴 웅장했던 계획이",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609300119064294&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 176,
+      "rank": 16,
+      "channel": "초구딱"
+    },
+    {
+      "title": "푸바오 맘들 싹 사라진게 신기하네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609300119064288&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 382,
+      "rank": 17,
+      "channel": "초구딱"
+    },
+    {
+      "title": "대단한 노력파가 아니라서 자괴감이 듭니다.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609300119064282&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 215,
+      "rank": 18,
+      "channel": "초구딱"
+    },
+    {
+      "title": "노시환 이건 좀 ㅋㅋ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609300119064279&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=kakao.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 386,
+      "rank": 19,
+      "channel": "초구딱"
+    },
+    {
+      "title": "해물찜에 이거 먹는다 vs 안먹는다",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609300119064276&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 263,
       "rank": 20,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[단독] 정부 2000억 쓴 ‘국가대표 AI’ 개편...5조 들여 SPC 설립 검토",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609300119064273&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 361,
+      "rank": 21,
+      "channel": "초구딱"
+    },
+    {
+      "title": "인간극장)트리플에스 초월읍 스타 곽연지",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609300119064270&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 96,
+      "rank": 22,
+      "channel": "초구딱"
+    },
+    {
+      "title": "전문가들이 예상하는 맨시티 예상 징계: 프리미어리그 퇴출 및 5부리그 강등",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609300119064267&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 413,
+      "rank": 23,
+      "channel": "초구딱"
+    },
+    {
+      "title": "9월 마지막날 15K",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609300119064264&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 76,
+      "rank": 24,
+      "channel": "초구딱"
+    },
+    {
+      "title": "남자가 열광하는 여자 몸무게라고??",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609300119064261&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 240,
+      "rank": 25,
+      "channel": "초구딱"
+    },
+    {
+      "title": "플스5디스크 노멀버전 당근으로 팔았습니다 근데 참 웃기네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609300119064255&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 142,
+      "rank": 26,
+      "channel": "초구딱"
+    },
+    {
+      "title": "열라 쎄영 이유",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609300119064252&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 110,
+      "rank": 27,
+      "channel": "초구딱"
+    },
+    {
+      "title": "미국 여행기 4편 - 콜로라도",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609300119064219&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 211,
+      "rank": 28,
+      "channel": "초구딱"
+    },
+    {
+      "title": "맨시티는 구단 해체되겠네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609300119064213&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 1835,
+      "rank": 29,
+      "channel": "초구딱"
+    },
+    {
+      "title": "옛날에 산이 두개 있었어.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202609300119064210&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 435,
+      "rank": 30,
       "channel": "초구딱"
     }
   ],
@@ -45,21 +315,21 @@
       "article_count": 47,
       "topics": [
         {
-          "title": "\"안세영, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "title": "\"일본, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
           "article_count": 5,
-          "source_article": "'이럴 거면 금메달 주고 시작하자, 충격 14연패' 中 천위시, 다이빙 여자 10m 플랫폼 우승, 루웨이 은메달..'9연속 금은 싹쓸이, 북한 조진미 동메달'",
+          "source_article": "일본 축구 대충격! 치사하게 이기려다 벤치 클리어링 얻어맞았다…한국처럼 깨끗하게 지는 게 낫다? 日, VAR 수혜 PK 극장골→상대팀 \"심판 판정 불쾌\"",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "안세영",
-            "금메달",
-            "연패",
-            "여자",
-            "우승"
+            "일본",
+            "대참사",
+            "월드컵",
+            "축구",
+            "대충격"
           ],
           "template": "스포츠 기록",
-          "score": 7.3,
+          "score": 7.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -73,35 +343,6 @@
               "소속팀",
               "기록 내용",
               "기록 가치"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"폭력, 대체 무슨 일이?\" 폭력 관련 이슈 총정리",
-          "angle_type": "👤 폭력",
-          "article_count": 5,
-          "source_article": "닛몰캐쉬, 데이트 폭력 논란에 문상훈도 '손절'…'빠더너스' 영상 삭제",
-          "source_url": "https://m.entertain.naver.com/article/311/0002063425",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "폭력"
-          ],
-          "template": "논란 집합",
-          "score": 7.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
@@ -136,18 +377,134 @@
           "channel": "정보주는하마"
         },
         {
+          "title": "\"폭력, 대체 무슨 일이?\" 폭력 관련 이슈 총정리",
+          "angle_type": "👤 폭력",
+          "article_count": 5,
+          "source_article": "닛몰캐쉬, 데이트 폭력 논란에 문상훈도 '손절'…'빠더너스' 영상 삭제",
+          "source_url": "https://m.entertain.naver.com/article/311/0002063425",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "폭력"
+          ],
+          "template": "논란 집합",
+          "score": 7.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"우루과\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 우루과",
+          "article_count": 4,
+          "source_article": "“괜히 홍명보에게 미안하네” 韓 축구 ‘대참사’ 우루과이가 브라질도 아닌데 1-4 ‘충격패’…한 경기 만에 또 돌변한 모레노호 반응",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "우루과"
+          ],
+          "template": "인맥",
+          "score": 7.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"모레노\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 모레노",
+          "article_count": 3,
+          "source_article": "“괜히 홍명보에게 미안하네” 韓 축구 ‘대참사’ 우루과이가 브라질도 아닌데 1-4 ‘충격패’…한 경기 만에 또 돌변한 모레노호 반응",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "모레노"
+          ],
+          "template": "인맥",
+          "score": 7.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"대참사\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 대참사",
+          "article_count": 3,
+          "source_article": "“괜히 홍명보에게 미안하네” 韓 축구 ‘대참사’ 우루과이가 브라질도 아닌데 1-4 ‘충격패’…한 경기 만에 또 돌변한 모레노호 반응",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "대참사"
+          ],
+          "template": "인맥",
+          "score": 7.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
           "title": "\"손예진이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
           "angle_type": "가족·혈연",
-          "article_count": 7,
-          "source_article": "전진♥류이서, ‘내년 초 2세’ 기대했는데…5개월 뒤 “시험관 하고 있잖아요”",
-          "source_url": "https://m.entertain.naver.com/article/410/0001141628",
-          "source_name": "엔터 많이 본 뉴스",
+          "article_count": 6,
+          "source_article": "\"니가 사람 XX냐?\" 설영우 결국 폭발했다! 우루과이전 비난→선넘은 부모님 욕까지...SNS 박제+\"제발 선 좀 지킵시다\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "손예진",
             "아들",
             "몰래",
-            "부모님",
-            "전진"
+            "전진",
+            "류이서"
           ],
           "template": "동갑내기",
           "score": 6.8,
@@ -231,43 +588,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"금메달, 대체 무슨 일이?\" 금메달 관련 이슈 총정리",
-          "angle_type": "👤 금메달",
-          "article_count": 4,
-          "source_article": "'이럴 거면 금메달 주고 시작하자, 충격 14연패' 中 천위시, 다이빙 여자 10m 플랫폼 우승, 루웨이 은메달..'9연속 금은 싹쓸이, 북한 조진미 동메달'",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "title": "\"손절, 대체 무슨 일이?\" 손절 관련 이슈 총정리",
+          "angle_type": "👤 손절",
+          "article_count": 3,
+          "source_article": "닛몰캐쉬, 데이트 폭력 논란에 문상훈도 '손절'…'빠더너스' 영상 삭제",
+          "source_url": "https://m.entertain.naver.com/article/311/0002063425",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "금메달"
-          ],
-          "template": "논란 집합",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"여자, 대체 무슨 일이?\" 여자 관련 이슈 총정리",
-          "angle_type": "👤 여자",
-          "article_count": 4,
-          "source_article": "'이럴 거면 금메달 주고 시작하자, 충격 14연패' 中 천위시, 다이빙 여자 10m 플랫폼 우승, 루웨이 은메달..'9연속 금은 싹쓸이, 북한 조진미 동메달'",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "여자"
+            "손절"
           ],
           "template": "논란 집합",
           "score": 6.5,
@@ -318,188 +646,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"손절, 대체 무슨 일이?\" 손절 관련 이슈 총정리",
-          "angle_type": "👤 손절",
+          "title": "\"탈락\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 탈락",
           "article_count": 3,
-          "source_article": "닛몰캐쉬, 데이트 폭력 논란에 문상훈도 '손절'…'빠더너스' 영상 삭제",
-          "source_url": "https://m.entertain.naver.com/article/311/0002063425",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "손절"
-          ],
-          "template": "논란 집합",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"연패, 대체 무슨 일이?\" 연패 관련 이슈 총정리",
-          "angle_type": "👤 연패",
-          "article_count": 3,
-          "source_article": "'이럴 거면 금메달 주고 시작하자, 충격 14연패' 中 천위시, 다이빙 여자 10m 플랫폼 우승, 루웨이 은메달..'9연속 금은 싹쓸이, 북한 조진미 동메달'",
+          "source_article": "'이제 그만 빼라고!' 대한민국에 완패…中 준결승 탈락 굴욕→거센 후폭풍 '과감히 버려야 할 때가 있다'",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "연패"
-          ],
-          "template": "논란 집합",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"복식, 대체 무슨 일이?\" 복식 관련 이슈 총정리",
-          "angle_type": "👤 복식",
-          "article_count": 3,
-          "source_article": "'이정도까지 싸워야 中 물리칠 수 있다' 韓 배드민턴 여자 복식 111분 역대급 명승부→금메달, 류성수-탄닝 조 코트에 쓰러트린 후 2-1 역전승..'부상 투혼, 쥐날때까지 싸웠다'",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "복식"
-          ],
-          "template": "논란 집합",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"류성수, 대체 무슨 일이?\" 류성수 관련 이슈 총정리",
-          "angle_type": "👤 류성수",
-          "article_count": 3,
-          "source_article": "'이정도까지 싸워야 中 물리칠 수 있다' 韓 배드민턴 여자 복식 111분 역대급 명승부→금메달, 류성수-탄닝 조 코트에 쓰러트린 후 2-1 역전승..'부상 투혼, 쥐날때까지 싸웠다'",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "류성수"
-          ],
-          "template": "논란 집합",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"게임, 대체 무슨 일이?\" 게임 관련 이슈 총정리",
-          "angle_type": "👤 게임",
-          "article_count": 4,
-          "source_article": "'미쳤다' 韓 역사상 이런 선수 있을까...'64년' 아시안게임 역사에 대형 사고, '금메달' 안세영 사상 첫 여자 단식 2연패! 日 야마구치 2-0 완파",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "게임"
-          ],
-          "template": "논란 집합",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"우루과\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 우루과",
-          "article_count": 3,
-          "source_article": "\"니가 사람 XX냐?\" 설영우 결국 폭발했다! 우루과이전 비난→선넘은 부모님 욕까지...SNS 박제+\"제발 선 좀 지킵시다\"",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "우루과"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"에이스\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 에이스",
-          "article_count": 3,
-          "source_article": "안세영! 너만 없으면, 내가 최곤데...'9전 전패, 승률 0%' 日 에이스 통한의 고백 \"1게임에 전력 투구, 2게임 발 멈췄다\"",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "에이스"
+            "탈락"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -527,47 +681,23 @@
           6
         ],
         [
-          "폭력",
-          5
-        ],
-        [
           "데이트",
           5
         ],
         [
-          "금메달",
-          4
-        ],
-        [
-          "여자",
-          4
-        ],
-        [
-          "안세영",
-          4
+          "폭력",
+          5
         ],
         [
           "손절",
           3
         ],
         [
-          "연패",
+          "대참사",
           3
         ],
         [
-          "에이스",
-          3
-        ],
-        [
-          "게임",
-          3
-        ],
-        [
-          "복식",
-          3
-        ],
-        [
-          "류성수",
+          "탈락",
           3
         ],
         [
@@ -575,19 +705,19 @@
           2
         ],
         [
-          "미모의",
-          2
-        ],
-        [
           "추무빈",
           2
         ],
         [
-          "추신수",
+          "공주랑",
           2
         ],
         [
-          "공주랑",
+          "미모의",
+          2
+        ],
+        [
+          "추신수",
           2
         ],
         [
@@ -599,7 +729,31 @@
           2
         ],
         [
-          "당했다",
+          "소속사",
+          2
+        ],
+        [
+          "났다",
+          2
+        ],
+        [
+          "아들",
+          2
+        ],
+        [
+          "몰래",
+          2
+        ],
+        [
+          "손예진",
+          2
+        ],
+        [
+          "후폭풍",
+          2
+        ],
+        [
+          "실망과",
           2
         ]
       ],
@@ -609,11 +763,11 @@
           6
         ],
         [
-          "폭력",
+          "데이트",
           5
         ],
         [
-          "데이트",
+          "폭력",
           5
         ],
         [
@@ -621,48 +775,48 @@
           4
         ],
         [
-          "금메달",
+          "우루과",
           4
-        ],
-        [
-          "여자",
-          4
-        ],
-        [
-          "안세영",
-          4
-        ],
-        [
-          "게임",
-          4
-        ],
-        [
-          "문상훈",
-          3
         ],
         [
           "손절",
           3
         ],
         [
-          "우루과",
+          "문상훈",
           3
         ],
         [
-          "연패",
+          "모레노",
           3
         ],
         [
-          "에이스",
+          "대참사",
           3
         ],
         [
-          "복식",
+          "탈락",
           3
         ],
         [
-          "류성수",
-          3
+          "개월",
+          2
+        ],
+        [
+          "추무빈",
+          2
+        ],
+        [
+          "공주랑",
+          2
+        ],
+        [
+          "미모의",
+          2
+        ],
+        [
+          "추신수",
+          2
         ]
       ],
       "angle_scores": [
@@ -676,36 +830,87 @@
         ],
         [
           "가족·혈연",
-          7
+          6
         ]
       ]
     },
     "초구딱": {
-      "article_count": 3,
-      "topics": [],
+      "article_count": 33,
+      "topics": [
+        {
+          "title": "\"안내\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안내",
+          "article_count": 3,
+          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "안내"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"맨시티\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 맨시티",
+          "article_count": 3,
+          "source_article": "맨시티가 샐러리캡위반한건가요?",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609300119064318&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "맨시티"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        }
+      ],
       "keyword_freq": [
         [
-          "아마추어",
-          1
+          "안내",
+          3
+        ],
+        [
+          "조치",
+          2
+        ],
+        [
+          "징계",
+          2
         ],
         [
           "축하받고",
-          1
-        ],
-        [
-          "조롱거리",
-          1
-        ],
-        [
-          "금메달이",
-          1
-        ],
-        [
-          "야구",
-          1
-        ],
-        [
-          "내보내라",
           1
         ],
         [
@@ -713,80 +918,168 @@
           1
         ],
         [
-          "완투승",
+          "야구",
           1
         ],
         [
-          "김광현",
+          "아마추어",
           1
         ],
         [
-          "소환",
+          "내보내라",
           1
         ],
         [
-          "대체",
+          "금메달이",
           1
         ],
         [
-          "안에",
+          "조롱거리",
           1
         ],
         [
-          "한계에",
+          "최강",
           1
         ],
         [
-          "투수로",
+          "같다",
           1
         ],
         [
-          "던지고",
+          "극복한",
           1
         ],
         [
-          "도달할",
+          "아름다운",
           1
         ],
         [
-          "외인",
+          "운명",
           1
         ],
         [
-          "싶었다",
+          "노출증",
           1
         ],
         [
-          "아빌라",
+          "완패",
           1
         ],
         [
-          "때까지",
+          "걸렸냐",
+          1
+        ],
+        [
+          "술집여자",
+          1
+        ],
+        [
+          "도전",
           1
         ]
       ],
-      "name_freq": [],
+      "name_freq": [
+        [
+          "안내",
+          3
+        ],
+        [
+          "맨시티",
+          3
+        ],
+        [
+          "조치",
+          2
+        ],
+        [
+          "들이",
+          2
+        ],
+        [
+          "징계",
+          2
+        ]
+      ],
       "angle_scores": []
     }
   },
-  "topics": [],
+  "topics": [
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"맨시티\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 맨시티",
+      "article_count": 3,
+      "source_article": "맨시티가 샐러리캡위반한건가요?",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609300119064318&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "맨시티"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    }
+  ],
   "all_topics": [
     {
-      "title": "\"안세영, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"일본, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
       "article_count": 5,
-      "source_article": "'이럴 거면 금메달 주고 시작하자, 충격 14연패' 中 천위시, 다이빙 여자 10m 플랫폼 우승, 루웨이 은메달..'9연속 금은 싹쓸이, 북한 조진미 동메달'",
+      "source_article": "일본 축구 대충격! 치사하게 이기려다 벤치 클리어링 얻어맞았다…한국처럼 깨끗하게 지는 게 낫다? 日, VAR 수혜 PK 극장골→상대팀 \"심판 판정 불쾌\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "안세영",
-        "금메달",
-        "연패",
-        "여자",
-        "우승"
+        "일본",
+        "대참사",
+        "월드컵",
+        "축구",
+        "대충격"
       ],
       "template": "스포츠 기록",
-      "score": 7.3,
+      "score": 7.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -800,35 +1093,6 @@
           "소속팀",
           "기록 내용",
           "기록 가치"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"폭력, 대체 무슨 일이?\" 폭력 관련 이슈 총정리",
-      "angle_type": "👤 폭력",
-      "article_count": 5,
-      "source_article": "닛몰캐쉬, 데이트 폭력 논란에 문상훈도 '손절'…'빠더너스' 영상 삭제",
-      "source_url": "https://m.entertain.naver.com/article/311/0002063425",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "폭력"
-      ],
-      "template": "논란 집합",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
@@ -863,18 +1127,134 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"폭력, 대체 무슨 일이?\" 폭력 관련 이슈 총정리",
+      "angle_type": "👤 폭력",
+      "article_count": 5,
+      "source_article": "닛몰캐쉬, 데이트 폭력 논란에 문상훈도 '손절'…'빠더너스' 영상 삭제",
+      "source_url": "https://m.entertain.naver.com/article/311/0002063425",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "폭력"
+      ],
+      "template": "논란 집합",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"우루과\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 우루과",
+      "article_count": 4,
+      "source_article": "“괜히 홍명보에게 미안하네” 韓 축구 ‘대참사’ 우루과이가 브라질도 아닌데 1-4 ‘충격패’…한 경기 만에 또 돌변한 모레노호 반응",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "우루과"
+      ],
+      "template": "인맥",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"모레노\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 모레노",
+      "article_count": 3,
+      "source_article": "“괜히 홍명보에게 미안하네” 韓 축구 ‘대참사’ 우루과이가 브라질도 아닌데 1-4 ‘충격패’…한 경기 만에 또 돌변한 모레노호 반응",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "모레노"
+      ],
+      "template": "인맥",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"대참사\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 대참사",
+      "article_count": 3,
+      "source_article": "“괜히 홍명보에게 미안하네” 韓 축구 ‘대참사’ 우루과이가 브라질도 아닌데 1-4 ‘충격패’…한 경기 만에 또 돌변한 모레노호 반응",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "대참사"
+      ],
+      "template": "인맥",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"손예진이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
       "angle_type": "가족·혈연",
-      "article_count": 7,
-      "source_article": "전진♥류이서, ‘내년 초 2세’ 기대했는데…5개월 뒤 “시험관 하고 있잖아요”",
-      "source_url": "https://m.entertain.naver.com/article/410/0001141628",
-      "source_name": "엔터 많이 본 뉴스",
+      "article_count": 6,
+      "source_article": "\"니가 사람 XX냐?\" 설영우 결국 폭발했다! 우루과이전 비난→선넘은 부모님 욕까지...SNS 박제+\"제발 선 좀 지킵시다\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "손예진",
         "아들",
         "몰래",
-        "부모님",
-        "전진"
+        "전진",
+        "류이서"
       ],
       "template": "동갑내기",
       "score": 6.8,
@@ -958,43 +1338,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"금메달, 대체 무슨 일이?\" 금메달 관련 이슈 총정리",
-      "angle_type": "👤 금메달",
-      "article_count": 4,
-      "source_article": "'이럴 거면 금메달 주고 시작하자, 충격 14연패' 中 천위시, 다이빙 여자 10m 플랫폼 우승, 루웨이 은메달..'9연속 금은 싹쓸이, 북한 조진미 동메달'",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "title": "\"손절, 대체 무슨 일이?\" 손절 관련 이슈 총정리",
+      "angle_type": "👤 손절",
+      "article_count": 3,
+      "source_article": "닛몰캐쉬, 데이트 폭력 논란에 문상훈도 '손절'…'빠더너스' 영상 삭제",
+      "source_url": "https://m.entertain.naver.com/article/311/0002063425",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "금메달"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"여자, 대체 무슨 일이?\" 여자 관련 이슈 총정리",
-      "angle_type": "👤 여자",
-      "article_count": 4,
-      "source_article": "'이럴 거면 금메달 주고 시작하자, 충격 14연패' 中 천위시, 다이빙 여자 10m 플랫폼 우승, 루웨이 은메달..'9연속 금은 싹쓸이, 북한 조진미 동메달'",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "여자"
+        "손절"
       ],
       "template": "논란 집합",
       "score": 6.5,
@@ -1045,159 +1396,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"손절, 대체 무슨 일이?\" 손절 관련 이슈 총정리",
-      "angle_type": "👤 손절",
+      "title": "\"탈락\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 탈락",
       "article_count": 3,
-      "source_article": "닛몰캐쉬, 데이트 폭력 논란에 문상훈도 '손절'…'빠더너스' 영상 삭제",
-      "source_url": "https://m.entertain.naver.com/article/311/0002063425",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "손절"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"연패, 대체 무슨 일이?\" 연패 관련 이슈 총정리",
-      "angle_type": "👤 연패",
-      "article_count": 3,
-      "source_article": "'이럴 거면 금메달 주고 시작하자, 충격 14연패' 中 천위시, 다이빙 여자 10m 플랫폼 우승, 루웨이 은메달..'9연속 금은 싹쓸이, 북한 조진미 동메달'",
+      "source_article": "'이제 그만 빼라고!' 대한민국에 완패…中 준결승 탈락 굴욕→거센 후폭풍 '과감히 버려야 할 때가 있다'",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "연패"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"복식, 대체 무슨 일이?\" 복식 관련 이슈 총정리",
-      "angle_type": "👤 복식",
-      "article_count": 3,
-      "source_article": "'이정도까지 싸워야 中 물리칠 수 있다' 韓 배드민턴 여자 복식 111분 역대급 명승부→금메달, 류성수-탄닝 조 코트에 쓰러트린 후 2-1 역전승..'부상 투혼, 쥐날때까지 싸웠다'",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "복식"
-      ],
-      "template": "논란 집합",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"류성수, 대체 무슨 일이?\" 류성수 관련 이슈 총정리",
-      "angle_type": "👤 류성수",
-      "article_count": 3,
-      "source_article": "'이정도까지 싸워야 中 물리칠 수 있다' 韓 배드민턴 여자 복식 111분 역대급 명승부→금메달, 류성수-탄닝 조 코트에 쓰러트린 후 2-1 역전승..'부상 투혼, 쥐날때까지 싸웠다'",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "류성수"
-      ],
-      "template": "논란 집합",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"게임, 대체 무슨 일이?\" 게임 관련 이슈 총정리",
-      "angle_type": "👤 게임",
-      "article_count": 4,
-      "source_article": "'미쳤다' 韓 역사상 이런 선수 있을까...'64년' 아시안게임 역사에 대형 사고, '금메달' 안세영 사상 첫 여자 단식 2연패! 日 야마구치 2-0 완파",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "게임"
-      ],
-      "template": "논란 집합",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"우루과\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 우루과",
-      "article_count": 3,
-      "source_article": "\"니가 사람 XX냐?\" 설영우 결국 폭발했다! 우루과이전 비난→선넘은 부모님 욕까지...SNS 박제+\"제발 선 좀 지킵시다\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "우루과"
+        "탈락"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1219,14 +1425,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"에이스\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 에이스",
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
       "article_count": 3,
-      "source_article": "안세영! 너만 없으면, 내가 최곤데...'9전 전패, 승률 0%' 日 에이스 통한의 고백 \"1게임에 전력 투구, 2게임 발 멈췄다\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
       "related_names": [
-        "에이스"
+        "안내"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1245,7 +1451,36 @@
           "현재 상황"
         ]
       },
-      "channel": "정보주는하마"
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"맨시티\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 맨시티",
+      "article_count": 3,
+      "source_article": "맨시티가 샐러리캡위반한건가요?",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202609300119064318&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "맨시티"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
@@ -1254,47 +1489,23 @@
       6
     ],
     [
-      "폭력",
-      5
-    ],
-    [
       "데이트",
       5
     ],
     [
-      "금메달",
-      4
-    ],
-    [
-      "여자",
-      4
-    ],
-    [
-      "안세영",
-      4
+      "폭력",
+      5
     ],
     [
       "손절",
       3
     ],
     [
-      "연패",
+      "대참사",
       3
     ],
     [
-      "에이스",
-      3
-    ],
-    [
-      "게임",
-      3
-    ],
-    [
-      "복식",
-      3
-    ],
-    [
-      "류성수",
+      "탈락",
       3
     ],
     [
@@ -1302,19 +1513,19 @@
       2
     ],
     [
-      "미모의",
-      2
-    ],
-    [
       "추무빈",
       2
     ],
     [
-      "추신수",
+      "공주랑",
       2
     ],
     [
-      "공주랑",
+      "미모의",
+      2
+    ],
+    [
+      "추신수",
       2
     ],
     [
@@ -1326,7 +1537,31 @@
       2
     ],
     [
-      "당했다",
+      "소속사",
+      2
+    ],
+    [
+      "났다",
+      2
+    ],
+    [
+      "아들",
+      2
+    ],
+    [
+      "몰래",
+      2
+    ],
+    [
+      "손예진",
+      2
+    ],
+    [
+      "후폭풍",
+      2
+    ],
+    [
+      "실망과",
       2
     ]
   ],
@@ -1336,11 +1571,11 @@
       6
     ],
     [
-      "폭력",
+      "데이트",
       5
     ],
     [
-      "데이트",
+      "폭력",
       5
     ],
     [
@@ -1348,51 +1583,51 @@
       4
     ],
     [
-      "금메달",
+      "우루과",
       4
-    ],
-    [
-      "여자",
-      4
-    ],
-    [
-      "안세영",
-      4
-    ],
-    [
-      "게임",
-      4
-    ],
-    [
-      "문상훈",
-      3
     ],
     [
       "손절",
       3
     ],
     [
-      "우루과",
+      "문상훈",
       3
     ],
     [
-      "연패",
+      "모레노",
       3
     ],
     [
-      "에이스",
+      "대참사",
       3
     ],
     [
-      "복식",
+      "탈락",
       3
     ],
     [
-      "류성수",
-      3
+      "개월",
+      2
+    ],
+    [
+      "추무빈",
+      2
+    ],
+    [
+      "공주랑",
+      2
+    ],
+    [
+      "미모의",
+      2
+    ],
+    [
+      "추신수",
+      2
     ]
   ],
-  "total_topics_generated": 16,
-  "valid_topics": 16,
+  "total_topics_generated": 14,
+  "valid_topics": 14,
   "excluded_duplicates": 0
 }
