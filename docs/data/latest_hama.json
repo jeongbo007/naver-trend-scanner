@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-10-01 00:19:05",
+  "scan_time": "2026-10-01 06:53:16",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -13,221 +13,12 @@
   "total_articles": 80,
   "articles": [
     {
-      "title": "\"마약·술 먹이고 집단 성폭행\"…코넬대 한국계 학생 가담 파문",
-      "url": "https://m.entertain.naver.com/article/117/0004110532",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 78576,
-      "rank": 1,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'타짜4' 변요한과 파격 베드신, 日 미요시 아야카…\"20살까지 父와 목욕\"",
-      "url": "https://m.entertain.naver.com/article/415/0000052358",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 68375,
-      "rank": 2,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'역사강사' 최태성도 '암살자(들)' 영상 내렸다..지무비·이동진 이어 줄줄이 삭제",
-      "url": "https://m.entertain.naver.com/article/076/0004451346",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 63593,
-      "rank": 3,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "구교환, ♥이옥섭 감독과 결혼…이미 4년전 혼인신고",
-      "url": "https://m.entertain.naver.com/article/311/0002063975",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 46036,
-      "rank": 4,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "카리나, 써클렌즈 없는 ‘생눈’ 공개…뉴욕 빛낸 ‘꾸안꾸’ 미모",
-      "url": "https://m.entertain.naver.com/article/144/0001141251",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 42376,
-      "rank": 5,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'암살자(들)' 허진호 감독 \"배우들도 힘들어해…박정희 배후설 말이 안된다\"",
-      "url": "https://m.entertain.naver.com/article/477/0000630867",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 33338,
-      "rank": 6,
-      "cross_baseball": true,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "구교환ㆍ이옥섭, 장수 커플 아닌 이미 부부 “2022년 혼인신고”",
-      "url": "https://m.entertain.naver.com/article/440/0000047320",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 29222,
-      "rank": 7,
-      "channel": "정보주는하마"
-    },
-    {
       "title": "송일국 키가 제일 작네..186cm 된 중2 삼둥이 폭풍성장 근황 \"작은 아기들이었는데\"",
       "url": "https://m.entertain.naver.com/article/076/0004451401",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 25801,
-      "rank": 8,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "이선민, 건보료 200만원 자랑했다가 월 소득 5500만원설…“예시일 뿐”",
-      "url": "https://m.entertain.naver.com/article/382/0001296428",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 25498,
-      "rank": 9,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "이동국 딸 설아, 중1 맞아? 인형 미모 근황…풀메이크업도 찰떡",
-      "url": "https://m.entertain.naver.com/article/311/0002063563",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 24039,
-      "rank": 10,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "최수종, 어머니 마지막 길 배웅 후 ‘유퀴즈’ 녹화… 슬픔 속 프로답게 소화",
-      "url": "https://m.entertain.naver.com/article/241/0003533201",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 21592,
-      "rank": 11,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "이하늬, 둘째 딸 돌잔치..드레스 대신 한복 선택 '단아한 자태'",
-      "url": "https://m.entertain.naver.com/article/076/0004451368",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 20830,
-      "rank": 12,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"썩은 채소 속여 팔아\"→'시각장애 1급' 배우 오재현, 충격적인 근황",
-      "url": "https://m.entertain.naver.com/article/213/0001402930",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 18763,
-      "rank": 13,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"얼굴이 이렇게 바뀐다고?\"…이수현 30kg 감량→이재까지 나란히 홀쭉해진 근황",
-      "url": "https://m.entertain.naver.com/article/312/0000778081",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 17603,
-      "rank": 14,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "김수미, 다듀 개코와 이혼한 지 9개월…\"손석구에 맞아도 좋아\" 돌연 새 삶",
-      "url": "https://m.entertain.naver.com/article/415/0000052353",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 16847,
-      "rank": 15,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "문근영, 다이어트 성공? 반쪽이 됐네..결혼 후 자꾸 예뻐져",
-      "url": "https://m.entertain.naver.com/article/112/0003808696",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 13703,
-      "rank": 16,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "18㎏ 빠진 솔비, 태국서 파격 근황…수영복 입고 건강미 폭발",
-      "url": "https://m.entertain.naver.com/article/609/0001173755",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 13324,
-      "rank": 17,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'배성재♥' 김다영, 볼록나온 배=임신 맞다..\"2세는 딸 셋 원해\" 바람 이뤄질까",
-      "url": "https://m.entertain.naver.com/article/108/0003474802",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 12277,
-      "rank": 18,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "전 회차 0%대 시청률로 막 내렸다…장항준 감독 \"전하지 못한 이야기 많아\" ('시간추적자')",
-      "url": "https://m.entertain.naver.com/article/312/0000778090",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 11572,
-      "rank": 19,
-      "cross_baseball": true,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "구교환♥이옥섭, 이미 '4년 차 부부'였다…2022년 극비 혼인신고",
-      "url": "https://m.entertain.naver.com/article/076/0004451616",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 10729,
-      "rank": 20,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'돌싱 특집'은 '♥현커' 쏟아졌는데…33기 모솔은 전멸, '성사율 0%'",
-      "url": "https://m.entertain.naver.com/article/311/0002063977",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 10179,
-      "rank": 21,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "“심한 알레르기로 스프레이 못 써”…아이유, ‘헤메스 논란’ 직접 밝힌 안타까운 사연",
-      "url": "https://m.entertain.naver.com/article/468/0001269839",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 9689,
-      "rank": 22,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'전역' 강찬석 병장 돌아온다…'신병4' 종영→스핀오프 영화 촬영 완료",
-      "url": "https://m.entertain.naver.com/article/213/0001402971",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 9676,
-      "rank": 23,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "‘1600만 영화’ 감독의 굴욕…시청률 0%대, 쓸쓸한 퇴장",
-      "url": "https://m.entertain.naver.com/article/016/0002703861",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 9638,
-      "rank": 24,
+      "views": 57270,
+      "rank": 1,
       "channel": "정보주는하마"
     },
     {
@@ -235,35 +26,53 @@
       "url": "https://m.entertain.naver.com/article/117/0004110839",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 8856,
-      "rank": 25,
+      "views": 53602,
+      "rank": 2,
       "channel": "정보주는하마"
     },
     {
-      "title": "'나솔' 23기 옥순♥미스터 강, 본식 사진 공개했다…'왕따설' 이겨내고 '해피엔딩'",
-      "url": "https://m.entertain.naver.com/article/312/0000778165",
+      "title": "구교환ㆍ이옥섭, 장수 커플 아닌 이미 부부 “2022년 혼인신고”",
+      "url": "https://m.entertain.naver.com/article/440/0000047320",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 8743,
-      "rank": 26,
+      "views": 42374,
+      "rank": 3,
       "channel": "정보주는하마"
     },
     {
-      "title": "‘나는솔로 모태솔로 특집’ 33기, 영호♥순자·영철♥정숙 두 커플 탄생",
-      "url": "https://m.entertain.naver.com/article/445/0000469819",
+      "title": "연예계 친일파 난리 속…'87세' 사미자, \"日 순사에 다 일러바쳐\"→과거 폭로",
+      "url": "https://m.entertain.naver.com/article/213/0001402983",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 8492,
-      "rank": 27,
+      "views": 33743,
+      "rank": 4,
       "channel": "정보주는하마"
     },
     {
-      "title": "'57세' 양준일, 파격 패션 근황 공개..맨살 재킷에 짙은 화장까지",
-      "url": "https://m.entertain.naver.com/article/108/0003475009",
+      "title": "최수종, 어머니 마지막 길 배웅 후 ‘유퀴즈’ 녹화… 슬픔 속 프로답게 소화",
+      "url": "https://m.entertain.naver.com/article/241/0003533201",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 8273,
-      "rank": 28,
+      "views": 29709,
+      "rank": 5,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "이하늬, 둘째 딸 돌잔치..드레스 대신 한복 선택 '단아한 자태'",
+      "url": "https://m.entertain.naver.com/article/076/0004451368",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 22369,
+      "rank": 6,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'역사강사' 최태성도 '암살자(들)' 영상 내렸다..지무비·이동진 이어 줄줄이 삭제",
+      "url": "https://m.entertain.naver.com/article/076/0004451346",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 22272,
+      "rank": 7,
       "channel": "정보주는하마"
     },
     {
@@ -271,8 +80,81 @@
       "url": "https://m.entertain.naver.com/article/117/0004110694",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 7367,
-      "rank": 29,
+      "views": 20851,
+      "rank": 8,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'암살자(들)' 허진호 감독 \"배우들도 힘들어해…박정희 배후설 말이 안된다\"",
+      "url": "https://m.entertain.naver.com/article/477/0000630867",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 19015,
+      "rank": 9,
+      "cross_baseball": true,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "‘1600만 영화’ 감독의 굴욕…시청률 0%대, 쓸쓸한 퇴장",
+      "url": "https://m.entertain.naver.com/article/016/0002703861",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 18088,
+      "rank": 10,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "이혜영, 이혼 발표에 영화 개봉 겹쳐..“제작사, 미리 말 안하냐고 난리나”",
+      "url": "https://m.entertain.naver.com/article/109/0005616065",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 16655,
+      "rank": 11,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "문근영, 다이어트 성공? 반쪽이 됐네..결혼 후 자꾸 예뻐져",
+      "url": "https://m.entertain.naver.com/article/112/0003808696",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 16618,
+      "rank": 12,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "김민, 한강뷰도 고가 취미도 없다…‘나혼산’인가 ‘자연인’인가",
+      "url": "https://m.entertain.naver.com/article/609/0001174157",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 10772,
+      "rank": 13,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "‘미주신경 저하’ 이상순, 결국 35일째 복귀 불가…♥이효리와 전한 뜻밖의 근황",
+      "url": "https://m.entertain.naver.com/article/076/0004451389",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 8794,
+      "rank": 14,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'부실복무' 송민호, 1심서 징역 1년에 집행유예 2년",
+      "url": "https://m.entertain.naver.com/article/477/0000630975",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 8559,
+      "rank": 15,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "최수종, 모친상 발인 하루 만 ‘유퀴즈’ 녹화..하희라도 슬픔 속 동반 참석",
+      "url": "https://m.entertain.naver.com/article/076/0004451673",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 8278,
+      "rank": 16,
       "channel": "정보주는하마"
     },
     {
@@ -280,26 +162,125 @@
       "url": "https://m.entertain.naver.com/article/076/0004451611",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 6730,
+      "views": 8187,
+      "rank": 17,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "구교환, ♥이옥섭 감독과 결혼…이미 4년전 혼인신고",
+      "url": "https://m.entertain.naver.com/article/311/0002063975",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 8013,
+      "rank": 18,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "이동진, 논란 격화 '암살자(들)' 리뷰 철회 거부…\"사과할 생각 없어\"",
+      "url": "https://m.entertain.naver.com/article/465/0000020043",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 7777,
+      "rank": 19,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'나를 충전해줘' 채수빈 \"출연 고민 있었지만…아는 맛 잘 만들 자신 有\"",
+      "url": "https://m.entertain.naver.com/article/440/0000047407",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 7481,
+      "rank": 20,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "‘나솔’ 22기 정숙, ♥상철과 커플룩 입고 브루노 마스 콘서트行 “낭만 치사량”",
+      "url": "https://m.entertain.naver.com/article/609/0001173946",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 7434,
+      "rank": 21,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'청불' 한계 넘었다…개봉 단 8일 만에 '100만' 관객 돌파하며 박스오피스 질주 중인 韓 영화 (타짜: 벨제붑의 노래)",
+      "url": "https://m.entertain.naver.com/article/445/0000469792",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 7025,
+      "rank": 22,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "뮤지컬 배우 임별, 10월 결혼 발표...\"흔들릴 때마다 단단하게 잡아주는 사람\"",
+      "url": "https://m.entertain.naver.com/article/416/0000327014",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 6751,
+      "rank": 23,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'로또 1등' 이준혁, 호의 역풍인가...오대환 향한 분노 눈빛",
+      "url": "https://m.entertain.naver.com/article/465/0000020041",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 6636,
+      "rank": 24,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "“심한 알레르기로 스프레이 못 써”…아이유, ‘헤메스 논란’ 직접 밝힌 안타까운 사연",
+      "url": "https://m.entertain.naver.com/article/468/0001269839",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 6434,
+      "rank": 25,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "33기 현숙, '라방' 집착하더니 진짜 환골탈태…\"금식, 빵 끊었다\"",
+      "url": "https://m.entertain.naver.com/article/311/0002064003",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 6295,
+      "rank": 26,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'나솔' 23기 옥순♥미스터 강, 본식 사진 공개했다…'왕따설' 이겨내고 '해피엔딩'",
+      "url": "https://m.entertain.naver.com/article/312/0000778165",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 6021,
+      "rank": 27,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"더 예뻐졌다\" 난리난 고현정, 감탄 나오는 실물 근황...붕어빵보다 작은 얼굴 크기 '깜짝'",
+      "url": "https://m.entertain.naver.com/article/076/0004451431",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 5873,
+      "rank": 28,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "‘나솔’ 33기, 영호♥순자 한 달 만 결별…영철♥정숙까지 깨져 ‘현커 전멸’",
+      "url": "https://m.entertain.naver.com/article/076/0004451638",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 5426,
+      "rank": 29,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "“심심하면 쌍꺼풀 했다”던 황정음…돌고돌아 2억 들여 ‘본래 얼굴’로",
+      "url": "https://m.entertain.naver.com/article/468/0001269877",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 5094,
       "rank": 30,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "한국에 패해 은메달 일본남자농구대표팀 “전원 모두 A대 표팀 후보”",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 46222,
-      "rank": 1,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "작심 발언! \"사람들은 나를 성적 대상으로 본다\"...21세 바네르지, 140kg 들어 올렸지만, 돌아온 건 조작에서 비롯된 '충격적인 반응들'",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 27029,
-      "rank": 2,
       "channel": "정보주는하마"
     },
     {
@@ -307,17 +288,17 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 26213,
-      "rank": 3,
+      "views": 27576,
+      "rank": 1,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"하늘은 일본을 돕고 우즈벡을 버렸다\" 단 2분 못 버텨서 한국과 결승서 못 만나, 승부차기서도 8-9 분패→대회 역사상 최고의 불운",
+      "title": "日 60년 만의 쾌거! 대한민국 굴욕의 아시안게임으로 남았는데…일본, '金 1개→메달 총 7개' 탁구 성적에 만족",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 16763,
-      "rank": 6,
+      "views": 23555,
+      "rank": 2,
       "channel": "정보주는하마"
     },
     {
@@ -325,80 +306,71 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 14033,
+      "views": 22024,
+      "rank": 3,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"술집 여자 같다\"는 말, 신지은 심경 고백 \"그런 관심도 처음, 모든 분 덕분에 다시 코트에 설 수 있었다\" 기적의 16강 감사 인사",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 13644,
+      "rank": 5,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'미쳤다' 韓 양궁 대형 사고, 컴파운드 본격 기대감 폭발...여자 개인전 '양궁 천재' 강연서 동메달 획득, '미녀 궁사' 박정윤과 집안 싸움 승리",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 12790,
       "rank": 7,
       "channel": "정보주는하마"
     },
     {
-      "title": "'집단 멘붕' KIA 어쩌나, 최약체 상상도 못했다…도대체 누굴 써야 하나",
+      "title": "‘초대박’ 이영표·손흥민·양민혁 이어 ‘韓 축구 4호’ 탄생 가능성 떴다…‘득점력 난조→최전방 공격수 보강 추진’ 토트넘, 오현규 영입 관심",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 13316,
+      "views": 9195,
       "rank": 8,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"얼굴만 예쁜 줄 알았더니\" 25세에 직장 그만두고 다시 활잡은 '아이돌급 외모' 박정윤, 첫 아시안게임서 은+동메달 수확!...\"내 선택 후회 없어, 개인전 금 도전할게요\"",
+      "title": "\"이길 수 있는 시스템 만들어야\" 고언→2년 후 \"좋아지고 있다, 서서히 변할 것\" 믿음…21년 프로 마감하는 김태혁 작별인사",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 11492,
+      "views": 8054,
+      "rank": 9,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "“대표팀은 박물관이 아니다” 자기만 아는 ‘늙은’ 주장, 지금 할 일은 조용히 떠나는 것뿐",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 7886,
       "rank": 10,
       "channel": "정보주는하마"
     },
     {
-      "title": "'살다 살다 50억 원 연봉 대주자는 처음'…김혜성, 포스트시즌 다저스 조커로?",
+      "title": "\"대한민국 7번에게 많이 배워야 할 것 같습니다\"…최산 세리머니 작렬한 중국 초신성의 고백",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 11338,
-      "rank": 11,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "우린 안세영을 과소평가하고 있다! 할 말 잃은 日 매체의 극찬 \"사상 첫 AG 여자단식 2연패. 정말 놀랍다!\" \"AN의 벽은 너무 높았다\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 11263,
+      "views": 7370,
       "rank": 12,
       "channel": "정보주는하마"
     },
     {
-      "title": "세계 1위인데 \"점점 재미가 없다\" 충격 발언…中 탁구 최강 왕추친 \"이번이 내 마지막 아시안게임\" 은퇴 암시",
+      "title": "작심 발언! \"사람들은 나를 성적 대상으로 본다\"...21세 바네르지, 140kg 들어 올렸지만, 돌아온 건 조작에서 비롯된 '충격적인 반응들'",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 10182,
+      "views": 7031,
       "rank": 13,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'엄지성-배준호-양민혁 다 나와도 한국 이길 수 있다!' 中 자신감 폭발...객관적 전력 열세 인정하면서도 \"1실점 이내면 이변 가능\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 10035,
-      "rank": 14,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "충격 실화!  '금금금' 기대했는데, '효자 종목' 양궁 금메달 또 불발...혼성 컴파운드 3연속 은메달, 마지막 치명적 9점",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 9855,
-      "rank": 15,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'한국에 역전패' 中감독의 정신승리...\"한국의 유럽파에게 개인은 밀렸지만, 우리 팀퍼포먼스는 매우 좋았다!\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 8949,
-      "rank": 16,
       "channel": "정보주는하마"
     },
     {
@@ -406,49 +378,58 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 7768,
+      "views": 6349,
+      "rank": 16,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "인도에 막힌 韓 양궁, '금메달 10개 싹쓸이' 도전 무산... 첫날 컴파운드 金 3개 다 놓쳤다",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 6131,
       "rank": 17,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"새로운 행선지 찾게 했다\" 김민재, 21호 코리안 프리미어리거 등극하나…토트넘·아스톤 빌라 관심+밀란도 문의 \"이적 성사 가능성 높게 본다\"",
+      "title": "이런 굴욕이! '중국 産' 최산, 한국을 농락했다...제대로 얻어맞은 이민성호, 韓, 中에 3연패 현실되나, 왕위둥 선제골 터트려",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 7583,
-      "rank": 18,
+      "views": 5317,
+      "rank": 19,
       "channel": "정보주는하마"
     },
     {
-      "title": "‘韓 축구 레전드’ 손흥민, 또 그 이름을 외쳤다···英 언론 “2년 동안 토트넘 떠난 선수 29명, SON은 전설이다”",
+      "title": "\"경악!\" 日 충격 분석, 대한민국 축구 평가절하…'韓 해외파 전원 소집→군 복무 면제 노린다'",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 7472,
-      "rank": 19,
+      "views": 5226,
+      "rank": 20,
       "channel": "정보주는하마"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 46,
+      "article_count": 44,
       "topics": [
         {
           "title": "\"선수, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 9,
-          "source_article": "구교환, ♥이옥섭 감독과 결혼…이미 4년전 혼인신고",
-          "source_url": "https://m.entertain.naver.com/article/311/0002063975",
-          "source_name": "엔터 많이 본 뉴스",
+          "article_count": 8,
+          "source_article": "\"방에서 쓰러진 채 발견\" 돌연 사망, 19세 신인에게 대체 무슨 일이...전날까지 자발적 훈련 소화 \"정말 열심히 노력한 선수\" 日 야구계 침통",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "선수",
+            "암살자",
+            "허진호",
             "감독",
-            "시청률",
-            "감독의",
-            "한국에"
+            "배우들"
           ],
           "template": "스포츠 기록",
-          "score": 7.1,
+          "score": 7.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -467,21 +448,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 8,
-          "source_article": "송일국 키가 제일 작네..186cm 된 중2 삼둥이 폭풍성장 근황 \"작은 아기들이었는데\"",
-          "source_url": "https://m.entertain.naver.com/article/076/0004451401",
+          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 3,
+          "source_article": "연예계 친일파 난리 속…'87세' 사미자, \"日 순사에 다 일러바쳐\"→과거 폭로",
+          "source_url": "https://m.entertain.naver.com/article/213/0001402983",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "근황",
-            "파격",
-            "송일국",
-            "키가",
-            "제일"
+            "연예계",
+            "친일파",
+            "난리",
+            "사미자",
+            "순사에"
           ],
-          "template": "장기 공백 복귀",
-          "score": 6.8,
+          "template": "논란 집합",
+          "score": 7.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -492,9 +473,9 @@
           "table": {
             "headers": [
               "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
@@ -503,196 +484,18 @@
           "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
           "angle_type": "결혼·이혼",
           "article_count": 4,
-          "source_article": "구교환, ♥이옥섭 감독과 결혼…이미 4년전 혼인신고",
-          "source_url": "https://m.entertain.naver.com/article/311/0002063975",
+          "source_article": "이혜영, 이혼 발표에 영화 개봉 겹쳐..“제작사, 미리 말 안하냐고 난리나”",
+          "source_url": "https://m.entertain.naver.com/article/109/0005616065",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "결혼",
-            "구교환",
-            "이옥섭",
-            "감독과",
-            "이미"
+            "이혜영",
+            "이혼",
+            "발표에",
+            "개봉"
           ],
           "template": "결혼 화제",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 3,
-          "source_article": "이동국 딸 설아, 중1 맞아? 인형 미모 근황…풀메이크업도 찰떡",
-          "source_url": "https://m.entertain.naver.com/article/311/0002063563",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "이동국",
-            "설아",
-            "맞아",
-            "인형",
-            "미모"
-          ],
-          "template": "동갑내기",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"파격, 지금 어디서 뭐 하나?\" 파격 근황 총정리",
-          "angle_type": "👤 파격",
-          "article_count": 3,
-          "source_article": "'타짜4' 변요한과 파격 베드신, 日 미요시 아야카…\"20살까지 父와 목욕\"",
-          "source_url": "https://m.entertain.naver.com/article/415/0000052358",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "파격"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"이옥섭 결혼설?\" 이옥섭 연애사 총정리",
-          "angle_type": "👤 이옥섭",
-          "article_count": 3,
-          "source_article": "구교환, ♥이옥섭 감독과 결혼…이미 4년전 혼인신고",
-          "source_url": "https://m.entertain.naver.com/article/311/0002063975",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "이옥섭"
-          ],
-          "template": "결혼 화제",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"구교환 결혼설?\" 구교환 연애사 총정리",
-          "angle_type": "👤 구교환",
-          "article_count": 3,
-          "source_article": "구교환, ♥이옥섭 감독과 결혼…이미 4년전 혼인신고",
-          "source_url": "https://m.entertain.naver.com/article/311/0002063975",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "구교환"
-          ],
-          "template": "결혼 화제",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"혼인신 결혼설?\" 혼인신 연애사 총정리",
-          "angle_type": "👤 혼인신",
-          "article_count": 3,
-          "source_article": "구교환, ♥이옥섭 감독과 결혼…이미 4년전 혼인신고",
-          "source_url": "https://m.entertain.naver.com/article/311/0002063975",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "혼인신"
-          ],
-          "template": "결혼 화제",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"이미 결혼설?\" 이미 연애사 총정리",
-          "angle_type": "👤 이미",
-          "article_count": 3,
-          "source_article": "구교환, ♥이옥섭 감독과 결혼…이미 4년전 혼인신고",
-          "source_url": "https://m.entertain.naver.com/article/311/0002063975",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "이미"
-          ],
-          "template": "결혼 화제",
-          "score": 6.3,
+          "score": 6.9,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -714,18 +517,18 @@
           "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
           "angle_type": "투병·건강",
           "article_count": 4,
-          "source_article": "'역사강사' 최태성도 '암살자(들)' 영상 내렸다..지무비·이동진 이어 줄줄이 삭제",
-          "source_url": "https://m.entertain.naver.com/article/076/0004451346",
-          "source_name": "엔터 많이 본 뉴스",
+          "source_article": "\"방에서 쓰러진 채 발견\" 돌연 사망, 19세 신인에게 대체 무슨 일이...전날까지 자발적 훈련 소화 \"정말 열심히 노력한 선수\" 日 야구계 침통",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "암살자",
+            "이동진",
             "역사강",
             "최태성",
-            "내렸다",
-            "지무비"
+            "내렸다"
           ],
           "template": "투병 극복",
-          "score": 6.0,
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -744,14 +547,76 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"마지막\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 마지막",
+          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
           "article_count": 3,
-          "source_article": "최수종, 어머니 마지막 길 배웅 후 ‘유퀴즈’ 녹화… 슬픔 속 프로답게 소화",
-          "source_url": "https://m.entertain.naver.com/article/241/0003533201",
+          "source_article": "송일국 키가 제일 작네..186cm 된 중2 삼둥이 폭풍성장 근황 \"작은 아기들이었는데\"",
+          "source_url": "https://m.entertain.naver.com/article/076/0004451401",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "마지막"
+            "근황",
+            "작은",
+            "송일국",
+            "키가",
+            "제일"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"암살자, 대체 무슨 일이?\" 암살자 관련 이슈 총정리",
+          "angle_type": "👤 암살자",
+          "article_count": 3,
+          "source_article": "'역사강사' 최태성도 '암살자(들)' 영상 내렸다..지무비·이동진 이어 줄줄이 삭제",
+          "source_url": "https://m.entertain.naver.com/article/076/0004451346",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "암살자"
+          ],
+          "template": "논란 집합",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"나솔\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 나솔",
+          "article_count": 3,
+          "source_article": "‘나솔’ 22기 정숙, ♥상철과 커플룩 입고 브루노 마스 콘서트行 “낭만 치사량”",
+          "source_url": "https://m.entertain.naver.com/article/609/0001173946",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "나솔"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -773,14 +638,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"한국에\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 한국에",
+          "title": "\"대한민\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 대한민",
           "article_count": 3,
-          "source_article": "한국에 패해 은메달 일본남자농구대표팀 “전원 모두 A대 표팀 후보”",
+          "source_article": "日 60년 만의 쾌거! 대한민국 굴욕의 아시안게임으로 남았는데…일본, '金 1개→메달 총 7개' 탁구 성적에 만족",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "한국에"
+            "대한민"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -805,70 +670,46 @@
       "keyword_freq": [
         [
           "근황",
-          6
-        ],
-        [
-          "파격",
           3
-        ],
-        [
-          "이옥섭",
-          3
-        ],
-        [
-          "구교환",
-          3
-        ],
-        [
-          "혼인신고",
-          3
-        ],
-        [
-          "이미",
-          3
-        ],
-        [
-          "마지막",
-          3
-        ],
-        [
-          "한국에",
-          3
-        ],
-        [
-          "선수",
-          3
-        ],
-        [
-          "집단",
-          2
-        ],
-        [
-          "내렸다",
-          2
         ],
         [
           "암살자",
-          2
+          3
         ],
         [
           "결혼",
+          3
+        ],
+        [
+          "나솔",
+          3
+        ],
+        [
+          "대한민국",
+          3
+        ],
+        [
+          "작은",
           2
         ],
         [
-          "미모",
+          "이미",
           2
         ],
         [
-          "감독",
+          "이옥섭",
           2
         ],
         [
-          "커플",
+          "구교환",
           2
         ],
         [
-          "부부",
+          "혼인신고",
+          2
+        ],
+        [
+          "유퀴즈",
           2
         ],
         [
@@ -876,84 +717,112 @@
           2
         ],
         [
-          "선택",
+          "슬픔",
           2
         ],
         [
-          "충격적인",
+          "최수종",
+          2
+        ],
+        [
+          "이동진",
+          2
+        ],
+        [
+          "이어",
+          2
+        ],
+        [
+          "개봉",
+          2
+        ],
+        [
+          "나를",
+          2
+        ],
+        [
+          "아는",
+          2
+        ],
+        [
+          "얼굴",
           2
         ]
       ],
       "name_freq": [
         [
           "근황",
-          6
-        ],
-        [
-          "파격",
           3
-        ],
-        [
-          "이옥섭",
-          3
-        ],
-        [
-          "구교환",
-          3
-        ],
-        [
-          "혼인신",
-          3
-        ],
-        [
-          "이미",
-          3
-        ],
-        [
-          "마지막",
-          3
-        ],
-        [
-          "한국에",
-          3
-        ],
-        [
-          "선수",
-          3
-        ],
-        [
-          "집단",
-          2
-        ],
-        [
-          "내렸다",
-          2
         ],
         [
           "암살자",
-          2
+          3
         ],
         [
           "결혼",
+          3
+        ],
+        [
+          "나솔",
+          3
+        ],
+        [
+          "대한민",
+          3
+        ],
+        [
+          "작은",
           2
         ],
         [
-          "미모",
+          "더니",
           2
         ],
         [
-          "감독",
+          "이미",
+          2
+        ],
+        [
+          "이옥섭",
+          2
+        ],
+        [
+          "혼인신",
+          2
+        ],
+        [
+          "구교환",
+          2
+        ],
+        [
+          "유퀴즈",
+          2
+        ],
+        [
+          "소화",
+          2
+        ],
+        [
+          "슬픔",
+          2
+        ],
+        [
+          "최수종",
           2
         ]
       ],
       "angle_scores": [
+        [
+          "논란·사건",
+          3
+        ],
         [
           "결혼·이혼",
           4
         ],
         [
           "복귀·근황",
-          8
+          3
         ],
         [
           "투병·건강",
@@ -961,30 +830,26 @@
         ],
         [
           "스포츠",
-          9
-        ],
-        [
-          "가족·혈연",
-          3
+          8
         ]
       ]
     },
     "초구딱": {
-      "article_count": 34,
+      "article_count": 36,
       "topics": [
         {
-          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+          "title": "\"진짜, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 3,
-          "source_article": "'한국전 7이닝 무실점' 日 국대 좌완이 KBO 문 두드린다, \"한국 등 폭넓게 행선지 모색\"…차기 시즌 아시아쿼터로 영입될까",
+          "article_count": 6,
+          "source_article": "‘2위→9위’ 추락 한화, 손혁 단장-김경문 감독 ‘동반 퇴진’하나",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "한국전",
-            "이닝",
-            "무실점",
-            "국대",
-            "좌완이"
+            "진짜",
+            "감독",
+            "추락",
+            "한화",
+            "손혁"
           ],
           "template": "스포츠 기록",
           "score": 6.8,
@@ -1001,101 +866,6 @@
               "소속팀",
               "기록 내용",
               "기록 가치"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"암살자, 대체 무슨 일이?\" 암살자 관련 이슈 총정리",
-          "angle_type": "👤 암살자",
-          "article_count": 3,
-          "source_article": "암살자들 영화자체는 논란으로 더 흥행할거같네요",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610010119089566&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "암살자"
-          ],
-          "template": "논란 집합",
-          "score": 6.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 2,
-          "source_article": "\"12년 동안 정말 감사했다\" 충격의 롯데 퇴단, 4년 10억엔 계약 나카무라 팀 떠난다",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "동안",
-            "정말",
-            "감사했",
-            "충격의",
-            "롯데"
-          ],
-          "template": "자산 서열",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-          "angle_type": "투병·건강",
-          "article_count": 3,
-          "source_article": "동진이형 호프 암살자들 2연타로 훅 가나요",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610010119089539&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "암살자",
-            "영화자",
-            "체는",
-            "논란으",
-            "흥행할"
-          ],
-          "template": "투병 극복",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "투병 질환",
-              "공백기",
-              "복귀 작품"
             ]
           },
           "channel": "초구딱"
@@ -1132,116 +902,136 @@
       ],
       "keyword_freq": [
         [
+          "진짜",
+          3
+        ],
+        [
           "안내",
           3
         ],
         [
-          "암살자들",
-          3
+          "감독",
+          2
         ],
         [
           "조치",
           2
         ],
         [
-          "폭넓게",
+          "적용",
+          2
+        ],
+        [
+          "기념",
+          2
+        ],
+        [
+          "이벤트",
+          2
+        ],
+        [
+          "후기",
+          2
+        ],
+        [
+          "여자가",
+          2
+        ],
+        [
+          "김경문",
           1
         ],
         [
-          "이닝",
+          "하나",
           1
         ],
         [
-          "한국전",
+          "동반",
           1
         ],
         [
-          "시즌",
+          "한화",
           1
         ],
         [
-          "좌완이",
+          "단장",
           1
         ],
         [
-          "차기",
+          "손혁",
           1
         ],
         [
-          "영입될까",
+          "퇴진",
           1
         ],
         [
-          "두드린다",
+          "추락",
           1
         ],
         [
-          "국대",
+          "마무리",
           1
         ],
         [
-          "모색",
+          "여중생",
           1
         ],
         [
-          "행선지",
-          1
-        ],
-        [
-          "무실점",
-          1
-        ],
-        [
-          "아시아쿼터로",
-          1
-        ],
-        [
-          "롯데",
-          1
-        ],
-        [
-          "억엔",
-          1
-        ],
-        [
-          "퇴단",
-          1
-        ],
-        [
-          "계약",
+          "동메달",
           1
         ]
       ],
       "name_freq": [
         [
+          "진짜",
+          3
+        ],
+        [
           "안내",
           3
         ],
         [
-          "암살자",
-          3
-        ],
-        [
-          "시즌",
+          "감독",
           2
         ],
         [
           "조치",
           2
+        ],
+        [
+          "적용",
+          2
+        ],
+        [
+          "기념",
+          2
+        ],
+        [
+          "이벤트",
+          2
+        ],
+        [
+          "리그",
+          2
+        ],
+        [
+          "후기",
+          2
+        ],
+        [
+          "보면",
+          2
+        ],
+        [
+          "여자가",
+          2
         ]
       ],
       "angle_scores": [
         [
-          "자산·몸값",
-          2
-        ],
-        [
-          "투병·건강",
-          3
-        ],
-        [
           "스포츠",
-          3
+          6
         ]
       ]
     }
@@ -1250,19 +1040,19 @@
     {
       "title": "\"선수, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 9,
-      "source_article": "구교환, ♥이옥섭 감독과 결혼…이미 4년전 혼인신고",
-      "source_url": "https://m.entertain.naver.com/article/311/0002063975",
-      "source_name": "엔터 많이 본 뉴스",
+      "article_count": 8,
+      "source_article": "\"방에서 쓰러진 채 발견\" 돌연 사망, 19세 신인에게 대체 무슨 일이...전날까지 자발적 훈련 소화 \"정말 열심히 노력한 선수\" 日 야구계 침통",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "선수",
+        "암살자",
+        "허진호",
         "감독",
-        "시청률",
-        "감독의",
-        "한국에"
+        "배우들"
       ],
       "template": "스포츠 기록",
-      "score": 7.1,
+      "score": 7.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1281,21 +1071,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 8,
-      "source_article": "송일국 키가 제일 작네..186cm 된 중2 삼둥이 폭풍성장 근황 \"작은 아기들이었는데\"",
-      "source_url": "https://m.entertain.naver.com/article/076/0004451401",
+      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 3,
+      "source_article": "연예계 친일파 난리 속…'87세' 사미자, \"日 순사에 다 일러바쳐\"→과거 폭로",
+      "source_url": "https://m.entertain.naver.com/article/213/0001402983",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "근황",
-        "파격",
-        "송일국",
-        "키가",
-        "제일"
+        "연예계",
+        "친일파",
+        "난리",
+        "사미자",
+        "순사에"
       ],
-      "template": "장기 공백 복귀",
-      "score": 6.8,
+      "template": "논란 집합",
+      "score": 7.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1306,9 +1096,9 @@
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
@@ -1317,196 +1107,18 @@
       "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
       "angle_type": "결혼·이혼",
       "article_count": 4,
-      "source_article": "구교환, ♥이옥섭 감독과 결혼…이미 4년전 혼인신고",
-      "source_url": "https://m.entertain.naver.com/article/311/0002063975",
+      "source_article": "이혜영, 이혼 발표에 영화 개봉 겹쳐..“제작사, 미리 말 안하냐고 난리나”",
+      "source_url": "https://m.entertain.naver.com/article/109/0005616065",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "결혼",
-        "구교환",
-        "이옥섭",
-        "감독과",
-        "이미"
+        "이혜영",
+        "이혼",
+        "발표에",
+        "개봉"
       ],
       "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 3,
-      "source_article": "이동국 딸 설아, 중1 맞아? 인형 미모 근황…풀메이크업도 찰떡",
-      "source_url": "https://m.entertain.naver.com/article/311/0002063563",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "이동국",
-        "설아",
-        "맞아",
-        "인형",
-        "미모"
-      ],
-      "template": "동갑내기",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"파격, 지금 어디서 뭐 하나?\" 파격 근황 총정리",
-      "angle_type": "👤 파격",
-      "article_count": 3,
-      "source_article": "'타짜4' 변요한과 파격 베드신, 日 미요시 아야카…\"20살까지 父와 목욕\"",
-      "source_url": "https://m.entertain.naver.com/article/415/0000052358",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "파격"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이옥섭 결혼설?\" 이옥섭 연애사 총정리",
-      "angle_type": "👤 이옥섭",
-      "article_count": 3,
-      "source_article": "구교환, ♥이옥섭 감독과 결혼…이미 4년전 혼인신고",
-      "source_url": "https://m.entertain.naver.com/article/311/0002063975",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "이옥섭"
-      ],
-      "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"구교환 결혼설?\" 구교환 연애사 총정리",
-      "angle_type": "👤 구교환",
-      "article_count": 3,
-      "source_article": "구교환, ♥이옥섭 감독과 결혼…이미 4년전 혼인신고",
-      "source_url": "https://m.entertain.naver.com/article/311/0002063975",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "구교환"
-      ],
-      "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"혼인신 결혼설?\" 혼인신 연애사 총정리",
-      "angle_type": "👤 혼인신",
-      "article_count": 3,
-      "source_article": "구교환, ♥이옥섭 감독과 결혼…이미 4년전 혼인신고",
-      "source_url": "https://m.entertain.naver.com/article/311/0002063975",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "혼인신"
-      ],
-      "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이미 결혼설?\" 이미 연애사 총정리",
-      "angle_type": "👤 이미",
-      "article_count": 3,
-      "source_article": "구교환, ♥이옥섭 감독과 결혼…이미 4년전 혼인신고",
-      "source_url": "https://m.entertain.naver.com/article/311/0002063975",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "이미"
-      ],
-      "template": "결혼 화제",
-      "score": 6.3,
+      "score": 6.9,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1528,18 +1140,18 @@
       "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
       "angle_type": "투병·건강",
       "article_count": 4,
-      "source_article": "'역사강사' 최태성도 '암살자(들)' 영상 내렸다..지무비·이동진 이어 줄줄이 삭제",
-      "source_url": "https://m.entertain.naver.com/article/076/0004451346",
-      "source_name": "엔터 많이 본 뉴스",
+      "source_article": "\"방에서 쓰러진 채 발견\" 돌연 사망, 19세 신인에게 대체 무슨 일이...전날까지 자발적 훈련 소화 \"정말 열심히 노력한 선수\" 日 야구계 침통",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "암살자",
+        "이동진",
         "역사강",
         "최태성",
-        "내렸다",
-        "지무비"
+        "내렸다"
       ],
       "template": "투병 극복",
-      "score": 6.0,
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1558,14 +1170,76 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"마지막\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 마지막",
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
       "article_count": 3,
-      "source_article": "최수종, 어머니 마지막 길 배웅 후 ‘유퀴즈’ 녹화… 슬픔 속 프로답게 소화",
-      "source_url": "https://m.entertain.naver.com/article/241/0003533201",
+      "source_article": "송일국 키가 제일 작네..186cm 된 중2 삼둥이 폭풍성장 근황 \"작은 아기들이었는데\"",
+      "source_url": "https://m.entertain.naver.com/article/076/0004451401",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "마지막"
+        "근황",
+        "작은",
+        "송일국",
+        "키가",
+        "제일"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"암살자, 대체 무슨 일이?\" 암살자 관련 이슈 총정리",
+      "angle_type": "👤 암살자",
+      "article_count": 3,
+      "source_article": "'역사강사' 최태성도 '암살자(들)' 영상 내렸다..지무비·이동진 이어 줄줄이 삭제",
+      "source_url": "https://m.entertain.naver.com/article/076/0004451346",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "암살자"
+      ],
+      "template": "논란 집합",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"나솔\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 나솔",
+      "article_count": 3,
+      "source_article": "‘나솔’ 22기 정숙, ♥상철과 커플룩 입고 브루노 마스 콘서트行 “낭만 치사량”",
+      "source_url": "https://m.entertain.naver.com/article/609/0001173946",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "나솔"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1587,14 +1261,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"한국에\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 한국에",
+      "title": "\"대한민\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 대한민",
       "article_count": 3,
-      "source_article": "한국에 패해 은메달 일본남자농구대표팀 “전원 모두 A대 표팀 후보”",
+      "source_article": "日 60년 만의 쾌거! 대한민국 굴욕의 아시안게임으로 남았는데…일본, '金 1개→메달 총 7개' 탁구 성적에 만족",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "한국에"
+        "대한민"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1620,387 +1294,19 @@
     {
       "title": "\"선수, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 9,
-      "source_article": "구교환, ♥이옥섭 감독과 결혼…이미 4년전 혼인신고",
-      "source_url": "https://m.entertain.naver.com/article/311/0002063975",
-      "source_name": "엔터 많이 본 뉴스",
+      "article_count": 8,
+      "source_article": "\"방에서 쓰러진 채 발견\" 돌연 사망, 19세 신인에게 대체 무슨 일이...전날까지 자발적 훈련 소화 \"정말 열심히 노력한 선수\" 日 야구계 침통",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "선수",
-        "감독",
-        "시청률",
-        "감독의",
-        "한국에"
-      ],
-      "template": "스포츠 기록",
-      "score": 7.1,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 8,
-      "source_article": "송일국 키가 제일 작네..186cm 된 중2 삼둥이 폭풍성장 근황 \"작은 아기들이었는데\"",
-      "source_url": "https://m.entertain.naver.com/article/076/0004451401",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "근황",
-        "파격",
-        "송일국",
-        "키가",
-        "제일"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 6.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 4,
-      "source_article": "구교환, ♥이옥섭 감독과 결혼…이미 4년전 혼인신고",
-      "source_url": "https://m.entertain.naver.com/article/311/0002063975",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "결혼",
-        "구교환",
-        "이옥섭",
-        "감독과",
-        "이미"
-      ],
-      "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 3,
-      "source_article": "이동국 딸 설아, 중1 맞아? 인형 미모 근황…풀메이크업도 찰떡",
-      "source_url": "https://m.entertain.naver.com/article/311/0002063563",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "이동국",
-        "설아",
-        "맞아",
-        "인형",
-        "미모"
-      ],
-      "template": "동갑내기",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"파격, 지금 어디서 뭐 하나?\" 파격 근황 총정리",
-      "angle_type": "👤 파격",
-      "article_count": 3,
-      "source_article": "'타짜4' 변요한과 파격 베드신, 日 미요시 아야카…\"20살까지 父와 목욕\"",
-      "source_url": "https://m.entertain.naver.com/article/415/0000052358",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "파격"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이옥섭 결혼설?\" 이옥섭 연애사 총정리",
-      "angle_type": "👤 이옥섭",
-      "article_count": 3,
-      "source_article": "구교환, ♥이옥섭 감독과 결혼…이미 4년전 혼인신고",
-      "source_url": "https://m.entertain.naver.com/article/311/0002063975",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "이옥섭"
-      ],
-      "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"구교환 결혼설?\" 구교환 연애사 총정리",
-      "angle_type": "👤 구교환",
-      "article_count": 3,
-      "source_article": "구교환, ♥이옥섭 감독과 결혼…이미 4년전 혼인신고",
-      "source_url": "https://m.entertain.naver.com/article/311/0002063975",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "구교환"
-      ],
-      "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"혼인신 결혼설?\" 혼인신 연애사 총정리",
-      "angle_type": "👤 혼인신",
-      "article_count": 3,
-      "source_article": "구교환, ♥이옥섭 감독과 결혼…이미 4년전 혼인신고",
-      "source_url": "https://m.entertain.naver.com/article/311/0002063975",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "혼인신"
-      ],
-      "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이미 결혼설?\" 이미 연애사 총정리",
-      "angle_type": "👤 이미",
-      "article_count": 3,
-      "source_article": "구교환, ♥이옥섭 감독과 결혼…이미 4년전 혼인신고",
-      "source_url": "https://m.entertain.naver.com/article/311/0002063975",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "이미"
-      ],
-      "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-      "angle_type": "투병·건강",
-      "article_count": 4,
-      "source_article": "'역사강사' 최태성도 '암살자(들)' 영상 내렸다..지무비·이동진 이어 줄줄이 삭제",
-      "source_url": "https://m.entertain.naver.com/article/076/0004451346",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
         "암살자",
-        "역사강",
-        "최태성",
-        "내렸다",
-        "지무비"
-      ],
-      "template": "투병 극복",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "투병 질환",
-          "공백기",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"마지막\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 마지막",
-      "article_count": 3,
-      "source_article": "최수종, 어머니 마지막 길 배웅 후 ‘유퀴즈’ 녹화… 슬픔 속 프로답게 소화",
-      "source_url": "https://m.entertain.naver.com/article/241/0003533201",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "마지막"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"한국에\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 한국에",
-      "article_count": 3,
-      "source_article": "한국에 패해 은메달 일본남자농구대표팀 “전원 모두 A대 표팀 후보”",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "한국에"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 3,
-      "source_article": "'한국전 7이닝 무실점' 日 국대 좌완이 KBO 문 두드린다, \"한국 등 폭넓게 행선지 모색\"…차기 시즌 아시아쿼터로 영입될까",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "한국전",
-        "이닝",
-        "무실점",
-        "국대",
-        "좌완이"
+        "허진호",
+        "감독",
+        "배우들"
       ],
       "template": "스포츠 기록",
-      "score": 6.8,
+      "score": 7.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2016,20 +1322,24 @@
           "기록 가치"
         ]
       },
-      "channel": "초구딱"
+      "channel": "정보주는하마"
     },
     {
-      "title": "\"암살자, 대체 무슨 일이?\" 암살자 관련 이슈 총정리",
-      "angle_type": "👤 암살자",
+      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "angle_type": "논란·사건",
       "article_count": 3,
-      "source_article": "암살자들 영화자체는 논란으로 더 흥행할거같네요",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610010119089566&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
+      "source_article": "연예계 친일파 난리 속…'87세' 사미자, \"日 순사에 다 일러바쳐\"→과거 폭로",
+      "source_url": "https://m.entertain.naver.com/article/213/0001402983",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "암살자"
+        "연예계",
+        "친일파",
+        "난리",
+        "사미자",
+        "순사에"
       ],
       "template": "논란 집합",
-      "score": 6.8,
+      "score": 7.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2045,24 +1355,24 @@
           "현재 상황"
         ]
       },
-      "channel": "초구딱"
+      "channel": "정보주는하마"
     },
     {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 2,
-      "source_article": "\"12년 동안 정말 감사했다\" 충격의 롯데 퇴단, 4년 10억엔 계약 나카무라 팀 떠난다",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 4,
+      "source_article": "이혜영, 이혼 발표에 영화 개봉 겹쳐..“제작사, 미리 말 안하냐고 난리나”",
+      "source_url": "https://m.entertain.naver.com/article/109/0005616065",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "동안",
-        "정말",
-        "감사했",
-        "충격의",
-        "롯데"
+        "결혼",
+        "이혜영",
+        "이혼",
+        "발표에",
+        "개봉"
       ],
-      "template": "자산 서열",
-      "score": 6.5,
+      "template": "결혼 화제",
+      "score": 6.9,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2073,29 +1383,29 @@
       "table": {
         "headers": [
           "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
         ]
       },
-      "channel": "초구딱"
+      "channel": "정보주는하마"
     },
     {
       "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
       "angle_type": "투병·건강",
-      "article_count": 3,
-      "source_article": "동진이형 호프 암살자들 2연타로 훅 가나요",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610010119089539&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
+      "article_count": 4,
+      "source_article": "\"방에서 쓰러진 채 발견\" 돌연 사망, 19세 신인에게 대체 무슨 일이...전날까지 자발적 훈련 소화 \"정말 열심히 노력한 선수\" 日 야구계 침통",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "암살자",
-        "영화자",
-        "체는",
-        "논란으",
-        "흥행할"
+        "이동진",
+        "역사강",
+        "최태성",
+        "내렸다"
       ],
       "template": "투병 극복",
-      "score": 6.0,
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2109,6 +1419,159 @@
           "투병 질환",
           "공백기",
           "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 3,
+      "source_article": "송일국 키가 제일 작네..186cm 된 중2 삼둥이 폭풍성장 근황 \"작은 아기들이었는데\"",
+      "source_url": "https://m.entertain.naver.com/article/076/0004451401",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "근황",
+        "작은",
+        "송일국",
+        "키가",
+        "제일"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"암살자, 대체 무슨 일이?\" 암살자 관련 이슈 총정리",
+      "angle_type": "👤 암살자",
+      "article_count": 3,
+      "source_article": "'역사강사' 최태성도 '암살자(들)' 영상 내렸다..지무비·이동진 이어 줄줄이 삭제",
+      "source_url": "https://m.entertain.naver.com/article/076/0004451346",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "암살자"
+      ],
+      "template": "논란 집합",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"나솔\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 나솔",
+      "article_count": 3,
+      "source_article": "‘나솔’ 22기 정숙, ♥상철과 커플룩 입고 브루노 마스 콘서트行 “낭만 치사량”",
+      "source_url": "https://m.entertain.naver.com/article/609/0001173946",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "나솔"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"대한민\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 대한민",
+      "article_count": 3,
+      "source_article": "日 60년 만의 쾌거! 대한민국 굴욕의 아시안게임으로 남았는데…일본, '金 1개→메달 총 7개' 탁구 성적에 만족",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "대한민"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"진짜, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 6,
+      "source_article": "‘2위→9위’ 추락 한화, 손혁 단장-김경문 감독 ‘동반 퇴진’하나",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "진짜",
+        "감독",
+        "추락",
+        "한화",
+        "손혁"
+      ],
+      "template": "스포츠 기록",
+      "score": 6.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
         ]
       },
       "channel": "초구딱"
@@ -2146,70 +1609,46 @@
   "keyword_freq": [
     [
       "근황",
-      6
-    ],
-    [
-      "파격",
       3
-    ],
-    [
-      "이옥섭",
-      3
-    ],
-    [
-      "구교환",
-      3
-    ],
-    [
-      "혼인신고",
-      3
-    ],
-    [
-      "이미",
-      3
-    ],
-    [
-      "마지막",
-      3
-    ],
-    [
-      "한국에",
-      3
-    ],
-    [
-      "선수",
-      3
-    ],
-    [
-      "집단",
-      2
-    ],
-    [
-      "내렸다",
-      2
     ],
     [
       "암살자",
-      2
+      3
     ],
     [
       "결혼",
+      3
+    ],
+    [
+      "나솔",
+      3
+    ],
+    [
+      "대한민국",
+      3
+    ],
+    [
+      "작은",
       2
     ],
     [
-      "미모",
+      "이미",
       2
     ],
     [
-      "감독",
+      "이옥섭",
       2
     ],
     [
-      "커플",
+      "구교환",
       2
     ],
     [
-      "부부",
+      "혼인신고",
+      2
+    ],
+    [
+      "유퀴즈",
       2
     ],
     [
@@ -2217,77 +1656,101 @@
       2
     ],
     [
-      "선택",
+      "슬픔",
       2
     ],
     [
-      "충격적인",
+      "최수종",
+      2
+    ],
+    [
+      "이동진",
+      2
+    ],
+    [
+      "이어",
+      2
+    ],
+    [
+      "개봉",
+      2
+    ],
+    [
+      "나를",
+      2
+    ],
+    [
+      "아는",
+      2
+    ],
+    [
+      "얼굴",
       2
     ]
   ],
   "name_freq": [
     [
       "근황",
-      6
-    ],
-    [
-      "파격",
       3
-    ],
-    [
-      "이옥섭",
-      3
-    ],
-    [
-      "구교환",
-      3
-    ],
-    [
-      "혼인신",
-      3
-    ],
-    [
-      "이미",
-      3
-    ],
-    [
-      "마지막",
-      3
-    ],
-    [
-      "한국에",
-      3
-    ],
-    [
-      "선수",
-      3
-    ],
-    [
-      "집단",
-      2
-    ],
-    [
-      "내렸다",
-      2
     ],
     [
       "암살자",
-      2
+      3
     ],
     [
       "결혼",
+      3
+    ],
+    [
+      "나솔",
+      3
+    ],
+    [
+      "대한민",
+      3
+    ],
+    [
+      "작은",
       2
     ],
     [
-      "미모",
+      "더니",
       2
     ],
     [
-      "감독",
+      "이미",
+      2
+    ],
+    [
+      "이옥섭",
+      2
+    ],
+    [
+      "혼인신",
+      2
+    ],
+    [
+      "구교환",
+      2
+    ],
+    [
+      "유퀴즈",
+      2
+    ],
+    [
+      "소화",
+      2
+    ],
+    [
+      "슬픔",
+      2
+    ],
+    [
+      "최수종",
       2
     ]
   ],
-  "total_topics_generated": 17,
-  "valid_topics": 17,
+  "total_topics_generated": 10,
+  "valid_topics": 10,
   "excluded_duplicates": 0
 }
