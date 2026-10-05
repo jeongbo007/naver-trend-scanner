@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-10-05 21:00:49",
+  "scan_time": "2026-10-05 23:02:50",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -818,7 +818,7 @@
           2
         ],
         [
-          "김부장",
+          "원현준",
           1
         ]
       ],
@@ -919,39 +919,6 @@
       "article_count": 32,
       "topics": [
         {
-          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 3,
-          "source_article": "컨디션이 안좋아서 골골대다가 자고 일어낫더니",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610060119211819&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "고영표",
-            "선수",
-            "도서",
-            "수원에",
-            "서의"
-          ],
-          "template": "스포츠 기록",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
           "title": "\"이벤트\" 관련 화제 스타 TOP10",
           "angle_type": "👤 이벤트",
           "article_count": 3,
@@ -1016,6 +983,10 @@
           3
         ],
         [
+          "마지막",
+          2
+        ],
+        [
           "조치",
           2
         ],
@@ -1028,20 +999,12 @@
           2
         ],
         [
-          "폭등하나",
-          1
+          "아시안게임",
+          2
         ],
         [
-          "차전",
-          1
-        ],
-        [
-          "눈부신",
-          1
-        ],
-        [
-          "투혼",
-          1
+          "축구",
+          2
         ],
         [
           "한국시리즈",
@@ -1052,23 +1015,15 @@
           1
         ],
         [
-          "몸값",
-          1
-        ],
-        [
-          "폭발",
-          1
-        ],
-        [
           "사령탑도",
           1
         ],
         [
-          "큰일",
+          "폭등하나",
           1
         ],
         [
-          "투수",
+          "몸값",
           1
         ],
         [
@@ -1076,19 +1031,31 @@
           1
         ],
         [
-          "마지막",
+          "눈부신",
           1
         ],
         [
-          "생일",
+          "차전",
           1
         ],
         [
-          "쓸쓸한",
+          "투혼",
           1
         ],
         [
-          "나갔다",
+          "큰일",
+          1
+        ],
+        [
+          "폭발",
+          1
+        ],
+        [
+          "투수",
+          1
+        ],
+        [
+          "관중석에",
           1
         ]
       ],
@@ -1102,6 +1069,10 @@
           3
         ],
         [
+          "마지막",
+          2
+        ],
+        [
           "조치",
           2
         ],
@@ -1110,16 +1081,27 @@
           2
         ],
         [
-          "합니다",
+          "게임",
+          2
+        ],
+        [
+          "축구",
+          2
+        ],
+        [
+          "아시안",
+          2
+        ],
+        [
+          "네요",
+          2
+        ],
+        [
+          "니다",
           2
         ]
       ],
-      "angle_scores": [
-        [
-          "스포츠",
-          3
-        ]
-      ]
+      "angle_scores": []
     }
   },
   "topics": [
@@ -1704,39 +1686,6 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 3,
-      "source_article": "컨디션이 안좋아서 골골대다가 자고 일어낫더니",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610060119211819&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "고영표",
-        "선수",
-        "도서",
-        "수원에",
-        "서의"
-      ],
-      "template": "스포츠 기록",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
       "title": "\"이벤트\" 관련 화제 스타 TOP10",
       "angle_type": "👤 이벤트",
       "article_count": 3,
@@ -1873,7 +1822,7 @@
       2
     ],
     [
-      "김부장",
+      "원현준",
       1
     ]
   ],
@@ -1939,7 +1888,7 @@
       2
     ]
   ],
-  "total_topics_generated": 12,
-  "valid_topics": 12,
+  "total_topics_generated": 11,
+  "valid_topics": 11,
   "excluded_duplicates": 0
 }
