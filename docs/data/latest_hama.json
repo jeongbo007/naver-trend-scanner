@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-10-07 15:51:15",
+  "scan_time": "2026-10-07 19:06:34",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -711,11 +711,11 @@
           2
         ],
         [
-          "연애",
+          "데이트",
           2
         ],
         [
-          "데이트",
+          "연애",
           2
         ],
         [
@@ -735,11 +735,11 @@
           2
         ],
         [
-          "사과했다",
+          "고백",
           2
         ],
         [
-          "고백",
+          "사과했다",
           2
         ],
         [
@@ -797,11 +797,11 @@
           2
         ],
         [
-          "연애",
+          "데이트",
           2
         ],
         [
-          "데이트",
+          "연애",
           2
         ],
         [
@@ -866,16 +866,16 @@
         {
           "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 5,
+          "article_count": 6,
           "source_article": "'도요타 대첩' 이민성 감독, \"군대 안 갑니다\" 선수단 병역 면제 논란에 기자간담회 전격취소…\"취지와 목적 온전히 살리기 어려워\"",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "감독",
+            "선수단",
             "도요타",
             "대첩",
-            "이민성",
-            "군대"
+            "이민성"
           ],
           "template": "스포츠 기록",
           "score": 7.3,
@@ -897,21 +897,17 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 2,
-          "source_article": "'도요타 대첩' 이민성 감독, \"군대 안 갑니다\" 선수단 병역 면제 논란에 기자간담회 전격취소…\"취지와 목적 온전히 살리기 어려워\"",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "title": "\"손흥민\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 손흥민",
+          "article_count": 4,
+          "source_article": "손흥민 vs 다른 선수들 이 이야기는 대체 어디서 나오는 건가요?",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610080119262345&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
           "related_names": [
-            "도요타",
-            "대첩",
-            "이민성",
-            "감독",
-            "군대"
+            "손흥민"
           ],
-          "template": "논란 집합",
-          "score": 6.5,
+          "template": "인맥",
+          "score": 6.4,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -922,25 +918,54 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
+              "분류",
+              "이슈 내용",
               "현재 상황"
             ]
           },
           "channel": "초구딱"
         },
         {
-          "title": "\"손흥민\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 손흥민",
+          "title": "\"나오는\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 나오는",
           "article_count": 3,
-          "source_article": "손흥민이 진짜 문제가 있던 없던...",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610080119261796&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_article": "손흥민 vs 다른 선수들 이 이야기는 대체 어디서 나오는 건가요?",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610080119262345&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
           "source_name": "MLB파크 불펜",
           "related_names": [
-            "손흥민"
+            "나오는"
           ],
           "template": "인맥",
           "score": 6.4,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"네요\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 네요",
+          "article_count": 4,
+          "source_article": "양민혁 생각없네요.",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610080119262354&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "네요"
+          ],
+          "template": "인맥",
+          "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -986,38 +1011,6 @@
             ]
           },
           "channel": "초구딱"
-        },
-        {
-          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 2,
-          "source_article": "평가전 후 한국 피파랭킹 근황",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610080119261718&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "근황",
-            "제주도",
-            "평가전",
-            "피파랭"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 5.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
@@ -1030,7 +1023,7 @@
           3
         ],
         [
-          "김민재",
+          "선수단",
           2
         ],
         [
@@ -1038,19 +1031,35 @@
           2
         ],
         [
-          "기념",
-          2
-        ],
-        [
           "이벤트",
           2
         ],
         [
-          "근황",
+          "기념",
           2
         ],
         [
-          "갑니다",
+          "포스트시즌",
+          2
+        ],
+        [
+          "나오는",
+          2
+        ],
+        [
+          "손흥민의",
+          2
+        ],
+        [
+          "국대",
+          2
+        ],
+        [
+          "면제",
+          1
+        ],
+        [
+          "대첩",
           1
         ],
         [
@@ -1062,23 +1071,7 @@
           1
         ],
         [
-          "논란에",
-          1
-        ],
-        [
-          "면제",
-          1
-        ],
-        [
-          "대첩",
-          1
-        ],
-        [
-          "군대",
-          1
-        ],
-        [
-          "전격취소",
+          "목적",
           1
         ],
         [
@@ -1086,15 +1079,15 @@
           1
         ],
         [
-          "도요타",
+          "기자간담회",
           1
         ],
         [
-          "온전히",
+          "군대",
           1
         ],
         [
-          "목적",
+          "갑니다",
           1
         ],
         [
@@ -1104,6 +1097,14 @@
       ],
       "name_freq": [
         [
+          "네요",
+          4
+        ],
+        [
+          "손흥민",
+          4
+        ],
+        [
           "감독",
           3
         ],
@@ -1112,15 +1113,11 @@
           3
         ],
         [
-          "손흥민",
+          "나오는",
           3
         ],
         [
-          "황인범",
-          2
-        ],
-        [
-          "김민재",
+          "선수단",
           2
         ],
         [
@@ -1128,30 +1125,34 @@
           2
         ],
         [
-          "기념",
-          2
-        ],
-        [
           "이벤트",
           2
         ],
         [
-          "근황",
+          "기념",
+          2
+        ],
+        [
+          "포스트",
+          2
+        ],
+        [
+          "시즌",
+          2
+        ],
+        [
+          "국대",
+          2
+        ],
+        [
+          "봅니다",
           2
         ]
       ],
       "angle_scores": [
         [
-          "논란·사건",
-          2
-        ],
-        [
-          "복귀·근황",
-          2
-        ],
-        [
           "스포츠",
-          5
+          6
         ]
       ]
     }
@@ -1674,16 +1675,16 @@
     {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 5,
+      "article_count": 6,
       "source_article": "'도요타 대첩' 이민성 감독, \"군대 안 갑니다\" 선수단 병역 면제 논란에 기자간담회 전격취소…\"취지와 목적 온전히 살리기 어려워\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "감독",
+        "선수단",
         "도요타",
         "대첩",
-        "이민성",
-        "군대"
+        "이민성"
       ],
       "template": "스포츠 기록",
       "score": 7.3,
@@ -1705,21 +1706,17 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 2,
-      "source_article": "'도요타 대첩' 이민성 감독, \"군대 안 갑니다\" 선수단 병역 면제 논란에 기자간담회 전격취소…\"취지와 목적 온전히 살리기 어려워\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "title": "\"손흥민\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 손흥민",
+      "article_count": 4,
+      "source_article": "손흥민 vs 다른 선수들 이 이야기는 대체 어디서 나오는 건가요?",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610080119262345&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
       "related_names": [
-        "도요타",
-        "대첩",
-        "이민성",
-        "감독",
-        "군대"
+        "손흥민"
       ],
-      "template": "논란 집합",
-      "score": 6.5,
+      "template": "인맥",
+      "score": 6.4,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1730,25 +1727,54 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
+          "분류",
+          "이슈 내용",
           "현재 상황"
         ]
       },
       "channel": "초구딱"
     },
     {
-      "title": "\"손흥민\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 손흥민",
+      "title": "\"나오는\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 나오는",
       "article_count": 3,
-      "source_article": "손흥민이 진짜 문제가 있던 없던...",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610080119261796&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_article": "손흥민 vs 다른 선수들 이 이야기는 대체 어디서 나오는 건가요?",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610080119262345&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "손흥민"
+        "나오는"
       ],
       "template": "인맥",
       "score": 6.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"네요\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 네요",
+      "article_count": 4,
+      "source_article": "양민혁 생각없네요.",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610080119262354&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "네요"
+      ],
+      "template": "인맥",
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1794,38 +1820,6 @@
         ]
       },
       "channel": "초구딱"
-    },
-    {
-      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 2,
-      "source_article": "평가전 후 한국 피파랭킹 근황",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610080119261718&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "근황",
-        "제주도",
-        "평가전",
-        "피파랭"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 5.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
@@ -1850,11 +1844,11 @@
       2
     ],
     [
-      "연애",
+      "데이트",
       2
     ],
     [
-      "데이트",
+      "연애",
       2
     ],
     [
@@ -1874,11 +1868,11 @@
       2
     ],
     [
-      "사과했다",
+      "고백",
       2
     ],
     [
-      "고백",
+      "사과했다",
       2
     ],
     [
@@ -1936,11 +1930,11 @@
       2
     ],
     [
-      "연애",
+      "데이트",
       2
     ],
     [
-      "데이트",
+      "연애",
       2
     ],
     [
