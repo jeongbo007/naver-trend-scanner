@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-10-09 15:37:02",
+  "scan_time": "2026-10-09 18:33:21",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -827,11 +827,11 @@
           2
         ],
         [
-          "눈길",
+          "비난",
           2
         ],
         [
-          "비난",
+          "눈길",
           2
         ],
         [
@@ -863,7 +863,7 @@
           2
         ],
         [
-          "미대",
+          "산지직송",
           2
         ]
       ],
@@ -913,11 +913,11 @@
           2
         ],
         [
-          "눈길",
+          "비난",
           2
         ],
         [
-          "비난",
+          "눈길",
           2
         ],
         [
@@ -960,21 +960,21 @@
       "article_count": 33,
       "topics": [
         {
-          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 2,
-          "source_article": "'1520억 대박' 쳤던 SF 이정후, 3년 만에 이런 평가라니…\"기복 심하고 기대에 못 미쳐\" 美 언론 냉혹한 시선",
+          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 3,
+          "source_article": "린가드, 한국 떠나 망해도 너무 망했다...시즌 도중 2번째 감독 경질 사태, 브라질 2부 추락 대위기",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "대박",
-            "쳤던",
-            "이정후",
-            "이런",
-            "평가라"
+            "린가드",
+            "떠나",
+            "망해도",
+            "너무",
+            "망했다"
           ],
-          "template": "자산 서열",
-          "score": 6.4,
+          "template": "스포츠 기록",
+          "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -984,43 +984,10 @@
           },
           "table": {
             "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 2,
-          "source_article": "불펜에 2주간 안 보이시던 네임드 형님 복귀하셨네요",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610100119297268&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "노벨평",
-            "화상",
-            "근황",
-            "불펜에",
-            "주간"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 6.1,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
             ]
           },
           "channel": "초구딱"
@@ -1053,39 +1020,6 @@
             ]
           },
           "channel": "초구딱"
-        },
-        {
-          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 2,
-          "source_article": "린가드, 한국 떠나 망해도 너무 망했다...시즌 도중 2번째 감독 경질 사태, 브라질 2부 추락 대위기",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "린가드",
-            "떠나",
-            "망해도",
-            "너무",
-            "망했다"
-          ],
-          "template": "스포츠 기록",
-          "score": 5.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
-            ]
-          },
-          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
@@ -1098,10 +1032,6 @@
           2
         ],
         [
-          "이벤트",
-          2
-        ],
-        [
           "기념",
           2
         ],
@@ -1110,23 +1040,11 @@
           2
         ],
         [
-          "같습니다",
+          "이벤트",
           2
         ],
         [
-          "린가드",
-          1
-        ],
-        [
-          "망해도",
-          1
-        ],
-        [
-          "떠나",
-          1
-        ],
-        [
-          "번째",
+          "경질",
           1
         ],
         [
@@ -1134,27 +1052,11 @@
           1
         ],
         [
-          "사태",
-          1
-        ],
-        [
-          "너무",
-          1
-        ],
-        [
-          "망했다",
-          1
-        ],
-        [
-          "경질",
-          1
-        ],
-        [
           "추락",
           1
         ],
         [
-          "감독",
+          "번째",
           1
         ],
         [
@@ -1162,11 +1064,43 @@
           1
         ],
         [
+          "감독",
+          1
+        ],
+        [
           "도중",
           1
         ],
         [
+          "사태",
+          1
+        ],
+        [
+          "망해도",
+          1
+        ],
+        [
+          "너무",
+          1
+        ],
+        [
+          "린가드",
+          1
+        ],
+        [
           "대위기",
+          1
+        ],
+        [
+          "망했다",
+          1
+        ],
+        [
+          "떠나",
+          1
+        ],
+        [
+          "울고",
           1
         ]
       ],
@@ -1184,10 +1118,6 @@
           2
         ],
         [
-          "이벤트",
-          2
-        ],
-        [
           "기념",
           2
         ],
@@ -1196,22 +1126,18 @@
           2
         ],
         [
-          "같습니",
+          "이벤트",
+          2
+        ],
+        [
+          "김영광",
           2
         ]
       ],
       "angle_scores": [
         [
-          "자산·몸값",
-          2
-        ],
-        [
-          "복귀·근황",
-          2
-        ],
-        [
           "스포츠",
-          2
+          3
         ]
       ]
     }
@@ -1906,21 +1832,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 2,
-      "source_article": "'1520억 대박' 쳤던 SF 이정후, 3년 만에 이런 평가라니…\"기복 심하고 기대에 못 미쳐\" 美 언론 냉혹한 시선",
+      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 3,
+      "source_article": "린가드, 한국 떠나 망해도 너무 망했다...시즌 도중 2번째 감독 경질 사태, 브라질 2부 추락 대위기",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "대박",
-        "쳤던",
-        "이정후",
-        "이런",
-        "평가라"
+        "린가드",
+        "떠나",
+        "망해도",
+        "너무",
+        "망했다"
       ],
-      "template": "자산 서열",
-      "score": 6.4,
+      "template": "스포츠 기록",
+      "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1930,43 +1856,10 @@
       },
       "table": {
         "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 2,
-      "source_article": "불펜에 2주간 안 보이시던 네임드 형님 복귀하셨네요",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610100119297268&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "노벨평",
-        "화상",
-        "근황",
-        "불펜에",
-        "주간"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 6.1,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
         ]
       },
       "channel": "초구딱"
@@ -1996,39 +1889,6 @@
           "분류",
           "이슈 내용",
           "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 2,
-      "source_article": "린가드, 한국 떠나 망해도 너무 망했다...시즌 도중 2번째 감독 경질 사태, 브라질 2부 추락 대위기",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "린가드",
-        "떠나",
-        "망해도",
-        "너무",
-        "망했다"
-      ],
-      "template": "스포츠 기록",
-      "score": 5.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
         ]
       },
       "channel": "초구딱"
@@ -2076,11 +1936,11 @@
       2
     ],
     [
-      "눈길",
+      "비난",
       2
     ],
     [
-      "비난",
+      "눈길",
       2
     ],
     [
@@ -2112,7 +1972,7 @@
       2
     ],
     [
-      "미대",
+      "산지직송",
       2
     ]
   ],
@@ -2162,11 +2022,11 @@
       2
     ],
     [
-      "눈길",
+      "비난",
       2
     ],
     [
-      "비난",
+      "눈길",
       2
     ],
     [
@@ -2178,7 +2038,7 @@
       2
     ]
   ],
-  "total_topics_generated": 15,
-  "valid_topics": 15,
+  "total_topics_generated": 13,
+  "valid_topics": 13,
   "excluded_duplicates": 0
 }
