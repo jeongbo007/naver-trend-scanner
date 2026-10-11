@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-10-11 06:49:21",
+  "scan_time": "2026-10-11 11:13:39",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,89 +8,53 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 0
+    "MLB파크 불펜": 30
   },
-  "total_articles": 50,
+  "total_articles": 80,
   "articles": [
+    {
+      "title": "한국 국대 임시 감독 탈락썰 풀었다…포옛 감독 \"결과 발표도 전에 전북 제자들이 축하 문자 보내더라\"",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 32303,
+      "rank": 2,
+      "channel": "초구딱"
+    },
     {
       "title": "한화 이글스 새 사령탑은 류지현 한국야구 대표팀 감독...3년 20억원 계약 임박",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 28859,
-      "rank": 2,
-      "channel": "초구딱"
-    },
-    {
-      "title": "굳이 경기 도중에 왜?…한화, 최종전 진행 중에 “감독·단장 모두 결별” 공식 발표",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 25231,
+      "views": 24089,
       "rank": 4,
       "channel": "초구딱"
     },
     {
-      "title": "'하루 만에 또 깼다!' 롯데 레이예스, KIA전 1회 첫 타석부터 2루타 추가→206안타 쾌속 질주",
+      "title": "롯데 레이예스, 시즌 61호 MH...1안타 최원준과 2개 차→안타왕 3연패 눈앞",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 18934,
-      "rank": 6,
+      "views": 13970,
+      "rank": 7,
       "channel": "초구딱"
     },
     {
-      "title": "SSG, 65억 잠수함 방출...\"세계에서 가장 많이 훈련하는 투수\" 그의 야구는 끝나지 않았다",
+      "title": "하현승 16억에 가려진 박근서의 3억…롯데 1라운더, 결코 우습게 볼 돈 받은 것 아니다",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 13773,
-      "rank": 9,
+      "views": 9297,
+      "rank": 12,
       "channel": "초구딱"
     },
     {
-      "title": "KBO 자존심 구긴 송성문, 3할 타자가 MLB서 1할대로…'제2의 고우석' 되나, 샌디에이고는 뭘 믿고 4년 계약했을까",
+      "title": "'207안타' 얼마나 괴물이면, '볼넷 분노' 최원준 결국 혼났다…레이예스 3년 연속 타이틀 방어 눈앞이다",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 13354,
-      "rank": 10,
-      "channel": "초구딱"
-    },
-    {
-      "title": "레이예스 시작부터 '역대 신기록 경신' 안타 폭발… \"뭐라도 건져야지\" 김태형 팍팍 밀어준다, 당선 확정 찍으러 가나",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 10826,
+      "views": 8555,
       "rank": 13,
-      "channel": "초구딱"
-    },
-    {
-      "title": "205안타 신기록 빼앗긴 최원준...타율 0.511, 괴력의 몰아치기냐 사흘 휴식의 독이냐",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 10107,
-      "rank": 14,
-      "channel": "초구딱"
-    },
-    {
-      "title": "이주형에 '1차지명' 박주성까지…키움, 시즌 끝나자마자 칼바람 '선수단 8명 정리 단행'",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 8762,
-      "rank": 15,
-      "channel": "초구딱"
-    },
-    {
-      "title": "'대표팀 조기 하차' 백승호, 결국 안타까운 소식...버밍엄 감독 직접 발표 \"몇 경기 더 결장할 것\"→주전 경쟁도 비상",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 8696,
-      "rank": 16,
       "channel": "초구딱"
     },
     {
@@ -98,40 +62,319 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 8598,
+      "views": 8325,
+      "rank": 15,
+      "channel": "초구딱"
+    },
+    {
+      "title": "'볼넷에 배트 내동댕이' KT 최원준, 경기 후 볼보이 찾아 사과",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 7691,
+      "rank": 18,
+      "channel": "초구딱"
+    },
+    {
+      "title": "손혁 떠난 한화, 후임 단장은 이번에도 '손 코디' 내부 승격?...외부 영입 가능성은 없을까",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 7646,
+      "rank": 19,
+      "channel": "초구딱"
+    },
+    {
+      "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 1,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 2,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🛠️[업데이트] 해외 접속 장애 조치 관련 안내_260814🛠️",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202608130000002151",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 3,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[공지] 이미지 업로드 시 불법촬영물등 비교·식별 조치 적용 안내",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202609040000002163",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 4,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[당첨자 발표]🎞️ '스트리트 파이터' 개봉 기념 기대평 작성 이벤트🎞️",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002175",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 5,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[당첨자 발표]📖 KT 고영표 선수 도서 출간 기념 이벤트📖",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202610010000002184",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 6,
+      "channel": "초구딱"
+    },
+    {
+      "title": "⚾ 2026 메이저리그 포스트시즌 대진표 ⚾",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 7,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[르세라핌] 김채원.mp4",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119341836&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 8,
+      "channel": "초구딱"
+    },
+    {
+      "title": "의사 vs 4선 국회의원 하면 뭐 택하시나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119341830&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 9,
+      "channel": "초구딱"
+    },
+    {
+      "title": "암말도 안한 이강인 인스타 댓글창 근황...jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119341827&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 21,
+      "rank": 10,
+      "channel": "초구딱"
+    },
+    {
+      "title": "혹시 젊은 처자들 사이에 노브라가 유행임?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119341821&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 11,
+      "channel": "초구딱"
+    },
+    {
+      "title": "새우 먹을때 내장 제거한다 vs 안한다",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119341815&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 12,
+      "channel": "초구딱"
+    },
+    {
+      "title": "장원영 F1 보러 갔네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119341803&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 35,
+      "rank": 13,
+      "channel": "초구딱"
+    },
+    {
+      "title": "AI 이용한 간단한 도면작성..",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119341794&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 4680,
+      "rank": 14,
+      "channel": "초구딱"
+    },
+    {
+      "title": "교사 친구들이 AI시대에 고민이 많더라고요 ㄷㄷ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119341791&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 68,
+      "rank": 15,
+      "channel": "초구딱"
+    },
+    {
+      "title": "강철의 연금술사 보는중인데.. 계속 보기가 좀 힘드네요;;",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119341788&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 34,
+      "rank": 16,
+      "channel": "초구딱"
+    },
+    {
+      "title": "테슬라 fsd 영상 보니까 사고 싶어지네요 ㄷㄷㄷ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119341785&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 29,
       "rank": 17,
       "channel": "초구딱"
     },
     {
-      "title": "롯데, 다시 한 번 외국인 사령탑? 일본인 다카쓰 신고가 대안 될까…김태형 후임설",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 8134,
+      "title": "황령산 봉수대 17키로 트레일러닝(떡돌이님과)",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119341779&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 19,
+      "rank": 18,
+      "channel": "초구딱"
+    },
+    {
+      "title": "블랙핑크 중에서 로제가 제일 롱런 할 것 같아요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119341770&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 31,
+      "rank": 19,
+      "channel": "초구딱"
+    },
+    {
+      "title": "이정후 귀국 기자회견이나 코멘트 없나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119341767&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 31,
       "rank": 20,
+      "channel": "초구딱"
+    },
+    {
+      "title": "Sbs단독) 제주도 근황",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119341764&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 375,
+      "rank": 21,
+      "channel": "초구딱"
+    },
+    {
+      "title": "아이들 수영복이 화려해야 하는 이유.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119341758&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 227,
+      "rank": 22,
+      "channel": "초구딱"
+    },
+    {
+      "title": "애슐리 모델이 직접 플레이하는 바하4 리메 ㄷㄷㄷㄷ.gif",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119341752&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 122,
+      "rank": 23,
+      "channel": "초구딱"
+    },
+    {
+      "title": "김민재는 아시안컵에서 안봤으면 좋겠네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119341749&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 76,
+      "rank": 24,
+      "channel": "초구딱"
+    },
+    {
+      "title": "내일부터 시작되는 직장인 라이프.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119341746&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 325,
+      "rank": 25,
+      "channel": "초구딱"
+    },
+    {
+      "title": "한때를 풍미한 헐리우드 5060여배우들",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119341743&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 84,
+      "rank": 26,
+      "channel": "초구딱"
+    },
+    {
+      "title": "성명준 보니까 일반인 레벨은 신나게 두들겨 팼겠네요..",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119341734&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 107,
+      "rank": 27,
+      "channel": "초구딱"
+    },
+    {
+      "title": "사랑이 온다) 하니 파격적인 변신했네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119341731&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 87,
+      "rank": 28,
+      "channel": "초구딱"
+    },
+    {
+      "title": "간장게장집에서 울다 웃는 일본여자",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119341728&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 214,
+      "rank": 29,
+      "channel": "초구딱"
+    },
+    {
+      "title": "충격) 테슬라 fsd 120km 자동회피 영상ㅎㄷㄷㄷㄷㄷㄷㄷㄷ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119341725&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 356,
+      "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 39,
+      "article_count": 42,
       "topics": [
         {
           "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
           "angle_type": "복귀·근황",
-          "article_count": 5,
-          "source_article": "“국가대표 은퇴해라!” 김민재에게 화난 팬들…바이에른 뮌헨 SNS에서 비난 댓글 쇄도 '96라인 은퇴설'에 발칵 뒤집힌 대표팀",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "article_count": 6,
+          "source_article": "'나혼산 하차' 성훈, 자취 감추더니 깜짝 근황…3년 만에 드라마 '보스의'로 안방극장 복귀",
+          "source_url": "https://m.entertain.naver.com/article/312/0000779420",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "근황",
-            "대표팀",
             "김민재",
             "바이에",
-            "뮌헨"
+            "뮌헨",
+            "대표팀"
           ],
           "template": "장기 공백 복귀",
-          "score": 7.1,
+          "score": 7.4,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -145,6 +388,105 @@
               "공백 기간",
               "공백 사유",
               "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"부모님이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+          "angle_type": "가족·혈연",
+          "article_count": 10,
+          "source_article": "은지원, 재혼해 잘 살고 있는데…\"부모님께 너무 맞아 친부모 아닌 줄\"",
+          "source_url": "https://m.entertain.naver.com/article/415/0000052648",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "부모님",
+            "이다인",
+            "이승기",
+            "윤택",
+            "은지원"
+          ],
+          "template": "동갑내기",
+          "score": 7.1,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "나이",
+              "대표작",
+              "현재 활동"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "angle_type": "결혼·이혼",
+          "article_count": 7,
+          "source_article": "은지원, 재혼해 잘 살고 있는데…\"부모님께 너무 맞아 친부모 아닌 줄\"",
+          "source_url": "https://m.entertain.naver.com/article/415/0000052648",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "결혼",
+            "부모님",
+            "은지원",
+            "재혼해",
+            "살고"
+          ],
+          "template": "결혼 화제",
+          "score": 7.1,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"아내까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 6,
+          "source_article": "\"군대 안 갑니다\" 초유의 '금메달 자랑' 사태에 입 연 황도윤...\"논란 된 부분 있었어...안타깝다\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "아내",
+            "엑소",
+            "크리스",
+            "강제",
+            "거세"
+          ],
+          "template": "논란 집합",
+          "score": 7.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
@@ -183,149 +525,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"부모님이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 8,
-          "source_article": "\"학생들과 부모님께 죄송…\" 김호영 유튜브, 법적 대응 시사",
-          "source_url": "https://m.entertain.naver.com/article/117/0004113946",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "부모님",
-            "윤택",
-            "학생들",
-            "죄송",
-            "김호영"
-          ],
-          "template": "동갑내기",
-          "score": 6.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-          "angle_type": "결혼·이혼",
-          "article_count": 6,
-          "source_article": "'이상화♥' 강남, 기쁜 소식 알렸다…결혼 후 승승장구하더니 웹예능 '까까죠' MC 발탁",
-          "source_url": "https://m.entertain.naver.com/article/312/0000779447",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "결혼",
-            "이상화",
-            "강남",
-            "기쁜",
-            "소식"
-          ],
-          "template": "결혼 화제",
-          "score": 6.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"마드리까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 5,
-          "source_article": "“국가대표 은퇴해라!” 김민재에게 화난 팬들…바이에른 뮌헨 SNS에서 비난 댓글 쇄도 '96라인 은퇴설'에 발칵 뒤집힌 대표팀",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "마드리",
-            "엑소",
-            "크리스",
-            "강제",
-            "거세"
-          ],
-          "template": "논란 집합",
-          "score": 6.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"대표팀, 지금 어디서 뭐 하나?\" 대표팀 근황 총정리",
-          "angle_type": "👤 대표팀",
-          "article_count": 3,
-          "source_article": "“국가대표 은퇴해라!” 김민재에게 화난 팬들…바이에른 뮌헨 SNS에서 비난 댓글 쇄도 '96라인 은퇴설'에 발칵 뒤집힌 대표팀",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "대표팀"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 6.6,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+          "title": "\"국대, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
           "article_count": 3,
-          "source_article": "'세계 1위 신유빈 허당미' 14억 중국도 반했다…\"귀엽네\" 반응 쏟아져→3-10 뒤집고 기적 우승했는데 트로피 두고 갈 뻔→뒤늦게 깨닫고 웃음",
+          "source_article": "\"군대 안 갑니다\" 초유의 '금메달 자랑' 사태에 입 연 황도윤...\"논란 된 부분 있었어...안타깝다\"",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "온다",
-            "시청률",
-            "감독",
-            "일제강",
-            "점물로"
+            "국대",
+            "군대",
+            "갑니다",
+            "초유의",
+            "금메달"
           ],
           "template": "스포츠 기록",
-          "score": 6.3,
+          "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -339,6 +553,35 @@
               "소속팀",
               "기록 내용",
               "기록 가치"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"달라진, 지금 어디서 뭐 하나?\" 달라진 근황 총정리",
+          "angle_type": "👤 달라진",
+          "article_count": 3,
+          "source_article": "'한지민과 결별설' 최정훈, 달라진 일상 보니…\"몇 주간 스마트폰 안 써\"",
+          "source_url": "https://m.entertain.naver.com/article/311/0002067554",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "달라진"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
             ]
           },
           "channel": "정보주는하마"
@@ -375,11 +618,15 @@
       ],
       "keyword_freq": [
         [
+          "근황",
+          4
+        ],
+        [
           "결혼",
           4
         ],
         [
-          "근황",
+          "달라진",
           3
         ],
         [
@@ -387,7 +634,7 @@
           3
         ],
         [
-          "대표팀",
+          "부모님",
           3
         ],
         [
@@ -395,7 +642,11 @@
           2
         ],
         [
-          "나혼산",
+          "이승기",
+          2
+        ],
+        [
+          "이다인",
           2
         ],
         [
@@ -403,23 +654,15 @@
           2
         ],
         [
+          "강남",
+          2
+        ],
+        [
           "얼굴",
           2
         ],
         [
-          "엑소",
-          2
-        ],
-        [
-          "크리스",
-          2
-        ],
-        [
-          "조작",
-          2
-        ],
-        [
-          "맞아",
+          "일상",
           2
         ],
         [
@@ -427,23 +670,19 @@
           2
         ],
         [
-          "핑계고",
+          "끝내",
           2
         ],
         [
-          "달라진",
+          "눈물",
           2
         ],
         [
-          "부모님",
+          "나솔",
           2
         ],
         [
-          "보니",
-          2
-        ],
-        [
-          "같은",
+          "감량",
           2
         ],
         [
@@ -451,13 +690,21 @@
           2
         ],
         [
-          "온다",
+          "갑니다",
+          2
+        ],
+        [
+          "뮌헨",
           2
         ]
       ],
       "name_freq": [
         [
           "부모님",
+          5
+        ],
+        [
+          "근황",
           4
         ],
         [
@@ -465,7 +712,7 @@
           4
         ],
         [
-          "근황",
+          "달라진",
           3
         ],
         [
@@ -473,11 +720,7 @@
           3
         ],
         [
-          "대표팀",
-          3
-        ],
-        [
-          "나혼산",
+          "이승기",
           2
         ],
         [
@@ -485,35 +728,35 @@
           2
         ],
         [
+          "이다인",
+          2
+        ],
+        [
+          "강남",
+          2
+        ],
+        [
+          "폭풍성",
+          2
+        ],
+        [
           "얼굴",
           2
         ],
         [
-          "엑소",
+          "더니",
           2
         ],
         [
-          "크리스",
+          "일상",
           2
         ],
         [
-          "조작",
-          2
-        ],
-        [
-          "맞아",
-          2
-        ],
-        [
-          "데이앤",
+          "는데",
           2
         ],
         [
           "나잇",
-          2
-        ],
-        [
-          "핑계고",
           2
         ]
       ],
@@ -524,15 +767,15 @@
         ],
         [
           "논란·사건",
-          5
-        ],
-        [
-          "결혼·이혼",
           6
         ],
         [
+          "결혼·이혼",
+          7
+        ],
+        [
           "복귀·근황",
-          5
+          6
         ],
         [
           "스포츠",
@@ -540,29 +783,29 @@
         ],
         [
           "가족·혈연",
-          8
+          10
         ]
       ]
     },
     "초구딱": {
-      "article_count": 11,
+      "article_count": 38,
       "topics": [
         {
           "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 8,
-          "source_article": "한화 이글스 새 사령탑은 류지현 한국야구 대표팀 감독...3년 20억원 계약 임박",
+          "article_count": 5,
+          "source_article": "한국 국대 임시 감독 탈락썰 풀었다…포옛 감독 \"결과 발표도 전에 전북 제자들이 축하 문자 보내더라\"",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "감독",
+            "레이예",
             "안타",
-            "한화",
-            "대표팀",
-            "경기"
+            "최원준",
+            "국대"
           ],
           "template": "스포츠 기록",
-          "score": 7.3,
+          "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -576,6 +819,39 @@
               "소속팀",
               "기록 내용",
               "기록 가치"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 3,
+          "source_article": "LG는 아직 시즌도 안 끝났는데 이게 무슨 일? 호주 구단, 케네디 복귀 전격 발표",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "근황",
+            "아직",
+            "시즌도",
+            "끝났는",
+            "이게"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.6,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
             ]
           },
           "channel": "초구딱"
@@ -614,14 +890,43 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"안타\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 안타",
+          "title": "\"최원준\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 최원준",
           "article_count": 3,
-          "source_article": "'하루 만에 또 깼다!' 롯데 레이예스, KIA전 1회 첫 타석부터 2루타 추가→206안타 쾌속 질주",
+          "source_article": "롯데 레이예스, 시즌 61호 MH...1안타 최원준과 2개 차→안타왕 3연패 눈앞",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "안타"
+            "최원준"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"안내\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안내",
+          "article_count": 3,
+          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "안내"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -645,15 +950,11 @@
       ],
       "keyword_freq": [
         [
+          "안내",
+          3
+        ],
+        [
           "감독",
-          3
-        ],
-        [
-          "안타",
-          3
-        ],
-        [
-          "대표팀",
           2
         ],
         [
@@ -661,7 +962,7 @@
           2
         ],
         [
-          "경기",
+          "안타",
           2
         ],
         [
@@ -673,73 +974,73 @@
           2
         ],
         [
-          "신기록",
+          "최원준",
           2
         ],
         [
-          "김태형",
+          "조치",
           2
         ],
         [
-          "계약",
+          "기념",
+          2
+        ],
+        [
+          "이벤트",
+          2
+        ],
+        [
+          "당첨자",
+          2
+        ],
+        [
+          "근황",
+          2
+        ],
+        [
+          "테슬라",
+          2
+        ],
+        [
+          "보니까",
+          2
+        ],
+        [
+          "축하",
           1
         ],
         [
-          "한국야구",
+          "국대",
           1
         ],
         [
-          "사령탑은",
+          "보내더라",
           1
         ],
         [
-          "임박",
+          "포옛",
           1
         ],
         [
-          "이글스",
+          "풀었다",
           1
         ],
         [
-          "억원",
-          1
-        ],
-        [
-          "류지현",
-          1
-        ],
-        [
-          "도중에",
-          1
-        ],
-        [
-          "단장",
-          1
-        ],
-        [
-          "공식",
-          1
-        ],
-        [
-          "굳이",
+          "문자",
           1
         ]
       ],
       "name_freq": [
         [
+          "최원준",
+          3
+        ],
+        [
+          "안내",
+          3
+        ],
+        [
           "감독",
-          3
-        ],
-        [
-          "안타",
-          3
-        ],
-        [
-          "사령탑",
-          2
-        ],
-        [
-          "대표팀",
           2
         ],
         [
@@ -747,11 +1048,11 @@
           2
         ],
         [
-          "경기",
+          "안타",
           2
         ],
         [
-          "레이예",
+          "시즌",
           2
         ],
         [
@@ -759,11 +1060,35 @@
           2
         ],
         [
-          "신기록",
+          "레이예",
           2
         ],
         [
-          "김태형",
+          "조치",
+          2
+        ],
+        [
+          "기념",
+          2
+        ],
+        [
+          "이벤트",
+          2
+        ],
+        [
+          "당첨자",
+          2
+        ],
+        [
+          "근황",
+          2
+        ],
+        [
+          "테슬라",
+          2
+        ],
+        [
+          "보니까",
           2
         ]
       ],
@@ -773,8 +1098,12 @@
           2
         ],
         [
+          "복귀·근황",
+          3
+        ],
+        [
           "스포츠",
-          8
+          5
         ]
       ]
     }
@@ -783,19 +1112,19 @@
     {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 8,
-      "source_article": "한화 이글스 새 사령탑은 류지현 한국야구 대표팀 감독...3년 20억원 계약 임박",
+      "article_count": 5,
+      "source_article": "한국 국대 임시 감독 탈락썰 풀었다…포옛 감독 \"결과 발표도 전에 전북 제자들이 축하 문자 보내더라\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "감독",
+        "레이예",
         "안타",
-        "한화",
-        "대표팀",
-        "경기"
+        "최원준",
+        "국대"
       ],
       "template": "스포츠 기록",
-      "score": 7.3,
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -809,6 +1138,39 @@
           "소속팀",
           "기록 내용",
           "기록 가치"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 3,
+      "source_article": "LG는 아직 시즌도 안 끝났는데 이게 무슨 일? 호주 구단, 케네디 복귀 전격 발표",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "근황",
+        "아직",
+        "시즌도",
+        "끝났는",
+        "이게"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "초구딱"
@@ -847,14 +1209,43 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"안타\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안타",
+      "title": "\"최원준\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 최원준",
       "article_count": 3,
-      "source_article": "'하루 만에 또 깼다!' 롯데 레이예스, KIA전 1회 첫 타석부터 2루타 추가→206안타 쾌속 질주",
+      "source_article": "롯데 레이예스, 시즌 61호 MH...1안타 최원준과 2개 차→안타왕 3연패 눈앞",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "안타"
+        "최원준"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -880,19 +1271,19 @@
     {
       "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
       "angle_type": "복귀·근황",
-      "article_count": 5,
-      "source_article": "“국가대표 은퇴해라!” 김민재에게 화난 팬들…바이에른 뮌헨 SNS에서 비난 댓글 쇄도 '96라인 은퇴설'에 발칵 뒤집힌 대표팀",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "article_count": 6,
+      "source_article": "'나혼산 하차' 성훈, 자취 감추더니 깜짝 근황…3년 만에 드라마 '보스의'로 안방극장 복귀",
+      "source_url": "https://m.entertain.naver.com/article/312/0000779420",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "근황",
-        "대표팀",
         "김민재",
         "바이에",
-        "뮌헨"
+        "뮌헨",
+        "대표팀"
       ],
       "template": "장기 공백 복귀",
-      "score": 7.1,
+      "score": 7.4,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -906,6 +1297,105 @@
           "공백 기간",
           "공백 사유",
           "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"부모님이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 10,
+      "source_article": "은지원, 재혼해 잘 살고 있는데…\"부모님께 너무 맞아 친부모 아닌 줄\"",
+      "source_url": "https://m.entertain.naver.com/article/415/0000052648",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "부모님",
+        "이다인",
+        "이승기",
+        "윤택",
+        "은지원"
+      ],
+      "template": "동갑내기",
+      "score": 7.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "나이",
+          "대표작",
+          "현재 활동"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 7,
+      "source_article": "은지원, 재혼해 잘 살고 있는데…\"부모님께 너무 맞아 친부모 아닌 줄\"",
+      "source_url": "https://m.entertain.naver.com/article/415/0000052648",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "결혼",
+        "부모님",
+        "은지원",
+        "재혼해",
+        "살고"
+      ],
+      "template": "결혼 화제",
+      "score": 7.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"아내까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 6,
+      "source_article": "\"군대 안 갑니다\" 초유의 '금메달 자랑' 사태에 입 연 황도윤...\"논란 된 부분 있었어...안타깝다\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "아내",
+        "엑소",
+        "크리스",
+        "강제",
+        "거세"
+      ],
+      "template": "논란 집합",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
@@ -944,149 +1434,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"부모님이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 8,
-      "source_article": "\"학생들과 부모님께 죄송…\" 김호영 유튜브, 법적 대응 시사",
-      "source_url": "https://m.entertain.naver.com/article/117/0004113946",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "부모님",
-        "윤택",
-        "학생들",
-        "죄송",
-        "김호영"
-      ],
-      "template": "동갑내기",
-      "score": 6.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 6,
-      "source_article": "'이상화♥' 강남, 기쁜 소식 알렸다…결혼 후 승승장구하더니 웹예능 '까까죠' MC 발탁",
-      "source_url": "https://m.entertain.naver.com/article/312/0000779447",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "결혼",
-        "이상화",
-        "강남",
-        "기쁜",
-        "소식"
-      ],
-      "template": "결혼 화제",
-      "score": 6.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"마드리까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 5,
-      "source_article": "“국가대표 은퇴해라!” 김민재에게 화난 팬들…바이에른 뮌헨 SNS에서 비난 댓글 쇄도 '96라인 은퇴설'에 발칵 뒤집힌 대표팀",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "마드리",
-        "엑소",
-        "크리스",
-        "강제",
-        "거세"
-      ],
-      "template": "논란 집합",
-      "score": 6.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"대표팀, 지금 어디서 뭐 하나?\" 대표팀 근황 총정리",
-      "angle_type": "👤 대표팀",
-      "article_count": 3,
-      "source_article": "“국가대표 은퇴해라!” 김민재에게 화난 팬들…바이에른 뮌헨 SNS에서 비난 댓글 쇄도 '96라인 은퇴설'에 발칵 뒤집힌 대표팀",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "대표팀"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 6.6,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+      "title": "\"국대, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
       "article_count": 3,
-      "source_article": "'세계 1위 신유빈 허당미' 14억 중국도 반했다…\"귀엽네\" 반응 쏟아져→3-10 뒤집고 기적 우승했는데 트로피 두고 갈 뻔→뒤늦게 깨닫고 웃음",
+      "source_article": "\"군대 안 갑니다\" 초유의 '금메달 자랑' 사태에 입 연 황도윤...\"논란 된 부분 있었어...안타깝다\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "온다",
-        "시청률",
-        "감독",
-        "일제강",
-        "점물로"
+        "국대",
+        "군대",
+        "갑니다",
+        "초유의",
+        "금메달"
       ],
       "template": "스포츠 기록",
-      "score": 6.3,
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1100,6 +1462,35 @@
           "소속팀",
           "기록 내용",
           "기록 가치"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"달라진, 지금 어디서 뭐 하나?\" 달라진 근황 총정리",
+      "angle_type": "👤 달라진",
+      "article_count": 3,
+      "source_article": "'한지민과 결별설' 최정훈, 달라진 일상 보니…\"몇 주간 스마트폰 안 써\"",
+      "source_url": "https://m.entertain.naver.com/article/311/0002067554",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "달라진"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "정보주는하마"
@@ -1136,19 +1527,19 @@
     {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 8,
-      "source_article": "한화 이글스 새 사령탑은 류지현 한국야구 대표팀 감독...3년 20억원 계약 임박",
+      "article_count": 5,
+      "source_article": "한국 국대 임시 감독 탈락썰 풀었다…포옛 감독 \"결과 발표도 전에 전북 제자들이 축하 문자 보내더라\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "감독",
+        "레이예",
         "안타",
-        "한화",
-        "대표팀",
-        "경기"
+        "최원준",
+        "국대"
       ],
       "template": "스포츠 기록",
-      "score": 7.3,
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1162,6 +1553,39 @@
           "소속팀",
           "기록 내용",
           "기록 가치"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 3,
+      "source_article": "LG는 아직 시즌도 안 끝났는데 이게 무슨 일? 호주 구단, 케네디 복귀 전격 발표",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "근황",
+        "아직",
+        "시즌도",
+        "끝났는",
+        "이게"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "초구딱"
@@ -1200,14 +1624,43 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"안타\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안타",
+      "title": "\"최원준\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 최원준",
       "article_count": 3,
-      "source_article": "'하루 만에 또 깼다!' 롯데 레이예스, KIA전 1회 첫 타석부터 2루타 추가→206안타 쾌속 질주",
+      "source_article": "롯데 레이예스, 시즌 61호 MH...1안타 최원준과 2개 차→안타왕 3연패 눈앞",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "안타"
+        "최원준"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1231,11 +1684,15 @@
   ],
   "keyword_freq": [
     [
+      "근황",
+      4
+    ],
+    [
       "결혼",
       4
     ],
     [
-      "근황",
+      "달라진",
       3
     ],
     [
@@ -1243,7 +1700,7 @@
       3
     ],
     [
-      "대표팀",
+      "부모님",
       3
     ],
     [
@@ -1251,7 +1708,11 @@
       2
     ],
     [
-      "나혼산",
+      "이승기",
+      2
+    ],
+    [
+      "이다인",
       2
     ],
     [
@@ -1259,23 +1720,15 @@
       2
     ],
     [
+      "강남",
+      2
+    ],
+    [
       "얼굴",
       2
     ],
     [
-      "엑소",
-      2
-    ],
-    [
-      "크리스",
-      2
-    ],
-    [
-      "조작",
-      2
-    ],
-    [
-      "맞아",
+      "일상",
       2
     ],
     [
@@ -1283,23 +1736,19 @@
       2
     ],
     [
-      "핑계고",
+      "끝내",
       2
     ],
     [
-      "달라진",
+      "눈물",
       2
     ],
     [
-      "부모님",
+      "나솔",
       2
     ],
     [
-      "보니",
-      2
-    ],
-    [
-      "같은",
+      "감량",
       2
     ],
     [
@@ -1307,13 +1756,21 @@
       2
     ],
     [
-      "온다",
+      "갑니다",
+      2
+    ],
+    [
+      "뮌헨",
       2
     ]
   ],
   "name_freq": [
     [
       "부모님",
+      5
+    ],
+    [
+      "근황",
       4
     ],
     [
@@ -1321,7 +1778,7 @@
       4
     ],
     [
-      "근황",
+      "달라진",
       3
     ],
     [
@@ -1329,11 +1786,7 @@
       3
     ],
     [
-      "대표팀",
-      3
-    ],
-    [
-      "나혼산",
+      "이승기",
       2
     ],
     [
@@ -1341,39 +1794,39 @@
       2
     ],
     [
+      "이다인",
+      2
+    ],
+    [
+      "강남",
+      2
+    ],
+    [
+      "폭풍성",
+      2
+    ],
+    [
       "얼굴",
       2
     ],
     [
-      "엑소",
+      "더니",
       2
     ],
     [
-      "크리스",
+      "일상",
       2
     ],
     [
-      "조작",
-      2
-    ],
-    [
-      "맞아",
-      2
-    ],
-    [
-      "데이앤",
+      "는데",
       2
     ],
     [
       "나잇",
       2
-    ],
-    [
-      "핑계고",
-      2
     ]
   ],
-  "total_topics_generated": 11,
-  "valid_topics": 11,
+  "total_topics_generated": 13,
+  "valid_topics": 13,
   "excluded_duplicates": 0
 }
