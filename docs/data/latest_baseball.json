@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-10-11 00:03:45",
+  "scan_time": "2026-10-11 06:49:21",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,17 +8,17 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 30
+    "MLB파크 불펜": 0
   },
-  "total_articles": 80,
+  "total_articles": 50,
   "articles": [
     {
       "title": "한화 이글스 새 사령탑은 류지현 한국야구 대표팀 감독...3년 20억원 계약 임박",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 61478,
-      "rank": 1,
+      "views": 28859,
+      "rank": 2,
       "channel": "초구딱"
     },
     {
@@ -26,53 +26,17 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 19131,
-      "rank": 3,
+      "views": 25231,
+      "rank": 4,
       "channel": "초구딱"
     },
     {
-      "title": "'대표팀 조기 하차' 백승호, 결국 안타까운 소식...버밍엄 감독 직접 발표 \"몇 경기 더 결장할 것\"→주전 경쟁도 비상",
+      "title": "'하루 만에 또 깼다!' 롯데 레이예스, KIA전 1회 첫 타석부터 2루타 추가→206안타 쾌속 질주",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 15786,
-      "rank": 5,
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"약속 못 지켜서 죄송합니다\" 김태형의 마지막 인사였을까…한화는 단장-감독 동시 퇴진, 롯데도 결단의 시간 다가온다",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 10815,
-      "rank": 8,
-      "channel": "초구딱"
-    },
-    {
-      "title": "205안타 신기록 빼앗긴 최원준...타율 0.511, 괴력의 몰아치기냐 사흘 휴식의 독이냐",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 10299,
-      "rank": 10,
-      "channel": "초구딱"
-    },
-    {
-      "title": "前 KBO 투수 서러워서 살겠나… 시키는 대로 굴렀는데 연봉 또 깎자고? 한국 복귀 길 열리나",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 9471,
-      "rank": 12,
-      "channel": "초구딱"
-    },
-    {
-      "title": "이범호 감독, 11일 롯데전 '다걸기' 전략...성공하면 모든 것을 얻지만 실패하면 모든 것을 잃는다",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 9416,
-      "rank": 14,
+      "views": 18934,
+      "rank": 6,
       "channel": "초구딱"
     },
     {
@@ -80,396 +44,94 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 8208,
-      "rank": 17,
-      "channel": "초구딱"
-    },
-    {
-      "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 1,
-      "channel": "초구딱"
-    },
-    {
-      "title": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 2,
-      "channel": "초구딱"
-    },
-    {
-      "title": "🛠️[업데이트] 해외 접속 장애 조치 관련 안내_260814🛠️",
-      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202608130000002151",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 3,
-      "channel": "초구딱"
-    },
-    {
-      "title": "[공지] 이미지 업로드 시 불법촬영물등 비교·식별 조치 적용 안내",
-      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202609040000002163",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 4,
-      "channel": "초구딱"
-    },
-    {
-      "title": "[당첨자 발표]🎞️ '스트리트 파이터' 개봉 기념 기대평 작성 이벤트🎞️",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002175",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 5,
-      "channel": "초구딱"
-    },
-    {
-      "title": "[당첨자 발표]📖 KT 고영표 선수 도서 출간 기념 이벤트📖",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202610010000002184",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 6,
-      "channel": "초구딱"
-    },
-    {
-      "title": "⚾ 2026 메이저리그 포스트시즌 대진표 ⚾",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 7,
-      "channel": "초구딱"
-    },
-    {
-      "title": "온누리 이거 뭐 쓸 곳이 없네",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119323521&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 8,
-      "channel": "초구딱"
-    },
-    {
-      "title": "주식리딩비 환불받는 법 & 리딩방·책팔이 수법",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119323518&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
+      "views": 13773,
       "rank": 9,
       "channel": "초구딱"
     },
     {
-      "title": "작년에 남편과 함께 SM을 방문했던 유진.swf",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119323515&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 11,
+      "title": "KBO 자존심 구긴 송성문, 3할 타자가 MLB서 1할대로…'제2의 고우석' 되나, 샌디에이고는 뭘 믿고 4년 계약했을까",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 13354,
       "rank": 10,
       "channel": "초구딱"
     },
     {
-      "title": "비니시우스 퇴장 당해서 담 경기 안나오겠네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119323512&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 11,
-      "channel": "초구딱"
-    },
-    {
-      "title": "레이예스는 war이 왤케 낮아요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119323506&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 24,
-      "rank": 12,
-      "channel": "초구딱"
-    },
-    {
-      "title": "이제 쏘렌토도 6000이겠군요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119323500&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 24,
+      "title": "레이예스 시작부터 '역대 신기록 경신' 안타 폭발… \"뭐라도 건져야지\" 김태형 팍팍 밀어준다, 당선 확정 찍으러 가나",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 10826,
       "rank": 13,
       "channel": "초구딱"
     },
     {
-      "title": "사우디 리야드공항 피격, 사망 12명·부상 309명…미 \"개입 검토\"",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119323494&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 122,
+      "title": "205안타 신기록 빼앗긴 최원준...타율 0.511, 괴력의 몰아치기냐 사흘 휴식의 독이냐",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 10107,
       "rank": 14,
       "channel": "초구딱"
     },
     {
-      "title": "솔직히 합쳐서 0우승일듯.jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119323482&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 123,
+      "title": "이주형에 '1차지명' 박주성까지…키움, 시즌 끝나자마자 칼바람 '선수단 8명 정리 단행'",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 8762,
       "rank": 15,
       "channel": "초구딱"
     },
     {
-      "title": "늙어서 그런지 이영애가 이쁘네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119323479&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 59,
+      "title": "'대표팀 조기 하차' 백승호, 결국 안타까운 소식...버밍엄 감독 직접 발표 \"몇 경기 더 결장할 것\"→주전 경쟁도 비상",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 8696,
       "rank": 16,
       "channel": "초구딱"
     },
     {
-      "title": "서장훈 여동생이 중학생때 유학간 이유",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119323473&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 296,
+      "title": "LG는 아직 시즌도 안 끝났는데 이게 무슨 일? 호주 구단, 케네디 복귀 전격 발표",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 8598,
       "rank": 17,
       "channel": "초구딱"
     },
     {
-      "title": "현대, 아반떼 판매부진 + 주가하락 ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119323470&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 234,
-      "rank": 18,
-      "channel": "초구딱"
-    },
-    {
-      "title": "우크라이나 대선은 해야되는거 아닌가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119323467&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 52,
-      "rank": 19,
-      "channel": "초구딱"
-    },
-    {
-      "title": "우리나라도 중국처럼 엄청 폐쇄적인편 아닌가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119323464&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 23,
+      "title": "롯데, 다시 한 번 외국인 사령탑? 일본인 다카쓰 신고가 대안 될까…김태형 후임설",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 8134,
       "rank": 20,
-      "channel": "초구딱"
-    },
-    {
-      "title": "헐 웹툰 별이삼샆 복귀 ㄷㄷ.jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119323455&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 178,
-      "rank": 21,
-      "channel": "초구딱"
-    },
-    {
-      "title": "제가 결혼하고 자녀를 갖을려고 결심한 이유.txt",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119323446&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 238,
-      "rank": 22,
-      "channel": "초구딱"
-    },
-    {
-      "title": "한국은 마라톤의 도시네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119323443&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 230,
-      "rank": 23,
-      "channel": "초구딱"
-    },
-    {
-      "title": "매일 아침식사 선택  전, 후",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119323437&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 233,
-      "rank": 24,
-      "channel": "초구딱"
-    },
-    {
-      "title": "환율은 내년에도 겁나게 빠지겠네요 ㄷㄷ. jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119323434&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 612,
-      "rank": 25,
-      "channel": "초구딱"
-    },
-    {
-      "title": "4년전보다 전세 시세 몇억 오르면 연장시 대출 안나오나요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119323431&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 31,
-      "rank": 26,
-      "channel": "초구딱"
-    },
-    {
-      "title": "바닷가 온 기념 주번놔",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119323422&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 561,
-      "rank": 27,
-      "channel": "초구딱"
-    },
-    {
-      "title": "도쿄 리벤져스 재밌나요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119323419&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 152,
-      "rank": 28,
-      "channel": "초구딱"
-    },
-    {
-      "title": "요즘 핫한 순라길과 남산",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119323413&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 229,
-      "rank": 29,
-      "channel": "초구딱"
-    },
-    {
-      "title": "투싼 가솔린 풀옵 4700일듯 ㅋㅋ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610110119323407&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 219,
-      "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 42,
+      "article_count": 39,
       "topics": [
         {
-          "title": "\"폭로까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 5,
-          "source_article": "“남편과 성생활은?” 하리수, 기자 질문에 충격…성관계·탈의 요구까지 ‘폭로’",
-          "source_url": "https://m.entertain.naver.com/article/468/0001271666",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "폭로",
-            "조작",
-            "남편과",
-            "성생활",
-            "하리수"
-          ],
-          "template": "논란 집합",
-          "score": 7.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"대표팀, 지금 어디서 뭐 하나?\" 대표팀 근황 총정리",
-          "angle_type": "👤 대표팀",
-          "article_count": 3,
-          "source_article": "‘대표팀 은퇴’ 소동으로 韓 축구 뒤흔든 황인범…소속팀 복귀 후 환한 미소 속 훈련→오는 11일 원정 소집명단 포함",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "대표팀"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 7.4,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"울상, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 4,
-          "source_article": "한국에 금메달 뺏기고 '191cm 골잡이'까지 잃을 판…日 축구 이중 충격 \"한국전 28분 만에 실려 나간 은와디케, 장기 결장 가능성\" 소속팀도 울상",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "울상",
-            "강호동",
-            "아들",
-            "훈남",
-            "골퍼"
-          ],
-          "template": "스포츠 기록",
-          "score": 7.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
           "angle_type": "복귀·근황",
-          "article_count": 2,
-          "source_article": "‘대표팀 은퇴’ 소동으로 韓 축구 뒤흔든 황인범…소속팀 복귀 후 환한 미소 속 훈련→오는 11일 원정 소집명단 포함",
+          "article_count": 5,
+          "source_article": "“국가대표 은퇴해라!” 김민재에게 화난 팬들…바이에른 뮌헨 SNS에서 비난 댓글 쇄도 '96라인 은퇴설'에 발칵 뒤집힌 대표팀",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "나혼산",
-            "하차",
-            "성훈",
-            "자취",
-            "감추더"
+            "근황",
+            "대표팀",
+            "김민재",
+            "바이에",
+            "뮌헨"
           ],
           "template": "장기 공백 복귀",
-          "score": 6.9,
+          "score": 7.1,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -483,6 +145,39 @@
               "공백 기간",
               "공백 사유",
               "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 3,
+          "source_article": "'순자산 무려 6600억' 억만장자 대굴욕, 성매매 현장 적발 공개 \"변명의 여지가 없는 잘못\"... 끝내 중징계 철퇴",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "윤택",
+            "하루",
+            "매출",
+            "사장님",
+            "이었는"
+          ],
+          "template": "자산 서열",
+          "score": 7.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
             ]
           },
           "channel": "정보주는하마"
@@ -490,13 +185,13 @@
         {
           "title": "\"부모님이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
           "angle_type": "가족·혈연",
-          "article_count": 5,
+          "article_count": 8,
           "source_article": "\"학생들과 부모님께 죄송…\" 김호영 유튜브, 법적 대응 시사",
           "source_url": "https://m.entertain.naver.com/article/117/0004113946",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "부모님",
-            "가족",
+            "윤택",
             "학생들",
             "죄송",
             "김호영"
@@ -521,27 +216,27 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
+          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
           "angle_type": "결혼·이혼",
-          "article_count": 3,
-          "source_article": "'나나♥' 탑, 공개 열애 8일 만에 폭로 터졌다…\"이용하고 외면\" 팬사이트 폐쇄",
-          "source_url": "https://m.entertain.naver.com/article/312/0000779371",
+          "article_count": 6,
+          "source_article": "'이상화♥' 강남, 기쁜 소식 알렸다…결혼 후 승승장구하더니 웹예능 '까까죠' MC 발탁",
+          "source_url": "https://m.entertain.naver.com/article/312/0000779447",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "나나",
-            "열애",
-            "폭로",
-            "터졌다",
-            "이용하"
+            "결혼",
+            "이상화",
+            "강남",
+            "기쁜",
+            "소식"
           ],
           "template": "결혼 화제",
           "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
-            "status": "재활용 가능",
-            "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
-            "matched_views": 720727,
-            "reason": "검증됨 720,727회 · 183일 경과"
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
           },
           "table": {
             "headers": [
@@ -554,17 +249,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"나혼산, 대체 무슨 일이?\" 나혼산 관련 이슈 총정리",
-          "angle_type": "👤 나혼산",
-          "article_count": 3,
-          "source_article": "김신영은 '조작' 아니었다…'나혼산' 논란 속 남다른 진심 \"지옥 같아\"",
-          "source_url": "https://m.entertain.naver.com/article/312/0000779360",
-          "source_name": "엔터 많이 본 뉴스",
+          "title": "\"마드리까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 5,
+          "source_article": "“국가대표 은퇴해라!” 김민재에게 화난 팬들…바이에른 뮌헨 SNS에서 비난 댓글 쇄도 '96라인 은퇴설'에 발칵 뒤집힌 대표팀",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "나혼산"
+            "마드리",
+            "엑소",
+            "크리스",
+            "강제",
+            "거세"
           ],
           "template": "논란 집합",
-          "score": 6.5,
+          "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -583,17 +282,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"조작, 대체 무슨 일이?\" 조작 관련 이슈 총정리",
-          "angle_type": "👤 조작",
+          "title": "\"대표팀, 지금 어디서 뭐 하나?\" 대표팀 근황 총정리",
+          "angle_type": "👤 대표팀",
           "article_count": 3,
-          "source_article": "‘성범죄 징역 13년’ 엑소 출신 크리스, 후덕샷 확산…알고 보니 조작",
-          "source_url": "https://m.entertain.naver.com/article/468/0001271650",
-          "source_name": "엔터 많이 본 뉴스",
+          "source_article": "“국가대표 은퇴해라!” 김민재에게 화난 팬들…바이에른 뮌헨 SNS에서 비난 댓글 쇄도 '96라인 은퇴설'에 발칵 뒤집힌 대표팀",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "조작"
+            "대표팀"
           ],
-          "template": "논란 집합",
-          "score": 6.0,
+          "template": "장기 공백 복귀",
+          "score": 6.6,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -604,9 +303,71 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 3,
+          "source_article": "'세계 1위 신유빈 허당미' 14억 중국도 반했다…\"귀엽네\" 반응 쏟아져→3-10 뒤집고 기적 우승했는데 트로피 두고 갈 뻔→뒤늦게 깨닫고 웃음",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "온다",
+            "시청률",
+            "감독",
+            "일제강",
+            "점물로"
+          ],
+          "template": "스포츠 기록",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"윤택 결혼설?\" 윤택 연애사 총정리",
+          "angle_type": "👤 윤택",
+          "article_count": 3,
+          "source_article": "윤택, 속도위반 결혼한 지 14년…\"♥아내가 방귀 뀌면 못 들어줄 듯\" (데이앤나잇)",
+          "source_url": "https://m.entertain.naver.com/article/311/0002067523",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "윤택"
+          ],
+          "template": "결혼 화제",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
             ]
           },
           "channel": "정보주는하마"
@@ -614,93 +375,15 @@
       ],
       "keyword_freq": [
         [
-          "조작",
+          "결혼",
+          4
+        ],
+        [
+          "근황",
           3
         ],
         [
-          "나혼산",
-          3
-        ],
-        [
-          "대표팀",
-          3
-        ],
-        [
-          "질문에",
-          2
-        ],
-        [
-          "폭로",
-          2
-        ],
-        [
-          "크리스",
-          2
-        ],
-        [
-          "엑소",
-          2
-        ],
-        [
-          "터졌다",
-          2
-        ],
-        [
-          "아니었다",
-          2
-        ],
-        [
-          "자랑",
-          2
-        ],
-        [
-          "전참시",
-          2
-        ],
-        [
-          "개월",
-          2
-        ],
-        [
-          "아내",
-          2
-        ],
-        [
-          "가족",
-          2
-        ],
-        [
-          "드라마",
-          2
-        ],
-        [
-          "내가",
-          2
-        ],
-        [
-          "울상",
-          2
-        ],
-        [
-          "가능성",
-          2
-        ],
-        [
-          "같은",
-          2
-        ],
-        [
-          "사람",
-          2
-        ]
-      ],
-      "name_freq": [
-        [
-          "조작",
-          3
-        ],
-        [
-          "나혼산",
+          "윤택",
           3
         ],
         [
@@ -708,15 +391,19 @@
           3
         ],
         [
-          "질문에",
+          "부모님께",
           2
         ],
         [
-          "폭로",
+          "나혼산",
           2
         ],
         [
-          "크리스",
+          "개월",
+          2
+        ],
+        [
+          "얼굴",
           2
         ],
         [
@@ -724,27 +411,27 @@
           2
         ],
         [
-          "터졌다",
+          "크리스",
           2
         ],
         [
-          "시청률",
+          "조작",
           2
         ],
         [
-          "아니었",
+          "맞아",
           2
         ],
         [
-          "자랑",
+          "데이앤나잇",
           2
         ],
         [
-          "전참시",
+          "핑계고",
           2
         ],
         [
-          "개월",
+          "달라진",
           2
         ],
         [
@@ -752,49 +439,127 @@
           2
         ],
         [
-          "전현무",
+          "보니",
+          2
+        ],
+        [
+          "같은",
+          2
+        ],
+        [
+          "아내",
+          2
+        ],
+        [
+          "온다",
+          2
+        ]
+      ],
+      "name_freq": [
+        [
+          "부모님",
+          4
+        ],
+        [
+          "결혼",
+          4
+        ],
+        [
+          "근황",
+          3
+        ],
+        [
+          "윤택",
+          3
+        ],
+        [
+          "대표팀",
+          3
+        ],
+        [
+          "나혼산",
+          2
+        ],
+        [
+          "개월",
+          2
+        ],
+        [
+          "얼굴",
+          2
+        ],
+        [
+          "엑소",
+          2
+        ],
+        [
+          "크리스",
+          2
+        ],
+        [
+          "조작",
+          2
+        ],
+        [
+          "맞아",
+          2
+        ],
+        [
+          "데이앤",
+          2
+        ],
+        [
+          "나잇",
+          2
+        ],
+        [
+          "핑계고",
           2
         ]
       ],
       "angle_scores": [
+        [
+          "자산·몸값",
+          3
+        ],
         [
           "논란·사건",
           5
         ],
         [
           "결혼·이혼",
-          3
+          6
         ],
         [
           "복귀·근황",
-          2
+          5
         ],
         [
           "스포츠",
-          4
+          3
         ],
         [
           "가족·혈연",
-          5
+          8
         ]
       ]
     },
     "초구딱": {
-      "article_count": 38,
+      "article_count": 11,
       "topics": [
         {
           "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 9,
+          "article_count": 8,
           "source_article": "한화 이글스 새 사령탑은 류지현 한국야구 대표팀 감독...3년 20억원 계약 임박",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "감독",
+            "안타",
             "한화",
             "대표팀",
-            "경기",
-            "단장"
+            "경기"
           ],
           "template": "스포츠 기록",
           "score": 7.3,
@@ -816,54 +581,21 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 2,
-          "source_article": "前 KBO 투수 서러워서 살겠나… 시키는 대로 굴렀는데 연봉 또 깎자고? 한국 복귀 길 열리나",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "투수",
-            "서러워",
-            "살겠나",
-            "시키는",
-            "대로"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 7.1,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"투수, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
           "angle_type": "자산·몸값",
-          "article_count": 3,
+          "article_count": 2,
           "source_article": "한화 이글스 새 사령탑은 류지현 한국야구 대표팀 감독...3년 20억원 계약 임박",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "투수",
             "한화",
             "이글스",
             "사령탑",
-            "류지현"
+            "류지현",
+            "한국야"
           ],
           "template": "자산 서열",
-          "score": 7.0,
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -882,72 +614,14 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"경기\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 경기",
+          "title": "\"안타\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안타",
           "article_count": 3,
-          "source_article": "굳이 경기 도중에 왜?…한화, 최종전 진행 중에 “감독·단장 모두 결별” 공식 발표",
+          "source_article": "'하루 만에 또 깼다!' 롯데 레이예스, KIA전 1회 첫 타석부터 2루타 추가→206안타 쾌속 질주",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "경기"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"안내\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 안내",
-          "article_count": 3,
-          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "안내"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"기념\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 기념",
-          "article_count": 3,
-          "source_article": "[당첨자 발표]🎞️ '스트리트 파이터' 개봉 기념 기대평 작성 이벤트🎞️",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002175",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "기념"
+            "안타"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -972,58 +646,50 @@
       "keyword_freq": [
         [
           "감독",
-          5
-        ],
-        [
-          "경기",
           3
         ],
         [
-          "안내",
+          "안타",
           3
-        ],
-        [
-          "기념",
-          3
-        ],
-        [
-          "한화",
-          2
         ],
         [
           "대표팀",
           2
         ],
         [
-          "단장",
+          "한화",
           2
         ],
         [
-          "투수",
+          "경기",
           2
         ],
         [
-          "조치",
+          "레이예스",
           2
         ],
         [
-          "이벤트",
+          "롯데",
           2
         ],
         [
-          "당첨자",
+          "신기록",
           2
         ],
         [
-          "아닌가요",
+          "김태형",
           2
         ],
         [
-          "사령탑은",
+          "계약",
           1
         ],
         [
-          "억원",
+          "한국야구",
+          1
+        ],
+        [
+          "사령탑은",
           1
         ],
         [
@@ -1035,11 +701,7 @@
           1
         ],
         [
-          "한국야구",
-          1
-        ],
-        [
-          "계약",
+          "억원",
           1
         ],
         [
@@ -1047,29 +709,33 @@
           1
         ],
         [
+          "도중에",
+          1
+        ],
+        [
+          "단장",
+          1
+        ],
+        [
           "공식",
+          1
+        ],
+        [
+          "굳이",
           1
         ]
       ],
       "name_freq": [
         [
           "감독",
-          5
-        ],
-        [
-          "경기",
           3
         ],
         [
-          "안내",
+          "안타",
           3
         ],
         [
-          "기념",
-          3
-        ],
-        [
-          "한화",
+          "사령탑",
           2
         ],
         [
@@ -1077,46 +743,38 @@
           2
         ],
         [
-          "단장",
+          "한화",
           2
         ],
         [
-          "투수",
+          "경기",
           2
         ],
         [
-          "조치",
+          "레이예",
           2
         ],
         [
-          "이벤트",
+          "롯데",
           2
         ],
         [
-          "당첨자",
+          "신기록",
           2
         ],
         [
-          "안나오",
-          2
-        ],
-        [
-          "아닌가",
+          "김태형",
           2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
-          3
-        ],
-        [
-          "복귀·근황",
           2
         ],
         [
           "스포츠",
-          9
+          8
         ]
       ]
     }
@@ -1125,16 +783,16 @@
     {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 9,
+      "article_count": 8,
       "source_article": "한화 이글스 새 사령탑은 류지현 한국야구 대표팀 감독...3년 20억원 계약 임박",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "감독",
+        "안타",
         "한화",
         "대표팀",
-        "경기",
-        "단장"
+        "경기"
       ],
       "template": "스포츠 기록",
       "score": 7.3,
@@ -1156,54 +814,21 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 2,
-      "source_article": "前 KBO 투수 서러워서 살겠나… 시키는 대로 굴렀는데 연봉 또 깎자고? 한국 복귀 길 열리나",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "투수",
-        "서러워",
-        "살겠나",
-        "시키는",
-        "대로"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 7.1,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"투수, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
       "angle_type": "자산·몸값",
-      "article_count": 3,
+      "article_count": 2,
       "source_article": "한화 이글스 새 사령탑은 류지현 한국야구 대표팀 감독...3년 20억원 계약 임박",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "투수",
         "한화",
         "이글스",
         "사령탑",
-        "류지현"
+        "류지현",
+        "한국야"
       ],
       "template": "자산 서열",
-      "score": 7.0,
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1222,72 +847,14 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"경기\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 경기",
+      "title": "\"안타\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안타",
       "article_count": 3,
-      "source_article": "굳이 경기 도중에 왜?…한화, 최종전 진행 중에 “감독·단장 모두 결별” 공식 발표",
+      "source_article": "'하루 만에 또 깼다!' 롯데 레이예스, KIA전 1회 첫 타석부터 2루타 추가→206안타 쾌속 질주",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "경기"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
-      "article_count": 3,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "안내"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"기념\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 기념",
-      "article_count": 3,
-      "source_article": "[당첨자 발표]🎞️ '스트리트 파이터' 개봉 기념 기대평 작성 이벤트🎞️",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002175",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "기념"
+        "안타"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1311,116 +878,21 @@
   ],
   "all_topics": [
     {
-      "title": "\"폭로까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 5,
-      "source_article": "“남편과 성생활은?” 하리수, 기자 질문에 충격…성관계·탈의 요구까지 ‘폭로’",
-      "source_url": "https://m.entertain.naver.com/article/468/0001271666",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "폭로",
-        "조작",
-        "남편과",
-        "성생활",
-        "하리수"
-      ],
-      "template": "논란 집합",
-      "score": 7.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"대표팀, 지금 어디서 뭐 하나?\" 대표팀 근황 총정리",
-      "angle_type": "👤 대표팀",
-      "article_count": 3,
-      "source_article": "‘대표팀 은퇴’ 소동으로 韓 축구 뒤흔든 황인범…소속팀 복귀 후 환한 미소 속 훈련→오는 11일 원정 소집명단 포함",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "대표팀"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 7.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"울상, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 4,
-      "source_article": "한국에 금메달 뺏기고 '191cm 골잡이'까지 잃을 판…日 축구 이중 충격 \"한국전 28분 만에 실려 나간 은와디케, 장기 결장 가능성\" 소속팀도 울상",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "울상",
-        "강호동",
-        "아들",
-        "훈남",
-        "골퍼"
-      ],
-      "template": "스포츠 기록",
-      "score": 7.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
       "angle_type": "복귀·근황",
-      "article_count": 2,
-      "source_article": "‘대표팀 은퇴’ 소동으로 韓 축구 뒤흔든 황인범…소속팀 복귀 후 환한 미소 속 훈련→오는 11일 원정 소집명단 포함",
+      "article_count": 5,
+      "source_article": "“국가대표 은퇴해라!” 김민재에게 화난 팬들…바이에른 뮌헨 SNS에서 비난 댓글 쇄도 '96라인 은퇴설'에 발칵 뒤집힌 대표팀",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "나혼산",
-        "하차",
-        "성훈",
-        "자취",
-        "감추더"
+        "근황",
+        "대표팀",
+        "김민재",
+        "바이에",
+        "뮌헨"
       ],
       "template": "장기 공백 복귀",
-      "score": 6.9,
+      "score": 7.1,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1434,6 +906,39 @@
           "공백 기간",
           "공백 사유",
           "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 3,
+      "source_article": "'순자산 무려 6600억' 억만장자 대굴욕, 성매매 현장 적발 공개 \"변명의 여지가 없는 잘못\"... 끝내 중징계 철퇴",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "윤택",
+        "하루",
+        "매출",
+        "사장님",
+        "이었는"
+      ],
+      "template": "자산 서열",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
         ]
       },
       "channel": "정보주는하마"
@@ -1441,13 +946,13 @@
     {
       "title": "\"부모님이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
       "angle_type": "가족·혈연",
-      "article_count": 5,
+      "article_count": 8,
       "source_article": "\"학생들과 부모님께 죄송…\" 김호영 유튜브, 법적 대응 시사",
       "source_url": "https://m.entertain.naver.com/article/117/0004113946",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "부모님",
-        "가족",
+        "윤택",
         "학생들",
         "죄송",
         "김호영"
@@ -1472,27 +977,27 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
+      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
       "angle_type": "결혼·이혼",
-      "article_count": 3,
-      "source_article": "'나나♥' 탑, 공개 열애 8일 만에 폭로 터졌다…\"이용하고 외면\" 팬사이트 폐쇄",
-      "source_url": "https://m.entertain.naver.com/article/312/0000779371",
+      "article_count": 6,
+      "source_article": "'이상화♥' 강남, 기쁜 소식 알렸다…결혼 후 승승장구하더니 웹예능 '까까죠' MC 발탁",
+      "source_url": "https://m.entertain.naver.com/article/312/0000779447",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "나나",
-        "열애",
-        "폭로",
-        "터졌다",
-        "이용하"
+        "결혼",
+        "이상화",
+        "강남",
+        "기쁜",
+        "소식"
       ],
       "template": "결혼 화제",
       "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
-        "status": "재활용 가능",
-        "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
-        "matched_views": 720727,
-        "reason": "검증됨 720,727회 · 183일 경과"
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
       },
       "table": {
         "headers": [
@@ -1505,17 +1010,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"나혼산, 대체 무슨 일이?\" 나혼산 관련 이슈 총정리",
-      "angle_type": "👤 나혼산",
-      "article_count": 3,
-      "source_article": "김신영은 '조작' 아니었다…'나혼산' 논란 속 남다른 진심 \"지옥 같아\"",
-      "source_url": "https://m.entertain.naver.com/article/312/0000779360",
-      "source_name": "엔터 많이 본 뉴스",
+      "title": "\"마드리까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 5,
+      "source_article": "“국가대표 은퇴해라!” 김민재에게 화난 팬들…바이에른 뮌헨 SNS에서 비난 댓글 쇄도 '96라인 은퇴설'에 발칵 뒤집힌 대표팀",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "나혼산"
+        "마드리",
+        "엑소",
+        "크리스",
+        "강제",
+        "거세"
       ],
       "template": "논란 집합",
-      "score": 6.5,
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1534,17 +1043,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"조작, 대체 무슨 일이?\" 조작 관련 이슈 총정리",
-      "angle_type": "👤 조작",
+      "title": "\"대표팀, 지금 어디서 뭐 하나?\" 대표팀 근황 총정리",
+      "angle_type": "👤 대표팀",
       "article_count": 3,
-      "source_article": "‘성범죄 징역 13년’ 엑소 출신 크리스, 후덕샷 확산…알고 보니 조작",
-      "source_url": "https://m.entertain.naver.com/article/468/0001271650",
-      "source_name": "엔터 많이 본 뉴스",
+      "source_article": "“국가대표 은퇴해라!” 김민재에게 화난 팬들…바이에른 뮌헨 SNS에서 비난 댓글 쇄도 '96라인 은퇴설'에 발칵 뒤집힌 대표팀",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "조작"
+        "대표팀"
       ],
-      "template": "논란 집합",
-      "score": 6.0,
+      "template": "장기 공백 복귀",
+      "score": 6.6,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1555,9 +1064,71 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 3,
+      "source_article": "'세계 1위 신유빈 허당미' 14억 중국도 반했다…\"귀엽네\" 반응 쏟아져→3-10 뒤집고 기적 우승했는데 트로피 두고 갈 뻔→뒤늦게 깨닫고 웃음",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "온다",
+        "시청률",
+        "감독",
+        "일제강",
+        "점물로"
+      ],
+      "template": "스포츠 기록",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"윤택 결혼설?\" 윤택 연애사 총정리",
+      "angle_type": "👤 윤택",
+      "article_count": 3,
+      "source_article": "윤택, 속도위반 결혼한 지 14년…\"♥아내가 방귀 뀌면 못 들어줄 듯\" (데이앤나잇)",
+      "source_url": "https://m.entertain.naver.com/article/311/0002067523",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "윤택"
+      ],
+      "template": "결혼 화제",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
         ]
       },
       "channel": "정보주는하마"
@@ -1565,16 +1136,16 @@
     {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 9,
+      "article_count": 8,
       "source_article": "한화 이글스 새 사령탑은 류지현 한국야구 대표팀 감독...3년 20억원 계약 임박",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "감독",
+        "안타",
         "한화",
         "대표팀",
-        "경기",
-        "단장"
+        "경기"
       ],
       "template": "스포츠 기록",
       "score": 7.3,
@@ -1596,54 +1167,21 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 2,
-      "source_article": "前 KBO 투수 서러워서 살겠나… 시키는 대로 굴렀는데 연봉 또 깎자고? 한국 복귀 길 열리나",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "투수",
-        "서러워",
-        "살겠나",
-        "시키는",
-        "대로"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 7.1,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"투수, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
       "angle_type": "자산·몸값",
-      "article_count": 3,
+      "article_count": 2,
       "source_article": "한화 이글스 새 사령탑은 류지현 한국야구 대표팀 감독...3년 20억원 계약 임박",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "투수",
         "한화",
         "이글스",
         "사령탑",
-        "류지현"
+        "류지현",
+        "한국야"
       ],
       "template": "자산 서열",
-      "score": 7.0,
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1662,72 +1200,14 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"경기\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 경기",
+      "title": "\"안타\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안타",
       "article_count": 3,
-      "source_article": "굳이 경기 도중에 왜?…한화, 최종전 진행 중에 “감독·단장 모두 결별” 공식 발표",
+      "source_article": "'하루 만에 또 깼다!' 롯데 레이예스, KIA전 1회 첫 타석부터 2루타 추가→206안타 쾌속 질주",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "경기"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
-      "article_count": 3,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "안내"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"기념\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 기념",
-      "article_count": 3,
-      "source_article": "[당첨자 발표]🎞️ '스트리트 파이터' 개봉 기념 기대평 작성 이벤트🎞️",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002175",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "기념"
+        "안타"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1751,93 +1231,15 @@
   ],
   "keyword_freq": [
     [
-      "조작",
+      "결혼",
+      4
+    ],
+    [
+      "근황",
       3
     ],
     [
-      "나혼산",
-      3
-    ],
-    [
-      "대표팀",
-      3
-    ],
-    [
-      "질문에",
-      2
-    ],
-    [
-      "폭로",
-      2
-    ],
-    [
-      "크리스",
-      2
-    ],
-    [
-      "엑소",
-      2
-    ],
-    [
-      "터졌다",
-      2
-    ],
-    [
-      "아니었다",
-      2
-    ],
-    [
-      "자랑",
-      2
-    ],
-    [
-      "전참시",
-      2
-    ],
-    [
-      "개월",
-      2
-    ],
-    [
-      "아내",
-      2
-    ],
-    [
-      "가족",
-      2
-    ],
-    [
-      "드라마",
-      2
-    ],
-    [
-      "내가",
-      2
-    ],
-    [
-      "울상",
-      2
-    ],
-    [
-      "가능성",
-      2
-    ],
-    [
-      "같은",
-      2
-    ],
-    [
-      "사람",
-      2
-    ]
-  ],
-  "name_freq": [
-    [
-      "조작",
-      3
-    ],
-    [
-      "나혼산",
+      "윤택",
       3
     ],
     [
@@ -1845,15 +1247,19 @@
       3
     ],
     [
-      "질문에",
+      "부모님께",
       2
     ],
     [
-      "폭로",
+      "나혼산",
       2
     ],
     [
-      "크리스",
+      "개월",
+      2
+    ],
+    [
+      "얼굴",
       2
     ],
     [
@@ -1861,27 +1267,27 @@
       2
     ],
     [
-      "터졌다",
+      "크리스",
       2
     ],
     [
-      "시청률",
+      "조작",
       2
     ],
     [
-      "아니었",
+      "맞아",
       2
     ],
     [
-      "자랑",
+      "데이앤나잇",
       2
     ],
     [
-      "전참시",
+      "핑계고",
       2
     ],
     [
-      "개월",
+      "달라진",
       2
     ],
     [
@@ -1889,11 +1295,85 @@
       2
     ],
     [
-      "전현무",
+      "보니",
+      2
+    ],
+    [
+      "같은",
+      2
+    ],
+    [
+      "아내",
+      2
+    ],
+    [
+      "온다",
       2
     ]
   ],
-  "total_topics_generated": 14,
-  "valid_topics": 14,
+  "name_freq": [
+    [
+      "부모님",
+      4
+    ],
+    [
+      "결혼",
+      4
+    ],
+    [
+      "근황",
+      3
+    ],
+    [
+      "윤택",
+      3
+    ],
+    [
+      "대표팀",
+      3
+    ],
+    [
+      "나혼산",
+      2
+    ],
+    [
+      "개월",
+      2
+    ],
+    [
+      "얼굴",
+      2
+    ],
+    [
+      "엑소",
+      2
+    ],
+    [
+      "크리스",
+      2
+    ],
+    [
+      "조작",
+      2
+    ],
+    [
+      "맞아",
+      2
+    ],
+    [
+      "데이앤",
+      2
+    ],
+    [
+      "나잇",
+      2
+    ],
+    [
+      "핑계고",
+      2
+    ]
+  ],
+  "total_topics_generated": 11,
+  "valid_topics": 11,
   "excluded_duplicates": 0
 }
