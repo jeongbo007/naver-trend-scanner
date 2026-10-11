@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-10-11 17:49:40",
+  "scan_time": "2026-10-11 20:47:32",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,9 +8,9 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 0
+    "MLB파크 불펜": 30
   },
-  "total_articles": 50,
+  "total_articles": 80,
   "articles": [
     {
       "title": "은지원, 재혼해 잘 살고 있는데…\"부모님께 너무 맞아 친부모 아닌 줄\"",
@@ -646,11 +646,11 @@
           3
         ],
         [
-          "있는데",
+          "맞아",
           2
         ],
         [
-          "맞아",
+          "있는데",
           2
         ],
         [
@@ -666,11 +666,11 @@
           2
         ],
         [
-          "이승기",
+          "이다인",
           2
         ],
         [
-          "이다인",
+          "이승기",
           2
         ],
         [
@@ -752,11 +752,11 @@
           2
         ],
         [
-          "이승기",
+          "이다인",
           2
         ],
         [
-          "이다인",
+          "이승기",
           2
         ],
         [
@@ -804,12 +804,12 @@
       ]
     },
     "초구딱": {
-      "article_count": 7,
+      "article_count": 37,
       "topics": [
         {
           "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 5,
+          "article_count": 7,
           "source_article": "한화 이글스 새 사령탑은 류지현 한국야구 대표팀 감독...3년 20억원 계약 임박",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -871,6 +871,97 @@
             ]
           },
           "channel": "초구딱"
+        },
+        {
+          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 2,
+          "source_article": "LG는 아직 시즌도 안 끝났는데 이게 무슨 일? 호주 구단, 케네디 복귀 전격 발표",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "아직",
+            "시즌도",
+            "끝났는",
+            "이게",
+            "무슨"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.1,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"경기\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 경기",
+          "article_count": 3,
+          "source_article": "굳이 경기 도중에 왜?…한화, 최종전 진행 중에 “감독·단장 모두 결별” 공식 발표",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "경기"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"안내\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안내",
+          "article_count": 3,
+          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "안내"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
@@ -879,23 +970,43 @@
           4
         ],
         [
-          "대표팀",
-          2
+          "경기",
+          3
+        ],
+        [
+          "안내",
+          3
         ],
         [
           "한화",
           2
         ],
         [
-          "경기",
+          "대표팀",
           2
         ],
         [
-          "계약",
-          1
+          "조치",
+          2
         ],
         [
-          "사령탑은",
+          "기념",
+          2
+        ],
+        [
+          "이벤트",
+          2
+        ],
+        [
+          "당첨자",
+          2
+        ],
+        [
+          "손흥민",
+          2
+        ],
+        [
+          "한국야구",
           1
         ],
         [
@@ -911,7 +1022,11 @@
           1
         ],
         [
-          "한국야구",
+          "사령탑은",
+          1
+        ],
+        [
+          "계약",
           1
         ],
         [
@@ -919,7 +1034,7 @@
           1
         ],
         [
-          "공식",
+          "도중에",
           1
         ],
         [
@@ -927,31 +1042,7 @@
           1
         ],
         [
-          "굳이",
-          1
-        ],
-        [
-          "최종전",
-          1
-        ],
-        [
           "단장",
-          1
-        ],
-        [
-          "도중에",
-          1
-        ],
-        [
-          "중에",
-          1
-        ],
-        [
-          "소식",
-          1
-        ],
-        [
-          "버밍엄",
           1
         ]
       ],
@@ -961,15 +1052,39 @@
           4
         ],
         [
-          "대표팀",
-          2
+          "경기",
+          3
+        ],
+        [
+          "안내",
+          3
         ],
         [
           "한화",
           2
         ],
         [
-          "경기",
+          "대표팀",
+          2
+        ],
+        [
+          "조치",
+          2
+        ],
+        [
+          "기념",
+          2
+        ],
+        [
+          "이벤트",
+          2
+        ],
+        [
+          "당첨자",
+          2
+        ],
+        [
+          "손흥민",
           2
         ]
       ],
@@ -979,8 +1094,12 @@
           2
         ],
         [
+          "복귀·근황",
+          2
+        ],
+        [
           "스포츠",
-          5
+          7
         ]
       ]
     }
@@ -1445,7 +1564,7 @@
     {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 5,
+      "article_count": 7,
       "source_article": "한화 이글스 새 사령탑은 류지현 한국야구 대표팀 감독...3년 20억원 계약 임박",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -1507,6 +1626,97 @@
         ]
       },
       "channel": "초구딱"
+    },
+    {
+      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "LG는 아직 시즌도 안 끝났는데 이게 무슨 일? 호주 구단, 케네디 복귀 전격 발표",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "아직",
+        "시즌도",
+        "끝났는",
+        "이게",
+        "무슨"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"경기\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 경기",
+      "article_count": 3,
+      "source_article": "굳이 경기 도중에 왜?…한화, 최종전 진행 중에 “감독·단장 모두 결별” 공식 발표",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "경기"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
@@ -1523,11 +1733,11 @@
       3
     ],
     [
-      "있는데",
+      "맞아",
       2
     ],
     [
-      "맞아",
+      "있는데",
       2
     ],
     [
@@ -1543,11 +1753,11 @@
       2
     ],
     [
-      "이승기",
+      "이다인",
       2
     ],
     [
-      "이다인",
+      "이승기",
       2
     ],
     [
@@ -1629,11 +1839,11 @@
       2
     ],
     [
-      "이승기",
+      "이다인",
       2
     ],
     [
-      "이다인",
+      "이승기",
       2
     ],
     [
@@ -1653,7 +1863,7 @@
       2
     ]
   ],
-  "total_topics_generated": 9,
-  "valid_topics": 9,
+  "total_topics_generated": 12,
+  "valid_topics": 12,
   "excluded_duplicates": 0
 }
