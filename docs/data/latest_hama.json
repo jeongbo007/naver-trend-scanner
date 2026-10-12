@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-10-12 21:26:27",
+  "scan_time": "2026-10-12 23:29:05",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -795,35 +795,6 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"김현이, 대체 무슨 일이?\" 김현이 관련 이슈 총정리",
-          "angle_type": "👤 김현이",
-          "article_count": 4,
-          "source_article": "'닥터X'·'100일의 거짓말' 1회 엔딩서 추모…故 김현이, 뒤늦게 알려진 비보",
-          "source_url": "https://m.entertain.naver.com/article/440/0000048440",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "김현이"
-          ],
-          "template": "논란 집합",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
           "title": "\"추모, 대체 무슨 일이?\" 추모 관련 이슈 총정리",
           "angle_type": "👤 추모",
           "article_count": 4,
@@ -876,6 +847,35 @@
               "이름",
               "분류",
               "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"김현이, 대체 무슨 일이?\" 김현이 관련 이슈 총정리",
+          "angle_type": "👤 김현이",
+          "article_count": 4,
+          "source_article": "'닥터X'·'100일의 거짓말' 1회 엔딩서 추모…故 김현이, 뒤늦게 알려진 비보",
+          "source_url": "https://m.entertain.naver.com/article/440/0000048440",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "김현이"
+          ],
+          "template": "논란 집합",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
               "현재 상황"
             ]
           },
@@ -994,11 +994,11 @@
           3
         ],
         [
-          "추성훈",
+          "지인",
           2
         ],
         [
-          "지인",
+          "추성훈",
           2
         ],
         [
@@ -1010,11 +1010,11 @@
           2
         ],
         [
-          "조세호",
+          "중단",
           2
         ],
         [
-          "중단",
+          "조세호",
           2
         ],
         [
@@ -1028,15 +1028,15 @@
           5
         ],
         [
-          "김현이",
-          4
-        ],
-        [
           "추모",
           4
         ],
         [
           "비보",
+          4
+        ],
+        [
+          "김현이",
           4
         ],
         [
@@ -1117,7 +1117,7 @@
         {
           "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 7,
+          "article_count": 6,
           "source_article": "모레노 감독 짜증날 만하네…\"훈련할 시간 이틀 있었다\" 경기마다 외박이 하루 반나절→'졸전' 경기력 이유 이거였나",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -1177,6 +1177,35 @@
           "channel": "초구딱"
         },
         {
+          "title": "\"오타니\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 오타니",
+          "article_count": 4,
+          "source_article": "오스틴 오타니 오씨가 말아먹네",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610130119384472&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "오타니"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
           "title": "\"안내\" 관련 화제 스타 TOP10",
           "angle_type": "👤 안내",
           "article_count": 3,
@@ -1204,35 +1233,6 @@
             ]
           },
           "channel": "초구딱"
-        },
-        {
-          "title": "\"해외\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 해외",
-          "article_count": 3,
-          "source_article": "🛠️[업데이트] 해외 접속 장애 조치 관련 안내_260814🛠️",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202608130000002151",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "해외"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "재활용 가능",
-            "matched_title": "\"장근석 600억, 방시혁 365억?\" 해외 부동산 보도된 스타 TOP10 #연예인 #연예계소식",
-            "matched_views": 130834,
-            "reason": "검증됨 130,834회 · 189일 경과"
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
@@ -1245,7 +1245,7 @@
           3
         ],
         [
-          "해외",
+          "오타니",
           3
         ],
         [
@@ -1253,11 +1253,15 @@
           2
         ],
         [
+          "시즌",
+          2
+        ],
+        [
           "포스트시즌",
           2
         ],
         [
-          "시즌",
+          "우리",
           2
         ],
         [
@@ -1269,43 +1273,15 @@
           2
         ],
         [
-          "그런대",
-          2
-        ],
-        [
-          "이제",
-          2
-        ],
-        [
-          "폐지때문에",
-          2
-        ],
-        [
-          "한국버리고",
-          2
-        ],
-        [
-          "귀화하는",
-          2
-        ],
-        [
-          "병역특례",
-          2
-        ],
-        [
-          "매국노들",
-          2
-        ],
-        [
-          "국방부",
-          2
-        ],
-        [
-          "만하네",
+          "짜증날",
           1
         ],
         [
-          "졸전",
+          "하루",
+          1
+        ],
+        [
+          "이거였나",
           1
         ],
         [
@@ -1313,11 +1289,39 @@
           1
         ],
         [
+          "시간",
+          1
+        ],
+        [
+          "졸전",
+          1
+        ],
+        [
+          "훈련할",
+          1
+        ],
+        [
+          "경기력",
+          1
+        ],
+        [
+          "외박이",
+          1
+        ],
+        [
           "반나절",
+          1
+        ],
+        [
+          "이틀",
           1
         ]
       ],
       "name_freq": [
+        [
+          "오타니",
+          4
+        ],
         [
           "감독",
           3
@@ -1331,15 +1335,15 @@
           3
         ],
         [
-          "해외",
-          3
-        ],
-        [
           "모레노",
           2
         ],
         [
           "포스트",
+          2
+        ],
+        [
+          "우리",
           2
         ],
         [
@@ -1351,38 +1355,18 @@
           2
         ],
         [
-          "그런대",
+          "업로드",
           2
         ],
         [
-          "이제",
-          2
-        ],
-        [
-          "문에",
-          2
-        ],
-        [
-          "국방부",
-          2
-        ],
-        [
-          "리고",
-          2
-        ],
-        [
-          "귀화하",
-          2
-        ],
-        [
-          "한국버",
+          "반도체",
           2
         ]
       ],
       "angle_scores": [
         [
           "스포츠",
-          7
+          6
         ]
       ]
     }
@@ -1761,35 +1745,6 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"김현이, 대체 무슨 일이?\" 김현이 관련 이슈 총정리",
-      "angle_type": "👤 김현이",
-      "article_count": 4,
-      "source_article": "'닥터X'·'100일의 거짓말' 1회 엔딩서 추모…故 김현이, 뒤늦게 알려진 비보",
-      "source_url": "https://m.entertain.naver.com/article/440/0000048440",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "김현이"
-      ],
-      "template": "논란 집합",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"추모, 대체 무슨 일이?\" 추모 관련 이슈 총정리",
       "angle_type": "👤 추모",
       "article_count": 4,
@@ -1842,6 +1797,35 @@
           "이름",
           "분류",
           "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"김현이, 대체 무슨 일이?\" 김현이 관련 이슈 총정리",
+      "angle_type": "👤 김현이",
+      "article_count": 4,
+      "source_article": "'닥터X'·'100일의 거짓말' 1회 엔딩서 추모…故 김현이, 뒤늦게 알려진 비보",
+      "source_url": "https://m.entertain.naver.com/article/440/0000048440",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "김현이"
+      ],
+      "template": "논란 집합",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
           "현재 상황"
         ]
       },
@@ -2280,35 +2264,6 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"김현이, 대체 무슨 일이?\" 김현이 관련 이슈 총정리",
-      "angle_type": "👤 김현이",
-      "article_count": 4,
-      "source_article": "'닥터X'·'100일의 거짓말' 1회 엔딩서 추모…故 김현이, 뒤늦게 알려진 비보",
-      "source_url": "https://m.entertain.naver.com/article/440/0000048440",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "김현이"
-      ],
-      "template": "논란 집합",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"추모, 대체 무슨 일이?\" 추모 관련 이슈 총정리",
       "angle_type": "👤 추모",
       "article_count": 4,
@@ -2361,6 +2316,35 @@
           "이름",
           "분류",
           "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"김현이, 대체 무슨 일이?\" 김현이 관련 이슈 총정리",
+      "angle_type": "👤 김현이",
+      "article_count": 4,
+      "source_article": "'닥터X'·'100일의 거짓말' 1회 엔딩서 추모…故 김현이, 뒤늦게 알려진 비보",
+      "source_url": "https://m.entertain.naver.com/article/440/0000048440",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "김현이"
+      ],
+      "template": "논란 집합",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
           "현재 상황"
         ]
       },
@@ -2427,7 +2411,7 @@
     {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 7,
+      "article_count": 6,
       "source_article": "모레노 감독 짜증날 만하네…\"훈련할 시간 이틀 있었다\" 경기마다 외박이 하루 반나절→'졸전' 경기력 이유 이거였나",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -2487,14 +2471,14 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
-      "article_count": 3,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "title": "\"오타니\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 오타니",
+      "article_count": 4,
+      "source_article": "오스틴 오타니 오씨가 말아먹네",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610130119384472&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "안내"
+        "오타니"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -2516,23 +2500,23 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"해외\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 해외",
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
       "article_count": 3,
-      "source_article": "🛠️[업데이트] 해외 접속 장애 조치 관련 안내_260814🛠️",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202608130000002151",
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "해외"
+        "안내"
       ],
       "template": "인맥",
       "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
-        "status": "재활용 가능",
-        "matched_title": "\"장근석 600억, 방시혁 365억?\" 해외 부동산 보도된 스타 TOP10 #연예인 #연예계소식",
-        "matched_views": 130834,
-        "reason": "검증됨 130,834회 · 189일 경과"
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
       },
       "table": {
         "headers": [
@@ -2599,11 +2583,11 @@
       3
     ],
     [
-      "추성훈",
+      "지인",
       2
     ],
     [
-      "지인",
+      "추성훈",
       2
     ],
     [
@@ -2615,11 +2599,11 @@
       2
     ],
     [
-      "조세호",
+      "중단",
       2
     ],
     [
-      "중단",
+      "조세호",
       2
     ],
     [
@@ -2633,15 +2617,15 @@
       5
     ],
     [
-      "김현이",
-      4
-    ],
-    [
       "추모",
       4
     ],
     [
       "비보",
+      4
+    ],
+    [
+      "김현이",
       4
     ],
     [
