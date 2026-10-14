@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-10-14 17:39:00",
+  "scan_time": "2026-10-14 20:26:26",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -1100,7 +1100,7 @@
         {
           "title": "\"시즌, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 6,
+          "article_count": 5,
           "source_article": "“그냥 국가대표 은퇴해라…더는 보고 싶지 않다” 거센 비난받는 ‘코리안 몬스터’ 김민재…올 시즌 첫 챔스무대 밟는다 ‘비킹전 선발 출전’",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -1164,6 +1164,39 @@
           "channel": "초구딱"
         },
         {
+          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 2,
+          "source_article": "“그냥 국가대표 은퇴해라…더는 보고 싶지 않다” 거센 비난받는 ‘코리안 몬스터’ 김민재…올 시즌 첫 챔스무대 밟는다 ‘비킹전 선발 출전’",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "그냥",
+            "국가대",
+            "은퇴해",
+            "더는",
+            "보고"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.1,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
           "title": "\"안내\" 관련 화제 스타 TOP10",
           "angle_type": "👤 안내",
           "article_count": 4,
@@ -1220,35 +1253,6 @@
             ]
           },
           "channel": "초구딱"
-        },
-        {
-          "title": "\"이수만\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 이수만",
-          "article_count": 3,
-          "source_article": "이수만은 걸그룹 또 만들자마자 중국 멤버 때문에 골 때리네여 ㅋㅋㅋ",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610150119437695&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "이수만"
-          ],
-          "template": "인맥",
-          "score": 5.4,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
@@ -1261,6 +1265,10 @@
           3
         ],
         [
+          "월간",
+          2
+        ],
+        [
           "조치",
           2
         ],
@@ -1269,27 +1277,7 @@
           2
         ],
         [
-          "트리플에스",
-          2
-        ],
-        [
-          "이수만은",
-          2
-        ],
-        [
-          "싶지",
-          1
-        ],
-        [
-          "더는",
-          1
-        ],
-        [
-          "김민재",
-          1
-        ],
-        [
-          "않다",
+          "선발",
           1
         ],
         [
@@ -1297,19 +1285,15 @@
           1
         ],
         [
-          "몬스터",
+          "더는",
           1
         ],
         [
-          "비킹전",
+          "싶지",
           1
         ],
         [
-          "그냥",
-          1
-        ],
-        [
-          "챔스무대",
+          "김민재",
           1
         ],
         [
@@ -1321,11 +1305,31 @@
           1
         ],
         [
-          "출전",
+          "비난받는",
           1
         ],
         [
-          "시즌",
+          "비킹전",
+          1
+        ],
+        [
+          "않다",
+          1
+        ],
+        [
+          "거센",
+          1
+        ],
+        [
+          "몬스터",
+          1
+        ],
+        [
+          "그냥",
+          1
+        ],
+        [
+          "챔스무대",
           1
         ],
         [
@@ -1347,8 +1351,8 @@
           3
         ],
         [
-          "이수만",
-          3
+          "월간",
+          2
         ],
         [
           "조치",
@@ -1359,31 +1363,7 @@
           2
         ],
         [
-          "에스",
-          2
-        ],
-        [
-          "트리플",
-          2
-        ],
-        [
           "네요",
-          2
-        ],
-        [
-          "하이닉",
-          2
-        ],
-        [
-          "까요",
-          2
-        ],
-        [
-          "이네요",
-          2
-        ],
-        [
-          "걸그룹",
           2
         ]
       ],
@@ -1393,8 +1373,12 @@
           2
         ],
         [
+          "복귀·근황",
+          2
+        ],
+        [
           "스포츠",
-          6
+          5
         ]
       ]
     }
@@ -2431,7 +2415,7 @@
     {
       "title": "\"시즌, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 6,
+      "article_count": 5,
       "source_article": "“그냥 국가대표 은퇴해라…더는 보고 싶지 않다” 거센 비난받는 ‘코리안 몬스터’ 김민재…올 시즌 첫 챔스무대 밟는다 ‘비킹전 선발 출전’",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -2495,6 +2479,39 @@
       "channel": "초구딱"
     },
     {
+      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "“그냥 국가대표 은퇴해라…더는 보고 싶지 않다” 거센 비난받는 ‘코리안 몬스터’ 김민재…올 시즌 첫 챔스무대 밟는다 ‘비킹전 선발 출전’",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "그냥",
+        "국가대",
+        "은퇴해",
+        "더는",
+        "보고"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
       "title": "\"안내\" 관련 화제 스타 TOP10",
       "angle_type": "👤 안내",
       "article_count": 4,
@@ -2535,35 +2552,6 @@
       ],
       "template": "인맥",
       "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"이수만\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 이수만",
-      "article_count": 3,
-      "source_article": "이수만은 걸그룹 또 만들자마자 중국 멤버 때문에 골 때리네여 ㅋㅋㅋ",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610150119437695&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "이수만"
-      ],
-      "template": "인맥",
-      "score": 5.4,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
