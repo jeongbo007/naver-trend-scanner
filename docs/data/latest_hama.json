@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-10-18 16:11:22",
+  "scan_time": "2026-10-18 19:13:10",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -678,15 +678,15 @@
           3
         ],
         [
+          "시절",
+          2
+        ],
+        [
           "고윤정",
           2
         ],
         [
           "여신",
-          2
-        ],
-        [
-          "시절",
           2
         ],
         [
@@ -698,7 +698,7 @@
           2
         ],
         [
-          "환자",
+          "의사",
           2
         ],
         [
@@ -706,7 +706,7 @@
           2
         ],
         [
-          "의사",
+          "환자",
           2
         ],
         [
@@ -726,19 +726,19 @@
           2
         ],
         [
-          "덴마크",
-          2
-        ],
-        [
           "안세영",
           2
         ],
         [
-          "오픈",
+          "대회",
           2
         ],
         [
-          "대회",
+          "덴마크",
+          2
+        ],
+        [
+          "오픈",
           2
         ],
         [
@@ -764,12 +764,16 @@
           3
         ],
         [
+          "우승",
+          3
+        ],
+        [
           "오픈",
           3
         ],
         [
-          "우승",
-          3
+          "시절",
+          2
         ],
         [
           "고윤정",
@@ -777,10 +781,6 @@
         ],
         [
           "여신",
-          2
-        ],
-        [
-          "시절",
           2
         ],
         [
@@ -792,7 +792,7 @@
           2
         ],
         [
-          "환자",
+          "의사",
           2
         ],
         [
@@ -800,7 +800,7 @@
           2
         ],
         [
-          "의사",
+          "환자",
           2
         ],
         [
@@ -833,7 +833,7 @@
         {
           "title": "\"안타, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 9,
+          "article_count": 6,
           "source_article": "가장 억울한 골든글러브 탈락자 발생한다…타격왕, 44홈런, 211안타, 208안타 그러나 1명은 눈물, KBO 후보 79명 발표",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -866,15 +866,15 @@
         {
           "title": "\"프랑스, 지금 어디서 뭐 하나?\" 프랑스 근황 총정리",
           "angle_type": "👤 프랑스",
-          "article_count": 7,
-          "source_article": "프랑스 애네들 연금을 1인당 200만원씩 받는데요",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610190119527743&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "article_count": 3,
+          "source_article": "비단 프랑스만의 문제가 아니죠",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610190119528103&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
           "source_name": "MLB파크 불펜",
           "related_names": [
             "프랑스"
           ],
           "template": "장기 공백 복귀",
-          "score": 6.8,
+          "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -978,39 +978,6 @@
             ]
           },
           "channel": "초구딱"
-        },
-        {
-          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 2,
-          "source_article": "안세영 근황 ㄷㄷ jpg",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610190119527716&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "근황",
-            "안세영",
-            "한가로",
-            "쇼핑하",
-            "프랑스"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 5.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
@@ -1019,15 +986,11 @@
           4
         ],
         [
-          "프랑스",
-          4
-        ],
-        [
           "포스트시즌",
           3
         ],
         [
-          "눈물",
+          "이제",
           2
         ],
         [
@@ -1035,11 +998,15 @@
           2
         ],
         [
-          "억울한",
+          "눈물",
           2
         ],
         [
           "홈런",
+          2
+        ],
+        [
+          "선발",
           2
         ],
         [
@@ -1051,10 +1018,6 @@
           2
         ],
         [
-          "선발",
-          2
-        ],
-        [
           "조치",
           2
         ],
@@ -1063,23 +1026,15 @@
           2
         ],
         [
-          "옛날",
+          "프랑스",
           2
-        ],
-        [
-          "배드민턴",
-          2
-        ],
-        [
-          "근황",
-          2
-        ],
-        [
-          "이제",
-          1
         ],
         [
           "대만",
+          1
+        ],
+        [
+          "일본까지",
           1
         ],
         [
@@ -1087,7 +1042,19 @@
           1
         ],
         [
-          "아시아",
+          "대만보다도",
+          1
+        ],
+        [
+          "잠실돔도",
+          1
+        ],
+        [
+          "전락",
+          1
+        ],
+        [
+          "우대한다",
           1
         ],
         [
@@ -1096,10 +1063,6 @@
         ]
       ],
       "name_freq": [
-        [
-          "프랑스",
-          7
-        ],
         [
           "안내",
           4
@@ -1113,7 +1076,11 @@
           3
         ],
         [
-          "눈물",
+          "프랑스",
+          3
+        ],
+        [
+          "이제",
           2
         ],
         [
@@ -1121,19 +1088,19 @@
           2
         ],
         [
+          "눈물",
+          2
+        ],
+        [
           "홈런",
           2
         ],
         [
-          "억울한",
+          "선발",
           2
         ],
         [
           "임찬규",
-          2
-        ],
-        [
-          "선발",
           2
         ],
         [
@@ -1147,24 +1114,12 @@
         [
           "대진표",
           2
-        ],
-        [
-          "옛날",
-          2
-        ],
-        [
-          "배드민",
-          2
         ]
       ],
       "angle_scores": [
         [
-          "복귀·근황",
-          2
-        ],
-        [
           "스포츠",
-          9
+          6
         ]
       ]
     }
@@ -1729,7 +1684,7 @@
     {
       "title": "\"안타, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 9,
+      "article_count": 6,
       "source_article": "가장 억울한 골든글러브 탈락자 발생한다…타격왕, 44홈런, 211안타, 208안타 그러나 1명은 눈물, KBO 후보 79명 발표",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -1762,15 +1717,15 @@
     {
       "title": "\"프랑스, 지금 어디서 뭐 하나?\" 프랑스 근황 총정리",
       "angle_type": "👤 프랑스",
-      "article_count": 7,
-      "source_article": "프랑스 애네들 연금을 1인당 200만원씩 받는데요",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610190119527743&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "article_count": 3,
+      "source_article": "비단 프랑스만의 문제가 아니죠",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610190119528103&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
         "프랑스"
       ],
       "template": "장기 공백 복귀",
-      "score": 6.8,
+      "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1874,39 +1829,6 @@
         ]
       },
       "channel": "초구딱"
-    },
-    {
-      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 2,
-      "source_article": "안세영 근황 ㄷㄷ jpg",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610190119527716&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "근황",
-        "안세영",
-        "한가로",
-        "쇼핑하",
-        "프랑스"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 5.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
@@ -1923,15 +1845,15 @@
       3
     ],
     [
+      "시절",
+      2
+    ],
+    [
       "고윤정",
       2
     ],
     [
       "여신",
-      2
-    ],
-    [
-      "시절",
       2
     ],
     [
@@ -1943,7 +1865,7 @@
       2
     ],
     [
-      "환자",
+      "의사",
       2
     ],
     [
@@ -1951,7 +1873,7 @@
       2
     ],
     [
-      "의사",
+      "환자",
       2
     ],
     [
@@ -1971,19 +1893,19 @@
       2
     ],
     [
-      "덴마크",
-      2
-    ],
-    [
       "안세영",
       2
     ],
     [
-      "오픈",
+      "대회",
       2
     ],
     [
-      "대회",
+      "덴마크",
+      2
+    ],
+    [
+      "오픈",
       2
     ],
     [
@@ -2009,12 +1931,16 @@
       3
     ],
     [
+      "우승",
+      3
+    ],
+    [
       "오픈",
       3
     ],
     [
-      "우승",
-      3
+      "시절",
+      2
     ],
     [
       "고윤정",
@@ -2022,10 +1948,6 @@
     ],
     [
       "여신",
-      2
-    ],
-    [
-      "시절",
       2
     ],
     [
@@ -2037,7 +1959,7 @@
       2
     ],
     [
-      "환자",
+      "의사",
       2
     ],
     [
@@ -2045,7 +1967,7 @@
       2
     ],
     [
-      "의사",
+      "환자",
       2
     ],
     [
@@ -2053,7 +1975,7 @@
       2
     ]
   ],
-  "total_topics_generated": 15,
-  "valid_topics": 15,
+  "total_topics_generated": 14,
+  "valid_topics": 14,
   "excluded_duplicates": 0
 }
