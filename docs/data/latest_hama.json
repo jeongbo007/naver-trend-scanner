@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-10-21 17:43:07",
+  "scan_time": "2026-10-21 20:26:29",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -526,14 +526,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"차린 결혼설?\" 차린 연애사 총정리",
-          "angle_type": "👤 차린",
+          "title": "\"위해 결혼설?\" 위해 연애사 총정리",
+          "angle_type": "👤 위해",
           "article_count": 3,
           "source_article": "현빈 결혼 진짜 잘했다.. 손예진, 가족 위해 차린 정성 밥상 공개",
           "source_url": "https://m.entertain.naver.com/article/213/0001405528",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "차린"
+            "위해"
           ],
           "template": "결혼 화제",
           "score": 6.6,
@@ -555,14 +555,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"위해 결혼설?\" 위해 연애사 총정리",
-          "angle_type": "👤 위해",
+          "title": "\"차린 결혼설?\" 차린 연애사 총정리",
+          "angle_type": "👤 차린",
           "article_count": 3,
           "source_article": "현빈 결혼 진짜 잘했다.. 손예진, 가족 위해 차린 정성 밥상 공개",
           "source_url": "https://m.entertain.naver.com/article/213/0001405528",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "위해"
+            "차린"
           ],
           "template": "결혼 화제",
           "score": 6.6,
@@ -675,14 +675,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"곽정욱 결혼설?\" 곽정욱 연애사 총정리",
-          "angle_type": "👤 곽정욱",
+          "title": "\"박세영 결혼설?\" 박세영 연애사 총정리",
+          "angle_type": "👤 박세영",
           "article_count": 3,
           "source_article": "‘슈돌’ 박세영♥곽정욱, 깜찍한 딸 공개",
           "source_url": "https://m.entertain.naver.com/article/440/0000049508",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "곽정욱"
+            "박세영"
           ],
           "template": "결혼 화제",
           "score": 6.3,
@@ -704,14 +704,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"박세영 결혼설?\" 박세영 연애사 총정리",
-          "angle_type": "👤 박세영",
+          "title": "\"곽정욱 결혼설?\" 곽정욱 연애사 총정리",
+          "angle_type": "👤 곽정욱",
           "article_count": 3,
           "source_article": "‘슈돌’ 박세영♥곽정욱, 깜찍한 딸 공개",
           "source_url": "https://m.entertain.naver.com/article/440/0000049508",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "박세영"
+            "곽정욱"
           ],
           "template": "결혼 화제",
           "score": 6.3,
@@ -821,11 +821,11 @@
           4
         ],
         [
-          "차린",
+          "위해",
           3
         ],
         [
-          "위해",
+          "차린",
           3
         ],
         [
@@ -845,6 +845,10 @@
           3
         ],
         [
+          "결실",
+          2
+        ],
+        [
           "진짜",
           2
         ],
@@ -853,15 +857,7 @@
           2
         ],
         [
-          "결실",
-          2
-        ],
-        [
           "발언",
-          2
-        ],
-        [
-          "김용준",
           2
         ],
         [
@@ -869,11 +865,15 @@
           2
         ],
         [
-          "정성",
+          "김용준",
           2
         ],
         [
           "밥상",
+          2
+        ],
+        [
+          "정성",
           2
         ]
       ],
@@ -903,19 +903,19 @@
           4
         ],
         [
-          "차린",
-          3
-        ],
-        [
           "위해",
           3
         ],
         [
-          "곽정욱",
+          "차린",
           3
         ],
         [
           "박세영",
+          3
+        ],
+        [
+          "곽정욱",
           3
         ],
         [
@@ -927,15 +927,15 @@
           3
         ],
         [
+          "결실",
+          2
+        ],
+        [
           "진짜",
           2
         ],
         [
           "연인과",
-          2
-        ],
-        [
-          "결실",
           2
         ]
       ],
@@ -1001,7 +1001,7 @@
         {
           "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 9,
+          "article_count": 8,
           "source_article": "'김재환과 똑같다' 사실상 무보상 FA 양의지, 두산 남느냐 떠나느냐",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -1027,35 +1027,6 @@
               "소속팀",
               "기록 내용",
               "기록 가치"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"손흥민\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 손흥민",
-          "article_count": 4,
-          "source_article": "황희찬은 손흥민하고 아삼육 아니었어여?",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610220119589951&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "손흥민"
-          ],
-          "template": "인맥",
-          "score": 6.4,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
             ]
           },
           "channel": "초구딱"
@@ -1123,35 +1094,6 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"포스트\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 포스트",
-          "article_count": 3,
-          "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 ⚾",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "포스트"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
           "title": "\"시즌\" 관련 화제 스타 TOP10",
           "angle_type": "👤 시즌",
           "article_count": 3,
@@ -1179,12 +1121,41 @@
             ]
           },
           "channel": "초구딱"
+        },
+        {
+          "title": "\"포스트\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 포스트",
+          "article_count": 3,
+          "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 ⚾",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "포스트"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
         [
           "감독",
-          5
+          4
         ],
         [
           "안내",
@@ -1199,11 +1170,11 @@
           2
         ],
         [
-          "롯데",
+          "깜짝",
           2
         ],
         [
-          "깜짝",
+          "롯데",
           2
         ],
         [
@@ -1219,19 +1190,19 @@
           2
         ],
         [
-          "솔직히",
+          "손흥민",
           2
         ],
         [
-          "열다",
+          "가장",
+          2
+        ],
+        [
+          "이글스",
           1
         ],
         [
-          "몰라",
-          1
-        ],
-        [
-          "직접",
+          "한화",
           1
         ],
         [
@@ -1239,7 +1210,7 @@
           1
         ],
         [
-          "어디서",
+          "불붙은",
           1
         ],
         [
@@ -1247,41 +1218,37 @@
           1
         ],
         [
+          "예수",
+          1
+        ],
+        [
           "모자",
           1
         ],
         [
-          "복귀설",
+          "몰라",
           1
         ],
         [
-          "이글스",
-          1
-        ],
-        [
-          "내년",
+          "와이스",
           1
         ]
       ],
       "name_freq": [
         [
           "감독",
-          5
+          4
         ],
         [
           "안내",
           4
         ],
         [
-          "손흥민",
-          4
-        ],
-        [
-          "포스트",
+          "시즌",
           3
         ],
         [
-          "시즌",
+          "포스트",
           3
         ],
         [
@@ -1289,11 +1256,11 @@
           2
         ],
         [
-          "롯데",
+          "깜짝",
           2
         ],
         [
-          "깜짝",
+          "롯데",
           2
         ],
         [
@@ -1313,15 +1280,15 @@
           2
         ],
         [
-          "솔직히",
+          "아닐까",
           2
         ],
         [
-          "홍명보",
+          "손흥민",
           2
         ],
         [
-          "하고",
+          "가장",
           2
         ]
       ],
@@ -1336,7 +1303,7 @@
         ],
         [
           "스포츠",
-          9
+          8
         ]
       ]
     }
@@ -1500,14 +1467,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"차린 결혼설?\" 차린 연애사 총정리",
-      "angle_type": "👤 차린",
+      "title": "\"위해 결혼설?\" 위해 연애사 총정리",
+      "angle_type": "👤 위해",
       "article_count": 3,
       "source_article": "현빈 결혼 진짜 잘했다.. 손예진, 가족 위해 차린 정성 밥상 공개",
       "source_url": "https://m.entertain.naver.com/article/213/0001405528",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "차린"
+        "위해"
       ],
       "template": "결혼 화제",
       "score": 6.6,
@@ -1529,14 +1496,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"위해 결혼설?\" 위해 연애사 총정리",
-      "angle_type": "👤 위해",
+      "title": "\"차린 결혼설?\" 차린 연애사 총정리",
+      "angle_type": "👤 차린",
       "article_count": 3,
       "source_article": "현빈 결혼 진짜 잘했다.. 손예진, 가족 위해 차린 정성 밥상 공개",
       "source_url": "https://m.entertain.naver.com/article/213/0001405528",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "위해"
+        "차린"
       ],
       "template": "결혼 화제",
       "score": 6.6,
@@ -1649,14 +1616,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"곽정욱 결혼설?\" 곽정욱 연애사 총정리",
-      "angle_type": "👤 곽정욱",
+      "title": "\"박세영 결혼설?\" 박세영 연애사 총정리",
+      "angle_type": "👤 박세영",
       "article_count": 3,
       "source_article": "‘슈돌’ 박세영♥곽정욱, 깜찍한 딸 공개",
       "source_url": "https://m.entertain.naver.com/article/440/0000049508",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "곽정욱"
+        "박세영"
       ],
       "template": "결혼 화제",
       "score": 6.3,
@@ -1678,14 +1645,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"박세영 결혼설?\" 박세영 연애사 총정리",
-      "angle_type": "👤 박세영",
+      "title": "\"곽정욱 결혼설?\" 곽정욱 연애사 총정리",
+      "angle_type": "👤 곽정욱",
       "article_count": 3,
       "source_article": "‘슈돌’ 박세영♥곽정욱, 깜찍한 딸 공개",
       "source_url": "https://m.entertain.naver.com/article/440/0000049508",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "박세영"
+        "곽정욱"
       ],
       "template": "결혼 화제",
       "score": 6.3,
@@ -1928,14 +1895,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"차린 결혼설?\" 차린 연애사 총정리",
-      "angle_type": "👤 차린",
+      "title": "\"위해 결혼설?\" 위해 연애사 총정리",
+      "angle_type": "👤 위해",
       "article_count": 3,
       "source_article": "현빈 결혼 진짜 잘했다.. 손예진, 가족 위해 차린 정성 밥상 공개",
       "source_url": "https://m.entertain.naver.com/article/213/0001405528",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "차린"
+        "위해"
       ],
       "template": "결혼 화제",
       "score": 6.6,
@@ -1957,14 +1924,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"위해 결혼설?\" 위해 연애사 총정리",
-      "angle_type": "👤 위해",
+      "title": "\"차린 결혼설?\" 차린 연애사 총정리",
+      "angle_type": "👤 차린",
       "article_count": 3,
       "source_article": "현빈 결혼 진짜 잘했다.. 손예진, 가족 위해 차린 정성 밥상 공개",
       "source_url": "https://m.entertain.naver.com/article/213/0001405528",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "위해"
+        "차린"
       ],
       "template": "결혼 화제",
       "score": 6.6,
@@ -2077,14 +2044,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"곽정욱 결혼설?\" 곽정욱 연애사 총정리",
-      "angle_type": "👤 곽정욱",
+      "title": "\"박세영 결혼설?\" 박세영 연애사 총정리",
+      "angle_type": "👤 박세영",
       "article_count": 3,
       "source_article": "‘슈돌’ 박세영♥곽정욱, 깜찍한 딸 공개",
       "source_url": "https://m.entertain.naver.com/article/440/0000049508",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "곽정욱"
+        "박세영"
       ],
       "template": "결혼 화제",
       "score": 6.3,
@@ -2106,14 +2073,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"박세영 결혼설?\" 박세영 연애사 총정리",
-      "angle_type": "👤 박세영",
+      "title": "\"곽정욱 결혼설?\" 곽정욱 연애사 총정리",
+      "angle_type": "👤 곽정욱",
       "article_count": 3,
       "source_article": "‘슈돌’ 박세영♥곽정욱, 깜찍한 딸 공개",
       "source_url": "https://m.entertain.naver.com/article/440/0000049508",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "박세영"
+        "곽정욱"
       ],
       "template": "결혼 화제",
       "score": 6.3,
@@ -2232,7 +2199,7 @@
     {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 9,
+      "article_count": 8,
       "source_article": "'김재환과 똑같다' 사실상 무보상 FA 양의지, 두산 남느냐 떠나느냐",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -2258,35 +2225,6 @@
           "소속팀",
           "기록 내용",
           "기록 가치"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"손흥민\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 손흥민",
-      "article_count": 4,
-      "source_article": "황희찬은 손흥민하고 아삼육 아니었어여?",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610220119589951&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "손흥민"
-      ],
-      "template": "인맥",
-      "score": 6.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
         ]
       },
       "channel": "초구딱"
@@ -2354,14 +2292,14 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"포스트\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 포스트",
+      "title": "\"시즌\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 시즌",
       "article_count": 3,
       "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 ⚾",
       "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "포스트"
+        "시즌"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -2383,14 +2321,14 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"시즌\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 시즌",
+      "title": "\"포스트\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 포스트",
       "article_count": 3,
       "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 ⚾",
       "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "시즌"
+        "포스트"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -2438,11 +2376,11 @@
       4
     ],
     [
-      "차린",
+      "위해",
       3
     ],
     [
-      "위해",
+      "차린",
       3
     ],
     [
@@ -2462,6 +2400,10 @@
       3
     ],
     [
+      "결실",
+      2
+    ],
+    [
       "진짜",
       2
     ],
@@ -2470,15 +2412,7 @@
       2
     ],
     [
-      "결실",
-      2
-    ],
-    [
       "발언",
-      2
-    ],
-    [
-      "김용준",
       2
     ],
     [
@@ -2486,11 +2420,15 @@
       2
     ],
     [
-      "정성",
+      "김용준",
       2
     ],
     [
       "밥상",
+      2
+    ],
+    [
+      "정성",
       2
     ]
   ],
@@ -2520,19 +2458,19 @@
       4
     ],
     [
-      "차린",
-      3
-    ],
-    [
       "위해",
       3
     ],
     [
-      "곽정욱",
+      "차린",
       3
     ],
     [
       "박세영",
+      3
+    ],
+    [
+      "곽정욱",
       3
     ],
     [
@@ -2544,19 +2482,19 @@
       3
     ],
     [
+      "결실",
+      2
+    ],
+    [
       "진짜",
       2
     ],
     [
       "연인과",
       2
-    ],
-    [
-      "결실",
-      2
     ]
   ],
-  "total_topics_generated": 21,
-  "valid_topics": 21,
+  "total_topics_generated": 20,
+  "valid_topics": 20,
   "excluded_duplicates": 0
 }
