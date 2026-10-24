@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-10-24 16:19:09",
+  "scan_time": "2026-10-24 19:13:52",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -626,11 +626,11 @@
           2
         ],
         [
-          "패션",
+          "용준형",
           2
         ],
         [
-          "용준형",
+          "패션",
           2
         ],
         [
@@ -650,11 +650,11 @@
           2
         ],
         [
-          "임신",
+          "주년",
           2
         ],
         [
-          "주년",
+          "임신",
           2
         ],
         [
@@ -686,7 +686,7 @@
           2
         ],
         [
-          "파혼에",
+          "김슬기",
           1
         ]
       ],
@@ -716,11 +716,11 @@
           2
         ],
         [
-          "패션",
+          "용준형",
           2
         ],
         [
-          "용준형",
+          "패션",
           2
         ],
         [
@@ -740,11 +740,11 @@
           2
         ],
         [
-          "임신",
+          "주년",
           2
         ],
         [
-          "주년",
+          "임신",
           2
         ],
         [
@@ -781,7 +781,7 @@
         {
           "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 6,
+          "article_count": 5,
           "source_article": "'11일만에 통보' 김태형 감독 롯데 떠난다…수석코치도 사의",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -899,34 +899,30 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
-          "angle_type": "결혼·이혼",
-          "article_count": 2,
-          "source_article": "이 분 한국여자랑 결혼했네요.jpg",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610250119633724&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "title": "\"토트넘\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 토트넘",
+          "article_count": 3,
+          "source_article": "토트넘 중원싸움 왜 잘하나요?",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610250119634216&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
           "source_name": "MLB파크 불펜",
           "related_names": [
-            "한국여",
-            "자랑",
-            "결혼했",
-            "네요",
-            "결혼율"
+            "토트넘"
           ],
-          "template": "결혼 화제",
-          "score": 5.8,
+          "template": "인맥",
+          "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
-            "status": "재활용 가능",
-            "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
-            "matched_views": 720727,
-            "reason": "검증됨 720,727회 · 196일 경과"
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
           },
           "table": {
             "headers": [
               "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
+              "분류",
+              "이슈 내용",
+              "현재 상황"
             ]
           },
           "channel": "초구딱"
@@ -946,10 +942,6 @@
           2
         ],
         [
-          "제일",
-          2
-        ],
-        [
           "조치",
           2
         ],
@@ -958,15 +950,15 @@
           2
         ],
         [
-          "투수",
-          1
+          "닥터",
+          2
         ],
         [
           "미녀",
           1
         ],
         [
-          "시즌",
+          "차리고",
           1
         ],
         [
@@ -974,11 +966,7 @@
           1
         ],
         [
-          "괴물",
-          1
-        ],
-        [
-          "정신",
+          "은밀한",
           1
         ],
         [
@@ -990,7 +978,11 @@
           1
         ],
         [
-          "은밀한",
+          "괴물",
+          1
+        ],
+        [
+          "정신",
           1
         ],
         [
@@ -998,19 +990,23 @@
           1
         ],
         [
-          "차리고",
+          "시즌",
           1
         ],
         [
-          "일만에",
+          "투수",
           1
         ],
         [
-          "사의",
+          "롯데",
           1
         ],
         [
           "통보",
+          1
+        ],
+        [
+          "떠난다",
           1
         ]
       ],
@@ -1028,19 +1024,15 @@
           3
         ],
         [
+          "토트넘",
+          3
+        ],
+        [
           "감독",
           2
         ],
         [
-          "다고",
-          2
-        ],
-        [
           "베테랑",
-          2
-        ],
-        [
-          "제일",
           2
         ],
         [
@@ -1052,18 +1044,18 @@
           2
         ],
         [
-          "손흥민",
+          "닥터",
+          2
+        ],
+        [
+          "트럼프",
           2
         ]
       ],
       "angle_scores": [
         [
-          "결혼·이혼",
-          2
-        ],
-        [
           "스포츠",
-          6
+          5
         ]
       ]
     }
@@ -1462,7 +1454,7 @@
     {
       "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 6,
+      "article_count": 5,
       "source_article": "'11일만에 통보' 김태형 감독 롯데 떠난다…수석코치도 사의",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -1580,34 +1572,30 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 2,
-      "source_article": "이 분 한국여자랑 결혼했네요.jpg",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610250119633724&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "\"토트넘\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 토트넘",
+      "article_count": 3,
+      "source_article": "토트넘 중원싸움 왜 잘하나요?",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610250119634216&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "한국여",
-        "자랑",
-        "결혼했",
-        "네요",
-        "결혼율"
+        "토트넘"
       ],
-      "template": "결혼 화제",
-      "score": 5.8,
+      "template": "인맥",
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
-        "status": "재활용 가능",
-        "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
-        "matched_views": 720727,
-        "reason": "검증됨 720,727회 · 196일 경과"
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
       },
       "table": {
         "headers": [
           "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "초구딱"
@@ -1631,11 +1619,11 @@
       2
     ],
     [
-      "패션",
+      "용준형",
       2
     ],
     [
-      "용준형",
+      "패션",
       2
     ],
     [
@@ -1655,11 +1643,11 @@
       2
     ],
     [
-      "임신",
+      "주년",
       2
     ],
     [
-      "주년",
+      "임신",
       2
     ],
     [
@@ -1691,7 +1679,7 @@
       2
     ],
     [
-      "파혼에",
+      "김슬기",
       1
     ]
   ],
@@ -1721,11 +1709,11 @@
       2
     ],
     [
-      "패션",
+      "용준형",
       2
     ],
     [
-      "용준형",
+      "패션",
       2
     ],
     [
@@ -1745,11 +1733,11 @@
       2
     ],
     [
-      "임신",
+      "주년",
       2
     ],
     [
-      "주년",
+      "임신",
       2
     ],
     [
