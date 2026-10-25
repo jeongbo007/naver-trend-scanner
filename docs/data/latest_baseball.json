@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-10-25 16:52:58",
+  "scan_time": "2026-10-25 19:26:11",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,9 +8,9 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 0
+    "MLB파크 불펜": 30
   },
-  "total_articles": 50,
+  "total_articles": 80,
   "articles": [
     {
       "title": "KIA 때문에 KBO 9개 구단 바빠졌다… 명단 한번 화려하네, ‘방출 신화’로 KIA 겨눌까",
@@ -91,6 +91,276 @@
       "category": "스포츠",
       "views": 130315,
       "rank": 20,
+      "channel": "초구딱"
+    },
+    {
+      "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 1,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 2,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🛠️[업데이트] 해외 접속 장애 조치 관련 안내_260814🛠️",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202608130000002151",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 3,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[공지] 이미지 업로드 시 불법촬영물등 비교·식별 조치 적용 안내",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202609040000002163",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 4,
+      "channel": "초구딱"
+    },
+    {
+      "title": "⚾ 2026 메이저리그 포스트시즌 대진표 ⚾",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 5,
+      "channel": "초구딱"
+    },
+    {
+      "title": "⚾ 2026 KBO 포스트시즌 대진표 ⚾",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202610130000002190",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 6,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🚨[2026 포스트시즌] 엠팍 내 티켓 거래 / 양도 관련 안내🚨",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202610130000002193",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 7,
+      "channel": "초구딱"
+    },
+    {
+      "title": "우리나라 축구가 냉정하게 그렇게 못하냐 그건 아니죠",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610260119649564&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 8,
+      "channel": "초구딱"
+    },
+    {
+      "title": "mkoi 어케 2승함?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610260119649561&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 9,
+      "channel": "초구딱"
+    },
+    {
+      "title": "한화경기만 보고 자려고 했던 저의 계획은",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610260119649552&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 115,
+      "rank": 10,
+      "channel": "초구딱"
+    },
+    {
+      "title": "잠시후 브라질 대선 결선투표 종료",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610260119649549&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 245,
+      "rank": 11,
+      "channel": "초구딱"
+    },
+    {
+      "title": "LCK팀이우승한다면 한화가",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610260119649546&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 129,
+      "rank": 12,
+      "channel": "초구딱"
+    },
+    {
+      "title": "2패조에 한화 지투가 가네요 ㄷㄷ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610260119649543&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 157,
+      "rank": 13,
+      "channel": "초구딱"
+    },
+    {
+      "title": "369 개잘하네 ㅋㅋㅋㅋ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610260119649540&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 160,
+      "rank": 14,
+      "channel": "초구딱"
+    },
+    {
+      "title": "당신은 무인도에 표류되었습니다. 지급품은 가장최근에 구입한 물건.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610260119649537&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 180,
+      "rank": 15,
+      "channel": "초구딱"
+    },
+    {
+      "title": "날개 달린 물고기들.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610260119649534&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 201,
+      "rank": 16,
+      "channel": "초구딱"
+    },
+    {
+      "title": "근데 한화는 정규시즌때도 서커스 막 하더니",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610260119649528&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 80,
+      "rank": 17,
+      "channel": "초구딱"
+    },
+    {
+      "title": "1렙 곤조부리다 따인건 구마유시인데 분명..",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610260119649525&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 84,
+      "rank": 18,
+      "channel": "초구딱"
+    },
+    {
+      "title": "한화 지는 경기에 카나비-딜라가 유독 욕먹는 경우가 많은데",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610260119649522&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 166,
+      "rank": 19,
+      "channel": "초구딱"
+    },
+    {
+      "title": "369 때문에 TES 응원중...",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610260119649519&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 101,
+      "rank": 20,
+      "channel": "초구딱"
+    },
+    {
+      "title": "여기서 손흥민 까는애들은 다 열등감 맞죠?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610260119649510&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 145,
+      "rank": 21,
+      "channel": "초구딱"
+    },
+    {
+      "title": "한국은 스페인 축구 절대 따라 못함",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610260119649507&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 203,
+      "rank": 22,
+      "channel": "초구딱"
+    },
+    {
+      "title": "수유 쌍문 창동 노원쪽 상권에 온기가 돌겠네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610260119649498&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 562,
+      "rank": 23,
+      "channel": "초구딱"
+    },
+    {
+      "title": "딜라이트는 어렵겠네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610260119649495&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 246,
+      "rank": 24,
+      "channel": "초구딱"
+    },
+    {
+      "title": "바텀 1렙 싸움도 그렇지만 전 이장면이 제일 이해 안감",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610260119649492&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 246,
+      "rank": 25,
+      "channel": "초구딱"
+    },
+    {
+      "title": "삼국지)곽봉효가 있엇으면 적벽의 패배는 없었을까?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610260119649489&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 120,
+      "rank": 26,
+      "channel": "초구딱"
+    },
+    {
+      "title": "삼국지)주유 대신 육손이었으면 적벽대전 이겼을까요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610260119649486&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 131,
+      "rank": 27,
+      "channel": "초구딱"
+    },
+    {
+      "title": "바텀 1렙구도 돌려보는데 레나타 실수 같네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610260119649480&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 205,
+      "rank": 28,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[엔믹스] '루드 톡' 가사 해석 영상",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610260119649477&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 71,
+      "rank": 29,
+      "channel": "초구딱"
+    },
+    {
+      "title": "근데 한화는 만약 스위스딱 하면 제우스 카나비",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610260119649474&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 222,
+      "rank": 30,
       "channel": "초구딱"
     }
   ],
@@ -289,14 +559,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"프랑스\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 프랑스",
+          "title": "\"안세영\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안세영",
           "article_count": 3,
           "source_article": "'대충격! 안세영이 무너졌다' 세계 1위 프랑스오픈 결승서 날벼락!…'인도 11위' 신두에 16-21 첫 게임 헌납→시즌 10승 도전 초비상",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "프랑스"
+            "안세영"
           ],
           "template": "인맥",
           "score": 6.5,
@@ -318,14 +588,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"안세영\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 안세영",
+          "title": "\"프랑스\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 프랑스",
           "article_count": 3,
           "source_article": "'대충격! 안세영이 무너졌다' 세계 1위 프랑스오픈 결승서 날벼락!…'인도 11위' 신두에 16-21 첫 게임 헌납→시즌 10승 도전 초비상",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "안세영"
+            "프랑스"
           ],
           "template": "인맥",
           "score": 6.5,
@@ -505,11 +775,11 @@
           2
         ],
         [
-          "최진실",
+          "방문",
           2
         ],
         [
-          "방문",
+          "최진실",
           2
         ],
         [
@@ -525,11 +795,11 @@
           2
         ],
         [
-          "돌아와",
+          "현주",
           2
         ],
         [
-          "현주",
+          "돌아와",
           2
         ],
         [
@@ -541,11 +811,11 @@
           2
         ],
         [
-          "미우새",
+          "초호화",
           2
         ],
         [
-          "초호화",
+          "미우새",
           2
         ],
         [
@@ -559,11 +829,11 @@
           5
         ],
         [
-          "아내",
+          "양홍원",
           5
         ],
         [
-          "양홍원",
+          "아내",
           5
         ],
         [
@@ -579,11 +849,11 @@
           3
         ],
         [
-          "프랑스",
+          "안세영",
           3
         ],
         [
-          "안세영",
+          "프랑스",
           3
         ],
         [
@@ -595,11 +865,11 @@
           2
         ],
         [
-          "최진실",
+          "방문",
           2
         ],
         [
-          "방문",
+          "최진실",
           2
         ],
         [
@@ -643,12 +913,12 @@
       ]
     },
     "초구딱": {
-      "article_count": 9,
+      "article_count": 39,
       "topics": [
         {
           "title": "\"구단, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 4,
+          "article_count": 6,
           "source_article": "KIA 때문에 KBO 9개 구단 바빠졌다… 명단 한번 화려하네, ‘방출 신화’로 KIA 겨눌까",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -660,7 +930,7 @@
             "명단"
           ],
           "template": "스포츠 기록",
-          "score": 6.8,
+          "score": 7.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -677,6 +947,122 @@
             ]
           },
           "channel": "초구딱"
+        },
+        {
+          "title": "\"안내\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안내",
+          "article_count": 4,
+          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "안내"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"한화\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 한화",
+          "article_count": 3,
+          "source_article": "'류지현 감독 답답하겠네!' 한화, 2안타 빈공+2실책 실점→'日 교육리그' 롯데전 0-7 완봉패…두산 연이틀 우천 취소",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "한화"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"포스트\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 포스트",
+          "article_count": 3,
+          "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 ⚾",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "포스트"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"시즌\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 시즌",
+          "article_count": 3,
+          "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 ⚾",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "시즌"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
@@ -685,15 +1071,55 @@
           4
         ],
         [
+          "안내",
+          4
+        ],
+        [
+          "한화",
+          3
+        ],
+        [
+          "포스트시즌",
+          3
+        ],
+        [
+          "때문에",
+          2
+        ],
+        [
           "방출",
           2
         ],
         [
-          "화려하네",
-          1
+          "조치",
+          2
         ],
         [
-          "한번",
+          "대진표",
+          2
+        ],
+        [
+          "한화는",
+          2
+        ],
+        [
+          "근데",
+          2
+        ],
+        [
+          "카나비",
+          2
+        ],
+        [
+          "바텀",
+          2
+        ],
+        [
+          "삼국지",
+          2
+        ],
+        [
+          "신화",
           1
         ],
         [
@@ -701,15 +1127,7 @@
           1
         ],
         [
-          "때문에",
-          1
-        ],
-        [
-          "명단",
-          1
-        ],
-        [
-          "신화",
+          "한번",
           1
         ],
         [
@@ -717,47 +1135,15 @@
           1
         ],
         [
-          "불가능인데",
+          "화려하네",
           1
         ],
         [
-          "통보",
+          "명단",
           1
         ],
         [
           "저격",
-          1
-        ],
-        [
-          "사실상",
-          1
-        ],
-        [
-          "미국에서",
-          1
-        ],
-        [
-          "선수",
-          1
-        ],
-        [
-          "위기",
-          1
-        ],
-        [
-          "돌아왔는데",
-          1
-        ],
-        [
-          "시간이",
-          1
-        ],
-        [
-          "년의",
-          1
-        ],
-        [
-          "남긴",
           1
         ]
       ],
@@ -767,14 +1153,66 @@
           4
         ],
         [
+          "안내",
+          4
+        ],
+        [
+          "한화",
+          3
+        ],
+        [
+          "포스트",
+          3
+        ],
+        [
+          "시즌",
+          3
+        ],
+        [
+          "때문에",
+          2
+        ],
+        [
           "방출",
+          2
+        ],
+        [
+          "는데",
+          2
+        ],
+        [
+          "조치",
+          2
+        ],
+        [
+          "대진표",
+          2
+        ],
+        [
+          "한화는",
+          2
+        ],
+        [
+          "근데",
+          2
+        ],
+        [
+          "카나비",
+          2
+        ],
+        [
+          "바텀",
+          2
+        ],
+        [
+          "삼국지",
           2
         ]
       ],
       "angle_scores": [
         [
           "스포츠",
-          4
+          6
         ]
       ]
     }
@@ -783,7 +1221,7 @@
     {
       "title": "\"구단, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 4,
+      "article_count": 6,
       "source_article": "KIA 때문에 KBO 9개 구단 바빠졌다… 명단 한번 화려하네, ‘방출 신화’로 KIA 겨눌까",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -795,7 +1233,7 @@
         "명단"
       ],
       "template": "스포츠 기록",
-      "score": 6.8,
+      "score": 7.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -809,6 +1247,122 @@
           "소속팀",
           "기록 내용",
           "기록 가치"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 4,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"한화\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 한화",
+      "article_count": 3,
+      "source_article": "'류지현 감독 답답하겠네!' 한화, 2안타 빈공+2실책 실점→'日 교육리그' 롯데전 0-7 완봉패…두산 연이틀 우천 취소",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "한화"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"포스트\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 포스트",
+      "article_count": 3,
+      "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 ⚾",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "포스트"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"시즌\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 시즌",
+      "article_count": 3,
+      "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 ⚾",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "시즌"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "초구딱"
@@ -1006,14 +1560,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"프랑스\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 프랑스",
+      "title": "\"안세영\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안세영",
       "article_count": 3,
       "source_article": "'대충격! 안세영이 무너졌다' 세계 1위 프랑스오픈 결승서 날벼락!…'인도 11위' 신두에 16-21 첫 게임 헌납→시즌 10승 도전 초비상",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "프랑스"
+        "안세영"
       ],
       "template": "인맥",
       "score": 6.5,
@@ -1035,14 +1589,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"안세영\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안세영",
+      "title": "\"프랑스\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 프랑스",
       "article_count": 3,
       "source_article": "'대충격! 안세영이 무너졌다' 세계 1위 프랑스오픈 결승서 날벼락!…'인도 11위' 신두에 16-21 첫 게임 헌납→시즌 10승 도전 초비상",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "안세영"
+        "프랑스"
       ],
       "template": "인맥",
       "score": 6.5,
@@ -1190,7 +1744,7 @@
     {
       "title": "\"구단, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 4,
+      "article_count": 6,
       "source_article": "KIA 때문에 KBO 9개 구단 바빠졌다… 명단 한번 화려하네, ‘방출 신화’로 KIA 겨눌까",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -1202,7 +1756,7 @@
         "명단"
       ],
       "template": "스포츠 기록",
-      "score": 6.8,
+      "score": 7.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1216,6 +1770,122 @@
           "소속팀",
           "기록 내용",
           "기록 가치"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 4,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"한화\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 한화",
+      "article_count": 3,
+      "source_article": "'류지현 감독 답답하겠네!' 한화, 2안타 빈공+2실책 실점→'日 교육리그' 롯데전 0-7 완봉패…두산 연이틀 우천 취소",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "한화"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"포스트\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 포스트",
+      "article_count": 3,
+      "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 ⚾",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "포스트"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"시즌\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 시즌",
+      "article_count": 3,
+      "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 ⚾",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "시즌"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "초구딱"
@@ -1255,11 +1925,11 @@
       2
     ],
     [
-      "최진실",
+      "방문",
       2
     ],
     [
-      "방문",
+      "최진실",
       2
     ],
     [
@@ -1275,11 +1945,11 @@
       2
     ],
     [
-      "돌아와",
+      "현주",
       2
     ],
     [
-      "현주",
+      "돌아와",
       2
     ],
     [
@@ -1291,11 +1961,11 @@
       2
     ],
     [
-      "미우새",
+      "초호화",
       2
     ],
     [
-      "초호화",
+      "미우새",
       2
     ],
     [
@@ -1309,11 +1979,11 @@
       5
     ],
     [
-      "아내",
+      "양홍원",
       5
     ],
     [
-      "양홍원",
+      "아내",
       5
     ],
     [
@@ -1329,11 +1999,11 @@
       3
     ],
     [
-      "프랑스",
+      "안세영",
       3
     ],
     [
-      "안세영",
+      "프랑스",
       3
     ],
     [
@@ -1345,11 +2015,11 @@
       2
     ],
     [
-      "최진실",
+      "방문",
       2
     ],
     [
-      "방문",
+      "최진실",
       2
     ],
     [
@@ -1365,7 +2035,7 @@
       2
     ]
   ],
-  "total_topics_generated": 13,
-  "valid_topics": 13,
+  "total_topics_generated": 17,
+  "valid_topics": 17,
   "excluded_duplicates": 0
 }

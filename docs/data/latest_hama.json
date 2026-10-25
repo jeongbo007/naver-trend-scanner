@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-10-25 16:52:58",
+  "scan_time": "2026-10-25 19:26:11",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,9 +8,9 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 0
+    "MLB파크 불펜": 30
   },
-  "total_articles": 50,
+  "total_articles": 80,
   "articles": [
     {
       "title": "55세 이영애, 충격적인 노 메이크업 근황‥억지 연출 제로",
@@ -577,14 +577,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"프랑스\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 프랑스",
+          "title": "\"안세영\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안세영",
           "article_count": 3,
           "source_article": "'대충격! 안세영이 무너졌다' 세계 1위 프랑스오픈 결승서 날벼락!…'인도 11위' 신두에 16-21 첫 게임 헌납→시즌 10승 도전 초비상",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "프랑스"
+            "안세영"
           ],
           "template": "인맥",
           "score": 6.5,
@@ -606,14 +606,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"안세영\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 안세영",
+          "title": "\"프랑스\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 프랑스",
           "article_count": 3,
           "source_article": "'대충격! 안세영이 무너졌다' 세계 1위 프랑스오픈 결승서 날벼락!…'인도 11위' 신두에 16-21 첫 게임 헌납→시즌 10승 도전 초비상",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "안세영"
+            "프랑스"
           ],
           "template": "인맥",
           "score": 6.5,
@@ -793,11 +793,11 @@
           2
         ],
         [
-          "최진실",
+          "방문",
           2
         ],
         [
-          "방문",
+          "최진실",
           2
         ],
         [
@@ -813,11 +813,11 @@
           2
         ],
         [
-          "돌아와",
+          "현주",
           2
         ],
         [
-          "현주",
+          "돌아와",
           2
         ],
         [
@@ -829,11 +829,11 @@
           2
         ],
         [
-          "미우새",
+          "초호화",
           2
         ],
         [
-          "초호화",
+          "미우새",
           2
         ],
         [
@@ -847,11 +847,11 @@
           5
         ],
         [
-          "아내",
+          "양홍원",
           5
         ],
         [
-          "양홍원",
+          "아내",
           5
         ],
         [
@@ -867,11 +867,11 @@
           3
         ],
         [
-          "프랑스",
+          "안세영",
           3
         ],
         [
-          "안세영",
+          "프랑스",
           3
         ],
         [
@@ -883,11 +883,11 @@
           2
         ],
         [
-          "최진실",
+          "방문",
           2
         ],
         [
-          "방문",
+          "최진실",
           2
         ],
         [
@@ -931,12 +931,12 @@
       ]
     },
     "초구딱": {
-      "article_count": 9,
+      "article_count": 39,
       "topics": [
         {
           "title": "\"구단, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 4,
+          "article_count": 6,
           "source_article": "KIA 때문에 KBO 9개 구단 바빠졌다… 명단 한번 화려하네, ‘방출 신화’로 KIA 겨눌까",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
@@ -948,7 +948,7 @@
             "명단"
           ],
           "template": "스포츠 기록",
-          "score": 6.8,
+          "score": 7.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -965,6 +965,122 @@
             ]
           },
           "channel": "초구딱"
+        },
+        {
+          "title": "\"안내\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안내",
+          "article_count": 4,
+          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "안내"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"한화\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 한화",
+          "article_count": 3,
+          "source_article": "'류지현 감독 답답하겠네!' 한화, 2안타 빈공+2실책 실점→'日 교육리그' 롯데전 0-7 완봉패…두산 연이틀 우천 취소",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "한화"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"포스트\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 포스트",
+          "article_count": 3,
+          "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 ⚾",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "포스트"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"시즌\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 시즌",
+          "article_count": 3,
+          "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 ⚾",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "시즌"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
@@ -973,15 +1089,55 @@
           4
         ],
         [
+          "안내",
+          4
+        ],
+        [
+          "한화",
+          3
+        ],
+        [
+          "포스트시즌",
+          3
+        ],
+        [
+          "때문에",
+          2
+        ],
+        [
           "방출",
           2
         ],
         [
-          "화려하네",
-          1
+          "조치",
+          2
         ],
         [
-          "한번",
+          "대진표",
+          2
+        ],
+        [
+          "한화는",
+          2
+        ],
+        [
+          "근데",
+          2
+        ],
+        [
+          "카나비",
+          2
+        ],
+        [
+          "바텀",
+          2
+        ],
+        [
+          "삼국지",
+          2
+        ],
+        [
+          "신화",
           1
         ],
         [
@@ -989,15 +1145,7 @@
           1
         ],
         [
-          "때문에",
-          1
-        ],
-        [
-          "명단",
-          1
-        ],
-        [
-          "신화",
+          "한번",
           1
         ],
         [
@@ -1005,47 +1153,15 @@
           1
         ],
         [
-          "불가능인데",
+          "화려하네",
           1
         ],
         [
-          "통보",
+          "명단",
           1
         ],
         [
           "저격",
-          1
-        ],
-        [
-          "사실상",
-          1
-        ],
-        [
-          "미국에서",
-          1
-        ],
-        [
-          "선수",
-          1
-        ],
-        [
-          "위기",
-          1
-        ],
-        [
-          "돌아왔는데",
-          1
-        ],
-        [
-          "시간이",
-          1
-        ],
-        [
-          "년의",
-          1
-        ],
-        [
-          "남긴",
           1
         ]
       ],
@@ -1055,14 +1171,66 @@
           4
         ],
         [
+          "안내",
+          4
+        ],
+        [
+          "한화",
+          3
+        ],
+        [
+          "포스트",
+          3
+        ],
+        [
+          "시즌",
+          3
+        ],
+        [
+          "때문에",
+          2
+        ],
+        [
           "방출",
+          2
+        ],
+        [
+          "는데",
+          2
+        ],
+        [
+          "조치",
+          2
+        ],
+        [
+          "대진표",
+          2
+        ],
+        [
+          "한화는",
+          2
+        ],
+        [
+          "근데",
+          2
+        ],
+        [
+          "카나비",
+          2
+        ],
+        [
+          "바텀",
+          2
+        ],
+        [
+          "삼국지",
           2
         ]
       ],
       "angle_scores": [
         [
           "스포츠",
-          4
+          6
         ]
       ]
     }
@@ -1259,14 +1427,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"프랑스\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 프랑스",
+      "title": "\"안세영\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안세영",
       "article_count": 3,
       "source_article": "'대충격! 안세영이 무너졌다' 세계 1위 프랑스오픈 결승서 날벼락!…'인도 11위' 신두에 16-21 첫 게임 헌납→시즌 10승 도전 초비상",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "프랑스"
+        "안세영"
       ],
       "template": "인맥",
       "score": 6.5,
@@ -1288,14 +1456,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"안세영\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안세영",
+      "title": "\"프랑스\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 프랑스",
       "article_count": 3,
       "source_article": "'대충격! 안세영이 무너졌다' 세계 1위 프랑스오픈 결승서 날벼락!…'인도 11위' 신두에 16-21 첫 게임 헌납→시즌 10승 도전 초비상",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "안세영"
+        "프랑스"
       ],
       "template": "인맥",
       "score": 6.5,
@@ -1633,14 +1801,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"프랑스\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 프랑스",
+      "title": "\"안세영\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안세영",
       "article_count": 3,
       "source_article": "'대충격! 안세영이 무너졌다' 세계 1위 프랑스오픈 결승서 날벼락!…'인도 11위' 신두에 16-21 첫 게임 헌납→시즌 10승 도전 초비상",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "프랑스"
+        "안세영"
       ],
       "template": "인맥",
       "score": 6.5,
@@ -1662,14 +1830,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"안세영\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안세영",
+      "title": "\"프랑스\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 프랑스",
       "article_count": 3,
       "source_article": "'대충격! 안세영이 무너졌다' 세계 1위 프랑스오픈 결승서 날벼락!…'인도 11위' 신두에 16-21 첫 게임 헌납→시즌 10승 도전 초비상",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "안세영"
+        "프랑스"
       ],
       "template": "인맥",
       "score": 6.5,
@@ -1817,7 +1985,7 @@
     {
       "title": "\"구단, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 4,
+      "article_count": 6,
       "source_article": "KIA 때문에 KBO 9개 구단 바빠졌다… 명단 한번 화려하네, ‘방출 신화’로 KIA 겨눌까",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
@@ -1829,7 +1997,7 @@
         "명단"
       ],
       "template": "스포츠 기록",
-      "score": 6.8,
+      "score": 7.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1843,6 +2011,122 @@
           "소속팀",
           "기록 내용",
           "기록 가치"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 4,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"한화\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 한화",
+      "article_count": 3,
+      "source_article": "'류지현 감독 답답하겠네!' 한화, 2안타 빈공+2실책 실점→'日 교육리그' 롯데전 0-7 완봉패…두산 연이틀 우천 취소",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "한화"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"포스트\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 포스트",
+      "article_count": 3,
+      "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 ⚾",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "포스트"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"시즌\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 시즌",
+      "article_count": 3,
+      "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 ⚾",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "시즌"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "초구딱"
@@ -1882,11 +2166,11 @@
       2
     ],
     [
-      "최진실",
+      "방문",
       2
     ],
     [
-      "방문",
+      "최진실",
       2
     ],
     [
@@ -1902,11 +2186,11 @@
       2
     ],
     [
-      "돌아와",
+      "현주",
       2
     ],
     [
-      "현주",
+      "돌아와",
       2
     ],
     [
@@ -1918,11 +2202,11 @@
       2
     ],
     [
-      "미우새",
+      "초호화",
       2
     ],
     [
-      "초호화",
+      "미우새",
       2
     ],
     [
@@ -1936,11 +2220,11 @@
       5
     ],
     [
-      "아내",
+      "양홍원",
       5
     ],
     [
-      "양홍원",
+      "아내",
       5
     ],
     [
@@ -1956,11 +2240,11 @@
       3
     ],
     [
-      "프랑스",
+      "안세영",
       3
     ],
     [
-      "안세영",
+      "프랑스",
       3
     ],
     [
@@ -1972,11 +2256,11 @@
       2
     ],
     [
-      "최진실",
+      "방문",
       2
     ],
     [
-      "방문",
+      "최진실",
       2
     ],
     [
@@ -1992,7 +2276,7 @@
       2
     ]
   ],
-  "total_topics_generated": 13,
-  "valid_topics": 13,
+  "total_topics_generated": 17,
+  "valid_topics": 17,
   "excluded_duplicates": 0
 }
