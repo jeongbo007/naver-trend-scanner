@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-10-25 13:24:26",
+  "scan_time": "2026-10-25 16:52:58",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -8,17 +8,26 @@
     "스포츠 5분 랭킹": 0,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 30
+    "MLB파크 불펜": 0
   },
-  "total_articles": 80,
+  "total_articles": 50,
   "articles": [
+    {
+      "title": "55세 이영애, 충격적인 노 메이크업 근황‥억지 연출 제로",
+      "url": "https://m.entertain.naver.com/article/609/0001181416",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 72844,
+      "rank": 1,
+      "channel": "정보주는하마"
+    },
     {
       "title": "최준희, 결혼 후 故 최진실 묘소 방문…엄마 따라 ‘턱 괴기’ 뭉클",
       "url": "https://m.entertain.naver.com/article/144/0001146180",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 52237,
-      "rank": 1,
+      "views": 51785,
+      "rank": 2,
       "channel": "정보주는하마"
     },
     {
@@ -26,16 +35,7 @@
       "url": "https://m.entertain.naver.com/article/312/0000781444",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 51325,
-      "rank": 2,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "55세 이영애, 충격적인 노 메이크업 근황‥억지 연출 제로",
-      "url": "https://m.entertain.naver.com/article/609/0001181416",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 48784,
+      "views": 51131,
       "rank": 3,
       "channel": "정보주는하마"
     },
@@ -44,7 +44,7 @@
       "url": "https://m.entertain.naver.com/article/445/0000481895",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 41870,
+      "views": 34759,
       "rank": 4,
       "channel": "정보주는하마"
     },
@@ -53,7 +53,7 @@
       "url": "https://m.entertain.naver.com/article/312/0000781423",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 28807,
+      "views": 30191,
       "rank": 5,
       "channel": "정보주는하마"
     },
@@ -62,16 +62,16 @@
       "url": "https://m.entertain.naver.com/article/109/0005628407",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 24287,
+      "views": 29913,
       "rank": 6,
       "channel": "정보주는하마"
     },
     {
-      "title": "이효리 이제 매주 못 본다…JTBC ‘연애전쟁’, 20회 끝으로 시즌 종영",
-      "url": "https://m.entertain.naver.com/article/241/0003537124",
+      "title": "'미우새' 윤미라, 75세 모태 싱글의 초호화 일상…\"서방 없어도 옷방 3개\"",
+      "url": "https://m.entertain.naver.com/article/465/0000020554",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 15094,
+      "views": 18137,
       "rank": 7,
       "channel": "정보주는하마"
     },
@@ -80,8 +80,26 @@
       "url": "https://m.entertain.naver.com/article/382/0001300924",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 14853,
+      "views": 14965,
       "rank": 8,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "이효리 이제 매주 못 본다…JTBC ‘연애전쟁’, 20회 끝으로 시즌 종영",
+      "url": "https://m.entertain.naver.com/article/241/0003537124",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 12167,
+      "rank": 9,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "한다감, 결혼 6년 만에 얻은 아들…차 뒷좌석에 카시트 떡하니 “기분이 묘하네요”",
+      "url": "https://m.entertain.naver.com/article/410/0001144539",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 10722,
+      "rank": 10,
       "channel": "정보주는하마"
     },
     {
@@ -89,25 +107,7 @@
       "url": "https://m.entertain.naver.com/article/108/0003481360",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 11797,
-      "rank": 9,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "“당장 방송 중단하라”…김지원 ‘닥터X’, 5·18 묘사→방영중단 국민청원 시작",
-      "url": "https://m.entertain.naver.com/article/468/0001275115",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 9731,
-      "rank": 10,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'나솔' 28기 광수, 정희와 결별 후…\"외모 안 중요해, 아기같은 여자 좋아\"",
-      "url": "https://m.entertain.naver.com/article/415/0000053083",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 9358,
+      "views": 10624,
       "rank": 11,
       "channel": "정보주는하마"
     },
@@ -116,35 +116,17 @@
       "url": "https://m.entertain.naver.com/article/109/0005628397",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 9227,
+      "views": 9162,
       "rank": 12,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"임신 9개월까지 몰랐다\"는 아내→남편도 \"전체적으로 살쪄서\"…오은영 '경악'('결혼지옥')",
-      "url": "https://m.entertain.naver.com/article/477/0000634919",
+      "title": "“당장 방송 중단하라”…김지원 ‘닥터X’, 5·18 묘사→방영중단 국민청원 시작",
+      "url": "https://m.entertain.naver.com/article/468/0001275115",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 8945,
+      "views": 8963,
       "rank": 13,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'새출발' 알린 송혜교, 공유와 장난치며 다정하게 등장..미소 활짝",
-      "url": "https://m.entertain.naver.com/article/108/0003481348",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 8424,
-      "rank": 14,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"래퍼랑 사귀지마\" 결혼 5일만 불륜설 양홍원, 아내 발언 '성지글' 됐다",
-      "url": "https://m.entertain.naver.com/article/076/0004459137",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 8166,
-      "rank": 15,
       "channel": "정보주는하마"
     },
     {
@@ -152,52 +134,70 @@
       "url": "https://m.entertain.naver.com/article/311/0002072292",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 7929,
+      "views": 8031,
+      "rank": 14,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "지예은♥바타, 초호화 결혼식 라인업…\"사회 유재석, 축가 김종국\" ('런닝맨')",
+      "url": "https://m.entertain.naver.com/article/312/0000781501",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 7891,
+      "rank": 15,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'새출발' 알린 송혜교, 공유와 장난치며 다정하게 등장..미소 활짝",
+      "url": "https://m.entertain.naver.com/article/108/0003481348",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 7864,
       "rank": 16,
       "channel": "정보주는하마"
     },
     {
-      "title": "“돌아와, 현주”…‘불륜 의혹’ 양홍원, 논란 직후 무대서 아내 언급",
-      "url": "https://m.entertain.naver.com/article/468/0001274981",
+      "title": "'나솔' 28기 광수, 정희와 결별 후…\"외모 안 중요해, 아기같은 여자 좋아\"",
+      "url": "https://m.entertain.naver.com/article/415/0000053083",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 7515,
+      "views": 7760,
       "rank": 17,
       "channel": "정보주는하마"
     },
     {
-      "title": "빵 떴던 '양홍원의 육아일기', 불륜 의혹 후 영상 제목서 이름 빠졌다…댓글도 싹 막았다",
-      "url": "https://m.entertain.naver.com/article/311/0002072313",
+      "title": "\"래퍼랑 사귀지마\" 결혼 5일만 불륜설 양홍원, 아내 발언 '성지글' 됐다",
+      "url": "https://m.entertain.naver.com/article/076/0004459137",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 6944,
+      "views": 6898,
       "rank": 18,
       "channel": "정보주는하마"
     },
     {
-      "title": "한다감, 결혼 6년 만에 얻은 아들…차 뒷좌석에 카시트 떡하니 “기분이 묘하네요”",
-      "url": "https://m.entertain.naver.com/article/410/0001144539",
+      "title": "'75세 미혼' 윤미라, 목주름 하나 없는 동안 미모…'비법은 맹물 세안' (미우새)",
+      "url": "https://m.entertain.naver.com/article/311/0002072366",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 6796,
+      "views": 6866,
       "rank": 19,
       "channel": "정보주는하마"
     },
     {
-      "title": "홍진영, 안전벨트 미착용 논란 사전 봉쇄..쫄딱 젖은 채 \"움직이는 차 아냐\"",
-      "url": "https://m.entertain.naver.com/article/109/0005628357",
+      "title": "윤미라, 75세 싱글 라이프 공개…\"120살까지 살 것\"",
+      "url": "https://m.entertain.naver.com/article/421/0009248741",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 6056,
+      "views": 5900,
       "rank": 20,
       "channel": "정보주는하마"
     },
     {
-      "title": "‘소년범 논란’ 조진웅 은퇴 여파 넘었다…‘두 번째 시그널’, 결국 베일 벗는다",
-      "url": "https://m.entertain.naver.com/article/468/0001275016",
+      "title": "양홍원 이름 삭제됐다..불륜 의혹에 ‘육아일기’ 제목 수정·댓글 제한",
+      "url": "https://m.entertain.naver.com/article/076/0004459232",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 5793,
+      "views": 5625,
       "rank": 21,
       "channel": "정보주는하마"
     },
@@ -206,62 +206,17 @@
       "url": "https://m.entertain.naver.com/article/312/0000781434",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 5528,
+      "views": 5461,
       "rank": 22,
       "channel": "정보주는하마"
     },
     {
-      "title": "양홍원 이름 삭제됐다..불륜 의혹에 ‘육아일기’ 제목 수정·댓글 제한",
-      "url": "https://m.entertain.naver.com/article/076/0004459232",
+      "title": "“돌아와, 현주”…‘불륜 의혹’ 양홍원, 논란 직후 무대서 아내 언급",
+      "url": "https://m.entertain.naver.com/article/468/0001274981",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 5242,
+      "views": 5079,
       "rank": 23,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "지예은♥바타, 초호화 결혼식 라인업…\"사회 유재석, 축가 김종국\" ('런닝맨')",
-      "url": "https://m.entertain.naver.com/article/312/0000781501",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 4657,
-      "rank": 24,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "고윤정, 유독 트위드가 잘 어울려…샤넬 입고도 레전드",
-      "url": "https://m.entertain.naver.com/article/311/0002072283",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 4573,
-      "rank": 25,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'남희두 결별설' 이나연, 확 달라진 얼굴? \"보정과 화장\" 직접 답했다",
-      "url": "https://m.entertain.naver.com/article/076/0004459130",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 4569,
-      "rank": 26,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'나솔' 33기 현숙, 다이어트 성공하더니 외모 관리 재미 붙였네…청담동 미용실 방문",
-      "url": "https://m.entertain.naver.com/article/312/0000781459",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 4389,
-      "rank": 27,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "이현이, 존스홉킨스 합격한 첫째 子 교육 비결…\"스케줄 중에도 수학 문제 풀어\"",
-      "url": "https://m.entertain.naver.com/article/076/0004459121",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 4237,
-      "rank": 28,
       "channel": "정보주는하마"
     },
     {
@@ -269,8 +224,35 @@
       "url": "https://m.entertain.naver.com/article/109/0005628449",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 4132,
-      "rank": 29,
+      "views": 4905,
+      "rank": 24,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "정은채, ♥김충재와 가을 데이트? 백만불짜리 미소에 ‘심쿵’",
+      "url": "https://m.entertain.naver.com/article/112/0003811047",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 4843,
+      "rank": 25,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'5월 결혼' 최준희, 故 최진실 묘소 방문…\"엄마한테 힘 받으러\" 먹먹한 고백",
+      "url": "https://m.entertain.naver.com/article/445/0000481945",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 4690,
+      "rank": 26,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "홍진영, 안전벨트 미착용 논란 사전 봉쇄..쫄딱 젖은 채 \"움직이는 차 아냐\"",
+      "url": "https://m.entertain.naver.com/article/109/0005628357",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 4586,
+      "rank": 27,
       "channel": "정보주는하마"
     },
     {
@@ -278,53 +260,35 @@
       "url": "https://m.entertain.naver.com/article/109/0005628533",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 3962,
+      "views": 4513,
+      "rank": 28,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "빵 떴던 '양홍원의 육아일기', 불륜 의혹 후 영상 제목서 이름 빠졌다…댓글도 싹 막았다",
+      "url": "https://m.entertain.naver.com/article/311/0002072313",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 4314,
+      "rank": 29,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "장원영, '영앤리치' 얻은 대가 혹독...또 '태도 논란'→\"악의적 편집\" 갑론을박",
+      "url": "https://m.entertain.naver.com/article/213/0001405880",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 4101,
       "rank": 30,
       "channel": "정보주는하마"
     },
     {
-      "title": "'대충격! 안세영이 무너졌다' 세계 1위 프랑스오픈 결승서 날벼락!…'인도 11위' 신두에 16-21 첫 게임 헌납→시즌 10승 도전 초비상",
+      "title": "'충격 비보' 불가리아 태권도연맹 회장, 자택서 머리에 총 맞고 사망...용의자 3명 긴급 체포 \"평소 알고 지내던 사이\"",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 93293,
+      "views": 580323,
       "rank": 1,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "안세영 50연승 미쳤다! 프랑스 오픈 3연패 위업 달성…66승1패+승률 98.51%, 11위 신두 2-1 뒤집기로 제압+시즌 10번째 트로피",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 24518,
-      "rank": 2,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'절대 1강' 안세영, 프랑스 오픈 3연패…50연승·시즌 10승 달성",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 16662,
-      "rank": 5,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "어수선한 대표팀…모레노 감독이 일주일 먼저 명단 발표하는 이유는",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 15756,
-      "rank": 7,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "한국 0명, 일본 10명 현실화되나...\"토트넘, '개막전 해트트릭' 스즈키 유이토 영입전 선두→유럽 주요 구단과 경쟁\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 13071,
-      "rank": 8,
       "channel": "정보주는하마"
     },
     {
@@ -332,44 +296,71 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 11572,
+      "views": 510283,
+      "rank": 2,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'대충격! 안세영이 무너졌다' 세계 1위 프랑스오픈 결승서 날벼락!…'인도 11위' 신두에 16-21 첫 게임 헌납→시즌 10승 도전 초비상",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 312339,
+      "rank": 5,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'안세영 나와!' 세계 2위 잡은 日 돌풍 신예, 인도 배드민턴 여제 앞에서 멈췄다! 푸살라, 아케치 히나 2-1 격파...프랑스오픈 결승 진출",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 303145,
+      "rank": 6,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "칼 들고 위협, 주먹으로 얼굴 20차례 때려…술병으로 머리 치고 몇시간씩 폭언→\"괴롭힘·폭행 넘어 고문\" B선수 부모가 울먹였다",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 260486,
+      "rank": 8,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "중계진도 경악! \"안세영 무자비해! 벌을 내리는 듯한 스매시\"…인간미 0% '배드민턴 여제'의 AI 샷, 놀라고 감탄했다",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 233339,
+      "rank": 9,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'세계가 놀랐다' 은퇴 선언한 선수 맞나? 최민정, 국가대표 마지막 시즌서 전종목 예선 조 1위로 통과",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 232052,
+      "rank": 10,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "어수선한 대표팀…모레노 감독이 일주일 먼저 명단 발표하는 이유는",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 220978,
       "rank": 12,
       "channel": "정보주는하마"
     },
     {
-      "title": "'대충격 뒤 대역전! 역시 안세영은 안세영' 16-21 충격패 당하더니 21-11→21-12 대반격…인도 신두 꺾고 '50연승+시즌 10승+프랑스오픈 3연패' 대위업",
+      "title": "롯데의 ‘대반전’…신임 단장에 이택근 해설위원 선임",
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 10216,
+      "views": 156574,
       "rank": 14,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'전 세계가 덤벼도 안세영을 못 이긴다' 충격의 50연승 달성!...시즌 66승 1패, 프랑스오픈 3연패까지 '역사적 대관식'",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 9856,
-      "rank": 15,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'1조5900억 파산' 메이웨더, 넷플릭스 계약으로 다시 돈방석? \"파퀴아오+가르시아 2연전 계약 추진\", \"스포츠 새 역사 쓸 수도\"",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 9242,
-      "rank": 16,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "패배 잊은 안세영, 50연승·프랑스오픈 3연패…‘전설’ 기록도 가시권",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 8386,
-      "rank": 17,
       "channel": "정보주는하마"
     },
     {
@@ -377,7 +368,16 @@
       "url": "",
       "source": "스포츠 많이 본 뉴스",
       "category": "스포츠",
-      "views": 8035,
+      "views": 151070,
+      "rank": 15,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "나이 마흔에 10대와 재혼을 해? 논란의 日 격투기 챔피언, 아내 덕에 살아났다? “주식을 열심히 해서…”",
+      "url": "",
+      "source": "스포츠 많이 본 뉴스",
+      "category": "스포츠",
+      "views": 131371,
       "rank": 19,
       "channel": "정보주는하마"
     }
@@ -387,170 +387,21 @@
       "article_count": 41,
       "topics": [
         {
-          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 4,
-          "source_article": "“돌아와, 현주”…‘불륜 의혹’ 양홍원, 논란 직후 무대서 아내 언급",
-          "source_url": "https://m.entertain.naver.com/article/468/0001274981",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "돌아와",
-            "현주",
-            "불륜",
-            "의혹",
-            "양홍원"
-          ],
-          "template": "논란 집합",
-          "score": 7.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"프랑스\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 프랑스",
-          "article_count": 7,
-          "source_article": "'대충격! 안세영이 무너졌다' 세계 1위 프랑스오픈 결승서 날벼락!…'인도 11위' 신두에 16-21 첫 게임 헌납→시즌 10승 도전 초비상",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "프랑스"
-          ],
-          "template": "인맥",
-          "score": 7.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"안세영\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 안세영",
-          "article_count": 6,
-          "source_article": "'대충격! 안세영이 무너졌다' 세계 1위 프랑스오픈 결승서 날벼락!…'인도 11위' 신두에 16-21 첫 게임 헌납→시즌 10승 도전 초비상",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "안세영"
-          ],
-          "template": "인맥",
-          "score": 7.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"오픈\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 오픈",
-          "article_count": 6,
-          "source_article": "'대충격! 안세영이 무너졌다' 세계 1위 프랑스오픈 결승서 날벼락!…'인도 11위' 신두에 16-21 첫 게임 헌납→시즌 10승 도전 초비상",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "오픈"
-          ],
-          "template": "인맥",
-          "score": 7.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"시즌\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 시즌",
-          "article_count": 6,
-          "source_article": "이효리 이제 매주 못 본다…JTBC ‘연애전쟁’, 20회 끝으로 시즌 종영",
-          "source_url": "https://m.entertain.naver.com/article/241/0003537124",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "시즌"
-          ],
-          "template": "인맥",
-          "score": 6.9,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
           "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
           "angle_type": "결혼·이혼",
-          "article_count": 7,
-          "source_article": "최준희, 결혼 후 故 최진실 묘소 방문…엄마 따라 ‘턱 괴기’ 뭉클",
-          "source_url": "https://m.entertain.naver.com/article/144/0001146180",
-          "source_name": "엔터 많이 본 뉴스",
+          "article_count": 8,
+          "source_article": "나이 마흔에 10대와 재혼을 해? 논란의 日 격투기 챔피언, 아내 덕에 살아났다? “주식을 열심히 해서…”",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "결혼",
-            "임신",
-            "몰랐다",
-            "오은영",
-            "결혼지"
+            "최준희",
+            "최진실",
+            "묘소",
+            "방문"
           ],
           "template": "결혼 화제",
-          "score": 6.8,
+          "score": 7.6,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -569,20 +420,86 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 2,
-          "source_article": "'1조5900억 파산' 메이웨더, 넷플릭스 계약으로 다시 돈방석? \"파퀴아오+가르시아 2연전 계약 추진\", \"스포츠 새 역사 쓸 수도\"",
+          "title": "\"아내까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 5,
+          "source_article": "나이 마흔에 10대와 재혼을 해? 논란의 日 격투기 챔피언, 아내 덕에 살아났다? “주식을 열심히 해서…”",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
+            "아내",
             "밝히는",
             "추해",
             "비난",
-            "쏟아졌",
-            "는데"
+            "쏟아졌"
           ],
-          "template": "자산 서열",
+          "template": "논란 집합",
+          "score": 7.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 4,
+          "source_article": "'세계가 놀랐다' 은퇴 선언한 선수 맞나? 최민정, 국가대표 마지막 시즌서 전종목 예선 조 1위로 통과",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "근황",
+            "이영애",
+            "충격적",
+            "메이크",
+            "억지"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.6,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+          "angle_type": "투병·건강",
+          "article_count": 3,
+          "source_article": "'충격 비보' 불가리아 태권도연맹 회장, 자택서 머리에 총 맞고 사망...용의자 3명 긴급 체포 \"평소 알고 지내던 사이\"",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "임신",
+            "사망",
+            "암인",
+            "개월간",
+            "몰랐다"
+          ],
+          "template": "투병 극복",
           "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
@@ -594,9 +511,9 @@
           "table": {
             "headers": [
               "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
+              "투병 질환",
+              "공백기",
+              "복귀 작품"
             ]
           },
           "channel": "정보주는하마"
@@ -610,93 +527,6 @@
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "양홍원"
-          ],
-          "template": "논란 집합",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"아내, 대체 무슨 일이?\" 아내 관련 이슈 총정리",
-          "angle_type": "👤 아내",
-          "article_count": 5,
-          "source_article": "아내 원현주 SNS 사진 싹 내렸는데→양홍원, 라이브 무대 중 \"돌아와, 현주\" 외쳐",
-          "source_url": "https://m.entertain.naver.com/article/445/0000481895",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "아내"
-          ],
-          "template": "논란 집합",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"연승\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 연승",
-          "article_count": 5,
-          "source_article": "안세영 50연승 미쳤다! 프랑스 오픈 3연패 위업 달성…66승1패+승률 98.51%, 11위 신두 2-1 뒤집기로 제압+시즌 10번째 트로피",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "연승"
-          ],
-          "template": "인맥",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"불륜, 대체 무슨 일이?\" 불륜 관련 이슈 총정리",
-          "angle_type": "👤 불륜",
-          "article_count": 3,
-          "source_article": "“돌아와, 현주”…‘불륜 의혹’ 양홍원, 논란 직후 무대서 아내 언급",
-          "source_url": "https://m.entertain.naver.com/article/468/0001274981",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "불륜"
           ],
           "template": "논란 집합",
           "score": 6.5,
@@ -747,79 +577,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 4,
-          "source_article": "55세 이영애, 충격적인 노 메이크업 근황‥억지 연출 제로",
-          "source_url": "https://m.entertain.naver.com/article/609/0001181416",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "근황",
-            "이영애",
-            "충격적",
-            "메이크",
-            "억지"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 6.2,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"연패\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 연패",
-          "article_count": 4,
-          "source_article": "안세영 50연승 미쳤다! 프랑스 오픈 3연패 위업 달성…66승1패+승률 98.51%, 11위 신두 2-1 뒤집기로 제압+시즌 10번째 트로피",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "연패"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"달성\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 달성",
+          "title": "\"프랑스\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 프랑스",
           "article_count": 3,
-          "source_article": "안세영 50연승 미쳤다! 프랑스 오픈 3연패 위업 달성…66승1패+승률 98.51%, 11위 신두 2-1 뒤집기로 제압+시즌 10번째 트로피",
+          "source_article": "'대충격! 안세영이 무너졌다' 세계 1위 프랑스오픈 결승서 날벼락!…'인도 11위' 신두에 16-21 첫 게임 헌납→시즌 10승 도전 초비상",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "달성"
+            "프랑스"
           ],
           "template": "인맥",
-          "score": 6.0,
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -838,21 +606,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-          "angle_type": "투병·건강",
-          "article_count": 2,
-          "source_article": "“암인 줄” 9개월간 임신 몰랐다…임신 확인 30분만에 출산 ‘오은영 경악’(‘결혼지옥’)",
-          "source_url": "https://m.entertain.naver.com/article/109/0005628397",
-          "source_name": "엔터 많이 본 뉴스",
+          "title": "\"안세영\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안세영",
+          "article_count": 3,
+          "source_article": "'대충격! 안세영이 무너졌다' 세계 1위 프랑스오픈 결승서 날벼락!…'인도 11위' 신두에 16-21 첫 게임 헌납→시즌 10승 도전 초비상",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "임신",
-            "암인",
-            "개월간",
-            "몰랐다",
-            "분만에"
+            "안세영"
           ],
-          "template": "투병 극복",
-          "score": 5.8,
+          "template": "인맥",
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -863,29 +627,29 @@
           "table": {
             "headers": [
               "이름",
-              "투병 질환",
-              "공백기",
-              "복귀 작품"
+              "분류",
+              "이슈 내용",
+              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+          "title": "\"선수, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 2,
-          "source_article": "어수선한 대표팀…모레노 감독이 일주일 먼저 명단 발표하는 이유는",
+          "article_count": 4,
+          "source_article": "칼 들고 위협, 주먹으로 얼굴 20차례 때려…술병으로 머리 치고 몇시간씩 폭언→\"괴롭힘·폭행 넘어 고문\" B선수 부모가 울먹였다",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
-            "어수선",
-            "대표팀",
-            "모레노",
-            "감독이",
-            "일주일"
+            "선수",
+            "들고",
+            "위협",
+            "주먹으",
+            "얼굴"
           ],
           "template": "스포츠 기록",
-          "score": 5.8,
+          "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -902,40 +666,115 @@
             ]
           },
           "channel": "정보주는하마"
+        },
+        {
+          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+          "angle_type": "가족·혈연",
+          "article_count": 2,
+          "source_article": "칼 들고 위협, 주먹으로 얼굴 20차례 때려…술병으로 머리 치고 몇시간씩 폭언→\"괴롭힘·폭행 넘어 고문\" B선수 부모가 울먹였다",
+          "source_url": "",
+          "source_name": "스포츠 많이 본 뉴스",
+          "related_names": [
+            "한다감",
+            "결혼",
+            "얻은",
+            "아들",
+            "뒷좌석"
+          ],
+          "template": "동갑내기",
+          "score": 6.1,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "나이",
+              "대표작",
+              "현재 활동"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"윤미라\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 윤미라",
+          "article_count": 3,
+          "source_article": "'미우새' 윤미라, 75세 모태 싱글의 초호화 일상…\"서방 없어도 옷방 3개\"",
+          "source_url": "https://m.entertain.naver.com/article/465/0000020554",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "윤미라"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"불륜, 대체 무슨 일이?\" 불륜 관련 이슈 총정리",
+          "angle_type": "👤 불륜",
+          "article_count": 3,
+          "source_article": "양홍원 이름 삭제됐다..불륜 의혹에 ‘육아일기’ 제목 수정·댓글 제한",
+          "source_url": "https://m.entertain.naver.com/article/076/0004459232",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "불륜"
+          ],
+          "template": "논란 집합",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
         }
       ],
       "keyword_freq": [
         [
-          "시즌",
-          6
+          "결혼",
+          5
         ],
         [
           "아내",
           5
         ],
         [
-          "연승",
-          5
-        ],
-        [
-          "결혼",
-          4
-        ],
-        [
           "양홍원",
           4
         ],
         [
-          "프랑스오픈",
-          4
-        ],
-        [
-          "안세영",
-          4
-        ],
-        [
-          "연패",
-          4
+          "윤미라",
+          3
         ],
         [
           "불륜",
@@ -946,23 +785,31 @@
           3
         ],
         [
-          "달성",
+          "선수",
           3
         ],
         [
-          "프랑스",
-          3
+          "근황",
+          2
+        ],
+        [
+          "최진실",
+          2
         ],
         [
           "방문",
           2
         ],
         [
-          "좋아",
+          "묘소",
           2
         ],
         [
-          "근황",
+          "최준희",
+          2
+        ],
+        [
+          "좋아",
           2
         ],
         [
@@ -982,29 +829,21 @@
           2
         ],
         [
-          "발언",
+          "미우새",
+          2
+        ],
+        [
+          "초호화",
+          2
+        ],
+        [
+          "고백",
           2
         ]
       ],
       "name_freq": [
         [
-          "프랑스",
-          7
-        ],
-        [
-          "시즌",
-          6
-        ],
-        [
-          "안세영",
-          6
-        ],
-        [
-          "오픈",
-          6
-        ],
-        [
-          "양홍원",
+          "결혼",
           5
         ],
         [
@@ -1012,16 +851,12 @@
           5
         ],
         [
-          "연승",
+          "양홍원",
           5
         ],
         [
-          "결혼",
-          4
-        ],
-        [
-          "연패",
-          4
+          "윤미라",
+          3
         ],
         [
           "불륜",
@@ -1032,34 +867,50 @@
           3
         ],
         [
-          "달성",
+          "프랑스",
           3
+        ],
+        [
+          "안세영",
+          3
+        ],
+        [
+          "선수",
+          3
+        ],
+        [
+          "근황",
+          2
+        ],
+        [
+          "최진실",
+          2
         ],
         [
           "방문",
           2
         ],
         [
-          "좋아",
+          "묘소",
           2
         ],
         [
-          "근황",
+          "최준희",
+          2
+        ],
+        [
+          "좋아",
           2
         ]
       ],
       "angle_scores": [
         [
-          "자산·몸값",
-          2
-        ],
-        [
           "논란·사건",
-          4
+          5
         ],
         [
           "결혼·이혼",
-          7
+          8
         ],
         [
           "복귀·근황",
@@ -1067,33 +918,37 @@
         ],
         [
           "투병·건강",
-          2
+          3
         ],
         [
           "스포츠",
+          4
+        ],
+        [
+          "가족·혈연",
           2
         ]
       ]
     },
     "초구딱": {
-      "article_count": 39,
+      "article_count": 9,
       "topics": [
         {
           "title": "\"구단, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
           "angle_type": "스포츠",
-          "article_count": 6,
+          "article_count": 4,
           "source_article": "KIA 때문에 KBO 9개 구단 바빠졌다… 명단 한번 화려하네, ‘방출 신화’로 KIA 겨눌까",
           "source_url": "",
           "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "구단",
             "방출",
-            "감독",
-            "이든",
-            "때문에"
+            "때문에",
+            "바빠졌",
+            "명단"
           ],
           "template": "스포츠 기록",
-          "score": 7.3,
+          "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -1110,479 +965,125 @@
             ]
           },
           "channel": "초구딱"
-        },
-        {
-          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 2,
-          "source_article": "KBO 구단 저격→韓 복귀 사실상 불가능인데…미국에서 방출 통보, 선수 생활 최대 위기",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "구단",
-            "저격",
-            "사실상",
-            "불가능",
-            "인데"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 6.6,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"안내\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 안내",
-          "article_count": 4,
-          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "안내"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"이택근\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 이택근",
-          "article_count": 3,
-          "source_article": "롯데, 이택근 단장 선임설에 \"면접 본 것은 사실→그 외 결정된 것 없어\"",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "이택근"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"시즌\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 시즌",
-          "article_count": 3,
-          "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 ⚾",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "시즌"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"포스트\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 포스트",
-          "article_count": 3,
-          "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 ⚾",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "포스트"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
         [
-          "안내",
-          4
-        ],
-        [
           "구단",
-          3
-        ],
-        [
-          "포스트시즌",
-          3
+          4
         ],
         [
           "방출",
           2
         ],
         [
-          "감독",
-          2
-        ],
-        [
-          "이택근",
-          2
-        ],
-        [
-          "것은",
-          2
-        ],
-        [
-          "롯데",
-          2
-        ],
-        [
-          "면접",
-          2
-        ],
-        [
-          "결정된",
-          2
-        ],
-        [
-          "단장",
-          2
-        ],
-        [
-          "조치",
-          2
-        ],
-        [
-          "이미지",
-          2
-        ],
-        [
-          "대진표",
-          2
-        ],
-        [
-          "내가",
-          2
-        ],
-        [
-          "가겠다",
+          "화려하네",
           1
         ],
         [
-          "마쓰이",
+          "한번",
           1
         ],
         [
-          "등록",
+          "바빠졌다",
           1
         ],
         [
-          "바꿀까",
+          "때문에",
           1
         ],
         [
-          "괴물",
+          "명단",
+          1
+        ],
+        [
+          "신화",
+          1
+        ],
+        [
+          "겨눌까",
+          1
+        ],
+        [
+          "불가능인데",
+          1
+        ],
+        [
+          "통보",
+          1
+        ],
+        [
+          "저격",
+          1
+        ],
+        [
+          "사실상",
+          1
+        ],
+        [
+          "미국에서",
+          1
+        ],
+        [
+          "선수",
+          1
+        ],
+        [
+          "위기",
+          1
+        ],
+        [
+          "돌아왔는데",
+          1
+        ],
+        [
+          "시간이",
+          1
+        ],
+        [
+          "년의",
+          1
+        ],
+        [
+          "남긴",
           1
         ]
       ],
       "name_freq": [
         [
-          "안내",
+          "구단",
           4
         ],
         [
-          "구단",
-          3
-        ],
-        [
-          "이택근",
-          3
-        ],
-        [
-          "시즌",
-          3
-        ],
-        [
-          "포스트",
-          3
-        ],
-        [
           "방출",
-          2
-        ],
-        [
-          "감독",
-          2
-        ],
-        [
-          "리그",
-          2
-        ],
-        [
-          "것은",
-          2
-        ],
-        [
-          "롯데",
-          2
-        ],
-        [
-          "면접",
-          2
-        ],
-        [
-          "결정된",
-          2
-        ],
-        [
-          "단장",
-          2
-        ],
-        [
-          "조치",
-          2
-        ],
-        [
-          "이미지",
           2
         ]
       ],
       "angle_scores": [
         [
-          "복귀·근황",
-          2
-        ],
-        [
           "스포츠",
-          6
+          4
         ]
       ]
     }
   },
   "topics": [
     {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 4,
-      "source_article": "“돌아와, 현주”…‘불륜 의혹’ 양홍원, 논란 직후 무대서 아내 언급",
-      "source_url": "https://m.entertain.naver.com/article/468/0001274981",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "돌아와",
-        "현주",
-        "불륜",
-        "의혹",
-        "양홍원"
-      ],
-      "template": "논란 집합",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"프랑스\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 프랑스",
-      "article_count": 7,
-      "source_article": "'대충격! 안세영이 무너졌다' 세계 1위 프랑스오픈 결승서 날벼락!…'인도 11위' 신두에 16-21 첫 게임 헌납→시즌 10승 도전 초비상",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "프랑스"
-      ],
-      "template": "인맥",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"안세영\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안세영",
-      "article_count": 6,
-      "source_article": "'대충격! 안세영이 무너졌다' 세계 1위 프랑스오픈 결승서 날벼락!…'인도 11위' 신두에 16-21 첫 게임 헌납→시즌 10승 도전 초비상",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "안세영"
-      ],
-      "template": "인맥",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"오픈\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 오픈",
-      "article_count": 6,
-      "source_article": "'대충격! 안세영이 무너졌다' 세계 1위 프랑스오픈 결승서 날벼락!…'인도 11위' 신두에 16-21 첫 게임 헌납→시즌 10승 도전 초비상",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "오픈"
-      ],
-      "template": "인맥",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"시즌\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 시즌",
-      "article_count": 6,
-      "source_article": "이효리 이제 매주 못 본다…JTBC ‘연애전쟁’, 20회 끝으로 시즌 종영",
-      "source_url": "https://m.entertain.naver.com/article/241/0003537124",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "시즌"
-      ],
-      "template": "인맥",
-      "score": 6.9,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
       "angle_type": "결혼·이혼",
-      "article_count": 7,
-      "source_article": "최준희, 결혼 후 故 최진실 묘소 방문…엄마 따라 ‘턱 괴기’ 뭉클",
-      "source_url": "https://m.entertain.naver.com/article/144/0001146180",
-      "source_name": "엔터 많이 본 뉴스",
+      "article_count": 8,
+      "source_article": "나이 마흔에 10대와 재혼을 해? 논란의 日 격투기 챔피언, 아내 덕에 살아났다? “주식을 열심히 해서…”",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "결혼",
-        "임신",
-        "몰랐다",
-        "오은영",
-        "결혼지"
+        "최준희",
+        "최진실",
+        "묘소",
+        "방문"
       ],
       "template": "결혼 화제",
-      "score": 6.8,
+      "score": 7.6,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1601,874 +1102,20 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 2,
-      "source_article": "'1조5900억 파산' 메이웨더, 넷플릭스 계약으로 다시 돈방석? \"파퀴아오+가르시아 2연전 계약 추진\", \"스포츠 새 역사 쓸 수도\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "밝히는",
-        "추해",
-        "비난",
-        "쏟아졌",
-        "는데"
-      ],
-      "template": "자산 서열",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"양홍원, 대체 무슨 일이?\" 양홍원 관련 이슈 총정리",
-      "angle_type": "👤 양홍원",
-      "article_count": 5,
-      "source_article": "아내 원현주 SNS 사진 싹 내렸는데→양홍원, 라이브 무대 중 \"돌아와, 현주\" 외쳐",
-      "source_url": "https://m.entertain.naver.com/article/445/0000481895",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "양홍원"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"아내, 대체 무슨 일이?\" 아내 관련 이슈 총정리",
-      "angle_type": "👤 아내",
-      "article_count": 5,
-      "source_article": "아내 원현주 SNS 사진 싹 내렸는데→양홍원, 라이브 무대 중 \"돌아와, 현주\" 외쳐",
-      "source_url": "https://m.entertain.naver.com/article/445/0000481895",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "아내"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"연승\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 연승",
-      "article_count": 5,
-      "source_article": "안세영 50연승 미쳤다! 프랑스 오픈 3연패 위업 달성…66승1패+승률 98.51%, 11위 신두 2-1 뒤집기로 제압+시즌 10번째 트로피",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "연승"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"불륜, 대체 무슨 일이?\" 불륜 관련 이슈 총정리",
-      "angle_type": "👤 불륜",
-      "article_count": 3,
-      "source_article": "“돌아와, 현주”…‘불륜 의혹’ 양홍원, 논란 직후 무대서 아내 언급",
-      "source_url": "https://m.entertain.naver.com/article/468/0001274981",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "불륜"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"의혹, 대체 무슨 일이?\" 의혹 관련 이슈 총정리",
-      "angle_type": "👤 의혹",
-      "article_count": 3,
-      "source_article": "“돌아와, 현주”…‘불륜 의혹’ 양홍원, 논란 직후 무대서 아내 언급",
-      "source_url": "https://m.entertain.naver.com/article/468/0001274981",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "의혹"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 4,
-      "source_article": "55세 이영애, 충격적인 노 메이크업 근황‥억지 연출 제로",
-      "source_url": "https://m.entertain.naver.com/article/609/0001181416",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "근황",
-        "이영애",
-        "충격적",
-        "메이크",
-        "억지"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 6.2,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"연패\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 연패",
-      "article_count": 4,
-      "source_article": "안세영 50연승 미쳤다! 프랑스 오픈 3연패 위업 달성…66승1패+승률 98.51%, 11위 신두 2-1 뒤집기로 제압+시즌 10번째 트로피",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "연패"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"달성\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 달성",
-      "article_count": 3,
-      "source_article": "안세영 50연승 미쳤다! 프랑스 오픈 3연패 위업 달성…66승1패+승률 98.51%, 11위 신두 2-1 뒤집기로 제압+시즌 10번째 트로피",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "달성"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-      "angle_type": "투병·건강",
-      "article_count": 2,
-      "source_article": "“암인 줄” 9개월간 임신 몰랐다…임신 확인 30분만에 출산 ‘오은영 경악’(‘결혼지옥’)",
-      "source_url": "https://m.entertain.naver.com/article/109/0005628397",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "임신",
-        "암인",
-        "개월간",
-        "몰랐다",
-        "분만에"
-      ],
-      "template": "투병 극복",
-      "score": 5.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "투병 질환",
-          "공백기",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 2,
-      "source_article": "어수선한 대표팀…모레노 감독이 일주일 먼저 명단 발표하는 이유는",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "어수선",
-        "대표팀",
-        "모레노",
-        "감독이",
-        "일주일"
-      ],
-      "template": "스포츠 기록",
-      "score": 5.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
-      "channel": "정보주는하마"
-    }
-  ],
-  "all_topics": [
-    {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "title": "\"아내까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
       "angle_type": "논란·사건",
-      "article_count": 4,
-      "source_article": "“돌아와, 현주”…‘불륜 의혹’ 양홍원, 논란 직후 무대서 아내 언급",
-      "source_url": "https://m.entertain.naver.com/article/468/0001274981",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "돌아와",
-        "현주",
-        "불륜",
-        "의혹",
-        "양홍원"
-      ],
-      "template": "논란 집합",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"프랑스\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 프랑스",
-      "article_count": 7,
-      "source_article": "'대충격! 안세영이 무너졌다' 세계 1위 프랑스오픈 결승서 날벼락!…'인도 11위' 신두에 16-21 첫 게임 헌납→시즌 10승 도전 초비상",
+      "article_count": 5,
+      "source_article": "나이 마흔에 10대와 재혼을 해? 논란의 日 격투기 챔피언, 아내 덕에 살아났다? “주식을 열심히 해서…”",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "프랑스"
-      ],
-      "template": "인맥",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"안세영\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안세영",
-      "article_count": 6,
-      "source_article": "'대충격! 안세영이 무너졌다' 세계 1위 프랑스오픈 결승서 날벼락!…'인도 11위' 신두에 16-21 첫 게임 헌납→시즌 10승 도전 초비상",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "안세영"
-      ],
-      "template": "인맥",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"오픈\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 오픈",
-      "article_count": 6,
-      "source_article": "'대충격! 안세영이 무너졌다' 세계 1위 프랑스오픈 결승서 날벼락!…'인도 11위' 신두에 16-21 첫 게임 헌납→시즌 10승 도전 초비상",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "오픈"
-      ],
-      "template": "인맥",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"시즌\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 시즌",
-      "article_count": 6,
-      "source_article": "이효리 이제 매주 못 본다…JTBC ‘연애전쟁’, 20회 끝으로 시즌 종영",
-      "source_url": "https://m.entertain.naver.com/article/241/0003537124",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "시즌"
-      ],
-      "template": "인맥",
-      "score": 6.9,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 7,
-      "source_article": "최준희, 결혼 후 故 최진실 묘소 방문…엄마 따라 ‘턱 괴기’ 뭉클",
-      "source_url": "https://m.entertain.naver.com/article/144/0001146180",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "결혼",
-        "임신",
-        "몰랐다",
-        "오은영",
-        "결혼지"
-      ],
-      "template": "결혼 화제",
-      "score": 6.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 2,
-      "source_article": "'1조5900억 파산' 메이웨더, 넷플릭스 계약으로 다시 돈방석? \"파퀴아오+가르시아 2연전 계약 추진\", \"스포츠 새 역사 쓸 수도\"",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
+        "아내",
         "밝히는",
         "추해",
         "비난",
-        "쏟아졌",
-        "는데"
-      ],
-      "template": "자산 서열",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"양홍원, 대체 무슨 일이?\" 양홍원 관련 이슈 총정리",
-      "angle_type": "👤 양홍원",
-      "article_count": 5,
-      "source_article": "아내 원현주 SNS 사진 싹 내렸는데→양홍원, 라이브 무대 중 \"돌아와, 현주\" 외쳐",
-      "source_url": "https://m.entertain.naver.com/article/445/0000481895",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "양홍원"
+        "쏟아졌"
       ],
       "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"아내, 대체 무슨 일이?\" 아내 관련 이슈 총정리",
-      "angle_type": "👤 아내",
-      "article_count": 5,
-      "source_article": "아내 원현주 SNS 사진 싹 내렸는데→양홍원, 라이브 무대 중 \"돌아와, 현주\" 외쳐",
-      "source_url": "https://m.entertain.naver.com/article/445/0000481895",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "아내"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"연승\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 연승",
-      "article_count": 5,
-      "source_article": "안세영 50연승 미쳤다! 프랑스 오픈 3연패 위업 달성…66승1패+승률 98.51%, 11위 신두 2-1 뒤집기로 제압+시즌 10번째 트로피",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "연승"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"불륜, 대체 무슨 일이?\" 불륜 관련 이슈 총정리",
-      "angle_type": "👤 불륜",
-      "article_count": 3,
-      "source_article": "“돌아와, 현주”…‘불륜 의혹’ 양홍원, 논란 직후 무대서 아내 언급",
-      "source_url": "https://m.entertain.naver.com/article/468/0001274981",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "불륜"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"의혹, 대체 무슨 일이?\" 의혹 관련 이슈 총정리",
-      "angle_type": "👤 의혹",
-      "article_count": 3,
-      "source_article": "“돌아와, 현주”…‘불륜 의혹’ 양홍원, 논란 직후 무대서 아내 언급",
-      "source_url": "https://m.entertain.naver.com/article/468/0001274981",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "의혹"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 4,
-      "source_article": "55세 이영애, 충격적인 노 메이크업 근황‥억지 연출 제로",
-      "source_url": "https://m.entertain.naver.com/article/609/0001181416",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "근황",
-        "이영애",
-        "충격적",
-        "메이크",
-        "억지"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 6.2,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"연패\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 연패",
-      "article_count": 4,
-      "source_article": "안세영 50연승 미쳤다! 프랑스 오픈 3연패 위업 달성…66승1패+승률 98.51%, 11위 신두 2-1 뒤집기로 제압+시즌 10번째 트로피",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "연패"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"달성\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 달성",
-      "article_count": 3,
-      "source_article": "안세영 50연승 미쳤다! 프랑스 오픈 3연패 위업 달성…66승1패+승률 98.51%, 11위 신두 2-1 뒤집기로 제압+시즌 10번째 트로피",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "달성"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-      "angle_type": "투병·건강",
-      "article_count": 2,
-      "source_article": "“암인 줄” 9개월간 임신 몰랐다…임신 확인 30분만에 출산 ‘오은영 경악’(‘결혼지옥’)",
-      "source_url": "https://m.entertain.naver.com/article/109/0005628397",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "임신",
-        "암인",
-        "개월간",
-        "몰랐다",
-        "분만에"
-      ],
-      "template": "투병 극복",
-      "score": 5.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "투병 질환",
-          "공백기",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 2,
-      "source_article": "어수선한 대표팀…모레노 감독이 일주일 먼저 명단 발표하는 이유는",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "어수선",
-        "대표팀",
-        "모레노",
-        "감독이",
-        "일주일"
-      ],
-      "template": "스포츠 기록",
-      "score": 5.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"구단, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 6,
-      "source_article": "KIA 때문에 KBO 9개 구단 바빠졌다… 명단 한번 화려하네, ‘방출 신화’로 KIA 겨눌까",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "구단",
-        "방출",
-        "감독",
-        "이든",
-        "때문에"
-      ],
-      "template": "스포츠 기록",
       "score": 7.3,
       "dup_check": {
         "is_duplicate": false,
@@ -2479,27 +1126,27 @@
       },
       "table": {
         "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
-      "channel": "초구딱"
+      "channel": "정보주는하마"
     },
     {
-      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
       "angle_type": "복귀·근황",
-      "article_count": 2,
-      "source_article": "KBO 구단 저격→韓 복귀 사실상 불가능인데…미국에서 방출 통보, 선수 생활 최대 위기",
+      "article_count": 4,
+      "source_article": "'세계가 놀랐다' 은퇴 선언한 선수 맞나? 최민정, 국가대표 마지막 시즌서 전종목 예선 조 1위로 통과",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "구단",
-        "저격",
-        "사실상",
-        "불가능",
-        "인데"
+        "근황",
+        "이영애",
+        "충격적",
+        "메이크",
+        "억지"
       ],
       "template": "장기 공백 복귀",
       "score": 6.6,
@@ -2518,46 +1165,232 @@
           "복귀 작품"
         ]
       },
-      "channel": "초구딱"
+      "channel": "정보주는하마"
     },
     {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
-      "article_count": 4,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "안내"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"이택근\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 이택근",
+      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+      "angle_type": "투병·건강",
       "article_count": 3,
-      "source_article": "롯데, 이택근 단장 선임설에 \"면접 본 것은 사실→그 외 결정된 것 없어\"",
+      "source_article": "'충격 비보' 불가리아 태권도연맹 회장, 자택서 머리에 총 맞고 사망...용의자 3명 긴급 체포 \"평소 알고 지내던 사이\"",
       "source_url": "",
       "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
-        "이택근"
+        "임신",
+        "사망",
+        "암인",
+        "개월간",
+        "몰랐다"
+      ],
+      "template": "투병 극복",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "투병 질환",
+          "공백기",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"양홍원, 대체 무슨 일이?\" 양홍원 관련 이슈 총정리",
+      "angle_type": "👤 양홍원",
+      "article_count": 5,
+      "source_article": "아내 원현주 SNS 사진 싹 내렸는데→양홍원, 라이브 무대 중 \"돌아와, 현주\" 외쳐",
+      "source_url": "https://m.entertain.naver.com/article/445/0000481895",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "양홍원"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"의혹, 대체 무슨 일이?\" 의혹 관련 이슈 총정리",
+      "angle_type": "👤 의혹",
+      "article_count": 3,
+      "source_article": "“돌아와, 현주”…‘불륜 의혹’ 양홍원, 논란 직후 무대서 아내 언급",
+      "source_url": "https://m.entertain.naver.com/article/468/0001274981",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "의혹"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"프랑스\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 프랑스",
+      "article_count": 3,
+      "source_article": "'대충격! 안세영이 무너졌다' 세계 1위 프랑스오픈 결승서 날벼락!…'인도 11위' 신두에 16-21 첫 게임 헌납→시즌 10승 도전 초비상",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "프랑스"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"안세영\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안세영",
+      "article_count": 3,
+      "source_article": "'대충격! 안세영이 무너졌다' 세계 1위 프랑스오픈 결승서 날벼락!…'인도 11위' 신두에 16-21 첫 게임 헌납→시즌 10승 도전 초비상",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "안세영"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"선수, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 4,
+      "source_article": "칼 들고 위협, 주먹으로 얼굴 20차례 때려…술병으로 머리 치고 몇시간씩 폭언→\"괴롭힘·폭행 넘어 고문\" B선수 부모가 울먹였다",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "선수",
+        "들고",
+        "위협",
+        "주먹으",
+        "얼굴"
+      ],
+      "template": "스포츠 기록",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 2,
+      "source_article": "칼 들고 위협, 주먹으로 얼굴 20차례 때려…술병으로 머리 치고 몇시간씩 폭언→\"괴롭힘·폭행 넘어 고문\" B선수 부모가 울먹였다",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "한다감",
+        "결혼",
+        "얻은",
+        "아들",
+        "뒷좌석"
+      ],
+      "template": "동갑내기",
+      "score": 6.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "나이",
+          "대표작",
+          "현재 활동"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"윤미라\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 윤미라",
+      "article_count": 3,
+      "source_article": "'미우새' 윤미라, 75세 모태 싱글의 초호화 일상…\"서방 없어도 옷방 3개\"",
+      "source_url": "https://m.entertain.naver.com/article/465/0000020554",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "윤미라"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -2576,17 +1409,362 @@
           "현재 상황"
         ]
       },
-      "channel": "초구딱"
+      "channel": "정보주는하마"
     },
     {
-      "title": "\"시즌\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 시즌",
+      "title": "\"불륜, 대체 무슨 일이?\" 불륜 관련 이슈 총정리",
+      "angle_type": "👤 불륜",
       "article_count": 3,
-      "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 ⚾",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
-      "source_name": "MLB파크 불펜",
+      "source_article": "양홍원 이름 삭제됐다..불륜 의혹에 ‘육아일기’ 제목 수정·댓글 제한",
+      "source_url": "https://m.entertain.naver.com/article/076/0004459232",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "시즌"
+        "불륜"
+      ],
+      "template": "논란 집합",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    }
+  ],
+  "all_topics": [
+    {
+      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 8,
+      "source_article": "나이 마흔에 10대와 재혼을 해? 논란의 日 격투기 챔피언, 아내 덕에 살아났다? “주식을 열심히 해서…”",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "결혼",
+        "최준희",
+        "최진실",
+        "묘소",
+        "방문"
+      ],
+      "template": "결혼 화제",
+      "score": 7.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"아내까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 5,
+      "source_article": "나이 마흔에 10대와 재혼을 해? 논란의 日 격투기 챔피언, 아내 덕에 살아났다? “주식을 열심히 해서…”",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "아내",
+        "밝히는",
+        "추해",
+        "비난",
+        "쏟아졌"
+      ],
+      "template": "논란 집합",
+      "score": 7.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 4,
+      "source_article": "'세계가 놀랐다' 은퇴 선언한 선수 맞나? 최민정, 국가대표 마지막 시즌서 전종목 예선 조 1위로 통과",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "근황",
+        "이영애",
+        "충격적",
+        "메이크",
+        "억지"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+      "angle_type": "투병·건강",
+      "article_count": 3,
+      "source_article": "'충격 비보' 불가리아 태권도연맹 회장, 자택서 머리에 총 맞고 사망...용의자 3명 긴급 체포 \"평소 알고 지내던 사이\"",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "임신",
+        "사망",
+        "암인",
+        "개월간",
+        "몰랐다"
+      ],
+      "template": "투병 극복",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "투병 질환",
+          "공백기",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"양홍원, 대체 무슨 일이?\" 양홍원 관련 이슈 총정리",
+      "angle_type": "👤 양홍원",
+      "article_count": 5,
+      "source_article": "아내 원현주 SNS 사진 싹 내렸는데→양홍원, 라이브 무대 중 \"돌아와, 현주\" 외쳐",
+      "source_url": "https://m.entertain.naver.com/article/445/0000481895",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "양홍원"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"의혹, 대체 무슨 일이?\" 의혹 관련 이슈 총정리",
+      "angle_type": "👤 의혹",
+      "article_count": 3,
+      "source_article": "“돌아와, 현주”…‘불륜 의혹’ 양홍원, 논란 직후 무대서 아내 언급",
+      "source_url": "https://m.entertain.naver.com/article/468/0001274981",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "의혹"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"프랑스\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 프랑스",
+      "article_count": 3,
+      "source_article": "'대충격! 안세영이 무너졌다' 세계 1위 프랑스오픈 결승서 날벼락!…'인도 11위' 신두에 16-21 첫 게임 헌납→시즌 10승 도전 초비상",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "프랑스"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"안세영\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안세영",
+      "article_count": 3,
+      "source_article": "'대충격! 안세영이 무너졌다' 세계 1위 프랑스오픈 결승서 날벼락!…'인도 11위' 신두에 16-21 첫 게임 헌납→시즌 10승 도전 초비상",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "안세영"
+      ],
+      "template": "인맥",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"선수, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 4,
+      "source_article": "칼 들고 위협, 주먹으로 얼굴 20차례 때려…술병으로 머리 치고 몇시간씩 폭언→\"괴롭힘·폭행 넘어 고문\" B선수 부모가 울먹였다",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "선수",
+        "들고",
+        "위협",
+        "주먹으",
+        "얼굴"
+      ],
+      "template": "스포츠 기록",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 2,
+      "source_article": "칼 들고 위협, 주먹으로 얼굴 20차례 때려…술병으로 머리 치고 몇시간씩 폭언→\"괴롭힘·폭행 넘어 고문\" B선수 부모가 울먹였다",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "한다감",
+        "결혼",
+        "얻은",
+        "아들",
+        "뒷좌석"
+      ],
+      "template": "동갑내기",
+      "score": 6.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "나이",
+          "대표작",
+          "현재 활동"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"윤미라\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 윤미라",
+      "article_count": 3,
+      "source_article": "'미우새' 윤미라, 75세 모태 싱글의 초호화 일상…\"서방 없어도 옷방 3개\"",
+      "source_url": "https://m.entertain.naver.com/article/465/0000020554",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "윤미라"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -2605,19 +1783,19 @@
           "현재 상황"
         ]
       },
-      "channel": "초구딱"
+      "channel": "정보주는하마"
     },
     {
-      "title": "\"포스트\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 포스트",
+      "title": "\"불륜, 대체 무슨 일이?\" 불륜 관련 이슈 총정리",
+      "angle_type": "👤 불륜",
       "article_count": 3,
-      "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 ⚾",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
-      "source_name": "MLB파크 불펜",
+      "source_article": "양홍원 이름 삭제됐다..불륜 의혹에 ‘육아일기’ 제목 수정·댓글 제한",
+      "source_url": "https://m.entertain.naver.com/article/076/0004459232",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "포스트"
+        "불륜"
       ],
-      "template": "인맥",
+      "template": "논란 집합",
       "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
@@ -2629,9 +1807,42 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
+          "소속·직업",
+          "논란 내용",
           "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"구단, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 4,
+      "source_article": "KIA 때문에 KBO 9개 구단 바빠졌다… 명단 한번 화려하네, ‘방출 신화’로 KIA 겨눌까",
+      "source_url": "",
+      "source_name": "스포츠 많이 본 뉴스",
+      "related_names": [
+        "구단",
+        "방출",
+        "때문에",
+        "바빠졌",
+        "명단"
+      ],
+      "template": "스포츠 기록",
+      "score": 6.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
         ]
       },
       "channel": "초구딱"
@@ -2639,36 +1850,20 @@
   ],
   "keyword_freq": [
     [
-      "시즌",
-      6
+      "결혼",
+      5
     ],
     [
       "아내",
       5
     ],
     [
-      "연승",
-      5
-    ],
-    [
-      "결혼",
-      4
-    ],
-    [
       "양홍원",
       4
     ],
     [
-      "프랑스오픈",
-      4
-    ],
-    [
-      "안세영",
-      4
-    ],
-    [
-      "연패",
-      4
+      "윤미라",
+      3
     ],
     [
       "불륜",
@@ -2679,23 +1874,31 @@
       3
     ],
     [
-      "달성",
+      "선수",
       3
     ],
     [
-      "프랑스",
-      3
+      "근황",
+      2
+    ],
+    [
+      "최진실",
+      2
     ],
     [
       "방문",
       2
     ],
     [
-      "좋아",
+      "묘소",
       2
     ],
     [
-      "근황",
+      "최준희",
+      2
+    ],
+    [
+      "좋아",
       2
     ],
     [
@@ -2715,29 +1918,21 @@
       2
     ],
     [
-      "발언",
+      "미우새",
+      2
+    ],
+    [
+      "초호화",
+      2
+    ],
+    [
+      "고백",
       2
     ]
   ],
   "name_freq": [
     [
-      "프랑스",
-      7
-    ],
-    [
-      "시즌",
-      6
-    ],
-    [
-      "안세영",
-      6
-    ],
-    [
-      "오픈",
-      6
-    ],
-    [
-      "양홍원",
+      "결혼",
       5
     ],
     [
@@ -2745,16 +1940,12 @@
       5
     ],
     [
-      "연승",
+      "양홍원",
       5
     ],
     [
-      "결혼",
-      4
-    ],
-    [
-      "연패",
-      4
+      "윤미라",
+      3
     ],
     [
       "불륜",
@@ -2765,23 +1956,43 @@
       3
     ],
     [
-      "달성",
+      "프랑스",
       3
+    ],
+    [
+      "안세영",
+      3
+    ],
+    [
+      "선수",
+      3
+    ],
+    [
+      "근황",
+      2
+    ],
+    [
+      "최진실",
+      2
     ],
     [
       "방문",
       2
     ],
     [
-      "좋아",
+      "묘소",
       2
     ],
     [
-      "근황",
+      "최준희",
+      2
+    ],
+    [
+      "좋아",
       2
     ]
   ],
-  "total_topics_generated": 23,
-  "valid_topics": 23,
+  "total_topics_generated": 13,
+  "valid_topics": 13,
   "excluded_duplicates": 0
 }
