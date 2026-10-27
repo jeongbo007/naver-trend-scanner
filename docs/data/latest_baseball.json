@@ -1,62 +1,18 @@
 {
-  "scan_time": "2026-10-27 00:11:40",
+  "scan_time": "2026-10-27 05:59:46",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
     "엔터 5분 랭킹": 0,
-    "스포츠 많이 본 뉴스": 20,
+    "스포츠 많이 본 뉴스": 0,
     "스포츠 5분 랭킹": 0,
+    "[폴백] 스포츠 랭킹": 30,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
     "MLB파크 불펜": 30
   },
-  "total_articles": 80,
+  "total_articles": 90,
   "articles": [
-    {
-      "title": "손아섭 행선지는 롯데 아닌 NC...'2655안타' 베테랑, '제 2 친정' 창원 복귀 임박",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 78658,
-      "rank": 1,
-      "channel": "초구딱"
-    },
-    {
-      "title": "'어기승(어차피 기아의 승리)' 삼성, KIA 이길 방법 없어...투수, 타격, 수비 모두 열세",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 15405,
-      "rank": 11,
-      "channel": "초구딱"
-    },
-    {
-      "title": "제구되는 이의리 '어떻게 막을건데'... \"MVP 기대했는데 아쉽네요\" 삼성 좌타라인 삭제, KIA 좌투 1옵션 승격",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 12979,
-      "rank": 13,
-      "channel": "초구딱"
-    },
-    {
-      "title": "한국서 처참하게 실패했는데…왜 월드시리즈에 있지? 前 LG 외인 타자 'WS 우승 눈앞' 밀워키 숨은 공신이다",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 10879,
-      "rank": 19,
-      "channel": "초구딱"
-    },
-    {
-      "title": "'프런트 경험 없는' 이택근 깜짝 단장 선임…롯데 쇄신 카드 통할까",
-      "url": "",
-      "source": "스포츠 많이 본 뉴스",
-      "category": "스포츠",
-      "views": 10062,
-      "rank": 20,
-      "channel": "초구딱"
-    },
     {
       "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
       "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
@@ -121,299 +77,233 @@
       "channel": "초구딱"
     },
     {
-      "title": "은근히 디자인 이쁘다고 평가받는 옛날차량..JPG",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119679243&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "손혁 엘지행",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119685027&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 57,
+      "views": 0,
       "rank": 8,
       "channel": "초구딱"
     },
     {
-      "title": "사이드카 받고 ~",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119679240&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "리센느 신곡 중 좋은 노래",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119685018&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 83,
+      "views": 0,
       "rank": 9,
       "channel": "초구딱"
     },
     {
-      "title": "티원 대진 뭐 저래요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119679237&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "지금 취준생들은 AI직격탄이네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119685003&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 21,
+      "views": 38,
       "rank": 10,
       "channel": "초구딱"
     },
     {
-      "title": "오늘 매수 사이드카 함 나올듯?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119679234&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "룩백 데구치 나츠키.gif",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119685000&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 23,
+      "views": 35,
       "rank": 11,
       "channel": "초구딱"
     },
     {
-      "title": "프랑스인 로빈이 말하는 프랑스인들이 연금으로 빡친이유",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119679231&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "필라테스, 요가하는 여자랑 하면 진짜 다른가요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119684997&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 38,
+      "views": 70,
       "rank": 12,
       "channel": "초구딱"
     },
     {
-      "title": "3분기 경제성장률 1.0%, 전망 대폭 상회…올해 3.3% 넘을 듯",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119679225&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "중국 사무라이2 15만판한 굇수",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119684994&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 14,
+      "views": 24,
       "rank": 13,
       "channel": "초구딱"
     },
     {
-      "title": "주식에 물린 분들 많나 보네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119679219&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "가수 스테파니 근황.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119684991&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 109,
+      "views": 62,
       "rank": 14,
       "channel": "초구딱"
     },
     {
-      "title": "동해안의 한국호랑이",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119679216&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "기술이 좋아져서 그런가 만 47 48 첫 출산 여성분들 있네여",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119684988&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 131,
+      "views": 11,
       "rank": 15,
       "channel": "초구딱"
     },
     {
-      "title": "월소득 합 500 부부면 한달 생활비 얼마가 적당할까여?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119679213&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "내년 중수청 공무원 뽑나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119684985&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 81,
+      "views": 40,
       "rank": 16,
       "channel": "초구딱"
     },
     {
-      "title": "어제 삼성 구단 응원팀 욕 좀 먹겠더라고요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119679210&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "9살 아들 허리에 밧줄 묶고 21㎞ 달린 아빠…",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119684976&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 136,
+      "views": 196,
       "rank": 17,
       "channel": "초구딱"
     },
     {
-      "title": "[트리플에스] 귀여운 마유",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119679207&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "우리집 강아지 단테와 이든이",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119684970&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 27,
+      "views": 71,
       "rank": 18,
       "channel": "초구딱"
     },
     {
-      "title": "국민소득 자랑은 좀 해도 되는게",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119679201&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "[OKC]이 상황이면 되려 스가(SGA)도 씨엠 경쟁은 오히려 가능성 더 올라갈지도,",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119684964&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 75,
+      "views": 39,
       "rank": 19,
       "channel": "초구딱"
     },
     {
-      "title": "해리케인 수상 손흥민에게도 큰의미가 있네요ㅜㅜ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119679198&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "밀워키 저렇게 잘하는데 우승 한번도 없었네요....",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119684961&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 93,
+      "views": 95,
       "rank": 20,
       "channel": "초구딱"
     },
     {
-      "title": "태권도가 보육시스템 결합한거 신의 한 수 인듯.txt",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119679195&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+      "title": "콜오브듀티 모던워페어4 해 보신 분????",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119684958&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 54,
+      "views": 21,
       "rank": 21,
       "channel": "초구딱"
     },
     {
-      "title": "종가 까지 장대양봉 가즈아",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119679192&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "[아이브,IVE] 우리 유진이 인스타",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119684955&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 145,
+      "views": 35,
       "rank": 22,
       "channel": "초구딱"
     },
     {
-      "title": "일간 언차일드 10/27.tw",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119679189&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "리즈 목소리 좋지 않나요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119684952&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 13,
+      "views": 148,
       "rank": 23,
       "channel": "초구딱"
     },
     {
-      "title": "예수의 가르침을 기독교라는 종교로 만든 인물.jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119679183&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "강백호가 해남전 마지막 패스미스 한거.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119684949&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 142,
+      "views": 133,
       "rank": 24,
       "channel": "초구딱"
     },
     {
-      "title": "타임지 선정 2026년 최고의 발명품 아이폰 듀오",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119679180&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "이토준지 토미에 굿즈",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119684940&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 130,
+      "views": 99,
       "rank": 25,
       "channel": "초구딱"
     },
     {
-      "title": "쏘렌토 구매시기",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119679174&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "'흉기난동' 최충락, 구치소서 자해 시도, 병원서 치료.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119684934&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 104,
+      "views": 291,
       "rank": 26,
       "channel": "초구딱"
     },
     {
-      "title": "유튜브 광고 타일서바이벌은 진짜 지겹도록 나오네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119679171&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "여친 몸매 때문에 현타온 약사",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119684931&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 36,
+      "views": 530,
       "rank": 27,
       "channel": "초구딱"
     },
     {
-      "title": "문체부 돔구장 프로젝트 후보 (총북은 포기 선언)",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119679168&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "하드볼5 추억의 로스터.JPG",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119684922&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 108,
+      "views": 239,
       "rank": 28,
       "channel": "초구딱"
     },
     {
-      "title": "오늘의  지수일당 (인증주의)",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119679165&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "멕날 빅아치버거?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119684919&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 177,
+      "views": 52,
       "rank": 29,
       "channel": "초구딱"
     },
     {
-      "title": "올해는 티원 4강~8강 정도로 끝날 것 같습니다",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119679159&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "부와 인간성의 상관관계.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610270119684913&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 76,
+      "views": 116,
       "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 45,
+      "article_count": 60,
       "topics": [
         {
-          "title": "\"우승, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 6,
-          "source_article": "케인, 25년 만에 잉글랜드 발롱도르 한 풀었다! 73골 폭발→음바페·야말 제치고 수상…우승 트로피 부족 논란 뒤집고 '꿈 이뤘다'",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "우승",
-            "케인",
-            "발롱도",
-            "잉글랜",
-            "폭발"
-          ],
-          "template": "스포츠 기록",
-          "score": 7.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-          "angle_type": "결혼·이혼",
-          "article_count": 7,
-          "source_article": "'정평♥' 문근영, 결혼 3개월 만에 몰라보게 달라졌다…볼살 쏙 빠진 근황",
-          "source_url": "https://m.entertain.naver.com/article/117/0004118314",
+          "title": "\"연봉, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 8,
+          "source_article": "헤이지니 전직원 폭로 \"연봉 2천만원·하루 16시간..극단적 선택 시도도\"",
+          "source_url": "https://m.entertain.naver.com/article/076/0004459739",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "결혼",
-            "불륜",
-            "개월",
-            "양홍원",
-            "일만"
-          ],
-          "template": "결혼 화제",
-          "score": 7.1,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"헤이지, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 5,
-          "source_article": "\"최고 66억 가능\" KIA 1R 특급도 기대한 157㎞ 괴물, 왜 美·日 동시에 발칵 뒤집었나",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
+            "연봉",
             "헤이지",
             "폭로",
-            "연봉",
             "하루",
             "시간"
           ],
           "template": "자산 서열",
-          "score": 7.0,
+          "score": 8.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -432,161 +322,12 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"하루, 대체 무슨 일이?\" 하루 관련 이슈 총정리",
-          "angle_type": "👤 하루",
-          "article_count": 3,
+          "title": "\"헤이지까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 5,
           "source_article": "헤이지니 전직원 폭로 \"연봉 2천만원·하루 16시간..극단적 선택 시도도\"",
           "source_url": "https://m.entertain.naver.com/article/076/0004459739",
           "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "하루"
-          ],
-          "template": "논란 집합",
-          "score": 7.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"의혹, 대체 무슨 일이?\" 의혹 관련 이슈 총정리",
-          "angle_type": "👤 의혹",
-          "article_count": 3,
-          "source_article": "'불륜 의혹' 양홍원 폭로자, 돌연 \"진심으로 미안해\" 사과…'잘 마무리' 카톡도 진위 논란",
-          "source_url": "https://m.entertain.naver.com/article/311/0002072504",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "의혹"
-          ],
-          "template": "논란 집합",
-          "score": 7.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"양홍원, 대체 무슨 일이?\" 양홍원 관련 이슈 총정리",
-          "angle_type": "👤 양홍원",
-          "article_count": 3,
-          "source_article": "'불륜 의혹' 양홍원 폭로자, 돌연 \"진심으로 미안해\" 사과…'잘 마무리' 카톡도 진위 논란",
-          "source_url": "https://m.entertain.naver.com/article/311/0002072504",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "양홍원"
-          ],
-          "template": "논란 집합",
-          "score": 7.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"불륜, 대체 무슨 일이?\" 불륜 관련 이슈 총정리",
-          "angle_type": "👤 불륜",
-          "article_count": 3,
-          "source_article": "'불륜 의혹' 양홍원 폭로자, 돌연 \"진심으로 미안해\" 사과…'잘 마무리' 카톡도 진위 논란",
-          "source_url": "https://m.entertain.naver.com/article/311/0002072504",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "불륜"
-          ],
-          "template": "논란 집합",
-          "score": 7.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 2,
-          "source_article": "‘국가대표 은퇴’ 소동으로 韓축구 뒤흔들었던 김민재, 부상 결장 하루 만에 개인훈련 재개…11월 A매치 소집 가능성 ↑",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "정평",
-            "문근영",
-            "결혼",
-            "개월",
-            "몰라보"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 6.6,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"헤이지까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 4,
-          "source_article": "케인, 25년 만에 잉글랜드 발롱도르 한 풀었다! 73골 폭발→음바페·야말 제치고 수상…우승 트로피 부족 논란 뒤집고 '꿈 이뤘다'",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
           "related_names": [
             "헤이지",
             "폭로",
@@ -595,7 +336,7 @@
             "시간"
           ],
           "template": "논란 집합",
-          "score": 6.5,
+          "score": 7.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -614,75 +355,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"발롱도, 대체 무슨 일이?\" 발롱도 관련 이슈 총정리",
-          "angle_type": "👤 발롱도",
-          "article_count": 5,
-          "source_article": "'지금은 야말 시대'...또 발롱도르 영플레이어상 수상! 2024년부터 무려 3년 연속",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "발롱도"
-          ],
-          "template": "논란 집합",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"케인, 대체 무슨 일이?\" 케인 관련 이슈 총정리",
-          "angle_type": "👤 케인",
-          "article_count": 4,
-          "source_article": "케인, 25년 만에 잉글랜드 발롱도르 한 풀었다! 73골 폭발→음바페·야말 제치고 수상…우승 트로피 부족 논란 뒤집고 '꿈 이뤘다'",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "케인"
-          ],
-          "template": "논란 집합",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"잉글랜, 대체 무슨 일이?\" 잉글랜 관련 이슈 총정리",
-          "angle_type": "👤 잉글랜",
+          "title": "\"폭로, 대체 무슨 일이?\" 폭로 관련 이슈 총정리",
+          "angle_type": "👤 폭로",
           "article_count": 3,
-          "source_article": "케인, 25년 만에 잉글랜드 발롱도르 한 풀었다! 73골 폭발→음바페·야말 제치고 수상…우승 트로피 부족 논란 뒤집고 '꿈 이뤘다'",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "source_article": "헤이지니 전직원 폭로 \"연봉 2천만원·하루 16시간..극단적 선택 시도도\"",
+          "source_url": "https://m.entertain.naver.com/article/076/0004459739",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "잉글랜"
+            "폭로"
           ],
           "template": "논란 집합",
-          "score": 6.5,
+          "score": 7.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -701,21 +384,54 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "angle_type": "결혼·이혼",
+          "article_count": 6,
+          "source_article": "오나미, 결혼 후 '한강뷰 펜트하우스' 살지만 아쉽…\"돈 많이 벌면 모르겠다\"",
+          "source_url": "https://m.entertain.naver.com/article/415/0000053134",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "결혼",
+            "열애",
+            "정가은",
+            "오나미",
+            "한강뷰"
+          ],
+          "template": "결혼 화제",
+          "score": 6.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"의혹이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
           "angle_type": "가족·혈연",
-          "article_count": 2,
+          "article_count": 3,
           "source_article": "양홍원 결혼 5일만 불륜 의혹 속…♥원현주·딸 루아 광고는 그대로",
           "source_url": "https://m.entertain.naver.com/article/311/0002072852",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
+            "의혹",
             "양홍원",
             "결혼",
             "일만",
-            "불륜",
-            "의혹"
+            "불륜"
           ],
           "template": "동갑내기",
-          "score": 6.4,
+          "score": 6.6,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -734,17 +450,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"수상, 대체 무슨 일이?\" 수상 관련 이슈 총정리",
-          "angle_type": "👤 수상",
-          "article_count": 4,
-          "source_article": "'지금은 야말 시대'...또 발롱도르 영플레이어상 수상! 2024년부터 무려 3년 연속",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
+          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+          "angle_type": "투병·건강",
+          "article_count": 2,
+          "source_article": "헤이지니, 물건 팔아야 되는데 '전 직원 폭로' 암초…\"논란 사실이냐\" 해명 쇄도",
+          "source_url": "https://m.entertain.naver.com/article/312/0000781764",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "수상"
+            "헤이지",
+            "물건",
+            "팔아야",
+            "되는데",
+            "직원"
           ],
-          "template": "논란 집합",
-          "score": 6.0,
+          "template": "투병 극복",
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -755,9 +475,9 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
+              "투병 질환",
+              "공백기",
+              "복귀 작품"
             ]
           },
           "channel": "정보주는하마"
@@ -765,27 +485,19 @@
       ],
       "keyword_freq": [
         [
+          "헤이지니",
+          4
+        ],
+        [
           "결혼",
-          5
+          3
         ],
         [
-          "발롱도르",
-          5
+          "폭로",
+          3
         ],
         [
-          "수상",
-          4
-        ],
-        [
-          "케인",
-          4
-        ],
-        [
-          "우승",
-          4
-        ],
-        [
-          "하루",
+          "연봉",
           3
         ],
         [
@@ -793,39 +505,11 @@
           3
         ],
         [
-          "양홍원",
-          3
-        ],
-        [
-          "불륜",
-          3
-        ],
-        [
-          "잉글랜드",
-          3
-        ],
-        [
-          "날벼락",
+          "많이",
           2
         ],
         [
-          "떠난",
-          2
-        ],
-        [
-          "연예계",
-          2
-        ],
-        [
-          "개월",
-          2
-        ],
-        [
-          "폭로",
-          2
-        ],
-        [
-          "연봉",
+          "시도도",
           2
         ],
         [
@@ -833,7 +517,11 @@
           2
         ],
         [
-          "헤이지니",
+          "하루",
+          2
+        ],
+        [
+          "선택",
           2
         ],
         [
@@ -841,33 +529,57 @@
           2
         ],
         [
-          "시도도",
+          "직원",
+          2
+        ],
+        [
+          "직접",
+          2
+        ],
+        [
+          "가수",
+          2
+        ],
+        [
+          "못간다",
+          2
+        ],
+        [
+          "양홍원",
+          2
+        ],
+        [
+          "그대로",
+          2
+        ],
+        [
+          "불륜",
+          2
+        ],
+        [
+          "해명",
+          2
+        ],
+        [
+          "열애",
           2
         ]
       ],
       "name_freq": [
         [
+          "헤이지",
+          4
+        ],
+        [
           "결혼",
-          5
+          3
         ],
         [
-          "발롱도",
-          5
+          "폭로",
+          3
         ],
         [
-          "수상",
-          4
-        ],
-        [
-          "케인",
-          4
-        ],
-        [
-          "우승",
-          4
-        ],
-        [
-          "하루",
+          "연봉",
           3
         ],
         [
@@ -875,101 +587,72 @@
           3
         ],
         [
-          "양홍원",
-          3
-        ],
-        [
-          "불륜",
-          3
-        ],
-        [
-          "잉글랜",
-          3
-        ],
-        [
-          "날벼락",
+          "많이",
           2
         ],
         [
-          "떠난",
+          "시도도",
           2
         ],
         [
-          "연예계",
+          "시간",
           2
         ],
         [
-          "개월",
+          "하루",
           2
         ],
         [
-          "연봉",
+          "선택",
+          2
+        ],
+        [
+          "극단적",
+          2
+        ],
+        [
+          "헤이지니",
+          2
+        ],
+        [
+          "직원",
+          2
+        ],
+        [
+          "직접",
+          2
+        ],
+        [
+          "가수",
           2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
-          5
+          8
         ],
         [
           "논란·사건",
-          4
+          5
         ],
         [
           "결혼·이혼",
-          7
-        ],
-        [
-          "복귀·근황",
-          2
-        ],
-        [
-          "스포츠",
           6
         ],
         [
-          "가족·혈연",
+          "투병·건강",
           2
+        ],
+        [
+          "가족·혈연",
+          3
         ]
       ]
     },
     "초구딱": {
-      "article_count": 35,
+      "article_count": 30,
       "topics": [
-        {
-          "title": "\"는데, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 4,
-          "source_article": "손아섭 행선지는 롯데 아닌 NC...'2655안타' 베테랑, '제 2 친정' 창원 복귀 임박",
-          "source_url": "",
-          "source_name": "스포츠 많이 본 뉴스",
-          "related_names": [
-            "는데",
-            "손아섭",
-            "행선지",
-            "롯데",
-            "아닌"
-          ],
-          "template": "스포츠 기록",
-          "score": 6.6,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
-            ]
-          },
-          "channel": "초구딱"
-        },
         {
           "title": "\"안내\" 관련 화제 스타 TOP10",
           "angle_type": "👤 안내",
@@ -1056,6 +739,39 @@
             ]
           },
           "channel": "초구딱"
+        },
+        {
+          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 2,
+          "source_article": "밀워키 저렇게 잘하는데 우승 한번도 없었네요....",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610270119684961&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "포스트",
+            "시즌",
+            "대진표",
+            "밀워키",
+            "저렇게"
+          ],
+          "template": "스포츠 기록",
+          "score": 5.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
+            ]
+          },
+          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
@@ -1068,10 +784,6 @@
           3
         ],
         [
-          "롯데",
-          2
-        ],
-        [
           "조치",
           2
         ],
@@ -1080,63 +792,67 @@
           2
         ],
         [
-          "사이드카",
-          2
-        ],
-        [
-          "티원",
-          2
-        ],
-        [
-          "아닌",
+          "말머리",
           1
         ],
         [
-          "친정",
+          "위반",
           1
         ],
         [
-          "베테랑",
+          "향후",
           1
         ],
         [
-          "임박",
+          "처리",
           1
         ],
         [
-          "안타",
+          "사항",
           1
         ],
         [
-          "창원",
+          "시행",
           1
         ],
         [
-          "행선지는",
+          "인용",
           1
         ],
         [
-          "손아섭",
+          "가이드",
           1
         ],
         [
-          "승리",
+          "필독",
           1
         ],
         [
-          "방법",
+          "뉴스저작물",
           1
         ],
         [
-          "타격",
+          "유의사항",
           1
         ],
         [
-          "이길",
+          "해외",
           1
         ],
         [
-          "어기승",
+          "장애",
+          1
+        ],
+        [
+          "업데이트",
+          1
+        ],
+        [
+          "접속",
+          1
+        ],
+        [
+          "불법촬영물등",
           1
         ]
       ],
@@ -1154,72 +870,23 @@
           3
         ],
         [
-          "롯데",
-          2
-        ],
-        [
-          "는데",
-          2
-        ],
-        [
           "조치",
           2
         ],
         [
           "대진표",
           2
-        ],
-        [
-          "사이드",
-          2
-        ],
-        [
-          "티원",
-          2
         ]
       ],
       "angle_scores": [
         [
           "스포츠",
-          4
+          2
         ]
       ]
     }
   },
   "topics": [
-    {
-      "title": "\"는데, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 4,
-      "source_article": "손아섭 행선지는 롯데 아닌 NC...'2655안타' 베테랑, '제 2 친정' 창원 복귀 임박",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "는데",
-        "손아섭",
-        "행선지",
-        "롯데",
-        "아닌"
-      ],
-      "template": "스포츠 기록",
-      "score": 6.6,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
-      "channel": "초구딱"
-    },
     {
       "title": "\"안내\" 관련 화제 스타 TOP10",
       "angle_type": "👤 안내",
@@ -1306,25 +973,23 @@
         ]
       },
       "channel": "초구딱"
-    }
-  ],
-  "all_topics": [
+    },
     {
-      "title": "\"우승, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
       "angle_type": "스포츠",
-      "article_count": 6,
-      "source_article": "케인, 25년 만에 잉글랜드 발롱도르 한 풀었다! 73골 폭발→음바페·야말 제치고 수상…우승 트로피 부족 논란 뒤집고 '꿈 이뤘다'",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "article_count": 2,
+      "source_article": "밀워키 저렇게 잘하는데 우승 한번도 없었네요....",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610270119684961&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
       "related_names": [
-        "우승",
-        "케인",
-        "발롱도",
-        "잉글랜",
-        "폭발"
+        "포스트",
+        "시즌",
+        "대진표",
+        "밀워키",
+        "저렇게"
       ],
       "template": "스포츠 기록",
-      "score": 7.3,
+      "score": 5.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1340,57 +1005,26 @@
           "기록 가치"
         ]
       },
-      "channel": "정보주는하마"
-    },
+      "channel": "초구딱"
+    }
+  ],
+  "all_topics": [
     {
-      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 7,
-      "source_article": "'정평♥' 문근영, 결혼 3개월 만에 몰라보게 달라졌다…볼살 쏙 빠진 근황",
-      "source_url": "https://m.entertain.naver.com/article/117/0004118314",
+      "title": "\"연봉, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 8,
+      "source_article": "헤이지니 전직원 폭로 \"연봉 2천만원·하루 16시간..극단적 선택 시도도\"",
+      "source_url": "https://m.entertain.naver.com/article/076/0004459739",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "결혼",
-        "불륜",
-        "개월",
-        "양홍원",
-        "일만"
-      ],
-      "template": "결혼 화제",
-      "score": 7.1,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"헤이지, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 5,
-      "source_article": "\"최고 66억 가능\" KIA 1R 특급도 기대한 157㎞ 괴물, 왜 美·日 동시에 발칵 뒤집었나",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
+        "연봉",
         "헤이지",
         "폭로",
-        "연봉",
         "하루",
         "시간"
       ],
       "template": "자산 서열",
-      "score": 7.0,
+      "score": 8.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1409,161 +1043,12 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"하루, 대체 무슨 일이?\" 하루 관련 이슈 총정리",
-      "angle_type": "👤 하루",
-      "article_count": 3,
+      "title": "\"헤이지까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 5,
       "source_article": "헤이지니 전직원 폭로 \"연봉 2천만원·하루 16시간..극단적 선택 시도도\"",
       "source_url": "https://m.entertain.naver.com/article/076/0004459739",
       "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "하루"
-      ],
-      "template": "논란 집합",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"의혹, 대체 무슨 일이?\" 의혹 관련 이슈 총정리",
-      "angle_type": "👤 의혹",
-      "article_count": 3,
-      "source_article": "'불륜 의혹' 양홍원 폭로자, 돌연 \"진심으로 미안해\" 사과…'잘 마무리' 카톡도 진위 논란",
-      "source_url": "https://m.entertain.naver.com/article/311/0002072504",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "의혹"
-      ],
-      "template": "논란 집합",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"양홍원, 대체 무슨 일이?\" 양홍원 관련 이슈 총정리",
-      "angle_type": "👤 양홍원",
-      "article_count": 3,
-      "source_article": "'불륜 의혹' 양홍원 폭로자, 돌연 \"진심으로 미안해\" 사과…'잘 마무리' 카톡도 진위 논란",
-      "source_url": "https://m.entertain.naver.com/article/311/0002072504",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "양홍원"
-      ],
-      "template": "논란 집합",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"불륜, 대체 무슨 일이?\" 불륜 관련 이슈 총정리",
-      "angle_type": "👤 불륜",
-      "article_count": 3,
-      "source_article": "'불륜 의혹' 양홍원 폭로자, 돌연 \"진심으로 미안해\" 사과…'잘 마무리' 카톡도 진위 논란",
-      "source_url": "https://m.entertain.naver.com/article/311/0002072504",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "불륜"
-      ],
-      "template": "논란 집합",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 2,
-      "source_article": "‘국가대표 은퇴’ 소동으로 韓축구 뒤흔들었던 김민재, 부상 결장 하루 만에 개인훈련 재개…11월 A매치 소집 가능성 ↑",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "정평",
-        "문근영",
-        "결혼",
-        "개월",
-        "몰라보"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 6.6,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"헤이지까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 4,
-      "source_article": "케인, 25년 만에 잉글랜드 발롱도르 한 풀었다! 73골 폭발→음바페·야말 제치고 수상…우승 트로피 부족 논란 뒤집고 '꿈 이뤘다'",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
       "related_names": [
         "헤이지",
         "폭로",
@@ -1572,7 +1057,7 @@
         "시간"
       ],
       "template": "논란 집합",
-      "score": 6.5,
+      "score": 7.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1591,75 +1076,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"발롱도, 대체 무슨 일이?\" 발롱도 관련 이슈 총정리",
-      "angle_type": "👤 발롱도",
-      "article_count": 5,
-      "source_article": "'지금은 야말 시대'...또 발롱도르 영플레이어상 수상! 2024년부터 무려 3년 연속",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "발롱도"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"케인, 대체 무슨 일이?\" 케인 관련 이슈 총정리",
-      "angle_type": "👤 케인",
-      "article_count": 4,
-      "source_article": "케인, 25년 만에 잉글랜드 발롱도르 한 풀었다! 73골 폭발→음바페·야말 제치고 수상…우승 트로피 부족 논란 뒤집고 '꿈 이뤘다'",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "케인"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"잉글랜, 대체 무슨 일이?\" 잉글랜 관련 이슈 총정리",
-      "angle_type": "👤 잉글랜",
+      "title": "\"폭로, 대체 무슨 일이?\" 폭로 관련 이슈 총정리",
+      "angle_type": "👤 폭로",
       "article_count": 3,
-      "source_article": "케인, 25년 만에 잉글랜드 발롱도르 한 풀었다! 73골 폭발→음바페·야말 제치고 수상…우승 트로피 부족 논란 뒤집고 '꿈 이뤘다'",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "source_article": "헤이지니 전직원 폭로 \"연봉 2천만원·하루 16시간..극단적 선택 시도도\"",
+      "source_url": "https://m.entertain.naver.com/article/076/0004459739",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "잉글랜"
+        "폭로"
       ],
       "template": "논란 집합",
-      "score": 6.5,
+      "score": 7.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1678,21 +1105,54 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 6,
+      "source_article": "오나미, 결혼 후 '한강뷰 펜트하우스' 살지만 아쉽…\"돈 많이 벌면 모르겠다\"",
+      "source_url": "https://m.entertain.naver.com/article/415/0000053134",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "결혼",
+        "열애",
+        "정가은",
+        "오나미",
+        "한강뷰"
+      ],
+      "template": "결혼 화제",
+      "score": 6.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"의혹이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
       "angle_type": "가족·혈연",
-      "article_count": 2,
+      "article_count": 3,
       "source_article": "양홍원 결혼 5일만 불륜 의혹 속…♥원현주·딸 루아 광고는 그대로",
       "source_url": "https://m.entertain.naver.com/article/311/0002072852",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
+        "의혹",
         "양홍원",
         "결혼",
         "일만",
-        "불륜",
-        "의혹"
+        "불륜"
       ],
       "template": "동갑내기",
-      "score": 6.4,
+      "score": 6.6,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1711,17 +1171,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"수상, 대체 무슨 일이?\" 수상 관련 이슈 총정리",
-      "angle_type": "👤 수상",
-      "article_count": 4,
-      "source_article": "'지금은 야말 시대'...또 발롱도르 영플레이어상 수상! 2024년부터 무려 3년 연속",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
+      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+      "angle_type": "투병·건강",
+      "article_count": 2,
+      "source_article": "헤이지니, 물건 팔아야 되는데 '전 직원 폭로' 암초…\"논란 사실이냐\" 해명 쇄도",
+      "source_url": "https://m.entertain.naver.com/article/312/0000781764",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "수상"
+        "헤이지",
+        "물건",
+        "팔아야",
+        "되는데",
+        "직원"
       ],
-      "template": "논란 집합",
-      "score": 6.0,
+      "template": "투병 극복",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1732,45 +1196,12 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
+          "투병 질환",
+          "공백기",
+          "복귀 작품"
         ]
       },
       "channel": "정보주는하마"
-    },
-    {
-      "title": "\"는데, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 4,
-      "source_article": "손아섭 행선지는 롯데 아닌 NC...'2655안타' 베테랑, '제 2 친정' 창원 복귀 임박",
-      "source_url": "",
-      "source_name": "스포츠 많이 본 뉴스",
-      "related_names": [
-        "는데",
-        "손아섭",
-        "행선지",
-        "롯데",
-        "아닌"
-      ],
-      "template": "스포츠 기록",
-      "score": 6.6,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
-      "channel": "초구딱"
     },
     {
       "title": "\"안내\" 관련 화제 스타 TOP10",
@@ -1858,31 +1289,56 @@
         ]
       },
       "channel": "초구딱"
+    },
+    {
+      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 2,
+      "source_article": "밀워키 저렇게 잘하는데 우승 한번도 없었네요....",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610270119684961&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "포스트",
+        "시즌",
+        "대진표",
+        "밀워키",
+        "저렇게"
+      ],
+      "template": "스포츠 기록",
+      "score": 5.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
     [
+      "헤이지니",
+      4
+    ],
+    [
       "결혼",
-      5
+      3
     ],
     [
-      "발롱도르",
-      5
+      "폭로",
+      3
     ],
     [
-      "수상",
-      4
-    ],
-    [
-      "케인",
-      4
-    ],
-    [
-      "우승",
-      4
-    ],
-    [
-      "하루",
+      "연봉",
       3
     ],
     [
@@ -1890,39 +1346,11 @@
       3
     ],
     [
-      "양홍원",
-      3
-    ],
-    [
-      "불륜",
-      3
-    ],
-    [
-      "잉글랜드",
-      3
-    ],
-    [
-      "날벼락",
+      "많이",
       2
     ],
     [
-      "떠난",
-      2
-    ],
-    [
-      "연예계",
-      2
-    ],
-    [
-      "개월",
-      2
-    ],
-    [
-      "폭로",
-      2
-    ],
-    [
-      "연봉",
+      "시도도",
       2
     ],
     [
@@ -1930,7 +1358,11 @@
       2
     ],
     [
-      "헤이지니",
+      "하루",
+      2
+    ],
+    [
+      "선택",
       2
     ],
     [
@@ -1938,33 +1370,57 @@
       2
     ],
     [
-      "시도도",
+      "직원",
+      2
+    ],
+    [
+      "직접",
+      2
+    ],
+    [
+      "가수",
+      2
+    ],
+    [
+      "못간다",
+      2
+    ],
+    [
+      "양홍원",
+      2
+    ],
+    [
+      "그대로",
+      2
+    ],
+    [
+      "불륜",
+      2
+    ],
+    [
+      "해명",
+      2
+    ],
+    [
+      "열애",
       2
     ]
   ],
   "name_freq": [
     [
+      "헤이지",
+      4
+    ],
+    [
       "결혼",
-      5
+      3
     ],
     [
-      "발롱도",
-      5
+      "폭로",
+      3
     ],
     [
-      "수상",
-      4
-    ],
-    [
-      "케인",
-      4
-    ],
-    [
-      "우승",
-      4
-    ],
-    [
-      "하루",
+      "연봉",
       3
     ],
     [
@@ -1972,39 +1428,47 @@
       3
     ],
     [
-      "양홍원",
-      3
-    ],
-    [
-      "불륜",
-      3
-    ],
-    [
-      "잉글랜",
-      3
-    ],
-    [
-      "날벼락",
+      "많이",
       2
     ],
     [
-      "떠난",
+      "시도도",
       2
     ],
     [
-      "연예계",
+      "시간",
       2
     ],
     [
-      "개월",
+      "하루",
       2
     ],
     [
-      "연봉",
+      "선택",
+      2
+    ],
+    [
+      "극단적",
+      2
+    ],
+    [
+      "헤이지니",
+      2
+    ],
+    [
+      "직원",
+      2
+    ],
+    [
+      "직접",
+      2
+    ],
+    [
+      "가수",
       2
     ]
   ],
-  "total_topics_generated": 18,
-  "valid_topics": 18,
+  "total_topics_generated": 10,
+  "valid_topics": 10,
   "excluded_duplicates": 0
 }
