@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-10-29 11:18:19",
+  "scan_time": "2026-10-29 15:40:40",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -11,8 +11,17 @@
     "DC 국내야구 갤러리": 0,
     "MLB파크 불펜": 30
   },
-  "total_articles": 90,
+  "total_articles": 89,
   "articles": [
+    {
+      "title": "허진호 감독 '암살자(들)' 340만 관객 돌파…손익분기점 넘어",
+      "url": "https://n.news.naver.com/article/001/0016410385?ntype=RANKING",
+      "source": "[폴백] 스포츠 랭킹",
+      "category": "스포츠",
+      "views": 0,
+      "rank": 23,
+      "channel": "초구딱"
+    },
     {
       "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
       "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
@@ -86,8 +95,8 @@
       "channel": "초구딱"
     },
     {
-      "title": "QWER과 함께하는 오늘 아침 윤상입니다(MBC 라디오 20261102 방송예정)",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610290119736546&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "간만에 게임 2개 구입했습니다",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751963&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=facebook.com",
       "source": "MLB파크 불펜",
       "category": "야구",
       "views": 0,
@@ -95,8 +104,8 @@
       "channel": "초구딱"
     },
     {
-      "title": "판돈이 커질수록 똑똑해지는 여대생 ㄷㄷ.mp4",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610290119736543&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "요즘 아는 얼굴분들이 점점 떠나는것같네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751960&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
       "views": 0,
@@ -104,203 +113,194 @@
       "channel": "초구딱"
     },
     {
-      "title": "마이클조던도 농구 고트라고 하기엔",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610290119736516&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "위 절제술도 생각만큼은 안빠지네여",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751936&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 0,
+      "views": 27,
       "rank": 11,
       "channel": "초구딱"
     },
     {
-      "title": "짱 미인대회",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610290119736465&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "밑에 고대 문과 서류 광탈은 예전에도 그랬음",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751933&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 100,
+      "views": 43,
       "rank": 12,
       "channel": "초구딱"
     },
     {
-      "title": "부모님 노후대비가 되어있으면 여유 있는거 맞죠?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610290119736441&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "어렸을때 티비에서 자주뵙던 어르신들",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751915&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 17,
+      "views": 80,
       "rank": 13,
       "channel": "초구딱"
     },
     {
-      "title": "50세 할재 150kg 스쿼트 5회.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610290119736432&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "[속보] ‘영원한 수사반장’·‘국민 아버지’ 최불암 별세",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751912&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 42,
+      "views": 603,
       "rank": 14,
       "channel": "초구딱"
     },
     {
-      "title": "의외로 밈 부자인 아이돌.jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610290119736411&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "주선자 낀 소개팅 자리에서 연애팁.txt",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751906&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 138,
+      "views": 148,
       "rank": 15,
       "channel": "초구딱"
     },
     {
-      "title": "삼설 붙박이 마무리 김재율은 부상인가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610290119736381&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+      "title": "환갑 넘은 브래드 피트 근황",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751897&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 47,
+      "views": 358,
       "rank": 16,
       "channel": "초구딱"
     },
     {
-      "title": "제주도에 터널 길게 뚫는 건 불가능한가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610290119736357&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "애초에 지방에 의료낙후를 왜 걱정해야하죠",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751894&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 24,
+      "views": 86,
       "rank": 17,
       "channel": "초구딱"
     },
     {
-      "title": "Ai 산업이 유지 가능한 구조인가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610290119736339&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "저희누나도 서울대 의대 가서 소아과 전공했는데",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751885&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 21,
+      "views": 168,
       "rank": 18,
       "channel": "초구딱"
     },
     {
-      "title": "기분 좋은 날 기분 좋게 우중런 14k",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610290119736330&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "아니 최불암 아저씨 그렇게 빨리 돌아가시는 게 어딨어요..",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751867&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 13,
+      "views": 314,
       "rank": 19,
       "channel": "초구딱"
     },
     {
-      "title": "리본풀고 치마벗고",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610290119736288&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+      "title": "핑클 이효리 원년 멤버.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751861&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 187,
+      "views": 275,
       "rank": 20,
       "channel": "초구딱"
     },
     {
-      "title": "박진만 승부사기질이 별로 없는듯?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610290119736261&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "90년대에서 2000년대 초는 TV보던 기억이 많네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751858&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 115,
+      "views": 27,
       "rank": 21,
       "channel": "초구딱"
     },
     {
-      "title": "고오쓰 같은 플스겜은 다 이러나요? 버튼 딸깍?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610290119736204&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "최예나 가을대축 23개 종료 ㄷㄷㄷ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751855&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 22,
+      "views": 349,
       "rank": 22,
       "channel": "초구딱"
     },
     {
-      "title": "북한교과서에 나오는 한국군 사진",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610290119736009&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "네이버페이 34원 (신속히 받으세요)",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751852&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 248,
+      "views": 80,
       "rank": 23,
       "channel": "초구딱"
     },
     {
-      "title": "위스키 관련 질문",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610290119735916&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "경량패딩, 야상, 야구잠바, 숏코트 꺼냇는데",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751840&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 91,
+      "views": 58,
       "rank": 24,
       "channel": "초구딱"
     },
     {
-      "title": "삼성 휴대폰 사업이 사기긴 함",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610290119735913&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "리센느 드디어 우리은행 광고 나왔네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751837&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 343,
+      "views": 172,
       "rank": 25,
       "channel": "초구딱"
     },
     {
-      "title": "일제의 조선 문화재 보호, 조림 이야기 나오면 거품무는 분들 많은데",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610290119735907&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "[하이키] 컴백 콘셉트 필름 버전1 영상",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751822&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 27,
+      "views": 33,
       "rank": 26,
       "channel": "초구딱"
     },
     {
-      "title": "96 3인방 손흥민 찔러 볼거 닽음",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610290119735892&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "[1보] '영원한 수사반장'·'국민 아버지' 최불암 별세",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751816&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 47,
+      "views": 973,
       "rank": 27,
       "channel": "초구딱"
     },
     {
-      "title": "자의식 과잉의 베트남인.jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610290119735829&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "오늘의 한잔",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751804&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 590,
+      "views": 57,
       "rank": 28,
       "channel": "초구딱"
     },
     {
-      "title": "자상한 아버지는 돈이없다?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610290119735808&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "나솔)14광수는 이번기수 남출들하곤 크라스가 다르네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751777&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source": "MLB파크 불펜",
       "category": "야구",
-      "views": 75,
-      "rank": 29,
-      "channel": "초구딱"
-    },
-    {
-      "title": "김도영 팬그래프 평가.jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202610290119735805&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 447,
+      "views": 136,
       "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 60,
+      "article_count": 59,
       "topics": [
         {
           "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
           "angle_type": "가족·혈연",
-          "article_count": 10,
-          "source_article": "주영훈♥이윤미, 세 딸과 결혼 20주년 리마인드 웨딩 \"둘에서 다섯으로, 사랑하고 또 사랑해\"",
-          "source_url": "https://m.entertain.naver.com/article/076/0004460678",
+          "article_count": 9,
+          "source_article": "'아들맘' 오윤아, ♥재혼 상대는 '4살 연하'…\"친구→연인→부부 됐다\"",
+          "source_url": "https://m.entertain.naver.com/article/415/0000053232",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "아들",
-            "주영훈",
-            "이윤미",
-            "딸과",
-            "결혼"
+            "오윤아",
+            "재혼",
+            "아들맘",
+            "상대는"
           ],
           "template": "동갑내기",
           "score": 7.1,
@@ -322,18 +322,51 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 4,
-          "source_article": "“심장 고장? 회사가 더 힘들어” 헤이지니 남편이 한 말…‘연봉 2천’ 직원 억울 심경(리스팩트)",
-          "source_url": "https://m.entertain.naver.com/article/609/0001182432",
+          "title": "\"양홍원까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 7,
+          "source_article": "'가난 코스프레' 논란 도경완, 결국 '편스토랑' 방미심위에 민원 제기",
+          "source_url": "https://m.entertain.naver.com/article/440/0000050595",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "심장",
-            "고장",
-            "회사가",
-            "힘들어",
-            "헤이지"
+            "양홍원",
+            "폭로자",
+            "가난",
+            "코스프",
+            "도경완"
+          ],
+          "template": "논란 집합",
+          "score": 7.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"옥주현, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 5,
+          "source_article": "前소속사 합의했나..\"6억9000여만원 지급하라\" 이승기, 항소 취하",
+          "source_url": "https://m.entertain.naver.com/article/108/0003482649",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "옥주현",
+            "한남더",
+            "소속사",
+            "합의했",
+            "여만원"
           ],
           "template": "자산 서열",
           "score": 7.0,
@@ -355,80 +388,18 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 4,
-          "source_article": "\"정경미, 영어 전공자도 아닌데\"...결국 불거진 원장 전문성 논란",
-          "source_url": "https://m.entertain.naver.com/article/076/0004460787",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "정경미",
-            "영어",
-            "전공자",
-            "아닌데",
-            "불거진"
-          ],
-          "template": "논란 집합",
-          "score": 7.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"양홍원, 대체 무슨 일이?\" 양홍원 관련 이슈 총정리",
-          "angle_type": "👤 양홍원",
-          "article_count": 3,
-          "source_article": "\"양홍원 본계정 DM 공개\"…약물 언급 폭로자 \"♥원현주 의견도 올릴 것\"",
-          "source_url": "https://m.entertain.naver.com/article/311/0002073828",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "양홍원"
-          ],
-          "template": "논란 집합",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "title": "\"오윤아 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
           "angle_type": "결혼·이혼",
           "article_count": 4,
-          "source_article": "“배 가렸네” 25기 영수♥순자, 117일 만에 초고속 결혼…혼전임신설",
-          "source_url": "https://m.entertain.naver.com/article/468/0001276256",
+          "source_article": "임신 4개월까지 숨겼다…\"출산하고도 일하러, 잃을까 봐 겁나\" 속내 밝힌 정지선 ('유퀴즈')",
+          "source_url": "https://m.entertain.naver.com/article/312/0000782025",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "결혼",
-            "가렸네",
-            "영수",
-            "순자",
-            "초고속"
+            "오윤아",
+            "재혼",
+            "임신",
+            "개월까",
+            "숨겼다"
           ],
           "template": "결혼 화제",
           "score": 6.3,
@@ -450,20 +421,20 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"주진우, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
+          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
           "article_count": 2,
-          "source_article": "주진우, ‘황제골프 의혹’ 李대통령 부부 고발⋯“골프 비용 결제 내역과 라운딩 동석한 프로골퍼 레슨 내역 투명하게 공개해야”",
-          "source_url": "https://n.news.naver.com/article/087/0001227168?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
+          "source_article": "'이지훈♥' 아야네, 2살 딸 사교육만 4개..'유난 육아 논란' 5개월만 근황",
+          "source_url": "https://m.entertain.naver.com/article/076/0004460616",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "주진우",
-            "황제골",
-            "의혹",
-            "부부",
-            "고발"
+            "근황",
+            "이지훈",
+            "아야네",
+            "사교육",
+            "유난"
           ],
-          "template": "스포츠 기록",
+          "template": "장기 공백 복귀",
           "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
@@ -474,58 +445,25 @@
           },
           "table": {
             "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-          "angle_type": "투병·건강",
-          "article_count": 3,
-          "source_article": "김정화, 남편 ♥유은성 뇌종양 상태 전했다 \"수술하면 위험..유지 중\"",
-          "source_url": "https://m.entertain.naver.com/article/108/0003482496",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "사망",
-            "김정화",
-            "남편",
-            "유은성",
-            "뇌종양"
-          ],
-          "template": "투병 극복",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
               "이름",
-              "투병 질환",
-              "공백기",
+              "공백 기간",
+              "공백 사유",
               "복귀 작품"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"의혹\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 의혹",
-          "article_count": 4,
-          "source_article": "‘여성 학대 의혹’ 카광, 47만 채널 삭제됐다… “커뮤니티 가이드 위반”",
-          "source_url": "https://m.entertain.naver.com/article/144/0001147089",
+          "title": "\"헤이지, 대체 무슨 일이?\" 헤이지 관련 이슈 총정리",
+          "angle_type": "👤 헤이지",
+          "article_count": 3,
+          "source_article": "“언니 스케줄 내가 시켰어?” 헤이지니 8년 절친, ‘사당귀’ 이미지에 모친도 분통→추가 녹취 공개(리스팩트)",
+          "source_url": "https://m.entertain.naver.com/article/609/0001182430",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "의혹"
+            "헤이지"
           ],
-          "template": "인맥",
+          "template": "논란 집합",
           "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
@@ -537,199 +475,25 @@
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
+              "소속·직업",
+              "논란 내용",
               "현재 상황"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"부부\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 부부",
-          "article_count": 4,
-          "source_article": "기태영·유진 부부, 부친상 당한 박근수 빈소 찾아 조문",
-          "source_url": "https://m.entertain.naver.com/article/410/0001145194",
+          "title": "\"얼굴\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 얼굴",
+          "article_count": 3,
+          "source_article": "닉쿤, '3일 3달걀'로 살 쫙 빼더니→성형 시술 솔직 고백…\"얼굴 처져서 관리해야\"",
+          "source_url": "https://m.entertain.naver.com/article/213/0001406418",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "부부"
+            "얼굴"
           ],
           "template": "인맥",
           "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "재활용 가능",
-            "matched_title": "양준혁 19살 연하 결혼 \"재산 노렸다?\" 나이 파괴 로맨스 스타 부부 모음 #연예인 #연예계소식",
-            "matched_views": 98666,
-            "reason": "검증됨 98,666회 · 234일 경과"
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"찬스\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 찬스",
-          "article_count": 3,
-          "source_article": "천하람 “청년들은 李대통령이 망가뜨린 주거 사다리 때문에 내 집 마련은커녕 전셋집도 얻기 힘든 상황인데 정작 ‘한남동 관저’ 거주하는 자기 아들은 ‘아빠 찬스”",
-          "source_url": "https://n.news.naver.com/article/087/0001227229?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
-          "related_names": [
-            "찬스"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"한남동\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 한남동",
-          "article_count": 3,
-          "source_article": "천하람 “청년들은 李대통령이 망가뜨린 주거 사다리 때문에 내 집 마련은커녕 전셋집도 얻기 힘든 상황인데 정작 ‘한남동 관저’ 거주하는 자기 아들은 ‘아빠 찬스”",
-          "source_url": "https://n.news.naver.com/article/087/0001227229?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
-          "related_names": [
-            "한남동"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"아빠\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 아빠",
-          "article_count": 3,
-          "source_article": "천하람 “청년들은 李대통령이 망가뜨린 주거 사다리 때문에 내 집 마련은커녕 전셋집도 얻기 힘든 상황인데 정작 ‘한남동 관저’ 거주하는 자기 아들은 ‘아빠 찬스”",
-          "source_url": "https://n.news.naver.com/article/087/0001227229?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
-          "related_names": [
-            "아빠"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"경찰\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 경찰",
-          "article_count": 3,
-          "source_article": "“한동훈이 명예훼손”...김승원 ‘신약 청탁 의혹’ 브로커, 경찰 출석",
-          "source_url": "https://n.news.naver.com/article/023/0004006665?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
-          "related_names": [
-            "경찰"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"남성\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 남성",
-          "article_count": 3,
-          "source_article": "구로 유기 시신은 외국인 남성…피의자 “인형인줄 알았다”",
-          "source_url": "https://n.news.naver.com/article/020/0003758724?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
-          "related_names": [
-            "남성"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"여성\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 여성",
-          "article_count": 4,
-          "source_article": "체중 132㎏ 여성 아이돌 후보생 화제…\"무릎이 보이지 않아요\"",
-          "source_url": "https://m.entertain.naver.com/article/076/0004460661",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "여성"
-          ],
-          "template": "인맥",
-          "score": 5.4,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -750,47 +514,27 @@
       ],
       "keyword_freq": [
         [
-          "여성",
+          "아들",
           4
         ],
         [
-          "의혹",
-          4
-        ],
-        [
-          "부부",
-          4
+          "헤이지니",
+          3
         ],
         [
           "양홍원",
           3
         ],
         [
-          "찬스",
+          "얼굴",
           3
         ],
         [
-          "한남동",
-          3
-        ],
-        [
-          "아빠",
-          3
-        ],
-        [
-          "경찰",
-          3
-        ],
-        [
-          "남성",
-          3
-        ],
-        [
-          "헤이지니",
+          "도경완",
           2
         ],
         [
-          "리스팩트",
+          "폭로자",
           2
         ],
         [
@@ -798,81 +542,85 @@
           2
         ],
         [
-          "결혼",
+          "달걀",
           2
         ],
         [
-          "유퀴즈",
+          "부부",
           2
         ],
         [
-          "사랑해",
+          "달라진",
           2
         ],
         [
-          "집에",
+          "재혼",
           2
         ],
         [
-          "최진실",
+          "오윤아",
           2
         ],
         [
-          "최준희",
+          "그냥",
           2
         ],
         [
-          "아들",
+          "발언",
           2
         ],
         [
-          "사망",
+          "근황",
+          2
+        ],
+        [
+          "유시민",
+          2
+        ],
+        [
+          "흉기",
+          2
+        ],
+        [
+          "한남더힐",
+          2
+        ],
+        [
+          "옥주현",
+          2
+        ],
+        [
+          "이종석",
           2
         ]
       ],
       "name_freq": [
         [
-          "여성",
+          "아들",
           4
         ],
         [
-          "의혹",
-          4
-        ],
-        [
-          "부부",
-          4
+          "헤이지",
+          3
         ],
         [
           "양홍원",
           3
         ],
         [
-          "찬스",
+          "얼굴",
           3
         ],
         [
-          "한남동",
-          3
-        ],
-        [
-          "아빠",
-          3
-        ],
-        [
-          "경찰",
-          3
-        ],
-        [
-          "남성",
-          3
-        ],
-        [
-          "헤이지",
+          "도경완",
           2
         ],
         [
-          "리스팩",
+          "포기하",
+          2
+        ],
+        [
+          "폭로자",
           2
         ],
         [
@@ -880,42 +628,54 @@
           2
         ],
         [
-          "결혼",
+          "달걀",
           2
         ],
         [
-          "유퀴즈",
+          "부부",
           2
         ],
         [
-          "사랑해",
+          "달라진",
+          2
+        ],
+        [
+          "재혼",
+          2
+        ],
+        [
+          "오윤아",
+          2
+        ],
+        [
+          "그냥",
+          2
+        ],
+        [
+          "발언",
           2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
-          4
+          5
         ],
         [
           "논란·사건",
-          4
+          7
         ],
         [
           "결혼·이혼",
           4
         ],
         [
-          "투병·건강",
-          3
-        ],
-        [
-          "스포츠",
+          "복귀·근황",
           2
         ],
         [
           "가족·혈연",
-          10
+          9
         ]
       ]
     },
@@ -923,21 +683,21 @@
       "article_count": 30,
       "topics": [
         {
-          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 2,
-          "source_article": "삼성 휴대폰 사업이 사기긴 함",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610290119735913&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
+          "title": "\"포스트, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 3,
+          "source_article": "허진호 감독 '암살자(들)' 340만 관객 돌파…손익분기점 넘어",
+          "source_url": "https://n.news.naver.com/article/001/0016410385?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
           "related_names": [
-            "박진만",
-            "승부사",
-            "기질이",
-            "별로",
-            "없는듯"
+            "포스트",
+            "시즌",
+            "대진표",
+            "허진호",
+            "감독"
           ],
-          "template": "논란 집합",
-          "score": 7.0,
+          "template": "스포츠 기록",
+          "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -947,30 +707,30 @@
           },
           "table": {
             "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
             ]
           },
           "channel": "초구딱"
         },
         {
-          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 2,
-          "source_article": "고오쓰 같은 플스겜은 다 이러나요? 버튼 딸깍?",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610290119736204&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+          "angle_type": "투병·건강",
+          "article_count": 4,
+          "source_article": "[1보] '영원한 수사반장'·'국민 아버지' 최불암 별세",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751816&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
           "source_name": "MLB파크 불펜",
           "related_names": [
-            "부모님",
-            "노후대",
-            "비가",
-            "되어있",
-            "으면"
+            "최불암",
+            "영원한",
+            "수사반",
+            "아버지",
+            "별세"
           ],
-          "template": "동갑내기",
-          "score": 6.1,
+          "template": "투병 극복",
+          "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -981,9 +741,9 @@
           "table": {
             "headers": [
               "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
+              "투병 질환",
+              "공백기",
+              "복귀 작품"
             ]
           },
           "channel": "초구딱"
@@ -1047,20 +807,49 @@
           "channel": "초구딱"
         },
         {
-          "title": "\"포스트, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 2,
-          "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 <밀워키 브루어스 우승> ⚾",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
+          "title": "\"최불암\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 최불암",
+          "article_count": 3,
+          "source_article": "[속보] ‘영원한 수사반장’·‘국민 아버지’ 최불암 별세",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751912&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
           "source_name": "MLB파크 불펜",
           "related_names": [
-            "포스트",
-            "시즌",
-            "대진표",
-            "메이저",
-            "리그"
+            "최불암"
           ],
-          "template": "스포츠 기록",
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 2,
+          "source_article": "환갑 넘은 브래드 피트 근황",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751897&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "환갑",
+            "넘은",
+            "브래드",
+            "피트",
+            "근황"
+          ],
+          "template": "장기 공백 복귀",
           "score": 5.8,
           "dup_check": {
             "is_duplicate": false,
@@ -1071,10 +860,10 @@
           },
           "table": {
             "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
             ]
           },
           "channel": "초구딱"
@@ -1090,6 +879,10 @@
           3
         ],
         [
+          "최불암",
+          3
+        ],
+        [
           "조치",
           2
         ],
@@ -1098,7 +891,51 @@
           2
         ],
         [
-          "처리",
+          "영원한",
+          2
+        ],
+        [
+          "수사반장",
+          2
+        ],
+        [
+          "아버지",
+          2
+        ],
+        [
+          "별세",
+          2
+        ],
+        [
+          "넘어",
+          1
+        ],
+        [
+          "암살자",
+          1
+        ],
+        [
+          "돌파",
+          1
+        ],
+        [
+          "손익분기점",
+          1
+        ],
+        [
+          "관객",
+          1
+        ],
+        [
+          "감독",
+          1
+        ],
+        [
+          "허진호",
+          1
+        ],
+        [
+          "위반",
           1
         ],
         [
@@ -1110,55 +947,7 @@
           1
         ],
         [
-          "위반",
-          1
-        ],
-        [
           "말머리",
-          1
-        ],
-        [
-          "시행",
-          1
-        ],
-        [
-          "인용",
-          1
-        ],
-        [
-          "가이드",
-          1
-        ],
-        [
-          "유의사항",
-          1
-        ],
-        [
-          "필독",
-          1
-        ],
-        [
-          "뉴스저작물",
-          1
-        ],
-        [
-          "접속",
-          1
-        ],
-        [
-          "장애",
-          1
-        ],
-        [
-          "업데이트",
-          1
-        ],
-        [
-          "해외",
-          1
-        ],
-        [
-          "식별",
           1
         ]
       ],
@@ -1168,11 +957,15 @@
           4
         ],
         [
+          "시즌",
+          3
+        ],
+        [
           "포스트",
           3
         ],
         [
-          "시즌",
+          "최불암",
           3
         ],
         [
@@ -1182,41 +975,57 @@
         [
           "대진표",
           2
+        ],
+        [
+          "수사반",
+          2
+        ],
+        [
+          "영원한",
+          2
+        ],
+        [
+          "아버지",
+          2
+        ],
+        [
+          "별세",
+          2
         ]
       ],
       "angle_scores": [
         [
-          "논란·사건",
+          "복귀·근황",
           2
+        ],
+        [
+          "투병·건강",
+          4
         ],
         [
           "스포츠",
-          2
-        ],
-        [
-          "가족·혈연",
-          2
+          3
         ]
       ]
     }
   },
   "topics": [
     {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 2,
-      "source_article": "삼성 휴대폰 사업이 사기긴 함",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610290119735913&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
+      "title": "\"포스트, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 3,
+      "source_article": "허진호 감독 '암살자(들)' 340만 관객 돌파…손익분기점 넘어",
+      "source_url": "https://n.news.naver.com/article/001/0016410385?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
       "related_names": [
-        "박진만",
-        "승부사",
-        "기질이",
-        "별로",
-        "없는듯"
+        "포스트",
+        "시즌",
+        "대진표",
+        "허진호",
+        "감독"
       ],
-      "template": "논란 집합",
-      "score": 7.0,
+      "template": "스포츠 기록",
+      "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1226,30 +1035,30 @@
       },
       "table": {
         "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
         ]
       },
       "channel": "초구딱"
     },
     {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 2,
-      "source_article": "고오쓰 같은 플스겜은 다 이러나요? 버튼 딸깍?",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610290119736204&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+      "angle_type": "투병·건강",
+      "article_count": 4,
+      "source_article": "[1보] '영원한 수사반장'·'국민 아버지' 최불암 별세",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751816&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "부모님",
-        "노후대",
-        "비가",
-        "되어있",
-        "으면"
+        "최불암",
+        "영원한",
+        "수사반",
+        "아버지",
+        "별세"
       ],
-      "template": "동갑내기",
-      "score": 6.1,
+      "template": "투병 극복",
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1260,9 +1069,9 @@
       "table": {
         "headers": [
           "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
+          "투병 질환",
+          "공백기",
+          "복귀 작품"
         ]
       },
       "channel": "초구딱"
@@ -1326,20 +1135,49 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"포스트, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 2,
-      "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 <밀워키 브루어스 우승> ⚾",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
+      "title": "\"최불암\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 최불암",
+      "article_count": 3,
+      "source_article": "[속보] ‘영원한 수사반장’·‘국민 아버지’ 최불암 별세",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751912&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "포스트",
-        "시즌",
-        "대진표",
-        "메이저",
-        "리그"
+        "최불암"
       ],
-      "template": "스포츠 기록",
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "환갑 넘은 브래드 피트 근황",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751897&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "환갑",
+        "넘은",
+        "브래드",
+        "피트",
+        "근황"
+      ],
+      "template": "장기 공백 복귀",
       "score": 5.8,
       "dup_check": {
         "is_duplicate": false,
@@ -1350,10 +1188,10 @@
       },
       "table": {
         "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "초구딱"
@@ -1363,16 +1201,16 @@
     {
       "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
       "angle_type": "가족·혈연",
-      "article_count": 10,
-      "source_article": "주영훈♥이윤미, 세 딸과 결혼 20주년 리마인드 웨딩 \"둘에서 다섯으로, 사랑하고 또 사랑해\"",
-      "source_url": "https://m.entertain.naver.com/article/076/0004460678",
+      "article_count": 9,
+      "source_article": "'아들맘' 오윤아, ♥재혼 상대는 '4살 연하'…\"친구→연인→부부 됐다\"",
+      "source_url": "https://m.entertain.naver.com/article/415/0000053232",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "아들",
-        "주영훈",
-        "이윤미",
-        "딸과",
-        "결혼"
+        "오윤아",
+        "재혼",
+        "아들맘",
+        "상대는"
       ],
       "template": "동갑내기",
       "score": 7.1,
@@ -1394,18 +1232,51 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 4,
-      "source_article": "“심장 고장? 회사가 더 힘들어” 헤이지니 남편이 한 말…‘연봉 2천’ 직원 억울 심경(리스팩트)",
-      "source_url": "https://m.entertain.naver.com/article/609/0001182432",
+      "title": "\"양홍원까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 7,
+      "source_article": "'가난 코스프레' 논란 도경완, 결국 '편스토랑' 방미심위에 민원 제기",
+      "source_url": "https://m.entertain.naver.com/article/440/0000050595",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "심장",
-        "고장",
-        "회사가",
-        "힘들어",
-        "헤이지"
+        "양홍원",
+        "폭로자",
+        "가난",
+        "코스프",
+        "도경완"
+      ],
+      "template": "논란 집합",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"옥주현, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 5,
+      "source_article": "前소속사 합의했나..\"6억9000여만원 지급하라\" 이승기, 항소 취하",
+      "source_url": "https://m.entertain.naver.com/article/108/0003482649",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "옥주현",
+        "한남더",
+        "소속사",
+        "합의했",
+        "여만원"
       ],
       "template": "자산 서열",
       "score": 7.0,
@@ -1427,80 +1298,18 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 4,
-      "source_article": "\"정경미, 영어 전공자도 아닌데\"...결국 불거진 원장 전문성 논란",
-      "source_url": "https://m.entertain.naver.com/article/076/0004460787",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "정경미",
-        "영어",
-        "전공자",
-        "아닌데",
-        "불거진"
-      ],
-      "template": "논란 집합",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"양홍원, 대체 무슨 일이?\" 양홍원 관련 이슈 총정리",
-      "angle_type": "👤 양홍원",
-      "article_count": 3,
-      "source_article": "\"양홍원 본계정 DM 공개\"…약물 언급 폭로자 \"♥원현주 의견도 올릴 것\"",
-      "source_url": "https://m.entertain.naver.com/article/311/0002073828",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "양홍원"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "title": "\"오윤아 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
       "angle_type": "결혼·이혼",
       "article_count": 4,
-      "source_article": "“배 가렸네” 25기 영수♥순자, 117일 만에 초고속 결혼…혼전임신설",
-      "source_url": "https://m.entertain.naver.com/article/468/0001276256",
+      "source_article": "임신 4개월까지 숨겼다…\"출산하고도 일하러, 잃을까 봐 겁나\" 속내 밝힌 정지선 ('유퀴즈')",
+      "source_url": "https://m.entertain.naver.com/article/312/0000782025",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "결혼",
-        "가렸네",
-        "영수",
-        "순자",
-        "초고속"
+        "오윤아",
+        "재혼",
+        "임신",
+        "개월까",
+        "숨겼다"
       ],
       "template": "결혼 화제",
       "score": 6.3,
@@ -1522,18 +1331,109 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"주진우, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
       "article_count": 2,
-      "source_article": "주진우, ‘황제골프 의혹’ 李대통령 부부 고발⋯“골프 비용 결제 내역과 라운딩 동석한 프로골퍼 레슨 내역 투명하게 공개해야”",
-      "source_url": "https://n.news.naver.com/article/087/0001227168?ntype=RANKING",
+      "source_article": "'이지훈♥' 아야네, 2살 딸 사교육만 4개..'유난 육아 논란' 5개월만 근황",
+      "source_url": "https://m.entertain.naver.com/article/076/0004460616",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "근황",
+        "이지훈",
+        "아야네",
+        "사교육",
+        "유난"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"헤이지, 대체 무슨 일이?\" 헤이지 관련 이슈 총정리",
+      "angle_type": "👤 헤이지",
+      "article_count": 3,
+      "source_article": "“언니 스케줄 내가 시켰어?” 헤이지니 8년 절친, ‘사당귀’ 이미지에 모친도 분통→추가 녹취 공개(리스팩트)",
+      "source_url": "https://m.entertain.naver.com/article/609/0001182430",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "헤이지"
+      ],
+      "template": "논란 집합",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"얼굴\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 얼굴",
+      "article_count": 3,
+      "source_article": "닉쿤, '3일 3달걀'로 살 쫙 빼더니→성형 시술 솔직 고백…\"얼굴 처져서 관리해야\"",
+      "source_url": "https://m.entertain.naver.com/article/213/0001406418",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "얼굴"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"포스트, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 3,
+      "source_article": "허진호 감독 '암살자(들)' 340만 관객 돌파…손익분기점 넘어",
+      "source_url": "https://n.news.naver.com/article/001/0016410385?ntype=RANKING",
       "source_name": "[폴백] 스포츠 랭킹",
       "related_names": [
-        "주진우",
-        "황제골",
-        "의혹",
-        "부부",
-        "고발"
+        "포스트",
+        "시즌",
+        "대진표",
+        "허진호",
+        "감독"
       ],
       "template": "스포츠 기록",
       "score": 6.3,
@@ -1552,21 +1452,21 @@
           "기록 가치"
         ]
       },
-      "channel": "정보주는하마"
+      "channel": "초구딱"
     },
     {
       "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
       "angle_type": "투병·건강",
-      "article_count": 3,
-      "source_article": "김정화, 남편 ♥유은성 뇌종양 상태 전했다 \"수술하면 위험..유지 중\"",
-      "source_url": "https://m.entertain.naver.com/article/108/0003482496",
-      "source_name": "엔터 많이 본 뉴스",
+      "article_count": 4,
+      "source_article": "[1보] '영원한 수사반장'·'국민 아버지' 최불암 별세",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751816&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
       "related_names": [
-        "사망",
-        "김정화",
-        "남편",
-        "유은성",
-        "뇌종양"
+        "최불암",
+        "영원한",
+        "수사반",
+        "아버지",
+        "별세"
       ],
       "template": "투병 극복",
       "score": 6.0,
@@ -1583,304 +1483,6 @@
           "투병 질환",
           "공백기",
           "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"의혹\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 의혹",
-      "article_count": 4,
-      "source_article": "‘여성 학대 의혹’ 카광, 47만 채널 삭제됐다… “커뮤니티 가이드 위반”",
-      "source_url": "https://m.entertain.naver.com/article/144/0001147089",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "의혹"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"부부\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 부부",
-      "article_count": 4,
-      "source_article": "기태영·유진 부부, 부친상 당한 박근수 빈소 찾아 조문",
-      "source_url": "https://m.entertain.naver.com/article/410/0001145194",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "부부"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "재활용 가능",
-        "matched_title": "양준혁 19살 연하 결혼 \"재산 노렸다?\" 나이 파괴 로맨스 스타 부부 모음 #연예인 #연예계소식",
-        "matched_views": 98666,
-        "reason": "검증됨 98,666회 · 234일 경과"
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"찬스\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 찬스",
-      "article_count": 3,
-      "source_article": "천하람 “청년들은 李대통령이 망가뜨린 주거 사다리 때문에 내 집 마련은커녕 전셋집도 얻기 힘든 상황인데 정작 ‘한남동 관저’ 거주하는 자기 아들은 ‘아빠 찬스”",
-      "source_url": "https://n.news.naver.com/article/087/0001227229?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
-      "related_names": [
-        "찬스"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"한남동\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 한남동",
-      "article_count": 3,
-      "source_article": "천하람 “청년들은 李대통령이 망가뜨린 주거 사다리 때문에 내 집 마련은커녕 전셋집도 얻기 힘든 상황인데 정작 ‘한남동 관저’ 거주하는 자기 아들은 ‘아빠 찬스”",
-      "source_url": "https://n.news.naver.com/article/087/0001227229?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
-      "related_names": [
-        "한남동"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"아빠\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 아빠",
-      "article_count": 3,
-      "source_article": "천하람 “청년들은 李대통령이 망가뜨린 주거 사다리 때문에 내 집 마련은커녕 전셋집도 얻기 힘든 상황인데 정작 ‘한남동 관저’ 거주하는 자기 아들은 ‘아빠 찬스”",
-      "source_url": "https://n.news.naver.com/article/087/0001227229?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
-      "related_names": [
-        "아빠"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"경찰\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 경찰",
-      "article_count": 3,
-      "source_article": "“한동훈이 명예훼손”...김승원 ‘신약 청탁 의혹’ 브로커, 경찰 출석",
-      "source_url": "https://n.news.naver.com/article/023/0004006665?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
-      "related_names": [
-        "경찰"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"남성\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 남성",
-      "article_count": 3,
-      "source_article": "구로 유기 시신은 외국인 남성…피의자 “인형인줄 알았다”",
-      "source_url": "https://n.news.naver.com/article/020/0003758724?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
-      "related_names": [
-        "남성"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"여성\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 여성",
-      "article_count": 4,
-      "source_article": "체중 132㎏ 여성 아이돌 후보생 화제…\"무릎이 보이지 않아요\"",
-      "source_url": "https://m.entertain.naver.com/article/076/0004460661",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "여성"
-      ],
-      "template": "인맥",
-      "score": 5.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 2,
-      "source_article": "삼성 휴대폰 사업이 사기긴 함",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610290119735913&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "박진만",
-        "승부사",
-        "기질이",
-        "별로",
-        "없는듯"
-      ],
-      "template": "논란 집합",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 2,
-      "source_article": "고오쓰 같은 플스겜은 다 이러나요? 버튼 딸깍?",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610290119736204&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "부모님",
-        "노후대",
-        "비가",
-        "되어있",
-        "으면"
-      ],
-      "template": "동갑내기",
-      "score": 6.1,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
         ]
       },
       "channel": "초구딱"
@@ -1944,20 +1546,49 @@
       "channel": "초구딱"
     },
     {
-      "title": "\"포스트, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 2,
-      "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 <밀워키 브루어스 우승> ⚾",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
+      "title": "\"최불암\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 최불암",
+      "article_count": 3,
+      "source_article": "[속보] ‘영원한 수사반장’·‘국민 아버지’ 최불암 별세",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751912&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
       "source_name": "MLB파크 불펜",
       "related_names": [
-        "포스트",
-        "시즌",
-        "대진표",
-        "메이저",
-        "리그"
+        "최불암"
       ],
-      "template": "스포츠 기록",
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "환갑 넘은 브래드 피트 근황",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202610300119751897&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "환갑",
+        "넘은",
+        "브래드",
+        "피트",
+        "근황"
+      ],
+      "template": "장기 공백 복귀",
       "score": 5.8,
       "dup_check": {
         "is_duplicate": false,
@@ -1968,10 +1599,10 @@
       },
       "table": {
         "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "초구딱"
@@ -1979,47 +1610,27 @@
   ],
   "keyword_freq": [
     [
-      "여성",
+      "아들",
       4
     ],
     [
-      "의혹",
-      4
-    ],
-    [
-      "부부",
-      4
+      "헤이지니",
+      3
     ],
     [
       "양홍원",
       3
     ],
     [
-      "찬스",
+      "얼굴",
       3
     ],
     [
-      "한남동",
-      3
-    ],
-    [
-      "아빠",
-      3
-    ],
-    [
-      "경찰",
-      3
-    ],
-    [
-      "남성",
-      3
-    ],
-    [
-      "헤이지니",
+      "도경완",
       2
     ],
     [
-      "리스팩트",
+      "폭로자",
       2
     ],
     [
@@ -2027,81 +1638,85 @@
       2
     ],
     [
-      "결혼",
+      "달걀",
       2
     ],
     [
-      "유퀴즈",
+      "부부",
       2
     ],
     [
-      "사랑해",
+      "달라진",
       2
     ],
     [
-      "집에",
+      "재혼",
       2
     ],
     [
-      "최진실",
+      "오윤아",
       2
     ],
     [
-      "최준희",
+      "그냥",
       2
     ],
     [
-      "아들",
+      "발언",
       2
     ],
     [
-      "사망",
+      "근황",
+      2
+    ],
+    [
+      "유시민",
+      2
+    ],
+    [
+      "흉기",
+      2
+    ],
+    [
+      "한남더힐",
+      2
+    ],
+    [
+      "옥주현",
+      2
+    ],
+    [
+      "이종석",
       2
     ]
   ],
   "name_freq": [
     [
-      "여성",
+      "아들",
       4
     ],
     [
-      "의혹",
-      4
-    ],
-    [
-      "부부",
-      4
+      "헤이지",
+      3
     ],
     [
       "양홍원",
       3
     ],
     [
-      "찬스",
+      "얼굴",
       3
     ],
     [
-      "한남동",
-      3
-    ],
-    [
-      "아빠",
-      3
-    ],
-    [
-      "경찰",
-      3
-    ],
-    [
-      "남성",
-      3
-    ],
-    [
-      "헤이지",
+      "도경완",
       2
     ],
     [
-      "리스팩",
+      "포기하",
+      2
+    ],
+    [
+      "폭로자",
       2
     ],
     [
@@ -2109,19 +1724,35 @@
       2
     ],
     [
-      "결혼",
+      "달걀",
       2
     ],
     [
-      "유퀴즈",
+      "부부",
       2
     ],
     [
-      "사랑해",
+      "달라진",
+      2
+    ],
+    [
+      "재혼",
+      2
+    ],
+    [
+      "오윤아",
+      2
+    ],
+    [
+      "그냥",
+      2
+    ],
+    [
+      "발언",
       2
     ]
   ],
-  "total_topics_generated": 20,
-  "valid_topics": 20,
+  "total_topics_generated": 13,
+  "valid_topics": 13,
   "excluded_duplicates": 0
 }
