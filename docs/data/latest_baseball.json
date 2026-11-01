@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-11-01 11:40:57",
+  "scan_time": "2026-11-01 15:30:45",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -9,298 +9,37 @@
     "[폴백] 스포츠 랭킹": 30,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 30
+    "MLB파크 불펜": 0
   },
-  "total_articles": 90,
+  "total_articles": 60,
   "articles": [
     {
-      "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
-      "source": "MLB파크 불펜",
-      "category": "야구",
+      "title": "사천 공군기지 KT-1 훈련기 '아찔' 공중충돌…부상자 없어",
+      "url": "https://n.news.naver.com/article/001/0016414550?ntype=RANKING",
+      "source": "[폴백] 스포츠 랭킹",
+      "category": "스포츠",
       "views": 0,
-      "rank": 1,
-      "channel": "초구딱"
-    },
-    {
-      "title": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 2,
-      "channel": "초구딱"
-    },
-    {
-      "title": "🛠️[업데이트] 해외 접속 장애 조치 관련 안내_260814🛠️",
-      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202608130000002151",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 3,
-      "channel": "초구딱"
-    },
-    {
-      "title": "[공지] 이미지 업로드 시 불법촬영물등 비교·식별 조치 적용 안내",
-      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202609040000002163",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 4,
-      "channel": "초구딱"
-    },
-    {
-      "title": "⚾ 2026 메이저리그 포스트시즌 대진표 <밀워키 브루어스 우승> ⚾",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 5,
-      "channel": "초구딱"
-    },
-    {
-      "title": "⚾ 2026 KBO 포스트시즌 대진표 ⚾",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202610130000002190",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 6,
-      "channel": "초구딱"
-    },
-    {
-      "title": "🚨[2026 포스트시즌] 엠팍 내 티켓 거래 / 양도 관련 안내🚨",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202610130000002193",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 7,
-      "channel": "초구딱"
-    },
-    {
-      "title": "🎞️[헝거게임 50번째 추첨의 날] 개봉 기념 시사회 초대 이벤트🎞️",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202610290000002196",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 8,
-      "channel": "초구딱"
-    },
-    {
-      "title": "쿠팡이 이마트보다 장사잘되나요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611010119823300&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 9,
-      "channel": "초구딱"
-    },
-    {
-      "title": "그제 mbc가 야구중계 안하고 뜬금 드라마 방영한게 설마",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611010119823294&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 46,
-      "rank": 10,
-      "channel": "초구딱"
-    },
-    {
-      "title": "삼성이 우승했으면 좋겠내요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611010119823291&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 21,
-      "rank": 11,
-      "channel": "초구딱"
-    },
-    {
-      "title": "폴더블폰 접어서 사용하는 비중은 어느정도인가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611010119823285&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 12,
-      "channel": "초구딱"
-    },
-    {
-      "title": "슬럿머쉰 777 뜨면 배팅금액  100~500배라는데",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611010119823282&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 18,
       "rank": 13,
-      "channel": "초구딱"
-    },
-    {
-      "title": "일본 아이돌이 추는 캐치캐치 ㄷㄷㄷ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611010119823279&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 38,
-      "rank": 14,
-      "channel": "초구딱"
-    },
-    {
-      "title": "( 마지막까지 보셔야 됨... ) 주식고수 황현희 : 저는 제 목에 칼이 들어와도 지금 주식 시장 안들어갑니다....jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611010119823273&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 68,
-      "rank": 15,
-      "channel": "초구딱"
-    },
-    {
-      "title": "평균 3등급이면 어느대학가나요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611010119823270&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 42,
-      "rank": 16,
-      "channel": "초구딱"
-    },
-    {
-      "title": "K팝에스며든 기술 뉴스.news",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611010119823264&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 41,
-      "rank": 17,
-      "channel": "초구딱"
-    },
-    {
-      "title": "스탠 농약통 분무기 실물.jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611010119823261&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 72,
-      "rank": 18,
-      "channel": "초구딱"
-    },
-    {
-      "title": "남자 외모에서 콧대, 얼굴형 많이 중요한가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611010119823258&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 35,
-      "rank": 19,
-      "channel": "초구딱"
-    },
-    {
-      "title": "제네시스 광주 전시장 크기 장난아니네요.jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611010119823255&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 112,
-      "rank": 20,
-      "channel": "초구딱"
-    },
-    {
-      "title": "AI  만약 드퀘5 를 90년대풍 애니로 만든다면",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611010119823249&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 33,
-      "rank": 21,
-      "channel": "초구딱"
-    },
-    {
-      "title": "SBS 풀카운트 티져",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611010119823243&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 100,
-      "rank": 22,
-      "channel": "초구딱"
-    },
-    {
-      "title": "신감김 3화 리뷰 양효진",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611010119823240&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 26,
-      "rank": 23,
-      "channel": "초구딱"
-    },
-    {
-      "title": "이마트랑 롯데마트랑 빅세일 하던데 어디가 낫나요??",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611010119823237&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 22,
-      "rank": 24,
-      "channel": "초구딱"
-    },
-    {
-      "title": "꿀알바 코믹 부분..",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611010119823234&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 36,
-      "rank": 25,
-      "channel": "초구딱"
-    },
-    {
-      "title": "(소신발언)어차피 마라톤 반짝입니다",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611010119823225&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 44,
-      "rank": 26,
-      "channel": "초구딱"
-    },
-    {
-      "title": "티아라 소연 임신했네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611010119823222&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 310,
-      "rank": 27,
-      "channel": "초구딱"
-    },
-    {
-      "title": "공군 조종사들이 상당히 젠틀한 맛이 있습니다.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611010119823213&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 145,
-      "rank": 28,
-      "channel": "초구딱"
-    },
-    {
-      "title": "마라톤의 나라인가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611010119823207&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=kakao.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 173,
-      "rank": 29,
-      "channel": "초구딱"
-    },
-    {
-      "title": "박살난 차 받은 테슬라 사건.... 그후.....jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611010119823201&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 522,
-      "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 60,
+      "article_count": 59,
       "topics": [
         {
           "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
           "angle_type": "투병·건강",
-          "article_count": 6,
+          "article_count": 9,
           "source_article": "故 최불암 빈소 찾지 못한 김용건…백일섭 \"子 하정우 결혼하지 않느냐\"",
           "source_url": "https://m.entertain.naver.com/article/117/0004120542",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "최불암",
             "빈소",
-            "김용건",
-            "하정우",
-            "백일섭"
+            "백일섭",
+            "전원일",
+            "김용건"
           ],
           "template": "투병 극복",
           "score": 7.2,
@@ -324,7 +63,7 @@
         {
           "title": "\"최불암 결혼설?\" 최불암 연애사 총정리",
           "angle_type": "👤 최불암",
-          "article_count": 6,
+          "article_count": 7,
           "source_article": "故 최불암 빈소 찾지 못한 김용건…백일섭 \"子 하정우 결혼하지 않느냐\"",
           "source_url": "https://m.entertain.naver.com/article/117/0004120542",
           "source_name": "엔터 많이 본 뉴스",
@@ -351,51 +90,18 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 8,
-          "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
-          "source_url": "https://m.entertain.naver.com/article/108/0003483468",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "아들",
-            "죽을래",
-            "주상욱",
-            "보고",
-            "결혼했"
-          ],
-          "template": "동갑내기",
-          "score": 7.1,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
           "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
           "angle_type": "자산·몸값",
-          "article_count": 5,
-          "source_article": "이경실, 89평 아파트 경매 위기..\"김지선이 빌려준 1억에 눈물 쏟아\"",
-          "source_url": "https://m.entertain.naver.com/article/076/0004461669",
+          "article_count": 4,
+          "source_article": "아빠 빚 10억 갚던 '효녀'였는데...차예련, 학폭 의혹에 '바른 생활' 이미지 흔들",
+          "source_url": "https://m.entertain.naver.com/article/076/0004461769",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "이경실",
-            "아파트",
-            "경매",
-            "위기",
-            "김지선"
+            "아빠",
+            "갚던",
+            "효녀",
+            "였는데",
+            "차예련"
           ],
           "template": "자산 서열",
           "score": 7.0,
@@ -417,18 +123,51 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-          "angle_type": "결혼·이혼",
-          "article_count": 11,
+          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+          "angle_type": "가족·혈연",
+          "article_count": 4,
           "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
           "source_url": "https://m.entertain.naver.com/article/108/0003483468",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
+            "주상욱",
+            "보고",
+            "결혼했",
+            "학폭",
+            "의혹"
+          ],
+          "template": "동갑내기",
+          "score": 6.9,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "나이",
+              "대표작",
+              "현재 활동"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"해명 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "angle_type": "결혼·이혼",
+          "article_count": 9,
+          "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
+          "source_url": "https://m.entertain.naver.com/article/108/0003483468",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "해명",
             "결혼",
-            "최불암",
-            "김용건",
-            "하정우",
-            "해명"
+            "이혼",
+            "주상욱",
+            "보고"
           ],
           "template": "결혼 화제",
           "score": 6.8,
@@ -450,9 +189,42 @@
           "channel": "정보주는하마"
         },
         {
+          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 6,
+          "source_article": "‘배우 준비’ 정웅인 첫째 딸 근황, 경북대 퀸카 母가 자랑할 수밖에 “오구 예뻐”",
+          "source_url": "https://m.entertain.naver.com/article/609/0001183281",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "근황",
+            "확정",
+            "달라진",
+            "배우",
+            "준비"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
           "title": "\"빈소 결혼설?\" 빈소 연애사 총정리",
           "angle_type": "👤 빈소",
-          "article_count": 3,
+          "article_count": 4,
           "source_article": "故 최불암 빈소 찾지 못한 김용건…백일섭 \"子 하정우 결혼하지 않느냐\"",
           "source_url": "https://m.entertain.naver.com/article/117/0004120542",
           "source_name": "엔터 많이 본 뉴스",
@@ -479,14 +251,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"김용건 결혼설?\" 김용건 연애사 총정리",
-          "angle_type": "👤 김용건",
+          "title": "\"백일섭 결혼설?\" 백일섭 연애사 총정리",
+          "angle_type": "👤 백일섭",
           "article_count": 3,
           "source_article": "故 최불암 빈소 찾지 못한 김용건…백일섭 \"子 하정우 결혼하지 않느냐\"",
           "source_url": "https://m.entertain.naver.com/article/117/0004120542",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "김용건"
+            "백일섭"
           ],
           "template": "결혼 화제",
           "score": 6.7,
@@ -508,17 +280,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"하정우 결혼설?\" 하정우 연애사 총정리",
-          "angle_type": "👤 하정우",
-          "article_count": 3,
-          "source_article": "故 최불암 빈소 찾지 못한 김용건…백일섭 \"子 하정우 결혼하지 않느냐\"",
-          "source_url": "https://m.entertain.naver.com/article/117/0004120542",
+          "title": "\"보고 결혼설?\" 보고 연애사 총정리",
+          "angle_type": "👤 보고",
+          "article_count": 4,
+          "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
+          "source_url": "https://m.entertain.naver.com/article/108/0003483468",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "하정우"
+            "보고"
           ],
           "template": "결혼 화제",
-          "score": 6.7,
+          "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -537,40 +309,7 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 2,
-          "source_article": "'차예련 학폭' 추가 폭로 연발 \"사실무근? 간 크네..일진 여왕벌이었다\"",
-          "source_url": "https://m.entertain.naver.com/article/477/0000636293",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "차예련",
-            "학폭",
-            "추가",
-            "폭로",
-            "연발"
-          ],
-          "template": "논란 집합",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"차예련, 대체 무슨 일이?\" 차예련 관련 이슈 총정리",
+          "title": "\"차예련 결혼설?\" 차예련 연애사 총정리",
           "angle_type": "👤 차예련",
           "article_count": 3,
           "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
@@ -579,8 +318,37 @@
           "related_names": [
             "차예련"
           ],
-          "template": "논란 집합",
+          "template": "결혼 화제",
           "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"고속도, 대체 무슨 일이?\" 고속도 관련 이슈 총정리",
+          "angle_type": "👤 고속도",
+          "article_count": 4,
+          "source_article": "고속도로 주행 중 렌터카 핸들에서 뱀이 '삐죽'…소방 출동 소동",
+          "source_url": "https://n.news.naver.com/article/001/0016414192?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
+          "related_names": [
+            "고속도"
+          ],
+          "template": "논란 집합",
+          "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -599,14 +367,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"장동혁\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 장동혁",
-          "article_count": 4,
-          "source_article": "장동혁 \"서울시장 반드시 재선거‥박근혜 '끝까지 결과 만들라' 해\"",
-          "source_url": "https://n.news.naver.com/article/214/0001532758?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
+          "title": "\"전원일\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 전원일",
+          "article_count": 3,
+          "source_article": "‘전원일기 장남’ 김용건, 故최불암 빈소 못 간 이유가…“하루하루 마음 힘들다” 토로",
+          "source_url": "https://m.entertain.naver.com/article/016/0002717141",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "장동혁"
+            "전원일"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -626,109 +394,55 @@
             ]
           },
           "channel": "정보주는하마"
-        },
-        {
-          "title": "\"이어, 대체 무슨 일이?\" 이어 관련 이슈 총정리",
-          "angle_type": "👤 이어",
-          "article_count": 3,
-          "source_article": "이정재에 무슨 일이···임원 고소 이어 제작사 경영서 퇴장",
-          "source_url": "https://m.entertain.naver.com/article/144/0001147441",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "이어"
-          ],
-          "template": "논란 집합",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 2,
-          "source_article": "‘배우 준비’ 정웅인 첫째 딸 근황, 경북대 퀸카 母가 자랑할 수밖에 “오구 예뻐”",
-          "source_url": "https://m.entertain.naver.com/article/609/0001183281",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "배우",
-            "준비",
-            "정웅인",
-            "첫째",
-            "근황"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 5.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
         }
       ],
       "keyword_freq": [
         [
           "최불암",
-          6
+          7
         ],
         [
-          "결혼",
-          5
+          "보고",
+          4
+        ],
+        [
+          "근황",
+          4
+        ],
+        [
+          "빈소",
+          4
+        ],
+        [
+          "고속도로",
+          4
+        ],
+        [
+          "해명",
+          3
         ],
         [
           "차예련",
           3
         ],
         [
-          "빈소",
+          "백일섭",
           3
         ],
         [
-          "김용건",
+          "전원일기",
           3
-        ],
-        [
-          "하정우",
-          3
-        ],
-        [
-          "장동혁",
-          3
-        ],
-        [
-          "보고",
-          2
-        ],
-        [
-          "해명",
-          2
         ],
         [
           "학폭",
+          2
+        ],
+        [
+          "윤종훈",
+          2
+        ],
+        [
+          "한은서",
           2
         ],
         [
@@ -736,15 +450,23 @@
           2
         ],
         [
-          "열애",
+          "결혼",
           2
         ],
         [
-          "백일섭",
+          "확정",
           2
         ],
         [
-          "걸그룹",
+          "달라진",
+          2
+        ],
+        [
+          "미우새",
+          2
+        ],
+        [
+          "이혼",
           2
         ],
         [
@@ -752,69 +474,57 @@
           2
         ],
         [
-          "체포",
-          2
-        ],
-        [
-          "독립",
-          2
-        ],
-        [
-          "너무",
-          2
-        ],
-        [
-          "이어",
-          2
-        ],
-        [
-          "아내",
+          "아냐",
           2
         ]
       ],
       "name_freq": [
         [
           "최불암",
-          6
+          7
         ],
         [
-          "결혼",
-          5
-        ],
-        [
-          "장동혁",
+          "보고",
           4
+        ],
+        [
+          "근황",
+          4
+        ],
+        [
+          "빈소",
+          4
+        ],
+        [
+          "고속도",
+          4
+        ],
+        [
+          "해명",
+          3
         ],
         [
           "차예련",
           3
         ],
         [
-          "빈소",
+          "백일섭",
           3
         ],
         [
-          "김용건",
+          "전원일",
           3
-        ],
-        [
-          "하정우",
-          3
-        ],
-        [
-          "이어",
-          3
-        ],
-        [
-          "보고",
-          2
-        ],
-        [
-          "해명",
-          2
         ],
         [
           "학폭",
+          2
+        ],
+        [
+          "윤종훈",
+          2
+        ],
+        [
+          "한은서",
           2
         ],
         [
@@ -822,367 +532,89 @@
           2
         ],
         [
-          "더니",
+          "결혼",
           2
         ],
         [
-          "열애",
-          2
-        ],
-        [
-          "백일섭",
+          "확정",
           2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
-          5
-        ],
-        [
-          "논란·사건",
-          2
+          4
         ],
         [
           "결혼·이혼",
-          11
+          9
         ],
         [
           "복귀·근황",
-          2
-        ],
-        [
-          "투병·건강",
           6
         ],
         [
+          "투병·건강",
+          9
+        ],
+        [
           "가족·혈연",
-          8
+          4
         ]
       ]
     },
     "초구딱": {
-      "article_count": 30,
-      "topics": [
-        {
-          "title": "\"포스트, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 3,
-          "source_article": "삼성이 우승했으면 좋겠내요",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611010119823291&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "포스트",
-            "시즌",
-            "대진표",
-            "메이저",
-            "리그"
-          ],
-          "template": "스포츠 기록",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"안내\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 안내",
-          "article_count": 4,
-          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "안내"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"시즌\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 시즌",
-          "article_count": 3,
-          "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 <밀워키 브루어스 우승> ⚾",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "시즌"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        }
-      ],
+      "article_count": 1,
+      "topics": [],
       "keyword_freq": [
         [
-          "안내",
-          4
-        ],
-        [
-          "포스트시즌",
-          3
-        ],
-        [
-          "조치",
-          2
-        ],
-        [
-          "대진표",
-          2
-        ],
-        [
-          "사항",
+          "공군기지",
           1
         ],
         [
-          "말머리",
+          "부상자",
           1
         ],
         [
-          "처리",
+          "훈련기",
           1
         ],
         [
-          "위반",
+          "공중충돌",
           1
         ],
         [
-          "향후",
+          "사천",
           1
         ],
         [
-          "시행",
+          "없어",
           1
         ],
         [
-          "뉴스저작물",
-          1
-        ],
-        [
-          "인용",
-          1
-        ],
-        [
-          "필독",
-          1
-        ],
-        [
-          "유의사항",
-          1
-        ],
-        [
-          "가이드",
-          1
-        ],
-        [
-          "업데이트",
-          1
-        ],
-        [
-          "장애",
-          1
-        ],
-        [
-          "접속",
-          1
-        ],
-        [
-          "해외",
-          1
-        ],
-        [
-          "불법촬영물등",
+          "아찔",
           1
         ]
       ],
-      "name_freq": [
-        [
-          "안내",
-          4
-        ],
-        [
-          "시즌",
-          3
-        ],
-        [
-          "포스트",
-          3
-        ],
-        [
-          "조치",
-          2
-        ],
-        [
-          "대진표",
-          2
-        ],
-        [
-          "이마트",
-          2
-        ],
-        [
-          "마라톤",
-          2
-        ]
-      ],
-      "angle_scores": [
-        [
-          "스포츠",
-          3
-        ]
-      ]
+      "name_freq": [],
+      "angle_scores": []
     }
   },
-  "topics": [
-    {
-      "title": "\"포스트, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 3,
-      "source_article": "삼성이 우승했으면 좋겠내요",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611010119823291&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "포스트",
-        "시즌",
-        "대진표",
-        "메이저",
-        "리그"
-      ],
-      "template": "스포츠 기록",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
-      "article_count": 4,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "안내"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"시즌\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 시즌",
-      "article_count": 3,
-      "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 <밀워키 브루어스 우승> ⚾",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "시즌"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    }
-  ],
+  "topics": [],
   "all_topics": [
     {
       "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
       "angle_type": "투병·건강",
-      "article_count": 6,
+      "article_count": 9,
       "source_article": "故 최불암 빈소 찾지 못한 김용건…백일섭 \"子 하정우 결혼하지 않느냐\"",
       "source_url": "https://m.entertain.naver.com/article/117/0004120542",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "최불암",
         "빈소",
-        "김용건",
-        "하정우",
-        "백일섭"
+        "백일섭",
+        "전원일",
+        "김용건"
       ],
       "template": "투병 극복",
       "score": 7.2,
@@ -1206,7 +638,7 @@
     {
       "title": "\"최불암 결혼설?\" 최불암 연애사 총정리",
       "angle_type": "👤 최불암",
-      "article_count": 6,
+      "article_count": 7,
       "source_article": "故 최불암 빈소 찾지 못한 김용건…백일섭 \"子 하정우 결혼하지 않느냐\"",
       "source_url": "https://m.entertain.naver.com/article/117/0004120542",
       "source_name": "엔터 많이 본 뉴스",
@@ -1233,51 +665,18 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 8,
-      "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
-      "source_url": "https://m.entertain.naver.com/article/108/0003483468",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "아들",
-        "죽을래",
-        "주상욱",
-        "보고",
-        "결혼했"
-      ],
-      "template": "동갑내기",
-      "score": 7.1,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
       "angle_type": "자산·몸값",
-      "article_count": 5,
-      "source_article": "이경실, 89평 아파트 경매 위기..\"김지선이 빌려준 1억에 눈물 쏟아\"",
-      "source_url": "https://m.entertain.naver.com/article/076/0004461669",
+      "article_count": 4,
+      "source_article": "아빠 빚 10억 갚던 '효녀'였는데...차예련, 학폭 의혹에 '바른 생활' 이미지 흔들",
+      "source_url": "https://m.entertain.naver.com/article/076/0004461769",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "이경실",
-        "아파트",
-        "경매",
-        "위기",
-        "김지선"
+        "아빠",
+        "갚던",
+        "효녀",
+        "였는데",
+        "차예련"
       ],
       "template": "자산 서열",
       "score": 7.0,
@@ -1299,18 +698,51 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 11,
+      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 4,
       "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
       "source_url": "https://m.entertain.naver.com/article/108/0003483468",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
+        "주상욱",
+        "보고",
+        "결혼했",
+        "학폭",
+        "의혹"
+      ],
+      "template": "동갑내기",
+      "score": 6.9,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "나이",
+          "대표작",
+          "현재 활동"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"해명 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 9,
+      "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
+      "source_url": "https://m.entertain.naver.com/article/108/0003483468",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "해명",
         "결혼",
-        "최불암",
-        "김용건",
-        "하정우",
-        "해명"
+        "이혼",
+        "주상욱",
+        "보고"
       ],
       "template": "결혼 화제",
       "score": 6.8,
@@ -1332,9 +764,42 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 6,
+      "source_article": "‘배우 준비’ 정웅인 첫째 딸 근황, 경북대 퀸카 母가 자랑할 수밖에 “오구 예뻐”",
+      "source_url": "https://m.entertain.naver.com/article/609/0001183281",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "근황",
+        "확정",
+        "달라진",
+        "배우",
+        "준비"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"빈소 결혼설?\" 빈소 연애사 총정리",
       "angle_type": "👤 빈소",
-      "article_count": 3,
+      "article_count": 4,
       "source_article": "故 최불암 빈소 찾지 못한 김용건…백일섭 \"子 하정우 결혼하지 않느냐\"",
       "source_url": "https://m.entertain.naver.com/article/117/0004120542",
       "source_name": "엔터 많이 본 뉴스",
@@ -1361,14 +826,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"김용건 결혼설?\" 김용건 연애사 총정리",
-      "angle_type": "👤 김용건",
+      "title": "\"백일섭 결혼설?\" 백일섭 연애사 총정리",
+      "angle_type": "👤 백일섭",
       "article_count": 3,
       "source_article": "故 최불암 빈소 찾지 못한 김용건…백일섭 \"子 하정우 결혼하지 않느냐\"",
       "source_url": "https://m.entertain.naver.com/article/117/0004120542",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "김용건"
+        "백일섭"
       ],
       "template": "결혼 화제",
       "score": 6.7,
@@ -1390,17 +855,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"하정우 결혼설?\" 하정우 연애사 총정리",
-      "angle_type": "👤 하정우",
-      "article_count": 3,
-      "source_article": "故 최불암 빈소 찾지 못한 김용건…백일섭 \"子 하정우 결혼하지 않느냐\"",
-      "source_url": "https://m.entertain.naver.com/article/117/0004120542",
+      "title": "\"보고 결혼설?\" 보고 연애사 총정리",
+      "angle_type": "👤 보고",
+      "article_count": 4,
+      "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
+      "source_url": "https://m.entertain.naver.com/article/108/0003483468",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "하정우"
+        "보고"
       ],
       "template": "결혼 화제",
-      "score": 6.7,
+      "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1419,40 +884,7 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 2,
-      "source_article": "'차예련 학폭' 추가 폭로 연발 \"사실무근? 간 크네..일진 여왕벌이었다\"",
-      "source_url": "https://m.entertain.naver.com/article/477/0000636293",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "차예련",
-        "학폭",
-        "추가",
-        "폭로",
-        "연발"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"차예련, 대체 무슨 일이?\" 차예련 관련 이슈 총정리",
+      "title": "\"차예련 결혼설?\" 차예련 연애사 총정리",
       "angle_type": "👤 차예련",
       "article_count": 3,
       "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
@@ -1461,7 +893,7 @@
       "related_names": [
         "차예련"
       ],
-      "template": "논란 집합",
+      "template": "결혼 화제",
       "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
@@ -1473,51 +905,22 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"장동혁\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 장동혁",
+      "title": "\"고속도, 대체 무슨 일이?\" 고속도 관련 이슈 총정리",
+      "angle_type": "👤 고속도",
       "article_count": 4,
-      "source_article": "장동혁 \"서울시장 반드시 재선거‥박근혜 '끝까지 결과 만들라' 해\"",
-      "source_url": "https://n.news.naver.com/article/214/0001532758?ntype=RANKING",
+      "source_article": "고속도로 주행 중 렌터카 핸들에서 뱀이 '삐죽'…소방 출동 소동",
+      "source_url": "https://n.news.naver.com/article/001/0016414192?ntype=RANKING",
       "source_name": "[폴백] 스포츠 랭킹",
       "related_names": [
-        "장동혁"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이어, 대체 무슨 일이?\" 이어 관련 이슈 총정리",
-      "angle_type": "👤 이어",
-      "article_count": 3,
-      "source_article": "이정재에 무슨 일이···임원 고소 이어 제작사 경영서 퇴장",
-      "source_url": "https://m.entertain.naver.com/article/144/0001147441",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "이어"
+        "고속도"
       ],
       "template": "논란 집합",
       "score": 6.0,
@@ -1539,21 +942,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 2,
-      "source_article": "‘배우 준비’ 정웅인 첫째 딸 근황, 경북대 퀸카 母가 자랑할 수밖에 “오구 예뻐”",
-      "source_url": "https://m.entertain.naver.com/article/609/0001183281",
+      "title": "\"전원일\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 전원일",
+      "article_count": 3,
+      "source_article": "‘전원일기 장남’ 김용건, 故최불암 빈소 못 간 이유가…“하루하루 마음 힘들다” 토로",
+      "source_url": "https://m.entertain.naver.com/article/016/0002717141",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "배우",
-        "준비",
-        "정웅인",
-        "첫째",
-        "근황"
+        "전원일"
       ],
-      "template": "장기 공백 복귀",
-      "score": 5.8,
+      "template": "인맥",
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1564,144 +963,61 @@
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
-    },
-    {
-      "title": "\"포스트, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 3,
-      "source_article": "삼성이 우승했으면 좋겠내요",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611010119823291&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "포스트",
-        "시즌",
-        "대진표",
-        "메이저",
-        "리그"
-      ],
-      "template": "스포츠 기록",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
-      "article_count": 4,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "안내"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"시즌\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 시즌",
-      "article_count": 3,
-      "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 <밀워키 브루어스 우승> ⚾",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "시즌"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
     [
       "최불암",
-      6
+      7
     ],
     [
-      "결혼",
-      5
+      "보고",
+      4
+    ],
+    [
+      "근황",
+      4
+    ],
+    [
+      "빈소",
+      4
+    ],
+    [
+      "고속도로",
+      4
+    ],
+    [
+      "해명",
+      3
     ],
     [
       "차예련",
       3
     ],
     [
-      "빈소",
+      "백일섭",
       3
     ],
     [
-      "김용건",
+      "전원일기",
       3
-    ],
-    [
-      "하정우",
-      3
-    ],
-    [
-      "장동혁",
-      3
-    ],
-    [
-      "보고",
-      2
-    ],
-    [
-      "해명",
-      2
     ],
     [
       "학폭",
+      2
+    ],
+    [
+      "윤종훈",
+      2
+    ],
+    [
+      "한은서",
       2
     ],
     [
@@ -1709,15 +1025,23 @@
       2
     ],
     [
-      "열애",
+      "결혼",
       2
     ],
     [
-      "백일섭",
+      "확정",
       2
     ],
     [
-      "걸그룹",
+      "달라진",
+      2
+    ],
+    [
+      "미우새",
+      2
+    ],
+    [
+      "이혼",
       2
     ],
     [
@@ -1725,69 +1049,57 @@
       2
     ],
     [
-      "체포",
-      2
-    ],
-    [
-      "독립",
-      2
-    ],
-    [
-      "너무",
-      2
-    ],
-    [
-      "이어",
-      2
-    ],
-    [
-      "아내",
+      "아냐",
       2
     ]
   ],
   "name_freq": [
     [
       "최불암",
-      6
+      7
     ],
     [
-      "결혼",
-      5
-    ],
-    [
-      "장동혁",
+      "보고",
       4
+    ],
+    [
+      "근황",
+      4
+    ],
+    [
+      "빈소",
+      4
+    ],
+    [
+      "고속도",
+      4
+    ],
+    [
+      "해명",
+      3
     ],
     [
       "차예련",
       3
     ],
     [
-      "빈소",
+      "백일섭",
       3
     ],
     [
-      "김용건",
+      "전원일",
       3
-    ],
-    [
-      "하정우",
-      3
-    ],
-    [
-      "이어",
-      3
-    ],
-    [
-      "보고",
-      2
-    ],
-    [
-      "해명",
-      2
     ],
     [
       "학폭",
+      2
+    ],
+    [
+      "윤종훈",
+      2
+    ],
+    [
+      "한은서",
       2
     ],
     [
@@ -1795,19 +1107,15 @@
       2
     ],
     [
-      "더니",
+      "결혼",
       2
     ],
     [
-      "열애",
-      2
-    ],
-    [
-      "백일섭",
+      "확정",
       2
     ]
   ],
-  "total_topics_generated": 16,
-  "valid_topics": 16,
+  "total_topics_generated": 12,
+  "valid_topics": 12,
   "excluded_duplicates": 0
 }
