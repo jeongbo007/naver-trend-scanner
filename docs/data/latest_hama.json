@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-11-02 00:10:30",
+  "scan_time": "2026-11-02 07:16:52",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -9,34 +9,34 @@
     "[폴백] 스포츠 랭킹": 30,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 0
+    "MLB파크 불펜": 30
   },
-  "total_articles": 60,
+  "total_articles": 90,
   "articles": [
+    {
+      "title": "故 최불암 발인식, 바닥에 주저앉아 오열하는 김혜수",
+      "url": "https://m.entertain.naver.com/article/609/0001183475",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 64006,
+      "rank": 1,
+      "channel": "정보주는하마"
+    },
     {
       "title": "박하선, 하차에 입 열었다…\"싫어져서 그만두는 것 아냐\" 6년 동행 마침표",
       "url": "https://m.entertain.naver.com/article/312/0000782477",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 108955,
-      "rank": 1,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "연예계 배우 부부 탄생했다…10살 차 뛰어넘은 결실, 윤종훈♥한은서 백년가약",
-      "url": "https://m.entertain.naver.com/article/312/0000782444",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 68309,
+      "views": 42489,
       "rank": 2,
       "channel": "정보주는하마"
     },
     {
-      "title": "“에프엑스 엠버라고?” 양팔 뒤덮은 문신에 근육질 몸매…몰라보게 달라진 근황",
-      "url": "https://m.entertain.naver.com/article/468/0001277129",
+      "title": "임신인 줄 모르고 12kg 감량…병원 도착 30분 만에 출산 (결혼 지옥)",
+      "url": "https://m.entertain.naver.com/article/382/0001302273",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 67826,
+      "views": 34438,
       "rank": 3,
       "channel": "정보주는하마"
     },
@@ -45,71 +45,8 @@
       "url": "https://m.entertain.naver.com/article/076/0004461864",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 62830,
+      "views": 32799,
       "rank": 4,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
-      "url": "https://m.entertain.naver.com/article/108/0003483468",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 54366,
-      "rank": 5,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "‘배우 준비’ 정웅인 첫째 딸 근황, 경북대 퀸카 母가 자랑할 수밖에 “오구 예뻐”",
-      "url": "https://m.entertain.naver.com/article/609/0001183281",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 47716,
-      "rank": 6,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'나나♥' 탑, 결국 고개 숙였다…\"이용하고 외면\" 폭로 3주 만에 사과",
-      "url": "https://m.entertain.naver.com/article/312/0000782465",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 46667,
-      "rank": 7,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "차예련 이름은 없었다…‘85년생 여배우’ 학폭설, 동창 주장도 ‘여왕벌 vs 괴롭힌 적 없다’",
-      "url": "https://m.entertain.naver.com/article/468/0001276922",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 32398,
-      "rank": 8,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'돌싱 6년' 정애연, 김진근과 12년만에 이혼 후 모친과 사는 중..\"투잡뛴다\"(미우새)",
-      "url": "https://m.entertain.naver.com/article/109/0005632543",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 23285,
-      "rank": 9,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "박희순, '아버지' 됐다…♥박예진과 결혼 12년 차에 부성애 연기 예고→스크린 복귀 확정",
-      "url": "https://m.entertain.naver.com/article/312/0000782430",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 22610,
-      "rank": 10,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'새 출발' 김건모, 확 달라진 근황..58세 믿기지 않는 비주얼 '깜짝'",
-      "url": "https://m.entertain.naver.com/article/076/0004461748",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 21180,
-      "rank": 11,
       "channel": "정보주는하마"
     },
     {
@@ -117,98 +54,53 @@
       "url": "https://m.entertain.naver.com/article/076/0004462002",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 17836,
-      "rank": 12,
+      "views": 30930,
+      "rank": 5,
       "channel": "정보주는하마"
     },
     {
-      "title": "‘조유민♥'티아라 소연, 깜짝 임신발표..\"곧 아기 태어납니다\"",
-      "url": "https://m.entertain.naver.com/article/109/0005632858",
+      "title": "“에프엑스 엠버라고?” 양팔 뒤덮은 문신에 근육질 몸매…몰라보게 달라진 근황",
+      "url": "https://m.entertain.naver.com/article/468/0001277129",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 17729,
-      "rank": 13,
+      "views": 28716,
+      "rank": 6,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"배 터질 듯 부풀어, 응급실 3번 옮겼다\"..'제주댁' 진재영, '건강 이상' 병원 입원 중",
-      "url": "https://m.entertain.naver.com/article/108/0003483467",
+      "title": "차예련, 미국서 '학폭 의혹' 접했다…댓글 삭제 의혹 제작진 입 열었다 \"출연진 관여 없어\"",
+      "url": "https://m.entertain.naver.com/article/311/0002075330",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 11403,
-      "rank": 14,
+      "views": 20953,
+      "rank": 7,
       "channel": "정보주는하마"
     },
     {
-      "title": "최강창민, 5살 子 외모 공개..\"회사 직원도 알아볼 정도로 나 닮아\"",
-      "url": "https://m.entertain.naver.com/article/108/0003483595",
+      "title": "'내 새끼의 연애3'…이동국 딸 이재아, 출연 확정",
+      "url": "https://m.entertain.naver.com/article/117/0004120897",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 11388,
-      "rank": 15,
+      "views": 17845,
+      "rank": 8,
       "channel": "정보주는하마"
     },
     {
-      "title": "대놓고 연예인 집자랑이네…68억 건물주라더니, \"집이 너무 커\" 이찬혁 '3층 저택' 공개 ('전참시')",
-      "url": "https://m.entertain.naver.com/article/312/0000782474",
+      "title": "“실격 처리해야” 샤이니 민호, 마라톤 대회 논란…페이스메이커 조력 ‘갑론을박’",
+      "url": "https://m.entertain.naver.com/article/109/0005633032",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 10786,
-      "rank": 16,
+      "views": 16255,
+      "rank": 9,
       "channel": "정보주는하마"
     },
     {
-      "title": "'차장금' 차예련, 父 10억 빚 갚고 딸+시母 얼굴 공개했는데..'학폭 이미지' 어쩌나?",
-      "url": "https://m.entertain.naver.com/article/108/0003483615",
+      "title": "64세 김장훈, 국민연금 받을 나이됐다…\"그렇게 많이 줘요?\" 깜짝",
+      "url": "https://m.entertain.naver.com/article/421/0009263493",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 9615,
-      "rank": 17,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "성유리, 핑클 복귀하는데···화장품 매출 ‘반토막’에 자본잠식",
-      "url": "https://m.entertain.naver.com/article/144/0001147526",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 9390,
-      "rank": 18,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'전원일기 일용이' 박은수, 故최불암과 마지막 연락 회상 \"그게 마지막일줄은\"",
-      "url": "https://m.entertain.naver.com/article/311/0002075224",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 8528,
-      "rank": 19,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "“자식 학폭이면 특단 조치”…차예련 ‘학폭 논란’에 재조명된 남편 주상욱의 발언",
-      "url": "https://m.entertain.naver.com/article/468/0001276915",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 8388,
-      "rank": 20,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "차예련 측 “사실무근”에도…남편 주상욱·어린 딸까지 불똥 ‘곤혹’",
-      "url": "https://m.entertain.naver.com/article/241/0003538441",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 7960,
-      "rank": 21,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "성유리, '옥바라지' 겨우 끝냈는데…핑클 컴백 앞두고 ♥안성현 '무죄 확정' 갈림길",
-      "url": "https://m.entertain.naver.com/article/312/0000782434",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 7041,
-      "rank": 22,
+      "views": 15063,
+      "rank": 10,
       "channel": "정보주는하마"
     },
     {
@@ -216,16 +108,124 @@
       "url": "https://m.entertain.naver.com/article/312/0000782501",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 6865,
+      "views": 13560,
+      "rank": 11,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "대놓고 연예인 집자랑이네…68억 건물주라더니, \"집이 너무 커\" 이찬혁 '3층 저택' 공개 ('전참시')",
+      "url": "https://m.entertain.naver.com/article/312/0000782474",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 13065,
+      "rank": 12,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "제니, 핼러윈 파티서 의문의 남성과 밀착…알고 보니 美 음악계 거물?",
+      "url": "https://m.entertain.naver.com/article/144/0001147592",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 12733,
+      "rank": 13,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "“숨이 안 쉬어져” 리센느 원이, 눈물 흘리며 무대 이탈 ‘아찔’",
+      "url": "https://m.entertain.naver.com/article/468/0001277244",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 11099,
+      "rank": 14,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "故 최불암 오늘(2일) 발인, 웃으며 보내달라던 ‘이모부’에 임형주 ‘아베 마리아’",
+      "url": "https://m.entertain.naver.com/article/410/0001145681",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 10826,
+      "rank": 15,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "조문하지 못한 김용건, 마지막 인사가 조금 늦어질 뿐이다",
+      "url": "https://m.entertain.naver.com/article/468/0001277223",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 10092,
+      "rank": 16,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "전신 타투 싹 지우고 딱 하나 남겼다…나나, '1968' 타투 의미 보니",
+      "url": "https://m.entertain.naver.com/article/213/0001406751",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 9676,
+      "rank": 17,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "‘재혼 황후’ 이세영, 악의 얼굴을 비친다",
+      "url": "https://m.entertain.naver.com/article/468/0001277263",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 9474,
+      "rank": 18,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'킬잇' 김나라, 8년 열애 ♥동성 연인과 논밭 결혼식 \"허락 필요 없어\"",
+      "url": "https://m.entertain.naver.com/article/076/0004462084",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 9317,
+      "rank": 19,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"학폭 사실무근\" 반박에도…차예련 SNS \"해명하라\" 쇄도",
+      "url": "https://m.entertain.naver.com/article/055/0001399841",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 9126,
+      "rank": 20,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'망연자실' 김혜수 끝내 오열…故최불암 마지막 길 지켰다",
+      "url": "https://m.entertain.naver.com/article/477/0000636563",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 8792,
+      "rank": 21,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'박수홍♥' 김다예, 같은 사람 맞아?…홈쇼핑과 180도 다르네 \"열심히 사는 중\"",
+      "url": "https://m.entertain.naver.com/article/311/0002075291",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 8285,
+      "rank": 22,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "이동국·이종혁, 사돈되나...이재아, 이준수와 만남 앞두고 의미심장 발언",
+      "url": "https://m.entertain.naver.com/article/076/0004462183",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 7361,
       "rank": 23,
       "channel": "정보주는하마"
     },
     {
-      "title": "'정영림♥' 심현섭, 55세 울산살이 고충..\"서울 왔다갔다 힘들어, 마음 놓고 얘기할 곳도 없다\"",
-      "url": "https://m.entertain.naver.com/article/076/0004461996",
+      "title": "故 최불암 발인까지 함께한 김혜수, 끝내 주저앉아 오열",
+      "url": "https://m.entertain.naver.com/article/609/0001183502",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 6611,
+      "views": 6647,
       "rank": 24,
       "channel": "정보주는하마"
     },
@@ -234,58 +234,58 @@
       "url": "https://m.entertain.naver.com/article/109/0005632718",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 6136,
+      "views": 6382,
       "rank": 25,
       "channel": "정보주는하마"
     },
     {
-      "title": "서강준♥안은진, 10년 연애 후 결별… 제목처럼 끝내버린 ‘너다연’",
-      "url": "https://m.entertain.naver.com/article/468/0001277166",
+      "title": "‘조유민♥'티아라 소연, 깜짝 임신발표..\"곧 아기 태어납니다\"",
+      "url": "https://m.entertain.naver.com/article/109/0005632858",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 5945,
+      "views": 6366,
       "rank": 26,
       "channel": "정보주는하마"
     },
     {
-      "title": "“실망이다” 김용건, 故최불암 빈소 불참에 쏟아진 비난…하정우 결혼 때문?",
-      "url": "https://m.entertain.naver.com/article/468/0001276947",
+      "title": "'국민 아버지' 故 최불암 마지막 길…김혜수는 김민자 곁, 신현준은 운구차 배웅",
+      "url": "https://m.entertain.naver.com/article/117/0004120900",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 5905,
+      "views": 6039,
       "rank": 27,
       "channel": "정보주는하마"
     },
     {
-      "title": "호주서 필로폰·코카인→인천공항 체포…8년뒤 정석원 “결혼 초반 말썽, 지금은 행복”",
-      "url": "https://m.entertain.naver.com/article/468/0001276938",
+      "title": "이서진, 29살 연하 ‘재벌 4세’ 허리에 손…다정한 투샷 영상 돌연 삭제",
+      "url": "https://m.entertain.naver.com/article/410/0001145669",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 5777,
+      "views": 5483,
       "rank": 28,
       "channel": "정보주는하마"
     },
     {
-      "title": "최강창민, 5살 아들과 붕어빵 인증…\"제가 봐도 닮아\" (미우새)",
-      "url": "https://m.entertain.naver.com/article/440/0000050866",
+      "title": "귀여움이 브래드 피트 이겼다…'치이카와' 주말 1위 4연속 사수",
+      "url": "https://m.entertain.naver.com/article/465/0000020712",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 5743,
+      "views": 5390,
       "rank": 29,
       "channel": "정보주는하마"
     },
     {
-      "title": "이혼 후 母와 합가..정애연, 안 씻고 취침 돌싱 라이프 '서장훈 경악'",
-      "url": "https://m.entertain.naver.com/article/108/0003483459",
+      "title": "‘닥터X’ 김정영 정체 밝혀졌다…아픈 과거 고백",
+      "url": "https://m.entertain.naver.com/article/144/0001147576",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 5467,
+      "views": 5110,
       "rank": 30,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"52년 만에 최대 폭락\"…삼전닉스 개미들 월요일이 두렵다",
-      "url": "https://n.news.naver.com/article/215/0001271269?ntype=RANKING",
+      "title": "“아내한테 숨긴 비밀, 챗GPT에 털어놨는데”…지우기 힘든 기록으로 ‘박제’",
+      "url": "https://n.news.naver.com/article/009/0005757458?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -293,8 +293,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"40억 건물주 됐는데\"…매달 '1,300만원'에 허덕이는 여배우, 결국",
-      "url": "https://n.news.naver.com/article/215/0001271262?ntype=RANKING",
+      "title": "“배우 안해요”…자선 행사에 등장한 ‘자산 11조 원’ 미모女의 정체",
+      "url": "https://n.news.naver.com/article/009/0005757617?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -302,8 +302,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"빨던 숟가락을 새 수저통에\"...애엄마 행동에 '경악'",
-      "url": "https://n.news.naver.com/article/215/0001271286?ntype=RANKING",
+      "title": "“고 최불암 장지 근처니 오세요, 소맥 무료”…식당 홍보 논란",
+      "url": "https://n.news.naver.com/article/009/0005757537?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -311,8 +311,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "한국 증시 개장 앞두고 터진 메타·앤트로픽 악재…단기 피난처는",
-      "url": "https://n.news.naver.com/article/215/0001271287?ntype=RANKING",
+      "title": "최태원 1.3조 재산분할 뒤집은 로펌…이번엔 2.5조 권혁빈 소송 맡는다",
+      "url": "https://n.news.naver.com/article/009/0005757575?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -320,8 +320,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"아내와 불륜한 군인 알리겠다\"...부대 정문 돌진한 30대男",
-      "url": "https://n.news.naver.com/article/215/0001271266?ntype=RANKING",
+      "title": "카페서 여성 바라보며 음란행위…40대 남성 입건",
+      "url": "https://n.news.naver.com/article/009/0005757547?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -329,8 +329,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "'여친 3시간 514번 폭행해 살해한 전ㅇㅇ 얼굴 공개'...\"사형!\" 분노",
-      "url": "https://n.news.naver.com/article/018/0006401721?ntype=RANKING",
+      "title": "\"재판 재개하라\" 野 고성에 이 대통령 연설 중단… \"계속 방해하는 얘기\" 신경전",
+      "url": "https://n.news.naver.com/article/469/0000963051?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -338,8 +338,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "“두 아이 아빠 숨졌는데”…터널서 질주한 만취 30대女, 감형 이유",
-      "url": "https://n.news.naver.com/article/018/0006401821?ntype=RANKING",
+      "title": "육군 \"강원 철원 전방부대 부사관 1명 외상 입고 사망\"",
+      "url": "https://n.news.naver.com/article/469/0000963035?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -347,8 +347,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "천하의 김동현도 '50억 집주인 대출'…압구정 100억의 현실",
-      "url": "https://n.news.naver.com/article/018/0006401755?ntype=RANKING",
+      "title": "\"비열한 배신\" 민주당 발칵… 공화당 편든 현역 의원에 트럼프 '환호'",
+      "url": "https://n.news.naver.com/article/469/0000963099?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -356,17 +356,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"일본서 쇼핑할 때 조심하세요\"…과자 하나에 환급금 '증발'",
-      "url": "https://n.news.naver.com/article/018/0006401769?ntype=RANKING",
-      "source": "[폴백] 스포츠 랭킹",
-      "category": "스포츠",
-      "views": 0,
-      "rank": 9,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"삼전닉스 자사주 실탄 소용없다?\"…개미 한숨만 나오는 이유",
-      "url": "https://n.news.naver.com/article/018/0006401793?ntype=RANKING",
+      "title": "조광한 \"한동훈 복당? 입 아프고 가치 없다… 오세훈-장동혁 연대는 가능\"",
+      "url": "https://n.news.naver.com/article/469/0000963034?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -374,8 +365,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "“원당역 피해자, 얼굴 못 알아볼 정도로 난도질…장기도 심각 훼손”",
-      "url": "https://n.news.naver.com/article/005/0001882235?ntype=RANKING",
+      "title": "현대차 울산 생산라인 멈춰섰다…노조, 제네시스 신차 투입 막아서",
+      "url": "https://n.news.naver.com/article/029/0003056600?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -383,8 +374,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "‘20분에 8.4조’ 어떻게 털렸나… “서명망 뚫고 ‘자폭’으로 추적 교란”",
-      "url": "https://n.news.naver.com/article/005/0001882212?ntype=RANKING",
+      "title": "‘배당금 지급’ 한다던 트럼프 “5000달러 받아 한국 여행 가서 쓰면 안돼”",
+      "url": "https://n.news.naver.com/article/029/0003056469?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -392,8 +383,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "고속도로 달리는데 갑자기 튀어나온 뱀…운전자 심장 철렁",
-      "url": "https://n.news.naver.com/article/005/0001882245?ntype=RANKING",
+      "title": "안민석 “경기도, ‘교복 10만원 지원 못한다’ 하면 엄마들 주걱 들고 데모할 것”",
+      "url": "https://n.news.naver.com/article/029/0003056567?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -401,8 +392,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "한동훈 “경찰대에 로스쿨? 국민을 생체실험 대상처럼 보나”",
-      "url": "https://n.news.naver.com/article/005/0001882250?ntype=RANKING",
+      "title": "김어준 ‘꽃’ 5번째 ‘조희대 탄핵’ 설문, 반대 52.2%로 상승…찬성에 오차 밖 앞서",
+      "url": "https://n.news.naver.com/article/029/0003056557?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -410,8 +401,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "‘김민석 100일’ 민주당 전운… 정청래 “어떤 깃발 들지 고민”",
-      "url": "https://n.news.naver.com/article/005/0001882253?ntype=RANKING",
+      "title": "철원 전방부대서 부사관 1명 사망…육군 “외상 입은 채 발견”",
+      "url": "https://n.news.naver.com/article/029/0003056551?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -419,8 +410,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "바이낸스, 63억달러 해킹 사흘 만에 출금 재개…9시간 반 동안 36억달러 순유출",
-      "url": "https://n.news.naver.com/article/138/0002246837?ntype=RANKING",
+      "title": "\"너무 놀랐다\" 리센느 원이, 공연 중 돌발 무대 이탈…왜?",
+      "url": "https://n.news.naver.com/article/015/0005349173?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -428,8 +419,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "조선3사, 3분기만에 작년 영업이익 넘었지만…LNG선까지 넘보는 中",
-      "url": "https://n.news.naver.com/article/138/0002246825?ntype=RANKING",
+      "title": "'세계 1위' 삼성전자 또 일냈다…애플마저 제친 '뜻밖의 효자'",
+      "url": "https://n.news.naver.com/article/015/0005349145?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -437,8 +428,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "3년 치 HBM 완판 선언한 SK하이닉스… '개발 사령관' 안현 사장 미국 전진 배치",
-      "url": "https://n.news.naver.com/article/138/0002246812?ntype=RANKING",
+      "title": "\"집 다 날아갔다\"…이미숙, 주식 손실 얼마길래",
+      "url": "https://n.news.naver.com/article/015/0005349206?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -446,8 +437,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "152MW 사실상 만실…KT클라우드 1GW 공급 속도전(종합)",
-      "url": "https://n.news.naver.com/article/138/0002246807?ntype=RANKING",
+      "title": "\"아파트 지을 곳이 또 어디 있다고\"…주민들 '부글부글'",
+      "url": "https://n.news.naver.com/article/015/0005349168?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -455,8 +446,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "시급 50배 ‘꿀알바’의 섬뜩한 비밀, 넷플릭스 ‘꿀알바’",
-      "url": "https://n.news.naver.com/article/138/0002246804?ntype=RANKING",
+      "title": "제네시스 생산라인 중단…G80 신차 투입 놓고 노사 충돌",
+      "url": "https://n.news.naver.com/article/015/0005349204?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -464,8 +455,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "일본 갈 때 모르면 '낭패'…어제부터 싹 바뀐 면세제도",
-      "url": "https://n.news.naver.com/article/057/0001976224?ntype=RANKING",
+      "title": "구로 미라 시신의 사연…병원비 못 내고 중환자실 퇴원 후 숨져",
+      "url": "https://n.news.naver.com/article/005/0001882386?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -473,8 +464,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "한동훈 \"경찰대에 로스쿨? 국민을 생체실험 대상으로\"",
-      "url": "https://n.news.naver.com/article/057/0001976221?ntype=RANKING",
+      "title": "육군 “철원 전방부대 하사 1명 외상 입고 사망”",
+      "url": "https://n.news.naver.com/article/005/0001882370?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -482,17 +473,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "'국민 아버지' 최불암 오늘 발인…'아베 마리아'로 마지막 배웅",
-      "url": "https://n.news.naver.com/article/057/0001976204?ntype=RANKING",
-      "source": "[폴백] 스포츠 랭킹",
-      "category": "스포츠",
-      "views": 0,
-      "rank": 23,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "정년 후 연금까지 소득공백 '3년'…재취업 나서는 중·고령층",
-      "url": "https://n.news.naver.com/article/057/0001976227?ntype=RANKING",
+      "title": "아동은 생일로 가르고, 청년은 소득기준 없애고…내년 금융위 사업 설계 ‘도마’",
+      "url": "https://n.news.naver.com/article/005/0001882387?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -500,8 +482,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "북 해커가 훔친 비트코인 '14억 달러'…테슬라 보유량 넘었다",
-      "url": "https://n.news.naver.com/article/057/0001976207?ntype=RANKING",
+      "title": "‘동물농장’ 이어 현직 법원장도 “판사 모욕에 목소리 내야”",
+      "url": "https://n.news.naver.com/article/005/0001882346?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -509,8 +491,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "“11월분부터 건보료 오른다?”…집값 오른 지역가입자 ‘비상’",
-      "url": "https://n.news.naver.com/article/056/0012285115?ntype=RANKING",
+      "title": "성관계 뒤 “자기야, 힘내” 문자 보내고 성폭행 고소한 40대女",
+      "url": "https://n.news.naver.com/article/021/0002829625?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -518,8 +500,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "미, 5천300만 명 사전투표 역대 최대…트럼프 강행군 속 민주당 우세 전망",
-      "url": "https://n.news.naver.com/article/056/0012285086?ntype=RANKING",
+      "title": "“아드님이 한남관저 살다보니 청년전월세는…” 정점식의 평가",
+      "url": "https://n.news.naver.com/article/021/0002829489?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -527,8 +509,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "길이만 2.92m…유럽 낚시 대회서 잡힌 초대형 메기",
-      "url": "https://n.news.naver.com/article/056/0012285122?ntype=RANKING",
+      "title": "어딜 눌러? 명품 브랜드 창립자 ‘나쁜손’ 논란",
+      "url": "https://n.news.naver.com/article/021/0002829628?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -536,8 +518,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "“인텔 28% 폭락 쇼크”…코스피, 또 검은 월요일 될까?",
-      "url": "https://n.news.naver.com/article/056/0012285113?ntype=RANKING",
+      "title": "“결혼자금 5억, 주식으로 2억됐다”",
+      "url": "https://n.news.naver.com/article/021/0002829626?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -545,8 +527,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "故 최불암, 오늘(2일) 비공개 발인…초록우산서 마지막 작별인사",
-      "url": "https://n.news.naver.com/article/056/0012285137?ntype=RANKING",
+      "title": "‘맛집의 비결이 개고기?’…음식점 사장 집서 개사체 발견, 온두라스 경찰 체포",
+      "url": "https://n.news.naver.com/article/021/0002829634?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -556,24 +538,24 @@
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 60,
+      "article_count": 58,
       "topics": [
         {
-          "title": "\"건물주, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
           "angle_type": "자산·몸값",
-          "article_count": 8,
+          "article_count": 4,
           "source_article": "대놓고 연예인 집자랑이네…68억 건물주라더니, \"집이 너무 커\" 이찬혁 '3층 저택' 공개 ('전참시')",
           "source_url": "https://m.entertain.naver.com/article/312/0000782474",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "건물주",
-            "는데",
-            "억달러",
             "대놓고",
-            "연예인"
+            "연예인",
+            "집자랑",
+            "이네",
+            "건물주"
           ],
           "template": "자산 서열",
-          "score": 7.5,
+          "score": 7.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -592,84 +574,18 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"이혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-          "angle_type": "결혼·이혼",
-          "article_count": 8,
-          "source_article": "윤민수 전처, 이혼 후 확 달라진 근황..日서 포착 '칵테일 한잔'",
-          "source_url": "https://m.entertain.naver.com/article/076/0004461864",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "이혼",
-            "결혼",
-            "돌싱",
-            "정애연",
-            "윤민수"
-          ],
-          "template": "결혼 화제",
-          "score": 7.4,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"차예련이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 5,
-          "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
-          "source_url": "https://m.entertain.naver.com/article/108/0003483468",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "차예련",
-            "주상욱",
-            "학폭",
-            "보고",
-            "결혼했"
-          ],
-          "template": "동갑내기",
-          "score": 7.1,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
           "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
           "angle_type": "논란·사건",
           "article_count": 3,
-          "source_article": "'나나♥' 탑, 결국 고개 숙였다…\"이용하고 외면\" 폭로 3주 만에 사과",
-          "source_url": "https://m.entertain.naver.com/article/312/0000782465",
+          "source_article": "“실격 처리해야” 샤이니 민호, 마라톤 대회 논란…페이스메이커 조력 ‘갑론을박’",
+          "source_url": "https://m.entertain.naver.com/article/109/0005633032",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "나나",
-            "고개",
-            "숙였다",
-            "이용하",
-            "외면"
+            "실격",
+            "처리해",
+            "샤이니",
+            "민호",
+            "마라톤"
           ],
           "template": "논란 집합",
           "score": 7.0,
@@ -691,85 +607,27 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"얼굴 자산이 얼마?\" 얼굴급 자산가 스타 TOP10",
-          "angle_type": "👤 얼굴",
-          "article_count": 3,
-          "source_article": "'차장금' 차예련, 父 10억 빚 갚고 딸+시母 얼굴 공개했는데..'학폭 이미지' 어쩌나?",
-          "source_url": "https://m.entertain.naver.com/article/108/0003483615",
+          "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
+          "angle_type": "결혼·이혼",
+          "article_count": 6,
+          "source_article": "임신인 줄 모르고 12kg 감량…병원 도착 30분 만에 출산 (결혼 지옥)",
+          "source_url": "https://m.entertain.naver.com/article/382/0001302273",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "얼굴"
+            "임신인",
+            "모르고",
+            "감량",
+            "병원",
+            "도착"
           ],
-          "template": "자산 서열",
-          "score": 7.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 8,
-          "source_article": "“에프엑스 엠버라고?” 양팔 뒤덮은 문신에 근육질 몸매…몰라보게 달라진 근황",
-          "source_url": "https://m.entertain.naver.com/article/468/0001277129",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "근황",
-            "달라진",
-            "확정",
-            "성유리",
-            "핑클"
-          ],
-          "template": "장기 공백 복귀",
+          "template": "결혼 화제",
           "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"달라진 결혼설?\" 달라진 연애사 총정리",
-          "angle_type": "👤 달라진",
-          "article_count": 3,
-          "source_article": "“에프엑스 엠버라고?” 양팔 뒤덮은 문신에 근육질 몸매…몰라보게 달라진 근황",
-          "source_url": "https://m.entertain.naver.com/article/468/0001277129",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "달라진"
-          ],
-          "template": "결혼 화제",
-          "score": 6.6,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
+            "status": "재활용 가능",
+            "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
+            "matched_views": 720727,
+            "reason": "검증됨 720,727회 · 205일 경과"
           },
           "table": {
             "headers": [
@@ -784,16 +642,16 @@
         {
           "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
           "angle_type": "투병·건강",
-          "article_count": 5,
-          "source_article": "\"배 터질 듯 부풀어, 응급실 3번 옮겼다\"..'제주댁' 진재영, '건강 이상' 병원 입원 중",
-          "source_url": "https://m.entertain.naver.com/article/108/0003483467",
+          "article_count": 9,
+          "source_article": "故 최불암 발인식, 바닥에 주저앉아 오열하는 김혜수",
+          "source_url": "https://m.entertain.naver.com/article/609/0001183475",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "최불암",
-            "마지막",
-            "발인",
-            "터질",
-            "부풀어"
+            "김혜수",
+            "육군",
+            "철원",
+            "전방부"
           ],
           "template": "투병 극복",
           "score": 6.5,
@@ -815,46 +673,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"최불암 결혼설?\" 최불암 연애사 총정리",
+          "title": "\"최불암, 대체 무슨 일이?\" 최불암 관련 이슈 총정리",
           "angle_type": "👤 최불암",
-          "article_count": 4,
-          "source_article": "'전원일기 일용이' 박은수, 故최불암과 마지막 연락 회상 \"그게 마지막일줄은\"",
-          "source_url": "https://m.entertain.naver.com/article/311/0002075224",
+          "article_count": 6,
+          "source_article": "故 최불암 발인식, 바닥에 주저앉아 오열하는 김혜수",
+          "source_url": "https://m.entertain.naver.com/article/609/0001183475",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "최불암"
           ],
-          "template": "결혼 화제",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"학폭, 대체 무슨 일이?\" 학폭 관련 이슈 총정리",
-          "angle_type": "👤 학폭",
-          "article_count": 3,
-          "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
-          "source_url": "https://m.entertain.naver.com/article/108/0003483468",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "학폭"
-          ],
           "template": "논란 집합",
-          "score": 6.3,
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -873,17 +702,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"주상욱, 대체 무슨 일이?\" 주상욱 관련 이슈 총정리",
-          "angle_type": "👤 주상욱",
+          "title": "\"너무 자산이 얼마?\" 너무급 자산가 스타 TOP10",
+          "angle_type": "👤 너무",
           "article_count": 3,
-          "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
-          "source_url": "https://m.entertain.naver.com/article/108/0003483468",
+          "source_article": "장승조♥린아, 자식농사 대박났다..\"8살 子 진짜 잘생겨, 너무 귀엽다\"",
+          "source_url": "https://m.entertain.naver.com/article/076/0004462002",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "주상욱"
+            "너무"
           ],
-          "template": "논란 집합",
-          "score": 6.3,
+          "template": "자산 서열",
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -894,8 +723,70 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"달라진, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 2,
+          "source_article": "윤민수 전처, 이혼 후 확 달라진 근황..日서 포착 '칵테일 한잔'",
+          "source_url": "https://m.entertain.naver.com/article/076/0004461864",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "달라진",
+            "근황",
+            "윤민수",
+            "전처",
+            "이혼"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.1,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"김혜수\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 김혜수",
+          "article_count": 4,
+          "source_article": "故 최불암 발인식, 바닥에 주저앉아 오열하는 김혜수",
+          "source_url": "https://m.entertain.naver.com/article/609/0001183475",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "김혜수"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
               "현재 상황"
             ]
           },
@@ -905,11 +796,156 @@
           "title": "\"마지막\" 관련 화제 스타 TOP10",
           "angle_type": "👤 마지막",
           "article_count": 3,
-          "source_article": "'전원일기 일용이' 박은수, 故최불암과 마지막 연락 회상 \"그게 마지막일줄은\"",
-          "source_url": "https://m.entertain.naver.com/article/311/0002075224",
+          "source_article": "조문하지 못한 김용건, 마지막 인사가 조금 늦어질 뿐이다",
+          "source_url": "https://m.entertain.naver.com/article/468/0001277223",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "마지막"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"외상\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 외상",
+          "article_count": 3,
+          "source_article": "육군 \"강원 철원 전방부대 부사관 1명 외상 입고 사망\"",
+          "source_url": "https://n.news.naver.com/article/469/0000963035?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
+          "related_names": [
+            "외상"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"육군\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 육군",
+          "article_count": 3,
+          "source_article": "육군 \"강원 철원 전방부대 부사관 1명 외상 입고 사망\"",
+          "source_url": "https://n.news.naver.com/article/469/0000963035?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
+          "related_names": [
+            "육군"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"전방부\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 전방부",
+          "article_count": 3,
+          "source_article": "육군 \"강원 철원 전방부대 부사관 1명 외상 입고 사망\"",
+          "source_url": "https://n.news.naver.com/article/469/0000963035?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
+          "related_names": [
+            "전방부"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"사망\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 사망",
+          "article_count": 3,
+          "source_article": "육군 \"강원 철원 전방부대 부사관 1명 외상 입고 사망\"",
+          "source_url": "https://n.news.naver.com/article/469/0000963035?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
+          "related_names": [
+            "사망"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"철원\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 철원",
+          "article_count": 3,
+          "source_article": "육군 \"강원 철원 전방부대 부사관 1명 외상 입고 사망\"",
+          "source_url": "https://n.news.naver.com/article/469/0000963035?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
+          "related_names": [
+            "철원"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -933,31 +969,15 @@
       ],
       "keyword_freq": [
         [
-          "차예련",
-          5
+          "최불암",
+          6
         ],
         [
-          "근황",
-          4
-        ],
-        [
-          "달라진",
+          "김혜수",
           3
         ],
         [
-          "이혼",
-          3
-        ],
-        [
-          "학폭",
-          3
-        ],
-        [
-          "결혼",
-          3
-        ],
-        [
-          "얼굴",
+          "너무",
           3
         ],
         [
@@ -965,35 +985,59 @@
           3
         ],
         [
-          "최불암",
+          "외상",
           3
         ],
         [
-          "배우",
+          "육군",
+          3
+        ],
+        [
+          "사망",
+          3
+        ],
+        [
+          "철원",
+          3
+        ],
+        [
+          "주저앉아",
           2
         ],
         [
-          "여배우",
+          "열었다",
           2
         ],
         [
-          "돌싱",
+          "달라진",
           2
         ],
         [
-          "정애연",
+          "근황",
           2
         ],
         [
-          "미우새",
+          "삭제",
           2
         ],
         [
-          "아버지",
+          "차예련",
           2
         ],
         [
-          "확정",
+          "학폭",
+          2
+        ],
+        [
+          "없어",
+          2
+        ],
+        [
+          "이동국",
+          2
+        ],
+        [
+          "이재아",
           2
         ],
         [
@@ -1001,53 +1045,21 @@
           2
         ],
         [
-          "너무",
-          2
-        ],
-        [
-          "닮아",
-          2
-        ],
-        [
-          "최강창민",
+          "들고",
           2
         ]
       ],
       "name_freq": [
         [
-          "차예련",
-          5
-        ],
-        [
-          "근황",
-          4
-        ],
-        [
           "최불암",
+          6
+        ],
+        [
+          "김혜수",
           4
         ],
         [
-          "달라진",
-          3
-        ],
-        [
-          "이혼",
-          3
-        ],
-        [
-          "학폭",
-          3
-        ],
-        [
-          "주상욱",
-          3
-        ],
-        [
-          "결혼",
-          3
-        ],
-        [
-          "얼굴",
+          "너무",
           3
         ],
         [
@@ -1055,30 +1067,54 @@
           3
         ],
         [
-          "배우",
+          "외상",
+          3
+        ],
+        [
+          "육군",
+          3
+        ],
+        [
+          "전방부",
+          3
+        ],
+        [
+          "사망",
+          3
+        ],
+        [
+          "철원",
+          3
+        ],
+        [
+          "주저앉",
           2
         ],
         [
-          "여배우",
+          "열었다",
           2
         ],
         [
-          "미우새",
+          "달라진",
           2
         ],
         [
-          "돌싱",
+          "근황",
           2
         ],
         [
-          "정애연",
+          "삭제",
+          2
+        ],
+        [
+          "차예련",
           2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
-          8
+          4
         ],
         [
           "논란·사건",
@@ -1086,47 +1122,275 @@
         ],
         [
           "결혼·이혼",
-          8
+          6
         ],
         [
           "복귀·근황",
-          8
+          2
         ],
         [
           "투병·건강",
-          5
-        ],
-        [
-          "가족·혈연",
-          5
+          9
         ]
       ]
     },
     "초구딱": {
-      "article_count": 0,
-      "topics": [],
-      "keyword_freq": [],
-      "name_freq": [],
-      "angle_scores": []
+      "article_count": 32,
+      "topics": [
+        {
+          "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 6,
+          "source_article": "프로야구 감독 부임후 팀 순위.jpg",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611020119833443&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "감독",
+            "포스트",
+            "시즌",
+            "대진표",
+            "김치맨"
+          ],
+          "template": "스포츠 기록",
+          "score": 7.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"안내\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안내",
+          "article_count": 4,
+          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "안내"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"시즌\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 시즌",
+          "article_count": 3,
+          "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 <밀워키 브루어스 우승> ⚾",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "시즌"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"포스트\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 포스트",
+          "article_count": 3,
+          "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 <밀워키 브루어스 우승> ⚾",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "포스트"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        }
+      ],
+      "keyword_freq": [
+        [
+          "안내",
+          4
+        ],
+        [
+          "포스트시즌",
+          3
+        ],
+        [
+          "감독",
+          2
+        ],
+        [
+          "조치",
+          2
+        ],
+        [
+          "대진표",
+          2
+        ],
+        [
+          "젠슨",
+          1
+        ],
+        [
+          "두산",
+          1
+        ],
+        [
+          "매디슨과",
+          1
+        ],
+        [
+          "데이",
+          1
+        ],
+        [
+          "엔비디아",
+          1
+        ],
+        [
+          "온다",
+          1
+        ],
+        [
+          "총출동",
+          1
+        ],
+        [
+          "규탄",
+          1
+        ],
+        [
+          "박항서",
+          1
+        ],
+        [
+          "인종차별",
+          1
+        ],
+        [
+          "구단",
+          1
+        ],
+        [
+          "성명",
+          1
+        ],
+        [
+          "욕설에",
+          1
+        ],
+        [
+          "격분한",
+          1
+        ],
+        [
+          "김치맨",
+          1
+        ]
+      ],
+      "name_freq": [
+        [
+          "안내",
+          4
+        ],
+        [
+          "시즌",
+          3
+        ],
+        [
+          "포스트",
+          3
+        ],
+        [
+          "감독",
+          2
+        ],
+        [
+          "조치",
+          2
+        ],
+        [
+          "대진표",
+          2
+        ]
+      ],
+      "angle_scores": [
+        [
+          "스포츠",
+          6
+        ]
+      ]
     }
   },
   "topics": [
     {
-      "title": "\"건물주, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
       "angle_type": "자산·몸값",
-      "article_count": 8,
+      "article_count": 4,
       "source_article": "대놓고 연예인 집자랑이네…68억 건물주라더니, \"집이 너무 커\" 이찬혁 '3층 저택' 공개 ('전참시')",
       "source_url": "https://m.entertain.naver.com/article/312/0000782474",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "건물주",
-        "는데",
-        "억달러",
         "대놓고",
-        "연예인"
+        "연예인",
+        "집자랑",
+        "이네",
+        "건물주"
       ],
       "template": "자산 서열",
-      "score": 7.5,
+      "score": 7.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1145,84 +1409,18 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 8,
-      "source_article": "윤민수 전처, 이혼 후 확 달라진 근황..日서 포착 '칵테일 한잔'",
-      "source_url": "https://m.entertain.naver.com/article/076/0004461864",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "이혼",
-        "결혼",
-        "돌싱",
-        "정애연",
-        "윤민수"
-      ],
-      "template": "결혼 화제",
-      "score": 7.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"차예련이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 5,
-      "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
-      "source_url": "https://m.entertain.naver.com/article/108/0003483468",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "차예련",
-        "주상욱",
-        "학폭",
-        "보고",
-        "결혼했"
-      ],
-      "template": "동갑내기",
-      "score": 7.1,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
       "angle_type": "논란·사건",
       "article_count": 3,
-      "source_article": "'나나♥' 탑, 결국 고개 숙였다…\"이용하고 외면\" 폭로 3주 만에 사과",
-      "source_url": "https://m.entertain.naver.com/article/312/0000782465",
+      "source_article": "“실격 처리해야” 샤이니 민호, 마라톤 대회 논란…페이스메이커 조력 ‘갑론을박’",
+      "source_url": "https://m.entertain.naver.com/article/109/0005633032",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "나나",
-        "고개",
-        "숙였다",
-        "이용하",
-        "외면"
+        "실격",
+        "처리해",
+        "샤이니",
+        "민호",
+        "마라톤"
       ],
       "template": "논란 집합",
       "score": 7.0,
@@ -1244,85 +1442,27 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"얼굴 자산이 얼마?\" 얼굴급 자산가 스타 TOP10",
-      "angle_type": "👤 얼굴",
-      "article_count": 3,
-      "source_article": "'차장금' 차예련, 父 10억 빚 갚고 딸+시母 얼굴 공개했는데..'학폭 이미지' 어쩌나?",
-      "source_url": "https://m.entertain.naver.com/article/108/0003483615",
+      "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 6,
+      "source_article": "임신인 줄 모르고 12kg 감량…병원 도착 30분 만에 출산 (결혼 지옥)",
+      "source_url": "https://m.entertain.naver.com/article/382/0001302273",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "얼굴"
+        "임신인",
+        "모르고",
+        "감량",
+        "병원",
+        "도착"
       ],
-      "template": "자산 서열",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 8,
-      "source_article": "“에프엑스 엠버라고?” 양팔 뒤덮은 문신에 근육질 몸매…몰라보게 달라진 근황",
-      "source_url": "https://m.entertain.naver.com/article/468/0001277129",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "근황",
-        "달라진",
-        "확정",
-        "성유리",
-        "핑클"
-      ],
-      "template": "장기 공백 복귀",
+      "template": "결혼 화제",
       "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"달라진 결혼설?\" 달라진 연애사 총정리",
-      "angle_type": "👤 달라진",
-      "article_count": 3,
-      "source_article": "“에프엑스 엠버라고?” 양팔 뒤덮은 문신에 근육질 몸매…몰라보게 달라진 근황",
-      "source_url": "https://m.entertain.naver.com/article/468/0001277129",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "달라진"
-      ],
-      "template": "결혼 화제",
-      "score": 6.6,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
+        "status": "재활용 가능",
+        "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
+        "matched_views": 720727,
+        "reason": "검증됨 720,727회 · 205일 경과"
       },
       "table": {
         "headers": [
@@ -1337,16 +1477,16 @@
     {
       "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
       "angle_type": "투병·건강",
-      "article_count": 5,
-      "source_article": "\"배 터질 듯 부풀어, 응급실 3번 옮겼다\"..'제주댁' 진재영, '건강 이상' 병원 입원 중",
-      "source_url": "https://m.entertain.naver.com/article/108/0003483467",
+      "article_count": 9,
+      "source_article": "故 최불암 발인식, 바닥에 주저앉아 오열하는 김혜수",
+      "source_url": "https://m.entertain.naver.com/article/609/0001183475",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "최불암",
-        "마지막",
-        "발인",
-        "터질",
-        "부풀어"
+        "김혜수",
+        "육군",
+        "철원",
+        "전방부"
       ],
       "template": "투병 극복",
       "score": 6.5,
@@ -1368,46 +1508,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"최불암 결혼설?\" 최불암 연애사 총정리",
+      "title": "\"최불암, 대체 무슨 일이?\" 최불암 관련 이슈 총정리",
       "angle_type": "👤 최불암",
-      "article_count": 4,
-      "source_article": "'전원일기 일용이' 박은수, 故최불암과 마지막 연락 회상 \"그게 마지막일줄은\"",
-      "source_url": "https://m.entertain.naver.com/article/311/0002075224",
+      "article_count": 6,
+      "source_article": "故 최불암 발인식, 바닥에 주저앉아 오열하는 김혜수",
+      "source_url": "https://m.entertain.naver.com/article/609/0001183475",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "최불암"
       ],
-      "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"학폭, 대체 무슨 일이?\" 학폭 관련 이슈 총정리",
-      "angle_type": "👤 학폭",
-      "article_count": 3,
-      "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
-      "source_url": "https://m.entertain.naver.com/article/108/0003483468",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "학폭"
-      ],
       "template": "논란 집합",
-      "score": 6.3,
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1426,17 +1537,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"주상욱, 대체 무슨 일이?\" 주상욱 관련 이슈 총정리",
-      "angle_type": "👤 주상욱",
+      "title": "\"너무 자산이 얼마?\" 너무급 자산가 스타 TOP10",
+      "angle_type": "👤 너무",
       "article_count": 3,
-      "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
-      "source_url": "https://m.entertain.naver.com/article/108/0003483468",
+      "source_article": "장승조♥린아, 자식농사 대박났다..\"8살 子 진짜 잘생겨, 너무 귀엽다\"",
+      "source_url": "https://m.entertain.naver.com/article/076/0004462002",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "주상욱"
+        "너무"
       ],
-      "template": "논란 집합",
-      "score": 6.3,
+      "template": "자산 서열",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1447,8 +1558,70 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"달라진, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "윤민수 전처, 이혼 후 확 달라진 근황..日서 포착 '칵테일 한잔'",
+      "source_url": "https://m.entertain.naver.com/article/076/0004461864",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "달라진",
+        "근황",
+        "윤민수",
+        "전처",
+        "이혼"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"김혜수\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 김혜수",
+      "article_count": 4,
+      "source_article": "故 최불암 발인식, 바닥에 주저앉아 오열하는 김혜수",
+      "source_url": "https://m.entertain.naver.com/article/609/0001183475",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "김혜수"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
           "현재 상황"
         ]
       },
@@ -1458,11 +1631,156 @@
       "title": "\"마지막\" 관련 화제 스타 TOP10",
       "angle_type": "👤 마지막",
       "article_count": 3,
-      "source_article": "'전원일기 일용이' 박은수, 故최불암과 마지막 연락 회상 \"그게 마지막일줄은\"",
-      "source_url": "https://m.entertain.naver.com/article/311/0002075224",
+      "source_article": "조문하지 못한 김용건, 마지막 인사가 조금 늦어질 뿐이다",
+      "source_url": "https://m.entertain.naver.com/article/468/0001277223",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "마지막"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"외상\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 외상",
+      "article_count": 3,
+      "source_article": "육군 \"강원 철원 전방부대 부사관 1명 외상 입고 사망\"",
+      "source_url": "https://n.news.naver.com/article/469/0000963035?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
+      "related_names": [
+        "외상"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"육군\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 육군",
+      "article_count": 3,
+      "source_article": "육군 \"강원 철원 전방부대 부사관 1명 외상 입고 사망\"",
+      "source_url": "https://n.news.naver.com/article/469/0000963035?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
+      "related_names": [
+        "육군"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"전방부\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 전방부",
+      "article_count": 3,
+      "source_article": "육군 \"강원 철원 전방부대 부사관 1명 외상 입고 사망\"",
+      "source_url": "https://n.news.naver.com/article/469/0000963035?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
+      "related_names": [
+        "전방부"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"사망\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 사망",
+      "article_count": 3,
+      "source_article": "육군 \"강원 철원 전방부대 부사관 1명 외상 입고 사망\"",
+      "source_url": "https://n.news.naver.com/article/469/0000963035?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
+      "related_names": [
+        "사망"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"철원\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 철원",
+      "article_count": 3,
+      "source_article": "육군 \"강원 철원 전방부대 부사관 1명 외상 입고 사망\"",
+      "source_url": "https://n.news.naver.com/article/469/0000963035?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
+      "related_names": [
+        "철원"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1486,21 +1804,21 @@
   ],
   "all_topics": [
     {
-      "title": "\"건물주, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
       "angle_type": "자산·몸값",
-      "article_count": 8,
+      "article_count": 4,
       "source_article": "대놓고 연예인 집자랑이네…68억 건물주라더니, \"집이 너무 커\" 이찬혁 '3층 저택' 공개 ('전참시')",
       "source_url": "https://m.entertain.naver.com/article/312/0000782474",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "건물주",
-        "는데",
-        "억달러",
         "대놓고",
-        "연예인"
+        "연예인",
+        "집자랑",
+        "이네",
+        "건물주"
       ],
       "template": "자산 서열",
-      "score": 7.5,
+      "score": 7.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1519,84 +1837,18 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 8,
-      "source_article": "윤민수 전처, 이혼 후 확 달라진 근황..日서 포착 '칵테일 한잔'",
-      "source_url": "https://m.entertain.naver.com/article/076/0004461864",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "이혼",
-        "결혼",
-        "돌싱",
-        "정애연",
-        "윤민수"
-      ],
-      "template": "결혼 화제",
-      "score": 7.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"차예련이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 5,
-      "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
-      "source_url": "https://m.entertain.naver.com/article/108/0003483468",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "차예련",
-        "주상욱",
-        "학폭",
-        "보고",
-        "결혼했"
-      ],
-      "template": "동갑내기",
-      "score": 7.1,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
       "angle_type": "논란·사건",
       "article_count": 3,
-      "source_article": "'나나♥' 탑, 결국 고개 숙였다…\"이용하고 외면\" 폭로 3주 만에 사과",
-      "source_url": "https://m.entertain.naver.com/article/312/0000782465",
+      "source_article": "“실격 처리해야” 샤이니 민호, 마라톤 대회 논란…페이스메이커 조력 ‘갑론을박’",
+      "source_url": "https://m.entertain.naver.com/article/109/0005633032",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "나나",
-        "고개",
-        "숙였다",
-        "이용하",
-        "외면"
+        "실격",
+        "처리해",
+        "샤이니",
+        "민호",
+        "마라톤"
       ],
       "template": "논란 집합",
       "score": 7.0,
@@ -1618,85 +1870,27 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"얼굴 자산이 얼마?\" 얼굴급 자산가 스타 TOP10",
-      "angle_type": "👤 얼굴",
-      "article_count": 3,
-      "source_article": "'차장금' 차예련, 父 10억 빚 갚고 딸+시母 얼굴 공개했는데..'학폭 이미지' 어쩌나?",
-      "source_url": "https://m.entertain.naver.com/article/108/0003483615",
+      "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 6,
+      "source_article": "임신인 줄 모르고 12kg 감량…병원 도착 30분 만에 출산 (결혼 지옥)",
+      "source_url": "https://m.entertain.naver.com/article/382/0001302273",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "얼굴"
+        "임신인",
+        "모르고",
+        "감량",
+        "병원",
+        "도착"
       ],
-      "template": "자산 서열",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 8,
-      "source_article": "“에프엑스 엠버라고?” 양팔 뒤덮은 문신에 근육질 몸매…몰라보게 달라진 근황",
-      "source_url": "https://m.entertain.naver.com/article/468/0001277129",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "근황",
-        "달라진",
-        "확정",
-        "성유리",
-        "핑클"
-      ],
-      "template": "장기 공백 복귀",
+      "template": "결혼 화제",
       "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"달라진 결혼설?\" 달라진 연애사 총정리",
-      "angle_type": "👤 달라진",
-      "article_count": 3,
-      "source_article": "“에프엑스 엠버라고?” 양팔 뒤덮은 문신에 근육질 몸매…몰라보게 달라진 근황",
-      "source_url": "https://m.entertain.naver.com/article/468/0001277129",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "달라진"
-      ],
-      "template": "결혼 화제",
-      "score": 6.6,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
+        "status": "재활용 가능",
+        "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
+        "matched_views": 720727,
+        "reason": "검증됨 720,727회 · 205일 경과"
       },
       "table": {
         "headers": [
@@ -1711,16 +1905,16 @@
     {
       "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
       "angle_type": "투병·건강",
-      "article_count": 5,
-      "source_article": "\"배 터질 듯 부풀어, 응급실 3번 옮겼다\"..'제주댁' 진재영, '건강 이상' 병원 입원 중",
-      "source_url": "https://m.entertain.naver.com/article/108/0003483467",
+      "article_count": 9,
+      "source_article": "故 최불암 발인식, 바닥에 주저앉아 오열하는 김혜수",
+      "source_url": "https://m.entertain.naver.com/article/609/0001183475",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "최불암",
-        "마지막",
-        "발인",
-        "터질",
-        "부풀어"
+        "김혜수",
+        "육군",
+        "철원",
+        "전방부"
       ],
       "template": "투병 극복",
       "score": 6.5,
@@ -1742,46 +1936,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"최불암 결혼설?\" 최불암 연애사 총정리",
+      "title": "\"최불암, 대체 무슨 일이?\" 최불암 관련 이슈 총정리",
       "angle_type": "👤 최불암",
-      "article_count": 4,
-      "source_article": "'전원일기 일용이' 박은수, 故최불암과 마지막 연락 회상 \"그게 마지막일줄은\"",
-      "source_url": "https://m.entertain.naver.com/article/311/0002075224",
+      "article_count": 6,
+      "source_article": "故 최불암 발인식, 바닥에 주저앉아 오열하는 김혜수",
+      "source_url": "https://m.entertain.naver.com/article/609/0001183475",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "최불암"
       ],
-      "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"학폭, 대체 무슨 일이?\" 학폭 관련 이슈 총정리",
-      "angle_type": "👤 학폭",
-      "article_count": 3,
-      "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
-      "source_url": "https://m.entertain.naver.com/article/108/0003483468",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "학폭"
-      ],
       "template": "논란 집합",
-      "score": 6.3,
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1800,17 +1965,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"주상욱, 대체 무슨 일이?\" 주상욱 관련 이슈 총정리",
-      "angle_type": "👤 주상욱",
+      "title": "\"너무 자산이 얼마?\" 너무급 자산가 스타 TOP10",
+      "angle_type": "👤 너무",
       "article_count": 3,
-      "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
-      "source_url": "https://m.entertain.naver.com/article/108/0003483468",
+      "source_article": "장승조♥린아, 자식농사 대박났다..\"8살 子 진짜 잘생겨, 너무 귀엽다\"",
+      "source_url": "https://m.entertain.naver.com/article/076/0004462002",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "주상욱"
+        "너무"
       ],
-      "template": "논란 집합",
-      "score": 6.3,
+      "template": "자산 서열",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1821,8 +1986,70 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"달라진, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "윤민수 전처, 이혼 후 확 달라진 근황..日서 포착 '칵테일 한잔'",
+      "source_url": "https://m.entertain.naver.com/article/076/0004461864",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "달라진",
+        "근황",
+        "윤민수",
+        "전처",
+        "이혼"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"김혜수\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 김혜수",
+      "article_count": 4,
+      "source_article": "故 최불암 발인식, 바닥에 주저앉아 오열하는 김혜수",
+      "source_url": "https://m.entertain.naver.com/article/609/0001183475",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "김혜수"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
           "현재 상황"
         ]
       },
@@ -1832,8 +2059,8 @@
       "title": "\"마지막\" 관련 화제 스타 TOP10",
       "angle_type": "👤 마지막",
       "article_count": 3,
-      "source_article": "'전원일기 일용이' 박은수, 故최불암과 마지막 연락 회상 \"그게 마지막일줄은\"",
-      "source_url": "https://m.entertain.naver.com/article/311/0002075224",
+      "source_article": "조문하지 못한 김용건, 마지막 인사가 조금 늦어질 뿐이다",
+      "source_url": "https://m.entertain.naver.com/article/468/0001277223",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "마지막"
@@ -1856,35 +2083,284 @@
         ]
       },
       "channel": "정보주는하마"
+    },
+    {
+      "title": "\"외상\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 외상",
+      "article_count": 3,
+      "source_article": "육군 \"강원 철원 전방부대 부사관 1명 외상 입고 사망\"",
+      "source_url": "https://n.news.naver.com/article/469/0000963035?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
+      "related_names": [
+        "외상"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"육군\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 육군",
+      "article_count": 3,
+      "source_article": "육군 \"강원 철원 전방부대 부사관 1명 외상 입고 사망\"",
+      "source_url": "https://n.news.naver.com/article/469/0000963035?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
+      "related_names": [
+        "육군"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"전방부\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 전방부",
+      "article_count": 3,
+      "source_article": "육군 \"강원 철원 전방부대 부사관 1명 외상 입고 사망\"",
+      "source_url": "https://n.news.naver.com/article/469/0000963035?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
+      "related_names": [
+        "전방부"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"사망\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 사망",
+      "article_count": 3,
+      "source_article": "육군 \"강원 철원 전방부대 부사관 1명 외상 입고 사망\"",
+      "source_url": "https://n.news.naver.com/article/469/0000963035?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
+      "related_names": [
+        "사망"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"철원\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 철원",
+      "article_count": 3,
+      "source_article": "육군 \"강원 철원 전방부대 부사관 1명 외상 입고 사망\"",
+      "source_url": "https://n.news.naver.com/article/469/0000963035?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
+      "related_names": [
+        "철원"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"감독, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 6,
+      "source_article": "프로야구 감독 부임후 팀 순위.jpg",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611020119833443&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "감독",
+        "포스트",
+        "시즌",
+        "대진표",
+        "김치맨"
+      ],
+      "template": "스포츠 기록",
+      "score": 7.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 4,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"시즌\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 시즌",
+      "article_count": 3,
+      "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 <밀워키 브루어스 우승> ⚾",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "시즌"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"포스트\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 포스트",
+      "article_count": 3,
+      "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 <밀워키 브루어스 우승> ⚾",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "포스트"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
     [
-      "차예련",
-      5
+      "최불암",
+      6
     ],
     [
-      "근황",
-      4
-    ],
-    [
-      "달라진",
+      "김혜수",
       3
     ],
     [
-      "이혼",
-      3
-    ],
-    [
-      "학폭",
-      3
-    ],
-    [
-      "결혼",
-      3
-    ],
-    [
-      "얼굴",
+      "너무",
       3
     ],
     [
@@ -1892,35 +2368,59 @@
       3
     ],
     [
-      "최불암",
+      "외상",
       3
     ],
     [
-      "배우",
+      "육군",
+      3
+    ],
+    [
+      "사망",
+      3
+    ],
+    [
+      "철원",
+      3
+    ],
+    [
+      "주저앉아",
       2
     ],
     [
-      "여배우",
+      "열었다",
       2
     ],
     [
-      "돌싱",
+      "달라진",
       2
     ],
     [
-      "정애연",
+      "근황",
       2
     ],
     [
-      "미우새",
+      "삭제",
       2
     ],
     [
-      "아버지",
+      "차예련",
       2
     ],
     [
-      "확정",
+      "학폭",
+      2
+    ],
+    [
+      "없어",
+      2
+    ],
+    [
+      "이동국",
+      2
+    ],
+    [
+      "이재아",
       2
     ],
     [
@@ -1928,53 +2428,21 @@
       2
     ],
     [
-      "너무",
-      2
-    ],
-    [
-      "닮아",
-      2
-    ],
-    [
-      "최강창민",
+      "들고",
       2
     ]
   ],
   "name_freq": [
     [
-      "차예련",
-      5
-    ],
-    [
-      "근황",
-      4
-    ],
-    [
       "최불암",
+      6
+    ],
+    [
+      "김혜수",
       4
     ],
     [
-      "달라진",
-      3
-    ],
-    [
-      "이혼",
-      3
-    ],
-    [
-      "학폭",
-      3
-    ],
-    [
-      "주상욱",
-      3
-    ],
-    [
-      "결혼",
-      3
-    ],
-    [
-      "얼굴",
+      "너무",
       3
     ],
     [
@@ -1982,27 +2450,51 @@
       3
     ],
     [
-      "배우",
+      "외상",
+      3
+    ],
+    [
+      "육군",
+      3
+    ],
+    [
+      "전방부",
+      3
+    ],
+    [
+      "사망",
+      3
+    ],
+    [
+      "철원",
+      3
+    ],
+    [
+      "주저앉",
       2
     ],
     [
-      "여배우",
+      "열었다",
       2
     ],
     [
-      "미우새",
+      "달라진",
       2
     ],
     [
-      "돌싱",
+      "근황",
       2
     ],
     [
-      "정애연",
+      "삭제",
+      2
+    ],
+    [
+      "차예련",
       2
     ]
   ],
-  "total_topics_generated": 12,
-  "valid_topics": 12,
+  "total_topics_generated": 18,
+  "valid_topics": 18,
   "excluded_duplicates": 0
 }
