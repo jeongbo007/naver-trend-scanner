@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-11-01 20:57:02",
+  "scan_time": "2026-11-02 00:10:30",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -9,16 +9,16 @@
     "[폴백] 스포츠 랭킹": 30,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 30
+    "MLB파크 불펜": 0
   },
-  "total_articles": 90,
+  "total_articles": 60,
   "articles": [
     {
-      "title": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
-      "url": "https://m.entertain.naver.com/article/108/0003483468",
+      "title": "박하선, 하차에 입 열었다…\"싫어져서 그만두는 것 아냐\" 6년 동행 마침표",
+      "url": "https://m.entertain.naver.com/article/312/0000782477",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 67227,
+      "views": 108955,
       "rank": 1,
       "channel": "정보주는하마"
     },
@@ -27,35 +27,8 @@
       "url": "https://m.entertain.naver.com/article/312/0000782444",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 64429,
+      "views": 68309,
       "rank": 2,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "‘배우 준비’ 정웅인 첫째 딸 근황, 경북대 퀸카 母가 자랑할 수밖에 “오구 예뻐”",
-      "url": "https://m.entertain.naver.com/article/609/0001183281",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 53961,
-      "rank": 3,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "박희순, '아버지' 됐다…♥박예진과 결혼 12년 차에 부성애 연기 예고→스크린 복귀 확정",
-      "url": "https://m.entertain.naver.com/article/312/0000782430",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 44184,
-      "rank": 4,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "이하이♥도끼, 열애 인정하더니 거침없네…대놓고 공개한 데이트 현장",
-      "url": "https://m.entertain.naver.com/article/117/0004120544",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 38426,
-      "rank": 5,
       "channel": "정보주는하마"
     },
     {
@@ -63,62 +36,8 @@
       "url": "https://m.entertain.naver.com/article/468/0001277129",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 28690,
-      "rank": 6,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "권상우♥손태영 딸 리호, 12살 맞아? 폭풍성장 실물...걸그룹 비주얼 완성",
-      "url": "https://m.entertain.naver.com/article/076/0004461697",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 26384,
-      "rank": 7,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "'돌싱 6년' 정애연, 김진근과 12년만에 이혼 후 모친과 사는 중..\"투잡뛴다\"(미우새)",
-      "url": "https://m.entertain.naver.com/article/109/0005632543",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 21938,
-      "rank": 8,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "차예련 이름은 없었다…‘85년생 여배우’ 학폭설, 동창 주장도 ‘여왕벌 vs 괴롭힌 적 없다’",
-      "url": "https://m.entertain.naver.com/article/468/0001276922",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 19993,
-      "rank": 9,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "박하선, 하차에 입 열었다…\"싫어져서 그만두는 것 아냐\" 6년 동행 마침표",
-      "url": "https://m.entertain.naver.com/article/312/0000782477",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 18271,
-      "rank": 10,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "故 최불암 빈소 찾지 못한 김용건…백일섭 \"子 하정우 결혼하지 않느냐\"",
-      "url": "https://m.entertain.naver.com/article/117/0004120542",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 14547,
-      "rank": 11,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "김승수, ♥박혜연과 첫 데이트서 모친 발언 사과…\"완전 망했구나 싶었다\" (미우새)",
-      "url": "https://m.entertain.naver.com/article/311/0002075252",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 12478,
-      "rank": 12,
+      "views": 67826,
+      "rank": 3,
       "channel": "정보주는하마"
     },
     {
@@ -126,17 +45,161 @@
       "url": "https://m.entertain.naver.com/article/076/0004461864",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 12146,
+      "views": 62830,
+      "rank": 4,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
+      "url": "https://m.entertain.naver.com/article/108/0003483468",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 54366,
+      "rank": 5,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "‘배우 준비’ 정웅인 첫째 딸 근황, 경북대 퀸카 母가 자랑할 수밖에 “오구 예뻐”",
+      "url": "https://m.entertain.naver.com/article/609/0001183281",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 47716,
+      "rank": 6,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'나나♥' 탑, 결국 고개 숙였다…\"이용하고 외면\" 폭로 3주 만에 사과",
+      "url": "https://m.entertain.naver.com/article/312/0000782465",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 46667,
+      "rank": 7,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "차예련 이름은 없었다…‘85년생 여배우’ 학폭설, 동창 주장도 ‘여왕벌 vs 괴롭힌 적 없다’",
+      "url": "https://m.entertain.naver.com/article/468/0001276922",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 32398,
+      "rank": 8,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'돌싱 6년' 정애연, 김진근과 12년만에 이혼 후 모친과 사는 중..\"투잡뛴다\"(미우새)",
+      "url": "https://m.entertain.naver.com/article/109/0005632543",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 23285,
+      "rank": 9,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "박희순, '아버지' 됐다…♥박예진과 결혼 12년 차에 부성애 연기 예고→스크린 복귀 확정",
+      "url": "https://m.entertain.naver.com/article/312/0000782430",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 22610,
+      "rank": 10,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'새 출발' 김건모, 확 달라진 근황..58세 믿기지 않는 비주얼 '깜짝'",
+      "url": "https://m.entertain.naver.com/article/076/0004461748",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 21180,
+      "rank": 11,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "장승조♥린아, 자식농사 대박났다..\"8살 子 진짜 잘생겨, 너무 귀엽다\"",
+      "url": "https://m.entertain.naver.com/article/076/0004462002",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 17836,
+      "rank": 12,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "‘조유민♥'티아라 소연, 깜짝 임신발표..\"곧 아기 태어납니다\"",
+      "url": "https://m.entertain.naver.com/article/109/0005632858",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 17729,
       "rank": 13,
       "channel": "정보주는하마"
     },
     {
-      "title": "‘전원일기 장남’ 김용건, 故최불암 빈소 못 간 이유가…“하루하루 마음 힘들다” 토로",
-      "url": "https://m.entertain.naver.com/article/016/0002717141",
+      "title": "\"배 터질 듯 부풀어, 응급실 3번 옮겼다\"..'제주댁' 진재영, '건강 이상' 병원 입원 중",
+      "url": "https://m.entertain.naver.com/article/108/0003483467",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 11405,
+      "views": 11403,
       "rank": 14,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "최강창민, 5살 子 외모 공개..\"회사 직원도 알아볼 정도로 나 닮아\"",
+      "url": "https://m.entertain.naver.com/article/108/0003483595",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 11388,
+      "rank": 15,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "대놓고 연예인 집자랑이네…68억 건물주라더니, \"집이 너무 커\" 이찬혁 '3층 저택' 공개 ('전참시')",
+      "url": "https://m.entertain.naver.com/article/312/0000782474",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 10786,
+      "rank": 16,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'차장금' 차예련, 父 10억 빚 갚고 딸+시母 얼굴 공개했는데..'학폭 이미지' 어쩌나?",
+      "url": "https://m.entertain.naver.com/article/108/0003483615",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 9615,
+      "rank": 17,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "성유리, 핑클 복귀하는데···화장품 매출 ‘반토막’에 자본잠식",
+      "url": "https://m.entertain.naver.com/article/144/0001147526",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 9390,
+      "rank": 18,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "'전원일기 일용이' 박은수, 故최불암과 마지막 연락 회상 \"그게 마지막일줄은\"",
+      "url": "https://m.entertain.naver.com/article/311/0002075224",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 8528,
+      "rank": 19,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "“자식 학폭이면 특단 조치”…차예련 ‘학폭 논란’에 재조명된 남편 주상욱의 발언",
+      "url": "https://m.entertain.naver.com/article/468/0001276915",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 8388,
+      "rank": 20,
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "차예련 측 “사실무근”에도…남편 주상욱·어린 딸까지 불똥 ‘곤혹’",
+      "url": "https://m.entertain.naver.com/article/241/0003538441",
+      "source": "엔터 많이 본 뉴스",
+      "category": "연예",
+      "views": 7960,
+      "rank": 21,
       "channel": "정보주는하마"
     },
     {
@@ -144,53 +207,53 @@
       "url": "https://m.entertain.naver.com/article/312/0000782434",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 10322,
-      "rank": 15,
+      "views": 7041,
+      "rank": 22,
       "channel": "정보주는하마"
     },
     {
-      "title": "지팡이 짚은 백일섭, 故 최불암 사망에 애통 “눈 보면 편했는데, 90은 넘게 살아야지”",
-      "url": "https://m.entertain.naver.com/article/609/0001183305",
+      "title": "이서진, '맨발' 화사 팔 잡고 끌고 갔다…한 손엔 하이힐 들고 '츤데레 폭발'",
+      "url": "https://m.entertain.naver.com/article/312/0000782501",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 10032,
-      "rank": 16,
+      "views": 6865,
+      "rank": 23,
       "channel": "정보주는하마"
     },
     {
-      "title": "돌싱 황정음, '전 남친' 김용준과 추억 또 꺼냈다…\"이것은 '우결' 정음\"",
-      "url": "https://m.entertain.naver.com/article/311/0002075068",
+      "title": "'정영림♥' 심현섭, 55세 울산살이 고충..\"서울 왔다갔다 힘들어, 마음 놓고 얘기할 곳도 없다\"",
+      "url": "https://m.entertain.naver.com/article/076/0004461996",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 9830,
-      "rank": 17,
+      "views": 6611,
+      "rank": 24,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"9년 연애, 지켜줘 고마워\"…윤종훈♥한은서 결혼식 '웨딩사진 입수'",
-      "url": "https://m.entertain.naver.com/article/477/0000636482",
+      "title": "황정음, \"보고싶다\"더니 또 9년 사귄 전남친 김용준 소환..\"'우결' 정음\"",
+      "url": "https://m.entertain.naver.com/article/109/0005632718",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 9176,
-      "rank": 18,
+      "views": 6136,
+      "rank": 25,
       "channel": "정보주는하마"
     },
     {
-      "title": "故 최불암, ‘전원일기’ 둘째 며느리 박순천에 “현장에 대본을 가지고 가지 마라”",
-      "url": "https://m.entertain.naver.com/article/410/0001145666",
+      "title": "서강준♥안은진, 10년 연애 후 결별… 제목처럼 끝내버린 ‘너다연’",
+      "url": "https://m.entertain.naver.com/article/468/0001277166",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 8407,
-      "rank": 19,
+      "views": 5945,
+      "rank": 26,
       "channel": "정보주는하마"
     },
     {
-      "title": "백일섭, 지팡이 짚고 故 최불암 빈소 조문…\"술마실 때 형 눈 보면 참 편했다\"",
-      "url": "https://m.entertain.naver.com/article/421/0009262483",
+      "title": "“실망이다” 김용건, 故최불암 빈소 불참에 쏟아진 비난…하정우 결혼 때문?",
+      "url": "https://m.entertain.naver.com/article/468/0001276947",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 8071,
-      "rank": 20,
+      "views": 5905,
+      "rank": 27,
       "channel": "정보주는하마"
     },
     {
@@ -198,94 +261,31 @@
       "url": "https://m.entertain.naver.com/article/468/0001276938",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 8026,
-      "rank": 21,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "로이킴, 지예은♥바타 축가 거절 해명 \"약속한 적 없는데, 인류애 떨어진다\"",
-      "url": "https://m.entertain.naver.com/article/076/0004461992",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 7939,
-      "rank": 22,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "성병 임신설 해명 ‘나솔’ 31기 옥순, 눈 뜨자마자 현빈♥손예진 촬영지行 “집에만 있는 사람 바보”",
-      "url": "https://m.entertain.naver.com/article/609/0001183294",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 6848,
-      "rank": 23,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "아빠 빚 10억 갚던 '효녀'였는데...차예련, 학폭 의혹에 '바른 생활' 이미지 흔들",
-      "url": "https://m.entertain.naver.com/article/076/0004461769",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 6777,
-      "rank": 24,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"나도 보고 싶어\"..황정음, 9년 사귄 前남친 김용준 또 공개 소환",
-      "url": "https://m.entertain.naver.com/article/108/0003483555",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 6399,
-      "rank": 25,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "장승조, '전성기' 왁스 통장 잔고 보고 충격…\"0이 너무 많더라\"",
-      "url": "https://m.entertain.naver.com/article/311/0002075031",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 5381,
-      "rank": 26,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"스톡홀름 증후군 같아\"..브루클린 베컴, 부모와 절연하더니 ♥아내 악플러에 분노",
-      "url": "https://m.entertain.naver.com/article/109/0005632634",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 5115,
-      "rank": 27,
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "이경실, 89평 아파트 경매 위기..\"김지선이 빌려준 1억에 눈물 쏟아\"",
-      "url": "https://m.entertain.naver.com/article/076/0004461669",
-      "source": "엔터 많이 본 뉴스",
-      "category": "연예",
-      "views": 5064,
+      "views": 5777,
       "rank": 28,
       "channel": "정보주는하마"
     },
     {
-      "title": "진재영, 이틀간 응급실 3군데 전전…5일째 물 한방울 못 마신 근황",
-      "url": "https://m.entertain.naver.com/article/311/0002075057",
+      "title": "최강창민, 5살 아들과 붕어빵 인증…\"제가 봐도 닮아\" (미우새)",
+      "url": "https://m.entertain.naver.com/article/440/0000050866",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 4970,
+      "views": 5743,
       "rank": 29,
       "channel": "정보주는하마"
     },
     {
-      "title": "'전원일기' 엄유신, 故최불암 마지막 길 배웅…\"최근 연락 못 드려, 죄송스럽다\"",
-      "url": "https://m.entertain.naver.com/article/311/0002075179",
+      "title": "이혼 후 母와 합가..정애연, 안 씻고 취침 돌싱 라이프 '서장훈 경악'",
+      "url": "https://m.entertain.naver.com/article/108/0003483459",
       "source": "엔터 많이 본 뉴스",
       "category": "연예",
-      "views": 4383,
+      "views": 5467,
       "rank": 30,
       "channel": "정보주는하마"
     },
     {
-      "title": "\"2억 넣고 월 160만원 꼬박꼬박\" 30대 은퇴부부, 5천만원씩 담았다는 ETF는",
-      "url": "https://n.news.naver.com/article/014/0005597404?ntype=RANKING",
+      "title": "\"52년 만에 최대 폭락\"…삼전닉스 개미들 월요일이 두렵다",
+      "url": "https://n.news.naver.com/article/215/0001271269?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -293,8 +293,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"지옥의 3년 버티더니 싹 바뀌었다\"… 누명 벗은 김건모, 확 젊어진 충격 근황",
-      "url": "https://n.news.naver.com/article/014/0005597645?ntype=RANKING",
+      "title": "\"40억 건물주 됐는데\"…매달 '1,300만원'에 허덕이는 여배우, 결국",
+      "url": "https://n.news.naver.com/article/215/0001271262?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -302,8 +302,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"목감기약 하나 먹고 잤을 뿐인데\"… 10월 마지막 밤, 4050 가장 숨통 틀어막은 '이 질환'",
-      "url": "https://n.news.naver.com/article/014/0005597574?ntype=RANKING",
+      "title": "\"빨던 숟가락을 새 수저통에\"...애엄마 행동에 '경악'",
+      "url": "https://n.news.naver.com/article/215/0001271286?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -311,8 +311,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"국가 시스템 무너지고 있다\"…박근혜, 장동혁에 던진 '정권 탈환' 주문",
-      "url": "https://n.news.naver.com/article/014/0005597682?ntype=RANKING",
+      "title": "한국 증시 개장 앞두고 터진 메타·앤트로픽 악재…단기 피난처는",
+      "url": "https://n.news.naver.com/article/215/0001271287?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -320,8 +320,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "5년뒤 퇴직 준비하는 55세 맞벌이 부부 \"모자란 노후자금 모으려면\"",
-      "url": "https://n.news.naver.com/article/014/0005597610?ntype=RANKING",
+      "title": "\"아내와 불륜한 군인 알리겠다\"...부대 정문 돌진한 30대男",
+      "url": "https://n.news.naver.com/article/215/0001271266?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -329,8 +329,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "‘매달 퇴직연금 현금납입’... 소상공인 “탁상행정” 분노",
-      "url": "https://n.news.naver.com/article/023/0004007134?ntype=RANKING",
+      "title": "'여친 3시간 514번 폭행해 살해한 전ㅇㅇ 얼굴 공개'...\"사형!\" 분노",
+      "url": "https://n.news.naver.com/article/018/0006401721?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -338,8 +338,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "터널서 시속 171㎞ 음주운전 사망사고… 항소심서 징역 3년→2년 6개월",
-      "url": "https://n.news.naver.com/article/023/0004007115?ntype=RANKING",
+      "title": "“두 아이 아빠 숨졌는데”…터널서 질주한 만취 30대女, 감형 이유",
+      "url": "https://n.news.naver.com/article/018/0006401821?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -347,8 +347,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "내기 골프 져주며 신뢰 쌓더니… 약물 먹이고 7500만원 가로챈 일당",
-      "url": "https://n.news.naver.com/article/023/0004007124?ntype=RANKING",
+      "title": "천하의 김동현도 '50억 집주인 대출'…압구정 100억의 현실",
+      "url": "https://n.news.naver.com/article/018/0006401755?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -356,8 +356,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "프랑스 이어 독일 청년들도 “못 살겠다” 폭력·약탈 시위",
-      "url": "https://n.news.naver.com/article/023/0004007143?ntype=RANKING",
+      "title": "\"일본서 쇼핑할 때 조심하세요\"…과자 하나에 환급금 '증발'",
+      "url": "https://n.news.naver.com/article/018/0006401769?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -365,8 +365,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "장동혁, 연임 도전 질문에 “필요하다면 책임 피할 생각 없다”",
-      "url": "https://n.news.naver.com/article/023/0004007150?ntype=RANKING",
+      "title": "\"삼전닉스 자사주 실탄 소용없다?\"…개미 한숨만 나오는 이유",
+      "url": "https://n.news.naver.com/article/018/0006401793?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -374,8 +374,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "무섭게 떠나는 ‘중도·수도권·청년’…이 대통령 안 바뀌면 정권 위태롭다",
-      "url": "https://n.news.naver.com/article/028/0002830106?ntype=RANKING",
+      "title": "“원당역 피해자, 얼굴 못 알아볼 정도로 난도질…장기도 심각 훼손”",
+      "url": "https://n.news.naver.com/article/005/0001882235?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -383,8 +383,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "민주 “이 대통령 순방 비판? 전용기에 소주 챙겨간 윤석열은…”",
-      "url": "https://n.news.naver.com/article/028/0002830138?ntype=RANKING",
+      "title": "‘20분에 8.4조’ 어떻게 털렸나… “서명망 뚫고 ‘자폭’으로 추적 교란”",
+      "url": "https://n.news.naver.com/article/005/0001882212?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -392,8 +392,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "곧 수능인데 교문 앞 ‘암반 깨기’…“선생님 말씀 안 들려” 영주고에 무슨 일",
-      "url": "https://n.news.naver.com/article/028/0002830142?ntype=RANKING",
+      "title": "고속도로 달리는데 갑자기 튀어나온 뱀…운전자 심장 철렁",
+      "url": "https://n.news.naver.com/article/005/0001882245?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -401,8 +401,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "이 대통령 “돼지 눈에는 돼지만”…국힘 “돼지 눈으로 국정”",
-      "url": "https://n.news.naver.com/article/028/0002830199?ntype=RANKING",
+      "title": "한동훈 “경찰대에 로스쿨? 국민을 생체실험 대상처럼 보나”",
+      "url": "https://n.news.naver.com/article/005/0001882250?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -410,8 +410,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "반도체 초호황의 역설…GDP에서 ‘노동 몫’ 역대 최저",
-      "url": "https://n.news.naver.com/article/028/0002830200?ntype=RANKING",
+      "title": "‘김민석 100일’ 민주당 전운… 정청래 “어떤 깃발 들지 고민”",
+      "url": "https://n.news.naver.com/article/005/0001882253?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -419,8 +419,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "배우 부부 탄생...‘8년 인연’ 결혼으로 결실 맺은 윤종훈·한은서",
-      "url": "https://n.news.naver.com/article/009/0005757299?ntype=RANKING",
+      "title": "바이낸스, 63억달러 해킹 사흘 만에 출금 재개…9시간 반 동안 36억달러 순유출",
+      "url": "https://n.news.naver.com/article/138/0002246837?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -428,8 +428,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "“인형탈쓰고 마약사탕 나눠줘요”…핼러윈 홍대거리에서 벌어진 일",
-      "url": "https://n.news.naver.com/article/009/0005757291?ntype=RANKING",
+      "title": "조선3사, 3분기만에 작년 영업이익 넘었지만…LNG선까지 넘보는 中",
+      "url": "https://n.news.naver.com/article/138/0002246825?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -437,8 +437,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "32억 빚내 건물주 됐건만…‘월 이자 1300만원’ 결국 틱톡 켠 인플루언서",
-      "url": "https://n.news.naver.com/article/009/0005757150?ntype=RANKING",
+      "title": "3년 치 HBM 완판 선언한 SK하이닉스… '개발 사령관' 안현 사장 미국 전진 배치",
+      "url": "https://n.news.naver.com/article/138/0002246812?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -446,8 +446,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "“국민연금, 삼전닉스서만 131조 잃어…회의록 제출 왜 미루나” 당정에 물은 안철수",
-      "url": "https://n.news.naver.com/article/009/0005757280?ntype=RANKING",
+      "title": "152MW 사실상 만실…KT클라우드 1GW 공급 속도전(종합)",
+      "url": "https://n.news.naver.com/article/138/0002246807?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -455,8 +455,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "돈줄 마른 한전, 전력망 하세월 … 요르단 발전소 지분매각 검토",
-      "url": "https://n.news.naver.com/article/009/0005757240?ntype=RANKING",
+      "title": "시급 50배 ‘꿀알바’의 섬뜩한 비밀, 넷플릭스 ‘꿀알바’",
+      "url": "https://n.news.naver.com/article/138/0002246804?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -464,8 +464,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"하객이 왜 결혼식 식대를 맞춰줘야 하나…5성급 호텔서 폼 잡는 건 그들\"",
-      "url": "https://n.news.naver.com/article/421/0009262334?ntype=RANKING",
+      "title": "일본 갈 때 모르면 '낭패'…어제부터 싹 바뀐 면세제도",
+      "url": "https://n.news.naver.com/article/057/0001976224?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -473,8 +473,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "원당역 피습 피해자 측 \"얼굴·혈관 심각 손상, 피 3L 잃어…엄벌을\"(종합)",
-      "url": "https://n.news.naver.com/article/421/0009263253?ntype=RANKING",
+      "title": "한동훈 \"경찰대에 로스쿨? 국민을 생체실험 대상으로\"",
+      "url": "https://n.news.naver.com/article/057/0001976221?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -482,8 +482,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "같은 학교 여학생 성착취물 만들고 돌려본 중학생 13명 무더기 송치",
-      "url": "https://n.news.naver.com/article/421/0009263277?ntype=RANKING",
+      "title": "'국민 아버지' 최불암 오늘 발인…'아베 마리아'로 마지막 배웅",
+      "url": "https://n.news.naver.com/article/057/0001976204?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -491,8 +491,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "일본서 쇼핑하고 맥주 1캔 마셨다가 '헉'…귀국길 세금 폭탄 주의보",
-      "url": "https://n.news.naver.com/article/421/0009262377?ntype=RANKING",
+      "title": "정년 후 연금까지 소득공백 '3년'…재취업 나서는 중·고령층",
+      "url": "https://n.news.naver.com/article/057/0001976227?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -500,8 +500,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "4% 예금 늘고 대출금리도 '껑충'…가계대출 3분의1은 '연 5% 이상'",
-      "url": "https://n.news.naver.com/article/421/0009262991?ntype=RANKING",
+      "title": "북 해커가 훔친 비트코인 '14억 달러'…테슬라 보유량 넘었다",
+      "url": "https://n.news.naver.com/article/057/0001976207?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -509,8 +509,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "“집 샀다더니 월세만 600만원”…시체로 발견된 아내의 비밀",
-      "url": "https://n.news.naver.com/article/025/0003561951?ntype=RANKING",
+      "title": "“11월분부터 건보료 오른다?”…집값 오른 지역가입자 ‘비상’",
+      "url": "https://n.news.naver.com/article/056/0012285115?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -518,8 +518,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "“52년만 최악” 인텔 187조 증발…삼전닉스도 월요일이 두렵다",
-      "url": "https://n.news.naver.com/article/025/0003561991?ntype=RANKING",
+      "title": "미, 5천300만 명 사전투표 역대 최대…트럼프 강행군 속 민주당 우세 전망",
+      "url": "https://n.news.naver.com/article/056/0012285086?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -527,8 +527,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "조문객 신발 정리하고 유족 챙겼다…故최불암 딸 자처한 김혜수",
-      "url": "https://n.news.naver.com/article/025/0003561996?ntype=RANKING",
+      "title": "길이만 2.92m…유럽 낚시 대회서 잡힌 초대형 메기",
+      "url": "https://n.news.naver.com/article/056/0012285122?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -536,8 +536,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "피 3ℓ 토하는 아들 곁서 사망보험 가입…25년 설계사 엄마의 탐욕",
-      "url": "https://n.news.naver.com/article/025/0003562002?ntype=RANKING",
+      "title": "“인텔 28% 폭락 쇼크”…코스피, 또 검은 월요일 될까?",
+      "url": "https://n.news.naver.com/article/056/0012285113?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -545,8 +545,8 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "“더는 못 살겠다” 핼러윈밤 폭발…프랑스 이어 독일도 방화·약탈",
-      "url": "https://n.news.naver.com/article/025/0003562005?ntype=RANKING",
+      "title": "故 최불암, 오늘(2일) 비공개 발인…초록우산서 마지막 작별인사",
+      "url": "https://n.news.naver.com/article/056/0012285137?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
@@ -559,18 +559,18 @@
       "article_count": 60,
       "topics": [
         {
-          "title": "\"만원, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+          "title": "\"건물주, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
           "angle_type": "자산·몸값",
-          "article_count": 6,
-          "source_article": "아빠 빚 10억 갚던 '효녀'였는데...차예련, 학폭 의혹에 '바른 생활' 이미지 흔들",
-          "source_url": "https://m.entertain.naver.com/article/076/0004461769",
+          "article_count": 8,
+          "source_article": "대놓고 연예인 집자랑이네…68억 건물주라더니, \"집이 너무 커\" 이찬혁 '3층 저택' 공개 ('전참시')",
+          "source_url": "https://m.entertain.naver.com/article/312/0000782474",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "만원",
-            "삼전닉",
-            "아빠",
-            "갚던",
-            "효녀"
+            "건물주",
+            "는데",
+            "억달러",
+            "대놓고",
+            "연예인"
           ],
           "template": "자산 서열",
           "score": 7.5,
@@ -592,21 +592,54 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+          "title": "\"이혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "angle_type": "결혼·이혼",
+          "article_count": 8,
+          "source_article": "윤민수 전처, 이혼 후 확 달라진 근황..日서 포착 '칵테일 한잔'",
+          "source_url": "https://m.entertain.naver.com/article/076/0004461864",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "이혼",
+            "결혼",
+            "돌싱",
+            "정애연",
+            "윤민수"
+          ],
+          "template": "결혼 화제",
+          "score": 7.4,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"차예련이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
           "angle_type": "가족·혈연",
-          "article_count": 6,
+          "article_count": 5,
           "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
           "source_url": "https://m.entertain.naver.com/article/108/0003483468",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
+            "차예련",
             "주상욱",
-            "보고",
-            "결혼했",
             "학폭",
-            "의혹"
+            "보고",
+            "결혼했"
           ],
           "template": "동갑내기",
-          "score": 7.4,
+          "score": 7.1,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -625,21 +658,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-          "angle_type": "투병·건강",
-          "article_count": 10,
-          "source_article": "故 최불암 빈소 찾지 못한 김용건…백일섭 \"子 하정우 결혼하지 않느냐\"",
-          "source_url": "https://m.entertain.naver.com/article/117/0004120542",
+          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 3,
+          "source_article": "'나나♥' 탑, 결국 고개 숙였다…\"이용하고 외면\" 폭로 3주 만에 사과",
+          "source_url": "https://m.entertain.naver.com/article/312/0000782465",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "최불암",
-            "빈소",
-            "백일섭",
-            "전원일",
-            "김용건"
+            "나나",
+            "고개",
+            "숙였다",
+            "이용하",
+            "외면"
           ],
-          "template": "투병 극복",
-          "score": 7.2,
+          "template": "논란 집합",
+          "score": 7.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -650,25 +683,25 @@
           "table": {
             "headers": [
               "이름",
-              "투병 질환",
-              "공백기",
-              "복귀 작품"
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"최불암 결혼설?\" 최불암 연애사 총정리",
-          "angle_type": "👤 최불암",
-          "article_count": 7,
-          "source_article": "故 최불암 빈소 찾지 못한 김용건…백일섭 \"子 하정우 결혼하지 않느냐\"",
-          "source_url": "https://m.entertain.naver.com/article/117/0004120542",
+          "title": "\"얼굴 자산이 얼마?\" 얼굴급 자산가 스타 TOP10",
+          "angle_type": "👤 얼굴",
+          "article_count": 3,
+          "source_article": "'차장금' 차예련, 父 10억 빚 갚고 딸+시母 얼굴 공개했는데..'학폭 이미지' 어쩌나?",
+          "source_url": "https://m.entertain.naver.com/article/108/0003483615",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "최불암"
+            "얼굴"
           ],
-          "template": "결혼 화제",
-          "score": 7.2,
+          "template": "자산 서열",
+          "score": 7.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -679,42 +712,9 @@
           "table": {
             "headers": [
               "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"해명 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-          "angle_type": "결혼·이혼",
-          "article_count": 11,
-          "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
-          "source_url": "https://m.entertain.naver.com/article/108/0003483468",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "해명",
-            "결혼",
-            "이혼",
-            "윤종훈",
-            "한은서"
-          ],
-          "template": "결혼 화제",
-          "score": 6.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
             ]
           },
           "channel": "정보주는하마"
@@ -723,15 +723,15 @@
           "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
           "angle_type": "복귀·근황",
           "article_count": 8,
-          "source_article": "‘배우 준비’ 정웅인 첫째 딸 근황, 경북대 퀸카 母가 자랑할 수밖에 “오구 예뻐”",
-          "source_url": "https://m.entertain.naver.com/article/609/0001183281",
+          "source_article": "“에프엑스 엠버라고?” 양팔 뒤덮은 문신에 근육질 몸매…몰라보게 달라진 근황",
+          "source_url": "https://m.entertain.naver.com/article/468/0001277129",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "근황",
-            "확정",
             "달라진",
-            "배우",
-            "준비"
+            "확정",
+            "성유리",
+            "핑클"
           ],
           "template": "장기 공백 복귀",
           "score": 6.8,
@@ -753,17 +753,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"빈소 결혼설?\" 빈소 연애사 총정리",
-          "angle_type": "👤 빈소",
+          "title": "\"달라진 결혼설?\" 달라진 연애사 총정리",
+          "angle_type": "👤 달라진",
           "article_count": 3,
-          "source_article": "故 최불암 빈소 찾지 못한 김용건…백일섭 \"子 하정우 결혼하지 않느냐\"",
-          "source_url": "https://m.entertain.naver.com/article/117/0004120542",
+          "source_article": "“에프엑스 엠버라고?” 양팔 뒤덮은 문신에 근육질 몸매…몰라보게 달라진 근황",
+          "source_url": "https://m.entertain.naver.com/article/468/0001277129",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "빈소"
+            "달라진"
           ],
           "template": "결혼 화제",
-          "score": 6.7,
+          "score": 6.6,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -782,17 +782,50 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"백일섭 결혼설?\" 백일섭 연애사 총정리",
-          "angle_type": "👤 백일섭",
-          "article_count": 3,
-          "source_article": "故 최불암 빈소 찾지 못한 김용건…백일섭 \"子 하정우 결혼하지 않느냐\"",
-          "source_url": "https://m.entertain.naver.com/article/117/0004120542",
+          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+          "angle_type": "투병·건강",
+          "article_count": 5,
+          "source_article": "\"배 터질 듯 부풀어, 응급실 3번 옮겼다\"..'제주댁' 진재영, '건강 이상' 병원 입원 중",
+          "source_url": "https://m.entertain.naver.com/article/108/0003483467",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "백일섭"
+            "최불암",
+            "마지막",
+            "발인",
+            "터질",
+            "부풀어"
+          ],
+          "template": "투병 극복",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "투병 질환",
+              "공백기",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"최불암 결혼설?\" 최불암 연애사 총정리",
+          "angle_type": "👤 최불암",
+          "article_count": 4,
+          "source_article": "'전원일기 일용이' 박은수, 故최불암과 마지막 연락 회상 \"그게 마지막일줄은\"",
+          "source_url": "https://m.entertain.naver.com/article/311/0002075224",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "최불암"
           ],
           "template": "결혼 화제",
-          "score": 6.7,
+          "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -811,16 +844,16 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"차예련 결혼설?\" 차예련 연애사 총정리",
-          "angle_type": "👤 차예련",
+          "title": "\"학폭, 대체 무슨 일이?\" 학폭 관련 이슈 총정리",
+          "angle_type": "👤 학폭",
           "article_count": 3,
           "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
           "source_url": "https://m.entertain.naver.com/article/108/0003483468",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "차예련"
+            "학폭"
           ],
-          "template": "결혼 화제",
+          "template": "논란 집합",
           "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
@@ -832,24 +865,24 @@
           "table": {
             "headers": [
               "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"보고 결혼설?\" 보고 연애사 총정리",
-          "angle_type": "👤 보고",
+          "title": "\"주상욱, 대체 무슨 일이?\" 주상욱 관련 이슈 총정리",
+          "angle_type": "👤 주상욱",
           "article_count": 3,
           "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
           "source_url": "https://m.entertain.naver.com/article/108/0003483468",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "보고"
+            "주상욱"
           ],
-          "template": "결혼 화제",
+          "template": "논란 집합",
           "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
@@ -861,138 +894,22 @@
           "table": {
             "headers": [
               "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"한은서 결혼설?\" 한은서 연애사 총정리",
-          "angle_type": "👤 한은서",
+          "title": "\"마지막\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 마지막",
           "article_count": 3,
-          "source_article": "연예계 배우 부부 탄생했다…10살 차 뛰어넘은 결실, 윤종훈♥한은서 백년가약",
-          "source_url": "https://m.entertain.naver.com/article/312/0000782444",
+          "source_article": "'전원일기 일용이' 박은수, 故최불암과 마지막 연락 회상 \"그게 마지막일줄은\"",
+          "source_url": "https://m.entertain.naver.com/article/311/0002075224",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "한은서"
-          ],
-          "template": "결혼 화제",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"부부 결혼설?\" 부부 연애사 총정리",
-          "angle_type": "👤 부부",
-          "article_count": 3,
-          "source_article": "연예계 배우 부부 탄생했다…10살 차 뛰어넘은 결실, 윤종훈♥한은서 백년가약",
-          "source_url": "https://m.entertain.naver.com/article/312/0000782444",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "부부"
-          ],
-          "template": "결혼 화제",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"윤종훈 결혼설?\" 윤종훈 연애사 총정리",
-          "angle_type": "👤 윤종훈",
-          "article_count": 3,
-          "source_article": "연예계 배우 부부 탄생했다…10살 차 뛰어넘은 결실, 윤종훈♥한은서 백년가약",
-          "source_url": "https://m.entertain.naver.com/article/312/0000782444",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "윤종훈"
-          ],
-          "template": "결혼 화제",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"배우 결혼설?\" 배우 연애사 총정리",
-          "angle_type": "👤 배우",
-          "article_count": 3,
-          "source_article": "연예계 배우 부부 탄생했다…10살 차 뛰어넘은 결실, 윤종훈♥한은서 백년가약",
-          "source_url": "https://m.entertain.naver.com/article/312/0000782444",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "배우"
-          ],
-          "template": "결혼 화제",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"전원일\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 전원일",
-          "article_count": 3,
-          "source_article": "‘전원일기 장남’ 김용건, 故최불암 빈소 못 간 이유가…“하루하루 마음 힘들다” 토로",
-          "source_url": "https://m.entertain.naver.com/article/016/0002717141",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "전원일"
+            "마지막"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -1016,63 +933,63 @@
       ],
       "keyword_freq": [
         [
-          "최불암",
-          7
-        ],
-        [
-          "근황",
+          "차예련",
           5
         ],
         [
-          "만원",
+          "근황",
           4
         ],
         [
-          "차예련",
+          "달라진",
           3
         ],
         [
-          "해명",
-          3
-        ],
-        [
-          "보고",
-          3
-        ],
-        [
-          "한은서",
-          3
-        ],
-        [
-          "부부",
-          3
-        ],
-        [
-          "윤종훈",
-          3
-        ],
-        [
-          "배우",
-          3
-        ],
-        [
-          "빈소",
-          3
-        ],
-        [
-          "백일섭",
-          3
-        ],
-        [
-          "전원일기",
+          "이혼",
           3
         ],
         [
           "학폭",
+          3
+        ],
+        [
+          "결혼",
+          3
+        ],
+        [
+          "얼굴",
+          3
+        ],
+        [
+          "마지막",
+          3
+        ],
+        [
+          "최불암",
+          3
+        ],
+        [
+          "배우",
           2
         ],
         [
-          "결실",
+          "여배우",
+          2
+        ],
+        [
+          "돌싱",
+          2
+        ],
+        [
+          "정애연",
+          2
+        ],
+        [
+          "미우새",
+          2
+        ],
+        [
+          "아버지",
           2
         ],
         [
@@ -1080,92 +997,96 @@
           2
         ],
         [
-          "결혼",
+          "깜짝",
           2
         ],
         [
-          "달라진",
+          "너무",
           2
         ],
         [
-          "이혼",
+          "닮아",
           2
         ],
         [
-          "돌싱",
+          "최강창민",
           2
         ]
       ],
       "name_freq": [
         [
-          "최불암",
-          7
-        ],
-        [
-          "근황",
+          "차예련",
           5
         ],
         [
-          "만원",
+          "근황",
           4
         ],
         [
-          "차예련",
+          "최불암",
+          4
+        ],
+        [
+          "달라진",
           3
         ],
         [
-          "해명",
-          3
-        ],
-        [
-          "보고",
-          3
-        ],
-        [
-          "한은서",
-          3
-        ],
-        [
-          "부부",
-          3
-        ],
-        [
-          "윤종훈",
-          3
-        ],
-        [
-          "배우",
-          3
-        ],
-        [
-          "빈소",
-          3
-        ],
-        [
-          "백일섭",
-          3
-        ],
-        [
-          "전원일",
+          "이혼",
           3
         ],
         [
           "학폭",
+          3
+        ],
+        [
+          "주상욱",
+          3
+        ],
+        [
+          "결혼",
+          3
+        ],
+        [
+          "얼굴",
+          3
+        ],
+        [
+          "마지막",
+          3
+        ],
+        [
+          "배우",
           2
         ],
         [
-          "결실",
+          "여배우",
+          2
+        ],
+        [
+          "미우새",
+          2
+        ],
+        [
+          "돌싱",
+          2
+        ],
+        [
+          "정애연",
           2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
-          6
+          8
+        ],
+        [
+          "논란·사건",
+          3
         ],
         [
           "결혼·이혼",
-          11
+          8
         ],
         [
           "복귀·근황",
@@ -1173,276 +1094,36 @@
         ],
         [
           "투병·건강",
-          10
+          5
         ],
         [
           "가족·혈연",
-          6
+          5
         ]
       ]
     },
     "초구딱": {
-      "article_count": 30,
-      "topics": [
-        {
-          "title": "\"포스트, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 3,
-          "source_article": "돌이켜보면..3차전 류지혁 뜬금홈런이 컷음...",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611020119826936&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "포스트",
-            "시즌",
-            "대진표",
-            "메이저",
-            "리그"
-          ],
-          "template": "스포츠 기록",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"안내\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 안내",
-          "article_count": 4,
-          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "안내"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"시즌\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 시즌",
-          "article_count": 3,
-          "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 <밀워키 브루어스 우승> ⚾",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "시즌"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"마라톤\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 마라톤",
-          "article_count": 3,
-          "source_article": "이번주말 마라톤대회도 많군요 ㄷㄷ(제미나이)",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611020119826963&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "마라톤"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        }
-      ],
-      "keyword_freq": [
-        [
-          "안내",
-          4
-        ],
-        [
-          "포스트시즌",
-          3
-        ],
-        [
-          "조치",
-          2
-        ],
-        [
-          "대진표",
-          2
-        ],
-        [
-          "마라톤",
-          2
-        ],
-        [
-          "처리",
-          1
-        ],
-        [
-          "위반",
-          1
-        ],
-        [
-          "말머리",
-          1
-        ],
-        [
-          "시행",
-          1
-        ],
-        [
-          "향후",
-          1
-        ],
-        [
-          "사항",
-          1
-        ],
-        [
-          "유의사항",
-          1
-        ],
-        [
-          "뉴스저작물",
-          1
-        ],
-        [
-          "가이드",
-          1
-        ],
-        [
-          "인용",
-          1
-        ],
-        [
-          "필독",
-          1
-        ],
-        [
-          "장애",
-          1
-        ],
-        [
-          "접속",
-          1
-        ],
-        [
-          "업데이트",
-          1
-        ],
-        [
-          "해외",
-          1
-        ]
-      ],
-      "name_freq": [
-        [
-          "안내",
-          4
-        ],
-        [
-          "포스트",
-          3
-        ],
-        [
-          "시즌",
-          3
-        ],
-        [
-          "마라톤",
-          3
-        ],
-        [
-          "조치",
-          2
-        ],
-        [
-          "대진표",
-          2
-        ],
-        [
-          "보면",
-          2
-        ],
-        [
-          "사람들",
-          2
-        ]
-      ],
-      "angle_scores": [
-        [
-          "스포츠",
-          3
-        ]
-      ]
+      "article_count": 0,
+      "topics": [],
+      "keyword_freq": [],
+      "name_freq": [],
+      "angle_scores": []
     }
   },
   "topics": [
     {
-      "title": "\"만원, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "title": "\"건물주, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
       "angle_type": "자산·몸값",
-      "article_count": 6,
-      "source_article": "아빠 빚 10억 갚던 '효녀'였는데...차예련, 학폭 의혹에 '바른 생활' 이미지 흔들",
-      "source_url": "https://m.entertain.naver.com/article/076/0004461769",
+      "article_count": 8,
+      "source_article": "대놓고 연예인 집자랑이네…68억 건물주라더니, \"집이 너무 커\" 이찬혁 '3층 저택' 공개 ('전참시')",
+      "source_url": "https://m.entertain.naver.com/article/312/0000782474",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "만원",
-        "삼전닉",
-        "아빠",
-        "갚던",
-        "효녀"
+        "건물주",
+        "는데",
+        "억달러",
+        "대놓고",
+        "연예인"
       ],
       "template": "자산 서열",
       "score": 7.5,
@@ -1464,21 +1145,54 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+      "title": "\"이혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 8,
+      "source_article": "윤민수 전처, 이혼 후 확 달라진 근황..日서 포착 '칵테일 한잔'",
+      "source_url": "https://m.entertain.naver.com/article/076/0004461864",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "이혼",
+        "결혼",
+        "돌싱",
+        "정애연",
+        "윤민수"
+      ],
+      "template": "결혼 화제",
+      "score": 7.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"차예련이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
       "angle_type": "가족·혈연",
-      "article_count": 6,
+      "article_count": 5,
       "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
       "source_url": "https://m.entertain.naver.com/article/108/0003483468",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
+        "차예련",
         "주상욱",
-        "보고",
-        "결혼했",
         "학폭",
-        "의혹"
+        "보고",
+        "결혼했"
       ],
       "template": "동갑내기",
-      "score": 7.4,
+      "score": 7.1,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1497,21 +1211,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-      "angle_type": "투병·건강",
-      "article_count": 10,
-      "source_article": "故 최불암 빈소 찾지 못한 김용건…백일섭 \"子 하정우 결혼하지 않느냐\"",
-      "source_url": "https://m.entertain.naver.com/article/117/0004120542",
+      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 3,
+      "source_article": "'나나♥' 탑, 결국 고개 숙였다…\"이용하고 외면\" 폭로 3주 만에 사과",
+      "source_url": "https://m.entertain.naver.com/article/312/0000782465",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "최불암",
-        "빈소",
-        "백일섭",
-        "전원일",
-        "김용건"
+        "나나",
+        "고개",
+        "숙였다",
+        "이용하",
+        "외면"
       ],
-      "template": "투병 극복",
-      "score": 7.2,
+      "template": "논란 집합",
+      "score": 7.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1522,25 +1236,25 @@
       "table": {
         "headers": [
           "이름",
-          "투병 질환",
-          "공백기",
-          "복귀 작품"
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"최불암 결혼설?\" 최불암 연애사 총정리",
-      "angle_type": "👤 최불암",
-      "article_count": 7,
-      "source_article": "故 최불암 빈소 찾지 못한 김용건…백일섭 \"子 하정우 결혼하지 않느냐\"",
-      "source_url": "https://m.entertain.naver.com/article/117/0004120542",
+      "title": "\"얼굴 자산이 얼마?\" 얼굴급 자산가 스타 TOP10",
+      "angle_type": "👤 얼굴",
+      "article_count": 3,
+      "source_article": "'차장금' 차예련, 父 10억 빚 갚고 딸+시母 얼굴 공개했는데..'학폭 이미지' 어쩌나?",
+      "source_url": "https://m.entertain.naver.com/article/108/0003483615",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "최불암"
+        "얼굴"
       ],
-      "template": "결혼 화제",
-      "score": 7.2,
+      "template": "자산 서열",
+      "score": 7.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1551,42 +1265,9 @@
       "table": {
         "headers": [
           "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"해명 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 11,
-      "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
-      "source_url": "https://m.entertain.naver.com/article/108/0003483468",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "해명",
-        "결혼",
-        "이혼",
-        "윤종훈",
-        "한은서"
-      ],
-      "template": "결혼 화제",
-      "score": 6.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
         ]
       },
       "channel": "정보주는하마"
@@ -1595,15 +1276,15 @@
       "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
       "angle_type": "복귀·근황",
       "article_count": 8,
-      "source_article": "‘배우 준비’ 정웅인 첫째 딸 근황, 경북대 퀸카 母가 자랑할 수밖에 “오구 예뻐”",
-      "source_url": "https://m.entertain.naver.com/article/609/0001183281",
+      "source_article": "“에프엑스 엠버라고?” 양팔 뒤덮은 문신에 근육질 몸매…몰라보게 달라진 근황",
+      "source_url": "https://m.entertain.naver.com/article/468/0001277129",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "근황",
-        "확정",
         "달라진",
-        "배우",
-        "준비"
+        "확정",
+        "성유리",
+        "핑클"
       ],
       "template": "장기 공백 복귀",
       "score": 6.8,
@@ -1625,17 +1306,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"빈소 결혼설?\" 빈소 연애사 총정리",
-      "angle_type": "👤 빈소",
+      "title": "\"달라진 결혼설?\" 달라진 연애사 총정리",
+      "angle_type": "👤 달라진",
       "article_count": 3,
-      "source_article": "故 최불암 빈소 찾지 못한 김용건…백일섭 \"子 하정우 결혼하지 않느냐\"",
-      "source_url": "https://m.entertain.naver.com/article/117/0004120542",
+      "source_article": "“에프엑스 엠버라고?” 양팔 뒤덮은 문신에 근육질 몸매…몰라보게 달라진 근황",
+      "source_url": "https://m.entertain.naver.com/article/468/0001277129",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "빈소"
+        "달라진"
       ],
       "template": "결혼 화제",
-      "score": 6.7,
+      "score": 6.6,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1654,17 +1335,50 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"백일섭 결혼설?\" 백일섭 연애사 총정리",
-      "angle_type": "👤 백일섭",
-      "article_count": 3,
-      "source_article": "故 최불암 빈소 찾지 못한 김용건…백일섭 \"子 하정우 결혼하지 않느냐\"",
-      "source_url": "https://m.entertain.naver.com/article/117/0004120542",
+      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+      "angle_type": "투병·건강",
+      "article_count": 5,
+      "source_article": "\"배 터질 듯 부풀어, 응급실 3번 옮겼다\"..'제주댁' 진재영, '건강 이상' 병원 입원 중",
+      "source_url": "https://m.entertain.naver.com/article/108/0003483467",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "백일섭"
+        "최불암",
+        "마지막",
+        "발인",
+        "터질",
+        "부풀어"
+      ],
+      "template": "투병 극복",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "투병 질환",
+          "공백기",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"최불암 결혼설?\" 최불암 연애사 총정리",
+      "angle_type": "👤 최불암",
+      "article_count": 4,
+      "source_article": "'전원일기 일용이' 박은수, 故최불암과 마지막 연락 회상 \"그게 마지막일줄은\"",
+      "source_url": "https://m.entertain.naver.com/article/311/0002075224",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "최불암"
       ],
       "template": "결혼 화제",
-      "score": 6.7,
+      "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1683,16 +1397,16 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"차예련 결혼설?\" 차예련 연애사 총정리",
-      "angle_type": "👤 차예련",
+      "title": "\"학폭, 대체 무슨 일이?\" 학폭 관련 이슈 총정리",
+      "angle_type": "👤 학폭",
       "article_count": 3,
       "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
       "source_url": "https://m.entertain.naver.com/article/108/0003483468",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "차예련"
+        "학폭"
       ],
-      "template": "결혼 화제",
+      "template": "논란 집합",
       "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
@@ -1704,24 +1418,24 @@
       "table": {
         "headers": [
           "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"보고 결혼설?\" 보고 연애사 총정리",
-      "angle_type": "👤 보고",
+      "title": "\"주상욱, 대체 무슨 일이?\" 주상욱 관련 이슈 총정리",
+      "angle_type": "👤 주상욱",
       "article_count": 3,
       "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
       "source_url": "https://m.entertain.naver.com/article/108/0003483468",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "보고"
+        "주상욱"
       ],
-      "template": "결혼 화제",
+      "template": "논란 집합",
       "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
@@ -1733,138 +1447,22 @@
       "table": {
         "headers": [
           "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"한은서 결혼설?\" 한은서 연애사 총정리",
-      "angle_type": "👤 한은서",
+      "title": "\"마지막\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 마지막",
       "article_count": 3,
-      "source_article": "연예계 배우 부부 탄생했다…10살 차 뛰어넘은 결실, 윤종훈♥한은서 백년가약",
-      "source_url": "https://m.entertain.naver.com/article/312/0000782444",
+      "source_article": "'전원일기 일용이' 박은수, 故최불암과 마지막 연락 회상 \"그게 마지막일줄은\"",
+      "source_url": "https://m.entertain.naver.com/article/311/0002075224",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "한은서"
-      ],
-      "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"부부 결혼설?\" 부부 연애사 총정리",
-      "angle_type": "👤 부부",
-      "article_count": 3,
-      "source_article": "연예계 배우 부부 탄생했다…10살 차 뛰어넘은 결실, 윤종훈♥한은서 백년가약",
-      "source_url": "https://m.entertain.naver.com/article/312/0000782444",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "부부"
-      ],
-      "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"윤종훈 결혼설?\" 윤종훈 연애사 총정리",
-      "angle_type": "👤 윤종훈",
-      "article_count": 3,
-      "source_article": "연예계 배우 부부 탄생했다…10살 차 뛰어넘은 결실, 윤종훈♥한은서 백년가약",
-      "source_url": "https://m.entertain.naver.com/article/312/0000782444",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "윤종훈"
-      ],
-      "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"배우 결혼설?\" 배우 연애사 총정리",
-      "angle_type": "👤 배우",
-      "article_count": 3,
-      "source_article": "연예계 배우 부부 탄생했다…10살 차 뛰어넘은 결실, 윤종훈♥한은서 백년가약",
-      "source_url": "https://m.entertain.naver.com/article/312/0000782444",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "배우"
-      ],
-      "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"전원일\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 전원일",
-      "article_count": 3,
-      "source_article": "‘전원일기 장남’ 김용건, 故최불암 빈소 못 간 이유가…“하루하루 마음 힘들다” 토로",
-      "source_url": "https://m.entertain.naver.com/article/016/0002717141",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "전원일"
+        "마지막"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1888,18 +1486,18 @@
   ],
   "all_topics": [
     {
-      "title": "\"만원, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "title": "\"건물주, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
       "angle_type": "자산·몸값",
-      "article_count": 6,
-      "source_article": "아빠 빚 10억 갚던 '효녀'였는데...차예련, 학폭 의혹에 '바른 생활' 이미지 흔들",
-      "source_url": "https://m.entertain.naver.com/article/076/0004461769",
+      "article_count": 8,
+      "source_article": "대놓고 연예인 집자랑이네…68억 건물주라더니, \"집이 너무 커\" 이찬혁 '3층 저택' 공개 ('전참시')",
+      "source_url": "https://m.entertain.naver.com/article/312/0000782474",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "만원",
-        "삼전닉",
-        "아빠",
-        "갚던",
-        "효녀"
+        "건물주",
+        "는데",
+        "억달러",
+        "대놓고",
+        "연예인"
       ],
       "template": "자산 서열",
       "score": 7.5,
@@ -1921,21 +1519,54 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+      "title": "\"이혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 8,
+      "source_article": "윤민수 전처, 이혼 후 확 달라진 근황..日서 포착 '칵테일 한잔'",
+      "source_url": "https://m.entertain.naver.com/article/076/0004461864",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "이혼",
+        "결혼",
+        "돌싱",
+        "정애연",
+        "윤민수"
+      ],
+      "template": "결혼 화제",
+      "score": 7.4,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"차예련이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
       "angle_type": "가족·혈연",
-      "article_count": 6,
+      "article_count": 5,
       "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
       "source_url": "https://m.entertain.naver.com/article/108/0003483468",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
+        "차예련",
         "주상욱",
-        "보고",
-        "결혼했",
         "학폭",
-        "의혹"
+        "보고",
+        "결혼했"
       ],
       "template": "동갑내기",
-      "score": 7.4,
+      "score": 7.1,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1954,21 +1585,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-      "angle_type": "투병·건강",
-      "article_count": 10,
-      "source_article": "故 최불암 빈소 찾지 못한 김용건…백일섭 \"子 하정우 결혼하지 않느냐\"",
-      "source_url": "https://m.entertain.naver.com/article/117/0004120542",
+      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 3,
+      "source_article": "'나나♥' 탑, 결국 고개 숙였다…\"이용하고 외면\" 폭로 3주 만에 사과",
+      "source_url": "https://m.entertain.naver.com/article/312/0000782465",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "최불암",
-        "빈소",
-        "백일섭",
-        "전원일",
-        "김용건"
+        "나나",
+        "고개",
+        "숙였다",
+        "이용하",
+        "외면"
       ],
-      "template": "투병 극복",
-      "score": 7.2,
+      "template": "논란 집합",
+      "score": 7.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1979,25 +1610,25 @@
       "table": {
         "headers": [
           "이름",
-          "투병 질환",
-          "공백기",
-          "복귀 작품"
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"최불암 결혼설?\" 최불암 연애사 총정리",
-      "angle_type": "👤 최불암",
-      "article_count": 7,
-      "source_article": "故 최불암 빈소 찾지 못한 김용건…백일섭 \"子 하정우 결혼하지 않느냐\"",
-      "source_url": "https://m.entertain.naver.com/article/117/0004120542",
+      "title": "\"얼굴 자산이 얼마?\" 얼굴급 자산가 스타 TOP10",
+      "angle_type": "👤 얼굴",
+      "article_count": 3,
+      "source_article": "'차장금' 차예련, 父 10억 빚 갚고 딸+시母 얼굴 공개했는데..'학폭 이미지' 어쩌나?",
+      "source_url": "https://m.entertain.naver.com/article/108/0003483615",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "최불암"
+        "얼굴"
       ],
-      "template": "결혼 화제",
-      "score": 7.2,
+      "template": "자산 서열",
+      "score": 7.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2008,42 +1639,9 @@
       "table": {
         "headers": [
           "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"해명 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 11,
-      "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
-      "source_url": "https://m.entertain.naver.com/article/108/0003483468",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "해명",
-        "결혼",
-        "이혼",
-        "윤종훈",
-        "한은서"
-      ],
-      "template": "결혼 화제",
-      "score": 6.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
         ]
       },
       "channel": "정보주는하마"
@@ -2052,15 +1650,15 @@
       "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
       "angle_type": "복귀·근황",
       "article_count": 8,
-      "source_article": "‘배우 준비’ 정웅인 첫째 딸 근황, 경북대 퀸카 母가 자랑할 수밖에 “오구 예뻐”",
-      "source_url": "https://m.entertain.naver.com/article/609/0001183281",
+      "source_article": "“에프엑스 엠버라고?” 양팔 뒤덮은 문신에 근육질 몸매…몰라보게 달라진 근황",
+      "source_url": "https://m.entertain.naver.com/article/468/0001277129",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "근황",
-        "확정",
         "달라진",
-        "배우",
-        "준비"
+        "확정",
+        "성유리",
+        "핑클"
       ],
       "template": "장기 공백 복귀",
       "score": 6.8,
@@ -2082,17 +1680,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"빈소 결혼설?\" 빈소 연애사 총정리",
-      "angle_type": "👤 빈소",
+      "title": "\"달라진 결혼설?\" 달라진 연애사 총정리",
+      "angle_type": "👤 달라진",
       "article_count": 3,
-      "source_article": "故 최불암 빈소 찾지 못한 김용건…백일섭 \"子 하정우 결혼하지 않느냐\"",
-      "source_url": "https://m.entertain.naver.com/article/117/0004120542",
+      "source_article": "“에프엑스 엠버라고?” 양팔 뒤덮은 문신에 근육질 몸매…몰라보게 달라진 근황",
+      "source_url": "https://m.entertain.naver.com/article/468/0001277129",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "빈소"
+        "달라진"
       ],
       "template": "결혼 화제",
-      "score": 6.7,
+      "score": 6.6,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2111,17 +1709,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"백일섭 결혼설?\" 백일섭 연애사 총정리",
-      "angle_type": "👤 백일섭",
-      "article_count": 3,
-      "source_article": "故 최불암 빈소 찾지 못한 김용건…백일섭 \"子 하정우 결혼하지 않느냐\"",
-      "source_url": "https://m.entertain.naver.com/article/117/0004120542",
+      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+      "angle_type": "투병·건강",
+      "article_count": 5,
+      "source_article": "\"배 터질 듯 부풀어, 응급실 3번 옮겼다\"..'제주댁' 진재영, '건강 이상' 병원 입원 중",
+      "source_url": "https://m.entertain.naver.com/article/108/0003483467",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "백일섭"
+        "최불암",
+        "마지막",
+        "발인",
+        "터질",
+        "부풀어"
       ],
-      "template": "결혼 화제",
-      "score": 6.7,
+      "template": "투병 극복",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2132,261 +1734,25 @@
       "table": {
         "headers": [
           "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
+          "투병 질환",
+          "공백기",
+          "복귀 작품"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"차예련 결혼설?\" 차예련 연애사 총정리",
-      "angle_type": "👤 차예련",
-      "article_count": 3,
-      "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
-      "source_url": "https://m.entertain.naver.com/article/108/0003483468",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "차예련"
-      ],
-      "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"보고 결혼설?\" 보고 연애사 총정리",
-      "angle_type": "👤 보고",
-      "article_count": 3,
-      "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
-      "source_url": "https://m.entertain.naver.com/article/108/0003483468",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "보고"
-      ],
-      "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"한은서 결혼설?\" 한은서 연애사 총정리",
-      "angle_type": "👤 한은서",
-      "article_count": 3,
-      "source_article": "연예계 배우 부부 탄생했다…10살 차 뛰어넘은 결실, 윤종훈♥한은서 백년가약",
-      "source_url": "https://m.entertain.naver.com/article/312/0000782444",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "한은서"
-      ],
-      "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"부부 결혼설?\" 부부 연애사 총정리",
-      "angle_type": "👤 부부",
-      "article_count": 3,
-      "source_article": "연예계 배우 부부 탄생했다…10살 차 뛰어넘은 결실, 윤종훈♥한은서 백년가약",
-      "source_url": "https://m.entertain.naver.com/article/312/0000782444",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "부부"
-      ],
-      "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"윤종훈 결혼설?\" 윤종훈 연애사 총정리",
-      "angle_type": "👤 윤종훈",
-      "article_count": 3,
-      "source_article": "연예계 배우 부부 탄생했다…10살 차 뛰어넘은 결실, 윤종훈♥한은서 백년가약",
-      "source_url": "https://m.entertain.naver.com/article/312/0000782444",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "윤종훈"
-      ],
-      "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"배우 결혼설?\" 배우 연애사 총정리",
-      "angle_type": "👤 배우",
-      "article_count": 3,
-      "source_article": "연예계 배우 부부 탄생했다…10살 차 뛰어넘은 결실, 윤종훈♥한은서 백년가약",
-      "source_url": "https://m.entertain.naver.com/article/312/0000782444",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "배우"
-      ],
-      "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"전원일\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 전원일",
-      "article_count": 3,
-      "source_article": "‘전원일기 장남’ 김용건, 故최불암 빈소 못 간 이유가…“하루하루 마음 힘들다” 토로",
-      "source_url": "https://m.entertain.naver.com/article/016/0002717141",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "전원일"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"포스트, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 3,
-      "source_article": "돌이켜보면..3차전 류지혁 뜬금홈런이 컷음...",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611020119826936&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "포스트",
-        "시즌",
-        "대진표",
-        "메이저",
-        "리그"
-      ],
-      "template": "스포츠 기록",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
+      "title": "\"최불암 결혼설?\" 최불암 연애사 총정리",
+      "angle_type": "👤 최불암",
       "article_count": 4,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
+      "source_article": "'전원일기 일용이' 박은수, 故최불암과 마지막 연락 회상 \"그게 마지막일줄은\"",
+      "source_url": "https://m.entertain.naver.com/article/311/0002075224",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "안내"
+        "최불암"
       ],
-      "template": "인맥",
-      "score": 6.0,
+      "template": "결혼 화제",
+      "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2397,25 +1763,25 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
         ]
       },
-      "channel": "초구딱"
+      "channel": "정보주는하마"
     },
     {
-      "title": "\"시즌\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 시즌",
+      "title": "\"학폭, 대체 무슨 일이?\" 학폭 관련 이슈 총정리",
+      "angle_type": "👤 학폭",
       "article_count": 3,
-      "source_article": "⚾ 2026 메이저리그 포스트시즌 대진표 <밀워키 브루어스 우승> ⚾",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202609280000002178",
-      "source_name": "MLB파크 불펜",
+      "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
+      "source_url": "https://m.entertain.naver.com/article/108/0003483468",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "시즌"
+        "학폭"
       ],
-      "template": "인맥",
-      "score": 6.0,
+      "template": "논란 집합",
+      "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -2426,22 +1792,51 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
+          "소속·직업",
+          "논란 내용",
           "현재 상황"
         ]
       },
-      "channel": "초구딱"
+      "channel": "정보주는하마"
     },
     {
-      "title": "\"마라톤\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 마라톤",
+      "title": "\"주상욱, 대체 무슨 일이?\" 주상욱 관련 이슈 총정리",
+      "angle_type": "👤 주상욱",
       "article_count": 3,
-      "source_article": "이번주말 마라톤대회도 많군요 ㄷㄷ(제미나이)",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611020119826963&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
+      "source_article": "\"주상욱은 뭘 보고 결혼했나\"..'학폭 의혹' 차예련, 딸 얼굴까지 소환된 SNS 해명 요구",
+      "source_url": "https://m.entertain.naver.com/article/108/0003483468",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "마라톤"
+        "주상욱"
+      ],
+      "template": "논란 집합",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"마지막\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 마지막",
+      "article_count": 3,
+      "source_article": "'전원일기 일용이' 박은수, 故최불암과 마지막 연락 회상 \"그게 마지막일줄은\"",
+      "source_url": "https://m.entertain.naver.com/article/311/0002075224",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "마지막"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -2460,68 +1855,68 @@
           "현재 상황"
         ]
       },
-      "channel": "초구딱"
+      "channel": "정보주는하마"
     }
   ],
   "keyword_freq": [
     [
-      "최불암",
-      7
-    ],
-    [
-      "근황",
+      "차예련",
       5
     ],
     [
-      "만원",
+      "근황",
       4
     ],
     [
-      "차예련",
+      "달라진",
       3
     ],
     [
-      "해명",
-      3
-    ],
-    [
-      "보고",
-      3
-    ],
-    [
-      "한은서",
-      3
-    ],
-    [
-      "부부",
-      3
-    ],
-    [
-      "윤종훈",
-      3
-    ],
-    [
-      "배우",
-      3
-    ],
-    [
-      "빈소",
-      3
-    ],
-    [
-      "백일섭",
-      3
-    ],
-    [
-      "전원일기",
+      "이혼",
       3
     ],
     [
       "학폭",
+      3
+    ],
+    [
+      "결혼",
+      3
+    ],
+    [
+      "얼굴",
+      3
+    ],
+    [
+      "마지막",
+      3
+    ],
+    [
+      "최불암",
+      3
+    ],
+    [
+      "배우",
       2
     ],
     [
-      "결실",
+      "여배우",
+      2
+    ],
+    [
+      "돌싱",
+      2
+    ],
+    [
+      "정애연",
+      2
+    ],
+    [
+      "미우새",
+      2
+    ],
+    [
+      "아버지",
       2
     ],
     [
@@ -2529,85 +1924,85 @@
       2
     ],
     [
-      "결혼",
+      "깜짝",
       2
     ],
     [
-      "달라진",
+      "너무",
       2
     ],
     [
-      "이혼",
+      "닮아",
       2
     ],
     [
-      "돌싱",
+      "최강창민",
       2
     ]
   ],
   "name_freq": [
     [
-      "최불암",
-      7
-    ],
-    [
-      "근황",
+      "차예련",
       5
     ],
     [
-      "만원",
+      "근황",
       4
     ],
     [
-      "차예련",
+      "최불암",
+      4
+    ],
+    [
+      "달라진",
       3
     ],
     [
-      "해명",
-      3
-    ],
-    [
-      "보고",
-      3
-    ],
-    [
-      "한은서",
-      3
-    ],
-    [
-      "부부",
-      3
-    ],
-    [
-      "윤종훈",
-      3
-    ],
-    [
-      "배우",
-      3
-    ],
-    [
-      "빈소",
-      3
-    ],
-    [
-      "백일섭",
-      3
-    ],
-    [
-      "전원일",
+      "이혼",
       3
     ],
     [
       "학폭",
+      3
+    ],
+    [
+      "주상욱",
+      3
+    ],
+    [
+      "결혼",
+      3
+    ],
+    [
+      "얼굴",
+      3
+    ],
+    [
+      "마지막",
+      3
+    ],
+    [
+      "배우",
       2
     ],
     [
-      "결실",
+      "여배우",
+      2
+    ],
+    [
+      "미우새",
+      2
+    ],
+    [
+      "돌싱",
+      2
+    ],
+    [
+      "정애연",
       2
     ]
   ],
-  "total_topics_generated": 19,
-  "valid_topics": 19,
+  "total_topics_generated": 12,
+  "valid_topics": 12,
   "excluded_duplicates": 0
 }
