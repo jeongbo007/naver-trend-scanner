@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-11-14 01:12:27",
+  "scan_time": "2026-11-14 07:22:42",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -9,30 +9,301 @@
     "[폴백] 스포츠 랭킹": 30,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 0
+    "MLB파크 불펜": 30
   },
-  "total_articles": 60,
-  "articles": [],
+  "total_articles": 90,
+  "articles": [
+    {
+      "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 1,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 2,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🛠️[업데이트] 해외 접속 장애 조치 관련 안내_260814🛠️",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202608130000002151",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 3,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[공지] 이미지 업로드 시 불법촬영물등 비교·식별 조치 적용 안내",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202609040000002163",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 4,
+      "channel": "초구딱"
+    },
+    {
+      "title": "명장 이영택 ㅋㅋㅋㅋㅋㅋ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105741&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 5,
+      "channel": "초구딱"
+    },
+    {
+      "title": "호불호 갈리는 몸매.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105735&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 6,
+      "channel": "초구딱"
+    },
+    {
+      "title": "새로나온 제미나이 하이드로젠 말투가 좀 냉정해졌네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105723&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 20,
+      "rank": 7,
+      "channel": "초구딱"
+    },
+    {
+      "title": "OCN 쇼생크탈출 근황",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105717&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 62,
+      "rank": 8,
+      "channel": "초구딱"
+    },
+    {
+      "title": "오늘의 관전용 소액 단폴 베팅~",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105711&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 18,
+      "rank": 9,
+      "channel": "초구딱"
+    },
+    {
+      "title": "이상하게? 한국인들이 유독 ET형 체형이 많은듯 합니다",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105705&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 25,
+      "rank": 10,
+      "channel": "초구딱"
+    },
+    {
+      "title": "제가 데드 200뽑고",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105696&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 1947461,
+      "rank": 11,
+      "channel": "초구딱"
+    },
+    {
+      "title": "krx 씨맥 도란 카나비 스카웃 바이퍼 커리어 찌라시",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105690&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 48,
+      "rank": 12,
+      "channel": "초구딱"
+    },
+    {
+      "title": "요즘 주차할 자리도 없네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105678&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 170,
+      "rank": 13,
+      "channel": "초구딱"
+    },
+    {
+      "title": "초딩 여자 번호 따려는 아재들. mp4",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105675&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 438,
+      "rank": 14,
+      "channel": "초구딱"
+    },
+    {
+      "title": "(정보) 챗지피티가 풀이한 세무사 시험 ㄷㄷㄷ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105672&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 222,
+      "rank": 15,
+      "channel": "초구딱"
+    },
+    {
+      "title": "KCC 4연승. ㄷㄷㄷ. 최준용 오면 우승할 수 있을까요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105669&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 77,
+      "rank": 16,
+      "channel": "초구딱"
+    },
+    {
+      "title": "타짜4 노출신 좋은데요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105666&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 399,
+      "rank": 17,
+      "channel": "초구딱"
+    },
+    {
+      "title": "댄서 노제 근황ㄷㄷㄷ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105660&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 488,
+      "rank": 18,
+      "channel": "초구딱"
+    },
+    {
+      "title": "스토브리그 자잘자잘한 썰들도 재밌는게 많네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105657&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 72,
+      "rank": 19,
+      "channel": "초구딱"
+    },
+    {
+      "title": "김태균, 거포 본능 발휘...박병호·이대호·이승엽 제치고 잠실 마지막 '홈런왕' 등극",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105651&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 156,
+      "rank": 20,
+      "channel": "초구딱"
+    },
+    {
+      "title": "국축팬들은 자기객관화라는게 생겼으면 좋겠네요.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105648&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 33,
+      "rank": 21,
+      "channel": "초구딱"
+    },
+    {
+      "title": "로또 3등 실패",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105645&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 104,
+      "rank": 22,
+      "channel": "초구딱"
+    },
+    {
+      "title": "“AI 미쳤다” 테크 유튜버, AI안경 쓰고 세무사 시험 도전 [자막뉴스]",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105639&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 248,
+      "rank": 23,
+      "channel": "초구딱"
+    },
+    {
+      "title": "apbc는 어떤 대회인가요??",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105636&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 134,
+      "rank": 24,
+      "channel": "초구딱"
+    },
+    {
+      "title": "샌안 토비 빠르면 12월 초 출전 가능",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105633&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 47,
+      "rank": 25,
+      "channel": "초구딱"
+    },
+    {
+      "title": "아직도 알파고 이전 ai 마인드 가진 사람들 많네요 ㅋㅋㅋ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105630&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 92,
+      "rank": 26,
+      "channel": "초구딱"
+    },
+    {
+      "title": "죽다 살아나네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105627&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 127,
+      "rank": 27,
+      "channel": "초구딱"
+    },
+    {
+      "title": "G90 은 레벨이 다릅니다. G80 이랑 비교될 차가 아님",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105621&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 219,
+      "rank": 28,
+      "channel": "초구딱"
+    },
+    {
+      "title": "스웨덴의 어느 레스토랑 지붕 모습...mp4",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105618&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 169,
+      "rank": 29,
+      "channel": "초구딱"
+    },
+    {
+      "title": "유광우 아직도 현역이군요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105615&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 35,
+      "rank": 30,
+      "channel": "초구딱"
+    }
+  ],
   "channels": {
     "정보주는하마": {
       "article_count": 60,
       "topics": [
         {
-          "title": "\"남편, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 6,
-          "source_article": "김가연♥임요환, 카드 한 장에 4억 원이라니…“5억에 바로 산다고?”",
-          "source_url": "https://m.entertain.naver.com/article/382/0001304733",
+          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+          "angle_type": "가족·혈연",
+          "article_count": 7,
+          "source_article": "개리, 타투 얼마나 크길래..日 가족여행중 온천 입장 제한 \"너무 아쉬워\"",
+          "source_url": "https://m.entertain.naver.com/article/076/0004466537",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "남편",
-            "만원",
-            "김가연",
-            "임요환",
-            "카드"
+            "개리",
+            "타투",
+            "얼마나",
+            "크길래",
+            "가족여"
           ],
-          "template": "자산 서열",
-          "score": 7.0,
+          "template": "동갑내기",
+          "score": 7.1,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -43,26 +314,26 @@
           "table": {
             "headers": [
               "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
+              "나이",
+              "대표작",
+              "현재 활동"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+          "title": "\"고경표까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
           "angle_type": "논란·사건",
-          "article_count": 3,
-          "source_article": "고경표, 음주운전으로 교통사고…면허 취소 수준",
-          "source_url": "https://m.entertain.naver.com/article/468/0001280856",
+          "article_count": 12,
+          "source_article": "‘음주사고’ 고경표, ‘지팔지꼰’의 정석",
+          "source_url": "https://m.entertain.naver.com/article/468/0001280891",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "고경표",
             "음주운",
-            "전으로",
-            "교통사",
-            "면허"
+            "만취",
+            "청소차",
+            "환경미"
           ],
           "template": "논란 집합",
           "score": 7.0,
@@ -84,18 +355,47 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"나혼산 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "title": "\"음주운, 대체 무슨 일이?\" 음주운 관련 이슈 총정리",
+          "angle_type": "👤 음주운",
+          "article_count": 8,
+          "source_article": "'음주운전' 고경표, 지난해 무속인의 소름끼치는 점사",
+          "source_url": "https://m.entertain.naver.com/article/117/0004124940",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "음주운"
+          ],
+          "template": "논란 집합",
+          "score": 7.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
           "angle_type": "결혼·이혼",
-          "article_count": 5,
+          "article_count": 8,
           "source_article": "'고우림♥' 김연아, 임신설 부인했는데 공교롭네…전부 배 가리는 펑퍼짐한 원피스",
           "source_url": "https://m.entertain.naver.com/article/311/0002080361",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "나혼산",
+            "결혼",
+            "임신",
+            "열애",
             "고우림",
-            "김연아",
-            "임신설",
-            "부인했"
+            "김연아"
           ],
           "template": "결혼 화제",
           "score": 6.8,
@@ -117,14 +417,109 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"닥터\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 닥터",
-          "article_count": 5,
-          "source_article": "‘닥터X’ 아동 성추행범 전국환, 수술 도중 눈 떴다… 김지원·김우석·이진희의 ‘복수’ 시작",
-          "source_url": "https://m.entertain.naver.com/article/144/0001149733",
+          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+          "angle_type": "투병·건강",
+          "article_count": 6,
+          "source_article": "'닥터X' 악인 전국환, 수술 전 각성 엔딩…14.5% 기록",
+          "source_url": "https://m.entertain.naver.com/article/421/0009288815",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "닥터"
+            "수술",
+            "환경미",
+            "화원",
+            "사망",
+            "와서"
+          ],
+          "template": "투병 극복",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "투병 질환",
+              "공백기",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 3,
+          "source_article": "\"1억으로 100억 굴리고 '-4000만원'찍혔다\"…남편 종신보험까지 깨서 단타 친 60대 아내의 최후",
+          "source_url": "https://n.news.naver.com/article/014/0005604152?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
+          "related_names": [
+            "억으로",
+            "굴리고",
+            "만원",
+            "찍혔다",
+            "남편"
+          ],
+          "template": "자산 서열",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"만취, 대체 무슨 일이?\" 만취 관련 이슈 총정리",
+          "angle_type": "👤 만취",
+          "article_count": 5,
+          "source_article": "'만취 추돌' 고경표, CCTV 공개됐다…미화원 뒤쫓는데 내려서 차량 확인",
+          "source_url": "https://m.entertain.naver.com/article/312/0000784409",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "만취"
+          ],
+          "template": "논란 집합",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"환경미\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 환경미",
+          "article_count": 3,
+          "source_article": "'음주운전' 고경표, CCTV 공개..청소차 충돌 후 환경미화원이 뒤쫓아",
+          "source_url": "https://m.entertain.naver.com/article/076/0004466611",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "환경미"
           ],
           "template": "인맥",
           "score": 6.5,
@@ -146,12 +541,41 @@
           "channel": "정보주는하마"
         },
         {
+          "title": "\"청소차, 대체 무슨 일이?\" 청소차 관련 이슈 총정리",
+          "angle_type": "👤 청소차",
+          "article_count": 3,
+          "source_article": "'음주운전' 고경표, CCTV 공개..청소차 충돌 후 환경미화원이 뒤쫓아",
+          "source_url": "https://m.entertain.naver.com/article/076/0004466611",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "청소차"
+          ],
+          "template": "논란 집합",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
           "title": "\"만원 자산이 얼마?\" 만원급 자산가 스타 TOP10",
           "angle_type": "👤 만원",
-          "article_count": 4,
-          "source_article": "‘옥바라지’ 마친 성유리·안성현 부부, 국가에 6935만원 보상 청구하나",
-          "source_url": "https://m.entertain.naver.com/article/144/0001149631",
-          "source_name": "엔터 많이 본 뉴스",
+          "article_count": 3,
+          "source_article": "\"1억으로 100억 굴리고 '-4000만원'찍혔다\"…남편 종신보험까지 깨서 단타 친 60대 아내의 최후",
+          "source_url": "https://n.news.naver.com/article/014/0005604152?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
           "related_names": [
             "만원"
           ],
@@ -175,69 +599,11 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"엔비디\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 엔비디",
-          "article_count": 4,
-          "source_article": "엔비디아 임시 CEO 누군가 했더니…젠슨 황 “겁먹은 사슴”",
-          "source_url": "https://n.news.naver.com/article/009/0005763558?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
-          "related_names": [
-            "엔비디"
-          ],
-          "template": "인맥",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"의혹\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 의혹",
-          "article_count": 3,
-          "source_article": "'라이어' 유연석, 추가 성범죄 의혹 충격..전처 친구 이어 옥자연까지",
-          "source_url": "https://m.entertain.naver.com/article/108/0003487240",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "의혹"
-          ],
-          "template": "인맥",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
           "title": "\"젠슨\" 관련 화제 스타 TOP10",
           "angle_type": "👤 젠슨",
           "article_count": 3,
-          "source_article": "엔비디아 임시 CEO 누군가 했더니…젠슨 황 “겁먹은 사슴”",
-          "source_url": "https://n.news.naver.com/article/009/0005763558?ntype=RANKING",
+          "source_article": "“앨리스 황과 나는”…젠슨 황 CEO 물러 나기 전 임원들에게 거짓 해명",
+          "source_url": "https://n.news.naver.com/article/009/0005763646?ntype=RANKING",
           "source_name": "[폴백] 스포츠 랭킹",
           "related_names": [
             "젠슨"
@@ -262,20 +628,16 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"쌍둥이이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 3,
-          "source_article": "\"손가락 절단, 의수 안 해\"…'인순이 딸' 박세인, 스스로 제2의 삶 '선포'...\"살아있는 행복\"",
-          "source_url": "https://m.entertain.naver.com/article/445/0000490045",
+          "title": "\"배우, 대체 무슨 일이?\" 배우 관련 이슈 총정리",
+          "angle_type": "👤 배우",
+          "article_count": 4,
+          "source_article": "연예계 배우 부부 탄생했다…'나혼산' 결국 하차, 배나라♥한재아 성당서 결혼",
+          "source_url": "https://m.entertain.naver.com/article/312/0000784365",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "쌍둥이",
-            "손가락",
-            "절단",
-            "의수",
-            "인순이"
+            "배우"
           ],
-          "template": "동갑내기",
+          "template": "논란 집합",
           "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
@@ -287,204 +649,26 @@
           "table": {
             "headers": [
               "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"맞았다 결혼설?\" 맞았다 연애사 총정리",
-          "angle_type": "👤 맞았다",
-          "article_count": 3,
-          "source_article": "'라이어' 유연석, 성범죄 가해자 맞았다..\"약물에 당해\" 추가 피해자 등장",
-          "source_url": "https://m.entertain.naver.com/article/108/0003487212",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "맞았다"
-          ],
-          "template": "결혼 화제",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-          "angle_type": "투병·건강",
-          "article_count": 3,
-          "source_article": "이세창, 12일(어제) 긴급 수술…새벽 시간 119 '자진 신고'→급성 맹장염 진단",
-          "source_url": "https://m.entertain.naver.com/article/312/0000784267",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "수술",
-            "이세창",
-            "긴급",
-            "새벽",
-            "시간"
-          ],
-          "template": "투병 극복",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "투병 질환",
-              "공백기",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"김지원\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 김지원",
-          "article_count": 4,
-          "source_article": "‘닥터X’ 아동 성추행범 전국환, 수술 도중 눈 떴다… 김지원·김우석·이진희의 ‘복수’ 시작",
-          "source_url": "https://m.entertain.naver.com/article/144/0001149733",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "김지원"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
+              "소속·직업",
+              "논란 내용",
               "현재 상황"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"성범죄\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 성범죄",
-          "article_count": 4,
-          "source_article": "'라이어' 유연석, 성범죄 가해자 맞았다..\"약물에 당해\" 추가 피해자 등장",
-          "source_url": "https://m.entertain.naver.com/article/108/0003487212",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "성범죄"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"수술\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 수술",
-          "article_count": 3,
-          "source_article": "이세창, 12일(어제) 긴급 수술…새벽 시간 119 '자진 신고'→급성 맹장염 진단",
-          "source_url": "https://m.entertain.naver.com/article/312/0000784267",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "수술"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"아동\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 아동",
-          "article_count": 3,
-          "source_article": "‘닥터X’ 아동 성추행범 전국환, 수술 도중 눈 떴다… 김지원·김우석·이진희의 ‘복수’ 시작",
-          "source_url": "https://m.entertain.naver.com/article/144/0001149733",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "아동"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
           "angle_type": "복귀·근황",
           "article_count": 2,
-          "source_article": "이동국 네 딸 근황..첫째 쌍둥이는 연프, 둘째 쌍둥이 美 중학교 생활",
-          "source_url": "https://m.entertain.naver.com/article/108/0003487220",
+          "source_article": "이동국 중1 딸들, 미국물 제대로 먹었네…성숙미 폭발한 '폭풍 성장' 근황",
+          "source_url": "https://m.entertain.naver.com/article/311/0002080369",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "근황",
-            "쌍둥이",
             "이동국",
-            "첫째",
-            "연프"
+            "딸들",
+            "미국물",
+            "제대로",
+            "먹었네"
           ],
           "template": "장기 공백 복귀",
           "score": 5.8,
@@ -508,39 +692,31 @@
       ],
       "keyword_freq": [
         [
-          "닥터",
+          "고경표",
+          10
+        ],
+        [
+          "음주운전",
+          8
+        ],
+        [
+          "만취",
           5
         ],
         [
-          "김지원",
+          "결혼",
           4
+        ],
+        [
+          "배우",
+          4
+        ],
+        [
+          "청소차",
+          3
         ],
         [
           "만원",
-          4
-        ],
-        [
-          "수술",
-          3
-        ],
-        [
-          "남편",
-          3
-        ],
-        [
-          "아동",
-          3
-        ],
-        [
-          "성범죄",
-          3
-        ],
-        [
-          "맞았다",
-          3
-        ],
-        [
-          "의혹",
           3
         ],
         [
@@ -548,85 +724,85 @@
           3
         ],
         [
-          "엔비디아",
-          3
-        ],
-        [
-          "고경표",
+          "임신",
           2
         ],
         [
-          "직접",
+          "술버릇",
           2
         ],
         [
-          "맞아",
+          "발칵",
           2
         ],
         [
-          "긴급",
+          "수술",
           2
         ],
         [
-          "머리",
+          "닥터",
           2
         ],
         [
-          "배우",
+          "최후",
           2
         ],
         [
-          "전국환",
+          "여성",
           2
         ],
         [
-          "김우석",
+          "부러뜨린",
           2
         ],
         [
-          "근황",
+          "갈비뼈",
+          2
+        ],
+        [
+          "상태로",
+          2
+        ],
+        [
+          "고작",
+          2
+        ],
+        [
+          "폭행",
           2
         ]
       ],
       "name_freq": [
         [
-          "닥터",
+          "고경표",
+          11
+        ],
+        [
+          "음주운",
+          8
+        ],
+        [
+          "만취",
           5
         ],
         [
-          "김지원",
+          "결혼",
           4
+        ],
+        [
+          "배우",
+          4
+        ],
+        [
+          "환경미",
+          3
+        ],
+        [
+          "청소차",
+          3
         ],
         [
           "만원",
-          4
-        ],
-        [
-          "성범죄",
-          4
-        ],
-        [
-          "엔비디",
-          4
-        ],
-        [
-          "수술",
-          3
-        ],
-        [
-          "남편",
-          3
-        ],
-        [
-          "아동",
-          3
-        ],
-        [
-          "맞았다",
-          3
-        ],
-        [
-          "의혹",
           3
         ],
         [
@@ -634,34 +810,42 @@
           3
         ],
         [
-          "고경표",
+          "는데",
           2
         ],
         [
-          "직접",
+          "임신",
           2
         ],
         [
-          "맞아",
+          "술버릇",
           2
         ],
         [
-          "긴급",
+          "발칵",
+          2
+        ],
+        [
+          "수술",
+          2
+        ],
+        [
+          "닥터",
           2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
-          6
-        ],
-        [
-          "논란·사건",
           3
         ],
         [
+          "논란·사건",
+          12
+        ],
+        [
           "결혼·이혼",
-          5
+          8
         ],
         [
           "복귀·근황",
@@ -669,40 +853,250 @@
         ],
         [
           "투병·건강",
-          3
+          6
         ],
         [
           "가족·혈연",
-          3
+          7
         ]
       ]
     },
     "초구딱": {
-      "article_count": 0,
-      "topics": [],
-      "keyword_freq": [],
-      "name_freq": [],
-      "angle_scores": []
+      "article_count": 30,
+      "topics": [
+        {
+          "title": "\"안내\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안내",
+          "article_count": 3,
+          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "안내"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 2,
+          "source_article": "댄서 노제 근황ㄷㄷㄷ",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105660&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "근황",
+            "쇼생크",
+            "탈출",
+            "댄서",
+            "노제"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 5.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 2,
+          "source_article": "김태균, 거포 본능 발휘...박병호·이대호·이승엽 제치고 잠실 마지막 '홈런왕' 등극",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105651&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "연승",
+            "최준용",
+            "오면",
+            "우승할",
+            "있을까"
+          ],
+          "template": "스포츠 기록",
+          "score": 5.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
+            ]
+          },
+          "channel": "초구딱"
+        }
+      ],
+      "keyword_freq": [
+        [
+          "안내",
+          3
+        ],
+        [
+          "조치",
+          2
+        ],
+        [
+          "근황",
+          2
+        ],
+        [
+          "세무사",
+          2
+        ],
+        [
+          "시험",
+          2
+        ],
+        [
+          "많네요",
+          2
+        ],
+        [
+          "아직도",
+          2
+        ],
+        [
+          "처리",
+          1
+        ],
+        [
+          "사항",
+          1
+        ],
+        [
+          "말머리",
+          1
+        ],
+        [
+          "시행",
+          1
+        ],
+        [
+          "위반",
+          1
+        ],
+        [
+          "향후",
+          1
+        ],
+        [
+          "뉴스저작물",
+          1
+        ],
+        [
+          "유의사항",
+          1
+        ],
+        [
+          "가이드",
+          1
+        ],
+        [
+          "필독",
+          1
+        ],
+        [
+          "인용",
+          1
+        ],
+        [
+          "장애",
+          1
+        ],
+        [
+          "해외",
+          1
+        ]
+      ],
+      "name_freq": [
+        [
+          "안내",
+          3
+        ],
+        [
+          "조치",
+          2
+        ],
+        [
+          "근황",
+          2
+        ],
+        [
+          "세무사",
+          2
+        ],
+        [
+          "시험",
+          2
+        ],
+        [
+          "많네요",
+          2
+        ],
+        [
+          "아직도",
+          2
+        ]
+      ],
+      "angle_scores": [
+        [
+          "복귀·근황",
+          2
+        ],
+        [
+          "스포츠",
+          2
+        ]
+      ]
     }
   },
-  "topics": [],
-  "all_topics": [
+  "topics": [
     {
-      "title": "\"남편, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 6,
-      "source_article": "김가연♥임요환, 카드 한 장에 4억 원이라니…“5억에 바로 산다고?”",
-      "source_url": "https://m.entertain.naver.com/article/382/0001304733",
-      "source_name": "엔터 많이 본 뉴스",
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
       "related_names": [
-        "남편",
-        "만원",
-        "김가연",
-        "임요환",
-        "카드"
+        "안내"
       ],
-      "template": "자산 서열",
-      "score": 7.0,
+      "template": "인맥",
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -713,26 +1107,127 @@
       "table": {
         "headers": [
           "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "댄서 노제 근황ㄷㄷㄷ",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105660&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "근황",
+        "쇼생크",
+        "탈출",
+        "댄서",
+        "노제"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 5.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 2,
+      "source_article": "김태균, 거포 본능 발휘...박병호·이대호·이승엽 제치고 잠실 마지막 '홈런왕' 등극",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105651&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "연승",
+        "최준용",
+        "오면",
+        "우승할",
+        "있을까"
+      ],
+      "template": "스포츠 기록",
+      "score": 5.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "초구딱"
+    }
+  ],
+  "all_topics": [
+    {
+      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 7,
+      "source_article": "개리, 타투 얼마나 크길래..日 가족여행중 온천 입장 제한 \"너무 아쉬워\"",
+      "source_url": "https://m.entertain.naver.com/article/076/0004466537",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "개리",
+        "타투",
+        "얼마나",
+        "크길래",
+        "가족여"
+      ],
+      "template": "동갑내기",
+      "score": 7.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "나이",
+          "대표작",
+          "현재 활동"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "title": "\"고경표까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
       "angle_type": "논란·사건",
-      "article_count": 3,
-      "source_article": "고경표, 음주운전으로 교통사고…면허 취소 수준",
-      "source_url": "https://m.entertain.naver.com/article/468/0001280856",
+      "article_count": 12,
+      "source_article": "‘음주사고’ 고경표, ‘지팔지꼰’의 정석",
+      "source_url": "https://m.entertain.naver.com/article/468/0001280891",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "고경표",
         "음주운",
-        "전으로",
-        "교통사",
-        "면허"
+        "만취",
+        "청소차",
+        "환경미"
       ],
       "template": "논란 집합",
       "score": 7.0,
@@ -754,18 +1249,47 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"나혼산 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "title": "\"음주운, 대체 무슨 일이?\" 음주운 관련 이슈 총정리",
+      "angle_type": "👤 음주운",
+      "article_count": 8,
+      "source_article": "'음주운전' 고경표, 지난해 무속인의 소름끼치는 점사",
+      "source_url": "https://m.entertain.naver.com/article/117/0004124940",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "음주운"
+      ],
+      "template": "논란 집합",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
       "angle_type": "결혼·이혼",
-      "article_count": 5,
+      "article_count": 8,
       "source_article": "'고우림♥' 김연아, 임신설 부인했는데 공교롭네…전부 배 가리는 펑퍼짐한 원피스",
       "source_url": "https://m.entertain.naver.com/article/311/0002080361",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "나혼산",
+        "결혼",
+        "임신",
+        "열애",
         "고우림",
-        "김연아",
-        "임신설",
-        "부인했"
+        "김연아"
       ],
       "template": "결혼 화제",
       "score": 6.8,
@@ -787,14 +1311,109 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"닥터\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 닥터",
-      "article_count": 5,
-      "source_article": "‘닥터X’ 아동 성추행범 전국환, 수술 도중 눈 떴다… 김지원·김우석·이진희의 ‘복수’ 시작",
-      "source_url": "https://m.entertain.naver.com/article/144/0001149733",
+      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+      "angle_type": "투병·건강",
+      "article_count": 6,
+      "source_article": "'닥터X' 악인 전국환, 수술 전 각성 엔딩…14.5% 기록",
+      "source_url": "https://m.entertain.naver.com/article/421/0009288815",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "닥터"
+        "수술",
+        "환경미",
+        "화원",
+        "사망",
+        "와서"
+      ],
+      "template": "투병 극복",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "투병 질환",
+          "공백기",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 3,
+      "source_article": "\"1억으로 100억 굴리고 '-4000만원'찍혔다\"…남편 종신보험까지 깨서 단타 친 60대 아내의 최후",
+      "source_url": "https://n.news.naver.com/article/014/0005604152?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
+      "related_names": [
+        "억으로",
+        "굴리고",
+        "만원",
+        "찍혔다",
+        "남편"
+      ],
+      "template": "자산 서열",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"만취, 대체 무슨 일이?\" 만취 관련 이슈 총정리",
+      "angle_type": "👤 만취",
+      "article_count": 5,
+      "source_article": "'만취 추돌' 고경표, CCTV 공개됐다…미화원 뒤쫓는데 내려서 차량 확인",
+      "source_url": "https://m.entertain.naver.com/article/312/0000784409",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "만취"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"환경미\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 환경미",
+      "article_count": 3,
+      "source_article": "'음주운전' 고경표, CCTV 공개..청소차 충돌 후 환경미화원이 뒤쫓아",
+      "source_url": "https://m.entertain.naver.com/article/076/0004466611",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "환경미"
       ],
       "template": "인맥",
       "score": 6.5,
@@ -816,12 +1435,41 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"청소차, 대체 무슨 일이?\" 청소차 관련 이슈 총정리",
+      "angle_type": "👤 청소차",
+      "article_count": 3,
+      "source_article": "'음주운전' 고경표, CCTV 공개..청소차 충돌 후 환경미화원이 뒤쫓아",
+      "source_url": "https://m.entertain.naver.com/article/076/0004466611",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "청소차"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"만원 자산이 얼마?\" 만원급 자산가 스타 TOP10",
       "angle_type": "👤 만원",
-      "article_count": 4,
-      "source_article": "‘옥바라지’ 마친 성유리·안성현 부부, 국가에 6935만원 보상 청구하나",
-      "source_url": "https://m.entertain.naver.com/article/144/0001149631",
-      "source_name": "엔터 많이 본 뉴스",
+      "article_count": 3,
+      "source_article": "\"1억으로 100억 굴리고 '-4000만원'찍혔다\"…남편 종신보험까지 깨서 단타 친 60대 아내의 최후",
+      "source_url": "https://n.news.naver.com/article/014/0005604152?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
       "related_names": [
         "만원"
       ],
@@ -845,69 +1493,11 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"엔비디\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 엔비디",
-      "article_count": 4,
-      "source_article": "엔비디아 임시 CEO 누군가 했더니…젠슨 황 “겁먹은 사슴”",
-      "source_url": "https://n.news.naver.com/article/009/0005763558?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
-      "related_names": [
-        "엔비디"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"의혹\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 의혹",
-      "article_count": 3,
-      "source_article": "'라이어' 유연석, 추가 성범죄 의혹 충격..전처 친구 이어 옥자연까지",
-      "source_url": "https://m.entertain.naver.com/article/108/0003487240",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "의혹"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"젠슨\" 관련 화제 스타 TOP10",
       "angle_type": "👤 젠슨",
       "article_count": 3,
-      "source_article": "엔비디아 임시 CEO 누군가 했더니…젠슨 황 “겁먹은 사슴”",
-      "source_url": "https://n.news.naver.com/article/009/0005763558?ntype=RANKING",
+      "source_article": "“앨리스 황과 나는”…젠슨 황 CEO 물러 나기 전 임원들에게 거짓 해명",
+      "source_url": "https://n.news.naver.com/article/009/0005763646?ntype=RANKING",
       "source_name": "[폴백] 스포츠 랭킹",
       "related_names": [
         "젠슨"
@@ -932,20 +1522,16 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"쌍둥이이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 3,
-      "source_article": "\"손가락 절단, 의수 안 해\"…'인순이 딸' 박세인, 스스로 제2의 삶 '선포'...\"살아있는 행복\"",
-      "source_url": "https://m.entertain.naver.com/article/445/0000490045",
+      "title": "\"배우, 대체 무슨 일이?\" 배우 관련 이슈 총정리",
+      "angle_type": "👤 배우",
+      "article_count": 4,
+      "source_article": "연예계 배우 부부 탄생했다…'나혼산' 결국 하차, 배나라♥한재아 성당서 결혼",
+      "source_url": "https://m.entertain.naver.com/article/312/0000784365",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "쌍둥이",
-        "손가락",
-        "절단",
-        "의수",
-        "인순이"
+        "배우"
       ],
-      "template": "동갑내기",
+      "template": "논란 집합",
       "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
@@ -957,204 +1543,26 @@
       "table": {
         "headers": [
           "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"맞았다 결혼설?\" 맞았다 연애사 총정리",
-      "angle_type": "👤 맞았다",
-      "article_count": 3,
-      "source_article": "'라이어' 유연석, 성범죄 가해자 맞았다..\"약물에 당해\" 추가 피해자 등장",
-      "source_url": "https://m.entertain.naver.com/article/108/0003487212",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "맞았다"
-      ],
-      "template": "결혼 화제",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-      "angle_type": "투병·건강",
-      "article_count": 3,
-      "source_article": "이세창, 12일(어제) 긴급 수술…새벽 시간 119 '자진 신고'→급성 맹장염 진단",
-      "source_url": "https://m.entertain.naver.com/article/312/0000784267",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "수술",
-        "이세창",
-        "긴급",
-        "새벽",
-        "시간"
-      ],
-      "template": "투병 극복",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "투병 질환",
-          "공백기",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"김지원\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 김지원",
-      "article_count": 4,
-      "source_article": "‘닥터X’ 아동 성추행범 전국환, 수술 도중 눈 떴다… 김지원·김우석·이진희의 ‘복수’ 시작",
-      "source_url": "https://m.entertain.naver.com/article/144/0001149733",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "김지원"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
+          "소속·직업",
+          "논란 내용",
           "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"성범죄\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 성범죄",
-      "article_count": 4,
-      "source_article": "'라이어' 유연석, 성범죄 가해자 맞았다..\"약물에 당해\" 추가 피해자 등장",
-      "source_url": "https://m.entertain.naver.com/article/108/0003487212",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "성범죄"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"수술\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 수술",
-      "article_count": 3,
-      "source_article": "이세창, 12일(어제) 긴급 수술…새벽 시간 119 '자진 신고'→급성 맹장염 진단",
-      "source_url": "https://m.entertain.naver.com/article/312/0000784267",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "수술"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"아동\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 아동",
-      "article_count": 3,
-      "source_article": "‘닥터X’ 아동 성추행범 전국환, 수술 도중 눈 떴다… 김지원·김우석·이진희의 ‘복수’ 시작",
-      "source_url": "https://m.entertain.naver.com/article/144/0001149733",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "아동"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
       "angle_type": "복귀·근황",
       "article_count": 2,
-      "source_article": "이동국 네 딸 근황..첫째 쌍둥이는 연프, 둘째 쌍둥이 美 중학교 생활",
-      "source_url": "https://m.entertain.naver.com/article/108/0003487220",
+      "source_article": "이동국 중1 딸들, 미국물 제대로 먹었네…성숙미 폭발한 '폭풍 성장' 근황",
+      "source_url": "https://m.entertain.naver.com/article/311/0002080369",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "근황",
-        "쌍둥이",
         "이동국",
-        "첫째",
-        "연프"
+        "딸들",
+        "미국물",
+        "제대로",
+        "먹었네"
       ],
       "template": "장기 공백 복귀",
       "score": 5.8,
@@ -1174,43 +1582,130 @@
         ]
       },
       "channel": "정보주는하마"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 2,
+      "source_article": "댄서 노제 근황ㄷㄷㄷ",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105660&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "근황",
+        "쇼생크",
+        "탈출",
+        "댄서",
+        "노제"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 5.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 2,
+      "source_article": "김태균, 거포 본능 발휘...박병호·이대호·이승엽 제치고 잠실 마지막 '홈런왕' 등극",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611140120105651&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "연승",
+        "최준용",
+        "오면",
+        "우승할",
+        "있을까"
+      ],
+      "template": "스포츠 기록",
+      "score": 5.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
     [
-      "닥터",
+      "고경표",
+      10
+    ],
+    [
+      "음주운전",
+      8
+    ],
+    [
+      "만취",
       5
     ],
     [
-      "김지원",
+      "결혼",
       4
+    ],
+    [
+      "배우",
+      4
+    ],
+    [
+      "청소차",
+      3
     ],
     [
       "만원",
-      4
-    ],
-    [
-      "수술",
-      3
-    ],
-    [
-      "남편",
-      3
-    ],
-    [
-      "아동",
-      3
-    ],
-    [
-      "성범죄",
-      3
-    ],
-    [
-      "맞았다",
-      3
-    ],
-    [
-      "의혹",
       3
     ],
     [
@@ -1218,85 +1713,85 @@
       3
     ],
     [
-      "엔비디아",
-      3
-    ],
-    [
-      "고경표",
+      "임신",
       2
     ],
     [
-      "직접",
+      "술버릇",
       2
     ],
     [
-      "맞아",
+      "발칵",
       2
     ],
     [
-      "긴급",
+      "수술",
       2
     ],
     [
-      "머리",
+      "닥터",
       2
     ],
     [
-      "배우",
+      "최후",
       2
     ],
     [
-      "전국환",
+      "여성",
       2
     ],
     [
-      "김우석",
+      "부러뜨린",
       2
     ],
     [
-      "근황",
+      "갈비뼈",
+      2
+    ],
+    [
+      "상태로",
+      2
+    ],
+    [
+      "고작",
+      2
+    ],
+    [
+      "폭행",
       2
     ]
   ],
   "name_freq": [
     [
-      "닥터",
+      "고경표",
+      11
+    ],
+    [
+      "음주운",
+      8
+    ],
+    [
+      "만취",
       5
     ],
     [
-      "김지원",
+      "결혼",
       4
+    ],
+    [
+      "배우",
+      4
+    ],
+    [
+      "환경미",
+      3
+    ],
+    [
+      "청소차",
+      3
     ],
     [
       "만원",
-      4
-    ],
-    [
-      "성범죄",
-      4
-    ],
-    [
-      "엔비디",
-      4
-    ],
-    [
-      "수술",
-      3
-    ],
-    [
-      "남편",
-      3
-    ],
-    [
-      "아동",
-      3
-    ],
-    [
-      "맞았다",
-      3
-    ],
-    [
-      "의혹",
       3
     ],
     [
@@ -1304,19 +1799,27 @@
       3
     ],
     [
-      "고경표",
+      "는데",
       2
     ],
     [
-      "직접",
+      "임신",
       2
     ],
     [
-      "맞아",
+      "술버릇",
       2
     ],
     [
-      "긴급",
+      "발칵",
+      2
+    ],
+    [
+      "수술",
+      2
+    ],
+    [
+      "닥터",
       2
     ]
   ],
