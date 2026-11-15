@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-11-15 00:39:25",
+  "scan_time": "2026-11-15 07:35:04",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -9,376 +9,30 @@
     "[폴백] 스포츠 랭킹": 30,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 30
+    "MLB파크 불펜": 0
   },
-  "total_articles": 90,
-  "articles": [
-    {
-      "title": "김도영, APBC 첫 홈런 ‘쾅’…한국 야구, 대만 꺾고 일본과 결승전",
-      "url": "https://n.news.naver.com/article/028/0002832220?ntype=RANKING",
-      "source": "[폴백] 스포츠 랭킹",
-      "category": "스포츠",
-      "views": 0,
-      "rank": 8,
-      "channel": "초구딱"
-    },
-    {
-      "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 1,
-      "channel": "초구딱"
-    },
-    {
-      "title": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 2,
-      "channel": "초구딱"
-    },
-    {
-      "title": "🛠️[업데이트] 해외 접속 장애 조치 관련 안내_260814🛠️",
-      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202608130000002151",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 3,
-      "channel": "초구딱"
-    },
-    {
-      "title": "[공지] 이미지 업로드 시 불법촬영물등 비교·식별 조치 적용 안내",
-      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202609040000002163",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 4,
-      "channel": "초구딱"
-    },
-    {
-      "title": "장례식 복장",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122943&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 5,
-      "channel": "초구딱"
-    },
-    {
-      "title": "장관 탓하면 안되겠지만 AI수석 사건은",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122940&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 6,
-      "channel": "초구딱"
-    },
-    {
-      "title": "근데 쵸비 좋아하는데 미안하지만",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122937&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 7,
-      "channel": "초구딱"
-    },
-    {
-      "title": "세무 수석 자수했으니 신속히 경찰 조사해야겠네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122934&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 8,
-      "channel": "초구딱"
-    },
-    {
-      "title": "공항검색대처럼 하면 못 잡아요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122928&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 9,
-      "channel": "초구딱"
-    },
-    {
-      "title": "푸른바다의 전설이라는 드라마가 있나요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122925&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 10,
-      "channel": "초구딱"
-    },
-    {
-      "title": "오늘자 후푸평점.jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122922&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 44,
-      "rank": 11,
-      "channel": "초구딱"
-    },
-    {
-      "title": "오늘마저 쵸비 쉴드 치는건 진짜 쵸까라고 봐야함",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122919&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 30,
-      "rank": 12,
-      "channel": "초구딱"
-    },
-    {
-      "title": "수능 시험장 안경 1개씩 모두 검사 진행 하나요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122916&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 11,
-      "rank": 13,
-      "channel": "초구딱"
-    },
-    {
-      "title": "일단 시험볼때 뿔테 안경이라도 금지해야되요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122913&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 23,
-      "rank": 14,
-      "channel": "초구딱"
-    },
-    {
-      "title": "진짜 저걸 안 가? 싶었던 장면",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122910&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 73,
-      "rank": 15,
-      "channel": "초구딱"
-    },
-    {
-      "title": "쵸비는 멘탈문제는 아닌듯",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122904&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 32,
-      "rank": 16,
-      "channel": "초구딱"
-    },
-    {
-      "title": "세무사 자백했네요. 수능 미뤄야",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122901&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 120,
-      "rank": 17,
-      "channel": "초구딱"
-    },
-    {
-      "title": "AI수석자는 적당히만 틀렀어도 빼박 완벽범죄죠",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122898&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=kakao.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 104,
-      "rank": 18,
-      "channel": "초구딱"
-    },
-    {
-      "title": "닥터X 마지막회 시청률 ㄷㄷㄷ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122895&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 166,
-      "rank": 19,
-      "channel": "초구딱"
-    },
-    {
-      "title": "세무냥이님 그래도 용기내서 반성하는 모습은 칭찬합니다",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122892&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 61,
-      "rank": 20,
-      "channel": "초구딱"
-    },
-    {
-      "title": "결국 세무사 시험 부정은 관리감독의 문제네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122889&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 52,
-      "rank": 21,
-      "channel": "초구딱"
-    },
-    {
-      "title": "가야하는대마다 마라톤....",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122886&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 18,
-      "rank": 22,
-      "channel": "초구딱"
-    },
-    {
-      "title": "대충벳 및 로또 결과",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122883&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 26,
-      "rank": 23,
-      "channel": "초구딱"
-    },
-    {
-      "title": "세무사시험 AI로 중위권 합격자는?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122880&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 52,
-      "rank": 24,
-      "channel": "초구딱"
-    },
-    {
-      "title": "[르세라핌] 홍은채 롱다리 근황.jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122877&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 65,
-      "rank": 25,
-      "channel": "초구딱"
-    },
-    {
-      "title": "솔직히 쵸비 새가슴이라 진건 아니죠",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122874&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 22,
-      "rank": 26,
-      "channel": "초구딱"
-    },
-    {
-      "title": "바이퍼는 잘하긴 했어도 논란 오래갈듯",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122871&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 132,
-      "rank": 27,
-      "channel": "초구딱"
-    },
-    {
-      "title": "3년내내 내신1등하면 뭐함",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122865&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 68,
-      "rank": 28,
-      "channel": "초구딱"
-    },
-    {
-      "title": "미드라이너 커리어",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122859&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 67,
-      "rank": 29,
-      "channel": "초구딱"
-    },
-    {
-      "title": "AI로 이미 세무사 합격한 사람들 개부럽네",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122856&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 284,
-      "rank": 30,
-      "channel": "초구딱"
-    }
-  ],
+  "total_articles": 60,
+  "articles": [],
   "channels": {
     "정보주는하마": {
-      "article_count": 59,
+      "article_count": 60,
       "topics": [
-        {
-          "title": "\"음주운까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 8,
-          "source_article": "고경표, 경찰 다가오자 외투 속에 '쏙'…음주운전 직후 수상한 CCTV 포착",
-          "source_url": "https://m.entertain.naver.com/article/076/0004466672",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "음주운",
-            "고경표",
-            "사고",
-            "경찰",
-            "다가오"
-          ],
-          "template": "논란 집합",
-          "score": 7.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 6,
-          "source_article": "김승우 '절도 혐의' 피소 여파…김남주 '170억 삼성동 대저택' 재소환",
-          "source_url": "https://m.entertain.naver.com/article/003/0014322411",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "김승우",
-            "절도",
-            "혐의",
-            "피소",
-            "여파"
-          ],
-          "template": "자산 서열",
-          "score": 7.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
         {
           "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
           "angle_type": "가족·혈연",
-          "article_count": 4,
-          "source_article": "주진모♥민혜연, 결혼 7년만 부모 돼… \"임신 3개월\"",
-          "source_url": "https://m.entertain.naver.com/article/117/0004124928",
+          "article_count": 5,
+          "source_article": "'40세' 박슬기, 셋째 임신 깜짝 발표…\"우리 가족 마지막 조각 환영해\"",
+          "source_url": "https://m.entertain.naver.com/article/076/0004466761",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "주진모",
-            "민혜연",
-            "결혼",
-            "년만",
-            "부모"
+            "박슬기",
+            "셋째",
+            "임신",
+            "깜짝",
+            "우리"
           ],
           "template": "동갑내기",
-          "score": 6.9,
+          "score": 7.1,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -397,20 +51,78 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-          "angle_type": "결혼·이혼",
-          "article_count": 5,
-          "source_article": "주진모♥민혜연, 결혼 7년만 부모 돼… \"임신 3개월\"",
-          "source_url": "https://m.entertain.naver.com/article/117/0004124928",
+          "title": "\"고경표까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 8,
+          "source_article": "\"술빵 5개 먹었어요…\" 고경표, 음주운전 사고 후폭풍",
+          "source_url": "https://m.entertain.naver.com/article/117/0004125081",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "결혼",
-            "열애",
-            "주진모",
-            "민혜연",
-            "년만"
+            "고경표",
+            "음주운",
+            "경찰",
+            "술빵",
+            "후폭풍"
           ],
-          "template": "결혼 화제",
+          "template": "논란 집합",
+          "score": 7.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"음주운, 대체 무슨 일이?\" 음주운 관련 이슈 총정리",
+          "angle_type": "👤 음주운",
+          "article_count": 7,
+          "source_article": "\"술빵 5개 먹었어요…\" 고경표, 음주운전 사고 후폭풍",
+          "source_url": "https://m.entertain.naver.com/article/117/0004125081",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "음주운"
+          ],
+          "template": "논란 집합",
+          "score": 7.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"보니 자산이 얼마?\" 보니급 자산가 스타 TOP10",
+          "angle_type": "👤 보니",
+          "article_count": 4,
+          "source_article": "‘닥터X’ 시청자 눈물 쏙 뺀 바라카·니마, 알고 보니 친남매… 반전 일상 화제",
+          "source_url": "https://m.entertain.naver.com/article/144/0001149801",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "보니"
+          ],
+          "template": "자산 서열",
           "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
@@ -422,53 +134,28 @@
           "table": {
             "headers": [
               "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"고경표, 대체 무슨 일이?\" 고경표 관련 이슈 총정리",
-          "angle_type": "👤 고경표",
-          "article_count": 4,
-          "source_article": "고경표, 경찰 다가오자 외투 속에 '쏙'…음주운전 직후 수상한 CCTV 포착",
-          "source_url": "https://m.entertain.naver.com/article/076/0004466672",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "고경표"
-          ],
-          "template": "논란 집합",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"사고, 대체 무슨 일이?\" 사고 관련 이슈 총정리",
-          "angle_type": "👤 사고",
+          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
           "article_count": 3,
-          "source_article": "\"술빵 5개 먹었어요…\" 고경표, 음주운전 사고 후폭풍",
-          "source_url": "https://m.entertain.naver.com/article/117/0004125081",
+          "source_article": "김승우 '절도 혐의' 피소 여파…김남주 '170억 삼성동 대저택' 재소환",
+          "source_url": "https://m.entertain.naver.com/article/003/0014322411",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "사고"
+            "김승우",
+            "절도",
+            "혐의",
+            "피소",
+            "여파"
           ],
-          "template": "논란 집합",
+          "template": "자산 서열",
           "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
@@ -480,25 +167,25 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"닥터\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 닥터",
-          "article_count": 4,
-          "source_article": "‘닥터X’ 시청자 눈물 쏙 뺀 바라카·니마, 알고 보니 친남매… 반전 일상 화제",
-          "source_url": "https://m.entertain.naver.com/article/144/0001149801",
-          "source_name": "엔터 많이 본 뉴스",
+          "title": "\"부정행\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 부정행",
+          "article_count": 8,
+          "source_article": "한국산업인력공단 \"AI 부정행위 고소...합격 취소 조치할 것\"",
+          "source_url": "https://n.news.naver.com/article/052/0002433071?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
           "related_names": [
-            "닥터"
+            "부정행"
           ],
           "template": "인맥",
-          "score": 6.3,
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -517,17 +204,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"젠슨, 지금 어디서 뭐 하나?\" 젠슨 근황 총정리",
-          "angle_type": "👤 젠슨",
-          "article_count": 3,
-          "source_article": "젠슨 황 “앨리스 황과 적절한 관계”…엔비디아 임원들에 거짓 해명",
-          "source_url": "https://n.news.naver.com/article/028/0002832202?ntype=RANKING",
+          "title": "\"세무사\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 세무사",
+          "article_count": 5,
+          "source_article": "'세무사 시험 AI 부정행위' 자수...\"공인회계사 1차 시험도\"",
+          "source_url": "https://n.news.naver.com/article/052/0002433044?ntype=RANKING",
           "source_name": "[폴백] 스포츠 랭킹",
           "related_names": [
-            "젠슨"
+            "세무사"
           ],
-          "template": "장기 공백 복귀",
-          "score": 6.3,
+          "template": "인맥",
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -538,25 +225,54 @@
           "table": {
             "headers": [
               "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
+              "분류",
+              "이슈 내용",
+              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"엔비디, 대체 무슨 일이?\" 엔비디 관련 이슈 총정리",
-          "angle_type": "👤 엔비디",
+          "title": "\"깜짝 자산이 얼마?\" 깜짝급 자산가 스타 TOP10",
+          "angle_type": "👤 깜짝",
           "article_count": 3,
-          "source_article": "젠슨 황 “앨리스 황과 적절한 관계”…엔비디아 임원들에 거짓 해명",
-          "source_url": "https://n.news.naver.com/article/028/0002832202?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
+          "source_article": "박태환 맞아? 확 달라진 얼굴에 깜짝…살 쏙 빠지고 배우 비주얼",
+          "source_url": "https://m.entertain.naver.com/article/109/0005640729",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "엔비디"
+            "깜짝"
+          ],
+          "template": "자산 서열",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"경찰, 대체 무슨 일이?\" 경찰 관련 이슈 총정리",
+          "angle_type": "👤 경찰",
+          "article_count": 3,
+          "source_article": "고경표, 경찰 다가오자 외투 속에 '쏙'…음주운전 직후 수상한 CCTV 포착",
+          "source_url": "https://m.entertain.naver.com/article/076/0004466672",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "경찰"
           ],
           "template": "논란 집합",
-          "score": 6.0,
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -569,6 +285,188 @@
               "이름",
               "소속·직업",
               "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"포착, 대체 무슨 일이?\" 포착 관련 이슈 총정리",
+          "angle_type": "👤 포착",
+          "article_count": 3,
+          "source_article": "고경표, 경찰 다가오자 외투 속에 '쏙'…음주운전 직후 수상한 CCTV 포착",
+          "source_url": "https://m.entertain.naver.com/article/076/0004466672",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "포착"
+          ],
+          "template": "논란 집합",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
+          "angle_type": "결혼·이혼",
+          "article_count": 2,
+          "source_article": "'40세' 박슬기, 셋째 임신 깜짝 발표…\"우리 가족 마지막 조각 환영해\"",
+          "source_url": "https://m.entertain.naver.com/article/076/0004466761",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "박슬기",
+            "셋째",
+            "임신",
+            "깜짝",
+            "우리"
+          ],
+          "template": "결혼 화제",
+          "score": 6.1,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "재활용 가능",
+            "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
+            "matched_views": 720727,
+            "reason": "검증됨 720,727회 · 218일 경과"
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+          "angle_type": "투병·건강",
+          "article_count": 3,
+          "source_article": "46세 배윤정, 안면+목 거상 수술 받았다‥투턱·목주름 실종에 “진작 할 걸”",
+          "source_url": "https://m.entertain.naver.com/article/609/0001187492",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "사망",
+            "배윤정",
+            "안면",
+            "거상",
+            "수술"
+          ],
+          "template": "투병 극복",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "투병 질환",
+              "공백기",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"시험\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 시험",
+          "article_count": 3,
+          "source_article": "'세무사 시험 AI 부정행위' 자수...\"공인회계사 1차 시험도\"",
+          "source_url": "https://n.news.naver.com/article/052/0002433044?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
+          "related_names": [
+            "시험"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"수석\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 수석",
+          "article_count": 3,
+          "source_article": "'AI 부정행위 자백' 세무사 시험 수석, 합격 취소 수순… 정부 \"효력 정지 논의\"",
+          "source_url": "https://n.news.naver.com/article/469/0000965621?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
+          "related_names": [
+            "수석"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"이것\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 이것",
+          "article_count": 3,
+          "source_article": "18년간 매일 12시간씩 식당 일한 女 사망…법원 의심한 이것",
+          "source_url": "https://n.news.naver.com/article/025/0003565199?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
+          "related_names": [
+            "이것"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
               "현재 상황"
             ]
           },
@@ -610,39 +508,59 @@
       ],
       "keyword_freq": [
         [
+          "부정행위",
+          8
+        ],
+        [
           "음주운전",
-          5
+          7
         ],
         [
           "고경표",
+          7
+        ],
+        [
+          "세무사",
+          5
+        ],
+        [
+          "보니",
           4
         ],
         [
-          "닥터",
-          4
-        ],
-        [
-          "사고",
+          "깜짝",
           3
         ],
         [
-          "결혼",
-          3
-        ],
-        [
-          "젠슨",
-          3
-        ],
-        [
-          "엔비디아",
+          "경찰",
           3
         ],
         [
           "포착",
+          3
+        ],
+        [
+          "시험",
+          3
+        ],
+        [
+          "수석",
+          3
+        ],
+        [
+          "이것",
+          3
+        ],
+        [
+          "사고",
           2
         ],
         [
-          "김승우",
+          "후폭풍",
+          2
+        ],
+        [
+          "술빵",
           2
         ],
         [
@@ -650,112 +568,92 @@
           2
         ],
         [
-          "달라졌다",
+          "운전",
           2
         ],
         [
-          "고백",
+          "재조명",
           2
         ],
         [
-          "피해",
+          "맞아",
           2
         ],
         [
-          "눈물",
+          "배우",
           2
         ],
         [
-          "알고",
-          2
-        ],
-        [
-          "보니",
-          2
-        ],
-        [
-          "전국환",
-          2
-        ],
-        [
-          "라이어",
-          2
-        ],
-        [
-          "유연석",
-          2
-        ],
-        [
-          "알렸다",
+          "빠지고",
           2
         ]
       ],
       "name_freq": [
         [
+          "고경표",
+          8
+        ],
+        [
+          "부정행",
+          8
+        ],
+        [
           "음주운",
+          7
+        ],
+        [
+          "세무사",
           5
         ],
         [
-          "고경표",
+          "보니",
           4
         ],
         [
-          "닥터",
-          4
-        ],
-        [
-          "사고",
+          "깜짝",
           3
         ],
         [
-          "결혼",
-          3
-        ],
-        [
-          "엔비디",
-          3
-        ],
-        [
-          "젠슨",
+          "경찰",
           3
         ],
         [
           "포착",
+          3
+        ],
+        [
+          "시험",
+          3
+        ],
+        [
+          "수석",
+          3
+        ],
+        [
+          "이것",
+          3
+        ],
+        [
+          "사고",
           2
         ],
         [
-          "김승우",
+          "후폭풍",
+          2
+        ],
+        [
+          "술빵",
           2
         ],
         [
           "절도",
-          2
-        ],
-        [
-          "고백",
-          2
-        ],
-        [
-          "달라졌",
-          2
-        ],
-        [
-          "피해",
-          2
-        ],
-        [
-          "알고",
-          2
-        ],
-        [
-          "보니",
           2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
-          6
+          3
         ],
         [
           "논란·사건",
@@ -763,475 +661,48 @@
         ],
         [
           "결혼·이혼",
-          5
+          2
         ],
         [
           "복귀·근황",
           2
         ],
         [
+          "투병·건강",
+          3
+        ],
+        [
           "가족·혈연",
-          4
+          5
         ]
       ]
     },
     "초구딱": {
-      "article_count": 31,
-      "topics": [
-        {
-          "title": "\"세무사\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 세무사",
-          "article_count": 4,
-          "source_article": "세무사 자백했네요. 수능 미뤄야",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122901&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "세무사"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"안내\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 안내",
-          "article_count": 3,
-          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "안내"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"쵸비\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 쵸비",
-          "article_count": 3,
-          "source_article": "근데 쵸비 좋아하는데 미안하지만",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122937&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "쵸비"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        },
-        {
-          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 2,
-          "source_article": "결국 세무사 시험 부정은 관리감독의 문제네요",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122889&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "김도영",
-            "홈런",
-            "야구",
-            "대만",
-            "꺾고"
-          ],
-          "template": "스포츠 기록",
-          "score": 5.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
-            ]
-          },
-          "channel": "초구딱"
-        }
-      ],
-      "keyword_freq": [
-        [
-          "안내",
-          3
-        ],
-        [
-          "쵸비",
-          3
-        ],
-        [
-          "세무사",
-          3
-        ],
-        [
-          "조치",
-          2
-        ],
-        [
-          "수석",
-          2
-        ],
-        [
-          "진짜",
-          2
-        ],
-        [
-          "수능",
-          2
-        ],
-        [
-          "김도영",
-          1
-        ],
-        [
-          "대만",
-          1
-        ],
-        [
-          "일본과",
-          1
-        ],
-        [
-          "홈런",
-          1
-        ],
-        [
-          "야구",
-          1
-        ],
-        [
-          "결승전",
-          1
-        ],
-        [
-          "꺾고",
-          1
-        ],
-        [
-          "시행",
-          1
-        ],
-        [
-          "위반",
-          1
-        ],
-        [
-          "향후",
-          1
-        ],
-        [
-          "사항",
-          1
-        ],
-        [
-          "말머리",
-          1
-        ],
-        [
-          "처리",
-          1
-        ]
-      ],
-      "name_freq": [
-        [
-          "세무사",
-          4
-        ],
-        [
-          "안내",
-          3
-        ],
-        [
-          "쵸비",
-          3
-        ],
-        [
-          "조치",
-          2
-        ],
-        [
-          "수석",
-          2
-        ],
-        [
-          "지만",
-          2
-        ],
-        [
-          "진짜",
-          2
-        ],
-        [
-          "수능",
-          2
-        ],
-        [
-          "시험",
-          2
-        ]
-      ],
-      "angle_scores": [
-        [
-          "스포츠",
-          2
-        ]
-      ]
+      "article_count": 0,
+      "topics": [],
+      "keyword_freq": [],
+      "name_freq": [],
+      "angle_scores": []
     }
   },
-  "topics": [
-    {
-      "title": "\"세무사\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 세무사",
-      "article_count": 4,
-      "source_article": "세무사 자백했네요. 수능 미뤄야",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122901&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "세무사"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
-      "article_count": 3,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "안내"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"쵸비\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 쵸비",
-      "article_count": 3,
-      "source_article": "근데 쵸비 좋아하는데 미안하지만",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122937&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "쵸비"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 2,
-      "source_article": "결국 세무사 시험 부정은 관리감독의 문제네요",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122889&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "김도영",
-        "홈런",
-        "야구",
-        "대만",
-        "꺾고"
-      ],
-      "template": "스포츠 기록",
-      "score": 5.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
-      "channel": "초구딱"
-    }
-  ],
+  "topics": [],
   "all_topics": [
-    {
-      "title": "\"음주운까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 8,
-      "source_article": "고경표, 경찰 다가오자 외투 속에 '쏙'…음주운전 직후 수상한 CCTV 포착",
-      "source_url": "https://m.entertain.naver.com/article/076/0004466672",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "음주운",
-        "고경표",
-        "사고",
-        "경찰",
-        "다가오"
-      ],
-      "template": "논란 집합",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 6,
-      "source_article": "김승우 '절도 혐의' 피소 여파…김남주 '170억 삼성동 대저택' 재소환",
-      "source_url": "https://m.entertain.naver.com/article/003/0014322411",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "김승우",
-        "절도",
-        "혐의",
-        "피소",
-        "여파"
-      ],
-      "template": "자산 서열",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
     {
       "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
       "angle_type": "가족·혈연",
-      "article_count": 4,
-      "source_article": "주진모♥민혜연, 결혼 7년만 부모 돼… \"임신 3개월\"",
-      "source_url": "https://m.entertain.naver.com/article/117/0004124928",
+      "article_count": 5,
+      "source_article": "'40세' 박슬기, 셋째 임신 깜짝 발표…\"우리 가족 마지막 조각 환영해\"",
+      "source_url": "https://m.entertain.naver.com/article/076/0004466761",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "주진모",
-        "민혜연",
-        "결혼",
-        "년만",
-        "부모"
+        "박슬기",
+        "셋째",
+        "임신",
+        "깜짝",
+        "우리"
       ],
       "template": "동갑내기",
-      "score": 6.9,
+      "score": 7.1,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1250,20 +721,78 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 5,
-      "source_article": "주진모♥민혜연, 결혼 7년만 부모 돼… \"임신 3개월\"",
-      "source_url": "https://m.entertain.naver.com/article/117/0004124928",
+      "title": "\"고경표까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 8,
+      "source_article": "\"술빵 5개 먹었어요…\" 고경표, 음주운전 사고 후폭풍",
+      "source_url": "https://m.entertain.naver.com/article/117/0004125081",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "결혼",
-        "열애",
-        "주진모",
-        "민혜연",
-        "년만"
+        "고경표",
+        "음주운",
+        "경찰",
+        "술빵",
+        "후폭풍"
       ],
-      "template": "결혼 화제",
+      "template": "논란 집합",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"음주운, 대체 무슨 일이?\" 음주운 관련 이슈 총정리",
+      "angle_type": "👤 음주운",
+      "article_count": 7,
+      "source_article": "\"술빵 5개 먹었어요…\" 고경표, 음주운전 사고 후폭풍",
+      "source_url": "https://m.entertain.naver.com/article/117/0004125081",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "음주운"
+      ],
+      "template": "논란 집합",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"보니 자산이 얼마?\" 보니급 자산가 스타 TOP10",
+      "angle_type": "👤 보니",
+      "article_count": 4,
+      "source_article": "‘닥터X’ 시청자 눈물 쏙 뺀 바라카·니마, 알고 보니 친남매… 반전 일상 화제",
+      "source_url": "https://m.entertain.naver.com/article/144/0001149801",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "보니"
+      ],
+      "template": "자산 서열",
       "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
@@ -1275,53 +804,28 @@
       "table": {
         "headers": [
           "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"고경표, 대체 무슨 일이?\" 고경표 관련 이슈 총정리",
-      "angle_type": "👤 고경표",
-      "article_count": 4,
-      "source_article": "고경표, 경찰 다가오자 외투 속에 '쏙'…음주운전 직후 수상한 CCTV 포착",
-      "source_url": "https://m.entertain.naver.com/article/076/0004466672",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "고경표"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"사고, 대체 무슨 일이?\" 사고 관련 이슈 총정리",
-      "angle_type": "👤 사고",
+      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
       "article_count": 3,
-      "source_article": "\"술빵 5개 먹었어요…\" 고경표, 음주운전 사고 후폭풍",
-      "source_url": "https://m.entertain.naver.com/article/117/0004125081",
+      "source_article": "김승우 '절도 혐의' 피소 여파…김남주 '170억 삼성동 대저택' 재소환",
+      "source_url": "https://m.entertain.naver.com/article/003/0014322411",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "사고"
+        "김승우",
+        "절도",
+        "혐의",
+        "피소",
+        "여파"
       ],
-      "template": "논란 집합",
+      "template": "자산 서열",
       "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
@@ -1333,25 +837,25 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"닥터\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 닥터",
-      "article_count": 4,
-      "source_article": "‘닥터X’ 시청자 눈물 쏙 뺀 바라카·니마, 알고 보니 친남매… 반전 일상 화제",
-      "source_url": "https://m.entertain.naver.com/article/144/0001149801",
-      "source_name": "엔터 많이 본 뉴스",
+      "title": "\"부정행\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 부정행",
+      "article_count": 8,
+      "source_article": "한국산업인력공단 \"AI 부정행위 고소...합격 취소 조치할 것\"",
+      "source_url": "https://n.news.naver.com/article/052/0002433071?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
       "related_names": [
-        "닥터"
+        "부정행"
       ],
       "template": "인맥",
-      "score": 6.3,
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1370,17 +874,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"젠슨, 지금 어디서 뭐 하나?\" 젠슨 근황 총정리",
-      "angle_type": "👤 젠슨",
-      "article_count": 3,
-      "source_article": "젠슨 황 “앨리스 황과 적절한 관계”…엔비디아 임원들에 거짓 해명",
-      "source_url": "https://n.news.naver.com/article/028/0002832202?ntype=RANKING",
+      "title": "\"세무사\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 세무사",
+      "article_count": 5,
+      "source_article": "'세무사 시험 AI 부정행위' 자수...\"공인회계사 1차 시험도\"",
+      "source_url": "https://n.news.naver.com/article/052/0002433044?ntype=RANKING",
       "source_name": "[폴백] 스포츠 랭킹",
       "related_names": [
-        "젠슨"
+        "세무사"
       ],
-      "template": "장기 공백 복귀",
-      "score": 6.3,
+      "template": "인맥",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1391,25 +895,54 @@
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"엔비디, 대체 무슨 일이?\" 엔비디 관련 이슈 총정리",
-      "angle_type": "👤 엔비디",
+      "title": "\"깜짝 자산이 얼마?\" 깜짝급 자산가 스타 TOP10",
+      "angle_type": "👤 깜짝",
       "article_count": 3,
-      "source_article": "젠슨 황 “앨리스 황과 적절한 관계”…엔비디아 임원들에 거짓 해명",
-      "source_url": "https://n.news.naver.com/article/028/0002832202?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
+      "source_article": "박태환 맞아? 확 달라진 얼굴에 깜짝…살 쏙 빠지고 배우 비주얼",
+      "source_url": "https://m.entertain.naver.com/article/109/0005640729",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "엔비디"
+        "깜짝"
+      ],
+      "template": "자산 서열",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"경찰, 대체 무슨 일이?\" 경찰 관련 이슈 총정리",
+      "angle_type": "👤 경찰",
+      "article_count": 3,
+      "source_article": "고경표, 경찰 다가오자 외투 속에 '쏙'…음주운전 직후 수상한 CCTV 포착",
+      "source_url": "https://m.entertain.naver.com/article/076/0004466672",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "경찰"
       ],
       "template": "논란 집합",
-      "score": 6.0,
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1422,6 +955,188 @@
           "이름",
           "소속·직업",
           "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"포착, 대체 무슨 일이?\" 포착 관련 이슈 총정리",
+      "angle_type": "👤 포착",
+      "article_count": 3,
+      "source_article": "고경표, 경찰 다가오자 외투 속에 '쏙'…음주운전 직후 수상한 CCTV 포착",
+      "source_url": "https://m.entertain.naver.com/article/076/0004466672",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "포착"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 2,
+      "source_article": "'40세' 박슬기, 셋째 임신 깜짝 발표…\"우리 가족 마지막 조각 환영해\"",
+      "source_url": "https://m.entertain.naver.com/article/076/0004466761",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "박슬기",
+        "셋째",
+        "임신",
+        "깜짝",
+        "우리"
+      ],
+      "template": "결혼 화제",
+      "score": 6.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "재활용 가능",
+        "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
+        "matched_views": 720727,
+        "reason": "검증됨 720,727회 · 218일 경과"
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
+      "angle_type": "투병·건강",
+      "article_count": 3,
+      "source_article": "46세 배윤정, 안면+목 거상 수술 받았다‥투턱·목주름 실종에 “진작 할 걸”",
+      "source_url": "https://m.entertain.naver.com/article/609/0001187492",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "사망",
+        "배윤정",
+        "안면",
+        "거상",
+        "수술"
+      ],
+      "template": "투병 극복",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "투병 질환",
+          "공백기",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"시험\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 시험",
+      "article_count": 3,
+      "source_article": "'세무사 시험 AI 부정행위' 자수...\"공인회계사 1차 시험도\"",
+      "source_url": "https://n.news.naver.com/article/052/0002433044?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
+      "related_names": [
+        "시험"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"수석\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 수석",
+      "article_count": 3,
+      "source_article": "'AI 부정행위 자백' 세무사 시험 수석, 합격 취소 수순… 정부 \"효력 정지 논의\"",
+      "source_url": "https://n.news.naver.com/article/469/0000965621?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
+      "related_names": [
+        "수석"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이것\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 이것",
+      "article_count": 3,
+      "source_article": "18년간 매일 12시간씩 식당 일한 女 사망…법원 의심한 이것",
+      "source_url": "https://n.news.naver.com/article/025/0003565199?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
+      "related_names": [
+        "이것"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
           "현재 상황"
         ]
       },
@@ -1459,163 +1174,63 @@
         ]
       },
       "channel": "정보주는하마"
-    },
-    {
-      "title": "\"세무사\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 세무사",
-      "article_count": 4,
-      "source_article": "세무사 자백했네요. 수능 미뤄야",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122901&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "세무사"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
-      "article_count": 3,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "안내"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"쵸비\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 쵸비",
-      "article_count": 3,
-      "source_article": "근데 쵸비 좋아하는데 미안하지만",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122937&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "쵸비"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    },
-    {
-      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 2,
-      "source_article": "결국 세무사 시험 부정은 관리감독의 문제네요",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611150120122889&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "김도영",
-        "홈런",
-        "야구",
-        "대만",
-        "꺾고"
-      ],
-      "template": "스포츠 기록",
-      "score": 5.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
-        ]
-      },
-      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
     [
+      "부정행위",
+      8
+    ],
+    [
       "음주운전",
-      5
+      7
     ],
     [
       "고경표",
+      7
+    ],
+    [
+      "세무사",
+      5
+    ],
+    [
+      "보니",
       4
     ],
     [
-      "닥터",
-      4
-    ],
-    [
-      "사고",
+      "깜짝",
       3
     ],
     [
-      "결혼",
-      3
-    ],
-    [
-      "젠슨",
-      3
-    ],
-    [
-      "엔비디아",
+      "경찰",
       3
     ],
     [
       "포착",
+      3
+    ],
+    [
+      "시험",
+      3
+    ],
+    [
+      "수석",
+      3
+    ],
+    [
+      "이것",
+      3
+    ],
+    [
+      "사고",
       2
     ],
     [
-      "김승우",
+      "후폭풍",
+      2
+    ],
+    [
+      "술빵",
       2
     ],
     [
@@ -1623,109 +1238,89 @@
       2
     ],
     [
-      "달라졌다",
+      "운전",
       2
     ],
     [
-      "고백",
+      "재조명",
       2
     ],
     [
-      "피해",
+      "맞아",
       2
     ],
     [
-      "눈물",
+      "배우",
       2
     ],
     [
-      "알고",
-      2
-    ],
-    [
-      "보니",
-      2
-    ],
-    [
-      "전국환",
-      2
-    ],
-    [
-      "라이어",
-      2
-    ],
-    [
-      "유연석",
-      2
-    ],
-    [
-      "알렸다",
+      "빠지고",
       2
     ]
   ],
   "name_freq": [
     [
+      "고경표",
+      8
+    ],
+    [
+      "부정행",
+      8
+    ],
+    [
       "음주운",
+      7
+    ],
+    [
+      "세무사",
       5
     ],
     [
-      "고경표",
+      "보니",
       4
     ],
     [
-      "닥터",
-      4
-    ],
-    [
-      "사고",
+      "깜짝",
       3
     ],
     [
-      "결혼",
-      3
-    ],
-    [
-      "엔비디",
-      3
-    ],
-    [
-      "젠슨",
+      "경찰",
       3
     ],
     [
       "포착",
+      3
+    ],
+    [
+      "시험",
+      3
+    ],
+    [
+      "수석",
+      3
+    ],
+    [
+      "이것",
+      3
+    ],
+    [
+      "사고",
       2
     ],
     [
-      "김승우",
+      "후폭풍",
+      2
+    ],
+    [
+      "술빵",
       2
     ],
     [
       "절도",
       2
-    ],
-    [
-      "고백",
-      2
-    ],
-    [
-      "달라졌",
-      2
-    ],
-    [
-      "피해",
-      2
-    ],
-    [
-      "알고",
-      2
-    ],
-    [
-      "보니",
-      2
     ]
   ],
-  "total_topics_generated": 14,
-  "valid_topics": 14,
+  "total_topics_generated": 16,
+  "valid_topics": 16,
   "excluded_duplicates": 0
 }
