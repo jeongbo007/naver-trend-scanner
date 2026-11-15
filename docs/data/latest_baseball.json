@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-11-15 07:35:04",
+  "scan_time": "2026-11-15 12:30:31",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -9,60 +9,298 @@
     "[폴백] 스포츠 랭킹": 30,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 0
+    "MLB파크 불펜": 30
   },
-  "total_articles": 60,
-  "articles": [],
+  "total_articles": 90,
+  "articles": [
+    {
+      "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 1,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 2,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🛠️[업데이트] 해외 접속 장애 조치 관련 안내_260814🛠️",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202608130000002151",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 3,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[공지] 이미지 업로드 시 불법촬영물등 비교·식별 조치 적용 안내",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202609040000002163",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 4,
+      "channel": "초구딱"
+    },
+    {
+      "title": "김유신은 포스가 연개소문보다 덜하네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139791&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 5,
+      "channel": "초구딱"
+    },
+    {
+      "title": "울나라 야구 선수들 일본에서 태어났으면?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139788&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 6,
+      "channel": "초구딱"
+    },
+    {
+      "title": "연개소문 은근 능력자였다 봐야하나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139776&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 15,
+      "rank": 7,
+      "channel": "초구딱"
+    },
+    {
+      "title": "드라마 문무 배우들은 뭔가 포쓰가 부족하네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139770&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 17,
+      "rank": 8,
+      "channel": "초구딱"
+    },
+    {
+      "title": "김유신 목소리가 너무 젊은",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139764&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 13,
+      "rank": 9,
+      "channel": "초구딱"
+    },
+    {
+      "title": "??? : 살려는 드릴게 할거같음",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139749&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 49,
+      "rank": 10,
+      "channel": "초구딱"
+    },
+    {
+      "title": "세무냥이님 앞으로 가질 직업은 높은질 직장 힘들까요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139746&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 23,
+      "rank": 11,
+      "channel": "초구딱"
+    },
+    {
+      "title": "이번 세무사 부정행위자도 참 바보같긴 하네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139737&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=kakao.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 72,
+      "rank": 12,
+      "channel": "초구딱"
+    },
+    {
+      "title": "이슬람문화도 서민,하층민들을위한 문화인듯",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139728&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 16,
+      "rank": 13,
+      "channel": "초구딱"
+    },
+    {
+      "title": "UFC는 그냥 개싸움판 되었네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139725&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 68,
+      "rank": 14,
+      "channel": "초구딱"
+    },
+    {
+      "title": "문무...이중구가 나오니 분위기 확 사네",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139722&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 112,
+      "rank": 15,
+      "channel": "초구딱"
+    },
+    {
+      "title": "박성웅이 김유신 장군 하기에는 너무 약하네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139713&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 110,
+      "rank": 16,
+      "channel": "초구딱"
+    },
+    {
+      "title": "김도영 까내려봤자 1억달러 사실상 확보 아닌지??",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139710&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 57,
+      "rank": 17,
+      "channel": "초구딱"
+    },
+    {
+      "title": "세무냥이는 한국산업인력관리공단을 먼저 찾아갔어야 합니다.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139704&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 86,
+      "rank": 18,
+      "channel": "초구딱"
+    },
+    {
+      "title": "김유신 중구형 포스 나오네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139701&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 49,
+      "rank": 19,
+      "channel": "초구딱"
+    },
+    {
+      "title": "다른팀 팬들 최원호 맛좀 봐야",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139695&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 113,
+      "rank": 20,
+      "channel": "초구딱"
+    },
+    {
+      "title": "남대문 스카프 아저씨.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139686&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 182,
+      "rank": 21,
+      "channel": "초구딱"
+    },
+    {
+      "title": "리센느 곡들이 유튜브 뮤직 차트는 순항하고 있네요.",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139677&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 59,
+      "rank": 22,
+      "channel": "초구딱"
+    },
+    {
+      "title": "일본은 고시엔 문화가 엄청나긴 하죠",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139668&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 124,
+      "rank": 23,
+      "channel": "초구딱"
+    },
+    {
+      "title": "UFC) 시릴간 싸움 진짜 잘하지않나요..?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139665&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 64,
+      "rank": 24,
+      "channel": "초구딱"
+    },
+    {
+      "title": "세무냥이 출소하면 산업인력공단 자문위원으로 모셔야할듯",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139656&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 97,
+      "rank": 25,
+      "channel": "초구딱"
+    },
+    {
+      "title": "이강인 인스타 의도가 있을까요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139653&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 303,
+      "rank": 26,
+      "channel": "초구딱"
+    },
+    {
+      "title": "NPB 상대로 완투한 최동원이 정말 대단했던 거임",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139632&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 86,
+      "rank": 27,
+      "channel": "초구딱"
+    },
+    {
+      "title": "최원호 투교만 잘가져갔어도",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139608&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 160,
+      "rank": 28,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[아이브] 멜론뮤직어워드 2026 \"올해의 베스트송\" 대상수상...jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139605&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 114,
+      "rank": 29,
+      "channel": "초구딱"
+    },
+    {
+      "title": "을지문덕도 연개소문 반란때 죽은게 정설이죠",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139578&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 175,
+      "rank": 30,
+      "channel": "초구딱"
+    }
+  ],
   "channels": {
     "정보주는하마": {
       "article_count": 60,
       "topics": [
         {
-          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 5,
-          "source_article": "'40세' 박슬기, 셋째 임신 깜짝 발표…\"우리 가족 마지막 조각 환영해\"",
-          "source_url": "https://m.entertain.naver.com/article/076/0004466761",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "박슬기",
-            "셋째",
-            "임신",
-            "깜짝",
-            "우리"
-          ],
-          "template": "동갑내기",
-          "score": 7.1,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
           "title": "\"고경표까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
           "angle_type": "논란·사건",
-          "article_count": 8,
+          "article_count": 9,
           "source_article": "\"술빵 5개 먹었어요…\" 고경표, 음주운전 사고 후폭풍",
           "source_url": "https://m.entertain.naver.com/article/117/0004125081",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "고경표",
             "음주운",
-            "경찰",
-            "술빵",
-            "후폭풍"
+            "직후",
+            "추가",
+            "사과"
           ],
           "template": "논란 집합",
           "score": 7.0,
@@ -113,17 +351,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"보니 자산이 얼마?\" 보니급 자산가 스타 TOP10",
-          "angle_type": "👤 보니",
-          "article_count": 4,
-          "source_article": "‘닥터X’ 시청자 눈물 쏙 뺀 바라카·니마, 알고 보니 친남매… 반전 일상 화제",
-          "source_url": "https://m.entertain.naver.com/article/144/0001149801",
+          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+          "angle_type": "가족·혈연",
+          "article_count": 3,
+          "source_article": "'40세' 박슬기, 셋째 임신 깜짝 발표…\"우리 가족 마지막 조각 환영해\"",
+          "source_url": "https://m.entertain.naver.com/article/076/0004466761",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "보니"
+            "박슬기",
+            "셋째",
+            "임신",
+            "깜짝",
+            "우리"
           ],
-          "template": "자산 서열",
-          "score": 6.8,
+          "template": "동갑내기",
+          "score": 6.6,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -134,9 +376,9 @@
           "table": {
             "headers": [
               "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
+              "나이",
+              "대표작",
+              "현재 활동"
             ]
           },
           "channel": "정보주는하마"
@@ -175,40 +417,11 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"부정행\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 부정행",
-          "article_count": 8,
-          "source_article": "한국산업인력공단 \"AI 부정행위 고소...합격 취소 조치할 것\"",
-          "source_url": "https://n.news.naver.com/article/052/0002433071?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
-          "related_names": [
-            "부정행"
-          ],
-          "template": "인맥",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
           "title": "\"세무사\" 관련 화제 스타 TOP10",
           "angle_type": "👤 세무사",
           "article_count": 5,
-          "source_article": "'세무사 시험 AI 부정행위' 자수...\"공인회계사 1차 시험도\"",
-          "source_url": "https://n.news.naver.com/article/052/0002433044?ntype=RANKING",
+          "source_article": "세무사회 “부정행위자 합격 무효 요구…기준 미달시 수습 교육 중지”",
+          "source_url": "https://n.news.naver.com/article/005/0001885166?ntype=RANKING",
           "source_name": "[폴백] 스포츠 랭킹",
           "related_names": [
             "세무사"
@@ -233,43 +446,14 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"깜짝 자산이 얼마?\" 깜짝급 자산가 스타 TOP10",
-          "angle_type": "👤 깜짝",
-          "article_count": 3,
-          "source_article": "박태환 맞아? 확 달라진 얼굴에 깜짝…살 쏙 빠지고 배우 비주얼",
-          "source_url": "https://m.entertain.naver.com/article/109/0005640729",
-          "source_name": "엔터 많이 본 뉴스",
+          "title": "\"젠슨, 대체 무슨 일이?\" 젠슨 관련 이슈 총정리",
+          "angle_type": "👤 젠슨",
+          "article_count": 4,
+          "source_article": "“젠슨 황 겸손은 연출, 반대하면 1시간 폭언” 전기 작가의 폭로",
+          "source_url": "https://n.news.naver.com/article/025/0003565288?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
           "related_names": [
-            "깜짝"
-          ],
-          "template": "자산 서열",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"경찰, 대체 무슨 일이?\" 경찰 관련 이슈 총정리",
-          "angle_type": "👤 경찰",
-          "article_count": 3,
-          "source_article": "고경표, 경찰 다가오자 외투 속에 '쏙'…음주운전 직후 수상한 CCTV 포착",
-          "source_url": "https://m.entertain.naver.com/article/076/0004466672",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "경찰"
+            "젠슨"
           ],
           "template": "논란 집합",
           "score": 6.5,
@@ -291,17 +475,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"포착, 대체 무슨 일이?\" 포착 관련 이슈 총정리",
-          "angle_type": "👤 포착",
+          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
           "article_count": 3,
-          "source_article": "고경표, 경찰 다가오자 외투 속에 '쏙'…음주운전 직후 수상한 CCTV 포착",
-          "source_url": "https://m.entertain.naver.com/article/076/0004466672",
+          "source_article": "다니엘 헤니, 13살 연하 일본계 아내 볼에 '쪽'…포토 부스 초토화시킨 달달 근황",
+          "source_url": "https://m.entertain.naver.com/article/117/0004125131",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "포착"
+            "근황",
+            "다니엘",
+            "헤니",
+            "연하",
+            "일본계"
           ],
-          "template": "논란 집합",
-          "score": 6.5,
+          "template": "장기 공백 복귀",
+          "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -312,9 +500,9 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
             ]
           },
           "channel": "정보주는하마"
@@ -353,20 +541,16 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-          "angle_type": "투병·건강",
+          "title": "\"추가, 대체 무슨 일이?\" 추가 관련 이슈 총정리",
+          "angle_type": "👤 추가",
           "article_count": 3,
-          "source_article": "46세 배윤정, 안면+목 거상 수술 받았다‥투턱·목주름 실종에 “진작 할 걸”",
-          "source_url": "https://m.entertain.naver.com/article/609/0001187492",
+          "source_article": "\"옷장에 가두고 임산부 혹사해 유산까지\"…티모시 여친 카일리 제너, 추가 피소 위기",
+          "source_url": "https://m.entertain.naver.com/article/117/0004125138",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "사망",
-            "배윤정",
-            "안면",
-            "거상",
-            "수술"
+            "추가"
           ],
-          "template": "투병 극복",
+          "template": "논란 집합",
           "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
@@ -378,116 +562,25 @@
           "table": {
             "headers": [
               "이름",
-              "투병 질환",
-              "공백기",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"시험\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 시험",
-          "article_count": 3,
-          "source_article": "'세무사 시험 AI 부정행위' 자수...\"공인회계사 1차 시험도\"",
-          "source_url": "https://n.news.naver.com/article/052/0002433044?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
-          "related_names": [
-            "시험"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
+              "소속·직업",
+              "논란 내용",
               "현재 상황"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"수석\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 수석",
+          "title": "\"중단\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 중단",
           "article_count": 3,
-          "source_article": "'AI 부정행위 자백' 세무사 시험 수석, 합격 취소 수순… 정부 \"효력 정지 논의\"",
-          "source_url": "https://n.news.naver.com/article/469/0000965621?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
-          "related_names": [
-            "수석"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"이것\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 이것",
-          "article_count": 3,
-          "source_article": "18년간 매일 12시간씩 식당 일한 女 사망…법원 의심한 이것",
-          "source_url": "https://n.news.naver.com/article/025/0003565199?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
-          "related_names": [
-            "이것"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 2,
-          "source_article": "‘성형 고백’ 광희, 얼굴이 또 달라졌다?…몰라보게 변한 근황 포착",
-          "source_url": "https://m.entertain.naver.com/article/410/0001147293",
+          "source_article": "스윙스, ‘놀토’ 녹화 중단 전말…“사람 불러놓고 조롱하나”",
+          "source_url": "https://m.entertain.naver.com/article/382/0001304867",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "성형",
-            "고백",
-            "광희",
-            "얼굴이",
-            "달라졌"
+            "중단"
           ],
-          "template": "장기 공백 복귀",
-          "score": 5.8,
+          "template": "인맥",
+          "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -498,9 +591,96 @@
           "table": {
             "headers": [
               "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"부정행\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 부정행",
+          "article_count": 3,
+          "source_article": "세무사회 “부정행위자 합격 무효 요구…기준 미달시 수습 교육 중지”",
+          "source_url": "https://n.news.naver.com/article/005/0001885166?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
+          "related_names": [
+            "부정행"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"차석\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 차석",
+          "article_count": 3,
+          "source_article": "‘세무사 진짜 수석’은 이 사람…부정행위 자수 뒤 차석 재조명",
+          "source_url": "https://n.news.naver.com/article/005/0001885184?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
+          "related_names": [
+            "차석"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"자수\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 자수",
+          "article_count": 3,
+          "source_article": "‘세무사 진짜 수석’은 이 사람…부정행위 자수 뒤 차석 재조명",
+          "source_url": "https://n.news.naver.com/article/005/0001885184?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
+          "related_names": [
+            "자수"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
@@ -508,47 +688,35 @@
       ],
       "keyword_freq": [
         [
-          "부정행위",
-          8
+          "고경표",
+          11
         ],
         [
           "음주운전",
           7
         ],
         [
-          "고경표",
-          7
-        ],
-        [
-          "세무사",
-          5
-        ],
-        [
-          "보니",
+          "젠슨",
           4
         ],
         [
-          "깜짝",
+          "세무사",
+          4
+        ],
+        [
+          "추가",
           3
         ],
         [
-          "경찰",
+          "중단",
           3
         ],
         [
-          "포착",
+          "차석",
           3
         ],
         [
-          "시험",
-          3
-        ],
-        [
-          "수석",
-          3
-        ],
-        [
-          "이것",
+          "자수",
           3
         ],
         [
@@ -556,23 +724,11 @@
           2
         ],
         [
-          "후폭풍",
+          "깜짝",
           2
         ],
         [
-          "술빵",
-          2
-        ],
-        [
-          "절도",
-          2
-        ],
-        [
-          "운전",
-          2
-        ],
-        [
-          "재조명",
+          "피소",
           2
         ],
         [
@@ -580,22 +736,42 @@
           2
         ],
         [
-          "배우",
+          "빠지고",
           2
         ],
         [
-          "빠지고",
+          "연하",
+          2
+        ],
+        [
+          "만취",
+          2
+        ],
+        [
+          "직원",
+          2
+        ],
+        [
+          "근황",
+          2
+        ],
+        [
+          "직후",
+          2
+        ],
+        [
+          "포착",
+          2
+        ],
+        [
+          "연희동",
           2
         ]
       ],
       "name_freq": [
         [
           "고경표",
-          8
-        ],
-        [
-          "부정행",
-          8
+          11
         ],
         [
           "음주운",
@@ -606,31 +782,27 @@
           5
         ],
         [
-          "보니",
+          "젠슨",
           4
         ],
         [
-          "깜짝",
+          "추가",
           3
         ],
         [
-          "경찰",
+          "중단",
           3
         ],
         [
-          "포착",
+          "부정행",
           3
         ],
         [
-          "시험",
+          "차석",
           3
         ],
         [
-          "수석",
-          3
-        ],
-        [
-          "이것",
+          "자수",
           3
         ],
         [
@@ -638,15 +810,23 @@
           2
         ],
         [
-          "후폭풍",
+          "깜짝",
           2
         ],
         [
-          "술빵",
+          "피소",
           2
         ],
         [
-          "절도",
+          "맞아",
+          2
+        ],
+        [
+          "빠지고",
+          2
+        ],
+        [
+          "연하",
           2
         ]
       ],
@@ -657,7 +837,7 @@
         ],
         [
           "논란·사건",
-          8
+          9
         ],
         [
           "결혼·이혼",
@@ -665,44 +845,266 @@
         ],
         [
           "복귀·근황",
-          2
-        ],
-        [
-          "투병·건강",
           3
         ],
         [
           "가족·혈연",
-          5
+          3
         ]
       ]
     },
     "초구딱": {
-      "article_count": 0,
-      "topics": [],
-      "keyword_freq": [],
-      "name_freq": [],
+      "article_count": 30,
+      "topics": [
+        {
+          "title": "\"김유신\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 김유신",
+          "article_count": 4,
+          "source_article": "김유신은 포스가 연개소문보다 덜하네요",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139791&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "김유신"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"안내\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안내",
+          "article_count": 3,
+          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "안내"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"연개소\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 연개소",
+          "article_count": 3,
+          "source_article": "김유신은 포스가 연개소문보다 덜하네요",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139791&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "연개소"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"세무냥\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 세무냥",
+          "article_count": 3,
+          "source_article": "세무냥이님 앞으로 가질 직업은 높은질 직장 힘들까요?",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139746&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "세무냥"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        }
+      ],
+      "keyword_freq": [
+        [
+          "안내",
+          3
+        ],
+        [
+          "김유신",
+          3
+        ],
+        [
+          "조치",
+          2
+        ],
+        [
+          "연개소문",
+          2
+        ],
+        [
+          "문무",
+          2
+        ],
+        [
+          "너무",
+          2
+        ],
+        [
+          "최원호",
+          2
+        ],
+        [
+          "위반",
+          1
+        ],
+        [
+          "처리",
+          1
+        ],
+        [
+          "말머리",
+          1
+        ],
+        [
+          "시행",
+          1
+        ],
+        [
+          "사항",
+          1
+        ],
+        [
+          "향후",
+          1
+        ],
+        [
+          "필독",
+          1
+        ],
+        [
+          "가이드",
+          1
+        ],
+        [
+          "뉴스저작물",
+          1
+        ],
+        [
+          "유의사항",
+          1
+        ],
+        [
+          "인용",
+          1
+        ],
+        [
+          "접속",
+          1
+        ],
+        [
+          "해외",
+          1
+        ]
+      ],
+      "name_freq": [
+        [
+          "김유신",
+          4
+        ],
+        [
+          "안내",
+          3
+        ],
+        [
+          "연개소",
+          3
+        ],
+        [
+          "세무냥",
+          3
+        ],
+        [
+          "조치",
+          2
+        ],
+        [
+          "문무",
+          2
+        ],
+        [
+          "너무",
+          2
+        ],
+        [
+          "최원호",
+          2
+        ]
+      ],
       "angle_scores": []
     }
   },
-  "topics": [],
-  "all_topics": [
+  "topics": [
     {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 5,
-      "source_article": "'40세' 박슬기, 셋째 임신 깜짝 발표…\"우리 가족 마지막 조각 환영해\"",
-      "source_url": "https://m.entertain.naver.com/article/076/0004466761",
-      "source_name": "엔터 많이 본 뉴스",
+      "title": "\"김유신\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 김유신",
+      "article_count": 4,
+      "source_article": "김유신은 포스가 연개소문보다 덜하네요",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139791&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
       "related_names": [
-        "박슬기",
-        "셋째",
-        "임신",
-        "깜짝",
-        "우리"
+        "김유신"
       ],
-      "template": "동갑내기",
-      "score": 7.1,
+      "template": "인맥",
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -713,26 +1115,115 @@
       "table": {
         "headers": [
           "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
-      "channel": "정보주는하마"
+      "channel": "초구딱"
     },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"연개소\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 연개소",
+      "article_count": 3,
+      "source_article": "김유신은 포스가 연개소문보다 덜하네요",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139791&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "연개소"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"세무냥\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 세무냥",
+      "article_count": 3,
+      "source_article": "세무냥이님 앞으로 가질 직업은 높은질 직장 힘들까요?",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139746&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "세무냥"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    }
+  ],
+  "all_topics": [
     {
       "title": "\"고경표까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
       "angle_type": "논란·사건",
-      "article_count": 8,
+      "article_count": 9,
       "source_article": "\"술빵 5개 먹었어요…\" 고경표, 음주운전 사고 후폭풍",
       "source_url": "https://m.entertain.naver.com/article/117/0004125081",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "고경표",
         "음주운",
-        "경찰",
-        "술빵",
-        "후폭풍"
+        "직후",
+        "추가",
+        "사과"
       ],
       "template": "논란 집합",
       "score": 7.0,
@@ -783,17 +1274,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"보니 자산이 얼마?\" 보니급 자산가 스타 TOP10",
-      "angle_type": "👤 보니",
-      "article_count": 4,
-      "source_article": "‘닥터X’ 시청자 눈물 쏙 뺀 바라카·니마, 알고 보니 친남매… 반전 일상 화제",
-      "source_url": "https://m.entertain.naver.com/article/144/0001149801",
+      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 3,
+      "source_article": "'40세' 박슬기, 셋째 임신 깜짝 발표…\"우리 가족 마지막 조각 환영해\"",
+      "source_url": "https://m.entertain.naver.com/article/076/0004466761",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "보니"
+        "박슬기",
+        "셋째",
+        "임신",
+        "깜짝",
+        "우리"
       ],
-      "template": "자산 서열",
-      "score": 6.8,
+      "template": "동갑내기",
+      "score": 6.6,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -804,9 +1299,9 @@
       "table": {
         "headers": [
           "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
+          "나이",
+          "대표작",
+          "현재 활동"
         ]
       },
       "channel": "정보주는하마"
@@ -845,40 +1340,11 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"부정행\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 부정행",
-      "article_count": 8,
-      "source_article": "한국산업인력공단 \"AI 부정행위 고소...합격 취소 조치할 것\"",
-      "source_url": "https://n.news.naver.com/article/052/0002433071?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
-      "related_names": [
-        "부정행"
-      ],
-      "template": "인맥",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"세무사\" 관련 화제 스타 TOP10",
       "angle_type": "👤 세무사",
       "article_count": 5,
-      "source_article": "'세무사 시험 AI 부정행위' 자수...\"공인회계사 1차 시험도\"",
-      "source_url": "https://n.news.naver.com/article/052/0002433044?ntype=RANKING",
+      "source_article": "세무사회 “부정행위자 합격 무효 요구…기준 미달시 수습 교육 중지”",
+      "source_url": "https://n.news.naver.com/article/005/0001885166?ntype=RANKING",
       "source_name": "[폴백] 스포츠 랭킹",
       "related_names": [
         "세무사"
@@ -903,43 +1369,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"깜짝 자산이 얼마?\" 깜짝급 자산가 스타 TOP10",
-      "angle_type": "👤 깜짝",
-      "article_count": 3,
-      "source_article": "박태환 맞아? 확 달라진 얼굴에 깜짝…살 쏙 빠지고 배우 비주얼",
-      "source_url": "https://m.entertain.naver.com/article/109/0005640729",
-      "source_name": "엔터 많이 본 뉴스",
+      "title": "\"젠슨, 대체 무슨 일이?\" 젠슨 관련 이슈 총정리",
+      "angle_type": "👤 젠슨",
+      "article_count": 4,
+      "source_article": "“젠슨 황 겸손은 연출, 반대하면 1시간 폭언” 전기 작가의 폭로",
+      "source_url": "https://n.news.naver.com/article/025/0003565288?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
       "related_names": [
-        "깜짝"
-      ],
-      "template": "자산 서열",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"경찰, 대체 무슨 일이?\" 경찰 관련 이슈 총정리",
-      "angle_type": "👤 경찰",
-      "article_count": 3,
-      "source_article": "고경표, 경찰 다가오자 외투 속에 '쏙'…음주운전 직후 수상한 CCTV 포착",
-      "source_url": "https://m.entertain.naver.com/article/076/0004466672",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "경찰"
+        "젠슨"
       ],
       "template": "논란 집합",
       "score": 6.5,
@@ -961,17 +1398,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"포착, 대체 무슨 일이?\" 포착 관련 이슈 총정리",
-      "angle_type": "👤 포착",
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
       "article_count": 3,
-      "source_article": "고경표, 경찰 다가오자 외투 속에 '쏙'…음주운전 직후 수상한 CCTV 포착",
-      "source_url": "https://m.entertain.naver.com/article/076/0004466672",
+      "source_article": "다니엘 헤니, 13살 연하 일본계 아내 볼에 '쪽'…포토 부스 초토화시킨 달달 근황",
+      "source_url": "https://m.entertain.naver.com/article/117/0004125131",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "포착"
+        "근황",
+        "다니엘",
+        "헤니",
+        "연하",
+        "일본계"
       ],
-      "template": "논란 집합",
-      "score": 6.5,
+      "template": "장기 공백 복귀",
+      "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -982,9 +1423,9 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "정보주는하마"
@@ -1023,20 +1464,16 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-      "angle_type": "투병·건강",
+      "title": "\"추가, 대체 무슨 일이?\" 추가 관련 이슈 총정리",
+      "angle_type": "👤 추가",
       "article_count": 3,
-      "source_article": "46세 배윤정, 안면+목 거상 수술 받았다‥투턱·목주름 실종에 “진작 할 걸”",
-      "source_url": "https://m.entertain.naver.com/article/609/0001187492",
+      "source_article": "\"옷장에 가두고 임산부 혹사해 유산까지\"…티모시 여친 카일리 제너, 추가 피소 위기",
+      "source_url": "https://m.entertain.naver.com/article/117/0004125138",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "사망",
-        "배윤정",
-        "안면",
-        "거상",
-        "수술"
+        "추가"
       ],
-      "template": "투병 극복",
+      "template": "논란 집합",
       "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
@@ -1048,116 +1485,25 @@
       "table": {
         "headers": [
           "이름",
-          "투병 질환",
-          "공백기",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"시험\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 시험",
-      "article_count": 3,
-      "source_article": "'세무사 시험 AI 부정행위' 자수...\"공인회계사 1차 시험도\"",
-      "source_url": "https://n.news.naver.com/article/052/0002433044?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
-      "related_names": [
-        "시험"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
+          "소속·직업",
+          "논란 내용",
           "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"수석\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 수석",
+      "title": "\"중단\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 중단",
       "article_count": 3,
-      "source_article": "'AI 부정행위 자백' 세무사 시험 수석, 합격 취소 수순… 정부 \"효력 정지 논의\"",
-      "source_url": "https://n.news.naver.com/article/469/0000965621?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
-      "related_names": [
-        "수석"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이것\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 이것",
-      "article_count": 3,
-      "source_article": "18년간 매일 12시간씩 식당 일한 女 사망…법원 의심한 이것",
-      "source_url": "https://n.news.naver.com/article/025/0003565199?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
-      "related_names": [
-        "이것"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 2,
-      "source_article": "‘성형 고백’ 광희, 얼굴이 또 달라졌다?…몰라보게 변한 근황 포착",
-      "source_url": "https://m.entertain.naver.com/article/410/0001147293",
+      "source_article": "스윙스, ‘놀토’ 녹화 중단 전말…“사람 불러놓고 조롱하나”",
+      "source_url": "https://m.entertain.naver.com/article/382/0001304867",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "성형",
-        "고백",
-        "광희",
-        "얼굴이",
-        "달라졌"
+        "중단"
       ],
-      "template": "장기 공백 복귀",
-      "score": 5.8,
+      "template": "인맥",
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1168,57 +1514,248 @@
       "table": {
         "headers": [
           "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
+    },
+    {
+      "title": "\"부정행\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 부정행",
+      "article_count": 3,
+      "source_article": "세무사회 “부정행위자 합격 무효 요구…기준 미달시 수습 교육 중지”",
+      "source_url": "https://n.news.naver.com/article/005/0001885166?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
+      "related_names": [
+        "부정행"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"차석\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 차석",
+      "article_count": 3,
+      "source_article": "‘세무사 진짜 수석’은 이 사람…부정행위 자수 뒤 차석 재조명",
+      "source_url": "https://n.news.naver.com/article/005/0001885184?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
+      "related_names": [
+        "차석"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"자수\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 자수",
+      "article_count": 3,
+      "source_article": "‘세무사 진짜 수석’은 이 사람…부정행위 자수 뒤 차석 재조명",
+      "source_url": "https://n.news.naver.com/article/005/0001885184?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
+      "related_names": [
+        "자수"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"김유신\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 김유신",
+      "article_count": 4,
+      "source_article": "김유신은 포스가 연개소문보다 덜하네요",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139791&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "김유신"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"연개소\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 연개소",
+      "article_count": 3,
+      "source_article": "김유신은 포스가 연개소문보다 덜하네요",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139791&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "연개소"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"세무냥\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 세무냥",
+      "article_count": 3,
+      "source_article": "세무냥이님 앞으로 가질 직업은 높은질 직장 힘들까요?",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611150120139746&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "세무냥"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
     [
-      "부정행위",
-      8
+      "고경표",
+      11
     ],
     [
       "음주운전",
       7
     ],
     [
-      "고경표",
-      7
-    ],
-    [
-      "세무사",
-      5
-    ],
-    [
-      "보니",
+      "젠슨",
       4
     ],
     [
-      "깜짝",
+      "세무사",
+      4
+    ],
+    [
+      "추가",
       3
     ],
     [
-      "경찰",
+      "중단",
       3
     ],
     [
-      "포착",
+      "차석",
       3
     ],
     [
-      "시험",
-      3
-    ],
-    [
-      "수석",
-      3
-    ],
-    [
-      "이것",
+      "자수",
       3
     ],
     [
@@ -1226,23 +1763,11 @@
       2
     ],
     [
-      "후폭풍",
+      "깜짝",
       2
     ],
     [
-      "술빵",
-      2
-    ],
-    [
-      "절도",
-      2
-    ],
-    [
-      "운전",
-      2
-    ],
-    [
-      "재조명",
+      "피소",
       2
     ],
     [
@@ -1250,22 +1775,42 @@
       2
     ],
     [
-      "배우",
+      "빠지고",
       2
     ],
     [
-      "빠지고",
+      "연하",
+      2
+    ],
+    [
+      "만취",
+      2
+    ],
+    [
+      "직원",
+      2
+    ],
+    [
+      "근황",
+      2
+    ],
+    [
+      "직후",
+      2
+    ],
+    [
+      "포착",
+      2
+    ],
+    [
+      "연희동",
       2
     ]
   ],
   "name_freq": [
     [
       "고경표",
-      8
-    ],
-    [
-      "부정행",
-      8
+      11
     ],
     [
       "음주운",
@@ -1276,31 +1821,27 @@
       5
     ],
     [
-      "보니",
+      "젠슨",
       4
     ],
     [
-      "깜짝",
+      "추가",
       3
     ],
     [
-      "경찰",
+      "중단",
       3
     ],
     [
-      "포착",
+      "부정행",
       3
     ],
     [
-      "시험",
+      "차석",
       3
     ],
     [
-      "수석",
-      3
-    ],
-    [
-      "이것",
+      "자수",
       3
     ],
     [
@@ -1308,19 +1849,27 @@
       2
     ],
     [
-      "후폭풍",
+      "깜짝",
       2
     ],
     [
-      "술빵",
+      "피소",
       2
     ],
     [
-      "절도",
+      "맞아",
+      2
+    ],
+    [
+      "빠지고",
+      2
+    ],
+    [
+      "연하",
       2
     ]
   ],
-  "total_topics_generated": 16,
-  "valid_topics": 16,
+  "total_topics_generated": 17,
+  "valid_topics": 17,
   "excluded_duplicates": 0
 }
