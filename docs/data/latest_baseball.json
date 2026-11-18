@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-11-18 02:42:03",
+  "scan_time": "2026-11-18 08:13:48",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -9,10 +9,281 @@
     "[폴백] 스포츠 랭킹": 30,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 0
+    "MLB파크 불펜": 30
   },
-  "total_articles": 60,
-  "articles": [],
+  "total_articles": 90,
+  "articles": [
+    {
+      "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 1,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 2,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🛠️[업데이트] 해외 접속 장애 조치 관련 안내_260814🛠️",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202608130000002151",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 3,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[공지] 이미지 업로드 시 불법촬영물등 비교·식별 조치 적용 안내",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202609040000002163",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 4,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[리센느] 핫걸",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191145&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 5,
+      "channel": "초구딱"
+    },
+    {
+      "title": "호날두가 이세상에서 제일 유명한 인간인거 같은데 어떻게 생각하세요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191142&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 6,
+      "channel": "초구딱"
+    },
+    {
+      "title": "리트냥이 닮지 않았나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191139&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 14,
+      "rank": 7,
+      "channel": "초구딱"
+    },
+    {
+      "title": "불펜 이야기소재 빅5가요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191136&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 11,
+      "rank": 8,
+      "channel": "초구딱"
+    },
+    {
+      "title": "세무냥이 리트냥이 그냥 모른척 뭉개면 방법이 없지 않나요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191133&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 21,
+      "rank": 9,
+      "channel": "초구딱"
+    },
+    {
+      "title": "커플티 입었습니다.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191124&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 77,
+      "rank": 10,
+      "channel": "초구딱"
+    },
+    {
+      "title": "지금 아이돌들 중국에서 돈 쓸어 담겠네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191118&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 38,
+      "rank": 11,
+      "channel": "초구딱"
+    },
+    {
+      "title": "도공 세터 많은데 하효림 트레이드 제안 안 오나",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191115&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 14,
+      "rank": 12,
+      "channel": "초구딱"
+    },
+    {
+      "title": "장신 F컵 미니로운생활",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191112&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 169,
+      "rank": 13,
+      "channel": "초구딱"
+    },
+    {
+      "title": "근데 이하늘이 11월에 doc 컴백한다고 하지 않았나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191106&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 26,
+      "rank": 14,
+      "channel": "초구딱"
+    },
+    {
+      "title": "근 30년전인데 촌스러움이 1도 없는 그녀",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191103&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 160,
+      "rank": 15,
+      "channel": "초구딱"
+    },
+    {
+      "title": "한중 fta되면 중국차 더 싸지나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191100&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 53,
+      "rank": 16,
+      "channel": "초구딱"
+    },
+    {
+      "title": "2026년 한국 1순위 였던 드라마는 어떤거 생각나시나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191097&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 33,
+      "rank": 17,
+      "channel": "초구딱"
+    },
+    {
+      "title": "k리그는 프로리그와 시민리그 따로 구별하면 안되나요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191094&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 24,
+      "rank": 18,
+      "channel": "초구딱"
+    },
+    {
+      "title": "7등급이면 상위 77%~89%네요 ㄷㄷ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191091&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 57,
+      "rank": 19,
+      "channel": "초구딱"
+    },
+    {
+      "title": "고신대 의대 수능으로 뚫기vs서울대 로스쿨 합격후 리트 합격",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191088&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 68,
+      "rank": 20,
+      "channel": "초구딱"
+    },
+    {
+      "title": "한한령 해제 엔터 주가..",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191076&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 245,
+      "rank": 21,
+      "channel": "초구딱"
+    },
+    {
+      "title": "트리플에스) 넌 빵이나 먹어ㅠ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191070&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 51,
+      "rank": 22,
+      "channel": "초구딱"
+    },
+    {
+      "title": "직장인도 돈모으는 재미로 살슈있나요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191067&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 64,
+      "rank": 23,
+      "channel": "초구딱"
+    },
+    {
+      "title": "소화전 불법 주정차 이것도 수용뜨더라고요.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191064&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 155,
+      "rank": 24,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[속보] 법원, '수능 연기해달라' 수험생 집행정지 기각",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191061&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 384,
+      "rank": 25,
+      "channel": "초구딱"
+    },
+    {
+      "title": "초소형카메라 판사람들은 신고 준비해라",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191058&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 125,
+      "rank": 26,
+      "channel": "초구딱"
+    },
+    {
+      "title": "타노스 재평가중인 장면 ㄷㄷㄷ.gif",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191055&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 253,
+      "rank": 27,
+      "channel": "초구딱"
+    },
+    {
+      "title": "A컵 여친 앞에서 부른 3곡. mp4",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191052&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 300,
+      "rank": 28,
+      "channel": "초구딱"
+    },
+    {
+      "title": "파주 fc 임금 체불",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191049&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 152,
+      "rank": 29,
+      "channel": "초구딱"
+    },
+    {
+      "title": "충격적인 아이돌 경호원 과잉대응 논란 영상",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191046&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 142,
+      "rank": 30,
+      "channel": "초구딱"
+    }
+  ],
   "channels": {
     "정보주는하마": {
       "article_count": 60,
@@ -20,19 +291,19 @@
         {
           "title": "\"고경표까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
           "angle_type": "논란·사건",
-          "article_count": 5,
-          "source_article": "“차는 안 가져왔고요” 고경표 ‘음주운전’ 영향? 논란 셀프 차단한 여배우",
-          "source_url": "https://m.entertain.naver.com/article/112/0003813579",
+          "article_count": 7,
+          "source_article": "\"라미란만 불쌍\" 유아인 때문에 3년 기다렸는데…고경표 음주운전에 또 '불똥'",
+          "source_url": "https://m.entertain.naver.com/article/311/0002081438",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "고경표",
             "음주운",
-            "차는",
-            "가져왔",
-            "고요"
+            "전에",
+            "차예련",
+            "학폭"
           ],
           "template": "논란 집합",
-          "score": 7.5,
+          "score": 7.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -51,84 +322,18 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"만원, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 8,
-          "source_article": "제주땅 5000만원→82만원, 포르쉐는 곰팡이…임예진의 씁쓸한 ‘자산 성적표’",
-          "source_url": "https://m.entertain.naver.com/article/468/0001281674",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "만원",
-            "자산",
-            "로또",
-            "아파트",
-            "제주땅"
-          ],
-          "template": "자산 서열",
-          "score": 7.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 4,
-          "source_article": "박세미, 결혼 후 악플 토로 \"아줌마와 아들이 산다고\"…♥남편 '황당' (안녕하세미)",
-          "source_url": "https://m.entertain.naver.com/article/440/0000053091",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "박세미",
-            "결혼",
-            "악플",
-            "토로",
-            "아줌마"
-          ],
-          "template": "동갑내기",
-          "score": 6.9,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
           "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
           "angle_type": "결혼·이혼",
-          "article_count": 7,
+          "article_count": 13,
           "source_article": "'48세' 고수, 세월 직격탄 맞았다…결혼 15년차 삼남매 父라더니, 매니저도 없이 출근 ('틈만나면')",
           "source_url": "https://m.entertain.naver.com/article/312/0000784898",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "결혼",
-            "이호선",
-            "고수",
-            "세월",
-            "직격탄"
+            "남편",
+            "이혼",
+            "오상욱",
+            "열애설"
           ],
           "template": "결혼 화제",
           "score": 6.8,
@@ -150,48 +355,114 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"수능\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 수능",
-          "article_count": 9,
-          "source_article": "김혜윤, 대학 떨어져 거실서 오열…母 “그럼 수능 봐야겠네”",
-          "source_url": "https://m.entertain.naver.com/article/382/0001305345",
+          "title": "\"남편이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+          "angle_type": "가족·혈연",
+          "article_count": 5,
+          "source_article": "‘딸둘맘’ 윤진이, 과거 즐겨 입던 명품 코트에 한숨…“이걸 입고 어딜 가”",
+          "source_url": "https://m.entertain.naver.com/article/382/0001305354",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "수능"
+            "남편",
+            "이혼",
+            "딸둘맘",
+            "윤진이",
+            "즐겨"
           ],
-          "template": "인맥",
+          "template": "동갑내기",
+          "score": 6.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "나이",
+              "대표작",
+              "현재 활동"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"이혼 결혼설?\" 이혼 연애사 총정리",
+          "angle_type": "👤 이혼",
+          "article_count": 3,
+          "source_article": "유혜정, 이혼 19년 만에 속내 고백…전 남편·딸 영상에 결국 눈물",
+          "source_url": "https://m.entertain.naver.com/article/213/0001408640",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "이혼"
+          ],
+          "template": "결혼 화제",
+          "score": 6.6,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"엔비디 결혼설?\" 엔비디 연애사 총정리",
+          "angle_type": "👤 엔비디",
+          "article_count": 3,
+          "source_article": "'이혼 2번' 김보연, 딸 둘인 줄 알았는데 돌연 '子 자랑'…\"엔비디아 재직, 용돈은 1년에 1300만 원\"",
+          "source_url": "https://m.entertain.naver.com/article/213/0001408693",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "엔비디"
+          ],
+          "template": "결혼 화제",
+          "score": 6.6,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"매출, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 2,
+          "source_article": "\"매출 40억 넘기면, 10:0\"…이정재, 대주주의 얌체 경영",
+          "source_url": "https://m.entertain.naver.com/article/433/0000132404",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "매출",
+            "넘기면",
+            "이정재",
+            "대주주",
+            "얌체"
+          ],
+          "template": "자산 서열",
           "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
-            "status": "재활용 가능",
-            "matched_title": "수능 0.1% 찍고 돌연 데뷔? 전교 1등 출신 스타 TOP 10 #연예인 #연예계소식",
-            "matched_views": 66304,
-            "reason": "기간 경과 309일"
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"시험\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 시험",
-          "article_count": 4,
-          "source_article": "시험 전 옷 싹 벗겼다…잔디밭서 속옷만 입고 시험 본 이 나라",
-          "source_url": "https://n.news.naver.com/article/025/0003565985?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
-          "related_names": [
-            "시험"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
             "status": "통과",
             "matched_title": "",
             "matched_views": 0,
@@ -200,25 +471,25 @@
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
+              "주요 수입원",
+              "추정 자산",
+              "자산 특이점"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"흑색\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 흑색",
+          "title": "\"음주운, 대체 무슨 일이?\" 음주운 관련 이슈 총정리",
+          "angle_type": "👤 음주운",
           "article_count": 3,
-          "source_article": "시험장엔 흑색 연필만 반입, 지우개도 안된다…수능 전날 규정 변경",
-          "source_url": "https://n.news.naver.com/article/025/0003566063?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
+          "source_article": "\"라미란만 불쌍\" 유아인 때문에 3년 기다렸는데…고경표 음주운전에 또 '불똥'",
+          "source_url": "https://m.entertain.naver.com/article/311/0002081438",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "흑색"
+            "음주운"
           ],
-          "template": "인맥",
-          "score": 6.0,
+          "template": "논란 집합",
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -229,25 +500,25 @@
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
+              "소속·직업",
+              "논란 내용",
               "현재 상황"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"변경\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 변경",
+          "title": "\"의혹, 대체 무슨 일이?\" 의혹 관련 이슈 총정리",
+          "angle_type": "👤 의혹",
           "article_count": 3,
-          "source_article": "시험장엔 흑색 연필만 반입, 지우개도 안된다…수능 전날 규정 변경",
-          "source_url": "https://n.news.naver.com/article/025/0003566063?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
+          "source_article": "차예련, '학폭 의혹' 논란ing…명품관 직원 \"성격 장난 아냐\" 주장",
+          "source_url": "https://m.entertain.naver.com/article/440/0000053188",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "변경"
+            "의혹"
           ],
-          "template": "인맥",
-          "score": 6.0,
+          "template": "논란 집합",
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -258,24 +529,173 @@
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
+              "소속·직업",
+              "논란 내용",
               "현재 상황"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"리트, 대체 무슨 일이?\" 리트 관련 이슈 총정리",
+          "title": "\"직원, 대체 무슨 일이?\" 직원 관련 이슈 총정리",
+          "angle_type": "👤 직원",
+          "article_count": 3,
+          "source_article": "차예련, '학폭 의혹' 논란ing…명품관 직원 \"성격 장난 아냐\" 주장",
+          "source_url": "https://m.entertain.naver.com/article/440/0000053188",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "직원"
+          ],
+          "template": "논란 집합",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 3,
+          "source_article": "'6살 연상♥' 이진, 뉴욕댁 생활 접고 韓서 환한 미소..핑클 컴백 '열일 중'",
+          "source_url": "https://m.entertain.naver.com/article/108/0003488174",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "연상",
+            "이진",
+            "뉴욕댁",
+            "접고",
+            "환한"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"하루카 결혼설?\" 하루카 연애사 총정리",
+          "angle_type": "👤 하루카",
+          "article_count": 3,
+          "source_article": "\"일본 데이트\" 오상욱♥하루카, 이쯤 되면 럽스타?..'엄마·아빠' 호칭까지",
+          "source_url": "https://m.entertain.naver.com/article/076/0004467517",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "하루카"
+          ],
+          "template": "결혼 화제",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"오상욱 결혼설?\" 오상욱 연애사 총정리",
+          "angle_type": "👤 오상욱",
+          "article_count": 3,
+          "source_article": "\"일본 데이트\" 오상욱♥하루카, 이쯤 되면 럽스타?..'엄마·아빠' 호칭까지",
+          "source_url": "https://m.entertain.naver.com/article/076/0004467517",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "오상욱"
+          ],
+          "template": "결혼 화제",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"데이트 결혼설?\" 데이트 연애사 총정리",
+          "angle_type": "👤 데이트",
+          "article_count": 3,
+          "source_article": "\"일본 데이트\" 오상욱♥하루카, 이쯤 되면 럽스타?..'엄마·아빠' 호칭까지",
+          "source_url": "https://m.entertain.naver.com/article/076/0004467517",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "데이트"
+          ],
+          "template": "결혼 화제",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"리트\" 관련 화제 스타 TOP10",
           "angle_type": "👤 리트",
-          "article_count": 3,
-          "source_article": "리트 만점자, 밀려 쓴 정답에 \"확률 희박은 인정…AI 안 썼다\"",
-          "source_url": "https://n.news.naver.com/article/018/0006411502?ntype=RANKING",
+          "article_count": 4,
+          "source_article": "'리트 만점' 이진우 영입한 입시업체, 1주만에 계약 해지",
+          "source_url": "https://n.news.naver.com/article/018/0006411790?ntype=RANKING",
           "source_name": "[폴백] 스포츠 랭킹",
           "related_names": [
             "리트"
           ],
-          "template": "논란 집합",
+          "template": "인맥",
           "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
@@ -287,51 +707,51 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
+              "분류",
+              "이슈 내용",
               "현재 상황"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"만점자, 대체 무슨 일이?\" 만점자 관련 이슈 총정리",
+          "title": "\"추경호\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 추경호",
+          "article_count": 3,
+          "source_article": "'윤석열 전화'부터 배척된 특검 논리…추경호 무죄, 왜?",
+          "source_url": "https://n.news.naver.com/article/079/0004211219?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
+          "related_names": [
+            "추경호"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"만점자\" 관련 화제 스타 TOP10",
           "angle_type": "👤 만점자",
           "article_count": 3,
-          "source_article": "리트 만점자, 밀려 쓴 정답에 \"확률 희박은 인정…AI 안 썼다\"",
-          "source_url": "https://n.news.naver.com/article/018/0006411502?ntype=RANKING",
+          "source_article": "원어민도 뉴텝스 힘든데... 리트 만점자, 600점 만점에 565점",
+          "source_url": "https://n.news.naver.com/article/023/0004010315?ntype=RANKING",
           "source_name": "[폴백] 스포츠 랭킹",
           "related_names": [
             "만점자"
-          ],
-          "template": "논란 집합",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"재난문\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 재난문",
-          "article_count": 3,
-          "source_article": "“이 대통령, 사시 어떻게 합격했나”…장동혁, 수능 중 재난문자 지시한 李 직격",
-          "source_url": "https://n.news.naver.com/article/009/0005765323?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
-          "related_names": [
-            "재난문"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -356,15 +776,15 @@
           "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
           "angle_type": "스포츠",
           "article_count": 2,
-          "source_article": "'임주리 아들' 재하, 안타까운 소식 전했다…건강 상태 언급 \"노후 연금 되려 했는데\" ('아침마당')",
-          "source_url": "https://m.entertain.naver.com/article/312/0000784833",
-          "source_name": "엔터 많이 본 뉴스",
+          "source_article": "‘브레인코치’ 리트 만점자 결국 계약 해지…시대인재 “의혹 검증 우선”",
+          "source_url": "https://n.news.naver.com/article/005/0001885913?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
           "related_names": [
-            "임주리",
-            "아들",
-            "재하",
-            "안타까",
-            "소식"
+            "브레인",
+            "코치",
+            "리트",
+            "만점자",
+            "계약"
           ],
           "template": "스포츠 기록",
           "score": 5.8,
@@ -388,27 +808,47 @@
       ],
       "keyword_freq": [
         [
-          "수능",
-          9
-        ],
-        [
-          "시험",
+          "결혼",
           4
         ],
         [
           "고경표",
-          3
-        ],
-        [
-          "흑색",
-          3
-        ],
-        [
-          "변경",
-          3
+          4
         ],
         [
           "리트",
+          4
+        ],
+        [
+          "하루카",
+          3
+        ],
+        [
+          "오상욱",
+          3
+        ],
+        [
+          "데이트",
+          3
+        ],
+        [
+          "의혹",
+          3
+        ],
+        [
+          "직원",
+          3
+        ],
+        [
+          "남편",
+          3
+        ],
+        [
+          "이혼",
+          3
+        ],
+        [
+          "엔비디아",
           3
         ],
         [
@@ -416,23 +856,7 @@
           3
         ],
         [
-          "틈만나면",
-          2
-        ],
-        [
-          "결혼",
-          2
-        ],
-        [
-          "라더니",
-          2
-        ],
-        [
-          "뉴욕댁",
-          2
-        ],
-        [
-          "이진",
+          "호칭까지",
           2
         ],
         [
@@ -440,57 +864,81 @@
           2
         ],
         [
-          "자산",
+          "일본",
           2
         ],
         [
-          "남편",
+          "엄마",
           2
         ],
         [
-          "노후",
+          "음주운전에",
           2
         ],
         [
-          "직접",
+          "명품관",
           2
         ],
         [
-          "연필만",
+          "차예련",
           2
         ],
         [
-          "반입",
-          2
-        ],
-        [
-          "규정",
+          "학폭",
           2
         ]
       ],
       "name_freq": [
         [
-          "수능",
-          9
-        ],
-        [
-          "시험",
+          "결혼",
           4
         ],
         [
           "고경표",
-          3
-        ],
-        [
-          "흑색",
-          3
-        ],
-        [
-          "변경",
-          3
+          4
         ],
         [
           "리트",
+          4
+        ],
+        [
+          "하루카",
+          3
+        ],
+        [
+          "오상욱",
+          3
+        ],
+        [
+          "데이트",
+          3
+        ],
+        [
+          "음주운",
+          3
+        ],
+        [
+          "의혹",
+          3
+        ],
+        [
+          "직원",
+          3
+        ],
+        [
+          "남편",
+          3
+        ],
+        [
+          "이혼",
+          3
+        ],
+        [
+          "엔비디",
+          3
+        ],
+        [
+          "추경호",
           3
         ],
         [
@@ -498,50 +946,26 @@
           3
         ],
         [
-          "재난문",
-          3
-        ],
-        [
-          "결혼",
-          2
-        ],
-        [
-          "틈만나",
-          2
-        ],
-        [
-          "라더니",
-          2
-        ],
-        [
-          "뉴욕댁",
-          2
-        ],
-        [
-          "이진",
-          2
-        ],
-        [
           "아빠",
-          2
-        ],
-        [
-          "자산",
           2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
-          8
+          2
         ],
         [
           "논란·사건",
-          5
+          7
         ],
         [
           "결혼·이혼",
-          7
+          13
+        ],
+        [
+          "복귀·근황",
+          3
         ],
         [
           "스포츠",
@@ -549,36 +973,269 @@
         ],
         [
           "가족·혈연",
-          4
+          5
         ]
       ]
     },
     "초구딱": {
-      "article_count": 0,
-      "topics": [],
-      "keyword_freq": [],
-      "name_freq": [],
-      "angle_scores": []
+      "article_count": 30,
+      "topics": [
+        {
+          "title": "\"안내\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안내",
+          "article_count": 3,
+          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "안내"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 2,
+          "source_article": "충격적인 아이돌 경호원 과잉대응 논란 영상",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191046&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "불펜",
+            "이야기",
+            "소재",
+            "충격적",
+            "아이돌"
+          ],
+          "template": "논란 집합",
+          "score": 5.9,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        }
+      ],
+      "keyword_freq": [
+        [
+          "안내",
+          3
+        ],
+        [
+          "조치",
+          2
+        ],
+        [
+          "리트냥이",
+          2
+        ],
+        [
+          "않았나요",
+          2
+        ],
+        [
+          "사항",
+          1
+        ],
+        [
+          "처리",
+          1
+        ],
+        [
+          "위반",
+          1
+        ],
+        [
+          "말머리",
+          1
+        ],
+        [
+          "향후",
+          1
+        ],
+        [
+          "시행",
+          1
+        ],
+        [
+          "필독",
+          1
+        ],
+        [
+          "뉴스저작물",
+          1
+        ],
+        [
+          "유의사항",
+          1
+        ],
+        [
+          "가이드",
+          1
+        ],
+        [
+          "인용",
+          1
+        ],
+        [
+          "장애",
+          1
+        ],
+        [
+          "업데이트",
+          1
+        ],
+        [
+          "해외",
+          1
+        ],
+        [
+          "접속",
+          1
+        ],
+        [
+          "이미지",
+          1
+        ]
+      ],
+      "name_freq": [
+        [
+          "안내",
+          3
+        ],
+        [
+          "조치",
+          2
+        ],
+        [
+          "리트냥",
+          2
+        ],
+        [
+          "않았나",
+          2
+        ],
+        [
+          "아이돌",
+          2
+        ]
+      ],
+      "angle_scores": [
+        [
+          "논란·사건",
+          2
+        ]
+      ]
     }
   },
-  "topics": [],
+  "topics": [
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 2,
+      "source_article": "충격적인 아이돌 경호원 과잉대응 논란 영상",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191046&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "불펜",
+        "이야기",
+        "소재",
+        "충격적",
+        "아이돌"
+      ],
+      "template": "논란 집합",
+      "score": 5.9,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    }
+  ],
   "all_topics": [
     {
       "title": "\"고경표까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
       "angle_type": "논란·사건",
-      "article_count": 5,
-      "source_article": "“차는 안 가져왔고요” 고경표 ‘음주운전’ 영향? 논란 셀프 차단한 여배우",
-      "source_url": "https://m.entertain.naver.com/article/112/0003813579",
+      "article_count": 7,
+      "source_article": "\"라미란만 불쌍\" 유아인 때문에 3년 기다렸는데…고경표 음주운전에 또 '불똥'",
+      "source_url": "https://m.entertain.naver.com/article/311/0002081438",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "고경표",
         "음주운",
-        "차는",
-        "가져왔",
-        "고요"
+        "전에",
+        "차예련",
+        "학폭"
       ],
       "template": "논란 집합",
-      "score": 7.5,
+      "score": 7.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -597,84 +1254,18 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"만원, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 8,
-      "source_article": "제주땅 5000만원→82만원, 포르쉐는 곰팡이…임예진의 씁쓸한 ‘자산 성적표’",
-      "source_url": "https://m.entertain.naver.com/article/468/0001281674",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "만원",
-        "자산",
-        "로또",
-        "아파트",
-        "제주땅"
-      ],
-      "template": "자산 서열",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 4,
-      "source_article": "박세미, 결혼 후 악플 토로 \"아줌마와 아들이 산다고\"…♥남편 '황당' (안녕하세미)",
-      "source_url": "https://m.entertain.naver.com/article/440/0000053091",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "박세미",
-        "결혼",
-        "악플",
-        "토로",
-        "아줌마"
-      ],
-      "template": "동갑내기",
-      "score": 6.9,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
       "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
       "angle_type": "결혼·이혼",
-      "article_count": 7,
+      "article_count": 13,
       "source_article": "'48세' 고수, 세월 직격탄 맞았다…결혼 15년차 삼남매 父라더니, 매니저도 없이 출근 ('틈만나면')",
       "source_url": "https://m.entertain.naver.com/article/312/0000784898",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "결혼",
-        "이호선",
-        "고수",
-        "세월",
-        "직격탄"
+        "남편",
+        "이혼",
+        "오상욱",
+        "열애설"
       ],
       "template": "결혼 화제",
       "score": 6.8,
@@ -696,48 +1287,114 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"수능\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 수능",
-      "article_count": 9,
-      "source_article": "김혜윤, 대학 떨어져 거실서 오열…母 “그럼 수능 봐야겠네”",
-      "source_url": "https://m.entertain.naver.com/article/382/0001305345",
+      "title": "\"남편이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 5,
+      "source_article": "‘딸둘맘’ 윤진이, 과거 즐겨 입던 명품 코트에 한숨…“이걸 입고 어딜 가”",
+      "source_url": "https://m.entertain.naver.com/article/382/0001305354",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "수능"
+        "남편",
+        "이혼",
+        "딸둘맘",
+        "윤진이",
+        "즐겨"
       ],
-      "template": "인맥",
+      "template": "동갑내기",
+      "score": 6.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "나이",
+          "대표작",
+          "현재 활동"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이혼 결혼설?\" 이혼 연애사 총정리",
+      "angle_type": "👤 이혼",
+      "article_count": 3,
+      "source_article": "유혜정, 이혼 19년 만에 속내 고백…전 남편·딸 영상에 결국 눈물",
+      "source_url": "https://m.entertain.naver.com/article/213/0001408640",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "이혼"
+      ],
+      "template": "결혼 화제",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"엔비디 결혼설?\" 엔비디 연애사 총정리",
+      "angle_type": "👤 엔비디",
+      "article_count": 3,
+      "source_article": "'이혼 2번' 김보연, 딸 둘인 줄 알았는데 돌연 '子 자랑'…\"엔비디아 재직, 용돈은 1년에 1300만 원\"",
+      "source_url": "https://m.entertain.naver.com/article/213/0001408693",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "엔비디"
+      ],
+      "template": "결혼 화제",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"매출, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 2,
+      "source_article": "\"매출 40억 넘기면, 10:0\"…이정재, 대주주의 얌체 경영",
+      "source_url": "https://m.entertain.naver.com/article/433/0000132404",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "매출",
+        "넘기면",
+        "이정재",
+        "대주주",
+        "얌체"
+      ],
+      "template": "자산 서열",
       "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
-        "status": "재활용 가능",
-        "matched_title": "수능 0.1% 찍고 돌연 데뷔? 전교 1등 출신 스타 TOP 10 #연예인 #연예계소식",
-        "matched_views": 66304,
-        "reason": "기간 경과 309일"
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"시험\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 시험",
-      "article_count": 4,
-      "source_article": "시험 전 옷 싹 벗겼다…잔디밭서 속옷만 입고 시험 본 이 나라",
-      "source_url": "https://n.news.naver.com/article/025/0003565985?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
-      "related_names": [
-        "시험"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
         "status": "통과",
         "matched_title": "",
         "matched_views": 0,
@@ -746,25 +1403,25 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "주요 수입원",
+          "추정 자산",
+          "자산 특이점"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"흑색\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 흑색",
+      "title": "\"음주운, 대체 무슨 일이?\" 음주운 관련 이슈 총정리",
+      "angle_type": "👤 음주운",
       "article_count": 3,
-      "source_article": "시험장엔 흑색 연필만 반입, 지우개도 안된다…수능 전날 규정 변경",
-      "source_url": "https://n.news.naver.com/article/025/0003566063?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
+      "source_article": "\"라미란만 불쌍\" 유아인 때문에 3년 기다렸는데…고경표 음주운전에 또 '불똥'",
+      "source_url": "https://m.entertain.naver.com/article/311/0002081438",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "흑색"
+        "음주운"
       ],
-      "template": "인맥",
-      "score": 6.0,
+      "template": "논란 집합",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -775,25 +1432,25 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
+          "소속·직업",
+          "논란 내용",
           "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"변경\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 변경",
+      "title": "\"의혹, 대체 무슨 일이?\" 의혹 관련 이슈 총정리",
+      "angle_type": "👤 의혹",
       "article_count": 3,
-      "source_article": "시험장엔 흑색 연필만 반입, 지우개도 안된다…수능 전날 규정 변경",
-      "source_url": "https://n.news.naver.com/article/025/0003566063?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
+      "source_article": "차예련, '학폭 의혹' 논란ing…명품관 직원 \"성격 장난 아냐\" 주장",
+      "source_url": "https://m.entertain.naver.com/article/440/0000053188",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "변경"
+        "의혹"
       ],
-      "template": "인맥",
-      "score": 6.0,
+      "template": "논란 집합",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -804,24 +1461,173 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
+          "소속·직업",
+          "논란 내용",
           "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"리트, 대체 무슨 일이?\" 리트 관련 이슈 총정리",
+      "title": "\"직원, 대체 무슨 일이?\" 직원 관련 이슈 총정리",
+      "angle_type": "👤 직원",
+      "article_count": 3,
+      "source_article": "차예련, '학폭 의혹' 논란ing…명품관 직원 \"성격 장난 아냐\" 주장",
+      "source_url": "https://m.entertain.naver.com/article/440/0000053188",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "직원"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 3,
+      "source_article": "'6살 연상♥' 이진, 뉴욕댁 생활 접고 韓서 환한 미소..핑클 컴백 '열일 중'",
+      "source_url": "https://m.entertain.naver.com/article/108/0003488174",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "연상",
+        "이진",
+        "뉴욕댁",
+        "접고",
+        "환한"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"하루카 결혼설?\" 하루카 연애사 총정리",
+      "angle_type": "👤 하루카",
+      "article_count": 3,
+      "source_article": "\"일본 데이트\" 오상욱♥하루카, 이쯤 되면 럽스타?..'엄마·아빠' 호칭까지",
+      "source_url": "https://m.entertain.naver.com/article/076/0004467517",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "하루카"
+      ],
+      "template": "결혼 화제",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"오상욱 결혼설?\" 오상욱 연애사 총정리",
+      "angle_type": "👤 오상욱",
+      "article_count": 3,
+      "source_article": "\"일본 데이트\" 오상욱♥하루카, 이쯤 되면 럽스타?..'엄마·아빠' 호칭까지",
+      "source_url": "https://m.entertain.naver.com/article/076/0004467517",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "오상욱"
+      ],
+      "template": "결혼 화제",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"데이트 결혼설?\" 데이트 연애사 총정리",
+      "angle_type": "👤 데이트",
+      "article_count": 3,
+      "source_article": "\"일본 데이트\" 오상욱♥하루카, 이쯤 되면 럽스타?..'엄마·아빠' 호칭까지",
+      "source_url": "https://m.entertain.naver.com/article/076/0004467517",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "데이트"
+      ],
+      "template": "결혼 화제",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"리트\" 관련 화제 스타 TOP10",
       "angle_type": "👤 리트",
-      "article_count": 3,
-      "source_article": "리트 만점자, 밀려 쓴 정답에 \"확률 희박은 인정…AI 안 썼다\"",
-      "source_url": "https://n.news.naver.com/article/018/0006411502?ntype=RANKING",
+      "article_count": 4,
+      "source_article": "'리트 만점' 이진우 영입한 입시업체, 1주만에 계약 해지",
+      "source_url": "https://n.news.naver.com/article/018/0006411790?ntype=RANKING",
       "source_name": "[폴백] 스포츠 랭킹",
       "related_names": [
         "리트"
       ],
-      "template": "논란 집합",
+      "template": "인맥",
       "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
@@ -833,51 +1639,51 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
+          "분류",
+          "이슈 내용",
           "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"만점자, 대체 무슨 일이?\" 만점자 관련 이슈 총정리",
+      "title": "\"추경호\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 추경호",
+      "article_count": 3,
+      "source_article": "'윤석열 전화'부터 배척된 특검 논리…추경호 무죄, 왜?",
+      "source_url": "https://n.news.naver.com/article/079/0004211219?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
+      "related_names": [
+        "추경호"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"만점자\" 관련 화제 스타 TOP10",
       "angle_type": "👤 만점자",
       "article_count": 3,
-      "source_article": "리트 만점자, 밀려 쓴 정답에 \"확률 희박은 인정…AI 안 썼다\"",
-      "source_url": "https://n.news.naver.com/article/018/0006411502?ntype=RANKING",
+      "source_article": "원어민도 뉴텝스 힘든데... 리트 만점자, 600점 만점에 565점",
+      "source_url": "https://n.news.naver.com/article/023/0004010315?ntype=RANKING",
       "source_name": "[폴백] 스포츠 랭킹",
       "related_names": [
         "만점자"
-      ],
-      "template": "논란 집합",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"재난문\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 재난문",
-      "article_count": 3,
-      "source_article": "“이 대통령, 사시 어떻게 합격했나”…장동혁, 수능 중 재난문자 지시한 李 직격",
-      "source_url": "https://n.news.naver.com/article/009/0005765323?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
-      "related_names": [
-        "재난문"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -902,15 +1708,15 @@
       "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
       "angle_type": "스포츠",
       "article_count": 2,
-      "source_article": "'임주리 아들' 재하, 안타까운 소식 전했다…건강 상태 언급 \"노후 연금 되려 했는데\" ('아침마당')",
-      "source_url": "https://m.entertain.naver.com/article/312/0000784833",
-      "source_name": "엔터 많이 본 뉴스",
+      "source_article": "‘브레인코치’ 리트 만점자 결국 계약 해지…시대인재 “의혹 검증 우선”",
+      "source_url": "https://n.news.naver.com/article/005/0001885913?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
       "related_names": [
-        "임주리",
-        "아들",
-        "재하",
-        "안타까",
-        "소식"
+        "브레인",
+        "코치",
+        "리트",
+        "만점자",
+        "계약"
       ],
       "template": "스포츠 기록",
       "score": 5.8,
@@ -930,31 +1736,113 @@
         ]
       },
       "channel": "정보주는하마"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 2,
+      "source_article": "충격적인 아이돌 경호원 과잉대응 논란 영상",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611180120191046&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "불펜",
+        "이야기",
+        "소재",
+        "충격적",
+        "아이돌"
+      ],
+      "template": "논란 집합",
+      "score": 5.9,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
     [
-      "수능",
-      9
-    ],
-    [
-      "시험",
+      "결혼",
       4
     ],
     [
       "고경표",
-      3
-    ],
-    [
-      "흑색",
-      3
-    ],
-    [
-      "변경",
-      3
+      4
     ],
     [
       "리트",
+      4
+    ],
+    [
+      "하루카",
+      3
+    ],
+    [
+      "오상욱",
+      3
+    ],
+    [
+      "데이트",
+      3
+    ],
+    [
+      "의혹",
+      3
+    ],
+    [
+      "직원",
+      3
+    ],
+    [
+      "남편",
+      3
+    ],
+    [
+      "이혼",
+      3
+    ],
+    [
+      "엔비디아",
       3
     ],
     [
@@ -962,23 +1850,7 @@
       3
     ],
     [
-      "틈만나면",
-      2
-    ],
-    [
-      "결혼",
-      2
-    ],
-    [
-      "라더니",
-      2
-    ],
-    [
-      "뉴욕댁",
-      2
-    ],
-    [
-      "이진",
+      "호칭까지",
       2
     ],
     [
@@ -986,57 +1858,81 @@
       2
     ],
     [
-      "자산",
+      "일본",
       2
     ],
     [
-      "남편",
+      "엄마",
       2
     ],
     [
-      "노후",
+      "음주운전에",
       2
     ],
     [
-      "직접",
+      "명품관",
       2
     ],
     [
-      "연필만",
+      "차예련",
       2
     ],
     [
-      "반입",
-      2
-    ],
-    [
-      "규정",
+      "학폭",
       2
     ]
   ],
   "name_freq": [
     [
-      "수능",
-      9
-    ],
-    [
-      "시험",
+      "결혼",
       4
     ],
     [
       "고경표",
-      3
-    ],
-    [
-      "흑색",
-      3
-    ],
-    [
-      "변경",
-      3
+      4
     ],
     [
       "리트",
+      4
+    ],
+    [
+      "하루카",
+      3
+    ],
+    [
+      "오상욱",
+      3
+    ],
+    [
+      "데이트",
+      3
+    ],
+    [
+      "음주운",
+      3
+    ],
+    [
+      "의혹",
+      3
+    ],
+    [
+      "직원",
+      3
+    ],
+    [
+      "남편",
+      3
+    ],
+    [
+      "이혼",
+      3
+    ],
+    [
+      "엔비디",
+      3
+    ],
+    [
+      "추경호",
       3
     ],
     [
@@ -1044,39 +1940,11 @@
       3
     ],
     [
-      "재난문",
-      3
-    ],
-    [
-      "결혼",
-      2
-    ],
-    [
-      "틈만나",
-      2
-    ],
-    [
-      "라더니",
-      2
-    ],
-    [
-      "뉴욕댁",
-      2
-    ],
-    [
-      "이진",
-      2
-    ],
-    [
       "아빠",
-      2
-    ],
-    [
-      "자산",
       2
     ]
   ],
-  "total_topics_generated": 12,
-  "valid_topics": 12,
+  "total_topics_generated": 19,
+  "valid_topics": 19,
   "excluded_duplicates": 0
 }
