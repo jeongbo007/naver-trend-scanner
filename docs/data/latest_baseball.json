@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-11-23 08:36:42",
+  "scan_time": "2026-11-23 15:41:13",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -9,17 +9,287 @@
     "[폴백] 스포츠 랭킹": 30,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 0
+    "MLB파크 불펜": 30
   },
-  "total_articles": 60,
+  "total_articles": 90,
   "articles": [
     {
-      "title": "22년 파이터 은퇴전...패배한 추성훈 향한 가족들 응원",
-      "url": "https://n.news.naver.com/article/052/0002436785?ntype=RANKING",
+      "title": "“尹 사형 구형날 장동혁에 ‘이벤트 마무리’ 문자”",
+      "url": "https://n.news.naver.com/article/449/0000368440?ntype=RANKING",
       "source": "[폴백] 스포츠 랭킹",
       "category": "스포츠",
       "views": 0,
+      "rank": 4,
+      "channel": "초구딱"
+    },
+    {
+      "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 1,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 2,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🛠️[업데이트] 해외 접속 장애 조치 관련 안내_260814🛠️",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202608130000002151",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 3,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[공지] 이미지 업로드 시 불법촬영물등 비교·식별 조치 적용 안내",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202609040000002163",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 4,
+      "channel": "초구딱"
+    },
+    {
+      "title": "역대 한국인 여성 유명인 셀럽 위상 영향력 탑5는 누구인가요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282537&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 5,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[어벤져스 : 황스데이] 트럼클롭스의 부름, 젠슨황의 귀환",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282534&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 6,
+      "channel": "초구딱"
+    },
+    {
+      "title": "전 세계가 단 한 명으로 천국과 지옥을 오가는군요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282531&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 7,
+      "channel": "초구딱"
+    },
+    {
+      "title": "일론 머스크의 젠슨 황 복귀 반응",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282528&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 36,
       "rank": 8,
+      "channel": "초구딱"
+    },
+    {
+      "title": "젠슨황 간첩 및 유출 모조리 무혐의 때려버리네요 ㅋㅋㅋㅋ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282522&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 56,
+      "rank": 9,
+      "channel": "초구딱"
+    },
+    {
+      "title": "권은비 1박3일 뉴욕여행 ㄷㄷㄷ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282516&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 118,
+      "rank": 10,
+      "channel": "초구딱"
+    },
+    {
+      "title": "이재용,,,최태원회장님이 웰컴 메세지 쓸까요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282510&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 21,
+      "rank": 11,
+      "channel": "초구딱"
+    },
+    {
+      "title": "필반 15.2퍼 상승중ㅋㅋㅋ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282504&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 130,
+      "rank": 12,
+      "channel": "초구딱"
+    },
+    {
+      "title": "럼프형 단톡방 사람들은 다 알았겠죠",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282498&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 64,
+      "rank": 13,
+      "channel": "초구딱"
+    },
+    {
+      "title": "헬멧 안썼으면 참수될 뻔한 사고...mp4",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282492&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 122,
+      "rank": 14,
+      "channel": "초구딱"
+    },
+    {
+      "title": "트럼프 측근들은 진짜  주식으로 얼마나 벌었을지",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282489&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 75,
+      "rank": 15,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[생활용품][29,293원]질레트 스킨텍 & 프로쉴드 옐로우 면도날 12 입 외 다양",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282477&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 25,
+      "rank": 16,
+      "channel": "초구딱"
+    },
+    {
+      "title": "오늘 일론 머스크 ... 입 터는거 보고 자야 할듯 ㅎㅎ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282471&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 111,
+      "rank": 17,
+      "channel": "초구딱"
+    },
+    {
+      "title": "트럼프: \"슨황아 잘하자?\" ㄷㄷ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282468&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 466,
+      "rank": 18,
+      "channel": "초구딱"
+    },
+    {
+      "title": "그래서 내일 시초가로 삼전닉스 몰빵하면 됩니까?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282465&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 100,
+      "rank": 19,
+      "channel": "초구딱"
+    },
+    {
+      "title": "의문의기관이 엔비디아 콜옵션 3000만달러 매수",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282459&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 435,
+      "rank": 20,
+      "channel": "초구딱"
+    },
+    {
+      "title": "엔비 3배숏 들고 있던 사람은 그냥 0원된건가요...?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282456&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 317,
+      "rank": 21,
+      "channel": "초구딱"
+    },
+    {
+      "title": "한전해킹 해커 \" 군, 정부 시설, 입찰 정보 수십만건\"",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282453&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 87,
+      "rank": 22,
+      "channel": "초구딱"
+    },
+    {
+      "title": "트럼프 엔비디아 컨콜중",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282447&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 424,
+      "rank": 23,
+      "channel": "초구딱"
+    },
+    {
+      "title": "12시쯤 엔비디아 64퍼 보고 오류걸린줄 알았네요 ㅋㅋㅋㅋ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282444&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 357,
+      "rank": 24,
+      "channel": "초구딱"
+    },
+    {
+      "title": "하이닉스 본주는 내일 상한가 가겠는데요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282441&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 253,
+      "rank": 25,
+      "channel": "초구딱"
+    },
+    {
+      "title": "주식 이거 도박같네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282438&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 311,
+      "rank": 26,
+      "channel": "초구딱"
+    },
+    {
+      "title": "엔비디아 칩이 제작이 복잡한가요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282435&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 181,
+      "rank": 27,
+      "channel": "초구딱"
+    },
+    {
+      "title": "젠슨경제학 쩌네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282432&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 255,
+      "rank": 28,
+      "channel": "초구딱"
+    },
+    {
+      "title": "하이닉스삼전 ㅡ인버스 ㅋㅋㅋㅋㅋ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282429&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 643,
+      "rank": 29,
+      "channel": "초구딱"
+    },
+    {
+      "title": "추세 전환이 맞는건가요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282426&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 323,
+      "rank": 30,
       "channel": "초구딱"
     }
   ],
@@ -28,54 +298,21 @@
       "article_count": 59,
       "topics": [
         {
-          "title": "\"최태원, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 8,
-          "source_article": "강재준♥이은형, 아들 낳고 잘 사는 줄 알았는데…\"최근 어려워 1억 원 빌려\"",
-          "source_url": "https://m.entertain.naver.com/article/415/0000054074",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "최태원",
-            "화해권",
-            "재산분",
-            "할금",
-            "내겠다"
-          ],
-          "template": "자산 서열",
-          "score": 7.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "주요 수입원",
-              "추정 자산",
-              "자산 특이점"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+          "title": "\"폭로까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
           "angle_type": "논란·사건",
           "article_count": 4,
-          "source_article": "오은영도 충격…두 딸 돌보며 대낮부터 음주, 남편 “10년간 몰랐다”",
-          "source_url": "https://m.entertain.naver.com/article/382/0001306187",
+          "source_article": "'트젠바 논란' 김원효, 폭로 나왔다 \"심진화가 거지인 줄 모르고 결혼\" ('개세모')",
+          "source_url": "https://m.entertain.naver.com/article/076/0004468940",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "오은영",
-            "돌보며",
-            "대낮부",
-            "음주",
-            "남편"
+            "폭로",
+            "트젠바",
+            "김원효",
+            "나왔다",
+            "심진화"
           ],
           "template": "논란 집합",
-          "score": 7.0,
+          "score": 7.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -94,21 +331,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 6,
-          "source_article": "강재준♥이은형, 아들 낳고 잘 사는 줄 알았는데…\"최근 어려워 1억 원 빌려\"",
-          "source_url": "https://m.entertain.naver.com/article/415/0000054074",
-          "source_name": "엔터 많이 본 뉴스",
+          "title": "\"젠슨, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 3,
+          "source_article": "젠슨 황 엔비디아 CEO 복귀…이사회 만장일치 결정",
+          "source_url": "https://n.news.naver.com/article/449/0000368475?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
           "related_names": [
-            "아들",
-            "어머니",
-            "이부진",
-            "강재준",
-            "이은형"
+            "젠슨",
+            "엔비디",
+            "이사회",
+            "만장일",
+            "전격"
           ],
-          "template": "동갑내기",
-          "score": 6.8,
+          "template": "장기 공백 복귀",
+          "score": 7.1,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -119,25 +356,87 @@
           "table": {
             "headers": [
               "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"화해권 자산이 얼마?\" 화해권급 자산가 스타 TOP10",
-          "angle_type": "👤 화해권",
-          "article_count": 3,
-          "source_article": "최태원, 대법원에 화해권고 요청...\"9,440억 지급하겠다\"",
-          "source_url": "https://n.news.naver.com/article/052/0002436858?ntype=RANKING",
+          "title": "\"엔비디, 지금 어디서 뭐 하나?\" 엔비디 근황 총정리",
+          "angle_type": "👤 엔비디",
+          "article_count": 4,
+          "source_article": "젠슨 황 엔비디아 CEO 복귀…이사회 만장일치 결정",
+          "source_url": "https://n.news.naver.com/article/449/0000368475?ntype=RANKING",
           "source_name": "[폴백] 스포츠 랭킹",
           "related_names": [
-            "화해권"
+            "엔비디"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 7.1,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"이사회, 지금 어디서 뭐 하나?\" 이사회 근황 총정리",
+          "angle_type": "👤 이사회",
+          "article_count": 3,
+          "source_article": "젠슨 황 엔비디아 CEO 복귀…이사회 만장일치 결정",
+          "source_url": "https://n.news.naver.com/article/449/0000368475?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
+          "related_names": [
+            "이사회"
+          ],
+          "template": "장기 공백 복귀",
+          "score": 7.1,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "공백 기간",
+              "공백 사유",
+              "복귀 작품"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"최태원, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 5,
+          "source_article": "강재준♥이은형, 아들 낳고 잘 사는 줄 알았는데…\"최근 어려워 1억 원 빌려\"",
+          "source_url": "https://m.entertain.naver.com/article/415/0000054074",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "최태원",
+            "시간",
+            "강재준",
+            "이은형",
+            "아들"
           ],
           "template": "자산 서열",
-          "score": 6.5,
+          "score": 7.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -156,21 +455,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-          "angle_type": "결혼·이혼",
-          "article_count": 4,
-          "source_article": "‘오징어커플’ 진짜였다…박강균·구혜리, 5년 비밀 연애 끝 내년 3월 결혼",
-          "source_url": "https://m.entertain.naver.com/article/440/0000053847",
+          "title": "\"이혼 결혼설?\" 이혼 연애사 총정리",
+          "angle_type": "👤 이혼",
+          "article_count": 3,
+          "source_article": "'돌싱3' 전다빈, 이혼 6년만 재혼 발표…'713만 원' 웨딩링끼고 '활짝'",
+          "source_url": "https://m.entertain.naver.com/article/076/0004468857",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "결혼",
-            "내년",
-            "오징어",
-            "커플",
-            "진짜였"
+            "이혼"
           ],
           "template": "결혼 화제",
-          "score": 6.3,
+          "score": 6.9,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -189,17 +484,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"국정원\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 국정원",
-          "article_count": 3,
-          "source_article": "국정원장 강금실·외교 임웅순·통일 홍익표 지명‥행안·문체도 개각",
-          "source_url": "https://n.news.naver.com/article/214/0001537418?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
+          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "angle_type": "결혼·이혼",
+          "article_count": 9,
+          "source_article": "‘오징어커플’ 진짜였다…박강균·구혜리, 5년 비밀 연애 끝 내년 3월 결혼",
+          "source_url": "https://m.entertain.naver.com/article/440/0000053847",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "국정원"
+            "결혼",
+            "이혼",
+            "변호사",
+            "하정우",
+            "차정원"
           ],
-          "template": "인맥",
-          "score": 6.0,
+          "template": "결혼 화제",
+          "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -210,24 +509,169 @@
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"번째 결혼설?\" 번째 연애사 총정리",
+          "angle_type": "👤 번째",
+          "article_count": 3,
+          "source_article": "“10번째 겨울이 웬 말?” 하정우♥차정원, 청첩장에 의문 쏟아졌다",
+          "source_url": "https://m.entertain.naver.com/article/468/0001282910",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "번째"
+          ],
+          "template": "결혼 화제",
+          "score": 6.7,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"차정원 결혼설?\" 차정원 연애사 총정리",
+          "angle_type": "👤 차정원",
+          "article_count": 3,
+          "source_article": "“10번째 겨울이 웬 말?” 하정우♥차정원, 청첩장에 의문 쏟아졌다",
+          "source_url": "https://m.entertain.naver.com/article/468/0001282910",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "차정원"
+          ],
+          "template": "결혼 화제",
+          "score": 6.7,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"하정우 결혼설?\" 하정우 연애사 총정리",
+          "angle_type": "👤 하정우",
+          "article_count": 3,
+          "source_article": "“10번째 겨울이 웬 말?” 하정우♥차정원, 청첩장에 의문 쏟아졌다",
+          "source_url": "https://m.entertain.naver.com/article/468/0001282910",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "하정우"
+          ],
+          "template": "결혼 화제",
+          "score": 6.7,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"겨울 결혼설?\" 겨울 연애사 총정리",
+          "angle_type": "👤 겨울",
+          "article_count": 3,
+          "source_article": "하정우♥차정원, 6년 아닌 10년 열애?…청첩장 속 ‘10번째 겨울’ 눈길",
+          "source_url": "https://m.entertain.naver.com/article/410/0001148048",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "겨울"
+          ],
+          "template": "결혼 화제",
+          "score": 6.7,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"고경표, 대체 무슨 일이?\" 고경표 관련 이슈 총정리",
+          "angle_type": "👤 고경표",
+          "article_count": 5,
+          "source_article": "\"대리운전, 왜 안 불렀냐\"..고경표, 부르튼 입술로 경찰서 포토라인",
+          "source_url": "https://m.entertain.naver.com/article/108/0003489606",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "고경표"
+          ],
+          "template": "논란 집합",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
               "현재 상황"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"통일\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 통일",
+          "title": "\"경찰, 대체 무슨 일이?\" 경찰 관련 이슈 총정리",
+          "angle_type": "👤 경찰",
           "article_count": 3,
-          "source_article": "국정원장 강금실·외교 임웅순·통일 홍익표 지명‥행안·문체도 개각",
-          "source_url": "https://n.news.naver.com/article/214/0001537418?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
+          "source_article": "고경표, 데뷔 16년만 첫 경찰 포토라인 '나락 행보'..\"다친 미화원, 오히려 내 걱정\" 90도 사과",
+          "source_url": "https://m.entertain.naver.com/article/108/0003489614",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "통일"
+            "경찰"
           ],
-          "template": "인맥",
+          "template": "논란 집합",
           "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
@@ -239,25 +683,29 @@
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
+              "소속·직업",
+              "논란 내용",
               "현재 상황"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"외교\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 외교",
-          "article_count": 3,
-          "source_article": "국정원장 강금실·외교 임웅순·통일 홍익표 지명‥행안·문체도 개각",
-          "source_url": "https://n.news.naver.com/article/214/0001537418?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
+          "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 2,
+          "source_article": "민우혁♥이세미 子, 훈남 하키 선수로 폭풍성장..\"사춘기, 노 땡스\"",
+          "source_url": "https://m.entertain.naver.com/article/076/0004468810",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "외교"
+            "민우혁",
+            "이세미",
+            "훈남",
+            "하키",
+            "선수로"
           ],
-          "template": "인맥",
-          "score": 6.0,
+          "template": "스포츠 기록",
+          "score": 5.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -267,68 +715,10 @@
           },
           "table": {
             "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"강금실\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 강금실",
-          "article_count": 3,
-          "source_article": "국정원장 강금실·외교 임웅순·통일 홍익표 지명‥행안·문체도 개각",
-          "source_url": "https://n.news.naver.com/article/214/0001537418?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
-          "related_names": [
-            "강금실"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"어머니\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 어머니",
-          "article_count": 3,
-          "source_article": "\"다시 해봐\" 92세 어머니의 격려…69세에 로스쿨 졸업한 美여성",
-          "source_url": "https://n.news.naver.com/article/421/0009305163?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
-          "related_names": [
-            "어머니"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
             ]
           },
           "channel": "정보주는하마"
@@ -336,137 +726,133 @@
       ],
       "keyword_freq": [
         [
-          "아들",
-          3
+          "고경표",
+          5
+        ],
+        [
+          "젠슨",
+          5
+        ],
+        [
+          "엔비디아",
+          4
         ],
         [
           "결혼",
           3
         ],
         [
-          "화해권고",
+          "이혼",
           3
         ],
         [
-          "최태원",
+          "경찰",
           3
         ],
         [
-          "통일",
+          "번째",
           3
         ],
         [
-          "외교",
+          "차정원",
           3
         ],
         [
-          "강금실",
+          "하정우",
           3
         ],
         [
-          "연하",
-          2
+          "겨울",
+          3
         ],
         [
-          "쏟아지자",
-          2
-        ],
-        [
-          "나혼산",
-          2
-        ],
-        [
-          "김신영",
-          2
+          "이사회",
+          3
         ],
         [
           "박지윤",
           2
         ],
         [
-          "비밀",
+          "포토라인",
           2
         ],
         [
-          "내년",
+          "느낌",
           2
         ],
         [
-          "걱정",
+          "변호사",
           2
         ],
         [
-          "년간",
+          "폭로",
           2
         ],
         [
-          "알고",
+          "년만",
           2
         ],
         [
-          "포함",
+          "눈길",
           2
         ],
         [
-          "거짓말",
+          "오히려",
           2
         ],
         [
-          "일의",
+          "만장일치",
           2
         ]
       ],
       "name_freq": [
         [
-          "아들",
-          3
+          "고경표",
+          5
+        ],
+        [
+          "젠슨",
+          5
+        ],
+        [
+          "엔비디",
+          4
         ],
         [
           "결혼",
           3
         ],
         [
-          "화해권",
+          "이혼",
           3
         ],
         [
-          "최태원",
+          "경찰",
           3
         ],
         [
-          "국정원",
+          "번째",
           3
         ],
         [
-          "통일",
+          "차정원",
           3
         ],
         [
-          "외교",
+          "하정우",
           3
         ],
         [
-          "강금실",
+          "겨울",
           3
         ],
         [
-          "어머니",
+          "이사회",
           3
         ],
         [
-          "연하",
-          2
-        ],
-        [
-          "쏟아지",
-          2
-        ],
-        [
-          "김신영",
-          2
-        ],
-        [
-          "나혼산",
+          "최동석",
           2
         ],
         [
@@ -474,14 +860,18 @@
           2
         ],
         [
-          "최동석",
+          "포토라",
+          2
+        ],
+        [
+          "느낌",
           2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
-          8
+          5
         ],
         [
           "논란·사건",
@@ -489,69 +879,245 @@
         ],
         [
           "결혼·이혼",
-          4
+          9
         ],
         [
-          "가족·혈연",
-          6
+          "복귀·근황",
+          3
+        ],
+        [
+          "스포츠",
+          2
         ]
       ]
     },
     "초구딱": {
-      "article_count": 1,
-      "topics": [],
+      "article_count": 31,
+      "topics": [
+        {
+          "title": "\"엔비디\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 엔비디",
+          "article_count": 4,
+          "source_article": "의문의기관이 엔비디아 콜옵션 3000만달러 매수",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282459&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "엔비디"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"안내\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안내",
+          "article_count": 3,
+          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "안내"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"트럼프\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 트럼프",
+          "article_count": 3,
+          "source_article": "트럼프 측근들은 진짜  주식으로 얼마나 벌었을지",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282489&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "트럼프"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
+        }
+      ],
       "keyword_freq": [
         [
-          "가족들",
+          "엔비디아",
+          4
+        ],
+        [
+          "안내",
+          3
+        ],
+        [
+          "트럼프",
+          3
+        ],
+        [
+          "조치",
+          2
+        ],
+        [
+          "일론",
+          2
+        ],
+        [
+          "보고",
+          2
+        ],
+        [
+          "이벤트",
           1
         ],
         [
-          "응원",
+          "마무리",
           1
         ],
         [
-          "패배한",
+          "문자",
           1
         ],
         [
-          "향한",
+          "장동혁에",
           1
         ],
         [
-          "은퇴전",
+          "사형",
           1
         ],
         [
-          "추성훈",
+          "구형날",
           1
         ],
         [
-          "파이터",
+          "시행",
+          1
+        ],
+        [
+          "향후",
+          1
+        ],
+        [
+          "처리",
+          1
+        ],
+        [
+          "사항",
+          1
+        ],
+        [
+          "위반",
+          1
+        ],
+        [
+          "말머리",
+          1
+        ],
+        [
+          "인용",
+          1
+        ],
+        [
+          "유의사항",
           1
         ]
       ],
-      "name_freq": [],
+      "name_freq": [
+        [
+          "엔비디",
+          4
+        ],
+        [
+          "안내",
+          3
+        ],
+        [
+          "트럼프",
+          3
+        ],
+        [
+          "조치",
+          2
+        ],
+        [
+          "젠슨황",
+          2
+        ],
+        [
+          "일론",
+          2
+        ],
+        [
+          "머스크",
+          2
+        ],
+        [
+          "보고",
+          2
+        ],
+        [
+          "하이닉",
+          2
+        ]
+      ],
       "angle_scores": []
     }
   },
-  "topics": [],
-  "all_topics": [
+  "topics": [
     {
-      "title": "\"최태원, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 8,
-      "source_article": "강재준♥이은형, 아들 낳고 잘 사는 줄 알았는데…\"최근 어려워 1억 원 빌려\"",
-      "source_url": "https://m.entertain.naver.com/article/415/0000054074",
-      "source_name": "엔터 많이 본 뉴스",
+      "title": "\"엔비디\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 엔비디",
+      "article_count": 4,
+      "source_article": "의문의기관이 엔비디아 콜옵션 3000만달러 매수",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282459&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
       "related_names": [
-        "최태원",
-        "화해권",
-        "재산분",
-        "할금",
-        "내겠다"
+        "엔비디"
       ],
-      "template": "자산 서열",
-      "score": 7.0,
+      "template": "인맥",
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -562,29 +1128,89 @@
       "table": {
         "headers": [
           "이름",
-          "주요 수입원",
-          "추정 자산",
-          "자산 특이점"
+          "분류",
+          "이슈 내용",
+          "현재 상황"
         ]
       },
-      "channel": "정보주는하마"
+      "channel": "초구딱"
     },
     {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"트럼프\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 트럼프",
+      "article_count": 3,
+      "source_article": "트럼프 측근들은 진짜  주식으로 얼마나 벌었을지",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282489&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "트럼프"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    }
+  ],
+  "all_topics": [
+    {
+      "title": "\"폭로까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
       "angle_type": "논란·사건",
       "article_count": 4,
-      "source_article": "오은영도 충격…두 딸 돌보며 대낮부터 음주, 남편 “10년간 몰랐다”",
-      "source_url": "https://m.entertain.naver.com/article/382/0001306187",
+      "source_article": "'트젠바 논란' 김원효, 폭로 나왔다 \"심진화가 거지인 줄 모르고 결혼\" ('개세모')",
+      "source_url": "https://m.entertain.naver.com/article/076/0004468940",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "오은영",
-        "돌보며",
-        "대낮부",
-        "음주",
-        "남편"
+        "폭로",
+        "트젠바",
+        "김원효",
+        "나왔다",
+        "심진화"
       ],
       "template": "논란 집합",
-      "score": 7.0,
+      "score": 7.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -603,21 +1229,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 6,
-      "source_article": "강재준♥이은형, 아들 낳고 잘 사는 줄 알았는데…\"최근 어려워 1억 원 빌려\"",
-      "source_url": "https://m.entertain.naver.com/article/415/0000054074",
-      "source_name": "엔터 많이 본 뉴스",
+      "title": "\"젠슨, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 3,
+      "source_article": "젠슨 황 엔비디아 CEO 복귀…이사회 만장일치 결정",
+      "source_url": "https://n.news.naver.com/article/449/0000368475?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
       "related_names": [
-        "아들",
-        "어머니",
-        "이부진",
-        "강재준",
-        "이은형"
+        "젠슨",
+        "엔비디",
+        "이사회",
+        "만장일",
+        "전격"
       ],
-      "template": "동갑내기",
-      "score": 6.8,
+      "template": "장기 공백 복귀",
+      "score": 7.1,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -628,25 +1254,87 @@
       "table": {
         "headers": [
           "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"화해권 자산이 얼마?\" 화해권급 자산가 스타 TOP10",
-      "angle_type": "👤 화해권",
-      "article_count": 3,
-      "source_article": "최태원, 대법원에 화해권고 요청...\"9,440억 지급하겠다\"",
-      "source_url": "https://n.news.naver.com/article/052/0002436858?ntype=RANKING",
+      "title": "\"엔비디, 지금 어디서 뭐 하나?\" 엔비디 근황 총정리",
+      "angle_type": "👤 엔비디",
+      "article_count": 4,
+      "source_article": "젠슨 황 엔비디아 CEO 복귀…이사회 만장일치 결정",
+      "source_url": "https://n.news.naver.com/article/449/0000368475?ntype=RANKING",
       "source_name": "[폴백] 스포츠 랭킹",
       "related_names": [
-        "화해권"
+        "엔비디"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 7.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이사회, 지금 어디서 뭐 하나?\" 이사회 근황 총정리",
+      "angle_type": "👤 이사회",
+      "article_count": 3,
+      "source_article": "젠슨 황 엔비디아 CEO 복귀…이사회 만장일치 결정",
+      "source_url": "https://n.news.naver.com/article/449/0000368475?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
+      "related_names": [
+        "이사회"
+      ],
+      "template": "장기 공백 복귀",
+      "score": 7.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"최태원, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 5,
+      "source_article": "강재준♥이은형, 아들 낳고 잘 사는 줄 알았는데…\"최근 어려워 1억 원 빌려\"",
+      "source_url": "https://m.entertain.naver.com/article/415/0000054074",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "최태원",
+        "시간",
+        "강재준",
+        "이은형",
+        "아들"
       ],
       "template": "자산 서열",
-      "score": 6.5,
+      "score": 7.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -665,21 +1353,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 4,
-      "source_article": "‘오징어커플’ 진짜였다…박강균·구혜리, 5년 비밀 연애 끝 내년 3월 결혼",
-      "source_url": "https://m.entertain.naver.com/article/440/0000053847",
+      "title": "\"이혼 결혼설?\" 이혼 연애사 총정리",
+      "angle_type": "👤 이혼",
+      "article_count": 3,
+      "source_article": "'돌싱3' 전다빈, 이혼 6년만 재혼 발표…'713만 원' 웨딩링끼고 '활짝'",
+      "source_url": "https://m.entertain.naver.com/article/076/0004468857",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "결혼",
-        "내년",
-        "오징어",
-        "커플",
-        "진짜였"
+        "이혼"
       ],
       "template": "결혼 화제",
-      "score": 6.3,
+      "score": 6.9,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -698,17 +1382,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"국정원\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 국정원",
-      "article_count": 3,
-      "source_article": "국정원장 강금실·외교 임웅순·통일 홍익표 지명‥행안·문체도 개각",
-      "source_url": "https://n.news.naver.com/article/214/0001537418?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
+      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 9,
+      "source_article": "‘오징어커플’ 진짜였다…박강균·구혜리, 5년 비밀 연애 끝 내년 3월 결혼",
+      "source_url": "https://m.entertain.naver.com/article/440/0000053847",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "국정원"
+        "결혼",
+        "이혼",
+        "변호사",
+        "하정우",
+        "차정원"
       ],
-      "template": "인맥",
-      "score": 6.0,
+      "template": "결혼 화제",
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -719,24 +1407,169 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"번째 결혼설?\" 번째 연애사 총정리",
+      "angle_type": "👤 번째",
+      "article_count": 3,
+      "source_article": "“10번째 겨울이 웬 말?” 하정우♥차정원, 청첩장에 의문 쏟아졌다",
+      "source_url": "https://m.entertain.naver.com/article/468/0001282910",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "번째"
+      ],
+      "template": "결혼 화제",
+      "score": 6.7,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"차정원 결혼설?\" 차정원 연애사 총정리",
+      "angle_type": "👤 차정원",
+      "article_count": 3,
+      "source_article": "“10번째 겨울이 웬 말?” 하정우♥차정원, 청첩장에 의문 쏟아졌다",
+      "source_url": "https://m.entertain.naver.com/article/468/0001282910",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "차정원"
+      ],
+      "template": "결혼 화제",
+      "score": 6.7,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"하정우 결혼설?\" 하정우 연애사 총정리",
+      "angle_type": "👤 하정우",
+      "article_count": 3,
+      "source_article": "“10번째 겨울이 웬 말?” 하정우♥차정원, 청첩장에 의문 쏟아졌다",
+      "source_url": "https://m.entertain.naver.com/article/468/0001282910",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "하정우"
+      ],
+      "template": "결혼 화제",
+      "score": 6.7,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"겨울 결혼설?\" 겨울 연애사 총정리",
+      "angle_type": "👤 겨울",
+      "article_count": 3,
+      "source_article": "하정우♥차정원, 6년 아닌 10년 열애?…청첩장 속 ‘10번째 겨울’ 눈길",
+      "source_url": "https://m.entertain.naver.com/article/410/0001148048",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "겨울"
+      ],
+      "template": "결혼 화제",
+      "score": 6.7,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"고경표, 대체 무슨 일이?\" 고경표 관련 이슈 총정리",
+      "angle_type": "👤 고경표",
+      "article_count": 5,
+      "source_article": "\"대리운전, 왜 안 불렀냐\"..고경표, 부르튼 입술로 경찰서 포토라인",
+      "source_url": "https://m.entertain.naver.com/article/108/0003489606",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "고경표"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
           "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"통일\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 통일",
+      "title": "\"경찰, 대체 무슨 일이?\" 경찰 관련 이슈 총정리",
+      "angle_type": "👤 경찰",
       "article_count": 3,
-      "source_article": "국정원장 강금실·외교 임웅순·통일 홍익표 지명‥행안·문체도 개각",
-      "source_url": "https://n.news.naver.com/article/214/0001537418?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
+      "source_article": "고경표, 데뷔 16년만 첫 경찰 포토라인 '나락 행보'..\"다친 미화원, 오히려 내 걱정\" 90도 사과",
+      "source_url": "https://m.entertain.naver.com/article/108/0003489614",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "통일"
+        "경찰"
       ],
-      "template": "인맥",
+      "template": "논란 집합",
       "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
@@ -748,25 +1581,29 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
+          "소속·직업",
+          "논란 내용",
           "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"외교\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 외교",
-      "article_count": 3,
-      "source_article": "국정원장 강금실·외교 임웅순·통일 홍익표 지명‥행안·문체도 개각",
-      "source_url": "https://n.news.naver.com/article/214/0001537418?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
+      "title": "\"이 기록은 못 깬다\" 역대급 스포츠 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 2,
+      "source_article": "민우혁♥이세미 子, 훈남 하키 선수로 폭풍성장..\"사춘기, 노 땡스\"",
+      "source_url": "https://m.entertain.naver.com/article/076/0004468810",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "외교"
+        "민우혁",
+        "이세미",
+        "훈남",
+        "하키",
+        "선수로"
       ],
-      "template": "인맥",
-      "score": 6.0,
+      "template": "스포츠 기록",
+      "score": 5.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -776,23 +1613,23 @@
       },
       "table": {
         "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"강금실\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 강금실",
-      "article_count": 3,
-      "source_article": "국정원장 강금실·외교 임웅순·통일 홍익표 지명‥행안·문체도 개각",
-      "source_url": "https://n.news.naver.com/article/214/0001537418?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
+      "title": "\"엔비디\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 엔비디",
+      "article_count": 4,
+      "source_article": "의문의기관이 엔비디아 콜옵션 3000만달러 매수",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282459&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
       "related_names": [
-        "강금실"
+        "엔비디"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -811,17 +1648,17 @@
           "현재 상황"
         ]
       },
-      "channel": "정보주는하마"
+      "channel": "초구딱"
     },
     {
-      "title": "\"어머니\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 어머니",
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
       "article_count": 3,
-      "source_article": "\"다시 해봐\" 92세 어머니의 격려…69세에 로스쿨 졸업한 美여성",
-      "source_url": "https://n.news.naver.com/article/421/0009305163?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
       "related_names": [
-        "어머니"
+        "안내"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -840,142 +1677,167 @@
           "현재 상황"
         ]
       },
-      "channel": "정보주는하마"
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"트럼프\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 트럼프",
+      "article_count": 3,
+      "source_article": "트럼프 측근들은 진짜  주식으로 얼마나 벌었을지",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611240120282489&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "트럼프"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
     [
-      "아들",
-      3
+      "고경표",
+      5
+    ],
+    [
+      "젠슨",
+      5
+    ],
+    [
+      "엔비디아",
+      4
     ],
     [
       "결혼",
       3
     ],
     [
-      "화해권고",
+      "이혼",
       3
     ],
     [
-      "최태원",
+      "경찰",
       3
     ],
     [
-      "통일",
+      "번째",
       3
     ],
     [
-      "외교",
+      "차정원",
       3
     ],
     [
-      "강금실",
+      "하정우",
       3
     ],
     [
-      "연하",
-      2
+      "겨울",
+      3
     ],
     [
-      "쏟아지자",
-      2
-    ],
-    [
-      "나혼산",
-      2
-    ],
-    [
-      "김신영",
-      2
+      "이사회",
+      3
     ],
     [
       "박지윤",
       2
     ],
     [
-      "비밀",
+      "포토라인",
       2
     ],
     [
-      "내년",
+      "느낌",
       2
     ],
     [
-      "걱정",
+      "변호사",
       2
     ],
     [
-      "년간",
+      "폭로",
       2
     ],
     [
-      "알고",
+      "년만",
       2
     ],
     [
-      "포함",
+      "눈길",
       2
     ],
     [
-      "거짓말",
+      "오히려",
       2
     ],
     [
-      "일의",
+      "만장일치",
       2
     ]
   ],
   "name_freq": [
     [
-      "아들",
-      3
+      "고경표",
+      5
+    ],
+    [
+      "젠슨",
+      5
+    ],
+    [
+      "엔비디",
+      4
     ],
     [
       "결혼",
       3
     ],
     [
-      "화해권",
+      "이혼",
       3
     ],
     [
-      "최태원",
+      "경찰",
       3
     ],
     [
-      "국정원",
+      "번째",
       3
     ],
     [
-      "통일",
+      "차정원",
       3
     ],
     [
-      "외교",
+      "하정우",
       3
     ],
     [
-      "강금실",
+      "겨울",
       3
     ],
     [
-      "어머니",
+      "이사회",
       3
     ],
     [
-      "연하",
-      2
-    ],
-    [
-      "쏟아지",
-      2
-    ],
-    [
-      "김신영",
-      2
-    ],
-    [
-      "나혼산",
+      "최동석",
       2
     ],
     [
@@ -983,11 +1845,15 @@
       2
     ],
     [
-      "최동석",
+      "포토라",
+      2
+    ],
+    [
+      "느낌",
       2
     ]
   ],
-  "total_topics_generated": 10,
-  "valid_topics": 10,
+  "total_topics_generated": 17,
+  "valid_topics": 17,
   "excluded_duplicates": 0
 }
