@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-11-23 01:21:29",
+  "scan_time": "2026-11-23 08:36:42",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -9,331 +9,37 @@
     "[폴백] 스포츠 랭킹": 30,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 30
+    "MLB파크 불펜": 0
   },
-  "total_articles": 90,
+  "total_articles": 60,
   "articles": [
     {
-      "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 1,
-      "channel": "초구딱"
-    },
-    {
-      "title": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 2,
-      "channel": "초구딱"
-    },
-    {
-      "title": "🛠️[업데이트] 해외 접속 장애 조치 관련 안내_260814🛠️",
-      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202608130000002151",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 3,
-      "channel": "초구딱"
-    },
-    {
-      "title": "[공지] 이미지 업로드 시 불법촬영물등 비교·식별 조치 적용 안내",
-      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202609040000002163",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 4,
-      "channel": "초구딱"
-    },
-    {
-      "title": "삼닉은 직원들만 부자되고 주주환원 알빠노라 주가가 이모양이죠?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611230120269097&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 5,
-      "channel": "초구딱"
-    },
-    {
-      "title": "의치한약수나 스카이 쓰는 사람",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611230120269091&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 6,
-      "channel": "초구딱"
-    },
-    {
-      "title": "팔도 바지락 짬뽕 라면",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611230120269085&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 21,
-      "rank": 7,
-      "channel": "초구딱"
-    },
-    {
-      "title": "연두부의 포옹.swf",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611230120269082&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
+      "title": "22년 파이터 은퇴전...패배한 추성훈 향한 가족들 응원",
+      "url": "https://n.news.naver.com/article/052/0002436785?ntype=RANKING",
+      "source": "[폴백] 스포츠 랭킹",
+      "category": "스포츠",
       "views": 0,
       "rank": 8,
-      "channel": "초구딱"
-    },
-    {
-      "title": "현기차는 굉장히 좋지 않나요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611230120269079&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 16,
-      "rank": 9,
-      "channel": "초구딱"
-    },
-    {
-      "title": "전기차 모터 배터리 보증끝나면",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611230120269076&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 14,
-      "rank": 10,
-      "channel": "초구딱"
-    },
-    {
-      "title": "드래곤볼 최고의 순애남",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611230120269070&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 29,
-      "rank": 11,
-      "channel": "초구딱"
-    },
-    {
-      "title": "[르세라핌]채원 인스타",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611230120269061&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 52,
-      "rank": 12,
-      "channel": "초구딱"
-    },
-    {
-      "title": "요즘 사회가 거대한 연예계화 돼서 학벌 의미 없습니다",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611230120269058&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 73,
-      "rank": 13,
-      "channel": "초구딱"
-    },
-    {
-      "title": "나솔) 영호의 갈등을 덜어주려는 순자.gif",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611230120269055&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 161,
-      "rank": 14,
-      "channel": "초구딱"
-    },
-    {
-      "title": "썸녀에게 어제 오후11시 카톡.   새벽1시에 확인해보니 1이 사라져있음",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611230120269052&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 65,
-      "rank": 15,
-      "channel": "초구딱"
-    },
-    {
-      "title": "정부는 4200~4300 선이 무너지면 정권 절단난다고 보는 듯??",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611230120269049&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 243,
-      "rank": 16,
-      "channel": "초구딱"
-    },
-    {
-      "title": "마포·용산·성동·광진 최근 아파트 매매 거래, 서서울삼성아파트·이촌코오롱·브라운스톤금호 (11.23 기준)",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611230120269046&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 33,
-      "rank": 17,
-      "channel": "초구딱"
-    },
-    {
-      "title": "'AI 로봇 의사' 현실로‥실제 수술 첫 성공",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611230120269037&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 122,
-      "rank": 18,
-      "channel": "초구딱"
-    },
-    {
-      "title": "베트남 전쟁에 파병된 사람들은 자랑스러워할 자격이 있나요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611230120269034&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 53,
-      "rank": 19,
-      "channel": "초구딱"
-    },
-    {
-      "title": "저번엔 모건 JP모건 골드만 세창구에서",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611230120269031&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 98,
-      "rank": 20,
-      "channel": "초구딱"
-    },
-    {
-      "title": "[식품][3,290원]너구리 얼큰한맛 120g, 5개",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611230120269028&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 50,
-      "rank": 21,
-      "channel": "초구딱"
-    },
-    {
-      "title": "갤럭시 탭 구입하려고 합니다. 성능대비 가성비 좋은 모델 추천부탁드립니다.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611230120269025&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 60,
-      "rank": 22,
-      "channel": "초구딱"
-    },
-    {
-      "title": "87년생이 강하다는 이유 추가.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611230120269022&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 236,
-      "rank": 23,
-      "channel": "초구딱"
-    },
-    {
-      "title": "청년실업 심각한데.. 무슨 정년연장.",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611230120269019&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 110,
-      "rank": 24,
-      "channel": "초구딱"
-    },
-    {
-      "title": "mlb 보라스 2명으로 메츠에 850억 획득",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611230120269016&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 129,
-      "rank": 25,
-      "channel": "초구딱"
-    },
-    {
-      "title": "지금 시점은 나스닥 투자가 나은듯요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611230120269010&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 150,
-      "rank": 26,
-      "channel": "초구딱"
-    },
-    {
-      "title": "반도체 버블 터지는거 보면서 커뮤니티 활동의 이면을 보게됨",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611230120269007&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 106,
-      "rank": 27,
-      "channel": "초구딱"
-    },
-    {
-      "title": "코스닥은 627 계엄선 뚫렸네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611230120269004&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 176,
-      "rank": 28,
-      "channel": "초구딱"
-    },
-    {
-      "title": "U-19는 드럽게 못하는거 같더니 그 밑 U-17은 제법 괜찮은가보네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611230120268998&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 74,
-      "rank": 29,
-      "channel": "초구딱"
-    },
-    {
-      "title": "6시내고향 강혜연, 겨울왕국 엘사 정유지, 그리고 베스티",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611230120268995&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 121,
-      "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 60,
+      "article_count": 59,
       "topics": [
         {
-          "title": "\"논란에까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-          "angle_type": "논란·사건",
-          "article_count": 6,
-          "source_article": "음주운전 사고 8일밖에 안 됐는데…고경표 ‘핑계고’ 후보 선정 논란",
-          "source_url": "https://m.entertain.naver.com/article/009/0005767091",
+          "title": "\"최태원, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+          "angle_type": "자산·몸값",
+          "article_count": 8,
+          "source_article": "강재준♥이은형, 아들 낳고 잘 사는 줄 알았는데…\"최근 어려워 1억 원 빌려\"",
+          "source_url": "https://m.entertain.naver.com/article/415/0000054074",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "논란에",
-            "고경표",
-            "핑계고",
-            "제외",
-            "수능"
-          ],
-          "template": "논란 집합",
-          "score": 7.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-          "angle_type": "자산·몸값",
-          "article_count": 3,
-          "source_article": "\"1억 매출에 순이익 300만원\"…벼랑 끝에 몰린 자영업의 민낯",
-          "source_url": "https://n.news.naver.com/article/003/0014338522?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
-          "related_names": [
-            "매출에",
-            "순이익",
-            "만원",
-            "벼랑",
-            "끝에"
+            "최태원",
+            "화해권",
+            "재산분",
+            "할금",
+            "내겠다"
           ],
           "template": "자산 서열",
           "score": 7.0,
@@ -355,14 +61,18 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"수능, 대체 무슨 일이?\" 수능 관련 이슈 총정리",
-          "angle_type": "👤 수능",
-          "article_count": 5,
-          "source_article": "수능 직전 ‘부정시험 장비’ 거래 정황…돈만 가로채는 2차 사기 우려도",
-          "source_url": "https://n.news.naver.com/article/028/0002833427?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
+          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 4,
+          "source_article": "오은영도 충격…두 딸 돌보며 대낮부터 음주, 남편 “10년간 몰랐다”",
+          "source_url": "https://m.entertain.naver.com/article/382/0001306187",
+          "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "수능"
+            "오은영",
+            "돌보며",
+            "대낮부",
+            "음주",
+            "남편"
           ],
           "template": "논란 집합",
           "score": 7.0,
@@ -384,20 +94,20 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-          "angle_type": "결혼·이혼",
-          "article_count": 8,
-          "source_article": "\"남편 군 복무 중 임신\"..14세 연하 아내의 '별거' 호소, 무슨 사연?",
-          "source_url": "https://m.entertain.naver.com/article/108/0003489263",
+          "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+          "angle_type": "가족·혈연",
+          "article_count": 6,
+          "source_article": "강재준♥이은형, 아들 낳고 잘 사는 줄 알았는데…\"최근 어려워 1억 원 빌려\"",
+          "source_url": "https://m.entertain.naver.com/article/415/0000054074",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "결혼",
-            "남편",
-            "결혼식",
-            "이상민",
-            "이혜영"
+            "아들",
+            "어머니",
+            "이부진",
+            "강재준",
+            "이은형"
           ],
-          "template": "결혼 화제",
+          "template": "동갑내기",
           "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
@@ -409,51 +119,22 @@
           "table": {
             "headers": [
               "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
+              "나이",
+              "대표작",
+              "현재 활동"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"미우새 결혼설?\" 미우새 연애사 총정리",
-          "angle_type": "👤 미우새",
+          "title": "\"화해권 자산이 얼마?\" 화해권급 자산가 스타 TOP10",
+          "angle_type": "👤 화해권",
           "article_count": 3,
-          "source_article": "“이제 안 나온다며” 이혜영 ‘미우새’ 등판… ‘전남편’ 이상민 간접 언급 폭소",
-          "source_url": "https://m.entertain.naver.com/article/009/0005767348",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "미우새"
-          ],
-          "template": "결혼 화제",
-          "score": 6.7,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"만원 자산이 얼마?\" 만원급 자산가 스타 TOP10",
-          "angle_type": "👤 만원",
-          "article_count": 3,
-          "source_article": "\"삼전 30만원·하닉 200만원 이상에 물린 사람…3년은 마음 비워야\"",
-          "source_url": "https://n.news.naver.com/article/003/0014338432?ntype=RANKING",
+          "source_article": "최태원, 대법원에 화해권고 요청...\"9,440억 지급하겠다\"",
+          "source_url": "https://n.news.naver.com/article/052/0002436858?ntype=RANKING",
           "source_name": "[폴백] 스포츠 랭킹",
           "related_names": [
-            "만원"
+            "화해권"
           ],
           "template": "자산 서열",
           "score": 6.5,
@@ -475,21 +156,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 2,
-          "source_article": "'장정윤♥' 김승현, 27세 큰딸 내년 결혼→김포 신혼집 마련 \"능력있는 사위 만나\"",
-          "source_url": "https://m.entertain.naver.com/article/076/0004468699",
+          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "angle_type": "결혼·이혼",
+          "article_count": 4,
+          "source_article": "‘오징어커플’ 진짜였다…박강균·구혜리, 5년 비밀 연애 끝 내년 3월 결혼",
+          "source_url": "https://m.entertain.naver.com/article/440/0000053847",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "장정윤",
-            "김승현",
-            "큰딸",
+            "결혼",
             "내년",
-            "결혼"
+            "오징어",
+            "커플",
+            "진짜였"
           ],
-          "template": "동갑내기",
-          "score": 6.4,
+          "template": "결혼 화제",
+          "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -500,122 +181,31 @@
           "table": {
             "headers": [
               "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"이상민, 대체 무슨 일이?\" 이상민 관련 이슈 총정리",
-          "angle_type": "👤 이상민",
-          "article_count": 4,
-          "source_article": "“이제 안 나온다며” 이혜영 ‘미우새’ 등판… ‘전남편’ 이상민 간접 언급 폭소",
-          "source_url": "https://m.entertain.naver.com/article/009/0005767348",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "이상민"
-          ],
-          "template": "논란 집합",
-          "score": 6.4,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"이혜영, 대체 무슨 일이?\" 이혜영 관련 이슈 총정리",
-          "angle_type": "👤 이혜영",
-          "article_count": 4,
-          "source_article": "“이제 안 나온다며” 이혜영 ‘미우새’ 등판… ‘전남편’ 이상민 간접 언급 폭소",
-          "source_url": "https://m.entertain.naver.com/article/009/0005767348",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "이혜영"
-          ],
-          "template": "논란 집합",
-          "score": 6.4,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-          "angle_type": "투병·건강",
-          "article_count": 4,
-          "source_article": "간암투병→생활고도 이겨냈는데…원로배우 故 남포동, 오늘(23일) 1주기",
-          "source_url": "https://m.entertain.naver.com/article/112/0003814055",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "백신",
-            "간암투",
-            "생활고",
-            "이겨냈",
-            "는데"
-          ],
-          "template": "투병 극복",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "투병 질환",
-              "공백기",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"돌연\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 돌연",
+          "title": "\"국정원\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 국정원",
           "article_count": 3,
-          "source_article": "“불륜 아냐” 입장 냈지만..김원효 트젠 바 영상 돌연 삭제",
-          "source_url": "https://m.entertain.naver.com/article/076/0004468630",
-          "source_name": "엔터 많이 본 뉴스",
+          "source_article": "국정원장 강금실·외교 임웅순·통일 홍익표 지명‥행안·문체도 개각",
+          "source_url": "https://n.news.naver.com/article/214/0001537418?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
           "related_names": [
-            "돌연"
+            "국정원"
           ],
           "template": "인맥",
           "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
-            "status": "재활용 가능",
-            "matched_title": "수능 0.1% 찍고 돌연 데뷔? 전교 1등 출신 스타 TOP 10 #연예인 #연예계소식",
-            "matched_views": 66304,
-            "reason": "기간 경과 314일"
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
           },
           "table": {
             "headers": [
@@ -628,14 +218,101 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"는데\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 는데",
+          "title": "\"통일\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 통일",
           "article_count": 3,
-          "source_article": "간암투병→생활고도 이겨냈는데…원로배우 故 남포동, 오늘(23일) 1주기",
-          "source_url": "https://m.entertain.naver.com/article/112/0003814055",
-          "source_name": "엔터 많이 본 뉴스",
+          "source_article": "국정원장 강금실·외교 임웅순·통일 홍익표 지명‥행안·문체도 개각",
+          "source_url": "https://n.news.naver.com/article/214/0001537418?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
           "related_names": [
-            "는데"
+            "통일"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"외교\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 외교",
+          "article_count": 3,
+          "source_article": "국정원장 강금실·외교 임웅순·통일 홍익표 지명‥행안·문체도 개각",
+          "source_url": "https://n.news.naver.com/article/214/0001537418?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
+          "related_names": [
+            "외교"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"강금실\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 강금실",
+          "article_count": 3,
+          "source_article": "국정원장 강금실·외교 임웅순·통일 홍익표 지명‥행안·문체도 개각",
+          "source_url": "https://n.news.naver.com/article/214/0001537418?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
+          "related_names": [
+            "강금실"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"어머니\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 어머니",
+          "article_count": 3,
+          "source_article": "\"다시 해봐\" 92세 어머니의 격려…69세에 로스쿨 졸업한 美여성",
+          "source_url": "https://n.news.naver.com/article/421/0009305163?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
+          "related_names": [
+            "어머니"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -659,15 +336,7 @@
       ],
       "keyword_freq": [
         [
-          "수능",
-          5
-        ],
-        [
-          "이혜영",
-          4
-        ],
-        [
-          "돌연",
+          "아들",
           3
         ],
         [
@@ -675,85 +344,81 @@
           3
         ],
         [
-          "미우새",
+          "화해권고",
           3
         ],
         [
-          "이상민",
+          "최태원",
           3
         ],
         [
-          "논란에",
+          "통일",
           3
         ],
         [
-          "만원",
+          "외교",
           3
         ],
         [
-          "입장",
+          "강금실",
+          3
+        ],
+        [
+          "연하",
           2
         ],
         [
-          "김원효",
+          "쏟아지자",
           2
         ],
         [
-          "남편",
+          "나혼산",
           2
         ],
         [
-          "무슨",
+          "김신영",
           2
         ],
         [
-          "아내의",
+          "박지윤",
           2
         ],
         [
-          "고경표",
+          "비밀",
           2
         ],
         [
-          "핑계고",
+          "내년",
           2
         ],
         [
-          "위해",
+          "걱정",
           2
         ],
         [
-          "등판",
+          "년간",
           2
         ],
         [
-          "전처",
+          "알고",
           2
         ],
         [
-          "제외",
+          "포함",
           2
         ],
         [
-          "바로",
+          "거짓말",
+          2
+        ],
+        [
+          "일의",
           2
         ]
       ],
       "name_freq": [
         [
-          "수능",
-          5
-        ],
-        [
-          "이상민",
-          4
-        ],
-        [
-          "이혜영",
-          4
-        ],
-        [
-          "돌연",
+          "아들",
           3
         ],
         [
@@ -761,275 +426,129 @@
           3
         ],
         [
-          "는데",
+          "화해권",
           3
         ],
         [
-          "미우새",
+          "최태원",
           3
         ],
         [
-          "논란에",
+          "국정원",
           3
         ],
         [
-          "만원",
+          "통일",
           3
         ],
         [
-          "입장",
+          "외교",
+          3
+        ],
+        [
+          "강금실",
+          3
+        ],
+        [
+          "어머니",
+          3
+        ],
+        [
+          "연하",
           2
         ],
         [
-          "김원효",
+          "쏟아지",
           2
         ],
         [
-          "남편",
+          "김신영",
           2
         ],
         [
-          "무슨",
+          "나혼산",
           2
         ],
         [
-          "아내의",
+          "박지윤",
           2
         ],
         [
-          "고경표",
+          "최동석",
           2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
-          3
-        ],
-        [
-          "논란·사건",
-          6
-        ],
-        [
-          "결혼·이혼",
           8
         ],
         [
-          "투병·건강",
+          "논란·사건",
+          4
+        ],
+        [
+          "결혼·이혼",
           4
         ],
         [
           "가족·혈연",
-          2
+          6
         ]
       ]
     },
     "초구딱": {
-      "article_count": 30,
-      "topics": [
-        {
-          "title": "\"안내\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 안내",
-          "article_count": 3,
-          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "안내"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        }
-      ],
+      "article_count": 1,
+      "topics": [],
       "keyword_freq": [
         [
-          "안내",
-          3
-        ],
-        [
-          "조치",
-          2
-        ],
-        [
-          "시행",
+          "가족들",
           1
         ],
         [
-          "향후",
+          "응원",
           1
         ],
         [
-          "사항",
+          "패배한",
           1
         ],
         [
-          "말머리",
+          "향한",
           1
         ],
         [
-          "위반",
+          "은퇴전",
           1
         ],
         [
-          "처리",
+          "추성훈",
           1
         ],
         [
-          "인용",
-          1
-        ],
-        [
-          "유의사항",
-          1
-        ],
-        [
-          "필독",
-          1
-        ],
-        [
-          "뉴스저작물",
-          1
-        ],
-        [
-          "가이드",
-          1
-        ],
-        [
-          "업데이트",
-          1
-        ],
-        [
-          "장애",
-          1
-        ],
-        [
-          "해외",
-          1
-        ],
-        [
-          "접속",
-          1
-        ],
-        [
-          "이미지",
-          1
-        ],
-        [
-          "적용",
-          1
-        ],
-        [
-          "식별",
+          "파이터",
           1
         ]
       ],
-      "name_freq": [
-        [
-          "안내",
-          3
-        ],
-        [
-          "조치",
-          2
-        ]
-      ],
+      "name_freq": [],
       "angle_scores": []
     }
   },
-  "topics": [
-    {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
-      "article_count": 3,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "안내"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    }
-  ],
+  "topics": [],
   "all_topics": [
     {
-      "title": "\"논란에까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
-      "angle_type": "논란·사건",
-      "article_count": 6,
-      "source_article": "음주운전 사고 8일밖에 안 됐는데…고경표 ‘핑계고’ 후보 선정 논란",
-      "source_url": "https://m.entertain.naver.com/article/009/0005767091",
+      "title": "\"최태원, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "angle_type": "자산·몸값",
+      "article_count": 8,
+      "source_article": "강재준♥이은형, 아들 낳고 잘 사는 줄 알았는데…\"최근 어려워 1억 원 빌려\"",
+      "source_url": "https://m.entertain.naver.com/article/415/0000054074",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "논란에",
-        "고경표",
-        "핑계고",
-        "제외",
-        "수능"
-      ],
-      "template": "논란 집합",
-      "score": 7.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
-      "angle_type": "자산·몸값",
-      "article_count": 3,
-      "source_article": "\"1억 매출에 순이익 300만원\"…벼랑 끝에 몰린 자영업의 민낯",
-      "source_url": "https://n.news.naver.com/article/003/0014338522?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
-      "related_names": [
-        "매출에",
-        "순이익",
-        "만원",
-        "벼랑",
-        "끝에"
+        "최태원",
+        "화해권",
+        "재산분",
+        "할금",
+        "내겠다"
       ],
       "template": "자산 서열",
       "score": 7.0,
@@ -1051,14 +570,18 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"수능, 대체 무슨 일이?\" 수능 관련 이슈 총정리",
-      "angle_type": "👤 수능",
-      "article_count": 5,
-      "source_article": "수능 직전 ‘부정시험 장비’ 거래 정황…돈만 가로채는 2차 사기 우려도",
-      "source_url": "https://n.news.naver.com/article/028/0002833427?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
+      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 4,
+      "source_article": "오은영도 충격…두 딸 돌보며 대낮부터 음주, 남편 “10년간 몰랐다”",
+      "source_url": "https://m.entertain.naver.com/article/382/0001306187",
+      "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "수능"
+        "오은영",
+        "돌보며",
+        "대낮부",
+        "음주",
+        "남편"
       ],
       "template": "논란 집합",
       "score": 7.0,
@@ -1080,20 +603,20 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 8,
-      "source_article": "\"남편 군 복무 중 임신\"..14세 연하 아내의 '별거' 호소, 무슨 사연?",
-      "source_url": "https://m.entertain.naver.com/article/108/0003489263",
+      "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 6,
+      "source_article": "강재준♥이은형, 아들 낳고 잘 사는 줄 알았는데…\"최근 어려워 1억 원 빌려\"",
+      "source_url": "https://m.entertain.naver.com/article/415/0000054074",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "결혼",
-        "남편",
-        "결혼식",
-        "이상민",
-        "이혜영"
+        "아들",
+        "어머니",
+        "이부진",
+        "강재준",
+        "이은형"
       ],
-      "template": "결혼 화제",
+      "template": "동갑내기",
       "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
@@ -1105,51 +628,22 @@
       "table": {
         "headers": [
           "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
+          "나이",
+          "대표작",
+          "현재 활동"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"미우새 결혼설?\" 미우새 연애사 총정리",
-      "angle_type": "👤 미우새",
+      "title": "\"화해권 자산이 얼마?\" 화해권급 자산가 스타 TOP10",
+      "angle_type": "👤 화해권",
       "article_count": 3,
-      "source_article": "“이제 안 나온다며” 이혜영 ‘미우새’ 등판… ‘전남편’ 이상민 간접 언급 폭소",
-      "source_url": "https://m.entertain.naver.com/article/009/0005767348",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "미우새"
-      ],
-      "template": "결혼 화제",
-      "score": 6.7,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"만원 자산이 얼마?\" 만원급 자산가 스타 TOP10",
-      "angle_type": "👤 만원",
-      "article_count": 3,
-      "source_article": "\"삼전 30만원·하닉 200만원 이상에 물린 사람…3년은 마음 비워야\"",
-      "source_url": "https://n.news.naver.com/article/003/0014338432?ntype=RANKING",
+      "source_article": "최태원, 대법원에 화해권고 요청...\"9,440억 지급하겠다\"",
+      "source_url": "https://n.news.naver.com/article/052/0002436858?ntype=RANKING",
       "source_name": "[폴백] 스포츠 랭킹",
       "related_names": [
-        "만원"
+        "화해권"
       ],
       "template": "자산 서열",
       "score": 6.5,
@@ -1171,21 +665,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 2,
-      "source_article": "'장정윤♥' 김승현, 27세 큰딸 내년 결혼→김포 신혼집 마련 \"능력있는 사위 만나\"",
-      "source_url": "https://m.entertain.naver.com/article/076/0004468699",
+      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 4,
+      "source_article": "‘오징어커플’ 진짜였다…박강균·구혜리, 5년 비밀 연애 끝 내년 3월 결혼",
+      "source_url": "https://m.entertain.naver.com/article/440/0000053847",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "장정윤",
-        "김승현",
-        "큰딸",
+        "결혼",
         "내년",
-        "결혼"
+        "오징어",
+        "커플",
+        "진짜였"
       ],
-      "template": "동갑내기",
-      "score": 6.4,
+      "template": "결혼 화제",
+      "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1196,142 +690,22 @@
       "table": {
         "headers": [
           "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이상민, 대체 무슨 일이?\" 이상민 관련 이슈 총정리",
-      "angle_type": "👤 이상민",
-      "article_count": 4,
-      "source_article": "“이제 안 나온다며” 이혜영 ‘미우새’ 등판… ‘전남편’ 이상민 간접 언급 폭소",
-      "source_url": "https://m.entertain.naver.com/article/009/0005767348",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "이상민"
-      ],
-      "template": "논란 집합",
-      "score": 6.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"이혜영, 대체 무슨 일이?\" 이혜영 관련 이슈 총정리",
-      "angle_type": "👤 이혜영",
-      "article_count": 4,
-      "source_article": "“이제 안 나온다며” 이혜영 ‘미우새’ 등판… ‘전남편’ 이상민 간접 언급 폭소",
-      "source_url": "https://m.entertain.naver.com/article/009/0005767348",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "이혜영"
-      ],
-      "template": "논란 집합",
-      "score": 6.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
-      "angle_type": "투병·건강",
-      "article_count": 4,
-      "source_article": "간암투병→생활고도 이겨냈는데…원로배우 故 남포동, 오늘(23일) 1주기",
-      "source_url": "https://m.entertain.naver.com/article/112/0003814055",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "백신",
-        "간암투",
-        "생활고",
-        "이겨냈",
-        "는데"
-      ],
-      "template": "투병 극복",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "투병 질환",
-          "공백기",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"돌연\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 돌연",
+      "title": "\"국정원\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 국정원",
       "article_count": 3,
-      "source_article": "“불륜 아냐” 입장 냈지만..김원효 트젠 바 영상 돌연 삭제",
-      "source_url": "https://m.entertain.naver.com/article/076/0004468630",
-      "source_name": "엔터 많이 본 뉴스",
+      "source_article": "국정원장 강금실·외교 임웅순·통일 홍익표 지명‥행안·문체도 개각",
+      "source_url": "https://n.news.naver.com/article/214/0001537418?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
       "related_names": [
-        "돌연"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "재활용 가능",
-        "matched_title": "수능 0.1% 찍고 돌연 데뷔? 전교 1등 출신 스타 TOP 10 #연예인 #연예계소식",
-        "matched_views": 66304,
-        "reason": "기간 경과 314일"
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"는데\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 는데",
-      "article_count": 3,
-      "source_article": "간암투병→생활고도 이겨냈는데…원로배우 故 남포동, 오늘(23일) 1주기",
-      "source_url": "https://m.entertain.naver.com/article/112/0003814055",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "는데"
+        "국정원"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1353,14 +727,14 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
+      "title": "\"통일\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 통일",
       "article_count": 3,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
+      "source_article": "국정원장 강금실·외교 임웅순·통일 홍익표 지명‥행안·문체도 개각",
+      "source_url": "https://n.news.naver.com/article/214/0001537418?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
       "related_names": [
-        "안내"
+        "통일"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -1379,20 +753,99 @@
           "현재 상황"
         ]
       },
-      "channel": "초구딱"
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"외교\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 외교",
+      "article_count": 3,
+      "source_article": "국정원장 강금실·외교 임웅순·통일 홍익표 지명‥행안·문체도 개각",
+      "source_url": "https://n.news.naver.com/article/214/0001537418?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
+      "related_names": [
+        "외교"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"강금실\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 강금실",
+      "article_count": 3,
+      "source_article": "국정원장 강금실·외교 임웅순·통일 홍익표 지명‥행안·문체도 개각",
+      "source_url": "https://n.news.naver.com/article/214/0001537418?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
+      "related_names": [
+        "강금실"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"어머니\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 어머니",
+      "article_count": 3,
+      "source_article": "\"다시 해봐\" 92세 어머니의 격려…69세에 로스쿨 졸업한 美여성",
+      "source_url": "https://n.news.naver.com/article/421/0009305163?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
+      "related_names": [
+        "어머니"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
     }
   ],
   "keyword_freq": [
     [
-      "수능",
-      5
-    ],
-    [
-      "이혜영",
-      4
-    ],
-    [
-      "돌연",
+      "아들",
       3
     ],
     [
@@ -1400,85 +853,81 @@
       3
     ],
     [
-      "미우새",
+      "화해권고",
       3
     ],
     [
-      "이상민",
+      "최태원",
       3
     ],
     [
-      "논란에",
+      "통일",
       3
     ],
     [
-      "만원",
+      "외교",
       3
     ],
     [
-      "입장",
+      "강금실",
+      3
+    ],
+    [
+      "연하",
       2
     ],
     [
-      "김원효",
+      "쏟아지자",
       2
     ],
     [
-      "남편",
+      "나혼산",
       2
     ],
     [
-      "무슨",
+      "김신영",
       2
     ],
     [
-      "아내의",
+      "박지윤",
       2
     ],
     [
-      "고경표",
+      "비밀",
       2
     ],
     [
-      "핑계고",
+      "내년",
       2
     ],
     [
-      "위해",
+      "걱정",
       2
     ],
     [
-      "등판",
+      "년간",
       2
     ],
     [
-      "전처",
+      "알고",
       2
     ],
     [
-      "제외",
+      "포함",
       2
     ],
     [
-      "바로",
+      "거짓말",
+      2
+    ],
+    [
+      "일의",
       2
     ]
   ],
   "name_freq": [
     [
-      "수능",
-      5
-    ],
-    [
-      "이상민",
-      4
-    ],
-    [
-      "이혜영",
-      4
-    ],
-    [
-      "돌연",
+      "아들",
       3
     ],
     [
@@ -1486,47 +935,59 @@
       3
     ],
     [
-      "는데",
+      "화해권",
       3
     ],
     [
-      "미우새",
+      "최태원",
       3
     ],
     [
-      "논란에",
+      "국정원",
       3
     ],
     [
-      "만원",
+      "통일",
       3
     ],
     [
-      "입장",
+      "외교",
+      3
+    ],
+    [
+      "강금실",
+      3
+    ],
+    [
+      "어머니",
+      3
+    ],
+    [
+      "연하",
       2
     ],
     [
-      "김원효",
+      "쏟아지",
       2
     ],
     [
-      "남편",
+      "김신영",
       2
     ],
     [
-      "무슨",
+      "나혼산",
       2
     ],
     [
-      "아내의",
+      "박지윤",
       2
     ],
     [
-      "고경표",
+      "최동석",
       2
     ]
   ],
-  "total_topics_generated": 13,
-  "valid_topics": 13,
+  "total_topics_generated": 10,
+  "valid_topics": 10,
   "excluded_duplicates": 0
 }
