@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-11-24 00:26:30",
+  "scan_time": "2026-11-24 03:09:06",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -9,301 +9,40 @@
     "[폴백] 스포츠 랭킹": 30,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 30
+    "MLB파크 불펜": 0
   },
-  "total_articles": 90,
+  "total_articles": 60,
   "articles": [
     {
-      "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 1,
-      "channel": "초구딱"
-    },
-    {
-      "title": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 2,
-      "channel": "초구딱"
-    },
-    {
-      "title": "🛠️[업데이트] 해외 접속 장애 조치 관련 안내_260814🛠️",
-      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202608130000002151",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 3,
-      "channel": "초구딱"
-    },
-    {
-      "title": "[공지] 이미지 업로드 시 불법촬영물등 비교·식별 조치 적용 안내",
-      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202609040000002163",
-      "source": "MLB파크 불펜",
-      "category": "야구",
+      "title": "'명품 쇼핑, 폭탄주 파티' 김건희·윤석열의 '해외 순방'…이 대통령 \"돼지 눈엔 돼지만\"",
+      "url": "https://n.news.naver.com/article/437/0000522126?ntype=RANKING",
+      "source": "[폴백] 스포츠 랭킹",
+      "category": "스포츠",
       "views": 0,
       "rank": 4,
-      "channel": "초구딱"
-    },
-    {
-      "title": "삼전 하이닉스만 파킹 잘해줘도 날라갈 종목들 많긴한데 자꾸 끌고 내려가긴 하내요 ㅎㅎ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120284667&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 5,
-      "channel": "초구딱"
-    },
-    {
-      "title": "투심이 진짜 많이 죽었음",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120284664&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 0,
-      "rank": 6,
-      "channel": "초구딱"
-    },
-    {
-      "title": "두 대의 cctv가 당신을 감시합니다...mp4",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120284661&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 28,
-      "rank": 7,
-      "channel": "초구딱"
-    },
-    {
-      "title": "아 뭔가 너무 아쉬운데...",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120284655&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 46,
-      "rank": 8,
-      "channel": "초구딱"
-    },
-    {
-      "title": "확실히 개미들은 백전백패임",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120284652&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 91,
-      "rank": 9,
-      "channel": "초구딱"
-    },
-    {
-      "title": "코스피 6%이상 급등 흔하진 않죠?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120284646&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 60,
-      "rank": 10,
-      "channel": "초구딱"
-    },
-    {
-      "title": "인터뷰 전문 유튜버",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120284643&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 194,
-      "rank": 11,
-      "channel": "초구딱"
-    },
-    {
-      "title": "반드시 삼전 10이하 하닉70이하 갑니다",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120284640&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 114,
-      "rank": 12,
-      "channel": "초구딱"
-    },
-    {
-      "title": "누가봐도 다시 내릴거 같으니 살 수가 없네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120284637&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 72,
-      "rank": 13,
-      "channel": "초구딱"
-    },
-    {
-      "title": "아브디야 3연속 3점 ㄷㄷㄷㄷ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120284634&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 49,
-      "rank": 14,
-      "channel": "초구딱"
-    },
-    {
-      "title": "지금 시기에 절대 주식 시작하지마세요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120284631&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 99,
-      "rank": 15,
-      "channel": "초구딱"
-    },
-    {
-      "title": "개인 던지는걸 외인이 얼마나 받아줄라나..",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120284628&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 103,
-      "rank": 16,
-      "channel": "초구딱"
-    },
-    {
-      "title": "어짜피3000가는데 그만사세요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120284625&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 73,
-      "rank": 17,
-      "channel": "초구딱"
-    },
-    {
-      "title": "소비생활 30년만에 깨달은 것",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120284616&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 95,
-      "rank": 18,
-      "channel": "초구딱"
-    },
-    {
-      "title": "용감한 형제 최대 수혜자는 AOA같네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120284613&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 91,
-      "rank": 19,
-      "channel": "초구딱"
-    },
-    {
-      "title": "ㅋㅋㅋㅋㅋㅋㅋ 국장꼬라지",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120284607&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 411,
-      "rank": 20,
-      "channel": "초구딱"
-    },
-    {
-      "title": "국장은 다들 손절치고 나가서 이런걸까요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120284604&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 190,
-      "rank": 21,
-      "channel": "초구딱"
-    },
-    {
-      "title": "뉴럴링크 근황..",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120284601&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 109,
-      "rank": 22,
-      "channel": "초구딱"
-    },
-    {
-      "title": "5000에 매물대가 몰린듯",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120284598&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 66,
-      "rank": 23,
-      "channel": "초구딱"
-    },
-    {
-      "title": "주식보단 토토",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120284595&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 60,
-      "rank": 24,
-      "channel": "초구딱"
-    },
-    {
-      "title": "물리치료 이거 효과 있긴 한가요?",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120284592&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 39,
-      "rank": 25,
-      "channel": "초구딱"
-    },
-    {
-      "title": "하이닉스 시가 대비  4% 하락중",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120284589&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 452,
-      "rank": 26,
-      "channel": "초구딱"
-    },
-    {
-      "title": "오늘 삼전닉스 보합으로 끝나면 역대급일듯 ㄷㄷ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120284586&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 156,
-      "rank": 27,
-      "channel": "초구딱"
-    },
-    {
-      "title": "5프로 내리고 5프로 오르면",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120284580&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 84,
-      "rank": 28,
-      "channel": "초구딱"
-    },
-    {
-      "title": "최태원이나 젠슨황 부인정도 되면 조선시대 중전 마인드도 있었을듯",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120284577&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 40,
-      "rank": 29,
-      "channel": "초구딱"
-    },
-    {
-      "title": "주식들 다 날라가네요....",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611240120284571&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "source": "MLB파크 불펜",
-      "category": "야구",
-      "views": 395,
-      "rank": 30,
       "channel": "초구딱"
     }
   ],
   "channels": {
     "정보주는하마": {
-      "article_count": 60,
+      "article_count": 59,
       "topics": [
         {
-          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+          "title": "\"경찰까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
           "angle_type": "논란·사건",
-          "article_count": 2,
-          "source_article": "'트젠바 논란' 김원효, 폭로 나왔다 \"심진화가 거지인 줄 모르고 결혼\" ('개세모')",
-          "source_url": "https://m.entertain.naver.com/article/076/0004468940",
+          "article_count": 6,
+          "source_article": "'음주운전 청소차 추돌' 고경표, 경찰 출석…\"피해 미화원께 직접 사죄\"",
+          "source_url": "https://m.entertain.naver.com/article/465/0000021236",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "트젠바",
-            "김원효",
-            "폭로",
-            "나왔다",
-            "심진화"
+            "경찰",
+            "구하라",
+            "전광훈",
+            "목사",
+            "구속영"
           ],
           "template": "논란 집합",
-          "score": 7.3,
+          "score": 7.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -322,18 +61,18 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+          "title": "\"전광훈, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
           "angle_type": "자산·몸값",
-          "article_count": 3,
+          "article_count": 4,
           "source_article": "임성한, 36년 만에 초호화 자택 공개…얼마나 부자길래 \"재산은 못 숨겨\"",
           "source_url": "https://m.entertain.naver.com/article/312/0000785761",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
+            "전광훈",
+            "목사",
+            "구속영",
             "임성한",
-            "초호화",
-            "자택",
-            "얼마나",
-            "부자길"
+            "초호화"
           ],
           "template": "자산 서열",
           "score": 7.0,
@@ -355,83 +94,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"정체는 결혼설?\" 정체는 연애사 총정리",
-          "angle_type": "👤 정체는",
-          "article_count": 3,
-          "source_article": "백종원→안성재, 결혼식서 깜짝 포착됐다…신랑 정체는 알고 보니 '재혼' 트리플스타",
-          "source_url": "https://m.entertain.naver.com/article/312/0000785799",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "정체는"
-          ],
-          "template": "결혼 화제",
-          "score": 7.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-          "angle_type": "결혼·이혼",
-          "article_count": 8,
-          "source_article": "‘오징어커플’ 진짜였다…박강균·구혜리, 5년 비밀 연애 끝 내년 3월 결혼",
-          "source_url": "https://m.entertain.naver.com/article/440/0000053847",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "결혼",
-            "재혼",
-            "이혼",
-            "변호사",
-            "오징어"
-          ],
-          "template": "결혼 화제",
-          "score": 6.8,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+          "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
           "angle_type": "가족·혈연",
-          "article_count": 5,
-          "source_article": "강재준♥이은형, 아들 낳고 잘 사는 줄 알았는데…\"최근 어려워 1억 원 빌려\"",
-          "source_url": "https://m.entertain.naver.com/article/415/0000054074",
+          "article_count": 4,
+          "source_article": "'김구라 아들' 그리, ♥여친 모습 공개 \"예뻐서 나만 보려고 했는데\"",
+          "source_url": "https://m.entertain.naver.com/article/415/0000054105",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
+            "김구라",
             "아들",
-            "강재준",
-            "이은형",
-            "낳고",
-            "사는"
+            "그리",
+            "여친",
+            "모습"
           ],
           "template": "동갑내기",
-          "score": 6.8,
+          "score": 7.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -450,6 +127,39 @@
           "channel": "정보주는하마"
         },
         {
+          "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
+          "angle_type": "결혼·이혼",
+          "article_count": 3,
+          "source_article": "백종원→안성재, 결혼식서 깜짝 포착됐다…신랑 정체는 알고 보니 '재혼' 트리플스타",
+          "source_url": "https://m.entertain.naver.com/article/312/0000785799",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "백종원",
+            "안성재",
+            "결혼식",
+            "깜짝",
+            "포착됐"
+          ],
+          "template": "결혼 화제",
+          "score": 7.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "재활용 가능",
+            "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
+            "matched_views": 720727,
+            "reason": "검증됨 720,727회 · 227일 경과"
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
           "title": "\"젠슨, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
           "angle_type": "복귀·근황",
           "article_count": 4,
@@ -458,10 +168,10 @@
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "젠슨",
-            "박군",
-            "한영",
-            "한동안",
-            "조용하"
+            "치켜든",
+            "트럼프",
+            "축하",
+            "박군"
           ],
           "template": "장기 공백 복귀",
           "score": 6.3,
@@ -483,74 +193,49 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"영공\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 영공",
-          "article_count": 4,
-          "source_article": "울릉군 지역에 위급재난문자 발령...공군 \"러 항공기 영공 근접\"",
-          "source_url": "https://n.news.naver.com/article/052/0002437119?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
-          "related_names": [
-            "영공"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"침범\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 침범",
-          "article_count": 4,
-          "source_article": "울릉군 지역에 위급재난문자 발령...북 항공기 추정 비행체 침범",
-          "source_url": "https://n.news.naver.com/article/052/0002437117?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
-          "related_names": [
-            "침범"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"고경표\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 고경표",
+          "title": "\"감독관, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "angle_type": "스포츠",
           "article_count": 3,
+          "source_article": "신호등 없는 횡단보도서 보행자 '쾅'…뇌출혈·골절에도 사과 없었다",
+          "source_url": "https://n.news.naver.com/article/437/0000522112?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
+          "related_names": [
+            "감독관",
+            "신호등",
+            "횡단보",
+            "도서",
+            "보행자"
+          ],
+          "template": "스포츠 기록",
+          "score": 6.3,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"고경표, 대체 무슨 일이?\" 고경표 관련 이슈 총정리",
+          "angle_type": "👤 고경표",
+          "article_count": 4,
           "source_article": "\"대리운전, 왜 안 불렀냐\"..고경표, 부르튼 입술로 경찰서 포토라인",
           "source_url": "https://m.entertain.naver.com/article/108/0003489606",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
             "고경표"
           ],
-          "template": "인맥",
+          "template": "논란 집합",
           "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
@@ -562,269 +247,8 @@
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"차은우\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 차은우",
-          "article_count": 3,
-          "source_article": "‘광명 차은우’ 붕어빵 청년, 정체는 연영과 휴학생",
-          "source_url": "https://m.entertain.naver.com/article/410/0001148073",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "차은우"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"붕어빵\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 붕어빵",
-          "article_count": 3,
-          "source_article": "‘광명 차은우’ 붕어빵 청년, 정체는 연영과 휴학생",
-          "source_url": "https://m.entertain.naver.com/article/410/0001148073",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "붕어빵"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"광명\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 광명",
-          "article_count": 3,
-          "source_article": "‘광명 차은우’ 붕어빵 청년, 정체는 연영과 휴학생",
-          "source_url": "https://m.entertain.naver.com/article/410/0001148073",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "광명"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"군용기\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 군용기",
-          "article_count": 3,
-          "source_article": "군 \"러시아 군용기 여러 대, 동해 카디즈 진입...영공침범 없어\"",
-          "source_url": "https://n.news.naver.com/article/052/0002437120?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
-          "related_names": [
-            "군용기"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"없어\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 없어",
-          "article_count": 3,
-          "source_article": "군 \"러시아 군용기 여러 대, 동해 카디즈 진입...영공침범 없어\"",
-          "source_url": "https://n.news.naver.com/article/052/0002437120?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
-          "related_names": [
-            "없어"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"발령\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 발령",
-          "article_count": 3,
-          "source_article": "울릉군 지역에 위급재난문자 발령...공군 \"러 항공기 영공 근접\"",
-          "source_url": "https://n.news.naver.com/article/052/0002437119?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
-          "related_names": [
-            "발령"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"울릉군\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 울릉군",
-          "article_count": 3,
-          "source_article": "울릉군 지역에 위급재난문자 발령...공군 \"러 항공기 영공 근접\"",
-          "source_url": "https://n.news.naver.com/article/052/0002437119?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
-          "related_names": [
-            "울릉군"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"지역에\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 지역에",
-          "article_count": 3,
-          "source_article": "울릉군 지역에 위급재난문자 발령...공군 \"러 항공기 영공 근접\"",
-          "source_url": "https://n.news.naver.com/article/052/0002437119?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
-          "related_names": [
-            "지역에"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"항공기\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 항공기",
-          "article_count": 3,
-          "source_article": "울릉군 지역에 위급재난문자 발령...공군 \"러 항공기 영공 근접\"",
-          "source_url": "https://n.news.naver.com/article/052/0002437119?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
-          "related_names": [
-            "항공기"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
+              "소속·직업",
+              "논란 내용",
               "현재 상황"
             ]
           },
@@ -833,71 +257,19 @@
       ],
       "keyword_freq": [
         [
-          "영공",
+          "고경표",
           4
+        ],
+        [
+          "경찰",
+          3
         ],
         [
           "젠슨",
-          4
-        ],
-        [
-          "침범",
-          4
-        ],
-        [
-          "고경표",
           3
         ],
         [
-          "아들",
-          3
-        ],
-        [
-          "결혼",
-          3
-        ],
-        [
-          "정체는",
-          3
-        ],
-        [
-          "차은우",
-          3
-        ],
-        [
-          "붕어빵",
-          3
-        ],
-        [
-          "광명",
-          3
-        ],
-        [
-          "군용기",
-          3
-        ],
-        [
-          "없어",
-          3
-        ],
-        [
-          "발령",
-          3
-        ],
-        [
-          "울릉군",
-          3
-        ],
-        [
-          "지역에",
-          3
-        ],
-        [
-          "항공기",
-          3
-        ],
-        [
-          "교제",
+          "거짓말",
           2
         ],
         [
@@ -905,187 +277,161 @@
           2
         ],
         [
-          "사는",
+          "알고",
           2
         ],
         [
-          "여친",
+          "상간녀",
+          2
+        ],
+        [
+          "박지윤",
+          2
+        ],
+        [
+          "허위",
+          2
+        ],
+        [
+          "보니",
+          2
+        ],
+        [
+          "최동석",
+          2
+        ],
+        [
+          "하차",
+          2
+        ],
+        [
+          "출석",
+          2
+        ],
+        [
+          "깜짝",
+          2
+        ],
+        [
+          "정체는",
+          2
+        ],
+        [
+          "영어",
+          2
+        ],
+        [
+          "수능",
+          2
+        ],
+        [
+          "강금실",
+          2
+        ],
+        [
+          "꺼진",
+          2
+        ],
+        [
+          "탐지",
           2
         ]
       ],
       "name_freq": [
         [
-          "영공",
+          "고경표",
           4
+        ],
+        [
+          "경찰",
+          3
         ],
         [
           "젠슨",
-          4
-        ],
-        [
-          "침범",
-          4
-        ],
-        [
-          "고경표",
           3
         ],
         [
-          "아들",
-          3
+          "거짓말",
+          2
         ],
         [
-          "결혼",
-          3
+          "입술로",
+          2
+        ],
+        [
+          "알고",
+          2
+        ],
+        [
+          "상간녀",
+          2
+        ],
+        [
+          "박지윤",
+          2
+        ],
+        [
+          "허위",
+          2
+        ],
+        [
+          "보니",
+          2
+        ],
+        [
+          "최동석",
+          2
+        ],
+        [
+          "하차",
+          2
+        ],
+        [
+          "출석",
+          2
+        ],
+        [
+          "미화원",
+          2
         ],
         [
           "정체는",
-          3
-        ],
-        [
-          "차은우",
-          3
-        ],
-        [
-          "붕어빵",
-          3
-        ],
-        [
-          "광명",
-          3
-        ],
-        [
-          "군용기",
-          3
-        ],
-        [
-          "없어",
-          3
-        ],
-        [
-          "발령",
-          3
-        ],
-        [
-          "울릉군",
-          3
-        ],
-        [
-          "지역에",
-          3
+          2
         ]
       ],
       "angle_scores": [
         [
           "자산·몸값",
-          3
+          4
         ],
         [
           "논란·사건",
-          2
+          6
         ],
         [
           "결혼·이혼",
-          8
+          3
         ],
         [
           "복귀·근황",
           4
         ],
         [
+          "스포츠",
+          3
+        ],
+        [
           "가족·혈연",
-          5
+          4
         ]
       ]
     },
     "초구딱": {
-      "article_count": 30,
-      "topics": [
-        {
-          "title": "\"안내\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 안내",
-          "article_count": 3,
-          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-          "source_name": "MLB파크 불펜",
-          "related_names": [
-            "안내"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "초구딱"
-        }
-      ],
+      "article_count": 1,
+      "topics": [],
       "keyword_freq": [
         [
-          "안내",
-          3
-        ],
-        [
-          "조치",
-          2
-        ],
-        [
-          "삼전",
-          2
-        ],
-        [
-          "사항",
-          1
-        ],
-        [
-          "시행",
-          1
-        ],
-        [
-          "말머리",
-          1
-        ],
-        [
-          "처리",
-          1
-        ],
-        [
-          "위반",
-          1
-        ],
-        [
-          "향후",
-          1
-        ],
-        [
-          "뉴스저작물",
-          1
-        ],
-        [
-          "유의사항",
-          1
-        ],
-        [
-          "인용",
-          1
-        ],
-        [
-          "필독",
-          1
-        ],
-        [
-          "가이드",
+          "돼지만",
           1
         ],
         [
@@ -1093,95 +439,64 @@
           1
         ],
         [
-          "업데이트",
+          "눈엔",
           1
         ],
         [
-          "장애",
+          "쇼핑",
           1
         ],
         [
-          "접속",
+          "폭탄주",
           1
         ],
         [
-          "업로드",
+          "순방",
           1
         ],
         [
-          "공지",
+          "파티",
+          1
+        ],
+        [
+          "돼지",
+          1
+        ],
+        [
+          "명품",
+          1
+        ],
+        [
+          "김건희",
+          1
+        ],
+        [
+          "윤석열의",
           1
         ]
       ],
-      "name_freq": [
-        [
-          "안내",
-          3
-        ],
-        [
-          "조치",
-          2
-        ],
-        [
-          "삼전",
-          2
-        ],
-        [
-          "하이닉",
-          2
-        ]
-      ],
+      "name_freq": [],
       "angle_scores": []
     }
   },
-  "topics": [
-    {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
-      "article_count": 3,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "안내"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
-    }
-  ],
+  "topics": [],
   "all_topics": [
     {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "title": "\"경찰까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
       "angle_type": "논란·사건",
-      "article_count": 2,
-      "source_article": "'트젠바 논란' 김원효, 폭로 나왔다 \"심진화가 거지인 줄 모르고 결혼\" ('개세모')",
-      "source_url": "https://m.entertain.naver.com/article/076/0004468940",
+      "article_count": 6,
+      "source_article": "'음주운전 청소차 추돌' 고경표, 경찰 출석…\"피해 미화원께 직접 사죄\"",
+      "source_url": "https://m.entertain.naver.com/article/465/0000021236",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "트젠바",
-        "김원효",
-        "폭로",
-        "나왔다",
-        "심진화"
+        "경찰",
+        "구하라",
+        "전광훈",
+        "목사",
+        "구속영"
       ],
       "template": "논란 집합",
-      "score": 7.3,
+      "score": 7.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1200,18 +515,18 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
+      "title": "\"전광훈, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
       "angle_type": "자산·몸값",
-      "article_count": 3,
+      "article_count": 4,
       "source_article": "임성한, 36년 만에 초호화 자택 공개…얼마나 부자길래 \"재산은 못 숨겨\"",
       "source_url": "https://m.entertain.naver.com/article/312/0000785761",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
+        "전광훈",
+        "목사",
+        "구속영",
         "임성한",
-        "초호화",
-        "자택",
-        "얼마나",
-        "부자길"
+        "초호화"
       ],
       "template": "자산 서열",
       "score": 7.0,
@@ -1233,83 +548,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"정체는 결혼설?\" 정체는 연애사 총정리",
-      "angle_type": "👤 정체는",
-      "article_count": 3,
-      "source_article": "백종원→안성재, 결혼식서 깜짝 포착됐다…신랑 정체는 알고 보니 '재혼' 트리플스타",
-      "source_url": "https://m.entertain.naver.com/article/312/0000785799",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "정체는"
-      ],
-      "template": "결혼 화제",
-      "score": 7.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 8,
-      "source_article": "‘오징어커플’ 진짜였다…박강균·구혜리, 5년 비밀 연애 끝 내년 3월 결혼",
-      "source_url": "https://m.entertain.naver.com/article/440/0000053847",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "결혼",
-        "재혼",
-        "이혼",
-        "변호사",
-        "오징어"
-      ],
-      "template": "결혼 화제",
-      "score": 6.8,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"아들이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
       "angle_type": "가족·혈연",
-      "article_count": 5,
-      "source_article": "강재준♥이은형, 아들 낳고 잘 사는 줄 알았는데…\"최근 어려워 1억 원 빌려\"",
-      "source_url": "https://m.entertain.naver.com/article/415/0000054074",
+      "article_count": 4,
+      "source_article": "'김구라 아들' 그리, ♥여친 모습 공개 \"예뻐서 나만 보려고 했는데\"",
+      "source_url": "https://m.entertain.naver.com/article/415/0000054105",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
+        "김구라",
         "아들",
-        "강재준",
-        "이은형",
-        "낳고",
-        "사는"
+        "그리",
+        "여친",
+        "모습"
       ],
       "template": "동갑내기",
-      "score": 6.8,
+      "score": 7.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1328,6 +581,39 @@
       "channel": "정보주는하마"
     },
     {
+      "title": "\"남편이 누구길래 난리?\" 화제의 결혼 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 3,
+      "source_article": "백종원→안성재, 결혼식서 깜짝 포착됐다…신랑 정체는 알고 보니 '재혼' 트리플스타",
+      "source_url": "https://m.entertain.naver.com/article/312/0000785799",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "백종원",
+        "안성재",
+        "결혼식",
+        "깜짝",
+        "포착됐"
+      ],
+      "template": "결혼 화제",
+      "score": 7.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "재활용 가능",
+        "matched_title": "\"남편 누구길래 난리였나?\" 역대 걸그룹 화제의 결혼 TOP10 #연예인 #연예계소식",
+        "matched_views": 720727,
+        "reason": "검증됨 720,727회 · 227일 경과"
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
       "title": "\"젠슨, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
       "angle_type": "복귀·근황",
       "article_count": 4,
@@ -1336,10 +622,10 @@
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "젠슨",
-        "박군",
-        "한영",
-        "한동안",
-        "조용하"
+        "치켜든",
+        "트럼프",
+        "축하",
+        "박군"
       ],
       "template": "장기 공백 복귀",
       "score": 6.3,
@@ -1361,74 +647,49 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"영공\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 영공",
-      "article_count": 4,
-      "source_article": "울릉군 지역에 위급재난문자 발령...공군 \"러 항공기 영공 근접\"",
-      "source_url": "https://n.news.naver.com/article/052/0002437119?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
-      "related_names": [
-        "영공"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"침범\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 침범",
-      "article_count": 4,
-      "source_article": "울릉군 지역에 위급재난문자 발령...북 항공기 추정 비행체 침범",
-      "source_url": "https://n.news.naver.com/article/052/0002437117?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
-      "related_names": [
-        "침범"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"고경표\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 고경표",
+      "title": "\"감독관, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
       "article_count": 3,
+      "source_article": "신호등 없는 횡단보도서 보행자 '쾅'…뇌출혈·골절에도 사과 없었다",
+      "source_url": "https://n.news.naver.com/article/437/0000522112?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
+      "related_names": [
+        "감독관",
+        "신호등",
+        "횡단보",
+        "도서",
+        "보행자"
+      ],
+      "template": "스포츠 기록",
+      "score": 6.3,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"고경표, 대체 무슨 일이?\" 고경표 관련 이슈 총정리",
+      "angle_type": "👤 고경표",
+      "article_count": 4,
       "source_article": "\"대리운전, 왜 안 불렀냐\"..고경표, 부르튼 입술로 경찰서 포토라인",
       "source_url": "https://m.entertain.naver.com/article/108/0003489606",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
         "고경표"
       ],
-      "template": "인맥",
+      "template": "논란 집합",
       "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
@@ -1440,371 +701,29 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
+          "소속·직업",
+          "논란 내용",
           "현재 상황"
         ]
       },
       "channel": "정보주는하마"
-    },
-    {
-      "title": "\"차은우\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 차은우",
-      "article_count": 3,
-      "source_article": "‘광명 차은우’ 붕어빵 청년, 정체는 연영과 휴학생",
-      "source_url": "https://m.entertain.naver.com/article/410/0001148073",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "차은우"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"붕어빵\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 붕어빵",
-      "article_count": 3,
-      "source_article": "‘광명 차은우’ 붕어빵 청년, 정체는 연영과 휴학생",
-      "source_url": "https://m.entertain.naver.com/article/410/0001148073",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "붕어빵"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"광명\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 광명",
-      "article_count": 3,
-      "source_article": "‘광명 차은우’ 붕어빵 청년, 정체는 연영과 휴학생",
-      "source_url": "https://m.entertain.naver.com/article/410/0001148073",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "광명"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"군용기\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 군용기",
-      "article_count": 3,
-      "source_article": "군 \"러시아 군용기 여러 대, 동해 카디즈 진입...영공침범 없어\"",
-      "source_url": "https://n.news.naver.com/article/052/0002437120?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
-      "related_names": [
-        "군용기"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"없어\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 없어",
-      "article_count": 3,
-      "source_article": "군 \"러시아 군용기 여러 대, 동해 카디즈 진입...영공침범 없어\"",
-      "source_url": "https://n.news.naver.com/article/052/0002437120?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
-      "related_names": [
-        "없어"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"발령\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 발령",
-      "article_count": 3,
-      "source_article": "울릉군 지역에 위급재난문자 발령...공군 \"러 항공기 영공 근접\"",
-      "source_url": "https://n.news.naver.com/article/052/0002437119?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
-      "related_names": [
-        "발령"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"울릉군\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 울릉군",
-      "article_count": 3,
-      "source_article": "울릉군 지역에 위급재난문자 발령...공군 \"러 항공기 영공 근접\"",
-      "source_url": "https://n.news.naver.com/article/052/0002437119?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
-      "related_names": [
-        "울릉군"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"지역에\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 지역에",
-      "article_count": 3,
-      "source_article": "울릉군 지역에 위급재난문자 발령...공군 \"러 항공기 영공 근접\"",
-      "source_url": "https://n.news.naver.com/article/052/0002437119?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
-      "related_names": [
-        "지역에"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"항공기\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 항공기",
-      "article_count": 3,
-      "source_article": "울릉군 지역에 위급재난문자 발령...공군 \"러 항공기 영공 근접\"",
-      "source_url": "https://n.news.naver.com/article/052/0002437119?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
-      "related_names": [
-        "항공기"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"안내\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 안내",
-      "article_count": 3,
-      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
-      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
-      "source_name": "MLB파크 불펜",
-      "related_names": [
-        "안내"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
     [
-      "영공",
+      "고경표",
       4
+    ],
+    [
+      "경찰",
+      3
     ],
     [
       "젠슨",
-      4
-    ],
-    [
-      "침범",
-      4
-    ],
-    [
-      "고경표",
       3
     ],
     [
-      "아들",
-      3
-    ],
-    [
-      "결혼",
-      3
-    ],
-    [
-      "정체는",
-      3
-    ],
-    [
-      "차은우",
-      3
-    ],
-    [
-      "붕어빵",
-      3
-    ],
-    [
-      "광명",
-      3
-    ],
-    [
-      "군용기",
-      3
-    ],
-    [
-      "없어",
-      3
-    ],
-    [
-      "발령",
-      3
-    ],
-    [
-      "울릉군",
-      3
-    ],
-    [
-      "지역에",
-      3
-    ],
-    [
-      "항공기",
-      3
-    ],
-    [
-      "교제",
+      "거짓말",
       2
     ],
     [
@@ -1812,77 +731,129 @@
       2
     ],
     [
-      "사는",
+      "알고",
       2
     ],
     [
-      "여친",
+      "상간녀",
+      2
+    ],
+    [
+      "박지윤",
+      2
+    ],
+    [
+      "허위",
+      2
+    ],
+    [
+      "보니",
+      2
+    ],
+    [
+      "최동석",
+      2
+    ],
+    [
+      "하차",
+      2
+    ],
+    [
+      "출석",
+      2
+    ],
+    [
+      "깜짝",
+      2
+    ],
+    [
+      "정체는",
+      2
+    ],
+    [
+      "영어",
+      2
+    ],
+    [
+      "수능",
+      2
+    ],
+    [
+      "강금실",
+      2
+    ],
+    [
+      "꺼진",
+      2
+    ],
+    [
+      "탐지",
       2
     ]
   ],
   "name_freq": [
     [
-      "영공",
+      "고경표",
       4
+    ],
+    [
+      "경찰",
+      3
     ],
     [
       "젠슨",
-      4
-    ],
-    [
-      "침범",
-      4
-    ],
-    [
-      "고경표",
       3
     ],
     [
-      "아들",
-      3
+      "거짓말",
+      2
     ],
     [
-      "결혼",
-      3
+      "입술로",
+      2
+    ],
+    [
+      "알고",
+      2
+    ],
+    [
+      "상간녀",
+      2
+    ],
+    [
+      "박지윤",
+      2
+    ],
+    [
+      "허위",
+      2
+    ],
+    [
+      "보니",
+      2
+    ],
+    [
+      "최동석",
+      2
+    ],
+    [
+      "하차",
+      2
+    ],
+    [
+      "출석",
+      2
+    ],
+    [
+      "미화원",
+      2
     ],
     [
       "정체는",
-      3
-    ],
-    [
-      "차은우",
-      3
-    ],
-    [
-      "붕어빵",
-      3
-    ],
-    [
-      "광명",
-      3
-    ],
-    [
-      "군용기",
-      3
-    ],
-    [
-      "없어",
-      3
-    ],
-    [
-      "발령",
-      3
-    ],
-    [
-      "울릉군",
-      3
-    ],
-    [
-      "지역에",
-      3
+      2
     ]
   ],
-  "total_topics_generated": 19,
-  "valid_topics": 19,
+  "total_topics_generated": 7,
+  "valid_topics": 7,
   "excluded_duplicates": 0
 }
