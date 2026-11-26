@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-11-26 18:41:14",
+  "scan_time": "2026-11-26 21:59:33",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -12,27 +12,37 @@
     "MLB파크 불펜": 0
   },
   "total_articles": 60,
-  "articles": [],
+  "articles": [
+    {
+      "title": "정의당 \"'대구로' 운영 중단, 대구시 관리·감독 부실 짚어야\"",
+      "url": "https://n.news.naver.com/article/657/0000057869?ntype=RANKING",
+      "source": "[폴백] 스포츠 랭킹",
+      "category": "스포츠",
+      "views": 0,
+      "rank": 10,
+      "channel": "초구딱"
+    }
+  ],
   "channels": {
     "정보주는하마": {
-      "article_count": 60,
+      "article_count": 59,
       "topics": [
         {
-          "title": "\"재혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "title": "\"이혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
           "angle_type": "결혼·이혼",
-          "article_count": 7,
-          "source_article": "'양성애자 구용규와 열애설' 조권, \"편지로 연애\" 감성 가득 부모님 러브스토리에 흐뭇",
-          "source_url": "https://m.entertain.naver.com/article/108/0003490346",
+          "article_count": 10,
+          "source_article": "'재혼' 김새롬, 남편♥ 정체 공개..\"키 188cm 연하남, 카니발 타고 다녀\"",
+          "source_url": "https://m.entertain.naver.com/article/076/0004469750",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
+            "이혼",
             "재혼",
-            "임신",
-            "정대세",
-            "명서현",
-            "셋째"
+            "유튜버",
+            "진우와",
+            "해티"
           ],
           "template": "결혼 화제",
-          "score": 7.1,
+          "score": 7.4,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -53,19 +63,19 @@
         {
           "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
           "angle_type": "가족·혈연",
-          "article_count": 6,
-          "source_article": "'양성애자 구용규와 열애설' 조권, \"편지로 연애\" 감성 가득 부모님 러브스토리에 흐뭇",
-          "source_url": "https://m.entertain.naver.com/article/108/0003490346",
+          "article_count": 4,
+          "source_article": "‘정경호 부친 정을영과 사실혼’ 박정수, 첫째딸 결혼식 사회봐준 유재석에 감사(유퀴즈)",
+          "source_url": "https://m.entertain.naver.com/article/609/0001191414",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "양성애",
-            "구용규",
-            "열애설",
-            "조권",
-            "편지로"
+            "정경호",
+            "부친",
+            "정을영",
+            "사실혼",
+            "박정수"
           ],
           "template": "동갑내기",
-          "score": 7.1,
+          "score": 7.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -84,21 +94,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+          "title": "\"고경표까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
           "angle_type": "논란·사건",
-          "article_count": 3,
-          "source_article": "\"홍원아, 마약검사 잘 받아\"…양홍원 불륜 폭로 A씨, 이번엔 약물 투약 의혹 제기",
-          "source_url": "https://m.entertain.naver.com/article/213/0001409644",
+          "article_count": 4,
+          "source_article": "\"대리비 5만 원에 팁 5만 원 주던 고경표가…\" 대리기사 폭로글의 반전",
+          "source_url": "https://m.entertain.naver.com/article/117/0004127918",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "홍원아",
-            "마약검",
-            "받아",
-            "양홍원",
-            "불륜"
+            "고경표",
+            "대리비",
+            "원에",
+            "주던",
+            "대리기"
           ],
           "template": "논란 집합",
-          "score": 7.0,
+          "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -117,18 +127,47 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"해도, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+          "title": "\"양홍원 결혼설?\" 양홍원 연애사 총정리",
+          "angle_type": "👤 양홍원",
+          "article_count": 3,
+          "source_article": "\"담배 피고올테니 집안일 시작해라\"…양홍원, 이혼 2달 전 원현주에 막말 '파묘'",
+          "source_url": "https://m.entertain.naver.com/article/477/0000641038",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "양홍원"
+          ],
+          "template": "결혼 화제",
+          "score": 6.6,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
           "angle_type": "자산·몸값",
           "article_count": 4,
           "source_article": "‘정우성 결별’ 수척해진 이정재, 50억 대금 또 펑크 났다",
           "source_url": "https://m.entertain.naver.com/article/144/0001151846",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "해도",
             "정우성",
             "결별",
             "수척해",
-            "이정재"
+            "이정재",
+            "대금"
           ],
           "template": "자산 서열",
           "score": 6.5,
@@ -150,108 +189,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"불륜, 대체 무슨 일이?\" 불륜 관련 이슈 총정리",
-          "angle_type": "👤 불륜",
+          "title": "\"맞아\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 맞아",
           "article_count": 3,
-          "source_article": "\"홍원아, 마약검사 잘 받아\"…양홍원 불륜 폭로 A씨, 이번엔 약물 투약 의혹 제기",
-          "source_url": "https://m.entertain.naver.com/article/213/0001409644",
+          "source_article": "하하♥별, 12년째 신혼집 못 떠나는 이유 \"마포 떠나려다 이웃에 엉덩이 맞아\"",
+          "source_url": "https://m.entertain.naver.com/article/076/0004469941",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "불륜"
-          ],
-          "template": "논란 집합",
-          "score": 6.5,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"많이, 대체 무슨 일이?\" 많이 관련 이슈 총정리",
-          "angle_type": "👤 많이",
-          "article_count": 3,
-          "source_article": "박나래 예언한 무당, 장영란에 \"건강 많이 안 좋아…사고수 있어\" ('A급 장영란')",
-          "source_url": "https://m.entertain.naver.com/article/312/0000786203",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "많이"
-          ],
-          "template": "논란 집합",
-          "score": 6.4,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "소속·직업",
-              "논란 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"지나, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 4,
-          "source_article": "'10년 공백' 지나, 몰라보게 달라진 얼굴…39세에 느껴지는 세월",
-          "source_url": "https://m.entertain.naver.com/article/076/0004470115",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "지나",
-            "근황",
-            "공백",
-            "세월",
-            "몰라보"
-          ],
-          "template": "장기 공백 복귀",
-          "score": 6.3,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "공백 기간",
-              "공백 사유",
-              "복귀 작품"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"정체\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 정체",
-          "article_count": 3,
-          "source_article": "'재혼' 김새롬, 남편♥ 정체 공개..\"키 188cm 연하남, 카니발 타고 다녀\"",
-          "source_url": "https://m.entertain.naver.com/article/076/0004469750",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "정체"
+            "맞아"
           ],
           "template": "인맥",
-          "score": 6.3,
+          "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -270,16 +218,16 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"이정재, 대체 무슨 일이?\" 이정재 관련 이슈 총정리",
-          "angle_type": "👤 이정재",
+          "title": "\"한지민\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 한지민",
           "article_count": 3,
-          "source_article": "‘정우성 결별’ 수척해진 이정재, 50억 대금 또 펑크 났다",
-          "source_url": "https://m.entertain.naver.com/article/144/0001151846",
+          "source_article": "“한지민 맞아?” 단발 변신에 오프숄더까지…확 바뀐 ‘청룡 여신’ 미모",
+          "source_url": "https://m.entertain.naver.com/article/468/0001283515",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "이정재"
+            "한지민"
           ],
-          "template": "논란 집합",
+          "template": "인맥",
           "score": 6.0,
           "dup_check": {
             "is_duplicate": false,
@@ -291,22 +239,80 @@
           "table": {
             "headers": [
               "이름",
-              "소속·직업",
-              "논란 내용",
+              "분류",
+              "이슈 내용",
               "현재 상황"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"얼굴\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 얼굴",
+          "title": "\"해줄\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 해줄",
           "article_count": 3,
-          "source_article": "'10년 공백' 지나, 몰라보게 달라진 얼굴…39세에 느껴지는 세월",
-          "source_url": "https://m.entertain.naver.com/article/076/0004470115",
-          "source_name": "엔터 많이 본 뉴스",
+          "source_article": "이재용 \"뭘 더 해줄 수 있냐\"…머스크 진땀 빼게 한 한마디",
+          "source_url": "https://n.news.naver.com/article/215/0001274126?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
           "related_names": [
-            "얼굴"
+            "해줄"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"이재용\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 이재용",
+          "article_count": 3,
+          "source_article": "이재용 \"뭘 더 해줄 수 있냐\"…머스크 진땀 빼게 한 한마디",
+          "source_url": "https://n.news.naver.com/article/215/0001274126?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
+          "related_names": [
+            "이재용"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"머스크\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 머스크",
+          "article_count": 3,
+          "source_article": "이재용 \"뭘 더 해줄 수 있냐\"…머스크 진땀 빼게 한 한마디",
+          "source_url": "https://n.news.naver.com/article/215/0001274126?ntype=RANKING",
+          "source_name": "[폴백] 스포츠 랭킹",
+          "related_names": [
+            "머스크"
           ],
           "template": "인맥",
           "score": 6.0,
@@ -330,75 +336,117 @@
       ],
       "keyword_freq": [
         [
-          "지나",
+          "이혼",
           5
         ],
         [
-          "이정재",
-          3
-        ],
-        [
-          "얼굴",
-          3
-        ],
-        [
-          "많이",
-          3
-        ],
-        [
-          "불륜",
-          3
-        ],
-        [
-          "근황",
-          3
-        ],
-        [
-          "정체",
-          3
-        ],
-        [
-          "공백",
-          2
-        ],
-        [
-          "세월",
-          2
-        ],
-        [
           "맞아",
-          2
-        ],
-        [
-          "무쇠소녀단",
-          2
+          3
         ],
         [
           "양홍원",
+          3
+        ],
+        [
+          "해줄",
+          3
+        ],
+        [
+          "이재용",
+          3
+        ],
+        [
+          "재혼",
           2
         ],
         [
-          "깜짝",
+          "정체",
           2
         ],
         [
-          "감춘",
+          "이정재",
           2
         ],
         [
-          "공식",
+          "얼굴",
           2
         ],
         [
-          "아이",
+          "많이",
           2
         ],
         [
-          "날벼락",
+          "청룡",
           2
         ],
         [
-          "같은",
+          "해티",
+          2
+        ],
+        [
+          "결혼",
+          2
+        ],
+        [
+          "유튜버",
+          2
+        ],
+        [
+          "진우와",
+          2
+        ],
+        [
+          "폭발",
+          2
+        ],
+        [
+          "라는",
+          2
+        ],
+        [
+          "종목",
+          2
+        ],
+        [
+          "만원",
+          2
+        ],
+        [
+          "김선태",
+          2
+        ]
+      ],
+      "name_freq": [
+        [
+          "이혼",
+          5
+        ],
+        [
+          "맞아",
+          3
+        ],
+        [
+          "양홍원",
+          3
+        ],
+        [
+          "한지민",
+          3
+        ],
+        [
+          "해줄",
+          3
+        ],
+        [
+          "이재용",
+          3
+        ],
+        [
+          "머스크",
+          3
+        ],
+        [
+          "고경표",
           2
         ],
         [
@@ -406,69 +454,27 @@
           2
         ],
         [
-          "추모",
+          "정체",
           2
-        ]
-      ],
-      "name_freq": [
-        [
-          "지나",
-          5
         ],
         [
           "이정재",
-          3
+          2
         ],
         [
           "얼굴",
-          3
+          2
         ],
         [
           "많이",
-          3
-        ],
-        [
-          "불륜",
-          3
-        ],
-        [
-          "근황",
-          3
-        ],
-        [
-          "정체",
-          3
-        ],
-        [
-          "공백",
           2
         ],
         [
-          "세월",
+          "청룡",
           2
         ],
         [
-          "맞아",
-          2
-        ],
-        [
-          "무쇠소",
-          2
-        ],
-        [
-          "녀단",
-          2
-        ],
-        [
-          "양홍원",
-          2
-        ],
-        [
-          "깜짝",
-          2
-        ],
-        [
-          "감춘",
+          "해티",
           2
         ]
       ],
@@ -479,26 +485,55 @@
         ],
         [
           "논란·사건",
-          3
-        ],
-        [
-          "결혼·이혼",
-          7
-        ],
-        [
-          "복귀·근황",
           4
         ],
         [
+          "결혼·이혼",
+          10
+        ],
+        [
           "가족·혈연",
-          6
+          4
         ]
       ]
     },
     "초구딱": {
-      "article_count": 0,
+      "article_count": 1,
       "topics": [],
-      "keyword_freq": [],
+      "keyword_freq": [
+        [
+          "관리",
+          1
+        ],
+        [
+          "대구로",
+          1
+        ],
+        [
+          "짚어야",
+          1
+        ],
+        [
+          "중단",
+          1
+        ],
+        [
+          "감독",
+          1
+        ],
+        [
+          "부실",
+          1
+        ],
+        [
+          "정의당",
+          1
+        ],
+        [
+          "대구시",
+          1
+        ]
+      ],
       "name_freq": [],
       "angle_scores": []
     }
@@ -506,21 +541,21 @@
   "topics": [],
   "all_topics": [
     {
-      "title": "\"재혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "title": "\"이혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
       "angle_type": "결혼·이혼",
-      "article_count": 7,
-      "source_article": "'양성애자 구용규와 열애설' 조권, \"편지로 연애\" 감성 가득 부모님 러브스토리에 흐뭇",
-      "source_url": "https://m.entertain.naver.com/article/108/0003490346",
+      "article_count": 10,
+      "source_article": "'재혼' 김새롬, 남편♥ 정체 공개..\"키 188cm 연하남, 카니발 타고 다녀\"",
+      "source_url": "https://m.entertain.naver.com/article/076/0004469750",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
+        "이혼",
         "재혼",
-        "임신",
-        "정대세",
-        "명서현",
-        "셋째"
+        "유튜버",
+        "진우와",
+        "해티"
       ],
       "template": "결혼 화제",
-      "score": 7.1,
+      "score": 7.4,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -541,19 +576,19 @@
     {
       "title": "\"이 둘이 가족이라고?\" 놀라운 연예계 혈연 TOP10",
       "angle_type": "가족·혈연",
-      "article_count": 6,
-      "source_article": "'양성애자 구용규와 열애설' 조권, \"편지로 연애\" 감성 가득 부모님 러브스토리에 흐뭇",
-      "source_url": "https://m.entertain.naver.com/article/108/0003490346",
+      "article_count": 4,
+      "source_article": "‘정경호 부친 정을영과 사실혼’ 박정수, 첫째딸 결혼식 사회봐준 유재석에 감사(유퀴즈)",
+      "source_url": "https://m.entertain.naver.com/article/609/0001191414",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "양성애",
-        "구용규",
-        "열애설",
-        "조권",
-        "편지로"
+        "정경호",
+        "부친",
+        "정을영",
+        "사실혼",
+        "박정수"
       ],
       "template": "동갑내기",
-      "score": 7.1,
+      "score": 7.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -572,21 +607,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"올해 대체 무슨 일이\" 팬들 충격 받은 스타 TOP10",
+      "title": "\"고경표까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
       "angle_type": "논란·사건",
-      "article_count": 3,
-      "source_article": "\"홍원아, 마약검사 잘 받아\"…양홍원 불륜 폭로 A씨, 이번엔 약물 투약 의혹 제기",
-      "source_url": "https://m.entertain.naver.com/article/213/0001409644",
+      "article_count": 4,
+      "source_article": "\"대리비 5만 원에 팁 5만 원 주던 고경표가…\" 대리기사 폭로글의 반전",
+      "source_url": "https://m.entertain.naver.com/article/117/0004127918",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "홍원아",
-        "마약검",
-        "받아",
-        "양홍원",
-        "불륜"
+        "고경표",
+        "대리비",
+        "원에",
+        "주던",
+        "대리기"
       ],
       "template": "논란 집합",
-      "score": 7.0,
+      "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -605,18 +640,47 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"해도, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "title": "\"양홍원 결혼설?\" 양홍원 연애사 총정리",
+      "angle_type": "👤 양홍원",
+      "article_count": 3,
+      "source_article": "\"담배 피고올테니 집안일 시작해라\"…양홍원, 이혼 2달 전 원현주에 막말 '파묘'",
+      "source_url": "https://m.entertain.naver.com/article/477/0000641038",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "양홍원"
+      ],
+      "template": "결혼 화제",
+      "score": 6.6,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"숨은 부자였다고?\" 연예인 자산 서열 TOP10",
       "angle_type": "자산·몸값",
       "article_count": 4,
       "source_article": "‘정우성 결별’ 수척해진 이정재, 50억 대금 또 펑크 났다",
       "source_url": "https://m.entertain.naver.com/article/144/0001151846",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "해도",
         "정우성",
         "결별",
         "수척해",
-        "이정재"
+        "이정재",
+        "대금"
       ],
       "template": "자산 서열",
       "score": 6.5,
@@ -638,108 +702,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"불륜, 대체 무슨 일이?\" 불륜 관련 이슈 총정리",
-      "angle_type": "👤 불륜",
+      "title": "\"맞아\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 맞아",
       "article_count": 3,
-      "source_article": "\"홍원아, 마약검사 잘 받아\"…양홍원 불륜 폭로 A씨, 이번엔 약물 투약 의혹 제기",
-      "source_url": "https://m.entertain.naver.com/article/213/0001409644",
+      "source_article": "하하♥별, 12년째 신혼집 못 떠나는 이유 \"마포 떠나려다 이웃에 엉덩이 맞아\"",
+      "source_url": "https://m.entertain.naver.com/article/076/0004469941",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "불륜"
-      ],
-      "template": "논란 집합",
-      "score": 6.5,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"많이, 대체 무슨 일이?\" 많이 관련 이슈 총정리",
-      "angle_type": "👤 많이",
-      "article_count": 3,
-      "source_article": "박나래 예언한 무당, 장영란에 \"건강 많이 안 좋아…사고수 있어\" ('A급 장영란')",
-      "source_url": "https://m.entertain.naver.com/article/312/0000786203",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "많이"
-      ],
-      "template": "논란 집합",
-      "score": 6.4,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "소속·직업",
-          "논란 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"지나, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 4,
-      "source_article": "'10년 공백' 지나, 몰라보게 달라진 얼굴…39세에 느껴지는 세월",
-      "source_url": "https://m.entertain.naver.com/article/076/0004470115",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "지나",
-        "근황",
-        "공백",
-        "세월",
-        "몰라보"
-      ],
-      "template": "장기 공백 복귀",
-      "score": 6.3,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "공백 기간",
-          "공백 사유",
-          "복귀 작품"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"정체\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 정체",
-      "article_count": 3,
-      "source_article": "'재혼' 김새롬, 남편♥ 정체 공개..\"키 188cm 연하남, 카니발 타고 다녀\"",
-      "source_url": "https://m.entertain.naver.com/article/076/0004469750",
-      "source_name": "엔터 많이 본 뉴스",
-      "related_names": [
-        "정체"
+        "맞아"
       ],
       "template": "인맥",
-      "score": 6.3,
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -758,16 +731,16 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"이정재, 대체 무슨 일이?\" 이정재 관련 이슈 총정리",
-      "angle_type": "👤 이정재",
+      "title": "\"한지민\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 한지민",
       "article_count": 3,
-      "source_article": "‘정우성 결별’ 수척해진 이정재, 50억 대금 또 펑크 났다",
-      "source_url": "https://m.entertain.naver.com/article/144/0001151846",
+      "source_article": "“한지민 맞아?” 단발 변신에 오프숄더까지…확 바뀐 ‘청룡 여신’ 미모",
+      "source_url": "https://m.entertain.naver.com/article/468/0001283515",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "이정재"
+        "한지민"
       ],
-      "template": "논란 집합",
+      "template": "인맥",
       "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
@@ -779,22 +752,80 @@
       "table": {
         "headers": [
           "이름",
-          "소속·직업",
-          "논란 내용",
+          "분류",
+          "이슈 내용",
           "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"얼굴\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 얼굴",
+      "title": "\"해줄\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 해줄",
       "article_count": 3,
-      "source_article": "'10년 공백' 지나, 몰라보게 달라진 얼굴…39세에 느껴지는 세월",
-      "source_url": "https://m.entertain.naver.com/article/076/0004470115",
-      "source_name": "엔터 많이 본 뉴스",
+      "source_article": "이재용 \"뭘 더 해줄 수 있냐\"…머스크 진땀 빼게 한 한마디",
+      "source_url": "https://n.news.naver.com/article/215/0001274126?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
       "related_names": [
-        "얼굴"
+        "해줄"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"이재용\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 이재용",
+      "article_count": 3,
+      "source_article": "이재용 \"뭘 더 해줄 수 있냐\"…머스크 진땀 빼게 한 한마디",
+      "source_url": "https://n.news.naver.com/article/215/0001274126?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
+      "related_names": [
+        "이재용"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"머스크\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 머스크",
+      "article_count": 3,
+      "source_article": "이재용 \"뭘 더 해줄 수 있냐\"…머스크 진땀 빼게 한 한마디",
+      "source_url": "https://n.news.naver.com/article/215/0001274126?ntype=RANKING",
+      "source_name": "[폴백] 스포츠 랭킹",
+      "related_names": [
+        "머스크"
       ],
       "template": "인맥",
       "score": 6.0,
@@ -818,75 +849,117 @@
   ],
   "keyword_freq": [
     [
-      "지나",
+      "이혼",
       5
     ],
     [
-      "이정재",
-      3
-    ],
-    [
-      "얼굴",
-      3
-    ],
-    [
-      "많이",
-      3
-    ],
-    [
-      "불륜",
-      3
-    ],
-    [
-      "근황",
-      3
-    ],
-    [
-      "정체",
-      3
-    ],
-    [
-      "공백",
-      2
-    ],
-    [
-      "세월",
-      2
-    ],
-    [
       "맞아",
-      2
-    ],
-    [
-      "무쇠소녀단",
-      2
+      3
     ],
     [
       "양홍원",
+      3
+    ],
+    [
+      "해줄",
+      3
+    ],
+    [
+      "이재용",
+      3
+    ],
+    [
+      "재혼",
       2
     ],
     [
-      "깜짝",
+      "정체",
       2
     ],
     [
-      "감춘",
+      "이정재",
       2
     ],
     [
-      "공식",
+      "얼굴",
       2
     ],
     [
-      "아이",
+      "많이",
       2
     ],
     [
-      "날벼락",
+      "청룡",
       2
     ],
     [
-      "같은",
+      "해티",
+      2
+    ],
+    [
+      "결혼",
+      2
+    ],
+    [
+      "유튜버",
+      2
+    ],
+    [
+      "진우와",
+      2
+    ],
+    [
+      "폭발",
+      2
+    ],
+    [
+      "라는",
+      2
+    ],
+    [
+      "종목",
+      2
+    ],
+    [
+      "만원",
+      2
+    ],
+    [
+      "김선태",
+      2
+    ]
+  ],
+  "name_freq": [
+    [
+      "이혼",
+      5
+    ],
+    [
+      "맞아",
+      3
+    ],
+    [
+      "양홍원",
+      3
+    ],
+    [
+      "한지민",
+      3
+    ],
+    [
+      "해줄",
+      3
+    ],
+    [
+      "이재용",
+      3
+    ],
+    [
+      "머스크",
+      3
+    ],
+    [
+      "고경표",
       2
     ],
     [
@@ -894,69 +967,27 @@
       2
     ],
     [
-      "추모",
+      "정체",
       2
-    ]
-  ],
-  "name_freq": [
-    [
-      "지나",
-      5
     ],
     [
       "이정재",
-      3
+      2
     ],
     [
       "얼굴",
-      3
+      2
     ],
     [
       "많이",
-      3
-    ],
-    [
-      "불륜",
-      3
-    ],
-    [
-      "근황",
-      3
-    ],
-    [
-      "정체",
-      3
-    ],
-    [
-      "공백",
       2
     ],
     [
-      "세월",
+      "청룡",
       2
     ],
     [
-      "맞아",
-      2
-    ],
-    [
-      "무쇠소",
-      2
-    ],
-    [
-      "녀단",
-      2
-    ],
-    [
-      "양홍원",
-      2
-    ],
-    [
-      "깜짝",
-      2
-    ],
-    [
-      "감춘",
+      "해티",
       2
     ]
   ],
