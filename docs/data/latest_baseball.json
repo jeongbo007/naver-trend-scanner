@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-11-27 09:27:09",
+  "scan_time": "2026-11-27 14:42:52",
   "scanner_version": "v4.0",
   "source_stats": {
     "엔터 많이 본 뉴스": 30,
@@ -9,30 +9,310 @@
     "[폴백] 스포츠 랭킹": 30,
     "DC 연예인 갤러리": 0,
     "DC 국내야구 갤러리": 0,
-    "MLB파크 불펜": 0
+    "MLB파크 불펜": 30
   },
-  "total_articles": 60,
-  "articles": [],
+  "total_articles": 90,
+  "articles": [
+    {
+      "title": "정우성, 이정재와 설립한 아티스트컴퍼니 떠나…10년간의 동업 마무리",
+      "url": "https://n.news.naver.com/article/032/0003485569?ntype=RANKING",
+      "source": "[폴백] 스포츠 랭킹",
+      "category": "스포츠",
+      "views": 0,
+      "rank": 8,
+      "channel": "초구딱"
+    },
+    {
+      "title": "정치 말머리 위반 처리 및 향후 진행 예정 사항 (23.06.19 시행)",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202306190000001281",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 1,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 2,
+      "channel": "초구딱"
+    },
+    {
+      "title": "🛠️[업데이트] 해외 접속 장애 조치 관련 안내_260814🛠️",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202608130000002151",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 3,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[공지] 이미지 업로드 시 불법촬영물등 비교·식별 조치 적용 안내",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=notice&id=202609040000002163",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 4,
+      "channel": "초구딱"
+    },
+    {
+      "title": "⚾2027 KBO FA 선수명단 확인 바로가기⚾",
+      "url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202611260000002205",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 0,
+      "rank": 5,
+      "channel": "초구딱"
+    },
+    {
+      "title": "지수는 목소리가 더 걸걸해졌네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611270120340557&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 26,
+      "rank": 6,
+      "channel": "초구딱"
+    },
+    {
+      "title": "미국놈들 추수감사절에 뭐 체하기라도 함?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611270120340551&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 94,
+      "rank": 7,
+      "channel": "초구딱"
+    },
+    {
+      "title": "하 미장 ㅋㅋㅋ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611270120340548&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 226,
+      "rank": 8,
+      "channel": "초구딱"
+    },
+    {
+      "title": "오늘 저녁은 방어 도미회",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611270120340545&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 86,
+      "rank": 9,
+      "channel": "초구딱"
+    },
+    {
+      "title": "김보름 근황.jpg",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611270120340542&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 216,
+      "rank": 10,
+      "channel": "초구딱"
+    },
+    {
+      "title": "계단식 하락장인건가요...",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611270120340539&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 158,
+      "rank": 11,
+      "channel": "초구딱"
+    },
+    {
+      "title": "문화대혁명은 초기와 말기의 양상이 전혀 다르네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611270120340530&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 57,
+      "rank": 12,
+      "channel": "초구딱"
+    },
+    {
+      "title": "나스닥이 코스피 이삭줍기하는장이네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611270120340524&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 322,
+      "rank": 13,
+      "channel": "초구딱"
+    },
+    {
+      "title": "백지영 콘서트를 갔었는데",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611270120340521&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 130,
+      "rank": 14,
+      "channel": "초구딱"
+    },
+    {
+      "title": "이순신은 정말 박정희가 재평가 한것일까요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611270120340515&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 98,
+      "rank": 15,
+      "channel": "초구딱"
+    },
+    {
+      "title": "나스닥 선물 번지 ㄷㄷ",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611270120340512&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=naver.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 588,
+      "rank": 16,
+      "channel": "초구딱"
+    },
+    {
+      "title": "실시간 야선 근황",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611270120340506&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 558,
+      "rank": 17,
+      "channel": "초구딱"
+    },
+    {
+      "title": "주식에서 누군가가 돈을 잃으면 누군가는 돈을 벌죠?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611270120340497&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 45,
+      "rank": 18,
+      "channel": "초구딱"
+    },
+    {
+      "title": "한반도 미세먼지 현황",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611270120340491&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 377,
+      "rank": 19,
+      "channel": "초구딱"
+    },
+    {
+      "title": "삼닉 오늘은 왜 오른건가요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611270120340488&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 376,
+      "rank": 20,
+      "channel": "초구딱"
+    },
+    {
+      "title": "회사에서 내년에 AI로 개선할 업무를 취합하는 중인데",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611270120340482&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 112,
+      "rank": 21,
+      "channel": "초구딱"
+    },
+    {
+      "title": "비서진 지수 팬클럽",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611270120340476&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 160,
+      "rank": 22,
+      "channel": "초구딱"
+    },
+    {
+      "title": "휴대폰 삼각대 샀는데 꽤 좋네요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611270120340473&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 194,
+      "rank": 23,
+      "channel": "초구딱"
+    },
+    {
+      "title": "재결합한 핑클 비주얼 근황",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611270120340470&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 1064,
+      "rank": 24,
+      "channel": "초구딱"
+    },
+    {
+      "title": "ㅇㅎ) 남사친 4명과 펜션 간다는 남사친좌",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611270120340467&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 1256,
+      "rank": 25,
+      "channel": "초구딱"
+    },
+    {
+      "title": "은퇴한 한국인이 겨울에 가장 살기좋은 국가/도시",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611270120340464&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 131,
+      "rank": 26,
+      "channel": "초구딱"
+    },
+    {
+      "title": "개인적으로 힘든시기인데",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611270120340461&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 169,
+      "rank": 27,
+      "channel": "초구딱"
+    },
+    {
+      "title": "[엔믹스] 오늘 콘서트 스포 안보려고 노오오력",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611270120340458&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 77,
+      "rank": 28,
+      "channel": "초구딱"
+    },
+    {
+      "title": "멕시코 크리스티안 고국으로 돌아갔네요..",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611270120340452&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 227,
+      "rank": 29,
+      "channel": "초구딱"
+    },
+    {
+      "title": "나혼산))저 던이라는 출연자는",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611270120340449&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source": "MLB파크 불펜",
+      "category": "야구",
+      "views": 292,
+      "rank": 30,
+      "channel": "초구딱"
+    }
+  ],
   "channels": {
     "정보주는하마": {
-      "article_count": 60,
+      "article_count": 59,
       "topics": [
         {
-          "title": "\"강호동이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-          "angle_type": "가족·혈연",
-          "article_count": 7,
-          "source_article": "강호동 아들 강시후, 전국 골프대회 준우승 '쾌거'..아빠 피 물려받았네",
-          "source_url": "https://m.entertain.naver.com/article/109/0005645975",
+          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+          "angle_type": "결혼·이혼",
+          "article_count": 5,
+          "source_article": "'재혼' 오윤아, ♥4살 연하 남편과 웨딩 촬영…발리서 꼭 붙어 '달달' (Oh!윤아)",
+          "source_url": "https://m.entertain.naver.com/article/311/0002084796",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "강호동",
-            "아들",
-            "아빠",
-            "잡은",
-            "강시후"
+            "결혼",
+            "재혼",
+            "오윤아",
+            "연하",
+            "남편과"
           ],
-          "template": "동갑내기",
-          "score": 7.2,
+          "template": "결혼 화제",
+          "score": 7.1,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -43,59 +323,26 @@
           "table": {
             "headers": [
               "이름",
-              "나이",
-              "대표작",
-              "현재 활동"
+              "배우자",
+              "결혼 시점",
+              "화제 포인트"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"강호동, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-          "angle_type": "스포츠",
-          "article_count": 6,
-          "source_article": "강호동 아들 강시후, 전국 골프대회 준우승 '쾌거'..아빠 피 물려받았네",
-          "source_url": "https://m.entertain.naver.com/article/109/0005645975",
-          "source_name": "엔터 많이 본 뉴스",
-          "related_names": [
-            "강호동",
-            "아들",
-            "강시후",
-            "전국",
-            "골프대"
-          ],
-          "template": "스포츠 기록",
-          "score": 7.2,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "선수",
-              "소속팀",
-              "기록 내용",
-              "기록 가치"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"손연재, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+          "title": "\"만원, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
           "angle_type": "자산·몸값",
-          "article_count": 6,
-          "source_article": "손연재♥이준효, 연세의료원서 동반 포착…고위험 산모 위해 30억 기부",
-          "source_url": "https://m.entertain.naver.com/article/311/0002084706",
+          "article_count": 9,
+          "source_article": "깨진 ‘청담부부’···정우성, 1.4억 찍고 이정재 떠났다",
+          "source_url": "https://m.entertain.naver.com/article/144/0001152057",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "손연재",
-            "억원",
-            "재산",
+            "만원",
             "신고",
-            "이준효"
+            "깨진",
+            "청담부",
+            "정우성"
           ],
           "template": "자산 서열",
           "score": 7.0,
@@ -117,21 +364,21 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-          "angle_type": "결혼·이혼",
-          "article_count": 10,
-          "source_article": "'박주호♥' 안나, 배가 유독 불렀다 했더니…역시 넷째 출산 코앞 \"일주일 남았다\" (안나와)",
-          "source_url": "https://m.entertain.naver.com/article/311/0002084481",
+          "title": "\"홍민기까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+          "angle_type": "논란·사건",
+          "article_count": 6,
+          "source_article": "'홍민기 스캔들 폭로' 전여친 A씨, 실종돼 수색 中",
+          "source_url": "https://m.entertain.naver.com/article/440/0000054479",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "결혼",
-            "박주호",
-            "안나",
-            "배가",
-            "유독"
+            "홍민기",
+            "폭로",
+            "실종",
+            "마포대",
+            "사생활"
           ],
-          "template": "결혼 화제",
-          "score": 6.8,
+          "template": "논란 집합",
+          "score": 7.0,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -142,24 +389,28 @@
           "table": {
             "headers": [
               "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"남경주 결혼설?\" 남경주 연애사 총정리",
-          "angle_type": "👤 남경주",
-          "article_count": 6,
-          "source_article": "\"여제자 성기서 男DNA 확인..남경주 '성관계 인정'해 대조 안 해\"",
-          "source_url": "https://m.entertain.naver.com/article/108/0003490672",
+          "title": "\"아빠이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+          "angle_type": "가족·혈연",
+          "article_count": 5,
+          "source_article": "'딸 아빠' 남경주 \"女제자와 '키스' CCTV, 로맨틱 이별 장면\"..피감독자간음 부인하며 궤변",
+          "source_url": "https://m.entertain.naver.com/article/108/0003490675",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "남경주"
+            "아빠",
+            "아들",
+            "남경주",
+            "제자와",
+            "키스"
           ],
-          "template": "결혼 화제",
+          "template": "동갑내기",
           "score": 6.8,
           "dup_check": {
             "is_duplicate": false,
@@ -171,9 +422,9 @@
           "table": {
             "headers": [
               "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
+              "나이",
+              "대표작",
+              "현재 활동"
             ]
           },
           "channel": "정보주는하마"
@@ -181,16 +432,16 @@
         {
           "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
           "angle_type": "투병·건강",
-          "article_count": 3,
+          "article_count": 4,
           "source_article": "하정우 ♥결혼 앞두고…'80세' 김용건, 수술 사실 고백 \"후유증으로 병원 다녀\" ('그사친')",
           "source_url": "https://m.entertain.naver.com/article/312/0000786391",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "수술",
             "하정우",
             "결혼",
             "앞두고",
-            "김용건"
+            "김용건",
+            "수술"
           ],
           "template": "투병 극복",
           "score": 6.7,
@@ -212,17 +463,17 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"부인 결혼설?\" 부인 연애사 총정리",
-          "angle_type": "👤 부인",
-          "article_count": 3,
-          "source_article": "남경주, 제자와 성관계 인정..\"위력 행사 안 했다\" 피감독자간음 혐의는 전면 부인",
-          "source_url": "https://m.entertain.naver.com/article/108/0003490654",
+          "title": "\"마포대, 대체 무슨 일이?\" 마포대 관련 이슈 총정리",
+          "angle_type": "👤 마포대",
+          "article_count": 6,
+          "source_article": "홍민기 전 연인 실종…마포대교서 마지막 휴대전화 신호",
+          "source_url": "https://m.entertain.naver.com/article/003/0014350267",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "부인"
+            "마포대"
           ],
-          "template": "결혼 화제",
-          "score": 6.3,
+          "template": "논란 집합",
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -233,25 +484,54 @@
           "table": {
             "headers": [
               "이름",
-              "배우자",
-              "결혼 시점",
-              "화제 포인트"
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"인정\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 인정",
+          "title": "\"실종, 대체 무슨 일이?\" 실종 관련 이슈 총정리",
+          "angle_type": "👤 실종",
+          "article_count": 6,
+          "source_article": "홍민기 전 연인 실종…마포대교서 마지막 휴대전화 신호",
+          "source_url": "https://m.entertain.naver.com/article/003/0014350267",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "실종"
+          ],
+          "template": "논란 집합",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"폭로, 대체 무슨 일이?\" 폭로 관련 이슈 총정리",
+          "angle_type": "👤 폭로",
           "article_count": 4,
-          "source_article": "\"여제자 성기서 男DNA 확인..남경주 '성관계 인정'해 대조 안 해\"",
-          "source_url": "https://m.entertain.naver.com/article/108/0003490672",
+          "source_article": "'홍민기 스캔들 폭로' 전여친 A씨, 실종돼 수색 中",
+          "source_url": "https://m.entertain.naver.com/article/440/0000054479",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "인정"
+            "폭로"
           ],
-          "template": "인맥",
-          "score": 6.0,
+          "template": "논란 집합",
+          "score": 6.5,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -262,80 +542,80 @@
           "table": {
             "headers": [
               "이름",
-              "분류",
-              "이슈 내용",
+              "소속·직업",
+              "논란 내용",
               "현재 상황"
             ]
           },
           "channel": "정보주는하마"
         },
         {
-          "title": "\"최민희\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 최민희",
+          "title": "\"사생활, 대체 무슨 일이?\" 사생활 관련 이슈 총정리",
+          "angle_type": "👤 사생활",
+          "article_count": 3,
+          "source_article": "‘홍민기 사생활 폭로’ 전 여자친구 실종…마포대교 일대서 수색 작업 중",
+          "source_url": "https://m.entertain.naver.com/article/609/0001191944",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "사생활"
+          ],
+          "template": "논란 집합",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"여자친, 대체 무슨 일이?\" 여자친 관련 이슈 총정리",
+          "angle_type": "👤 여자친",
+          "article_count": 3,
+          "source_article": "‘홍민기 사생활 폭로’ 전 여자친구 실종…마포대교 일대서 수색 작업 중",
+          "source_url": "https://m.entertain.naver.com/article/609/0001191944",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "여자친"
+          ],
+          "template": "논란 집합",
+          "score": 6.5,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"마지막, 대체 무슨 일이?\" 마지막 관련 이슈 총정리",
+          "angle_type": "👤 마지막",
           "article_count": 4,
-          "source_article": "민주 윤리심판원 \"최민희 의원 중징계 처분 의결\"",
-          "source_url": "https://n.news.naver.com/article/052/0002439068?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
-          "related_names": [
-            "최민희"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"성관계\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 성관계",
-          "article_count": 3,
-          "source_article": "\"여제자 성기서 男DNA 확인..남경주 '성관계 인정'해 대조 안 해\"",
-          "source_url": "https://m.entertain.naver.com/article/108/0003490672",
+          "source_article": "홍민기 전 연인 실종…마포대교서 마지막 휴대전화 신호",
+          "source_url": "https://m.entertain.naver.com/article/003/0014350267",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "성관계"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"강유정, 대체 무슨 일이?\" 강유정 관련 이슈 총정리",
-          "angle_type": "👤 강유정",
-          "article_count": 3,
-          "source_article": "강유정, 과거 교통사고로 100만원 벌금형 약식명령 전력",
-          "source_url": "https://n.news.naver.com/article/052/0002438956?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
-          "related_names": [
-            "강유정"
+            "마지막"
           ],
           "template": "논란 집합",
           "score": 6.0,
@@ -357,79 +637,287 @@
           "channel": "정보주는하마"
         },
         {
-          "title": "\"중징계\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 중징계",
+          "title": "\"교서, 대체 무슨 일이?\" 교서 관련 이슈 총정리",
+          "angle_type": "👤 교서",
           "article_count": 3,
-          "source_article": "민주 윤리심판원 \"최민희 의원 중징계 처분 의결\"",
-          "source_url": "https://n.news.naver.com/article/052/0002439068?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
-          "related_names": [
-            "중징계"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"민주\" 관련 화제 스타 TOP10",
-          "angle_type": "👤 민주",
-          "article_count": 3,
-          "source_article": "민주 윤리심판원 \"최민희 의원 중징계 처분 의결\"",
-          "source_url": "https://n.news.naver.com/article/052/0002439068?ntype=RANKING",
-          "source_name": "[폴백] 스포츠 랭킹",
-          "related_names": [
-            "민주"
-          ],
-          "template": "인맥",
-          "score": 6.0,
-          "dup_check": {
-            "is_duplicate": false,
-            "status": "통과",
-            "matched_title": "",
-            "matched_views": 0,
-            "reason": ""
-          },
-          "table": {
-            "headers": [
-              "이름",
-              "분류",
-              "이슈 내용",
-              "현재 상황"
-            ]
-          },
-          "channel": "정보주는하마"
-        },
-        {
-          "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-          "angle_type": "복귀·근황",
-          "article_count": 2,
-          "source_article": "“지나 맞아?” 자취 감춘 10년 사이…세월 흔적 역력한 근황 ‘깜짝’",
-          "source_url": "https://m.entertain.naver.com/article/468/0001283788",
+          "source_article": "홍민기 전 연인 실종…마포대교서 마지막 휴대전화 신호",
+          "source_url": "https://m.entertain.naver.com/article/003/0014350267",
           "source_name": "엔터 많이 본 뉴스",
           "related_names": [
-            "지나",
-            "맞아",
-            "자취",
-            "감춘",
-            "세월"
+            "교서"
+          ],
+          "template": "논란 집합",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"남경주, 대체 무슨 일이?\" 남경주 관련 이슈 총정리",
+          "angle_type": "👤 남경주",
+          "article_count": 3,
+          "source_article": "'딸 아빠' 남경주 \"女제자와 '키스' CCTV, 로맨틱 이별 장면\"..피감독자간음 부인하며 궤변",
+          "source_url": "https://m.entertain.naver.com/article/108/0003490675",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "남경주"
+          ],
+          "template": "논란 집합",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "소속·직업",
+              "논란 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "정보주는하마"
+        },
+        {
+          "title": "\"아빠, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+          "angle_type": "스포츠",
+          "article_count": 2,
+          "source_article": "'딸 아빠' 남경주 \"女제자와 '키스' CCTV, 로맨틱 이별 장면\"..피감독자간음 부인하며 궤변",
+          "source_url": "https://m.entertain.naver.com/article/108/0003490675",
+          "source_name": "엔터 많이 본 뉴스",
+          "related_names": [
+            "아빠",
+            "남경주",
+            "제자와",
+            "키스",
+            "로맨틱"
+          ],
+          "template": "스포츠 기록",
+          "score": 5.8,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "선수",
+              "소속팀",
+              "기록 내용",
+              "기록 가치"
+            ]
+          },
+          "channel": "정보주는하마"
+        }
+      ],
+      "keyword_freq": [
+        [
+          "홍민기",
+          7
+        ],
+        [
+          "실종",
+          6
+        ],
+        [
+          "마지막",
+          4
+        ],
+        [
+          "폭로",
+          4
+        ],
+        [
+          "마포대교서",
+          3
+        ],
+        [
+          "남경주",
+          3
+        ],
+        [
+          "사생활",
+          3
+        ],
+        [
+          "여자친구",
+          3
+        ],
+        [
+          "신호",
+          2
+        ],
+        [
+          "아빠",
+          2
+        ],
+        [
+          "아들",
+          2
+        ],
+        [
+          "수색",
+          2
+        ],
+        [
+          "연하",
+          2
+        ],
+        [
+          "마포대교",
+          2
+        ],
+        [
+          "이동연",
+          2
+        ],
+        [
+          "팬레터",
+          2
+        ],
+        [
+          "결혼",
+          2
+        ],
+        [
+          "성폭행",
+          2
+        ],
+        [
+          "그냥사람친구",
+          2
+        ],
+        [
+          "하루",
+          2
+        ]
+      ],
+      "name_freq": [
+        [
+          "홍민기",
+          7
+        ],
+        [
+          "마포대",
+          6
+        ],
+        [
+          "실종",
+          6
+        ],
+        [
+          "마지막",
+          4
+        ],
+        [
+          "폭로",
+          4
+        ],
+        [
+          "교서",
+          3
+        ],
+        [
+          "남경주",
+          3
+        ],
+        [
+          "사생활",
+          3
+        ],
+        [
+          "여자친",
+          3
+        ],
+        [
+          "신호",
+          2
+        ],
+        [
+          "아빠",
+          2
+        ],
+        [
+          "아들",
+          2
+        ],
+        [
+          "수색",
+          2
+        ],
+        [
+          "연하",
+          2
+        ],
+        [
+          "이동연",
+          2
+        ]
+      ],
+      "angle_scores": [
+        [
+          "자산·몸값",
+          9
+        ],
+        [
+          "논란·사건",
+          6
+        ],
+        [
+          "결혼·이혼",
+          5
+        ],
+        [
+          "투병·건강",
+          4
+        ],
+        [
+          "스포츠",
+          2
+        ],
+        [
+          "가족·혈연",
+          5
+        ]
+      ]
+    },
+    "초구딱": {
+      "article_count": 31,
+      "topics": [
+        {
+          "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+          "angle_type": "복귀·근황",
+          "article_count": 4,
+          "source_article": "재결합한 핑클 비주얼 근황",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611270120340470&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "근황",
+            "김보름",
+            "실시간",
+            "야선",
+            "재결합"
           ],
           "template": "장기 공백 복귀",
-          "score": 5.8,
+          "score": 6.3,
           "dup_check": {
             "is_duplicate": false,
             "status": "통과",
@@ -445,206 +933,167 @@
               "복귀 작품"
             ]
           },
-          "channel": "정보주는하마"
+          "channel": "초구딱"
+        },
+        {
+          "title": "\"안내\" 관련 화제 스타 TOP10",
+          "angle_type": "👤 안내",
+          "article_count": 3,
+          "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+          "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+          "source_name": "MLB파크 불펜",
+          "related_names": [
+            "안내"
+          ],
+          "template": "인맥",
+          "score": 6.0,
+          "dup_check": {
+            "is_duplicate": false,
+            "status": "통과",
+            "matched_title": "",
+            "matched_views": 0,
+            "reason": ""
+          },
+          "table": {
+            "headers": [
+              "이름",
+              "분류",
+              "이슈 내용",
+              "현재 상황"
+            ]
+          },
+          "channel": "초구딱"
         }
       ],
       "keyword_freq": [
         [
-          "남경주",
-          6
-        ],
-        [
-          "결혼",
-          5
-        ],
-        [
-          "인정",
-          4
-        ],
-        [
-          "최민희",
-          4
-        ],
-        [
-          "성관계",
+          "안내",
           3
         ],
         [
-          "강호동",
+          "근황",
           3
         ],
         [
-          "부인",
-          3
-        ],
-        [
-          "강유정",
-          3
-        ],
-        [
-          "중징계",
-          3
-        ],
-        [
-          "민주",
-          3
-        ],
-        [
-          "골프대회",
+          "조치",
           2
         ],
         [
-          "아들",
-          2
+          "떠나",
+          1
         ],
         [
-          "전국",
-          2
+          "아티스트컴퍼니",
+          1
         ],
         [
-          "아빠",
-          2
+          "동업",
+          1
         ],
         [
-          "준우승",
-          2
+          "정우성",
+          1
         ],
         [
-          "강시후",
-          2
+          "년간의",
+          1
         ],
         [
-          "깜짝",
-          2
+          "이정재와",
+          1
         ],
         [
-          "지나",
-          2
+          "마무리",
+          1
         ],
         [
-          "제자와",
-          2
+          "설립한",
+          1
         ],
         [
-          "피감독자간음",
-          2
+          "말머리",
+          1
+        ],
+        [
+          "사항",
+          1
+        ],
+        [
+          "처리",
+          1
+        ],
+        [
+          "위반",
+          1
+        ],
+        [
+          "향후",
+          1
+        ],
+        [
+          "시행",
+          1
+        ],
+        [
+          "필독",
+          1
+        ],
+        [
+          "유의사항",
+          1
+        ],
+        [
+          "가이드",
+          1
         ]
       ],
       "name_freq": [
         [
-          "남경주",
-          6
-        ],
-        [
-          "결혼",
-          5
-        ],
-        [
-          "인정",
-          4
-        ],
-        [
-          "최민희",
-          4
-        ],
-        [
-          "성관계",
+          "안내",
           3
         ],
         [
-          "강호동",
+          "근황",
           3
         ],
         [
-          "부인",
-          3
-        ],
-        [
-          "강유정",
-          3
-        ],
-        [
-          "중징계",
-          3
-        ],
-        [
-          "민주",
-          3
-        ],
-        [
-          "골프대",
+          "조치",
           2
         ],
         [
-          "아들",
+          "나스닥",
           2
         ],
         [
-          "전국",
-          2
-        ],
-        [
-          "아빠",
-          2
-        ],
-        [
-          "준우승",
+          "콘서트",
           2
         ]
       ],
       "angle_scores": [
         [
-          "자산·몸값",
-          6
-        ],
-        [
-          "결혼·이혼",
-          10
-        ],
-        [
           "복귀·근황",
-          2
-        ],
-        [
-          "투병·건강",
-          3
-        ],
-        [
-          "스포츠",
-          6
-        ],
-        [
-          "가족·혈연",
-          7
+          4
         ]
       ]
-    },
-    "초구딱": {
-      "article_count": 0,
-      "topics": [],
-      "keyword_freq": [],
-      "name_freq": [],
-      "angle_scores": []
     }
   },
-  "topics": [],
-  "all_topics": [
+  "topics": [
     {
-      "title": "\"강호동이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
-      "angle_type": "가족·혈연",
-      "article_count": 7,
-      "source_article": "강호동 아들 강시후, 전국 골프대회 준우승 '쾌거'..아빠 피 물려받았네",
-      "source_url": "https://m.entertain.naver.com/article/109/0005645975",
-      "source_name": "엔터 많이 본 뉴스",
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 4,
+      "source_article": "재결합한 핑클 비주얼 근황",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611270120340470&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
       "related_names": [
-        "강호동",
-        "아들",
-        "아빠",
-        "잡은",
-        "강시후"
+        "근황",
+        "김보름",
+        "실시간",
+        "야선",
+        "재결합"
       ],
-      "template": "동갑내기",
-      "score": 7.2,
+      "template": "장기 공백 복귀",
+      "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -655,29 +1104,25 @@
       "table": {
         "headers": [
           "이름",
-          "나이",
-          "대표작",
-          "현재 활동"
+          "공백 기간",
+          "공백 사유",
+          "복귀 작품"
         ]
       },
-      "channel": "정보주는하마"
+      "channel": "초구딱"
     },
     {
-      "title": "\"강호동, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
-      "angle_type": "스포츠",
-      "article_count": 6,
-      "source_article": "강호동 아들 강시후, 전국 골프대회 준우승 '쾌거'..아빠 피 물려받았네",
-      "source_url": "https://m.entertain.naver.com/article/109/0005645975",
-      "source_name": "엔터 많이 본 뉴스",
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
       "related_names": [
-        "강호동",
-        "아들",
-        "강시후",
-        "전국",
-        "골프대"
+        "안내"
       ],
-      "template": "스포츠 기록",
-      "score": 7.2,
+      "template": "인맥",
+      "score": 6.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -687,27 +1132,62 @@
       },
       "table": {
         "headers": [
-          "선수",
-          "소속팀",
-          "기록 내용",
-          "기록 가치"
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
+    }
+  ],
+  "all_topics": [
+    {
+      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
+      "angle_type": "결혼·이혼",
+      "article_count": 5,
+      "source_article": "'재혼' 오윤아, ♥4살 연하 남편과 웨딩 촬영…발리서 꼭 붙어 '달달' (Oh!윤아)",
+      "source_url": "https://m.entertain.naver.com/article/311/0002084796",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "결혼",
+        "재혼",
+        "오윤아",
+        "연하",
+        "남편과"
+      ],
+      "template": "결혼 화제",
+      "score": 7.1,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "배우자",
+          "결혼 시점",
+          "화제 포인트"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"손연재, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
+      "title": "\"만원, 자산이 이 정도였다고?\" 연예인 숨은 자산 서열 TOP10",
       "angle_type": "자산·몸값",
-      "article_count": 6,
-      "source_article": "손연재♥이준효, 연세의료원서 동반 포착…고위험 산모 위해 30억 기부",
-      "source_url": "https://m.entertain.naver.com/article/311/0002084706",
+      "article_count": 9,
+      "source_article": "깨진 ‘청담부부’···정우성, 1.4억 찍고 이정재 떠났다",
+      "source_url": "https://m.entertain.naver.com/article/144/0001152057",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "손연재",
-        "억원",
-        "재산",
+        "만원",
         "신고",
-        "이준효"
+        "깨진",
+        "청담부",
+        "정우성"
       ],
       "template": "자산 서열",
       "score": 7.0,
@@ -729,21 +1209,21 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"결혼 결혼 상대가 누구?\" 화제의 결혼 발표 스타 TOP10",
-      "angle_type": "결혼·이혼",
-      "article_count": 10,
-      "source_article": "'박주호♥' 안나, 배가 유독 불렀다 했더니…역시 넷째 출산 코앞 \"일주일 남았다\" (안나와)",
-      "source_url": "https://m.entertain.naver.com/article/311/0002084481",
+      "title": "\"홍민기까지 이럴 줄은...\" 올해 팬들 분노 터진 스타 TOP10",
+      "angle_type": "논란·사건",
+      "article_count": 6,
+      "source_article": "'홍민기 스캔들 폭로' 전여친 A씨, 실종돼 수색 中",
+      "source_url": "https://m.entertain.naver.com/article/440/0000054479",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "결혼",
-        "박주호",
-        "안나",
-        "배가",
-        "유독"
+        "홍민기",
+        "폭로",
+        "실종",
+        "마포대",
+        "사생활"
       ],
-      "template": "결혼 화제",
-      "score": 6.8,
+      "template": "논란 집합",
+      "score": 7.0,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -754,24 +1234,28 @@
       "table": {
         "headers": [
           "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"남경주 결혼설?\" 남경주 연애사 총정리",
-      "angle_type": "👤 남경주",
-      "article_count": 6,
-      "source_article": "\"여제자 성기서 男DNA 확인..남경주 '성관계 인정'해 대조 안 해\"",
-      "source_url": "https://m.entertain.naver.com/article/108/0003490672",
+      "title": "\"아빠이랑 형제였다고?\" 놀라운 연예계 가족 TOP10",
+      "angle_type": "가족·혈연",
+      "article_count": 5,
+      "source_article": "'딸 아빠' 남경주 \"女제자와 '키스' CCTV, 로맨틱 이별 장면\"..피감독자간음 부인하며 궤변",
+      "source_url": "https://m.entertain.naver.com/article/108/0003490675",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "남경주"
+        "아빠",
+        "아들",
+        "남경주",
+        "제자와",
+        "키스"
       ],
-      "template": "결혼 화제",
+      "template": "동갑내기",
       "score": 6.8,
       "dup_check": {
         "is_duplicate": false,
@@ -783,9 +1267,9 @@
       "table": {
         "headers": [
           "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
+          "나이",
+          "대표작",
+          "현재 활동"
         ]
       },
       "channel": "정보주는하마"
@@ -793,16 +1277,16 @@
     {
       "title": "\"죽을 고비 넘기고 돌아왔다\" 투병 이겨낸 스타 TOP10",
       "angle_type": "투병·건강",
-      "article_count": 3,
+      "article_count": 4,
       "source_article": "하정우 ♥결혼 앞두고…'80세' 김용건, 수술 사실 고백 \"후유증으로 병원 다녀\" ('그사친')",
       "source_url": "https://m.entertain.naver.com/article/312/0000786391",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "수술",
         "하정우",
         "결혼",
         "앞두고",
-        "김용건"
+        "김용건",
+        "수술"
       ],
       "template": "투병 극복",
       "score": 6.7,
@@ -824,17 +1308,17 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"부인 결혼설?\" 부인 연애사 총정리",
-      "angle_type": "👤 부인",
-      "article_count": 3,
-      "source_article": "남경주, 제자와 성관계 인정..\"위력 행사 안 했다\" 피감독자간음 혐의는 전면 부인",
-      "source_url": "https://m.entertain.naver.com/article/108/0003490654",
+      "title": "\"마포대, 대체 무슨 일이?\" 마포대 관련 이슈 총정리",
+      "angle_type": "👤 마포대",
+      "article_count": 6,
+      "source_article": "홍민기 전 연인 실종…마포대교서 마지막 휴대전화 신호",
+      "source_url": "https://m.entertain.naver.com/article/003/0014350267",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "부인"
+        "마포대"
       ],
-      "template": "결혼 화제",
-      "score": 6.3,
+      "template": "논란 집합",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -845,25 +1329,54 @@
       "table": {
         "headers": [
           "이름",
-          "배우자",
-          "결혼 시점",
-          "화제 포인트"
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"인정\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 인정",
+      "title": "\"실종, 대체 무슨 일이?\" 실종 관련 이슈 총정리",
+      "angle_type": "👤 실종",
+      "article_count": 6,
+      "source_article": "홍민기 전 연인 실종…마포대교서 마지막 휴대전화 신호",
+      "source_url": "https://m.entertain.naver.com/article/003/0014350267",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "실종"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"폭로, 대체 무슨 일이?\" 폭로 관련 이슈 총정리",
+      "angle_type": "👤 폭로",
       "article_count": 4,
-      "source_article": "\"여제자 성기서 男DNA 확인..남경주 '성관계 인정'해 대조 안 해\"",
-      "source_url": "https://m.entertain.naver.com/article/108/0003490672",
+      "source_article": "'홍민기 스캔들 폭로' 전여친 A씨, 실종돼 수색 中",
+      "source_url": "https://m.entertain.naver.com/article/440/0000054479",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "인정"
+        "폭로"
       ],
-      "template": "인맥",
-      "score": 6.0,
+      "template": "논란 집합",
+      "score": 6.5,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -874,80 +1387,80 @@
       "table": {
         "headers": [
           "이름",
-          "분류",
-          "이슈 내용",
+          "소속·직업",
+          "논란 내용",
           "현재 상황"
         ]
       },
       "channel": "정보주는하마"
     },
     {
-      "title": "\"최민희\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 최민희",
+      "title": "\"사생활, 대체 무슨 일이?\" 사생활 관련 이슈 총정리",
+      "angle_type": "👤 사생활",
+      "article_count": 3,
+      "source_article": "‘홍민기 사생활 폭로’ 전 여자친구 실종…마포대교 일대서 수색 작업 중",
+      "source_url": "https://m.entertain.naver.com/article/609/0001191944",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "사생활"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"여자친, 대체 무슨 일이?\" 여자친 관련 이슈 총정리",
+      "angle_type": "👤 여자친",
+      "article_count": 3,
+      "source_article": "‘홍민기 사생활 폭로’ 전 여자친구 실종…마포대교 일대서 수색 작업 중",
+      "source_url": "https://m.entertain.naver.com/article/609/0001191944",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "여자친"
+      ],
+      "template": "논란 집합",
+      "score": 6.5,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"마지막, 대체 무슨 일이?\" 마지막 관련 이슈 총정리",
+      "angle_type": "👤 마지막",
       "article_count": 4,
-      "source_article": "민주 윤리심판원 \"최민희 의원 중징계 처분 의결\"",
-      "source_url": "https://n.news.naver.com/article/052/0002439068?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
-      "related_names": [
-        "최민희"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"성관계\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 성관계",
-      "article_count": 3,
-      "source_article": "\"여제자 성기서 男DNA 확인..남경주 '성관계 인정'해 대조 안 해\"",
-      "source_url": "https://m.entertain.naver.com/article/108/0003490672",
+      "source_article": "홍민기 전 연인 실종…마포대교서 마지막 휴대전화 신호",
+      "source_url": "https://m.entertain.naver.com/article/003/0014350267",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "성관계"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"강유정, 대체 무슨 일이?\" 강유정 관련 이슈 총정리",
-      "angle_type": "👤 강유정",
-      "article_count": 3,
-      "source_article": "강유정, 과거 교통사고로 100만원 벌금형 약식명령 전력",
-      "source_url": "https://n.news.naver.com/article/052/0002438956?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
-      "related_names": [
-        "강유정"
+        "마지막"
       ],
       "template": "논란 집합",
       "score": 6.0,
@@ -969,79 +1482,112 @@
       "channel": "정보주는하마"
     },
     {
-      "title": "\"중징계\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 중징계",
+      "title": "\"교서, 대체 무슨 일이?\" 교서 관련 이슈 총정리",
+      "angle_type": "👤 교서",
       "article_count": 3,
-      "source_article": "민주 윤리심판원 \"최민희 의원 중징계 처분 의결\"",
-      "source_url": "https://n.news.naver.com/article/052/0002439068?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
-      "related_names": [
-        "중징계"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"민주\" 관련 화제 스타 TOP10",
-      "angle_type": "👤 민주",
-      "article_count": 3,
-      "source_article": "민주 윤리심판원 \"최민희 의원 중징계 처분 의결\"",
-      "source_url": "https://n.news.naver.com/article/052/0002439068?ntype=RANKING",
-      "source_name": "[폴백] 스포츠 랭킹",
-      "related_names": [
-        "민주"
-      ],
-      "template": "인맥",
-      "score": 6.0,
-      "dup_check": {
-        "is_duplicate": false,
-        "status": "통과",
-        "matched_title": "",
-        "matched_views": 0,
-        "reason": ""
-      },
-      "table": {
-        "headers": [
-          "이름",
-          "분류",
-          "이슈 내용",
-          "현재 상황"
-        ]
-      },
-      "channel": "정보주는하마"
-    },
-    {
-      "title": "\"그때 그 사람, 지금은?\" 근황 궁금한 스타 TOP10",
-      "angle_type": "복귀·근황",
-      "article_count": 2,
-      "source_article": "“지나 맞아?” 자취 감춘 10년 사이…세월 흔적 역력한 근황 ‘깜짝’",
-      "source_url": "https://m.entertain.naver.com/article/468/0001283788",
+      "source_article": "홍민기 전 연인 실종…마포대교서 마지막 휴대전화 신호",
+      "source_url": "https://m.entertain.naver.com/article/003/0014350267",
       "source_name": "엔터 많이 본 뉴스",
       "related_names": [
-        "지나",
-        "맞아",
-        "자취",
-        "감춘",
-        "세월"
+        "교서"
+      ],
+      "template": "논란 집합",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"남경주, 대체 무슨 일이?\" 남경주 관련 이슈 총정리",
+      "angle_type": "👤 남경주",
+      "article_count": 3,
+      "source_article": "'딸 아빠' 남경주 \"女제자와 '키스' CCTV, 로맨틱 이별 장면\"..피감독자간음 부인하며 궤변",
+      "source_url": "https://m.entertain.naver.com/article/108/0003490675",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "남경주"
+      ],
+      "template": "논란 집합",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "소속·직업",
+          "논란 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"아빠, 역대급 기록?\" 스포츠 레전드 기록 TOP10",
+      "angle_type": "스포츠",
+      "article_count": 2,
+      "source_article": "'딸 아빠' 남경주 \"女제자와 '키스' CCTV, 로맨틱 이별 장면\"..피감독자간음 부인하며 궤변",
+      "source_url": "https://m.entertain.naver.com/article/108/0003490675",
+      "source_name": "엔터 많이 본 뉴스",
+      "related_names": [
+        "아빠",
+        "남경주",
+        "제자와",
+        "키스",
+        "로맨틱"
+      ],
+      "template": "스포츠 기록",
+      "score": 5.8,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "선수",
+          "소속팀",
+          "기록 내용",
+          "기록 가치"
+        ]
+      },
+      "channel": "정보주는하마"
+    },
+    {
+      "title": "\"근황, 지금 뭐 하고 있을까?\" 근황 궁금한 스타 TOP10",
+      "angle_type": "복귀·근황",
+      "article_count": 4,
+      "source_article": "재결합한 핑클 비주얼 근황",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?id=202611270120340470&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "근황",
+        "김보름",
+        "실시간",
+        "야선",
+        "재결합"
       ],
       "template": "장기 공백 복귀",
-      "score": 5.8,
+      "score": 6.3,
       "dup_check": {
         "is_duplicate": false,
         "status": "통과",
@@ -1057,60 +1603,73 @@
           "복귀 작품"
         ]
       },
-      "channel": "정보주는하마"
+      "channel": "초구딱"
+    },
+    {
+      "title": "\"안내\" 관련 화제 스타 TOP10",
+      "angle_type": "👤 안내",
+      "article_count": 3,
+      "source_article": "[필독] 뉴스저작물 인용 관련 유의사항 및 가이드 안내",
+      "source_url": "https://mlbpark.donga.com/mp/b.php?p=1&b=notice&id=202508070000001926",
+      "source_name": "MLB파크 불펜",
+      "related_names": [
+        "안내"
+      ],
+      "template": "인맥",
+      "score": 6.0,
+      "dup_check": {
+        "is_duplicate": false,
+        "status": "통과",
+        "matched_title": "",
+        "matched_views": 0,
+        "reason": ""
+      },
+      "table": {
+        "headers": [
+          "이름",
+          "분류",
+          "이슈 내용",
+          "현재 상황"
+        ]
+      },
+      "channel": "초구딱"
     }
   ],
   "keyword_freq": [
     [
-      "남경주",
+      "홍민기",
+      7
+    ],
+    [
+      "실종",
       6
     ],
     [
-      "결혼",
-      5
-    ],
-    [
-      "인정",
+      "마지막",
       4
     ],
     [
-      "최민희",
+      "폭로",
       4
     ],
     [
-      "성관계",
+      "마포대교서",
       3
     ],
     [
-      "강호동",
+      "남경주",
       3
     ],
     [
-      "부인",
+      "사생활",
       3
     ],
     [
-      "강유정",
+      "여자친구",
       3
     ],
     [
-      "중징계",
-      3
-    ],
-    [
-      "민주",
-      3
-    ],
-    [
-      "골프대회",
-      2
-    ],
-    [
-      "아들",
-      2
-    ],
-    [
-      "전국",
+      "신호",
       2
     ],
     [
@@ -1118,81 +1677,85 @@
       2
     ],
     [
-      "준우승",
+      "아들",
       2
     ],
     [
-      "강시후",
+      "수색",
       2
     ],
     [
-      "깜짝",
+      "연하",
       2
     ],
     [
-      "지나",
+      "마포대교",
       2
     ],
     [
-      "제자와",
+      "이동연",
       2
     ],
     [
-      "피감독자간음",
+      "팬레터",
+      2
+    ],
+    [
+      "결혼",
+      2
+    ],
+    [
+      "성폭행",
+      2
+    ],
+    [
+      "그냥사람친구",
+      2
+    ],
+    [
+      "하루",
       2
     ]
   ],
   "name_freq": [
     [
-      "남경주",
+      "홍민기",
+      7
+    ],
+    [
+      "마포대",
       6
     ],
     [
-      "결혼",
-      5
+      "실종",
+      6
     ],
     [
-      "인정",
+      "마지막",
       4
     ],
     [
-      "최민희",
+      "폭로",
       4
     ],
     [
-      "성관계",
+      "교서",
       3
     ],
     [
-      "강호동",
+      "남경주",
       3
     ],
     [
-      "부인",
+      "사생활",
       3
     ],
     [
-      "강유정",
+      "여자친",
       3
     ],
     [
-      "중징계",
-      3
-    ],
-    [
-      "민주",
-      3
-    ],
-    [
-      "골프대",
-      2
-    ],
-    [
-      "아들",
-      2
-    ],
-    [
-      "전국",
+      "신호",
       2
     ],
     [
@@ -1200,11 +1763,23 @@
       2
     ],
     [
-      "준우승",
+      "아들",
+      2
+    ],
+    [
+      "수색",
+      2
+    ],
+    [
+      "연하",
+      2
+    ],
+    [
+      "이동연",
       2
     ]
   ],
-  "total_topics_generated": 14,
-  "valid_topics": 14,
+  "total_topics_generated": 16,
+  "valid_topics": 16,
   "excluded_duplicates": 0
 }
